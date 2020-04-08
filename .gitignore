@@ -1,0 +1,9 @@
+*.zip
+/CORD-19-research-challenge/*
+/data/*
+/data_processed/*
+/glove/*
+/flair_models/*
+/pdfs/*
+/tagtog/*
+/xml/*

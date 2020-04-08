@@ -1,0 +1,159 @@
+Effect Size:
+
+[ \
+"r ( 29 ) .48", \
+"r2 0.45 0.48 0.51 0.25", \
+"r2 .192 .252 .194 .186", \
+"r = .56 , .65", \
+"r = .25", \
+"r = 0.47", \
+"r2 .27 .27 .26", \
+"r .37", \
+"r ( 33 ) = −.34", \
+"r2 = .28 r2 = .26", \
+"r ¼ 0.14", \
+"r < .30", \
+"r ¼ .89", \
+"r 5 0.62", \
+"r 2 .9", \
+"r 2 20 .1", \
+"r .642 , 95 % ci [ .52", \
+"r = .08 , ci = .01", \
+"adjusted r2 .52 .61 .60", \
+"r2glmm ( m ) = 0.22", \
+"r 2 glmm ( c ) = 0.59", \
+"r-squared .616 .684 .693 .626 .569 .790", \
+"r ( 35 ) =−.39", \
+"r =0.43", \
+"r –.71", \
+"r2 .77 — .79", \
+"r2 1.72 1.98 0.66 #", \
+"r2 0.18 and 0.20", \
+"r ranged from .77", \
+"pseudo-r2 0.291 0.306 0.299 0.302", \
+"r2 extraversion¼ .48", \
+"r2 = .46 versus .44" \
+]
+
+[ \
+"r 1975 1980 1985 1990 1995 2000 2005 50 60", \
+"r ( 29 )", \
+"r ) .75 9", \
+"constant 0.814 0.808 0.812 0.810 0.816 0.809 0.815 0.810", \
+"−1.979∗∗ 0.288 0.138 −0.824∗∗ 0.283 0.439 0.807∗∗ 0.232 2.241 0.428 0.402 1.534",\
+"r invest = 3w" \
+]
+
+
+P Value:
+
+[ \
+"p .407", \
+"p b .05", \
+"p= .001", \
+"p ¼ 0.50", \
+"p = 0.81.f", \
+"p \ .05", \
+"p\ .01", \
+"p 2 .018", \
+"p¼ .02", \
+"p ’ s > .31", \
+"p= .23", \
+"p=.32", \
+"pb.001", \
+"p =.80", \
+"p=.88 g2", \
+"p¼ .05", \
+"p = 0.736.6.3", \
+"p = 0.81.f" \
+]
+
+[ \
+"p < .01", \
+"*p < .05", \
+"se = 0.090", \
+"percent = .05", \
+"× .001", \
+"p ¼", \
+"wald = .73" \
+]
+
+
+Sample Size:
+
+[ \
+"fifty-two", \
+"one-hundred", \
+"thirteen", \
+"175", \
+"1,403", \
+"144 supervisor–employee", \
+"dyads.3 sixty-five", \
+"182 full-time", \
+"hundred nineteen", \
+"hundred and thirty-one", \
+"hundred", \
+"hundred and", \
+"four hundred twenty-eight"
+]
+
+[ \
+"offenders", \
+"¼", \
+"and twenty-one" \
+]
+
+
+Study:
+
+[ \
+"studies 1a and 1b", \
+"study 3", \
+"experiments 1 and 2", \
+"experiment 3", \
+"studies 2–4", \
+"experiments 1a & 1b", \
+"studies 1 through 3", \
+"study 1/study 2"
+]
+
+[ \
+"study manipulates", \
+"studies indi-", \
+"study supercenters", \
+"studies 23" \
+]
+
+
+Test:
+
+[ \
+"models 4 and 5", \
+"model 4a", \
+"models 4–7", \
+"result 1", \
+"models 2 through 4", \
+"models 1 , 2", \
+"model 5a", \
+"model 5 ( mfn", \
+"model 6 ) level 1", \
+"model ( 4 )", \
+"models ( 4 ) through ( 6 )", \
+"model 6 : 2" \
+]
+
+[ \
+"equations 3 and 4", \
+"version 1", \
+"model ( zinb", \
+"model 72", \
+"model ) 117,658 ( 117,709", \
+"covariance model and ( 2" \
+]
+
+
+Test Name:
+
+[]
+
+[]
