@@ -13,7 +13,7 @@ model_num = '7'
 
 tagger = SequenceTagger.load('./flair_models/score_'+model_num+'/final-model.pt') # load to gpu:0 by default, use CUDA_VISIBLE_DEVICES=x
 
-data_source = 'biomed'
+data_source = 'TA1'
 if data_source == 'TA1':
     postfix = ''
 elif data_source == 'RPP':
@@ -22,7 +22,7 @@ elif data_source == 'biomed':
     postfix = '_biomed'
 
 data, curr_data, curr_id = {}, [], None
-with open("score/raw_all"+postfix+".txt", 'r') as f:
+with open("data_processed/raw_all"+postfix+".txt", 'r') as f:
     f.readline()
     curr_id = f.readline()[:-1]
     while True:
@@ -40,27 +40,52 @@ with open("score/raw_all"+postfix+".txt", 'r') as f:
 all_pred = {}
 for id, sents in data.items():
     curr_pred = defaultdict(lambda: [])
-    for sent in sents:
+    claim4_sents_idx = []
+    for i in range(len(sents)):
+        sent = sents[i]
+        # for TA1 only: store sent idx that contain claim4
+        if data_source == 'TA1':
+            if sent.startswith("<<claim4>>"):
+                sent = sent[10:]
+                claim4_sents_idx.append(i)
         sent = sent.split(' ')
         sentence = Sentence(' '.join(sent))
         _ = tagger.predict(sentence)
         pred_spans = sentence.get_spans('ner')
+        # for TA1 only: store sent idx that contain effect sizes or p-values
         for s in pred_spans:
-            curr_pred[s.tag].append(s.text)
+            if data_source == 'TA1' and s.tag in ['ES', 'PV']:
+                curr_pred[s.tag].append([s.text, i])
+            else:
+                curr_pred[s.tag].append(s.text)
     
-    all_pred[id] = dict(curr_pred)
+    # for TA1 only: calculate distance between the sentence and nearest claim4
+    curr_pred = dict(curr_pred)
+    if data_source == 'TA1':
+        for k in ['ES', 'PV']:
+            if not k in curr_pred:
+                continue
+            for i in range(len(curr_pred[k])):
+                if not claim4_sents_idx:
+                    curr_pred[k][i][1] = None # if no claim4 found, give None
+                else:
+                    sent_idx = curr_pred[k][i][1]
+                    curr_pred[k][i][1] = sorted([sent_idx - r for r in claim4_sents_idx], key=lambda x:abs(x))[0]
+    
+    all_pred[id] = curr_pred
+    
 
-# inspect predictions
-all_types = list(set([rr for r in all_pred.values() for rr in r]))
-type = 'PV'
-all_mentions = []
-for r in [r[type] for r in all_pred.values() if type in r]:
-    for rr in r:
-        all_mentions.append(rr)
+# inspect predictions (need modification for TA1)
+# all_types = list(set([rr for r in all_pred.values() for rr in r]))
+# type = 'PV'
+# all_mentions = []
+# for r in [r[type] for r in all_pred.values() if type in r]:
+    # for rr in r:
+        # all_mentions.append(rr)
 
-ent = set(all_mentions)
-for e in ent:
-    print(e, '     ', process_pred(type, e))
+# ent = set(all_mentions)
+# for e in ent:
+    # print(e, '     ', process_pred(type, e))
 
 # filter & normalize predictions
 word2number = {'zero':0,'a':1,'one':1,'two':2,'three':3,'four':4,'five':5,'six':6,'seven':7,'eight':8,'nine':9,\
@@ -276,20 +301,34 @@ for id, preds in all_pred.items():
         curr_output['Number of Studies'] = None
     
     if 'PV' in preds:
-        processed = [process_pred('PV', r) for r in preds['PV']]
-        processed = [r for r in processed if r]
-        processed = [r for rr in processed for r in rr[1]]
+        if data_source == 'TA1':
+            processed = [[process_pred('PV', r[0]), r[1]] for r in preds['PV']]
+            processed = [r for r in processed if r[0]]
+            processed = [[rr, r[1]] for r in processed for rr in r[0][1]]
+            processed = sorted(processed, key=lambda x:abs(x[1])) # sort on distance from nearest claim4 sent
+        else:
+            processed = [process_pred('PV', r) for r in preds['PV']]
+            processed = [r for r in processed if r]
+            processed = [r for rr in processed for r in rr[1]]
         curr_output['P Values'] = processed
     else:
         curr_output['P Values'] = None
     
     if 'ES' in preds:
-        processed = [process_pred('ES', r) for r in preds['ES']]
-        processed = [r for r in processed if r]
-        r = [x for x in processed if x[0] == 'r']
-        R2 = [x for x in processed if x[0] == 'R2']
-        r = [x for xx in r for x in xx[1]]
-        R2 = [x for xx in R2 for x in xx[1]]
+        if data_source == 'TA1':
+            processed = [[process_pred('ES', r[0]), r[1]] for r in preds['ES']]
+            processed = [r for r in processed if r[0]]
+            r = [x for x in processed if x[0][0] == 'r']
+            R2 = [x for x in processed if x[0][0] == 'R2']
+            r = [[xx, x[1]] for x in r for xx in x[0][1]]
+            R2 = [[xx, x[1]] for x in R2 for xx in x[0][1]]
+        else:
+            processed = [process_pred('ES', r) for r in preds['ES']]
+            processed = [r for r in processed if r]
+            r = [x for x in processed if x[0] == 'r']
+            R2 = [x for x in processed if x[0] == 'R2']
+            r = [x for xx in r for x in xx[1]]
+            R2 = [x for xx in R2 for x in xx[1]]
         if r:
             curr_output['Effect Sizes - r'] = r
         else:
@@ -315,6 +354,9 @@ for id, preds in all_pred.items():
 
 
 # write to file
+if data_source == 'TA1':
+    postfix = "_with_claim4"
+
 with open("./flair_pred/extraction_result_"+model_num+postfix+".csv", 'w') as f:
     f.write('Paper ID,Sample Sizes,Model Names,Number of Models/Tests,'
             'Number of Studies,P Values,Effect Sizes - r,Effect Sizes - R2\n')

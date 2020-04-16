@@ -1,7 +1,8 @@
 import os, re, json
 from collections import defaultdict, Counter
+from nltk.tokenize import sent_tokenize, word_tokenize
 
-data_source = 'biomed'
+data_source = 'TA1'
 
 if data_source == 'TA1':
     raw_dir = "./tagtog/tokenized"
@@ -10,9 +11,11 @@ if data_source == 'TA1':
 
     metadata = json.load(open("./data/SCORE_json.json"))
     filename2id = {r['pdf_filename']:r['paper_id'] for r in metadata['data']}
+    metadata = {r['pdf_filename']:r for r in metadata['data']}
 
     fout = open("./data_processed/raw_all.txt", 'w')
     data = []
+    diffs = []
     for f in raw_files:
         content = open(raw_dir+'/'+f).readlines()
         content = [r[:-1] for r in content]
@@ -20,8 +23,16 @@ if data_source == 'TA1':
         assert not '' in content and not '----NEW DOC----' in content
         filename = [r for r in filename2id if f.split('.')[0].split('_')[-1] in r]
         assert len(filename) == 1
+        filename = filename[0]
+        # as requested, extract features (effect sizes, p-values) around claim4
+        claim4 = [r for r in metadata[filename]['claim4_inftest'].split(' | ') if r.count(' ') > 2]
+        claim4_chars = [re.sub('\W', '', r.replace(" ", "")) for r in claim4]
+        for i in range(len(content)):
+            content_i_chars = re.sub('\W', '', content[i].replace(" ", ""))
+            if any([r in content_i_chars for r in claim4_chars]):
+                content[i] = "<<claim4>>" + content[i] # this sentence contains claim4
         
-        fout.write('----NEW DOC----\n'+filename2id[filename[0]]+'\n'+'\n'.join(content).lower() + '\n')
+        fout.write('----NEW DOC----\n'+filename2id[filename]+'\n'+'\n'.join(content).lower() + '\n')
 
 elif data_source == 'RPP':
     raw_dir = "./tagtog/tokenized_RPP"
@@ -71,7 +82,11 @@ elif data_source == 'biomed':
             for s in cite_spans:
                 text = text[:s[0]] + text[(s[1]+1):]
             
+            sents = sent_tokenize(text)
+            words = [word_tokenize(t) for t in sents]
+            
             # fout.write(text.lower() + '\n')
-            fout.write(text + '\n')
+            for s in words:
+                fout.write(" ".join(s).lower() + '\n')
 
 

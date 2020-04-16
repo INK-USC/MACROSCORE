@@ -44,3 +44,7 @@
 8. Run ```process_raw.py``` to get ```data_processed/raw_all*.txt``` for predicting
 9. Run ```flair_predict.py``` to make prediction
 10. Final result is in ```flair_pred/```
+
+Additional notes for ```flair_predict.py```: In this script I first use flair to predict on sentences, then use rule-based method to normalize the prediction (e.g., "R2 = 0.4" -> \["R2", 0.4\]; "eighty-six" -> 86). I manually inspect on predictions and summarize patterns of extracted spans (```flair_pred/patterns.txt``` containing good and bad patterns), and then develop methods to process the patterns.
+
+
