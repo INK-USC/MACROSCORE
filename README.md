@@ -47,4 +47,6 @@
 
 Additional notes for ```flair_predict.py```: In this script I first use flair to predict on sentences, then use rule-based method to normalize the prediction (e.g., ```"R2 = 0.4"``` -> ```["R2", 0.4]```; ```"eighty-six"``` -> ```86```). I manually inspect on predictions and summarize patterns of extracted spans (```flair_pred/patterns.txt``` containing good and bad patterns), and then develop methods to process the patterns.
 
+New request: For TA1, find effect sizes (ES) and p-values (PV) around claim 4 (inferencial test, included in TA1 metadata). I instead calculate its distance (# sentences away) from the nearest claim 4 for every effect size and p-value extracted. Details can be found in the Explanation doc in the Google Drive.
+
 

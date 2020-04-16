@@ -305,7 +305,7 @@ for id, preds in all_pred.items():
             processed = [[process_pred('PV', r[0]), r[1]] for r in preds['PV']]
             processed = [r for r in processed if r[0]]
             processed = [[rr, r[1]] for r in processed for rr in r[0][1]]
-            processed = sorted(processed, key=lambda x:abs(x[1])) # sort on distance from nearest claim4 sent
+            processed = sorted(processed, key=lambda x:(abs(x[1]) if not x[1] is None else 1e9)) # sort on distance from nearest claim4 sent
         else:
             processed = [process_pred('PV', r) for r in preds['PV']]
             processed = [r for r in processed if r]
@@ -321,7 +321,9 @@ for id, preds in all_pred.items():
             r = [x for x in processed if x[0][0] == 'r']
             R2 = [x for x in processed if x[0][0] == 'R2']
             r = [[xx, x[1]] for x in r for xx in x[0][1]]
+            r = sorted(r, key=lambda x:(abs(x[1]) if not x[1] is None else 1e9))
             R2 = [[xx, x[1]] for x in R2 for xx in x[0][1]]
+            R2 = sorted(R2, key=lambda x:(abs(x[1]) if not x[1] is None else 1e9))
         else:
             processed = [process_pred('ES', r) for r in preds['ES']]
             processed = [r for r in processed if r]
