@@ -37,16 +37,23 @@
 1. Obtain papers in pdf (if papers already parsed, jump to 3.)
 2. Parse pdfs using tagtog (into ```tagtog/plain.html*```)
 3. Run ```read_tagtog.py``` to get tokenized text from parsed pdfs
-4. Run ```process_annotations.py``` to get ```data_processed/data.json```
-5. Run ```make_data.py``` to get training & testing data from ```data_processed/data.json``` to ```data_processed/train.txt, test.txt```
-6. Run ```flair_train.py``` (in ```flair_run.sh```) to train a model
-7. Run ```flair_eval.py``` (in ```flair_run.sh```) to test
-8. Run ```process_raw.py``` to get ```data_processed/raw_all*.txt``` for predicting
-9. Run ```flair_predict.py``` to make prediction
-10. Final result is in ```flair_pred/```
+4. Manually add annotations (put into ```tagtog/annotated```)
+5. Run ```process_annotations.py``` to get ```data_processed/data.json```
+6. Run ```make_data.py``` to get training & testing data from ```data_processed/data.json``` to ```data_processed/train.txt, test.txt```
+7. Run ```flair_train.py``` (in ```flair_run.sh```) to train a model
+8. Run ```flair_eval.py``` (in ```flair_run.sh```) to test
+9. Run ```process_raw.py``` to get ```data_processed/raw_all*.txt``` for predicting
+10. Run ```flair_predict.py``` to make prediction
+11. Final result is in ```flair_pred/```
 
 Additional notes for ```flair_predict.py```: In this script I first use flair to predict on sentences, then use rule-based method to normalize the prediction (e.g., ```"R2 = 0.4"``` -> ```["R2", 0.4]```; ```"eighty-six"``` -> ```86```). I manually inspect on predictions and summarize patterns of extracted spans (```flair_pred/patterns.txt``` containing good and bad patterns), and then develop methods to process the patterns.
 
+#### Update 04/13
 New request: For TA1, find effect sizes (ES) and p-values (PV) around claim 4 (inferencial test, included in TA1 metadata). I instead calculate its distance (# sentences away) from the nearest claim 4 for every effect size and p-value extracted. Details can be found in the Explanation doc in the Google Drive.
 
-
+#### Update 04/20
+Added ```covid_analyze.py``` for extracting covid-19 papers (vs. papers talking about other coronavirus)
+Todo:
+1. Ask Jay for the claim annotations for CORD-19 papers
+2. Look into Topic Forest: provides tree-like topics for CORE-19 papers to extract covid-19 related papers (http://topicforest.com/queryterm/covid_19/topictree)
+3. Variable identification on a small subset of CORD: can discuss with Daniel
