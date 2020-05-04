@@ -48,6 +48,8 @@ mentioned_files_sha = [r.split('/')[-1][:-5] for r in mentioned_files]
 mentioned_files_pos = [sha.index(r) for r in mentioned_files_sha]
 new_order = [0] + mentioned_files_pos + [i for i in range(len(sha)) if not i in [0] + mentioned_files_pos]
 new_metadata = [metadata[i] for i in new_order]
-open("./data/COVID_areas_reordered.csv", 'w').write(''.join(new_metadata))
+# open("./data/COVID_areas_reordered.csv", 'w').write(''.join(new_metadata))
 
-
+# keep only papers with full text available
+kept_metadata = [r for r in new_metadata if r[0]!=',']
+open("./data/COVID_areas_reordered.csv", 'w').write(''.join(kept_metadata))

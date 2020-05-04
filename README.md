@@ -57,3 +57,11 @@ Todo:
 1. Ask Jay for the claim annotations for CORD-19 papers
 2. Look into Topic Forest: provides tree-like topics for CORE-19 papers to extract covid-19 related papers (http://topicforest.com/queryterm/covid_19/topictree)
 3. Variable identification on a small subset of CORD: can discuss with Daniel
+
+#### Update 05/03
+Added ```find_SBS_papers_cord19.py``` to find CORD19 papers that are similar to TA1 papers (potential SBS papers)
+Method:
+1. Process TA1 papers for phrase extraction: data_processed/raw_all_autophrase.txt
+2. Use AutoPhrase to extract key phrases from TA1 papers (I only used multi-word phrases)
+3. Compute tf-idf matrices of key phrases for both TA1 and CORD19 papers, then compute cosine similarity: find_SBS_papers_cord19.py
+4. Reorder the CORD19 papers based on cosine similarity: data/CORD19_reordered_with_similarity.csv
