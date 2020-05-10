@@ -65,3 +65,10 @@ Method:
 2. Use AutoPhrase to extract key phrases from TA1 papers (I only used multi-word phrases)
 3. Compute tf-idf matrices of key phrases for both TA1 and CORD19 papers, then compute cosine similarity: find_SBS_papers_cord19.py
 4. Reorder the CORD19 papers based on cosine similarity: data/CORD19_reordered_with_similarity.csv
+
+#### Update 05/10
+```data/new_data.xlsx``` contains the replicability labels for RPP papers (columns ```O.within.CI.R```, ```Meta.analysis.significant```, and ```pvalue.label```). The ```Fold_Id``` column is the default split for cross validation.
+```data/doi_to_file_name_data.json``` maps DOI of the paper to its file name.
+```RPP_classify_data.py``` reads the metadata and the text of all (annotated) RPP papers into ```data_processed/RPP_classify_data.json```
+```RPP_classify.py```  computes paper embeddings by simply aggregating word embeddings and build classifiers based on paper embeddings. The results are in ```data/RPP_classify_result.csv```
+
