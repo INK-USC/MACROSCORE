@@ -1,0 +1,263 @@
+{
+    "abstractText": "Snakes are among the most common targets of fears and phobias. In visual detection tasks, adults detect their presence more rapidly than the presence of other kinds of visual stimuli. We report evidence that very young children share this attentional bias. In three experiments, preschool children and adults were asked to find a single target picture among an array of eight distractors. Both the children and the adults detected snakes more rapidly than three types of nonthreatening stimuli (flowers, frogs, and caterpillars). These results provide the first evidence of enhanced visual detection of evolutionarily relevant threat stimuli in young children. Many people\u2014perhaps most\u2014have had the experience of suddenly feeling frightened by the presence of a snake basking in the sun on the path ahead or nearly hidden in the grass alongside. Such fearful reactions occur relatively frequently, as most people have a negative orientation to snakes, and snakes constitute one of the most common objects of intense fears and phobias (Fredrikson, Annas, Rischer, & Wik, 1996; King, 1997). Fearful reactions to snakes have also been observed in a variety of nonhuman primates (e.g., Cook & Mineka, 1989; Yerkes, 1943). The prevalence of snake fear has led some theorists (e.g., \u00d6hman &Mineka, 2001; Seligman, 1970) to consider it to be an example of prepared learning, the idea being that humans have an evolved predisposition to associate snakes with fear. According to this view, poisonous snakes (and spiders) constituted a recurrent threat to survival throughout most of mammalian evolution, so animals that quickly learned to avoid them were more likely to survive, reproduce, and pass on their genes. Consequently, a tendency to readily learn to fear snakes evolved in humans and other mammals. Empirical support for prepared learning of snake fear in humans has come from research with adults showing superior conditioning of fear-relevant responses (e.g., heart rate acceleration) to snake stimuli (see \u00d6hman & Mineka, 2001, for a review). Evidence for prepared learning in nonhuman primates has come from research by Mineka and her colleagues (Cook & Mineka, 1989; \u00d6hman & Mineka, 2001) showing that monkeys very rapidly learn to fear snakes simply from seeing another monkey react fearfully to the presence of a snake. In a related vein, \u00d6hman (1993; \u00d6hman & Mineka, 2001) proposed the existence of an evolved fear module\u2014a neural system that is selectively sensitive to evolutionarily relevant threat stimuli. The evolutionary claim is that individuals who more rapidly detected the stimulus attributes signifying the presence of a poisonous snake or a spider would have been more likely to escape the danger and hence to survive and reproduce. As a consequence, a mechanism supporting the rapid detection of this type of dangerous stimulus evolved. The claim for the existence of a bias toward the rapid detection of evolutionarily relevant threat stimuli has received empirical support from visual search studies showing faster detection of fear-relevant than fear-irrelevant stimuli. \u00d6hman, Flykt, and Esteves (2001) presented participants with matrices consisting of pictures of snakes (fear relevant) and flowers (fear irrelevant). One of the two types of stimuli was designated the target, and each matrix included either a single target or no target. Participants had to decide as quickly as possible whether or not the target was present in each trial. They reliably detected the presence of a snake target among flowers more quickly than a flower target among snakes. The same pattern of results was obtained for spiders versus mushrooms. Moreover, participants who reported being afraid of snakes found snake targets even faster than nonfearful individuals did. The basic finding reported by \u00d6hman et al. (2001)\u2014more rapid detection of snakes and spiders than of non-threat-relevant stimuli\u2014has been replicated by several other investigators (e.g., Lipp, Derakshan, Waters, & Logies, 2004; Tipples, Young, Address correspondence to Vanessa LoBue, University of Virginia, PO Box 400400, Charlottesville, VA 22904, e-mail: vl8m@virginia. edu. PSYCHOLOGICAL SCIENCE 284 Volume 19\u2014Number 3 Copyright r 2008 Association for Psychological Science at St Petersburg State University on January 29, 2014 pss.sagepub.com Downloaded from Quinlan, Broks, & Ellis, 2002). However, some of the results of these studies are inconsistent with the conclusions reached by \u00d6hman et al. In some cases, superior detection was also found for non-threat-relevant animals (e.g., bears, dogs, and kittens; Tipples et al., 2002). In addition, there are reports of superior detection of modern threatening stimuli (e.g., syringes, guns, and knives; Blanchette, 2006; Brosch & Sharma, 2005). Furthermore, in some of these studies, results varied with the number of distractors, contrary to the analysis offered by \u00d6hman et al. All of these visual search results and claims are based on adult participants, who presumably have extensive knowledge about snakes and various kinds and degrees of experience with them (Rachman, 2002). However, if humans have an evolved ability to detect threat-relevant stimuli exceptionally quickly, as proposed by \u00d6hman (\u00d6hman et al., 2001; \u00d6hman & Mineka, 2001), the tendencymight be observable in individuals with relatively little or no experience with such stimuli. Thus, the primary goal of the research reported herewas to take a developmental approach to the topic of threat detection, examining the visual detection of evolutionarily relevant threat stimuli\u2014snakes\u2014by very young children. A second goal was to expand the range of comparison stimuli used to examine the detection of snakes. All of the previous research compared detection of snakes with detection of one or two nonthreat stimuli (typically flowers or plants). In contrast, we compared the detection of snakes with the detection of a variety of other types of stimuli, including, most notably, other animals. These comparisons provide particularly strong tests of the hypothesized advantage for the detection of threat-relevant stimuli.",
+    "authors": [
+        {
+            "affiliations": [],
+            "name": "Vanessa LoBue"
+        },
+        {
+            "affiliations": [],
+            "name": "Judy S. DeLoache"
+        }
+    ],
+    "id": "SP:34b962506d8153afa6f888e0829bbae84f3701bc",
+    "references": [
+        {
+            "authors": [
+                "I. Blanchette"
+            ],
+            "title": "Snakes, spiders, guns, and syringes: How specific are evolutionary constraints on the detection of threatening stimuli",
+            "venue": "The Quarterly Journal of Experimental Psychology,",
+            "year": 2006
+        },
+        {
+            "authors": [
+                "T. Brosch",
+                "D. Sharma"
+            ],
+            "title": "The role of fear-relevant stimuli in visual search: A comparison of phylogenetic and ontogenetic",
+            "venue": "stimuli. Emotion,",
+            "year": 2005
+        },
+        {
+            "authors": [
+                "M. Cook",
+                "S. Mineka"
+            ],
+            "title": "Observational conditioning of fear to fear-relevant versus fear-irrelevant stimuli in rhesus monkeys",
+            "venue": "Journal of Abnormal Psychology,",
+            "year": 1989
+        },
+        {
+            "authors": [
+                "J.S. DeLoache",
+                "V. LoBue"
+            ],
+            "title": "Human infants associate snakes and fear",
+            "venue": "Unpublished manuscript,",
+            "year": 2007
+        },
+        {
+            "authors": [
+                "M. Fredrikson",
+                "P. Annas",
+                "H. Rischer",
+                "G. Wik"
+            ],
+            "title": "Gender and age differences in the prevalence of specific fears and phobias",
+            "venue": "Behaviour Research and Therapy,",
+            "year": 1996
+        },
+        {
+            "authors": [
+                "C.H. Hansen",
+                "R.D. Hansen"
+            ],
+            "title": "Finding the face in the crowd: An anger superiority effect",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1988
+        },
+        {
+            "authors": [
+                "L. Isbell"
+            ],
+            "title": "Snakes as agents of evolutionary change in primate brains",
+            "venue": "Journal of Human Evolution,",
+            "year": 2006
+        },
+        {
+            "authors": [
+                "G.E. King"
+            ],
+            "title": "June). The attentional basis for primate responses to snakes. Paper presented at the annual meeting of the American Society",
+            "year": 1997
+        },
+        {
+            "authors": [
+                "O. Lipp",
+                "N. Derakshan",
+                "A.M. Waters",
+                "S. Logies"
+            ],
+            "title": "Snakes and cats in the flower bed: Fast detection is not specific to pictures of fear-relevant animals",
+            "year": 2004
+        },
+        {
+            "authors": [
+                "V. LoBue"
+            ],
+            "title": "There\u2019s more than just one face in the crowd: Superior detection of facial expressions in children and adults",
+            "year": 2007
+        },
+        {
+            "authors": [
+                "I. Marks"
+            ],
+            "title": "Fears, phobias, and rituals: Panic, anxiety, and their disorders",
+            "year": 1987
+        },
+        {
+            "authors": [
+                "A. \u00d6hman"
+            ],
+            "title": "Fear and anxiety as emotional phenomena: Clinical phenomenology, evolutionary perspectives, and information-processing mechanisms",
+            "venue": "Handbook of emotions (pp. 511\u2013536)",
+            "year": 1993
+        },
+        {
+            "authors": [
+                "A. \u00d6hman",
+                "A. Flykt",
+                "F. Esteves"
+            ],
+            "title": "Emotion drives attention: Detecting the snake in the grass",
+            "venue": "Journal of Experimental Psychology: General,",
+            "year": 2001
+        },
+        {
+            "authors": [
+                "A. \u00d6hman",
+                "D. Lundqvist",
+                "F. Esteves"
+            ],
+            "title": "The face in the crowd revisited: An anger superiority effect with schematic faces",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 2001
+        },
+        {
+            "authors": [
+                "A. \u00d6hman",
+                "S. Mineka"
+            ],
+            "title": "Fears, phobias, and preparedness: Toward an evolved module of fear and fear learning",
+            "venue": "Psychological Review,",
+            "year": 2001
+        },
+        {
+            "authors": [
+                "A. \u00d6hman",
+                "S. Mineka"
+            ],
+            "title": "The malicious serpent: Snakes as a prototypical stimulus for an evolved module of fear",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "S. Rachman"
+            ],
+            "title": "Fears born and bred: Non-associative fear acquisition",
+            "venue": "Behaviour Research and Therapy,",
+            "year": 2002
+        },
+        {
+            "authors": [
+                "M. Seligman"
+            ],
+            "title": "On the generality of laws of learning",
+            "venue": "Psychological Review,",
+            "year": 1970
+        },
+        {
+            "authors": [
+                "J. Tipples",
+                "A.W. Young",
+                "P. Quinlan",
+                "P. Broks",
+                "A.W. Ellis"
+            ],
+            "title": "Searching for threat",
+            "venue": "Quarterly Journal of Experimental Psychology: Human Experimental Psychology,",
+            "year": 2002
+        },
+        {
+            "authors": [
+                "A. Treisman",
+                "S. Gormican"
+            ],
+            "title": "Feature analysis in early vision: Evidence from search asymmetries",
+            "venue": "Psychological Review,",
+            "year": 1988
+        },
+        {
+            "authors": [
+                "R.M. Yerkes"
+            ],
+            "title": "Chimpanzees: A laboratory colony. New Haven, CT: Yale University Press. (RECEIVED 5/1/07; REVISION ACCEPTED 9/6/07",
+            "venue": "Volume 19\u2014Number",
+            "year": 1943
+        }
+    ],
+    "sections": [
+        {
+            "text": "fears and phobias. In visual detection tasks, adults detect their presence more rapidly than the presence of other kinds of visual stimuli. We report evidence that very young children share this attentional bias. In three experiments, preschool children and adults were asked to find a single target picture among an array of eight distractors. Both the children and the adults detected snakes more rapidly than three types of nonthreatening stimuli (flowers, frogs, and caterpillars). These results provide the first evidence of enhanced visual detection of evolutionarily relevant threat stimuli in young children.\nMany people\u2014perhaps most\u2014have had the experience of suddenly feeling frightened by the presence of a snake basking in the sun on the path ahead or nearly hidden in the grass alongside. Such fearful reactions occur relatively frequently, as most people have a negative orientation to snakes, and snakes constitute one of the most common objects of intense fears and phobias (Fredrikson, Annas, Rischer, & Wik, 1996; King, 1997). Fearful reactions to snakes have also been observed in a variety of nonhuman primates (e.g., Cook & Mineka, 1989; Yerkes, 1943).\nThe prevalence of snake fear has led some theorists (e.g., O\u0308hman &Mineka, 2001; Seligman, 1970) to consider it to be an example of prepared learning, the idea being that humans have an evolved predisposition to associate snakes with fear. According to this view, poisonous snakes (and spiders) constituted a recurrent threat to survival throughout most of mammalian evolution, so animals that quickly learned to avoid them were more likely to survive, reproduce, and pass on their genes. Consequently, a tendency to readily learn to fear snakes evolved in humans and other mammals.\nEmpirical support for prepared learning of snake fear in humans has come from research with adults showing superior conditioning of fear-relevant responses (e.g., heart rate acceleration) to snake stimuli (see O\u0308hman & Mineka, 2001, for a review). Evidence for prepared learning in nonhuman primates has come from research by Mineka and her colleagues (Cook & Mineka, 1989; O\u0308hman & Mineka, 2001) showing that monkeys very rapidly learn to fear snakes simply from seeing another monkey react fearfully to the presence of a snake.\nIn a related vein, O\u0308hman (1993; O\u0308hman & Mineka, 2001) proposed the existence of an evolved fear module\u2014a neural system that is selectively sensitive to evolutionarily relevant threat stimuli. The evolutionary claim is that individuals who more rapidly detected the stimulus attributes signifying the presence of a poisonous snake or a spider would have been more likely to escape the danger and hence to survive and reproduce. As a consequence, a mechanism supporting the rapid detection of this type of dangerous stimulus evolved.\nThe claim for the existence of a bias toward the rapid detection of evolutionarily relevant threat stimuli has received empirical support from visual search studies showing faster detection of fear-relevant than fear-irrelevant stimuli. O\u0308hman, Flykt, and Esteves (2001) presented participants with matrices consisting of pictures of snakes (fear relevant) and flowers (fear irrelevant). One of the two types of stimuli was designated the target, and each matrix included either a single target or no target. Participants had to decide as quickly as possible whether or not the target was present in each trial. They reliably detected the presence of a snake target among flowers more quickly than a flower target among snakes. The same pattern of results was obtained for spiders versus mushrooms. Moreover, participants who reported being afraid of snakes found snake targets even faster than nonfearful individuals did.\nThe basic finding reported by O\u0308hman et al. (2001)\u2014more rapid detection of snakes and spiders than of non-threat-relevant stimuli\u2014has been replicated by several other investigators (e.g., Lipp, Derakshan, Waters, & Logies, 2004; Tipples, Young,"
+        },
+        {
+            "heading": "Address correspondence to Vanessa LoBue, University of Virginia,",
+            "text": ""
+        },
+        {
+            "heading": "PO Box 400400, Charlottesville, VA 22904, e-mail: vl8m@virginia. edu.",
+            "text": "284 Volume 19\u2014Number 3Copyright r 2008 Association for Psychological Science at St Petersburg State University on January 29, 2014pss.sagepub.comDownloaded from\nQuinlan, Broks, & Ellis, 2002). However, some of the results of these studies are inconsistent with the conclusions reached by O\u0308hman et al. In some cases, superior detection was also found for non-threat-relevant animals (e.g., bears, dogs, and kittens; Tipples et al., 2002). In addition, there are reports of superior detection of modern threatening stimuli (e.g., syringes, guns, and knives; Blanchette, 2006; Brosch & Sharma, 2005). Furthermore, in some of these studies, results varied with the number of distractors, contrary to the analysis offered by O\u0308hman et al.\nAll of these visual search results and claims are based on adult participants, who presumably have extensive knowledge about snakes and various kinds and degrees of experience with them (Rachman, 2002). However, if humans have an evolved ability to detect threat-relevant stimuli exceptionally quickly, as proposed by O\u0308hman (O\u0308hman et al., 2001; O\u0308hman & Mineka, 2001), the tendencymight be observable in individuals with relatively little or no experience with such stimuli. Thus, the primary goal of the research reported herewas to take a developmental approach to the topic of threat detection, examining the visual detection of evolutionarily relevant threat stimuli\u2014snakes\u2014by very young children.\nA second goal was to expand the range of comparison stimuli used to examine the detection of snakes. All of the previous research compared detection of snakes with detection of one or two nonthreat stimuli (typically flowers or plants). In contrast, we compared the detection of snakes with the detection of a variety of other types of stimuli, including, most notably, other animals. These comparisons provide particularly strong tests of the hypothesized advantage for the detection of threat-relevant stimuli."
+        },
+        {
+            "heading": "GENERAL METHOD",
+            "text": "For all the experiments reported here, we presented both preschool children and adults with 3 3 matrices of color photographs of threat-relevant and threat-irrelevant stimuli. The participants were asked to find the one threat-relevant target (snake) among eight threat-irrelevant distractors or the one threat-irrelevant target among eight threat-relevant distractors. Two changes to the standard visual search task were instituted to make the procedure appropriate for young children. First, so that we could obtain reliable reaction time data from 3- to 5-yearolds, we presented the stimuli on a touch-screen monitor, asking each participant to touch the target on the screen as quickly as possible (see Fig. 1). Second, only target-present matrices were presented, because the touch-screen procedure precluded the inclusion of no-target matrices. We assumed that the latency to touch a target would be affected by any differential responsiveness to evolutionarily relevant threat stimuli versus nonthreat stimuli."
+        },
+        {
+            "heading": "Participants",
+            "text": "The participants in the experiments were one hundred twenty 3- to 5-year-old children and their 120 accompanying parents.\nEqual numbers of boys and girls participated in each study; all but 5 parents were female. The children and parents were recruited from records of birth announcements in the local community and were predominantly Caucasian and middle-class. Each child was randomly assigned to one of two target conditions and one of two stimulus orders. For convenience, each parent was assigned to the same condition as his or her child.\nPrior to testing, the parents were asked whether the children had ever seen a live snake and whether the children were afraid of snakes. Parents also indicated whether they themselves were afraid of snakes."
+        },
+        {
+            "heading": "Materials",
+            "text": "For each experiment, we selected 24 photographs for each stimulus category. On a given trial, 9 of these photographs were displayed in a 3 3 matrix. Each matrix contained 1 target picture from one category and 8 distractor pictures from another category. Across the experiments, the stimulus categories were snakes, flowers, frogs, and caterpillars. All the depicted animals and flowers were brightly colored. The snakes were all depicted coiled on the ground or in trees (to maximize the size of the snake images). None of the snakes or other animals were depicted in a threatening pose. The photographs were scanned from nature books and adjusted to an image size of 325 245 pixels. A coder blind to the purpose of the research rated the brightness of all pictures on a scale from 1 (very bright) to 5 (very dull). The average ratings for the snakes, flowers, frogs, and caterpillars were 2.7, 2.7, 2.8, and 2.5, respectively.\nA MultiSync LCD 2010X color touch-screen monitor was used to present each picture matrix on a 61-cm (24-in.) screen. The overall matrix size was 39.4 cm 39.4 cm, with 1.27 cm between rows and 0.64 cm between columns. The individual pictures measured 11.47 8.64 cm. Each of the 24 pictures in the target category served as the target once, appearing in each of the nine positions in the matrix two or three times. Each of the 24 pictures in the distractor category appeared multiple times; the different distractors were presented approximately the same\nVolume 19\u2014Number 3 285\nat St Petersburg State University on January 29, 2014pss.sagepub.comDownloaded from\nnumber of times across trials. One stimulus order was created by randomly arranging the matrices, and the second order was the reverse of the first. An outline of a child\u2019s handprints was located on the table immediately in front of the monitor."
+        },
+        {
+            "heading": "Procedure",
+            "text": "The child was seated in front of the touch-screen monitor (approximately 40 cm from thebase of the screen) and told to place his or her hands on the handprints. This ensured that the child\u2019s hands were in the same place at the start of each trial, making it possible to collect reliable latency data. The experimenter stood alongside to monitor and instruct the child throughout the procedure.\nFirst, a set of seven practice trials was given to teach the child how to use the touch screen. On the first two trials, a single picture appeared on the screen, and the child was asked to touch it. The first picture was from the target category, and the second from the distractor category. (All pictures used in the practice trials were chosen randomly from the original sets of 24.) On the next two trials, the display consisted of 1 target and 1 distractor picture, and the child was asked to touch only the target picture. On each of the final three practice trials, a different 9-picture matrix was displayed. The child was told that the task was to find the \u2018\u2018X\u2019\u2019 (target) among \u2018\u2018Ys\u2019\u2019 (distractors) as quickly as possible, touch it on the screen, and then return his or her hands to the handprints. All the children readily learned the procedure.\nA series of 24 test trials followed. A different picture matrix containing one target and eight distractors was presented on each trial. Between trials, a large smiley face appeared on the screen. The experimenter pressed the face when she judged that the child was looking at it, causing the next matrix to appear. In this way, we ensured that the child\u2019s full attention was on the screen before each matrix appeared. Latency was automatically recorded from the onset of the matrix to when the child touched one of the pictures on the screen.\nAfter the child had completed all 24 trials, his or her parent was tested in exactly the same manner. The parent had not been told about the experimental hypothesis and had not been present while the child was tested."
+        },
+        {
+            "heading": "Analyses",
+            "text": "In each experiment, latency to touch the target was analyzed in a 2 (target stimulus: snake vs. comparison) 2 (age: children vs. adults) 2 (child\u2019s snake experience: child reported as having some experience with snakes vs. child reported as having no experience with snakes) analysis of variance (ANOVA). All factors were between subjects. Preliminary analyses revealed no effects of experimenter, gender, order of stimuli, trial, or parents\u2019 or children\u2019s snake fear (those reported to fear snakes vs. those reported to have no fear) in any of the experiments, so these variables were not included in the analyses. Following standard procedures for visual search tasks, we included only trials in which the correct target was selected. Participants rarely erred\n(fewer than 2% of the trials in Experiment 1 and fewer than 5% in Experiments 2 and 3), and errors did not vary by target.\nEXPERIMENT 1\nIn Experiment 1, 3- to 5-year-old children and adults were asked to locate either a single snake target among eight flower distractors or the lone flower target among eight snakes. Given the findings for these stimuli in a study with adults (O\u0308hman et al., 2001), we expected that the adults would detect snake targets more quickly than flower targets. The question of interest was whether the young children would show the same pattern of performance."
+        },
+        {
+            "heading": "Participants",
+            "text": "The participants were twenty-four 3-year-olds (M 5 40.9 months, range 5 35.0\u201346.3 months), twenty-four 4-year-olds (M5 53.2 months, range5 48.6\u201359.6 months), and twenty-four 5-year-olds (M5 65.8 months, range5 60.7\u201371.4 months) and their 72 parents. Three additional 3-year-olds (1 for whom snakes were targets and 2 for whom nonthreat stimuli were targets) were excluded for failure to follow directions. According to parental report, 55 of the children (81% of the 68 children whose parents responded) had had some experience with snakes.1"
+        },
+        {
+            "heading": "Results and Discussion",
+            "text": "Because the pattern of responding was the same for children in all three age groups, they were combined for the analyses. The ANOVA on latency to touch the target yielded significant main effects of target stimulus, F(1, 140)5 9.66, p < .01, prep 5 1.0, and age, F(1, 140)5 109.04, p < .01, prep 5 1.0. 2 There was no effect of the child\u2019s experiencewith snakes,F(1, 140)5 1.18, p5 .28, prep5 .66, and no interactionswere reliable. Not surprisingly, the adults generally located the targets significantly faster than the children did. As in prior research, adults were significantly faster to find the snake among flower distractors than to locate the lone flower among snakes. This result establishes that our touchscreen procedure replicates the pattern of the latency data reported for adults (Brosch & Sharma, 2005; O\u0308hman et al., 2001).3\n1Relatively few children were reported by their parents to fear snakes: 14, 1, and 2 in Experiments 1, 2, and 3, respectively (21%, 4%, and 9% of the children whose parents responded to this question). Slightly more parents reported that they themselves were fearful of snakes: 30, 10, and 6 (44%, 10%, and 27% of the parents who responded to this question).\n2ANOVAs in all experiments were repeated with stimuli as random effects. A significant F was obtained for the main effect of target in each experiment (e.g., in Experiment 1, snakes vs. nonsnakes), showing that the pattern of results reported here holds for the population of stimuli from which the items were drawn.\n3The fact that the touch-screen procedure yielded the same pattern of results for adults as was obtained in previous research indicates that our adult participants\u2014even those who reported snake fear\u2014did not hesitate to touch snakes on the screen.\n286 Volume 19\u2014Number 3\nat St Petersburg State University on January 29, 2014pss.sagepub.comDownloaded from\nOf most importance, the pattern of performance of the young children was the same as that of the adults: Like their parents, the children located the snakes more rapidly than the flowers (see Fig. 2). This result constitutes the first evidence of which we are aware that young (preschool-age) children detect threatrelevant stimuli more quickly than non-threat-relevant ones. These developmental data are highly relevant to the claim that humans have a special sensitivity to certain categories of evolutionarily significant threatening stimuli (Marks, 1987; O\u0308hman & Mineka, 2001; Seligman, 1970).\nFurthermore, these results suggest that experiencewith snakes may not play amajor role in human sensitivity to them.Compared with the adults, the 3- to 5-year-old participants in this experiment had relatively little exposure to representations of snakes or to facts or cultural lore about snakes. In addition, the children\u2019s reported extent of exposure to live snakes was unrelated to how quickly they located the snake and nonsnake targets.\nEXPERIMENT 2\nIn Experiment 1, both adults and young children detected snakes more rapidly than flowers. Thus, this experiment replicates and extends the results previously reported by O\u0308hman et al. (2001). However, if humans are biased for the rapid detection of evolutionarily relevant threat stimuli, that bias should be apparent with a wide range of nonthreat comparison stimuli. Flowers, the only nonthreat stimulus category used by O\u0308hman et al. (2001), differ from snakes on many dimensions, including the highly salient perceptual feature of shape. In addition, snakes are animate, but flowers are not.\nA much stronger test of a bias for the detection of threat-relevant stimuli would pit snakes against other animals of similar\nphysical appearance. Accordingly, in Experiment 2, we compared the detection of snakes versus frogs. Frogs were chosen for their resemblance to snakes in texture, color, and animacy. Because there were no differences among children of different ages in Experiment 1, only 3-year-olds (the age group that had the least experience with snakes) were tested in Experiment 2."
+        },
+        {
+            "heading": "Participants",
+            "text": "In Experiment 2, twenty-four 3-year-olds (M 5 40.9 months, range 5 36.3\u201346.7 months) were tested, along with their 24 parents. Two additional 3-year-olds (1 for whom snakes were targets and 1 for whom frogs were targets) were excluded for failure to follow directions. Fifteen of the children (63%) were reported to have had experience with snakes."
+        },
+        {
+            "heading": "Results and Discussion",
+            "text": "In the ANOVA on latency to locate the target, there were significant main effects of target stimulus, F(1, 44)5 7.27, p< .01, prep5 .95, and age,F(1, 44)5 102.58, p< .01, prep5 1.0. In both conditions, adults were quicker to respond than children. There was no effect of snake experience,F(1, 44)5 0.17, p5 .68, prep5 .37, and no interactions. Both the children and the adults detected the snakes more quickly than the frogs (see Fig. 2).\nThe results of Experiment 2 are consistent with those of Experiment 1 in that both children and adults detected the presence of threat-relevant stimuli more quickly than the presence of nonthreat stimuli. Experiment 2 provides particularly strong support for a detection bias for snakes, because no research of which we are aware has employed such similar threat and nonthreat stimuli.\nVolume 19\u2014Number 3 287\nat St Petersburg State University on January 29, 2014pss.sagepub.comDownloaded from\nEXPERIMENT 3\nExperiment 3 was an even more stringent test of the existence of a threat-detection bias, as we used caterpillars as the nonthreat-relevant stimulus category. Like our snake stimuli, our caterpillar stimuli represented animate objects and were brightly colored. Further, they shared one of the most salient physical characteristics of snakes\u2014their elongated shape."
+        },
+        {
+            "heading": "Participants",
+            "text": "Twenty-four 3-year-olds (M5 41.8 months, range5 36.0\u201347.1 months) were tested, along with their 24 parents. Three additional 3-year-olds (1 for whom snakes were targets and 2 for whom caterpillars were targets) were excluded for failure to follow directions. Seventeen children (77% of the 22 children whose parents responded) had experience with snakes."
+        },
+        {
+            "heading": "Results and Discussion",
+            "text": "The ANOVA revealed significant main effects of target stimulus, F(1, 44)5 13.42, p< .01, prep5 .96, and age, F(1, 44)5 29.05, p< .01, prep 5 1.0, as well as an age-by-target interaction, F(1, 44) 5 5.12, p < .05, prep 5 .91. There was no effect of snake experience, F(1, 44) 5 0.16, p 5 .69, prep 5 .36. The general pattern of performance was similar to that in Experiments 1 and 2: The adults generally responded more rapidly than the children did, and both age groups detected the threat-relevant snakes more rapidly than the physically similar but non-threatrelevant caterpillars (see Fig. 2). The one departure from our previous results was that the difference in latency for responding to snakes versus nonthreat stimuli was significant only for the children.\nExperiment 3 provides further evidence that even young children detect threat-relevant targets more quickly than threatirrelevant ones, even when there is a high degree of physical similarity between the two kinds of targets. This result suggests that the superior detection of snakes is based on their unique constellation of features."
+        },
+        {
+            "heading": "GENERAL DISCUSSION",
+            "text": "The results of the experiments reported here provide the first evidence of which we are aware for a bias in the detection of evolutionarily relevant threat stimuli very early in life. The results of Experiments 1, 2, and 3 demonstrate that young children, like adults, detect snakes more quickly than three different kinds of threat-irrelevant stimuli (flowers, frogs, and caterpillars). There was remarkable similarity in the pattern of responses of the preschool children and their parents. These developmental findings are consistent with O\u0308hman\u2019s (1993; O\u0308hman & Mineka, 2001) proposed fear module\u2014a neural system that is selectively sensitive to evolutionarily relevant threat stimuli.\nAs a further check on the pattern of results in Experiments 1 through 3, we ran a control experiment in which we compared detection of two categories of non-threat-relevant stimuli\u2014frogs versus flowers. The claim of priority for processing threat-relevant stimuli has no implications for the relative speed of detecting different fear-irrelevant stimuli. Hence, there is no theory-based reason to predict a bias for one category over the other, even for stimuli of such distinctly different perceptual appearance. The results revealed no difference for either children or adults in the detection of a single frog among flowers versus a single flower among frogs.4\nThis predicted null result is informative in the context of the tests of our theory-based predictions. Five of the six predictions were supported by the participants\u2019 behavior. In all three studies, the children detected the threat-relevant stimuli significantly faster than the nonthreat stimuli. The adults detected the threat-relevant stimuli significantly faster than the nonthreat stimuli in two of the three studies, and the difference was in the expected direction in the third. Thus, overall, both the adults and the children responded quite differently to the threat-relevant versus the non-threat-relevant stimuli. When there was no theory-based reason to expect a difference in speed of detection, however, none was found.\nA particular strength of the experiments reported here is the exceptionally stringent controls used in Experiments 2 and 3. In most previous visual search studies, the threat and nonthreat stimuli have differed on multiple dimensions (e.g., snakes vs. flowers, spiders vs. mushrooms, various animals vs. plants, guns and knives vs. clocks and toasters). Our comparison of the detection of threat-relevant and non-threat-relevant stimuli that were extremely similar in multiple ways (e.g., snakes vs. frogs, snakes vs. caterpillars) provides a particularly strong test for a bias in the detection of evolutionarily relevant threat stimuli.\nThe results reported here are consistent with preliminary results of a series of studies examining young children\u2019s detection of a very different type of threat-relevant stimulus\u2014angry facial expressions. It is well established that adults detect threatening facial expressions more quickly than nonthreatening ones (e.g., Hansen & Hansen, 1988; O\u0308hman, Lundqvist, & Esteves, 2001). Using the same procedure as in the research reported here, we found that preschool children and their parents detected angry and fearful facial expressions more quickly than happy expressions (LoBue, 2007).\nAn important question raised by this research is, what is it about snakes that attracts the visual attention of humans from the first years of life to adulthood? There are three physical attributes of snakes that we consider good candidate characteristics.\nOne is slithering\u2014snakes\u2019 idiosyncratic movement pattern. This attribute is not relevant to the present studies, in which\n4In addition, pilot studies revealed no differences in detecting a frog among caterpillars versus a caterpillar among frogs, or in detecting a caterpillar among flowers versus a flower among caterpillars.\n288 Volume 19\u2014Number 3\nat St Petersburg State University on January 29, 2014pss.sagepub.comDownloaded from\nstatic images were used. However, in other research, we have obtained evidence suggesting the importance of movement in human infants\u2019 response to snakes (DeLoache & LoBue, 2007). Infants between 8 and 18 months of age were presented with pairs of animal films\u2014one of a snake and the other of a different kind of exotic animal\u2014showing the animals moving slowly across a screen. The infants oriented preferentially (more rapidly and more often) to the snakes.\nTwo other attributes that distinguish snakes from other animals are their elongated, limbless bodies and their consequent ability to coil themselves. Both of these features were present in the snake photographs used in the research presented here. (Some of the caterpillar stimuli did not have limbs, but many of them did.) It may very well have been these features that were responsible for the more rapid detection of snakes that was observed.\nA question of substantial theoretical importance is the nature of the mechanism that underlies humans\u2019 rapid detection of snakes. Do humans have an evolved tendency to rapidly detect some or all of the physical features possessed by snakes, as proposed by Seligman (1970), O\u0308hman andMineka (2001, 2003), and other investigators? An even stronger version of this general view was recently published by Isbell (2006). In her comprehensive analysis of the origin of the human visual system, she argued that some of its basic properties evolved precisely because they facilitated the detection of snakes.\nAlternatively, does the rapid response to snakes stem from some more general properties of the human visual system? Various asymmetries in visual search are well established; for example, a curved target among rectilinear stimuli visually \u2018\u2018pops out\u2019\u2019 more than a rectilinear target among curves (Treisman & Gormican, 1988). Perhaps some very low-level biases of this sort contribute to the rapid visual detection of snakes.\nIn conclusion, young children share the propensity of adults for particularly rapid visual detection of snakes. The existence of this tendency in such young children lends important support to theories positing the existence in humans of an evolved bias for the detection of evolutionarily relevant threat stimuli. Specifying the precise stimulus attributes that underlie this bias is a topic for further research.\nAcknowledgments\u2014We gratefully thank Themba Carr, Chris-\ntina Danko, Joseph Romano, and Catherine Thrasher for valuable\nassistance conducting this research; Dennis Proffitt for help with\nequipment; and Evan Rappoport for programming."
+        }
+    ],
+    "title": "Attention to Fear-Relevant Stimuli by Adults and Young Children",
+    "year": 2009
+}

@@ -1,0 +1,663 @@
+{
+    "abstractText": "Four studies investigate the role that stereotype threat plays in producing racial distancing behavior in an anticipated conversation paradigm. It was hypothesized that the threat of appearing racist may have the ironic effect of causing Whites to distance themselves from Black conversation partners. In Study 1, participants distanced themselves more from Black partners under conditions of threat, and this distance correlated with the activation of a \u201cWhite racist\u201d stereotype. In Study 2, it was demonstrated that Whites\u2019 interracial distancing behavior was not predicted by explicit or implicit prejudice. Study 3 provides evidence that conceiving of interracial interactions as opportunities to learn may attenuate the negative consequences of threat for Whites. Study 4 found that Whites have conscious access to their experience of stereotype threat and that this awareness may mediate the relationship between threat and distance. These results are discussed within a broader discourse of racial distancing and the possibility that certain identity threats may be as important as prejudice in determining the outcomes of interracial interactions.",
+    "authors": [
+        {
+            "affiliations": [],
+            "name": "Phillip Atiba Goff"
+        },
+        {
+            "affiliations": [],
+            "name": "Claude M. Steele"
+        },
+        {
+            "affiliations": [],
+            "name": "Paul G. Davies"
+        }
+    ],
+    "id": "SP:ec9dc075e519b604ebef7df1f48893fd2c58fb26",
+    "references": [
+        {
+            "authors": [
+                "G.W. Allport"
+            ],
+            "title": "The nature of prejudice",
+            "year": 1954
+        },
+        {
+            "authors": [
+                "R.M. Baron",
+                "D.A. Kenny"
+            ],
+            "title": "The moderator\u2013mediator variable distinction in social psychological research: Conceptual, strategic and statistical considerations",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1986
+        },
+        {
+            "authors": [
+                "J. Blascovich",
+                "S.J. Spencer",
+                "D. Quinn",
+                "C.M. Steele"
+            ],
+            "title": "African Americans and high blood pressure: The role of stereotype threat",
+            "venue": "Psychological Science,",
+            "year": 2001
+        },
+        {
+            "authors": [
+                "L. Bobo"
+            ],
+            "title": "Whites\u2019 opposition to busing: Symbolic racism or realistic group conflict",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1983
+        },
+        {
+            "authors": [
+                "E.S. Bogardus"
+            ],
+            "title": "Social distance and its origins",
+            "venue": "Journal of Applied Sociology,",
+            "year": 1925
+        },
+        {
+            "authors": [
+                "E.S. Bogardus"
+            ],
+            "title": "Social distance and its practical applications",
+            "venue": "Sociology and Social Research,",
+            "year": 1938
+        },
+        {
+            "authors": [
+                "E. Bonilla-Silva"
+            ],
+            "title": "Racism without racists: Color-blind racism and the persistence of racial inequality in the United States",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "J.K. Bosson",
+                "E.L. Haymovitz",
+                "E.C. Pinel"
+            ],
+            "title": "When saying and doing diverge: The effects of stereotype threat on self-reported versus non-verbal anxiety",
+            "venue": "Journal of Experimental Social Psychology,",
+            "year": 2004
+        },
+        {
+            "authors": [
+                "J.C. Brigham"
+            ],
+            "title": "Racial attitudes of college students",
+            "venue": "Journal of Applied Social Psychology,",
+            "year": 1993
+        },
+        {
+            "authors": [
+                "T.W. Britt",
+                "K.A. Boniecki",
+                "T.K. Vescio",
+                "M. Biernat",
+                "L.M. Brown"
+            ],
+            "title": "Intergroup anxiety: A person situation approach",
+            "venue": "Personality and Social Psychology Bulletin,",
+            "year": 1996
+        },
+        {
+            "authors": [
+                "S.B. Button",
+                "J.E. Mathieu",
+                "D. Zajac"
+            ],
+            "title": "Goal orientation in organizational research: A conceptual and empirical foundation",
+            "venue": "Organizational Behavior and Human Decision Processes,",
+            "year": 1996
+        },
+        {
+            "authors": [
+                "C. Chiu",
+                "Y. Hong",
+                "C.S. Dweck"
+            ],
+            "title": "Lay dispositions and implicit theories of personality",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1997
+        },
+        {
+            "authors": [
+                "P.H. Collins"
+            ],
+            "title": "Black feminist thought: Knowledge, consciousness, and the politics of empowerment",
+            "venue": "Perspectives on gender (Vol",
+            "year": 1991
+        },
+        {
+            "authors": [
+                "L. Cosmides",
+                "J. Tooby",
+                "R. Kurzban"
+            ],
+            "title": "Perceptions of race",
+            "venue": "Trends in Cognitive Sciences,",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "P.G. Davies",
+                "S.J. Spencer",
+                "D.M. Quinn",
+                "R. Gerhardstein"
+            ],
+            "title": "Consuming images: How television commercials that elicit stereotype",
+            "year": 2002
+        },
+        {
+            "authors": [
+                "J.F. Dovidio"
+            ],
+            "title": "On the nature of contemporary prejudice: The third wave",
+            "venue": "Journal of Social Issues,",
+            "year": 2001
+        },
+        {
+            "authors": [
+                "J.F. Dovidio",
+                "K. Kawakami",
+                "S.L. Gaertner"
+            ],
+            "title": "Implicit and explicit prejudice and interracial interaction",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 2002
+        },
+        {
+            "authors": [
+                "J. Duckitt"
+            ],
+            "title": "Psychology and prejudice: A historical analysis and integrative framework",
+            "venue": "American Psychologist,",
+            "year": 1992
+        },
+        {
+            "authors": [
+                "B.C. Dunton",
+                "R.H. Fazio"
+            ],
+            "title": "An individual difference measure of motivation to control prejudiced reactions",
+            "venue": "Personality and Social Psychology Bulletin,",
+            "year": 1997
+        },
+        {
+            "authors": [
+                "C.S. Dweck"
+            ],
+            "title": "Implicit theories as organizers of goals and behavior",
+            "year": 1996
+        },
+        {
+            "authors": [
+                "J.L. Eberhardt",
+                "P.A. Goff"
+            ],
+            "title": "The social psychology of prejudice: Historical perspectives",
+            "venue": "Seeing race",
+            "year": 2005
+        },
+        {
+            "authors": [
+                "C.M. Frantz",
+                "A.J.C. Cuddy",
+                "M. Burnett",
+                "H. Ray",
+                "A. Hart"
+            ],
+            "title": "A threat in the computer: The Race Implicit Association Test as a stereotype threat experience",
+            "venue": "Personality and Social Psychology Bulletin,",
+            "year": 2004
+        },
+        {
+            "authors": [
+                "S.L. Gaertner",
+                "J.F. Dovidio"
+            ],
+            "title": "The aversive form of racism",
+            "year": 1986
+        },
+        {
+            "authors": [
+                "A.G. Greenwald",
+                "D.E. McGhee",
+                "J.L.K. Schwartz"
+            ],
+            "title": "Measuring individual differences in implicit cognition: The Implicit Association Test",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1998
+        },
+        {
+            "authors": [
+                "Y. Hong",
+                "C. Chiu",
+                "C.S. Dweck"
+            ],
+            "title": "Implicit theories of intelligence: Reconsidering the role of confidence in achievement motivation",
+            "year": 1995
+        },
+        {
+            "authors": [
+                "J.M. Jones"
+            ],
+            "title": "Prejudice and racism",
+            "year": 1997
+        },
+        {
+            "authors": [
+                "J. Keller",
+                "D. Dauenheimer"
+            ],
+            "title": "Stereotype threat in the classroom: Dejection mediates the disrupting threat effect on women\u2019s math performance",
+            "venue": "Personality and Social Psychology Bulletin,",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "C.N. Macrae",
+                "G.V. Bodenhausen",
+                "A.B. Milne",
+                "J. Jetten"
+            ],
+            "title": "Out of mind but back in sight: Stereotypes on the rebound",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1994
+        },
+        {
+            "authors": [
+                "D.M. Marx",
+                "P.A. Goff"
+            ],
+            "title": "Clearing the air: The effect of experimenter race on target\u2019s test performance and subjective experience",
+            "venue": "British Journal of Social Psychology,",
+            "year": 2005
+        },
+        {
+            "authors": [
+                "J.B. McConahay"
+            ],
+            "title": "Modern racism, ambivalence, and the Modern Racism Scale",
+            "year": 1986
+        },
+        {
+            "authors": [
+                "L.T. O\u2019Brien",
+                "C.S. Crandall"
+            ],
+            "title": "Stereotype threat and arousal: Effects on women\u2019s math performance",
+            "venue": "Personality and Social Psychology Bulletin,",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "E.A. Plant"
+            ],
+            "title": "Responses to interracial interactions over time",
+            "venue": "Personality and Social Psychology Bulletin,",
+            "year": 2004
+        },
+        {
+            "authors": [
+                "E.A. Plant",
+                "P.G. Devine"
+            ],
+            "title": "Internal and external motivation to respond without prejudice",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1998
+        },
+        {
+            "authors": [
+                "M. Rosenberg"
+            ],
+            "title": "Society and the adolescent self-image",
+            "year": 1965
+        },
+        {
+            "authors": [
+                "F. Samelson"
+            ],
+            "title": "From \u201crace psychology",
+            "venue": "Journal of the Behavioral Sciences,",
+            "year": 1978
+        },
+        {
+            "authors": [
+                "J. Sanchez-Burks"
+            ],
+            "title": "Protestant relational ideology and (in)attention to relational cues in work settings",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 2002
+        },
+        {
+            "authors": [
+                "T. Schmader",
+                "M. Johns"
+            ],
+            "title": "Convergent evidence that stereotype threat reduces working memory capacity",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "J.N. Shelton",
+                "J.A. Richeson",
+                "J. Salvatore",
+                "S. Trawalter"
+            ],
+            "title": "Ironic effects of racial bias during interracial interactions",
+            "venue": "Psychological Science,",
+            "year": 2005
+        },
+        {
+            "authors": [
+                "Steele",
+                "C. M",
+                "April"
+            ],
+            "title": "Race and the schooling of Black Americans",
+            "venue": "Atlantic Monthly,",
+            "year": 1992
+        },
+        {
+            "authors": [
+                "C.M. Steele"
+            ],
+            "title": "A threat in the air: How stereotypes shape intellectual identity and performance",
+            "venue": "American Psychologist,",
+            "year": 1997
+        },
+        {
+            "authors": [
+                "C.M. Steele",
+                "J. Aronson"
+            ],
+            "title": "Stereotype threat and the intellectual test performance of African Americans",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1995
+        },
+        {
+            "authors": [
+                "J. Stone",
+                "C. Lynch",
+                "M. Sjomeling",
+                "J.M. Darley"
+            ],
+            "title": "Stereotype threat effects on Black and White athletic performance",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1999
+        },
+        {
+            "authors": [
+                "J.K. Swim",
+                "E.D. Scott",
+                "G.B. Sechrist",
+                "B. Campbell",
+                "C. Stangor"
+            ],
+            "title": "The role of intent and harm in judgments of prejudice and discrimination",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "D.C.E. Ugwuegbu",
+                "A.U. Anusiem"
+            ],
+            "title": "Effects of stress on interpersonal distance in a simulated interview situation",
+            "venue": "Journal of Social Psychology,",
+            "year": 1982
+        },
+        {
+            "authors": [
+                "K.D. Vohs",
+                "B.J. Schmeichel"
+            ],
+            "title": "Self-regulation and the extended now: Controlling the self alters the subjective experience of time",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "J.D. Vorauer",
+                "A.J. Hunter",
+                "K.J. Main",
+                "S.A. Roy"
+            ],
+            "title": "Metastereotype activation: Evidence from indirect measures for specific evaluative concerns experienced by members of dominant groups in inter-group interactions",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 2000
+        },
+        {
+            "authors": [
+                "J.D. Vorauer",
+                "K.G. Main",
+                "G.B. O\u2019Connell"
+            ],
+            "title": "How do individuals expect to be viewed by members of lower status groups: Content and implications of meta-stereotypes",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1998
+        },
+        {
+            "authors": [
+                "J.D. Vorauer",
+                "M. Ross"
+            ],
+            "title": "Self-awareness and feeling transparent: Failing to suppress oneself",
+            "venue": "Journal of Experimental Social Psychology,",
+            "year": 1999
+        },
+        {
+            "authors": [
+                "J.D. Vorauer",
+                "C.A. Turpie"
+            ],
+            "title": "Disruptive effects of vigilance on dominant group members\u2019 treatment of outgroup members: Choking versus shining under pressure",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 2004
+        },
+        {
+            "authors": [
+                "S.C. Wheeler",
+                "R.E. Petty"
+            ],
+            "title": "The effects of stereotype activation on behavior: A review of possible mechanisms",
+            "venue": "Psychological Bulletin,",
+            "year": 2001
+        },
+        {
+            "authors": [
+                "C.O. Word",
+                "M.P. Zanna",
+                "J. Cooper"
+            ],
+            "title": "The nonverbal mediation of self-fulfilling prophecies in interracial interaction",
+            "venue": "Journal of Experimental Social Psychology,",
+            "year": 1974
+        }
+    ],
+    "sections": [
+        {
+            "text": "The Space Between Us: Stereotype Threat and Distance in Interracial Contexts\nPhillip Atiba Goff The Pennsylvania State University\nClaude M. Steele Stanford University\nPaul G. Davies University of British Columbia, Okanagan\nFour studies investigate the role that stereotype threat plays in producing racial distancing behavior in an anticipated conversation paradigm. It was hypothesized that the threat of appearing racist may have the ironic effect of causing Whites to distance themselves from Black conversation partners. In Study 1, participants distanced themselves more from Black partners under conditions of threat, and this distance correlated with the activation of a \u201cWhite racist\u201d stereotype. In Study 2, it was demonstrated that Whites\u2019 interracial distancing behavior was not predicted by explicit or implicit prejudice. Study 3 provides evidence that conceiving of interracial interactions as opportunities to learn may attenuate the negative consequences of threat for Whites. Study 4 found that Whites have conscious access to their experience of stereotype threat and that this awareness may mediate the relationship between threat and distance. These results are discussed within a broader discourse of racial distancing and the possibility that certain identity threats may be as important as prejudice in determining the outcomes of interracial interactions.\nKeywords: stereotype threat, racial bias, racial discrimination, social distance, prejudice\nMuch of contemporary research on racial prejudice and discrimination must contend with a paradox. Namely, in the last half century, researchers have found a consistent decline in the expression of anti-Black racial attitudes and a similarly robust maintenance of Black\u2013White racial inequality (Bobo, 1983). Many researchers have explained this paradox by assuming that contaminated \u201chearts\u201d or \u201cminds\u201d are the necessary precondition for racial disparities. Each of these contemporary theories about racial discrimination locates the problem of racial inequality within individual agents and assumes that if there is racism, there must be racists. The present research adopts a more contextual approach to racial inequality and discrimination in order to explain the paradox of diverging racial attitudes and outcomes.\nRather than assuming that contaminated \u201chearts and minds\u201d are solely responsible for racial discrimination, in the present research we hypothesized that one\u2019s concern with appearing prejudiced might have the ironic and unintended consequence of causing racial harms. Of note, research on intergroup contact has frequently assumed that making racially egalitarian values important to an individual is a significant step toward prejudice reduction\n(Allport, 1954). Yet we predict that this same prosocial concern may contribute to racial distancing under conditions where an egalitarian individual becomes concerned with being seen as prejudiced. There is some research to support this hypothesis.\nA growing literature suggests that individuals are aware that they may be negatively stereotyped as racially prejudiced (i.e., Dunton & Fazio, 1997; Plant & Devine, 1998; Vorauer, Main, & O\u2019Connell, 1998). For example, Vorauer and her colleagues have demonstrated that White Canadians spontaneously frame interracial interactions in terms of how they may be stereotyped (Vorauer et al., 1998; Vorauer, Hunter, Main, & Roy, 2000). In a series of experiments examining the relationship between White Canadians and indigenous Canadians, Vorauer and her colleagues demonstrated that White Canadians\u2019 impressions of an interracial interaction and of their out-group partner were influenced by the degree to which they felt they had been stereotyped as prejudiced (Vorauer et al., 1998). Similarly, White Canadians expected to be stereotyped as prejudiced when anticipating interactions with indigenous Canadians (Vorauer et al., 2000).\nIn line with these findings, the present research investigates the possibility that for Whites, the fear of being stereotyped as racially prejudiced by a Black conversation partner may lead individuals to distance themselves from their partner. That is, the fear of being labeled prejudiced could lead to racial distancing.\nA Brief History of Racial Distancing\nPsychologists began studying race relations by examining racially avoidant behaviors and attitudes (Samelson, 1978). This so-called \u201crace psychology\u201d (Duckitt, 1992) focused research on \u201cracial preferences,\u201d the ostensibly natural desire of individuals to\nPhillip Atiba Goff, Department of Psychology, The Pennsylvania State University; Claude M. Steele, Department of Psychology, Stanford University; Paul G. Davies, Department of Psychology, University of British Columbia, Okanagan, Kelowna, British Columbia, Canada.\nWe thank Larisa A. Heiphetz for her helpful comments on earlier versions of this article.\nCorrespondence concerning this article should be addressed to Phillip Atiba Goff, Department of Psychology, The Pennsylvania State University, 441 Moore Building, University Park, PA 16802. E-mail: philgoff@psu.edu\nJournal of Personality and Social Psychology Copyright 2008 by the American Psychological Association 2008, Vol. 94, No. 1, 91\u2013107 0022-3514/08/$12.00 DOI: 10.1037/0022-3514.94.1.91\n91\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly .\naffiliate more with one race than another (Bogardus, 1925, 1938; Samelson, 1978). Edward Bogardus, who helped pioneer this research, measured racial preference through an index of avoidance attitudes and behaviors. Subsequent researchers, however, disputed Bogardus\u2019s claim that these racial preferences were natural or rational. Psychologists began to study the same outcomes, now labeling them as prejudices, stereotyping, and discrimination (Duckitt, 1992; Samelson, 1978). As psychologists made the shift from race psychology to a psychology of prejudice and discrimination, avoidant behavior became a measure of racial antipathy.\nPerhaps because the study of avoidance and the study of prejudice share a common birthplace, contemporary researchers do not generally distinguish between the two concepts. Research on nonverbal discrimination (Dovidio, Kawakami, & Gaertner, 2002; Word, Zanna, & Cooper, 1974), reactions to nonconscious stereotyping (Macrae, Bodenhausen, Milne, & Jetten, 1994), and aversive racism (Gaertner & Dovidio, 1986) have used physical avoidance alternately as evidence of prejudice and a measure of discrimination. Consequently, distancing is often treated as if it were interchangeable with group stereotyping, prejudice, and discrimination.\nHowever, intergroup distancing may also stem from factors other than prejudiced attitudes. In such contexts, group harms could still be observed even when prejudiced attitudes are weak or nonexistent. That is, to borrow a phrase from the sociologist Bonilla-Silva (2003), there may be \u201cracism without racists.\u201d Therefore, it may be important to analyze intergroup avoidance for its own sake, apart from its use as a measure of prejudice. In the present research, we hypothesize that the stereotype that Whites are racist may contribute interracial distancing even absent interracial animosity. We use stereotype threat theory as a model for this prediction (Steele, 1992).\nA Stereotype Threat Approach\nStereotype threat is the sense of threat that can arise when one knows that he or she can possibly be judged or treated negatively on the basis of a negative stereotype about one\u2019s group (Steele, 1992, 1997; Steele & Aronson, 1995). Though primarily applied to the domains of academic achievement, stereotype threat has also been applied to such domains as athletic performance (Stone, Lynch, Sjomeling, & Darley, 1999) and women\u2019s professional aspirations (Davies, Spencer, Quinn, & Gerhardstein, 2002). Stereotype threat requires that an individual be highly identified with a domain, that the individual believe he or she is being evaluated, and that the self-concept be implicated in that evaluation (Steele & Aronson, 1995). In the present research, it is hypothesized that Whites may experience stereotype threat in interracial contexts on the basis of a perception that they could be stereotyped as racist in those contexts.\nResearch by Frantz and colleagues has provided evidence that stereotype threat can have an ironic effect of increasing Whites\u2019 implicit pro-White bias on an implicit association test (Frantz, Cuddy, Burnett, Ray, & Hart, 2004). That is, under conditions where White participants feared being stereotyped as racist, their scores on an implicit association test showed an increased bias in favor of Whites and against Blacks. And, although Richeson and Shelton (2003) do not frame their research in terms of stereotype threat, they have demonstrated a number of behavioral conse-\nquences of Whites\u2019 concern with being seen as prejudiced in interracial interactions. Notably, these effects can be both negative\u2014in particular, decrements in working memory (Richeson & Shelton, 2003; see also Schmader & Johns, 2003)\u2014or positive, such as when highly prejudiced Whites are rewarded by Blacks for making great efforts to correct for their racism (Shelton, Richeson, Salvatore, & Trawalter, 2005). Still, little research has examined the behavioral consequences of stereotype threat for Whites in interracial interactions.\nWe hypothesized that Whites under stereotype threat in interracial contexts would distance themselves from anticipated interaction partners. It is important to note that this stereotype threat approach to interracial distancing is distinct from the \u201chearts and minds\u201d approach. That is, because a stereotype threat account of interracial interactions is definitionally a situationist account, we do not expect that traitlike measures of prejudice\u2014either external or internal\u2014will predict distancing effects. This prediction is a departure from previous research suggesting that implicit prejudice is responsible for nonverbal behaviors in interpersonal settings (e.g., Dovidio, 2001; Dovidio et al., 2002). However, previous research in this area has not simultaneously manipulated threat and measured implicit prejudice. We propose that in cases where Whites experience stereotype threat, this experience may overwhelm preexisting racial attitudes, rendering those attitudes devoid of predictive power. That is, the importance of the situation may trump the importance of individuals\u2019 characteristics when predicting discrimination. This is not, of course, intended to deny the importance of individual differences in prejudice. Rather, it is meant to foreground the relatively underexplored role of situational factors in producing disparate racial outcomes.\nOverview of Studies\nStudy 1 was designed to test the primary hypothesis: that racially tense conversations with Black partners would produce stereotype threat among White participants and in turn would produce physical distancing. Study 2 used the same paradigm to test an alternative hypothesis of the findings in Study 1: that the patterns of avoidance and stereotype activation were due not to stereotype threat but rather to a general anxiety about potentially tense conversations. Study 2 was also designed to replicate another boundary condition of stereotype threat, namely that stereotype threat occurs in conditions where the self is implicated by the stereotype but not in conditions where the self is not implicated (Steele, 1992, 1997; Steele & Aronson, 1995).\nStudy 3 was designed to test the hypothesis that shifting participants\u2019 evaluative frameworks could reduce the experience of stereotype threat. It was hypothesized that giving participants learning goals would attenuate the negative consequences of stereotype threat by reducing the evaluative implications of stereotype-confirming behavior. Finally, Study 4 was designed to gauge participants\u2019 conscious access to the experience of stereotype threat. It was hypothesized that Whites\u2019 experience of stereotype threat in interracial interactions was a \u201chot\u201d process and not reducible to \u201ccold\u201d cognitive processes.\nStudy 1\nStudy 1 was designed to examine the effect of stereotype threat on the preferred social distance of White participants in an ex-\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly .\npected interracial contact. The principal hypothesis was that when the stereotype of racism was relevant to a potential interaction\u2014 that is, when participants expected to discuss a threatening topic\u2014 Whites would distance themselves from Black partners more than White partners. Under such conditions, it was further hypothesized that stereotype activation would positively correlate with the degree of avoidance."
+        },
+        {
+            "heading": "Method",
+            "text": ""
+        },
+        {
+            "heading": "Participants and Design",
+            "text": "Eighty-two White male undergraduates at Stanford University participated in this study in exchange for either $10 or partial course credit. Women were not included as participants in this study. Previous research has shown that threat and anxiety influence mixed-gender proximity preferences differently than samegender proximity preferences (Ugwuegbu & Anusiem, 1982). Because \u201cBlackness\u201d is most commonly mentally represented by \u201cBlack males\u201d (Goff, Thomas, & Jackson, in press), it was reasoned that Black males would produce the strongest effects. Therefore, only men were recruited for ostensibly same-gender dyads.\nThis experiment took the form of a 2 (race of partners: Black vs. White) 2 (conversation topic: love and relationships vs. racial profiling) between-subjects design. The chief dependent measures were the physical distance participants put between themselves and their conversation partners and the degree to which stereotypes related to their racial identity were cognitively activated by the experimental conditions."
+        },
+        {
+            "heading": "Materials",
+            "text": "Word-stem completion. We hypothesized that participants who were talking about racial profiling would sit farther away from Black partners the more threatened they felt. To measure threat (and rule out the possibility that general White identity or anxiety was driving the effect), we measured the activation of three distinct concepts: White racial identity, negative stereotypes about Whites as racist, and general social anxiety. To measure the activation of these concepts, we used a word-stem completion task similar to that employed in previous stereotype threat research (e.g., Steele & Aronson, 1995). Ten words were chosen for each category\u2014White racial identity, negative stereotypes that Whites are racist, and social anxiety\u2014from pretests involving 157 Stanford undergraduates. In our pretest, 127 participants simply listed words associated with one of the categories. The 25 most common words for each category were then selected and given to 30 participants. These 30 participants rated each word for how strongly related it was to its category. The 10 highest rated words in each category were then selected as target words. All words are listed in the Appendix. These target words were randomly intermixed with 60 filler words that could not be completed as words that would fit any of the three category concepts, creating a sheet of 90 total word stems.\nFor the purpose of analysis, the number of target words a participant completed in each category was recorded. Of those words, the number of target words the participant filled out in a category-relevant manner (e.g., RACIST as opposed to RACKET) was counted. Last, the number of target words filled out in a\ncategory-relevant manner was divided by the total number of target words the participant had completed. This ratio, then, is the measure of concept activation.\nFaces. To convey the race of the participants\u2019 prospective partners, we showed participants Polaroid pictures of their ostensible partners. Pictures of Black and White men were selected from a data set of 20 Polaroids, each of which was rated on stereotypicality and attractiveness. Two Black faces and two White faces were selected such that the Black faces were neither reliably more attractive (M 3.50) than the White faces (M 3.46) nor reliably more stereotypically Black (M 4.57) than the White faces were stereotypically White (M 4.50).\nDistancing measurement. The principal hypothesis was that participants would sit farther away from Black partners than White partners when participants felt under threat of confirming the negative group stereotype. In order to measure this, we asked participants to arrange three chairs\u2014one for themselves and two for their two prospective partners\u2014so that the three of them could have a \u201ccomfortable conversation.\u201d Participants under the stereotype threat of possibly being seen as racist might put more distance between their own chair and the chairs of their two partners when they anticipate their partners are Black as a means of distancing themselves from the interaction. However, another factor could also affect the distance measure: a dispositional preference for some level of distance between all three individuals involved.\nIf participants positioned themselves far away from their partners, then the configuration of chairs would look like there was an odd person out (the isosceles triangle pictured in Configuration 1.1 in Figure 1). However, participants who were dispositionally more comfortable with larger interpersonal distances might also create distance between themselves and their partners. This configuration would look quite different from one created by anxiety specific to the partners and the situation and would look more like the equilateral triangle pictured in Configuration 1.2 in Figure 1. Therefore, to capture the first of these patterns\u2014without the second\u2014we developed a distance index in which the average distance between the participant and his prospective conversation partners (AB distance in Figure 1) was analyzed, covarying for the total distance the participant put between all three chairs (ABC distance in Figure 1). This calculation allows one to capture a participant\u2019s motivation to reduce possible tension, controlling for his individual proximity preferences. That is, by covarying for the total distance between the three chairs, we were able to measure the relative \u201codd-person-out\u201d effect. Individuals who sat close to one partner and far from the other would score similarly to someone who sat equidistant from both partners. Likewise, individuals who sat equally close to both partners but sat the partners far away from each other would score lower than individuals who sat themselves and their partners equidistant from each other. This odd-person-out index gives an estimate of the degree to which the participant\u2019s chair placement reflected specifically a desire to distance himself from the potential interaction partners.\nIt was hypothesized that participants expecting to talk with Black partners about racial profiling would place their own chairs farther away from the chairs of their partners than would participants in any of the other conditions. To further ensure that participants were sitting farther away from their partners rather than in some other configuration (see Figure 1), we computed another index in which Distance C was subtracted from the average of\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly .\nDistances A and B. If participants were distancing themselves from their partners, then [(A B)/2] \u2013 C would be positive. If participants were sitting in some other configuration, then this index would be 0 or negative.\nIn fact, participants who expected to speak with two Black partners about racial profiling scored positively on this index (M 1.74), whereas those who anticipated speaking to Black partners about love and relationships (M \u20131.59) and those who anticipated speaking to White partners about either topic (racial profiling, M \u2013 0.55; love and relationships, M \u2013 0.43) scored negatively. This suggests that participants sat farther away from their partners in the Black/racial-profiling condition and not in any other condition. As the distance scores presented in Figure 2 show, this is precisely what was observed."
+        },
+        {
+            "heading": "Procedure",
+            "text": "Participants were greeted by one of several White experimenters, who confirmed the participant\u2019s name and informed him that two other conversation partners had already arrived. The experimenter, who was kept blind to condition, then checked the participant\u2019s name off a list of three names. After administering the consent and demographic forms, the experimenter took the participant\u2019s picture with a Polaroid instant camera and placed it between two other pictures, ostensibly of the two partners with whom the participant would later have a conversation (no conversation would actually take place). In the Black partner condition, both pictures were of Black males. In the White partner condition, both pictures were of White males.\nFigure 1. Imagine that average distance between the participant and the partners is equal in Configuration 1.1 and Configuration 1.2. Only Configuration 1.1 indicates that the participant is distancing from the partners.\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly .\nCover story. Pretesting revealed that expecting to talk to two Black males\u2014probably in light of their limited numbers in the student body\u2014tended to arouse suspicion in our participants, especially when they learned that the topic of conversation was racially charged. To combat this suspicion, we told participants that they were participating in an experiment on \u201cdiverse conversations\u201d in which the gender and racial makeup of the groups were manipulated to create diversity. Unfortunately, pretesting also revealed that White participants reported being threatened at the mere mention of diverse conversations. In light of this finding, it was expected that stereotype activation would not differ by condition.\nTopic selection. Participants then chose a topic slip, without looking, from a grab bag. In reality, all slips in the bag stated that the conversation topic would be either racial profiling in the racial profiling condition or love and relationships in the love and relationships condition. Participants were then told that they would be discussing the topic they had picked from the bag.\nDistance measurement. After the topic was selected, participants were given a \u201ccognitive engagement task\u201d\u2014in actuality, the word-stem completion task\u2014ostensibly to ensure that they were taking the conversation and experiment seriously. Participants were asked to complete the task as quickly as possible by finishing each word stem with the first word that came to mind. After 6 min, the word-stem completion sheet was collected, and participants were escorted to the room where the conversation would purportedly take place. Upon arriving, the experimenter feigned frustration at the fact that the three chairs were lined up in the corner of an otherwise featureless room. The experimenter apologized for the inconvenience and then asked participants to set up the chairs \u201cso that the three of [them could] have a comfortable conversation\u201d and instructed them to \u201ctake a seat\u201d in one of the chairs after they had arranged them. The experimenter then left the room, ostensibly to retrieve the other two partners for the conversation. After 1 min, the experimenter returned to the room, probed the\nparticipants for suspicions, thoroughly debriefed them, and thanked them for their participation."
+        },
+        {
+            "heading": "Results",
+            "text": ""
+        },
+        {
+            "heading": "Distance Findings",
+            "text": "The data were submitted to a 2 2 analysis of covariance (ANCOVA) with AB distance as the dependent variable, race of partner and conversation topic as the predictors, and ABC distance as the covariate. Average distance between all three chairs (the ABC distance) was a significant covariate in the analysis, F(1, 77) 1,695.61, p .001, 2 .96, and was equally correlated with AB distance in all conditions. The 2 2 ANCOVA further revealed a reliable interaction on the distance score, F(1, 77) 4.51, p .05, 2 .06. Simple effects tests revealed that participants sat farther away from their prospective Black partners when they believed they would discuss racial profiling (M 38.53) than when they believed they would discuss love and relationships (M 37.48), F(1, 77) 6.75, p .01, 2 .08, and that participants who believed they would discuss racial profiling sat farther away from the prospective Black partners (M 38.53) than from the prospective White partners (M 37.71), F(1, 77) 4.56, p .05, 2 .06. See Figure 2."
+        },
+        {
+            "heading": "The Role of Stereotypes",
+            "text": "Three independent pairwise correlations found that responses to the words reflecting general White identity, words reflecting a White racist stereotype, and words reflecting a general social anxiety were not correlated experiment-wide or within any cell of the design, all rs(82) .20, ns. This suggests that the word completion measures tapped three distinct concepts. Additionally, no main effects or interactions were found, all Fs(1, 77) 1.50, ns, for any of the measures. This is likely because our cover story\nFigure 2. Adjusted distance scores in Study 1. Values are means (and standard errors); F(1, 77) 4.51, p .05.\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly .\nmade the stereotype of the White racist salient across all conditions.\nSeparate within-cell partial correlations were then conducted between each of our three word-stem categories and the adjusted AB measure. The only significant partial correlation was between AB distance and the activation of words associated with White racism in the Black-partner/racial-profiling condition, r(19) .43, p .05. In this condition, the more that words associated with White racism were activated, the farther participants placed their chairs from Black participants.\nNext, a regression analysis was conducted to test whether the relationship between stereotype activation and distance was significantly different in the Black/racial-profiling condition than in all other conditions. In order to perform this test, we created contrast weights for the Black/racial-profiling cell and the other three cells (3, \u20131, \u20131, \u20131). The regression on AB distance, then, included these contrast weights, stereotype activation, and the interaction between the two as predictors, using ABC distance as a covariate. The regression revealed that the relationship between activating the White racist stereotype and participants\u2019 AB distance was significantly stronger in the Black/racial-profiling condition than in all other conditions, B .69, t(77) 2.03, p .05, 2 .05. This suggests that participants\u2019 AB distance was uniquely moderated by worry about being perceived as racist in the Black/racial-profiling condition."
+        },
+        {
+            "heading": "Discussion",
+            "text": "In support of the primary hypothesis, participants who were assigned to discuss racial profiling with two Black partners distanced their partners more than did participants in any other condition. In addition, activation of the White racist stereotype remained constant across conditions and was related to distance only for participants who anticipated talking with two Black partners about racial profiling. In this condition, there was a significant correlation between activation of the stereotype and distance such that the more participants activated the stereotype of the White racist, the farther they sat from their anticipated partners. Of note, stereotype activation and distance were related only under conditions of threat. This provides initial support that stereotype threat is an appropriate lens through which to interpret these findings.\nThough these results are consistent with a stereotype threat approach, there is no direct evidence that this pattern is due to a threat to the self. One might argue that a White individual talking with two Black partners about racial profiling does not experience stereotype threat but rather may simply fear that the conversation may become tense or contentious. The resultant aversion to the situation, manifested through increased distance, might therefore reflect an attempt to reduce the contentiousness of the conversation rather than reflecting any threat to the self.\nAdditionally, because Study 1 did not include any measurements of prejudice, the role of implicit or explicit prejudice remained unexplored. Though the random assignment of participants to conditions means it is statistically improbable that the observed pattern of data was due entirely to participants\u2019 levels of internal prejudice, the degree to which internal prejudice could moderate these effect is an important issue to examine. Therefore, Study 2 was designed to test the hypothesis that the self must be threatened\nin order to produce the observed distancing behavior and that prejudice has little role in producing distance in this context.\nStudy 2\nThe first goal of Study 2 was to test directly the hypothesis that the pattern of distance observed in Study 1 resulted from threats to the self. It was again hypothesized that stereotype activation and distance would be related only when participants felt threatened. To test these hypotheses we dropped the love and relationships topic, and racial profiling became the only topic assigned in all conditions. One condition, therefore, was a replication of the racial profiling condition from Study 1. In addition, a condition was added where participants were given instructions immediately before being led to the conversation room (i.e., immediately after completing the word-stem task). The experimenter informed participants that they would be assigned an opinion, be asked to read it aloud, and argue from that perspective during the conversation. Participants were informed that their partners would be explicitly told that the opinions read and argued were assigned and not those of the participant.\nThe language of the opinion was taken from a focus group session where White undergraduates were asked to report the types of arguments they might adopt that would create the largest degree of racial tension with Black students on the topic of racial profiling. Stanford undergraduates rated this opinion as a pro-racialprofiling stance in pretesting.\nHaving students read this pro-racial-profiling position allowed for a strong test of our hypothesis. If participants were simply afraid of taking potentially racist perspectives and, thus, causing contention, being forced to read the opinion might make them all the more likely to sit far away from their prospective Black partners. Therefore, if participants sat equally close to Black and White prospective partners, it would not be because they had been supplied with a position that either was easy to defend or itself defused the racial tensions in the situation.\nTo test the hypothesis that internal prejudices, either explicit or implicit, were not predictive of distance, we had participants complete measures of prejudice before arriving for the anticipated conversation. This allowed for the possible moderating effects of prejudice to be examined.\nThe principal hypothesis of Study 2 was that participants would distance themselves from Black partners more than from White partners when voicing their own opinion but not when reading an assigned opinion. As in Study 1, it was further hypothesized that stereotype activation would positively correlate with distance only under conditions of stereotype threat. Last, it was hypothesized that stable prejudice (both explicit and implicit) would have little if any influence on distance and would not attenuate the relationship between stereotype activation and distance."
+        },
+        {
+            "heading": "Method",
+            "text": ""
+        },
+        {
+            "heading": "Participants and Design",
+            "text": "Forty-seven White male undergraduates at Stanford University participated in this study in exchange for either $20 or partial course credit. This experiment took the form of a 2 (race of partners: Black vs. White) 2 (choice condition: free choice vs.\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly .\nforced choice) between-subjects design. The chief dependent measures were, again, distance score and the degree to which stereotypes were activated by the experimental conditions."
+        },
+        {
+            "heading": "Distance Measure",
+            "text": "The data analysis procedure for distance results was identical to that used in Study 1. Again, only participants in the Black/freechoice condition had positive [(A B)/2] \u2013 C scores (M 2.89). Participants in all other conditions scored negatively (Black/ forced-choice, M \u20131.76; White/free-choice, M \u20132.90; White/ forced-choice, M \u20131.62)."
+        },
+        {
+            "heading": "Materials",
+            "text": "A standard Black\u2013White valence Implicit Association Test (IAT; Greenwald, McGhee, & Schwartz, 1998) was used to measure implicit prejudice. This IAT consists of three practice blocks followed by critical trial blocks pairing either Black male and female faces with negatively valenced words and White male and female faces with positively valenced words or vice versa."
+        },
+        {
+            "heading": "Procedure",
+            "text": "To measure explicit and implicit prejudice, we recruited participants for a two-part study. In the first part, participants completed the IAT, the Modern Racism Scale (MRS; McConahay, 1986), the Motivation to Control Prejudice Scale (MCP; Dunton & Fazio, 1997), and the Interethnic Anxiety Toward African Americans Scale (IATAA; Britt, Boniecki, Vescio, Biernat, & Brown, 1996). Consistent with the cover story, participants also filled out several filler surveys. After completing these measures, participants were\ntold that they would be randomly assigned to one of several studies, some of which were related to the surveys they had just completed, and some of which were not. They were then scheduled for their next session and thanked for their participation. They were not paid or given credit until they had completed the second task. All participants completed both portions of the study.\nFor the second part of the study, a new team of White experimenters was trained to administer the experiment. These experimenters had no knowledge of Study 1 and were, again, blind to hypotheses. Photos of the prospective participants, the word-stem completion task, the room, and the chairs were identical to those used in Study 1. Finally, participants were probed for suspicions about the study, thoroughly debriefed, and thanked for their participation."
+        },
+        {
+            "heading": "Results",
+            "text": ""
+        },
+        {
+            "heading": "Distance Findings",
+            "text": "A 2 (race of partner: Black vs. White) 2 (choice condition: free choice vs. forced choice) ANCOVA was conducted on AB distance with ABC distance as the covariate. This analysis revealed a marginal main effect of both race of partner, F(1, 42) 3.34, p .08, 2 .07, and opinion condition, F(1, 42) 3.51, p .07, 2 .08. These main effects were qualified by the predicted interaction, as shown in Figure 3, F(1, 42) 10.26, p .01, 2 .20. A simple effects test showed that in the free-choice condition, participants sat farther from prospective Black partners (M 37.50) than from prospective White partners (M 34.74), replicating the findings of Study 1, F(1, 42) 6.17, p .05, 2 .13. A simple effects test also showed that participants sat signif-\nFigure 3. Adjusted distance scores in Study 2. Values are means (and standard errors); F(1, 42) 10.26, p .005.\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly .\nicantly closer to prospective Black partners in the forced-choice condition (M 34.70) than in the free-choice condition (M 37.50), F(1, 42) 4.25, p .05, 2 .09. Of note, participants did not differ significantly in their distancing from prospective Black (M 34.70) or White partners (M 35.55) in the forcedchoice condition and, if anything, sat closer to prospective Black partners than White partners, F(1, 42) 2.35, p .10, 2 .05. This confirmed the first hypothesis, that by making the prospective interaction essentially nondiagnostic of an individual\u2019s level of racism, ambient threat could be eliminated."
+        },
+        {
+            "heading": "The Role of Stereotypes",
+            "text": "Again, the only significant correlation was between AB distance and the White racist stereotype in the Black free-choice cell, r(8) .84, p .01. Means and correlations paralleled findings in Study 1. No other correlations approached significance. Of note, the correlation between AB distance and the White racist stereotype was negligible in the Black/forced-choice cell, r(9) .04, ns. This finding serves as both a replication of Study 1 and support for the hypothesis that stereotypes about White racists influenced behavior toward prospective Black partners only when participants\u2019 identities as nonracist were threatened by the situation.\nTo test whether activation of the White racist stereotype moderated the relationship between a participant\u2019s condition and distancing, we created contrast weights for the Black/free-choice cell and the other three cells (3, \u20131, \u20131, \u20131). We then conducted a regression on AB distance with these contrast weights, stereotype activation, and the interaction between the two as predictors, with ABC distance included as a covariate. The regression revealed that stereotype activation did, in fact, moderate the relationship between participants\u2019 condition and distance, yielding a significant interaction between stereotype activation and the contrast weights on AB distance, B 1.38, t(42) 2.16, p .05, 2 .10. This will be referred to as the moderation regression for the purpose of subsequent analyses."
+        },
+        {
+            "heading": "The Role of Prejudice",
+            "text": "To test the hypothesis that prejudice is not required to create interpersonal discrimination, we conducted within-cell, by condition, and overall partial correlations between AB distance and MRS scores, IAT scores, and MCP scores (controlling for ABC distance). None of these correlations approached significance (all rs .33, ns). Additionally, including prejudice scores as a covariate in the moderation regression did not reduce the influence of stereotype activation in the moderation regression, B 1.39, t(41) 2.14, p .05, 2 .10."
+        },
+        {
+            "heading": "The Role of Interethnic Anxiety",
+            "text": "Within-cell, by condition, and overall partial correlations were conducted between IATAA scores and AB distance, with ABC distance as the covariate. This revealed one reliable partial correlation, such that for participants interacting with Black partners, IATAA scores were positively correlated with AB distance, r(20) .43, p .05. However, this was not the case for participants interacting with White partners, r(21) \u2013.03, ns. This finding suggests that interethnic anxiety was predictive of distance\nbetween White participants and their prospective Black partners but not between participants and their White partners.\nThe influence of interethnic anxiety was further investigated by conducting a regression analysis on AB distance, including IATAA, race of partner, and the interaction between these terms as predictor variables, and ABC distance as a covariate. This regression revealed a marginal effect of partner\u2019s race, B 3.59, t(42) 1.90, p .06, 2 .08, and a significant effect of IATAA, B 1.20, t(42) 2.62, p .01, 2 .14. These main effects were qualified by a significant Race Interethnic Anxiety interaction, B \u20131.32, t(42) \u20132.40, p .05, 2 .12. This finding suggests that interethnic anxiety was predictive of distance between White participants and their prospective Black partners but not their prospective White partners.\nLast, to test whether level of interethnic anxiety attenuated the threat findings, we conducted the threat moderation regression on AB distance, with the contrast weights, stereotype activation, and the interaction between the two as predictors, and ABC distance and IATAA included as covariates. This still produced a reliable effect of the interaction term in the moderation regression, B 1.31, t(41) 1.99, p .05, 2 .09. When the findings were taken together, it was concluded that although interethnic anxiety is predictive of distance from Blacks, it does not attenuate the impact of stereotype threat on distancing behavior."
+        },
+        {
+            "heading": "Discussion",
+            "text": "Study 2 demonstrated that the results of Study 1 were not due only to participants\u2019 reluctance to engage in potentially uncomfortable conversations, and that internal prejudice played little if any role in the observed findings. By directly testing the hypothesis that threats to the self are a necessary part of a stereotype threat phenomenon, in Study 2 we sought to replicate and extend the findings of Study 1. In Study 2, stereotype threat produced a pattern of data such that White participants sat farther away from Black partners than from White partners when discussing racial profiling. Additionally, stereotype activation was related to distance only when participants expected to discuss racial profiling with Black partners. However, when participants were assigned an opinion and their selves were \u201cremoved\u201d from the situation, there was no difference in the degree to which they distanced themselves from their Black or White participants, nor was there a relationship between stereotype activation and distance. Stereotype activation was related to distance only when participants experienced a threat to the self, which supports a stereotype threat interpretation of the data.\nIn addition, neither explicit prejudice, as measured by the MRS, nor implicit prejudice, as measured by the IAT, predicted distance in any condition. Nor did either measure of prejudice moderate the relationship between stereotype threat and distance. Beyond supporting the initial hypothesis that situational threats play a more important role than internal prejudices in predicting behavior it appears that internal prejudices played virtually no role in predicting behavior under conditions of stereotype threat.\nSurprisingly, participants\u2019 scores on the MCP did not predict distancing behavior. One would imagine that those who are most motivated to control the expression of racial prejudice would be the most identified with an antiracist identity and, therefore, be most threatened by the possibility of being seen as racist. How-\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly .\never, there is some evidence to suggest that those who are most identified with being seen as nonprejudiced are also least likely to see threats to the self in interracial contexts. Plant (2004), for instance, found that Whites who were high in motivation to control prejudice also had more positive expectations of interracial interactions when no additional threat was introduced. If that were true of participants in Study 2, then they may have been motivated to expect a positive interaction at the same time that a negative one would be most threatening to their self-concept. Similarly, Vorauer and Ross have demonstrated that those who were most invested in positive intergroup interactions imagined that they were most transparent to an out-group partner (Vorauer & Ross, 1999). This feeling that their true, nonracist self was visible impaired their ability to accurately judge their own behavior.\nThough participants\u2019 motivation to control prejudice was not predictive, the measure of interethnic anxiety was predictive of distance under conditions of stereotype threat, suggesting that general anxiety did contribute to distancing behavior. This finding is consistent with previous literature that suggests that stereotype threat produces increased anxiety whether that anxiety is measured via nonverbal expression (Bosson, Haymovitz, & Pinel, 2004), blood pressure (Blascovich, Spencer, Quinn, & Steele, 2001), or social facilitation (O\u2019Brien & Crandall, 2003). No factors were found to attenuate the relationship between stereotype activation and distancing behavior.\nStudy 3\nWork by Dweck and her colleagues suggests that if ability is conceptualized as an entity (i.e., one simply has it or does not), then poor performance can be seen as an indication that one is inadequate within that domain (Dweck, 1996; Hong, Chiu, & Dweck, 1995). Such a framework is called an implicit entity theory of the domain. However, if ability is conceptualized as learnable and protean, then it stands to reason that doing poorly on a test would not serve as stereotype confirming evidence (Hong, Chiu, & Dweck, 1995). Such a framework is called an implicit incremental theory of the domain. Although the work of Dweck and her colleagues has been shown to have effects on academic perseverance (Dweck, 1996; Hong et al., 1995), a shift in evaluative framework has not yet been proven to reduce stereotype threat in an experimental setting.\nHowever, Vorauer and Turpie (2004) did find evidence that increased evaluative concerns can lead low-prejudiced dominant group members to react negatively toward stigmatized out-groups. Across three studies, Vorauer and Turpie found that when dominant group members were concerned with being evaluated in terms of their privileged social position, it created a \u201cchoking\u201d effect for those who were identified with being nonprejudiced. Vorauer and Turpie discussed these results in terms of intergroup contact and did not measure stereotype activation. Therefore, although their findings are consistent with stereotype threat, a direct application of the theory to these contexts has yet to be attempted.\nStudy 3 was designed to test the hypothesis that a shift in evaluative framework might eliminate the negative consequences of stereotype threat\u2014in this case, within interracial situations. Our rationale was that just as women taking a math test might assume that ability is entitative, so too might Whites in an interracial conversation believe that racial sensitivity is entitative. Being\nnegatively evaluated (either doing poorly on a math test or being seen as racist) with an entitative evaluative framework would result in a strong threat to one\u2019s self-concept. If, on the other hand, one has an incremental theory of the stereotyped domain, then it is less likely that a negative evaluation would be threatening to one\u2019s sense of self. Study 3, therefore, tested the hypothesis that when Whites frame interracial contact in terms of an incremental theory, stereotype threat is eliminated.\nThe primary hypotheses of Study 3 were, first, that in the absence of learning goals, participants would sit farther away from Black partners than from White partners. This was not expected to be the case in the presence of learning goals. Second, as in Studies 1 and 2, it was hypothesized that stereotype activation would be positively correlated with distance under conditions of stereotype threat and, as in Study 2, that no other measurements of prejudice or identity would moderate this relationship.\nHaving already examined the relationship between explicit and implicit prejudice on distance, we included a measure of Black stereotype activation. This was intended to rule out the possibility that whereas stable prejudices might not predict differences in participants\u2019 distance scores, context-specific activation of negative Black stereotypes would."
+        },
+        {
+            "heading": "Method",
+            "text": ""
+        },
+        {
+            "heading": "Participants and Design",
+            "text": "Seventy-four White male undergraduates at Stanford University participated in this study in exchange for either $20 or partial course credit. This experiment took the form of a 2 (race of partners: Black vs. White) 2 (learning goals: present vs. absent) between-subjects design. The chief dependent measures were, again, the distance participants placed between their own chair and the chairs of their conversation partners and the degree to which concerns and stereotypes related to their racial identity were cognitively activated by the experimental conditions."
+        },
+        {
+            "heading": "Materials",
+            "text": "Incremental-theory/learning-goals manipulation. Dweck and her colleagues have argued that adopting learning goals within a domain is tantamount to having an incremental theory of that domain. Therefore, it was hypothesized that inducing participants to adopt learning goals would lead them to adopt incremental theories in the domain of interracial contact.\nThe learning goals manipulation was a set of instructions that included materials from studies previously conducted by Dweck and her colleagues (Chiu, Hong, & Dweck, 1997; Dweck, 1996; Hong et al., 1995). After completing the word-stem completion task, participants were read our learning goals instructions. Pretests confirmed that these instructions increased learning goals and decreased performance goals in interracial situations.\nLearning goals measurement. To measure the effect of our manipulation, we administered a learning-goals/performancegoals scale after participants had set up the chairs and before they were debriefed (Button, Mathieu, & Zajac, 1996).\nBlack stereotypes. The substitution of Black stereotypes for words associated with (nonracist) Whites in general allowed a test of the hypothesis that participants were activating negative stereo-\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly .\ntypes about their conversation partners without changing the proportion of target words to neutral words in the word-stem completion task."
+        },
+        {
+            "heading": "Procedure",
+            "text": "The procedure in Study 3 was nearly identical to that of Study 2. Participants were scheduled for two sessions not less than 24 hr apart. During Session 1, they completed the IAT, MRS, MCP, IATAA, and Rosenberg\u2019s (1965) Self-Esteem Scale. They also indicated their political affiliation. In order to perform a stronger test of the hypothesis regarding explicit prejudice, we also included a second measure of explicit prejudice, the Attitudes Towards Blacks Scale (Brigham, 1993).\nDuring Session 2, participants were shown pictures of their conversation partners (Black vs. White) and filled out the wordstem completion task (with Black stereotypes instead of the general White words used in Studies 1 and 2). Half of the participants were then given the learning goals instructions, whereas the other half received no instructions. All participants were told they would discuss racial profiling with their partners.\nAfter receiving either the learning goals instructions or no instructions, participants were told to set up the chairs as per Studies 1 and 2. Feigning forgetfulness, the experimenter then returned to the room and handed them the learning-goals/performance-goals scale. Finally, participants were probed for suspicions, thoroughly debriefed, and thanked for their participation.\nThough Studies 1 and 2 were conducted by a different set of experimenters, it was important to rule out the possibility that experimenter expectancies contributed to our effects. Therefore, a new group of experimenters was trained for Study 3. Then, midway through the study, yet another group of experimenters was trained to complete data collection. Whereas the experimenters for Studies 1 and 2 were both male and female, the experimenters for the first half of Study 3 were all female, and the experimenters for the second half were all male. By switching experimenters and substituting male for female experimenters, we reduced the likelihood that either experimenter expectancies or experimenter gender contributed to the observed findings."
+        },
+        {
+            "heading": "Results",
+            "text": ""
+        },
+        {
+            "heading": "Manipulation Check",
+            "text": "To confirm that the participants\u2019 learning and performance goals had been significantly affected by the manipulations, we compared these goals between conditions. Both goal orientations were, again, measured at the end of the experiment, immediately before debriefing. As revealed by t tests, learning goals were significantly higher in the learning goals condition (M 5.95) than in the no learning goals condition (M 5.33), t(72) 4.15, p .001, 2 .19. Conversely, performance goals were significantly lower in the learning goals condition (M 4.98) than in the no learning goals condition (M 5.41), t(72) 2.61, p .01, 2 .09. Thus, it was concluded that the instruction manipulation was effective."
+        },
+        {
+            "heading": "Distance Findings",
+            "text": "The same analytic strategy as in Studies 1 and 2 was used. Again, only participants in the Black/no-learning-goals condition\nhad positive [(A B)/2] \u2013 C scores (M 2.93). Participants in all other conditions scored negatively (Black/learning goals, M \u20130.48; White/no learning goals, M \u20131.01; White/learning goals, M \u20130.10).\nNext a 2 2 ANCOVA was conducted with race of partners and instruction condition as the independent variables, AB distance as the dependent variable, and ABC distance as the covariate. The analysis produced a main effect of race, with participants sitting farther away from Blacks (M 38.00) than Whites (M 37.34), F(1, 69) 4.71, p .05, 2 .06. However, this main effect was qualified by the predicted interaction, F(1, 69) 4.09, p .05, 2 .06.\nSimple effects tests further confirmed the hypotheses. Participants sat farther away from Blacks (M 38.58) than Whites (M 37.25) in the no learning goals condition, F(1, 69) 9.47, p .01, 2 .12. This was not the case in the learning goals condition, F(1, 69) 0.001, ns. In fact, a simple effects test revealed that participants with learning goals sat closer to Black partners (M 37.42) than did participants without learning goals (M 38.58), F(1, 69) 8.03, p .01, 2 .10. This confirmed the hypothesis that adopting a learning goals perspective protected individuals from stereotype threat."
+        },
+        {
+            "heading": "The Role of Stereotypes",
+            "text": "Similarly to Studies 1 and 2, the Black/no-learning-goals condition and all other conditions were dummy coded (3, \u20131, \u20131, \u20131) to create three-against-one contrast weights. Next, a regression on AB distance was conducted with stereotype activation, the contrast weights, and the interaction of the two as the predictor variables, and ABC distance as the covariate. This analysis revealed a significant main effect of threat, B 1.89, t(69) 2.19, p .05, 2 .06. This main effect, however, was qualified by the predicted interaction, B 0.91, t(69) 1.97, p .05, 2 .05. This finding confirms the hypothesis that activation of the White racist stereotype moderated the relationship between participants\u2019 condition and distance."
+        },
+        {
+            "heading": "The Role of Internal Prejudices",
+            "text": "As with Study 2, internal prejudices\u2014both expressed and implicitly held\u2014did not predict distancing behaviors or attenuate the relationship between stereotype activation and stereotype threat. Similarly, participant MCP scores and Black stereotype activation lacked predictive power, all rs .35, ns; B 0.91, t(68) 1.97, p .05, 2 .05, and using scores on the Attitudes Towards Blacks Scale as covariates in the moderation regression did not reduce the influence of stereotype activation on distance, B 0.96, t(68) 2.10, p .05, 2 .06. This again supports the hypothesis that stereotype activation influences distance over and above stable measures of prejudice."
+        },
+        {
+            "heading": "The Role of Interethnic Anxiety",
+            "text": "To test the relationship between interethnic anxiety and distance, we conducted within-cell, by condition, and overall partial correlations between AB distance and IATAA scores, with ABC distance as the covariate. This produced a positive correlation in the Black condition, r(34) .43, p .01, such that high IATAA\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly .\nscores corresponded to increased distancing from Black partners. A Fisher\u2019s Z test revealed that this correlation also deviated significantly from that observed in the White condition (Z 2.80, p .01).\nTo test whether this relationship attenuated the role of stereotype activation in predicting distance, we performed the moderation regression on AB distance, adding IATAA scores as a second covariate. The regression therefore included the contrast weights, stereotype activation, and the interaction of these two terms as predictor variables, and ABC distance and IATAA scores as the covariates. This analysis again produced a reliable effect of the interaction term on AB distance in the moderation regression, B 0.96, t(68) 1.97, p .05, 2 .05. This serves as a replication of Study 2, where interethnic anxiety predicted distancing from Blacks across condition but did not moderate the role of stereotype threat on distancing behavior."
+        },
+        {
+            "heading": "Discussion",
+            "text": "Study 3 replicated the results of Studies 1 and 2 with regard to distance and the role of stereotype activation on distancing behavior. Study 3 also found support for the hypothesis that shifting the evaluative framework from entitative to incremental can reduce the impact of stereotype threat. There was no evidence that internal prejudice (either explicit or implicit), Black stereotype activation, or motivation to control prejudice contributed to or attenuated the principal findings. Post hoc analyses did find that several factors contributed to participant distance scores. Interethnic anxiety was predictive of participant distance scores. However, none of these factors attenuated the relationship between stereotype activation and distance, suggesting that a stereotype threat framework is still an appropriate one.\nThe robust nature of the principal distance and stereotype activation findings having been demonstrated, there remained a number of outstanding questions. First, the degree to which participants have conscious access to their experience of stereotype threat remained to be tested. Second, Studies 1\u20133 used a paradigm wherein participants either were in racially heterogeneous groups or had lone in-group status. Although this allowed us to covary out individual differences in proximity preference, it introduced the possibility that observed differences in distance were due in part to participants\u2019 \u201ctwo on one\u201d status. Last, Studies 1\u20133 did not incorporate any real interaction between participants and partners. Study 4 was designed to assess whether participants had conscious access to stereotype threat, to assess whether their solo status contributed to the observed distance findings, and to test the phenomenon\u2019s viability when participants actually met their interaction partner.\nStudy 4\nThere were three goals in Study 4. The first was to explore the hypothesis that stereotype threat is consciously accessible. The second was to eliminate the hypothesis that the observed pattern of distance scores in Studies 1\u20133 was due primarily to a \u201csolo\u201d effect rather than to stereotype threat. The third was to ensure that the findings observed in Studies 1\u20133 generalized when participants met the conversation partner. To rule out the possibility that the pattern of distance scores observed in Studies 1\u20133 was due entirely\nto any solo effects, we told participants in Study 4 that they would converse with only one partner, rather than two. This partner was the same Black confederate in all conditions, who participants met shortly before completing the primary dependent variable measures. In order not to arouse suspicion prior to participants\u2019 completing self-report measures asking about their experiences regarding stereotype threat, Study 4 was, like Study 1, a one-session study."
+        },
+        {
+            "heading": "Method",
+            "text": ""
+        },
+        {
+            "heading": "Participants and Design",
+            "text": "Fifty-five White male undergraduates at Stanford University participated in this study in exchange for either $20 or partial course credit. This experiment took the form of a 2 (conversation topic: love and relationships vs. racial profiling) 2 (learning goals: present vs. absent) between-subjects design. Because participants anticipated a conversation with only one partner, there was no covariate in the data analysis. Therefore, unadjusted mean distance between the two chairs was the primary dependent variable. After moving their chair, participants were given a thoughtlisting task and, after this, an explicit stereotype threat scale."
+        },
+        {
+            "heading": "Materials",
+            "text": "Thought-listing task. The thought-listing task was adapted from Vohs and Schmeichel (2003). It measured the degree to which participants spontaneously generated stereotype-threatrelated thoughts during their initial encounter. This allowed for a strong test of the hypothesis that stereotype threat occurs spontaneously and at the level of conscious awareness in certain interracial situations. Coders read each participant\u2019s thought-listing task and coded each participant as either a 1 (if he had listed at least one stereotype-relevant thought) or 0 (if he had listed no stereotype-relevant thoughts). A stereotype-threat-relevant thought listing was defined as \u201cany expression of anxiety due to the racial dynamic in the situation.\u201d\nThere was 100% agreement between coders, who each read all responses. Examples of stereotype-threat-relevant thoughts are given in the Results section.\nExplicit Stereotype Threat Scale (ESTS). The ESTS was adapted from work by Marx and Goff (2005). The scale was originally designed to measure Blacks\u2019 subjective experience of stereotype threat in academic domains. Marx and Goff\u2019s research found that Blacks seemed to have relative awareness of their experience of stereotype threat (reporting higher levels of stereotype threat in conditions where stereotype threat was observed). In the present research, the scale was rewritten to correspond to the stereotype about Whites and racism. The five items were \u201cI worry that my conversation partner might stereotype me as racist because I am White\u201d;\u201cI worry that something I say might be misinterpreted as prejudiced by my conversation partner\u201d; \u201cI never worry that someone will suspect me of being prejudiced just because I am White\u201d; \u201cI worry that my conversation partner\u2019s evaluations of me might be affected by my race\u201d; and \u201cI worry that, because I know the racial stereotype about Whites and prejudice, my anxiety about confirming that stereotype will negatively influence our interaction.\u201d\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly .\nParticipants rated their agreement with the statements on a scale from 1 (strongly disagree) to 7 (strongly agree). Items were then averaged (with the third item reverse-scored). A factor analysis revealed that there was only one factor with an eigenvalue above 1 (3.17) and that this factor accounted for 63% of the total variance in the scale. The scale was also highly reliable, revealing an alpha of .85."
+        },
+        {
+            "heading": "Procedure",
+            "text": "Though the overall paradigm was similar to Studies 1\u20133, there were some noteworthy changes. Participants arrived at the experiment and received the same cover story as in Studies 1\u20133, namely, that they would be participating in a \u201cconversation study.\u201d They were then told to complete a demographic questionnaire prior to the other participant\u2019s arrival. The confederate arrived shortly after the participant and asked whether there was time before the study began to go to the bathroom. The experimenter asked the confederate to wait until the topic had been selected. The participant and confederate then drew slips of paper out of a grab bag one at a time. Each slip had one of five conversation topics on it. After each had drawn one slip, they looked at both and compared. If they had drawn the same slip, they would discuss that topic. If they had drawn different slips, they would place both slips back into the bag and draw again until they both drew the same slip at the same time. In one condition, only \u201cracial profiling\u201d was written on more than one slip, and in the other, only \u201clove and relationships\u201d was written on more than one slip, thus ensuring that the experimenter could decide what topic would be discussed.\nAfter the topic had been chosen, the confederate entered the conversation room, where there was one chair at the center of the room and one chair in the corner. The confederate placed his jacket and book bag on the chair at the center and excused himself to the bathroom. The experimenter then instructed the participant to move the chair in the corner so that \u201cyou and your partner can have a comfortable conversation\u201d while the experimenter retrieved the rest of the study materials. After a short time, the experimenter returned with a thought-listing task and asked the participant to complete it in the next 5 min \u201csince your partner has not returned yet.\u201d After 5 min, the experimenter returned, collected the thoughtlisting task, and handed the participant the ESTS, explaining that he should complete the scale \u201cwhile I go look for your partner.\u201d After completing the ESTS, participants were probed for suspicions, fully debriefed, and thanked for their participation.\nStudy 4 included three specific hypotheses. First, in the absence of learning goals, we expected that participants would sit farther away from their partner when talking about racial profiling than when talking about love and relationships. There would, however, be no such difference when learning goals were present. Second, because the same Black confederate was used in all conditions, we hypothesized that participants would spontaneously generate more stereotype-threat-relevant thoughts when discussing racial profiling, regardless of the presence or absence of learning goals. It was further hypothesized that participants would score higher on the ESTS when discussing racial profiling as opposed to love and relationships. Third, we hypothesized that in the absence of learning goals, participants\u2019 scores on the ESTS would mediate the relationship between topic discussed (racial profiling vs. love and\nrelationships) and social distance. However, this would not be the case in the presence of learning goals."
+        },
+        {
+            "heading": "Results",
+            "text": ""
+        },
+        {
+            "heading": "Distance Findings",
+            "text": "The data were submitted to a 2 2 ANOVA with conversation topic and instruction condition as the independent variables and distance as the dependent variable. Again, there was no covariate in this analysis. The analysis produced a main effect of conversation topic, with participants sitting farther away from their partner in the racial profiling condition (M 48.65 in.) than in the love and relationships condition (M 42.47 in.), F(1, 51) 4.53, p .05, 2 .08. However, as shown in Figure 4, this main effect was qualified by the predicted interaction, F(1, 51) 9.46, p .01, 2 .16.\nSimple effects tests further confirmed the hypotheses. Participants sat farther away from their partner in the racial profiling condition (M 54.68 in.) than in the love and relationships condition (M 39.82 in.) when learning goals were not present, F(1, 51) 13.80, p .001, 2 .21. This was not the case when learning goals were present, F(1, 51) 0.50, ns. Similarly, when participants expected to discuss racial profiling, they sat farther away from their partner when learning goals were absent (M 54.68 in.) than when learning goals were present (M 42.63 in.), F(1, 51) 9.08, p .01, 2 .15. This was not the case when participants expected to discuss love and relationships, F(1, 51) 1.82, p .10. These results suggest that the results obtained in Studies 1\u20133 were not simply due to participants\u2019 being in the numerical minority (i.e., they were solo in-group members paired with two out-group members)."
+        },
+        {
+            "heading": "Thought-Listing Task",
+            "text": "Participants showed a great willingness to report stereotypethreat-relevant thoughts, with 27% of participants listing such thoughts. Examples of stereotype-threat-relevant thought listings included statements such as the following: \u201cI feel awkward knowing that I, a White person, will be talking to a Black man about racial profiling\u201d; \u201cI hope it doesn\u2019t affect my conversation on the subject that the other person is of a different race, though I don\u2019t imagine it would\u201d; \u201cMy first thought when I saw \u2018racial profiling\u2019 as a topic, and my partner was of a different ethnicity was that I might want to be cognizant of this and be somewhat careful in my remarks\u201d; and \u201cOh shit, this guy is Black!\u201d\nTo be considered stereotype threat relevant, a thought had to include specific reference to anxiety and race. A chi-square test revealed that significantly more participants generated stereotypethreat-relevant listings when they anticipated discussing racial profiling (50%) than when they anticipated discussing love and relationships (4%), 2(1) 12.2, p .001. As hypothesized, participants who anticipated discussing racial profiling were as likely to generate stereotype-threat-related thoughts when learning goals were present (50%) as when learning goals were absent (50%). Similarly, participants expecting to discuss love and relationships were equally unlikely to generate stereotype-threatrelated thoughts (in fact, only 1 participant listed a stereotyperelevant thought in the love and relationships condition).\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly .\nNext, it was hypothesized that participants who generated stereotype-threat-relevant thoughts would be more likely to create distance from their conversation partners, but only in the absence of learning goals. To test this hypothesis, we submitted participants\u2019 distance measures to a 2 2 ANOVA with learning goals (present vs. absent) and stereotype-threat-relevant thought listings (present vs. absent) as the predictor variables. Because only 1 participant who was assigned to talk about love and relationships listed a stereotype-threat-relevant thought, the analysis was restricted to participants assigned to talk about racial profiling. This analysis revealed a main effect of learning goals condition, F(1, 24) 7.59, p .01, 2 .24, that was qualified by the predicted two-way interaction, F(1, 24) 7.46, p .01, 2 .24. Simple effects tests further revealed that participants who anticipated talking about racial profiling and who were not given learning goals sat farther away from their partners when they generated stereotype-threat-relevant thoughts (M 65.14) than when they did not (M 40.14), F(1, 24) 9.36, p .005, 2 .28. When learning goals were present, however, participants who expected to discuss racial profiling sat equally close when they generated stereotype-threat-relevant thoughts (M 45.21) and when they did not generate such thoughts (M 45.12).\nThese findings suggest that participants spontaneously generate stereotype-threat-relevant thoughts and that the generation of these thoughts is related to distance in the absence of learning goals. However, given the fact that no participants who anticipated discussing love and relationships generated threat-relevant thought listings in the absence of learning goals, it was not possible to test the potential mediational role of these thought listings. Additionally, a continuous variable might be better able to capture the relationship between an individual\u2019s subjective experience of threat and distance than would the mere presence of a threat-\nrelevant thought listing. Therefore, the ESTS was included in order to supplement these limitations of the thought-listings methodology."
+        },
+        {
+            "heading": "Explicit Stereotype Threat Scale",
+            "text": "The percentage of stereotype-threat-relevant thoughts participants listed was highly correlated with their score on the ESTS, indicating high construct validity of the scale, r(55) .52, p .001. A t test revealed that participants who listed stereotypethreat-relevant thoughts scored higher on the ESTS (M 5.00) than those who did not list stereotype-threat-relevant thoughts (M 3.17), t(53) 5.70, p .001, 2 .38. Next, stereotype threat scores were submitted to a 2 2 ANOVA where conversation topic and learning goals were the independent variables. Similar to the thought-listing results, this analysis revealed only a main effect of conversation topic, such that participants expecting to discuss racial profiling reported significantly higher levels of stereotype threat (M 4.30) than did those expecting to discuss love and relationships (M 3.00), F(1, 51) 17.98, p .001, 2 .26. That those who generated stereotype-threat-relevant thoughts experienced more stereotype threat and that patterns of thought listings and stereotype threat scores were similar demonstrates a strong relationship between an individual\u2019s stereotype threat score and the occurrence of stereotype-threat-relevant thoughts."
+        },
+        {
+            "heading": "Mediational Analysis",
+            "text": "To test the relationship between explicit stereotype threat scores and distance, we followed the steps outlined by Baron and Kenny (1986) to test for mediation, first in the learning goals absent\nFigure 4. Distance scores in Study 4. Values are means (and standard errors); F(1, 51) 9.46, p .01.\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly .\ncondition and then in the learning goals present condition. All four steps outlined by Baron and Kenny are satisfied when learning goals are absent. That is, first, the independent variable (conversation topic) significantly predicts the dependent variable (distance), B 14.86, t(26) 3.28, p .005, 2 .29. Second, the independent variable predicts the mediator variable (explicit stereotype threat score), B 1.31, t(26) 3.41, p .005, 2 .31. Third, when the independent variable is held constant, the mediator variable predicts the dependent variable, B 4.96, t(25) 2.32, p .05, 2 .18. And fourth, when the mediator is held constant, the independent variable predicts significantly less of the variance of the dependent variable (Sobel test, Z 1.92, p .05).\nThese steps are not satisfied when learning goals are present. This finding supports the hypothesized moderated mediation model. Because the independent variable still predicts the dependent variable after the mediator variable is controlled for, this model may best be described as moderated partial mediation. This suggests that other factors may also contribute to the effect of threat on distancing."
+        },
+        {
+            "heading": "A Note on Design and Mediation",
+            "text": "Because there was concern that asking questions about one\u2019s experience of stereotype threat might impact racial distancing behavior, and because there was no a priori reason to suspect that positioning one\u2019s chair would influence one\u2019s experience of stereotype threat, the ESTS was moved to the end of the experiment. Because this mediator variable was placed after the primary dependent variable, it can be argued that it is improper to test for mediation, as the study does not have a conventional mediational design. However, recent analytic strategies have defied this convention (Keller & Dauenheimer, 2003).\nWhen Keller and Dauenheimer (2003) found that there was no a priori reason that their dependent variable should influence their mediator variable, they compared the mediational pathways as they hypothesized, as well as \u201creverse\u201d\u2014that is, switching the mediator and dependent variables in the analyses. If this reverse mediation is a less compelling statistical model for the data than the mediational model proposed by the researchers, then the design irregularity is overlooked.\nIn the present research, there was no reason to believe, a priori, that positioning one\u2019s chair would influence the level of stereotype threat one reported. Therefore, the data were submitted to a reverse mediational analysis, with conversation topic as the independent variable, distance as the mediator variable, and explicit stereotype threat score as the dependent variable. As this analysis produced numbers identical to those of the hypothesized mediational model and the hypothesized model is more logically consistent, we concluded that although the study design is not a traditional mediational design, the hypothesized mediational analysis is an appropriate way to interpret the present data."
+        },
+        {
+            "heading": "Discussion",
+            "text": "Study 4 demonstrated that the findings of Studies 1\u20133 could be extended to one-on-one interactions with actual partners. Additionally, participants demonstrated access to their subjective experiences of stereotype threat, and reports of this experience were, in turn, predictive of behavior.\nGeneral Discussion\nRacial prejudice and racial distancing are not the same thing. Though both may lead to racial harms, they can do so via different mechanisms and it is possible for one to exist in the absence of the other. The four studies presented here provide support for the hypothesis that stereotype threat may cause Whites to distance themselves from Blacks. This distancing was unrelated to racial prejudices, either implicit or explicit. When White participants expected to discuss a racially contentious topic with Black partners, the threat of appearing racist caused them to physically distance themselves from those partners in each of the four studies. Both stereotype activation (Studies 1\u20133) and stereotype-threatrelevant thoughts (Study 4) were positively related to distance, such that the more White participants thought about the stereotype, the farther away they moved. However, neither implicit nor explicit measures of prejudice predicted this pattern of distancing (Studies 2 and 3), and no measure of prejudice moderated the role of stereotype threat on distance. Identifying which contexts can overwhelm individual differences in racial attitudes and under what conditions would be a worthy project in light of these results.\nAlso deserving further investigation is the question of subjective experience. Study 4 lends support to the hypothesis that individuals may consciously experience stereotype threat (Marx & Goff, 2005). Although this does not resolve the debate about the relative role of \u201chot\u201d and \u201ccold\u201d processes in producing performance decrements (Schmader & Johns, 2003; see Wheeler & Petty, 2001), it does suggest that there is an underexplored qualitative component to this phenomenon. The subjective experience of stereotyped targets, therefore, deserves consideration in future research on the topic.\nThe present research also explores new facets of stereotype threat theory. These studies are the first to apply stereotype threat to interracial interactions. These findings suggest a promising salve for the negative consequences of stereotype threat, namely, learning goals (Dweck, 1996; Hong et al., 1995). In Studies 3 and 4, participants who were given learning goals were made to feel that their situation was less evaluative. Participants were therefore protected from the negative consequences of stereotype threat. This suggests an exciting direction for future stereotype threat research. Although stereotype threat may operate differently for different groups and in different contexts, it is possible that adopting learning goals may help in other situations, perhaps because, despite the powerful threats participants experience, they are all the more willing to find ways to be at ease in these important settings.\nIt may be important to note that a shift away from an entitative framework with regard to stereotypes is also a shift away from an essentialist framework of that stereotype. That is, understanding a generalization about one\u2019s group as something other than innate and unchangeable is a departure from the dominant view of stereotypes\u2014that they are related to some essential essence of group members (Cosmides, Tooby, & Kurzban, 2003; Eberhardt & Goff, 2005). This is important because it means that any group-based stereotypes for gender, race, and other \u201cbiologistic\u201d groups are, by default, likely to produce higher levels of stereotype threat owing to the essentialist conception of the group and the consequent stereotypes. A focus on learning may cause evaluations to seem less dire, or it may cause stereotypes to be seen in less essentialist\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly .\nterms, and either of these outcomes may protect one from the negative consequences of stereotype threat. Therefore, regardless of how learning goals protect individuals against the negative consequences of stereotype threat, their utility deserves further investigation.\nApart from advances regarding stereotype threat, the present research suggests that studying racial distancing behavior\u2014 separate from racial prejudice\u2014has utility. Though perceivers are capable of distinguishing between racially prejudiced intent and racial harms (Swim, Scott, Sechrist, Campbell, & Stangor, 2003), social psychologists sometimes do not make this distinction. That is, by conflating racial harms (such as distancing) with racial prejudice, researchers run the risk of ignoring important causes of racial harms. And, though moving a chair may not constitute dire racial injury, it is easy to imagine how similar subtle behaviors could lead to feelings of isolation, or worse, when experienced in the aggregate. In some contexts, such as in an interview or when solving problems as a team, nonverbal behaviors have even been demonstrated to produce racial harms in the moment (Dovidio et al., 2002; Sanchez-Burks, 2002; Word et al., 1974). The present research suggests, then, that racial harms occurring in the absence of racial animus may be no less damaging for their lack of intent."
+        },
+        {
+            "heading": "A Note on Stereotype Threat and Racism",
+            "text": "If a racial harm occurs but racist actors and intents are not present, what does one call that harm? Is it racism? As BonillaSilva (2003) mused, is it possible to have \u201cracism without racists\u201d? Although racial prejudice remains a persistent feature of the U.S. social landscape, the present research suggests that there exist contexts that can overwhelm one\u2019s racial biases\u2014or lack thereof. That is not to say that these individuals lack racial prejudice or that racial prejudice is not an important predictor of racial discrimination. But in contexts such as those in the present research, is it objectionable to fear being seen as racist?\nThis question is particularly important if calling an action racist can lead to further racial disparities (e.g., by causing distancing behavior). However, using the term racism might also have certain advantages. For example, it seems difficult to imagine that terms such as stereotype threat, contextual factors, or racial disparities would inspire the kind of moral outrage or rush to respond that the term racism occasions. The fact that participants in these experiments seemed so vigilant to the possibility of appearing racist indicates that they may also be motivated to reduce racism where they observe it.\nFraming racial disparities as racism may influence an agent\u2019s desire to alleviate those racial disparities as well as that individual\u2019s level of stereotype threat. Consequently, framing racial disparities in terms of racism could influence how and even whether the disparity is confronted. It is possible, then, that the term racism itself is due for reexamination. Although racism has been defined in many different ways (for a review, see Collins, 1991; Jones, 1997), it is rare that scholars or laypeople distinguish between racism and racists. Perhaps it is possible to construct a conception of racism that foregrounds the harm being done to one group without simultaneously castigating the members of another. Regardless, although the question of what to call racial harms without racist actors is beyond the scope of this empirical project, it seems an important question for researchers of racial disparities to con-\nsider, as changing our conception of the problem may allow us to form better solutions to it."
+        },
+        {
+            "heading": "Conclusion",
+            "text": "The present research is a contextual approach to interracial difficulties and is therefore an optimistic one. A stereotype threat approach to interracial contact does not locate racial problems in the \u201chearts and minds\u201d of prejudiced agents. Rather, it suggests that certain features of an interracial context can create identity threats that lead to distancing. And, because the threat is contextual, so too may be the solution. Though social psychologists frequently examine racial discrimination by investigating problems in the \u201chearts and minds\u201d of racist actors, it may be that the metaphorical racial divide is amenable to subtle changes in context. Creating a context in which individuals are free to act out their desire to learn may be enough to bring people together\u2014or at least have the beginnings of a comfortable conversation.\nReferences\nAllport, G. W. (1954). The nature of prejudice. Oxford, England: AddisonWesley. Baron, R. M., & Kenny, D. A. (1986). The moderator\u2013mediator variable distinction in social psychological research: Conceptual, strategic and statistical considerations. Journal of Personality and Social Psychology, 51, 1173\u20131182. Blascovich, J., Spencer, S. J., Quinn, D., & Steele, C. M. (2001). African Americans and high blood pressure: The role of stereotype threat. Psychological Science, 12, 225\u2013229. Bobo, L. (1983). Whites\u2019 opposition to busing: Symbolic racism or realistic group conflict? Journal of Personality and Social Psychology, 45, 1196\u20131210. Bogardus, E. S. (1925). Social distance and its origins. Journal of Applied Sociology, 9, 216\u2013226. Bogardus, E. S. (1938). Social distance and its practical applications. Sociology and Social Research, 22, 462\u2013476. Bonilla-Silva, E. (2003). Racism without racists: Color-blind racism and the persistence of racial inequality in the United States. Boulder, CO: Rowman & Littlefield. Bosson, J. K., Haymovitz, E. L., & Pinel, E. C. (2004). When saying and doing diverge: The effects of stereotype threat on self-reported versus non-verbal anxiety. Journal of Experimental Social Psychology, 40, 247\u2013255. Brigham, J. C. (1993). Racial attitudes of college students. Journal of Applied Social Psychology, 23, 1933\u20131967. Britt, T. W., Boniecki, K. A., Vescio, T. K., Biernat, M., & Brown, L. M. (1996). Intergroup anxiety: A person situation approach. Personality and Social Psychology Bulletin, 22, 1177\u20131188. Button, S. B., Mathieu, J. E., & Zajac, D. (1996). Goal orientation in organizational research: A conceptual and empirical foundation. Organizational Behavior and Human Decision Processes, 67, 26\u201348. Chiu, C., Hong, Y., & Dweck, C. S. (1997). Lay dispositions and implicit theories of personality. Journal of Personality and Social Psychology, 73, 19\u201330. Collins, P. H. (1991). Black feminist thought: Knowledge, consciousness, and the politics of empowerment. Perspectives on gender (Vol. 2). New York: Routledge. Cosmides, L., Tooby, J., & Kurzban, R. (2003). Perceptions of race. Trends in Cognitive Sciences, 7, 173\u2013179. Davies, P. G., Spencer, S. J., Quinn, D. M., & Gerhardstein, R. (2002). Consuming images: How television commercials that elicit stereotype\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly .\nthreat can restrain women academically and professionally. Personality and Social Psychology Bulletin, 28, 1615\u20131628. Dovidio, J. F. (2001). On the nature of contemporary prejudice: The third wave. Journal of Social Issues, 57, 829\u2013849. Dovidio, J. F., Kawakami, K., & Gaertner, S. L. (2002). Implicit and explicit prejudice and interracial interaction. Journal of Personality and Social Psychology, 82, 62\u201368. Duckitt, J. (1992). Psychology and prejudice: A historical analysis and integrative framework. American Psychologist, 47, 1182\u20131193. Dunton, B. C., & Fazio, R. H. (1997). An individual difference measure of motivation to control prejudiced reactions. Personality and Social Psychology Bulletin, 23, 316\u2013326. Dweck, C. S. (1996). Implicit theories as organizers of goals and behavior. In P. M. Gollwitzer & J. A. Bargh (Eds.), The psychology of action: Linking cognition and motivation to behavior (pp. 69\u201390). New York: Guilford Press. Eberhardt, J. L., & Goff, P. A. (2005). Seeing race. In C. S. Crandall & M. Schaller (Eds.), The social psychology of prejudice: Historical perspectives. Seattle, WA: Lewinian Press. Frantz, C. M., Cuddy, A. J. C., Burnett, M., Ray, H., & Hart, A. (2004). A threat in the computer: The Race Implicit Association Test as a stereotype threat experience. Personality and Social Psychology Bulletin, 30, 1611\u20131624. Gaertner, S. L., & Dovidio, J. F. (1986). The aversive form of racism. In J. F. Dovidio & S. L. Gaertner (Eds.), Prejudice, discrimination, and racism (pp. 61\u201389). Orlando, FL: Academic Press. Goff, P. A., Thomas, M. A., & Jackson, M. C. (in press). \u201cAin\u2019t I a woman\u201d: Towards an intersectional approach to person perception and group-based harms. Sex Roles. Greenwald, A. G., McGhee, D. E., & Schwartz, J. L. K. (1998). Measuring individual differences in implicit cognition: The Implicit Association Test. Journal of Personality and Social Psychology, 74, 1464\u20131480. Hong, Y., Chiu, C., & Dweck, C. S. (1995). Implicit theories of intelligence: Reconsidering the role of confidence in achievement motivation. In M. Kernis (Ed.), Efficacy, agency, and self-esteem (pp. 197\u2013216). New York: Plenum. Jones, J. M. (1997). Prejudice and racism. New York: McGraw-Hill. Keller, J., & Dauenheimer, D. (2003). Stereotype threat in the classroom:\nDejection mediates the disrupting threat effect on women\u2019s math performance. Personality and Social Psychology Bulletin, 29, 371\u2013381. Macrae, C. N., Bodenhausen, G. V., Milne, A. B., & Jetten, J. (1994). Out of mind but back in sight: Stereotypes on the rebound. Journal of Personality and Social Psychology, 67, 808\u2013817. Marx, D. M., & Goff, P. A. (2005). Clearing the air: The effect of experimenter race on target\u2019s test performance and subjective experience. British Journal of Social Psychology, 44, 645\u2013657. McConahay, J. B. (1986). Modern racism, ambivalence, and the Modern Racism Scale. In J. F. Dovidio & S. L. Gaertner (Eds.), Prejudice, discrimination, and racism (pp. 91\u2013125). Orlando, FL: Academic Press. O\u2019Brien, L. T., & Crandall, C. S. (2003). Stereotype threat and arousal: Effects on women\u2019s math performance. Personality and Social Psychology Bulletin, 29, 782\u2013789. Plant, E. A. (2004). Responses to interracial interactions over time. Personality and Social Psychology Bulletin, 30, 1458\u20131471. Plant, E. A., & Devine, P. G. (1998). Internal and external motivation to respond without prejudice. Journal of Personality and Social Psychology, 75, 811\u2013832. Richeson, J. A., & Shelton, J. N. (2003). When prejudice does not pay:\nEffects of interracial contact on executive function. Psychological Science, 14, 287\u2013290. Rosenberg, M. (1965). Society and the adolescent self-image. Princeton, NJ: Princeton University Press. Samelson, F. (1978). From \u201crace psychology\u201d to \u201cstudies in prejudice\u201d: Some observations on the thematic reversal in social psychology. Journal of the Behavioral Sciences, 14, 265\u2013278. Sanchez-Burks, J. (2002). Protestant relational ideology and (in)attention to relational cues in work settings. Journal of Personality and Social Psychology, 83, 919\u2013929. Schmader, T., & Johns, M. (2003). Convergent evidence that stereotype threat reduces working memory capacity. Journal of Personality and Social Psychology, 85, 440\u2013452. Shelton, J. N., Richeson, J. A., Salvatore, J., & Trawalter, S. (2005). Ironic effects of racial bias during interracial interactions. Psychological Science, 16, 397\u2013402. Steele, C. M. (1992, April). Race and the schooling of Black Americans. Atlantic Monthly, 68\u201378. Steele, C. M. (1997). A threat in the air: How stereotypes shape intellectual identity and performance. American Psychologist, 52, 613\u2013629. Steele, C. M., & Aronson, J. (1995). Stereotype threat and the intellectual test performance of African Americans. Journal of Personality and Social Psychology, 69, 797\u2013811. Stone, J., Lynch, C., Sjomeling, M., & Darley, J. M. (1999). Stereotype threat effects on Black and White athletic performance. Journal of Personality and Social Psychology, 77, 1213\u20131227. Swim, J. K., Scott, E. D., Sechrist, G. B., Campbell, B., & Stangor, C. (2003). The role of intent and harm in judgments of prejudice and discrimination. Journal of Personality and Social Psychology, 84, 944\u2013 959. Ugwuegbu, D. C. E., & Anusiem, A. U. (1982). Effects of stress on interpersonal distance in a simulated interview situation. Journal of Social Psychology, 116, 3\u20137. Vohs, K. D., & Schmeichel, B. J. (2003). Self-regulation and the extended now: Controlling the self alters the subjective experience of time. Journal of Personality and Social Psychology, 85, 217\u2013230. Vorauer, J. D., Hunter, A. J., Main, K. J., & Roy, S. A. (2000). Metastereotype activation: Evidence from indirect measures for specific evaluative concerns experienced by members of dominant groups in inter-group interactions. Journal of Personality and Social Psychology, 78, 690\u2013707. Vorauer, J. D., Main, K. G., & O\u2019Connell, G. B. (1998). How do individuals expect to be viewed by members of lower status groups: Content and implications of meta-stereotypes. Journal of Personality and Social Psychology, 75, 917\u2013937. Vorauer, J. D., & Ross, M. (1999). Self-awareness and feeling transparent: Failing to suppress oneself. Journal of Experimental Social Psychology, 35, 415\u2013440. Vorauer, J. D., & Turpie, C. A. (2004). Disruptive effects of vigilance on dominant group members\u2019 treatment of outgroup members: Choking versus shining under pressure. Journal of Personality and Social Psychology, 87, 384\u2013399. Wheeler, S. C., & Petty, R. E. (2001). The effects of stereotype activation on behavior: A review of possible mechanisms. Psychological Bulletin, 127, 797\u2013826. Word, C. O., Zanna, M. P., & Cooper, J. (1974). The nonverbal mediation of self-fulfilling prophecies in interracial interaction. Journal of Experimental Social Psychology, 10, 109\u2013120.\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly .\nAppendix\nTerms Used in the Word-Stem Completion Task\nGeneral White words White racist words Social anxiety words\n___TE (white) (smite) RA____ (racist) (raised) S_Y (shy) (say) W__P (WASP) (whip) SL___ (slave) (slash) SC___D (scared) (scored) M______Y (majority) (minority) HO___ (honky) (honey) SW___ (sweat) (sweet) __CE (race) (face) H__E (hate) (hole) WO___ (worry) (woman) VA_____ (vanilla) (vampire) MA____ (master) (market) ___SE (tense) (sense) PR______E (privilege) (procedure) S_____Y (slavery) (society) AW_____ (awkward) (awesome) BL___ (blond) (blood) HA_____ (hanging) (harvest) ___GE (judge) (large) E____E (Europe) (engine) CRA____ (cracker) (crashed) ST____ (stress) (strong) SU______ (suburbia) (surprise) I_______NT (intolerant) (investment) IN______ (insecure) (internal) HI_____ (history) (himself) B____ED (bigoted) (bearded) ____OUS (nervous) (obvious)\nNote. Words in parentheses are target completions followed by possible alternative completions (in italic).\nReceived December 19, 2005 Revision received April 15, 2007\nAccepted April 17, 2007\nMembers of Underrepresented Groups: Reviewers for Journal Manuscripts Wanted\nIf you are interested in reviewing manuscripts for APA journals, the APA Publications and Communications Board would like to invite your participation. Manuscript reviewers are vital to the publications process. As a reviewer, you would gain valuable experience in publishing. The P&C Board is particularly interested in encouraging members of underrepresented groups to participate more in this process.\nIf you are interested in reviewing manuscripts, please write to the address below. Please note the following important points:\n\u2022 To be selected as a reviewer, you must have published articles in peer-reviewed journals. The experience of publishing provides a reviewer with the basis for preparing a thorough, objective review.\n\u2022 To be selected, it is critical to be a regular reader of the five to six empirical journals that are most central to the area or journal for which you would like to review. Current knowledge of recently published research provides a reviewer with the knowledge base to evaluate a new submission within the context of existing research.\n\u2022 To select the appropriate reviewers for each manuscript, the editor needs detailed information. Please include with your letter your vita. In the letter, please identify which APA journal(s) you are interested in, and describe your area of expertise. Be as specific as possible. For example, \u201csocial psychology\u201d is not sufficient\u2014you would need to specify \u201csocial cognition\u201d or \u201cattitude change\u201d as well.\n\u2022 Reviewing a manuscript takes time (1\u20134 hours per manuscript reviewed). If you are selected to review a manuscript, be prepared to invest the necessary time to evaluate the manuscript thoroughly.\nWrite to Journals Office, American Psychological Association, 750 First Street, NE, Washington, DC 20002-4242.\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly ."
+        }
+    ],
+    "title": "The Space Between Us: Stereotype Threat and Distance in Interracial Contexts",
+    "year": 2007
+}

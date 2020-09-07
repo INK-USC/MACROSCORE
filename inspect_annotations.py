@@ -1,7 +1,7 @@
 import json
 from collections import defaultdict
 
-data = json.load(open("./data_processed/data.json", 'r'))
+data = json.load(open("./data_processed/data.parsed_rpp", 'r'))
 
 all_spans = defaultdict(lambda: [])
 

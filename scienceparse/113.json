@@ -1,0 +1,161 @@
+{
+    "abstractText": "Personal predictions are often optimistically biased. This simple observation has troubling implications for psychologists, economists, and decision theorists concerned with rationality and the accuracy of self-knowledge (Armor & Taylor, 2002; Krizan & Windschitl, 2007; Sweeny, Carroll, & Shepperd, 2006). However, normative conclusions about the impropriety of optimistic bias rest on an untested assumption: that people desire to be accurate when making personal predictions. If people believe, rightly or wrongly, that unrealistic optimism has some value, then optimistic bias may be usefully understood as being consistent with people\u2019s values and beliefs.",
+    "authors": [
+        {
+            "affiliations": [],
+            "name": "David A. Armor"
+        },
+        {
+            "affiliations": [],
+            "name": "Cade Massey"
+        },
+        {
+            "affiliations": [],
+            "name": "Aaron M. Sackett"
+        }
+    ],
+    "id": "SP:e692b56c96f64be4eabf1a2bec5328fd56e054f1",
+    "references": [
+        {
+            "authors": [
+                "D.A. Armor",
+                "S.E. Taylor"
+            ],
+            "title": "When predictions fail: The dilemma of unrealistic optimism",
+            "year": 2002
+        },
+        {
+            "authors": [
+                "D.A. Armor",
+                "S.E. Taylor"
+            ],
+            "title": "The effects of mindset on behavior: Self-regulation in deliberative and implemental frames of mind",
+            "venue": "Personality and Social Psychology Bulletin,",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "R. Buehler",
+                "D. Griffin",
+                "M. Ross"
+            ],
+            "title": "Inside the planning fallacy: The causes and consequences of optimistic time predictions",
+            "year": 2002
+        },
+        {
+            "authors": [
+                "M.G. Haselton",
+                "D. Nettle"
+            ],
+            "title": "The paranoid optimist: An integrative evolutionary model of cognitive biases",
+            "venue": "Personality and Social Psychology Review,",
+            "year": 2006
+        },
+        {
+            "authors": [
+                "R.A. Henry"
+            ],
+            "title": "The effects of choice and incentives on the overestimation of future performance",
+            "venue": "Organizational Behavior and Human Decision Processes,",
+            "year": 1994
+        },
+        {
+            "authors": [
+                "C.T.F. Klein",
+                "M. Helweg-Larsen"
+            ],
+            "title": "Perceived control and the optimistic bias: A meta-analytic review",
+            "venue": "Psychology and Health,",
+            "year": 2002
+        },
+        {
+            "authors": [
+                "Z. Krizan",
+                "P.D. Windschitl"
+            ],
+            "title": "The influence of outcome desirability on optimism",
+            "venue": "Psychological Bulletin,",
+            "year": 2007
+        },
+        {
+            "authors": [
+                "Z. Kunda"
+            ],
+            "title": "The case for motivated reasoning",
+            "venue": "Psychological Bulletin,",
+            "year": 1990
+        },
+        {
+            "authors": [
+                "M.F. Scheier",
+                "C.S. Carver",
+                "M.W. Bridges"
+            ],
+            "title": "Distinguishing optimism from neuroticism (and trait anxiety, self-mastery, and self-esteem): A reevaluation of the life orientation test",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1994
+        },
+        {
+            "authors": [
+                "K. Sweeny",
+                "P.J. Carroll",
+                "J.A. Shepperd"
+            ],
+            "title": "Is optimism always best? Future outlooks and preparedness",
+            "venue": "Current Directions in Psychological Science,",
+            "year": 2006
+        }
+    ],
+    "sections": [
+        {
+            "heading": "Short Report",
+            "text": ""
+        },
+        {
+            "heading": "Prescribed Optimism",
+            "text": "Is It Right to Be Wrong About the Future?"
+        },
+        {
+            "heading": "David A. Armor,1 Cade Massey,2 and Aaron M. Sackett3",
+            "text": "1Department of Psychology, SanDiego State University; 2School of Management, Yale University; and 3Graduate School of"
+        },
+        {
+            "heading": "Business, University of Chicago",
+            "text": "Personal predictions are often optimistically biased. This simple observation has troubling implications for psychologists, economists, and decision theorists concerned with rationality and the accuracy of self-knowledge (Armor & Taylor, 2002; Krizan & Windschitl, 2007; Sweeny, Carroll, & Shepperd, 2006). However, normative conclusions about the impropriety of optimistic bias rest on an untested assumption: that people desire to be accurate when making personal predictions. If people believe, rightly or wrongly, that unrealistic optimism has some value, then optimistic bias may be usefully understood as being consistent with people\u2019s values and beliefs."
+        },
+        {
+            "heading": "METHOD",
+            "text": "To investigate this issue, we examined people\u2019s beliefs about the kinds of predictions (accurate, optimistic, or pessimistic) they and others ought to make. Specifically, we asked participants (N 5 383) to imagine one of four different settings in which predictions (a) would be relevant and (b) might range from overly pessimistic to overly optimistic. These settings, chosen for breadth, included decisions about a financial investment, an academic-award application, a surgical procedure, and a dinner party. For each setting, we created eight vignettes by independently manipulating three variables known to be related to optimism: commitment (whether the decision to engage in a particular action has or has not been made; Armor & Taylor, 2003), agency (whether the decision to commit was, or will be, made by the protagonist or by another person; Henry, 1994), and control (the degree to which the protagonist can influence the predicted outcome; Klein & Helweg-Larsen, 2002).1 Each participant was randomly assigned to one setting and received all eight vignettes, in counterbalanced order, within that setting.\nOne third of participants (n 5 127) were asked to provide prescriptions (i.e., to indicate whether it would be best to be overly pessimistic, accurate, or overly optimistic) for each of the eight vignettes. In order to have descriptive benchmarks for these prescriptions, we asked another third of participants (n 5 128) to indicate what kind of prediction the protagonist in each vignette would make, and the final third (n5 128) to indicate what kind of prediction they themselves would make. Response options ranged from 4 (extremely pessimistic) through 0 (accurate) to14 (extremely optimistic). After responding to all vignettes, participants were asked to complete a measure of dispositional optimism (the Life Orientation Test\u2013Revised, or LOT-R; Scheier, Carver, & Bridges, 1994) and questions about age, gender, and ethnicity."
+        },
+        {
+            "heading": "RESULTS",
+            "text": "Analyses revealed three principal results."
+        },
+        {
+            "heading": "Prescribed Optimism",
+            "text": "Participants clearly prescribed optimism. Those asked to provide prescriptions recommended predictions that were optimistic (M 5 1.12), t(124) 5 10.36, prep > .99, d 5 0.93. Optimistically biased predictions were prescribed in each of the eight vignette conditions, all ts > 1.95, all preps > .87 (see\nTable 1). Overall, the modal prescription was moderately optimistic (12 on our scale), which was endorsed nearly twice as often as accurate (32.3% vs. 17.7%)."
+        },
+        {
+            "heading": "Described Optimism",
+            "text": "Participants asked to describe the predictions of other people (i.e., of the protagonists in the vignettes) reported that people tend to be optimistically biased (M 5 0.82), t(122) 5 8.91, prep > .99, d 5 0.80. Participants asked to describe their own prediction tendencies also reported being optimistically biased (M5 0.82), t(126)5 6.39, prep > .99, d5 0.56. The degrees of bias participants attributed to other people and to themselves did not differ, F < 1.0, n.s. The order of authorship is alphabetical. All authors contributed equally to the work. Address correspondence to David A. Armor, San Diego State University\u2013Psychology, College of Sciences, 5500 Campanile Dr., San Diego, CA 92182-4611, e-mail: darmor@sciences. sdsu.edu. 1The complete vignettes are available in an on-line appendix. See p. 331.\nVolume 19\u2014Number 4 329Copyright r 2008 Association for Psychological Science at Uniwersytet Warszawski on March 25, 2015pss.sagepub.comDownloaded from"
+        },
+        {
+            "heading": "People Are Not Optimistic Enough",
+            "text": "Finally, and most strikingly, participants indicated that people should be even more optimistic than they are. Even though participants described other people and themselves as optimistically biased, they prescribed more optimism than they described (Mdiff 5 0.29), t(373) 5 2.16, prep 5 .94, d 5 0.24."
+        },
+        {
+            "heading": "Robustness Checks",
+            "text": "These principal results were robust across our commitment, agency, and control manipulations. The manipulations did, however, have main effects on prescribed and described optimism (see Table 1). Participants prescribed (and described) more optimism (a) after commitment to a course of action (M5 1.24) rather than before (M5 0.61), F(1, 372)5 136.19, prep> .99; (b) when the decision to commit was the protagonist\u2019s to make (M5 1.04) rather than not (M5 0.80),F(1, 372)5 22.81, prep > .99; and (c) when the protagonist\u2019s control over the outcomewas high (M5 1.34) rather than low (M5 0.51),F(1, 372)5 151.47, prep > .99. These main effects are consistent with the findings of previous research on moderators of optimism and thus serve as validity checks for our prescriptive and descriptive measures.\nThe results were also largely robust across the settings we sampled. Participants (a) prescribed optimism over accuracy in all four settings (preps > .95), (b) described other people as optimistically biased in all settings (preps > .87), (c) described themselves as optimistically biased in all but the award setting (three of four preps> .99), and (d) prescribedmore optimism than they described in all but the investment setting (three of four preps > .64).\nFinally, our principal results were robust across key measured variables. Interestingly, even participants who were self-identified as pessimists on the LOT-R (i.e., participants whose average responses to this measure were below the scale\u2019s midpoint) prescribed optimism (M 5 0.87), t(21) 5 2.91, prep 5 .96. Furthermore, although Asian participants prescribed less optimism than any other ethnic group, t(123)5 1.75, prep5 .84, they still prescribed optimism (M 5 0.72), t(22) 5 2.46, prep 5 .92."
+        },
+        {
+            "heading": "CONCLUSIONS AND IMPLICATIONS",
+            "text": "Prescriptions provide a novel standard for evaluating the quality of personal forecasts. In contrast to the conventional standard of unbiased predictions, people\u2019s prescriptions suggest that they believe optimistically biased predictions are ideal. Although the results from this study do not permit conclusions about the wisdom of these prescriptions (i.e., whether it actually is better to be optimistic than accurate), they do challenge the prevailing assumption that people\u2019s primary goal is to be accurate. These results suggest that optimistic biases may be more than just an unwanted and unintended consequence of motivated reasoning (Kunda, 1990), basic cognitive processes (Buehler, Griffin, & Ross, 2002), or evolutionary forces (Haselton & Nettle, 2006). People appear to recognize that their predictions are biased and that these predictions deviate from an ideal standard. The surprising conclusion, though, is that people believe this deviation is due to predictions not being optimistic enough."
+        },
+        {
+            "heading": "Participants\u2019 Prescriptions for, and Descriptions of, Optimism as a Function of Commitment, Agency, and Control",
+            "text": "Prediction\nPrecommitment Postcommitment\nTotal\nExternal agency Internal agency External agency Internal agency\nLow control\nHigh control\nLow control\nHigh control\nLow control\nHigh control\nLow control\nHigh control\nPrescribed 0.33 1.10 0.48 1.34 0.79 1.84 1.15 1.91 1.12\n(0.17) (0.16) (0.15) (0.15) (0.17) (0.14) (0.16) (0.15) (0.11)\nDescribed: protagonist\u2019s 0.07 0.82 0.20 0.83 0.24 1.46 1.04 2.06 0.82 (0.17) (0.16) (0.16) (0.15) (0.17) (0.14) (0.16) (0.15) (0.11) Described: participant\u2019s 0.24 0.80 0.31 0.91 0.72 1.39 0.67 1.56 0.82\n(0.17) (0.16) (0.15) (0.15) (0.16) (0.14) (0.16) (0.15) (0.11)\nNote. Commitment, agency, and control were manipulated within participants; the three different kinds of predictions were assessed between participants. Response options ranged from 4 (extremely pessimistic) through 0 (accurate) to 14 (extremely optimistic). Standard errors are given in parentheses.\n330 Volume 19\u2014Number 4\nat Uniwersytet Warszawski on March 25, 2015pss.sagepub.comDownloaded from\noptimistic bias: A meta-analytic review. Psychology and Health, 17, 437\u2013446. Krizan, Z., & Windschitl, P.D. (2007). The influence of outcome de-\nsirability on optimism. Psychological Bulletin, 133, 95\u2013121. Kunda, Z. (1990). The case for motivated reasoning. Psychological\nBulletin, 108, 480\u2013498. Scheier, M.F., Carver, C.S., & Bridges, M.W. (1994). Distinguishing\noptimism from neuroticism (and trait anxiety, self-mastery, and self-esteem): A reevaluation of the life orientation test. Journal of Personality and Social Psychology, 67, 1063\u20131078. Sweeny, K., Carroll, P.J., & Shepperd, J.A. (2006). Is optimism always\nbest? Future outlooks and preparedness. Current Directions in Psychological Science, 15, 302\u2013306.\n(RECEIVED 7/13/07; REVISION ACCEPTED 10/29/07)\nSupplementary Material\nThe following supplementary material is available for this article Appendix S1. Vignettes\nThis material is available as part of the on-line article from: http://www.blackwell-synergy.com/doi/full/10.1111/j.14679280.2008.02089.x (This link will take you to the article\u2019s abstract.)\nPlease note: Blackwell Publishing is not responsible for the content or functionality of any supplementary materials supplied by the authors. Any queries (other thanmissingmaterial) should be directed to the corresponding author for the article.\nVolume 19\u2014Number 4 331\nat Uniwersytet Warszawski on March 25, 2015pss.sagepub.comDownloaded from"
+        }
+    ],
+    "title": "Is It Right to Be Wrong About the Future?",
+    "year": 2009
+}

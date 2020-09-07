@@ -1,0 +1,246 @@
+{
+    "abstractText": "Men and women often disagree about the meaning of women\u2019s nonverbal cues, particularly those conveying dating-relevant information. Men perceive more sexual intent in women\u2019s behavior than women perceive or report intending to convey. Although this finding has been attributed to gender differences in the threshold for labeling ambiguous cues as sexual in nature, little research has been conducted to determine etiology. Using a model that differentiates perceptual sensitivity from decisional bias, we found no evidence that men have lenient thresholds for perceiving women\u2019s nonverbal behavior as indicating sexual interest. Rather, gender differences were captured by a relative perceptual insensitivity among men. Just as in previous studies, men were more likely than women to misperceive friendliness as sexual interest, but they also were quite likely to misperceive sexual interest as friendliness. The results point to the promise of computational models of perception in increasing the understanding of clinically relevant social processes. Decoding sexual intent is an arguably difficult task, particularly if the perceiver hopes to decode intent early in an interaction. Women may smile, sustain eye contact, increase physical proximity, or touch their partner to convey romantic or sexual interest. However, all of these cues also could be used to convey simple warmth, friendliness, or platonic interest. Given ambiguity in separating sexual interest from platonic interest and the overlapping nonverbal cues used to signal these two kinds of interest, it should come as no surprise that individuals often disagree about the meaning of nonverbal sexual signals. In particular, men often disagree with women about the presence or degree of women\u2019s sexual intent (see Farris, Treat, Viken, & McFall, 2008, for a review). Men consistently rate female targets as intending to convey a greater degree of sexual interest than do women who rate the same targets\u2014a finding that has been remarkably consistent across studies ranging from those using still photographs and video vignettes to those using live, unscripted interactions (e.g., Abbey, 1982; Abbey & Melby, 1986; Shotland & Craig, 1988). This gender difference in ratings of sexual intent is stable, is readily replicable, and has a medium effect size (Farris et al., 2008). The effect is not confined to the lab. In a large survey of university women, 67% reported that they had experienced an incident in which a male acquaintance misperceived their friendliness to be an indication of sexual interest, and 26% reported that such an event had occurred within the past month (Abbey, 1987; see also Haselton, 2003). In most cases, the negative consequences of sexual misperception will not extend beyond minor social discomfort. However, among a subgroup of individuals, sexual misperception may play an etiological role in the process that ultimately leads to sexual coercion. Sexually coercive men are more likely than noncoercive men to report incidents of sexual misperception (Abbey & McAuslan, 2004; Abbey, McAuslan, & Ross, 1998). Thus, understanding the etiology of gender differences in perception of sexual intent may provide insight into the origins of this normative effect and also inform efforts aimed at preventing sexual coercion. Two main theories have been offered to explain the source of these observed gender differences. The first is a decisionalAddress correspondence to Coreen Farris, Department of Psychological and Brain Sciences, Indiana University, 1101 E. 10th St., Bloomington, IN 47405, e-mail: cofaris@indiana.edu. PSYCHOLOGICAL SCIENCE 348 Volume 19\u2014Number 4 Copyright r 2008 Association for Psychological Science threshold (or bias) theory, according to which men require fewer impelling cues than women before labeling a woman\u2019s behavior as sexual (Haselton & Nettle, 2006; Koukounas & Letch, 2001; Shotland & Craig, 1988). In this interpretation, men and women perceive the same positive behavioral cues, but men are more likely to label those cues as indicative of sexual interest because they have a more lenient decisional threshold than women do. Women are assumed to wait for more compelling sexual-interest cues before being willing to apply the label of sexual interest. It has been suggested that men may develop lenient thresholds for sexual interest through socialization processes that encourage men to be sexually avid and dominant (Abbey, 1982). Evolutionary psychologists have also been strong proponents of a bias interpretation of gender differences in perception of sexual interest, suggesting that it would have been sexually adaptive for men to have a low threshold for detecting probable or even possible mating partners (Haselton & Buss, 2000). The second theory regarding the source of the gender difference posits that men misperceive sexual interest not because they have a low threshold for labeling sexual interest, but rather because they are less sensitive to women\u2019s nonverbal cues than women are and find it perceptually difficult to differentiate the subtle cues that discriminate women\u2019s sexual interest from their platonic interest (Abbey & Harnish, 1995, p. 298; Farris et al., 2008). This theory places men\u2019s performance in perception of sexual interest within the broader context of studies demonstrating that compared with women, men are less sensitive to emotional signaling across a broad range of affect categories (Hall, 1978; McClure, 2000). Such insensitivity may be particularly relevant among young men who are just entering the dating system, and therefore may not have acquired the experience necessary to reliably and accurately discriminate between women\u2019s platonicand sexual-interest cues. If differences in sensitivity to intent describe the perceptual process by which men\u2019s and women\u2019s judgments come to differ, then one would expect that compared with women, men would make more decisional errors in both directions; that is, they not only would be more likely to mistake women\u2019s friendliness for sexual interest, but also would be more likely to mistake women\u2019s sexual interest for friendliness. Despite strong theory and empirical interest in this area, the underlying source of observed gender differences in sexual perception has never been empirically measured and tested. Fortunately, measurement models capable of determining if gender differences in classification patterns reflect bias differences in decisional thresholds or relative insensitivity to different affective categories can be readily translated from simple perception applications in cognitive science. In fact, the implementation of these models in clinical cognitive science is part of a general movement to translate cognitive models in order to be more quantitatively and theoretically explicit about socially and clinically relevant processes (e.g., McFall & Treat, 1999; Neufeld, 2007). Luce\u2019s choice model (Luce, 1959, 1963; Macmillan & Creelman, 2004), closely aligned with the more commonly utilized signal detection theory (SDT; Green & Swets, 1966), provides a simple, computational model that matches the current needs of the field. It provides two parameter estimates that model the perceptual and decisional mechanisms that underlie previously documented gender differences in judgments about women\u2019s interest. Fitting the model to participants\u2019 identification data provides separate estimates of decisional bias and perceptual sensitivity for each individual. By collapsing individual estimates across gender, one can assess the separate contributions of bias and sensitivity to the observed gender differences in identification. In the current study, we sought first to replicate the finding that men are more likely than women to misperceive women\u2019s friendliness as sexual interest. Provided this historically stable empirical result was replicated in our data, we sought to extend the analysis by modeling the underlying source of the gender difference using Luce\u2019s (1959) choice model. Given that formal computational models have never been employed to parse the source of the gender difference, and given that strong theoretical context supports both bias and sensitivity explanations, we approached the research from an exploratory perspective, with an emphasis on methodology capable of uncovering support for one or both theories. In addition, we examined men\u2019s and women\u2019s response to women\u2019s negative nonverbal cues in order to provide a dating-relevant counterpoint that would help clarify the specificity versus generalizability of any gender differences in the perception of women\u2019s nonverbal cues.",
+    "authors": [
+        {
+            "affiliations": [],
+            "name": "Coreen Farris"
+        },
+        {
+            "affiliations": [],
+            "name": "Teresa A. Treat"
+        },
+        {
+            "affiliations": [],
+            "name": "Richard J. Viken"
+        },
+        {
+            "affiliations": [],
+            "name": "Richard M. McFall"
+        }
+    ],
+    "id": "SP:181d2a379f7c8bfec0b5c9c848ae98a3172448ac",
+    "references": [
+        {
+            "authors": [
+                "A. Abbey"
+            ],
+            "title": "Sex differences in attributions for friendly behavior: Do males misperceive females",
+            "venue": "friendliness? Journal of Personality and Social Psychology,",
+            "year": 1982
+        },
+        {
+            "authors": [
+                "A. Abbey"
+            ],
+            "title": "Misperceptions of friendly behavior as sexual interest: A survey of naturally occurring incidents",
+            "venue": "Psychology of Women Quarterly,",
+            "year": 1987
+        },
+        {
+            "authors": [
+                "A. Abbey",
+                "R.J. Harnish"
+            ],
+            "title": "Perception of sexual intent: The role of gender, alcohol consumption, and rape supportive attitudes",
+            "venue": "Sex Roles,",
+            "year": 1995
+        },
+        {
+            "authors": [
+                "A. Abbey",
+                "P. McAuslan"
+            ],
+            "title": "A longitudinal examination of male college students\u2019 perception of sexual assault",
+            "venue": "Journal of Consulting and Clinical Psychology,",
+            "year": 2004
+        },
+        {
+            "authors": [
+                "A. Abbey",
+                "P. McAuslan",
+                "L.T. Ross"
+            ],
+            "title": "Sexual assault perpetration by college men: The role of alcohol, misperception of sexual intent, and sexual beliefs and experiences",
+            "venue": "Journal of Social and Clinical Psychology,",
+            "year": 1998
+        },
+        {
+            "authors": [
+                "A. Abbey",
+                "C. Melby"
+            ],
+            "title": "The effects of nonverbal cues on gender differences in perceptions of sexual intent",
+            "venue": "Sex Roles,",
+            "year": 1986
+        },
+        {
+            "authors": [
+                "R.M. Dawes"
+            ],
+            "title": "Representative thinking in clinical judgment",
+            "venue": "Clinical Psychology Review,",
+            "year": 1986
+        },
+        {
+            "authors": [
+                "C. Farris",
+                "T.A. Treat",
+                "R.J. Viken",
+                "R.M. McFall"
+            ],
+            "title": "Sexual coercion and the misperception of sexual intent",
+            "venue": "Clinical Psychology Review,",
+            "year": 2008
+        },
+        {
+            "authors": [
+                "C. Farris",
+                "R. Viken",
+                "T. Treat",
+                "R. McFall"
+            ],
+            "title": "Heterosocial perceptual organization: Application of the choice model to sexual coercion",
+            "venue": "Psychological Science,",
+            "year": 2006
+        },
+        {
+            "authors": [
+                "D.M. Green",
+                "J.A. Swets"
+            ],
+            "title": "Signal detection theory and psychophysics",
+            "year": 1966
+        },
+        {
+            "authors": [
+                "J.A. Hall"
+            ],
+            "title": "Gender effects in decoding nonverbal cues",
+            "venue": "Psychological Bulletin,",
+            "year": 1978
+        },
+        {
+            "authors": [
+                "M.G. Haselton"
+            ],
+            "title": "The sexual overperception bias: Evidence of a systematic bias in men from survey of naturally occurring events",
+            "venue": "Journal of Research in Personality,",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "M.G. Haselton",
+                "D.M. Buss"
+            ],
+            "title": "Error management theory: A new perspective on cross-sex mind reading",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 2000
+        },
+        {
+            "authors": [
+                "M.G. Haselton",
+                "D. Nettle"
+            ],
+            "title": "The paranoid optimist: An integrative evolutionary model of cognitive biases",
+            "venue": "Personality and Social Psychology Review,",
+            "year": 2006
+        },
+        {
+            "authors": [
+                "E. Koukounas",
+                "N.M. Letch"
+            ],
+            "title": "Psychological correlates of perception of sexual intent in women",
+            "venue": "The Journal of Social Psychology,",
+            "year": 2001
+        },
+        {
+            "authors": [
+                "R.D. Luce"
+            ],
+            "title": "Individual choice behavior. New York: Wiley",
+            "year": 1959
+        },
+        {
+            "authors": [
+                "R.D. Luce"
+            ],
+            "title": "Detection and recognition",
+            "venue": "Handbook of mathematical psychology (Vol",
+            "year": 1963
+        },
+        {
+            "authors": [
+                "N.A. Macmillan",
+                "C.D. Creelman"
+            ],
+            "title": "Detection theory: A user\u2019s guide",
+            "year": 2004
+        },
+        {
+            "authors": [
+                "M.E.J. Masson",
+                "G.R. Loftus"
+            ],
+            "title": "Using confidence intervals for graphically based data interpretation",
+            "venue": "Canadian Journal of Experimental Psychology,",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "E.B. McClure"
+            ],
+            "title": "A meta-analytic review of sex differences in facial expression processing and their development in infants, children, and adolescents",
+            "venue": "Psychological Bulletin,",
+            "year": 2000
+        },
+        {
+            "authors": [
+                "R.M. McFall",
+                "T.A. Treat"
+            ],
+            "title": "Quantifying the information value of clinical assessments with Signal Detection Theory",
+            "venue": "Annual Review of Psychology,",
+            "year": 1999
+        }
+    ],
+    "sections": [
+        {
+            "text": "meaning of women\u2019s nonverbal cues, particularly those conveying dating-relevant information. Men perceive more sexual intent in women\u2019s behavior than women perceive or report intending to convey. Although this finding has been attributed to gender differences in the threshold for labeling ambiguous cues as sexual in nature, little research has been conducted to determine etiology. Using a model that differentiates perceptual sensitivity from decisional bias, we found no evidence that men have lenient thresholds for perceiving women\u2019s nonverbal behavior as indicating sexual interest. Rather, gender differences were captured by a relative perceptual insensitivity among men. Just as in previous studies, men were more likely than women to misperceive friendliness as sexual interest, but they also were quite likely to misperceive sexual interest as friendliness. The results point to the promise of computational models of perception in increasing the understanding of clinically relevant social processes.\nDecoding sexual intent is an arguably difficult task, particularly if the perceiver hopes to decode intent early in an interaction. Women may smile, sustain eye contact, increase physical proximity, or touch their partner to convey romantic or sexual interest. However, all of these cues also could be used to convey simple warmth, friendliness, or platonic interest. Given ambiguity in separating sexual interest from platonic interest and the\noverlapping nonverbal cues used to signal these two kinds of interest, it should come as no surprise that individuals often disagree about the meaning of nonverbal sexual signals. In particular, men often disagree with women about the presence or degree of women\u2019s sexual intent (see Farris, Treat, Viken, & McFall, 2008, for a review). Men consistently rate female targets as intending to convey a greater degree of sexual interest than do women who rate the same targets\u2014a finding that has been remarkably consistent across studies ranging from those using still photographs and video vignettes to those using live, unscripted interactions (e.g., Abbey, 1982; Abbey & Melby, 1986; Shotland & Craig, 1988). This gender difference in ratings of sexual intent is stable, is readily replicable, and has a medium effect size (Farris et al., 2008).\nThe effect is not confined to the lab. In a large survey of university women, 67% reported that they had experienced an incident in which a male acquaintance misperceived their friendliness to be an indication of sexual interest, and 26% reported that such an event had occurred within the past month (Abbey, 1987; see also Haselton, 2003). In most cases, the negative consequences of sexual misperception will not extend beyond minor social discomfort. However, among a subgroup of individuals, sexual misperception may play an etiological role in the process that ultimately leads to sexual coercion. Sexually coercive men are more likely than noncoercive men to report incidents of sexual misperception (Abbey & McAuslan, 2004; Abbey, McAuslan, & Ross, 1998). Thus, understanding the etiology of gender differences in perception of sexual intent may provide insight into the origins of this normative effect and also inform efforts aimed at preventing sexual coercion.\nTwo main theories have been offered to explain the source of these observed gender differences. The first is a decisionalAddress correspondence to Coreen Farris, Department of Psychological and Brain Sciences, Indiana University, 1101 E. 10th St., Bloomington, IN 47405, e-mail: cofaris@indiana.edu.\n348 Volume 19\u2014Number 4Copyright r 2008 Association for Psychological Science\nthreshold (or bias) theory, according to which men require fewer impelling cues than women before labeling a woman\u2019s behavior as sexual (Haselton & Nettle, 2006; Koukounas & Letch, 2001; Shotland & Craig, 1988). In this interpretation, men and women perceive the same positive behavioral cues, but men are more likely to label those cues as indicative of sexual interest because they have a more lenient decisional threshold than women do. Women are assumed to wait for more compelling sexual-interest cues before being willing to apply the label of sexual interest. It has been suggested that men may develop lenient thresholds for sexual interest through socialization processes that encourage men to be sexually avid and dominant (Abbey, 1982). Evolutionary psychologists have also been strong proponents of a bias interpretation of gender differences in perception of sexual interest, suggesting that it would have been sexually adaptive for men to have a low threshold for detecting probable or even possible mating partners (Haselton & Buss, 2000).\nThe second theory regarding the source of the gender difference posits that men misperceive sexual interest not because they have a low threshold for labeling sexual interest, but rather because they are less sensitive to women\u2019s nonverbal cues than women are and find it perceptually difficult to differentiate the subtle cues that discriminate women\u2019s sexual interest from their platonic interest (Abbey & Harnish, 1995, p. 298; Farris et al., 2008). This theory places men\u2019s performance in perception of sexual interest within the broader context of studies demonstrating that compared with women, men are less sensitive to emotional signaling across a broad range of affect categories (Hall, 1978; McClure, 2000). Such insensitivity may be particularly relevant among young men who are just entering the dating system, and therefore may not have acquired the experience necessary to reliably and accurately discriminate between women\u2019s platonicand sexual-interest cues. If differences in sensitivity to intent describe the perceptual process by which men\u2019s and women\u2019s judgments come to differ, then one would expect that compared with women, men would make more decisional errors in both directions; that is, they not only would be more likely to mistake women\u2019s friendliness for sexual interest, but also would be more likely to mistake women\u2019s sexual interest for friendliness.\nDespite strong theory and empirical interest in this area, the underlying source of observed gender differences in sexual perception has never been empirically measured and tested. Fortunately, measurement models capable of determining if gender differences in classification patterns reflect bias differences in decisional thresholds or relative insensitivity to different affective categories can be readily translated from simple perception applications in cognitive science. In fact, the implementation of these models in clinical cognitive science is part of a general movement to translate cognitive models in order to be more quantitatively and theoretically explicit about socially and clinically relevant processes (e.g., McFall & Treat, 1999; Neufeld, 2007). Luce\u2019s choice model (Luce, 1959, 1963; Macmillan & Creelman, 2004), closely aligned with the more com-\nmonly utilized signal detection theory (SDT; Green & Swets, 1966), provides a simple, computational model that matches the current needs of the field. It provides two parameter estimates that model the perceptual and decisional mechanisms that underlie previously documented gender differences in judgments about women\u2019s interest. Fitting the model to participants\u2019 identification data provides separate estimates of decisional bias and perceptual sensitivity for each individual. By collapsing individual estimates across gender, one can assess the separate contributions of bias and sensitivity to the observed gender differences in identification.\nIn the current study, we sought first to replicate the finding that men are more likely than women to misperceive women\u2019s friendliness as sexual interest. Provided this historically stable empirical result was replicated in our data, we sought to extend the analysis by modeling the underlying source of the gender difference using Luce\u2019s (1959) choice model. Given that formal computational models have never been employed to parse the source of the gender difference, and given that strong theoretical context supports both bias and sensitivity explanations, we approached the research from an exploratory perspective, with an emphasis on methodology capable of uncovering support for one or both theories. In addition, we examined men\u2019s and women\u2019s response to women\u2019s negative nonverbal cues in order to provide a dating-relevant counterpoint that would help clarify the specificity versus generalizability of any gender differences in the perception of women\u2019s nonverbal cues."
+        },
+        {
+            "heading": "METHOD",
+            "text": ""
+        },
+        {
+            "heading": "Participants",
+            "text": "Two hundred eighty heterosexual undergraduate men (63.6%) and women (36.4%) participated in exchange for course credit. The sample was predominantly White-Caucasian (85.4%; 3.6% African American, 5.0% Asian or Asian American, 2.5% Hispanic, 3.6% other), and the average age was 19.6 years (SD 5 1.72)."
+        },
+        {
+            "heading": "Identification Task",
+            "text": "Seated in a private computer room, participants categorized each of a series of photo images of women into one of four categories: friendly, sexually interested, sad, or rejecting. Each participant was randomly assigned to view the images for 500 ms or 3,000 ms. The 500-ms presentation time was sufficiently short to make it challenging to decode all relevant information thoroughly; the 3,000-ms presentation time provided ample opportunity for thorough processing. Participants viewed the images in four blocks of 70 randomly ordered images, with a 30-s pause separating successive blocks."
+        },
+        {
+            "heading": "Stimulus Set",
+            "text": "Extensive pilot testing produced a set of 280 full-body images of clothed women displaying one of the four dating-relevant emo-\nVolume 19\u2014Number 4 349\ntions. Initially, a sample of 497 undergraduate men provided normative ratings of 1,127 images of undergraduate women who displayed a variety of emotions and wore different clothing styles. The men used 7-point scales to rate how friendly, sexually interested, sad, rejecting, attractive, and provocatively dressed each woman was. Those images rated above the median on the scales of interest were retained for consideration. From this group, we selected images such that approximately half of the retained images were rated above the midpoint for provocative dress. Note that the women in the photos were instructed to select clothing from their own wardrobes; therefore, the variance along the clothing-style continuum is representative of the range of clothing styles that a college student would observe among his or her peers.\nAs the final step in generating the photo set, we asked a new sample of undergraduates (80 men and 80 women) to categorize the women in the photographs as friendly, sexually interested, sad, or rejecting. A photograph was retained if the majority of men and the majority of women categorized the picture into the same affect group. We used a majority criterion, rather than a strong-consensus criterion, to ensure some variability within each category, as variability is required to model the theoretically relevant perception parameters. Finally, in selecting the photographs to be used in the experiment, we examined attractiveness ratings from the original normative sample and ensured that attractiveness was held constant across the four target types. The final set of 280 photographs consisted of 70 images in each of the four affect categories."
+        },
+        {
+            "heading": "Analysis",
+            "text": "Choice-model parameters, sensitivity and bias, were estimated for each participant individually (see Luce, 1959, 1963; Macmillan & Creelman, 2004, pp. 95\u201397, 247\u2013250). The sensitivity parameter a provides a quantitative estimate of an observer\u2019s ability to perceptually distinguish between categories. It is computed as follows:\na \u00bc ffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi H\u00f01 FA\u00de \u00f01 H\u00deFA s ;\nwhere H is the proportion of hits (i.e., the probability of correctly identifying the target) and FA is the proportion of false alarms (i.e., the probability of incorrectly identifying a nontarget as the target). The formula essentially computes a ratio of correct responses to incorrect responses, and thus the value of alpha increases positively as discrimination improves. This general formula is modified for forced-choice tasks with two or more alternatives, such as the identification task we used. For the current study, ln(a) was used to estimate sensitivity:\nln\u00f0a\u00de \u00bc ln Q P\u00f0RijSi\u00de P\u00f0RjjSi\u00de h i ffiffiffi 2 p m\u00f0m 1\u00de ;\nwhere m is the number of response categories, P(Ri|Si) is the probability of a correct response to stimulus i, and P(Rj|Si) is the probability of an incorrect response to stimulus i. Ln(a) is zero when the participant is wholly unable to perceive the category structure and increases positively as sensitivity improves. In our stimulus set, near-perfect sensitivity would correspond to an estimate of 4.63. We calculated four sensitivity estimates, one corresponding to each of the four affect categories (the participant\u2019s ability to discriminate friendliness from all other categories, sexual interest from all other categories, etc.). Readers more comfortable interpreting sensitivity within a signal detection framework may find it helpful to approximate the SDT sensitivity parameter (d0) by dividing ln(a) by 0.81 (Macmillan & Creelman, 2004).\nThe bias parameter quantifies an observer\u2019s response prefer-\nence. The general formula is as follows:\nb \u00bc\nffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi \u00f01 H\u00de\u00f01 FA\u00de\nH\u00f0FA\u00de\ns :\nThus, b is the ratio of the observer\u2019s tendency to use one response over another. For identification tasks with more than two response categories, bias can be computed as a ratio between two response tendencies (Macmillan & Creelman, 2004). We chose to examine the theoretically relevant pairs friendly versus sexually interested (positive affect) and sad versus rejecting (negative affect). The bias parameter can be thought of as an estimate of the threshold at which the participant\u2019s categorization of women\u2019s behavior switches from one category to another. It was computed as follows:\nln bi\nbj\n\u00bc\nln Q P\u00f0RijSk\u00de\nP\u00f0RjjSk\u00de h i m ;\nwhere bi/bj is the ratio of a subject\u2019s bias to provide response i over his or her bias to provide response j, P(Ri|Sk) is the probability of providing response i to stimulus k, and P(Rj|Sk) is the probability of providing response j to stimulus k.\nFor the current study, two decisional-bias estimates were computed for each participant. Positive-affect bias, ln(bfr|bsi), refers to the category boundary between friendliness (\u2018\u2018fr\u2019\u2019) and sexual interest (\u2018\u2018si\u2019\u2019). A value near zero indicates balanced category responses (i.e., the participant was no more likely to respond that positive affect reflected friendliness than to respond that it reflected sexual interest). This estimate becomes increasingly positive the more likely participants are to indicate that positive affect reflects friendliness and becomes increasingly negative the more likely participants are to indicate that positive affect reflects sexual interest. Computing this estimate allowed us to evaluate the prediction that men would be biased to perceive sexuality in women\u2019s ambiguous nonverbal behavior. A significantly lower bias estimate for men than for women would indicate that men have a lower threshold for perceiving sexual intent in women\u2019s nonverbal displays.\n350 Volume 19\u2014Number 4\nThe second bias estimate captures negative-affect bias, ln(bsd|brj), or the category boundary between sadness (\u2018\u2018sd\u2019\u2019) and rejection (\u2018\u2018rj\u2019\u2019). Negative-affect bias increases positively as participants become more likely to respond that negative affect is sadness and declines negatively as participants become more likely to respond that negative affect is rejection.\nIn our stimulus set, almost exclusive reliance on one category response would produce a bias estimate of 6.55 for either positive-affect bias or negative-affect bias. Relying on one category for 70% of all judgments, with equally distributed errors, would produce a bias estimate of 1.95."
+        },
+        {
+            "heading": "Statistical Analysis",
+            "text": "A general linear model (GLM) approach was used to explore gender differences in heterosocial perception as quantified by the choice-model parameters of sensitivity and bias. We report models predicting the following dependent variables: (a) positive-affect sensitivity, (b) negative-affect sensitivity, (c) positiveaffect bias, and (d) negative-affect bias. All models included gender, clothing style (conservative vs. provocative), and presentation time (500 ms vs. 3,000 ms) as predictors. However, presentation time did not interact significantly with gender in any of the analyses reported. The sensitivity models also included an affect factor to discriminate the two types of positive affect (friendliness vs. sexual interest) or negative affect (sadness vs. rejection)."
+        },
+        {
+            "heading": "RESULTS",
+            "text": "The confusion matrix in Table 1 provides a descriptive overview of men\u2019s and women\u2019s categorization of the image set. Note that for all affect categories, women categorized more images correctly than men did. Of course, inaccuracy is the effect of specific interest, particularly in the set of images normatively judged to portray friendliness, as misclassification of friendly women as sexually interested has been the primary area of interest in previous research. As in prior studies, men were more likely than women to misidentify friendly targets as indicating sexual interest (12.1% vs. 8.7%), t(271.4) 5 3.39, p < .01,\nd 5 0.38.1 If this error were due to a tendency to oversexualize the image set, men should also have been more accurate than women at decoding the cues of sexually interested targets. However, Table 1 reveals the opposite; men were more likely than women to misidentify sexually interested targets as indicating friendliness (37.8% vs. 31.9%), t(287) 5 3.03, p< .01, d 5 0.40.\nThe statistical model predicting choice-model parameter estimates of sensitivity to positive affect parsed the source of this descriptive evidence. Compared with women (ln(a) 5 2.30), men (ln(a) 5 1.61) were significantly less sensitive to the distinction between friendliness and sexual interest, F(1, 278) 5 123.38, p < .001, Zp 2 \u00bc :326. The main effect for gender was modified by a three-way interaction among gender, clothing style, and affect, F(1, 278) 5 7.46, p < .01, Zp 2 \u00bc :026, depicted in Figure 1. Post hoc analyses revealed that both men and women were more sensitive to cues signaling friendliness than to cues signaling sexual interest (Tukey\u2019s HSD, p< .01). However, perceptual sensitivity varied as a function of clothing style among men only. The provocativeness of target women\u2019s clothing was not associated with men\u2019s sensitivity to friendliness; however, when a target woman was signaling sexual interest, men were more sensitive to her nonverbal cues when she was dressed provocatively (ln(a) 5 1.39), rather than conservatively (ln(a) 5 0.86, p < .01).\nGender differences in sensitivity also characterized decoding of women\u2019s negative-affect cues. Compared with women (ln(a) 5 1.68), men (ln(a) 5 1.36) were less sensitive to target women\u2019s sad and rejecting nonverbal cues, F(1, 278) 5 33.28, p < .001, Zp 2 \u00bc :107. The two-way interaction between gender and affect (sad vs. rejecting), F(1, 278) 5 9.62, p < .01, Zp 2 \u00bc :033, was significant. However, post hoc tests did not reveal significant differences between men\u2019s differential sensitivity to sad (ln(a) 5 1.43) versus rejecting (ln(a) 5 1.28) affect and women\u2019s\n1Given that the primary aim of this study was to explore the source of observed gender differences in heterosocial perception, only those effects that involve gender are reported here. In a previous publication (Farris, Viken, Treat, & McFall, 2006), we reported significant experimental effects independent of gender in the men\u2019s sample.\nVolume 19\u2014Number 4 351\ndifferential sensitivity to sad (ln(a) 5 1.89) versus rejecting (ln(a) 5 1.47) affect.\nA separate GLM predicting choice-model positive-affect bias estimates was estimated. The analyses revealed that men and women had nearly identical thresholds for labeling positive affect sexual interest, ln(bfr|bsi) 5 0.94 vs. 0.88, respectively, F(1, 278) 5 0.323, p 5 .57. The positive values of the parameter estimates indicate that both men and women were biased to assume that positive affect was friendliness, rather than sexual interest (within this image set). A significant interaction between gender and clothing style, F(1, 278) 5 22.49, p < .001, Zp 2 \u00bc :075, depicted in Figure 2, revealed that women modified their decisional criterion for detecting sexual interest on the basis of clothing style (Tukey\u2019s HSD, p < .01). They adopted a more lenient criterion for labeling positive affect sexual interest when target women were dressed provocatively and a more stringent criterion when target women were dressed conservatively. The same pattern was reflected in men\u2019s decisional processes, but was not significant in post hoc analyses.\nFinally, the statistical model predicting choice-model negative-affect bias estimates revealed a main effect for gender only, F(1, 278) 5 6.45, p < .05, Zp 2 \u00bc :023. Women had a lower decisional threshold for labeling negative affect rejection than\ndid men, ln(bsd|brj) 5 0.365 versus 0.125, respectively. Women were more likely than men to respond that target women\u2019s negative affect indicated rejection, rather than sadness."
+        },
+        {
+            "heading": "DISCUSSION",
+            "text": "The present evaluation of gender differences in perception of sexual intent replicated the long-standing finding that men are more likely than women to misperceive sexual intent in women\u2019s displays of friendliness and showed that gender differences in perceptual sensitivity accounted for this result. Men found platonic-interest cues to be less discriminable from sexual-interest cues than women did. Just as in previous research, they made some mistakes in perceiving sexual intent in friendly displays, but they also misperceived friendliness in sexual-interest displays. That is, they oversexualized some women, but were quite likely to undersexualize other women. Although the methodology varied from that used in early research (we employed an identification paradigm and a series of photographs), the effect sizes (d 5 0.38\u20130.40) were consistent in magnitude with the average effect sizes reported in previous investigations (Farris et al., 2008). Employing a model-based approach capable of parsing decisional bias from perceptual insensitivity, we found no evidence that men\u2019s performance differed from women\u2019s because of a gender difference in decisional thresholds for positive-affect targets. Relative to women, men did not oversexualize the image set, and their decisional criteria for detecting sexual intent were no more or less lenient than women\u2019s. For this image set, the underlying etiology differentiating men\u2019s performance from women\u2019s performance was perceptual sensitivity.\nIn the case of negative affect, men also showed a relative insensitivity to nonverbal cues. Women were more sensitive than men to the distinction between sadness and rejection; however, the effect size for the gender difference in sensitivity was larger within positive-affect categories than within negative-affect\n0\n0.5\n1\n1.5\n2\n2.5\n3\n3.5\nFriendly Sexually Interested\nTarget Category\nFriendly Sexually Interested\nTarget Category\nS en\nsi tiv\nity Conservatively Dressed Provocatively Dressed\n0\n0.5\n1\n1.5\n2\n2.5\n3\n3.5\nS en\nsi tiv\nity\nConservatively Dressed Provocatively Dressed\nFig. 1. Mean sensitivity to friendliness and sexual interest as a function of the target\u2019s clothing style, for men (top panel) and women (bottom panel). Error bars represent 95% confidence intervals, computed according to Masson and Loftus\u2019s (2003) recommendations for between- and within-subjects designs.\n\u20130.5\n0\n0.5\n1\n1.5\n2\nWomenMen\nConservatively Dressed Provocatively Dressed\nP os\niti ve\n-A ffe\nct B\nia s\nFig. 2. Mean estimates of positive-affect bias as a function of the participant\u2019s gender and the target\u2019s clothing style. Error bars represent 95% confidence intervals, computed according to Masson and Loftus\u2019s (2003) recommendations for between- and within-subjects designs.\n352 Volume 19\u2014Number 4\ncategories (.326 vs. .107, respectively). This might suggest that although there is a general tendency for women to be more successful than men at decoding nonverbal cues (Hall, 1978; McClure, 2000), there is a particularly pronounced gender difference when nonverbal cues are sexual in nature. Future research that will continue to explore the magnitude and the boundaries of gender differences in social perception is warranted. In any case, within the realm of sexual bargaining, and sexual coercion in particular, skill in decoding sexual intent may be principally crucial in successfully negotiating sexual relationships, and warrants continued attention.\nIt is important to note that participants in this study were asked to judge affect from relatively impoverished stimuli. Social and sexual communication often occurs in a dynamic and reciprocal interchange between actors. Over time, perceivers may accumulate information about a potential partner\u2019s interest in order to change or refine interpretation of that person\u2019s behavior. It will be important for future research to explore gender differences in bias and sensitivity in response to richer stimuli, such as videotaped vignettes or scripted, live interactions, in order to establish whether gender differences in sensitivity generalize to such stimuli (and whether gender differences in bias come into play). At the same time, first-impression judgments, such as those captured in responses to briefly displayed still photographs, may also influence social perception across longer time scales, and thus merit continued consideration.\nFinally, the question remains as to how to resolve the lack of gender differences in the bias parameter with women\u2019s observations of their own social interactions. Women self-report many incidents in which their attempts to be friendly are misperceived as displays of sexual interest (Abbey, 1987), but do not seem to have the opposite problem of displaying sexual interest only to have it ignored as mere friendliness (Haselton, 2003). If men misperceive positive-affect cues more often than women because of greater insensitivity, should they not take sexual interest to be friendliness as often as they take friendliness to be sexual interest? Are the unequal frequencies of reports of the two types of misperception an indicator that men have a relative bias in the natural environment, even if they fail to display that bias in the laboratory?\nWe believe that women\u2019s self-reports do not challenge the laboratory findings for several reasons. First, women\u2019s observations about misperception of their intent would be reliable only if women had access to the internal perceptual and decisional processes of their social partners, but this is an unlikely assumption. Instead, women probably rely on men\u2019s behavioral cues to infer men\u2019s perception of interest. The behavioral cues that suggest a man has misperceived friendliness as sexual interest are more likely to be inappropriate and memorable than the cues that suggest a man has misperceived sexual interest as friendliness. Indeed, a man who has misperceived sexual intent as friendliness may not provide any diagnostic behavior cues (failure to pursue could be an indicator of misperception, but\ncould just as easily be explained by noninterest). Thus, women may note misperceived friendliness more readily than misperceived sexual interest.\nSecond, the behavioral cues often attributed to misperceived friendliness (e.g., continued advances) may not be produced solely by misperception, but may also be produced after a man accurately perceives noninterest but continues to approach in order to convince, cajole, or persuade. Finally, and most important, base rates must be considered before concluding that observed frequencies of misperceived friendliness versus misperceived sexual interest reflect bias (Dawes, 1986). Base rates of friendliness and sexual interest in the natural environment are likely to be widely discrepant. A woman may have dozens if not hundreds of friendly interactions with men for every one interaction in which she signals sexual interest. Thus, there are many more opportunities for insensitivity to be exposed (and noted by women) within friendly interactions than within interactions characterized by sexual interest. Women\u2019s reports of experiencing misperception of friendliness more frequently than misperception of sexual interest are not inconsistent with gender differences in sensitivity, and may be explained by the unequal base rates of women\u2019s use of friendliness and sexual-interest cues.\nIn summary, parameter estimates provide preliminary support for the argument that disagreements between men and women about the meaning of women\u2019s positive-affect displays are the result of a perceptual difference such that men have more difficulty discriminating sexual interest from friendliness, rather than the result of a tendency among men to oversexualize women\u2019s nonverbal displays. By relying on rigorous, computational modeling techniques, the measurement strategy for the present study was well matched to the theoretical question of interest and made it possible to parse the perceptual and decisional processes hypothesized to underlie the observed disagreement between men and women.\nAcknowledgments\u2014This research was supported by grants\nfrom the National Institute of Mental Health (T32-MH17146)\nand National Institute on Alcohol Abuse and Alcoholism (F31-\nAA016055)."
+        }
+    ],
+    "title": "Perceptual Mechanisms That Characterize Gender Differences in Decoding Women\u2019s Sexual Intent",
+    "year": 2008
+}

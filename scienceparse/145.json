@@ -1,0 +1,358 @@
+{
+    "abstractText": "What motivates individual self-sacrificial behavior in intergroup conflicts? Is it the altruistic desire to help the in-group or the aggressive drive to hurt the outgroup? This article introduces a new game paradigm, the intergroup prisoner\u2019s dilemma\u2013maximizing difference (IPD-MD) game, designed specifically to distinguish between these two motives. The game involves two groups. Each group member is given a monetary endowment and can decide how much of it to contribute. Contribution can be made to either of two pools, one that benefits the ingroup at a personal cost and another that, in addition, harms the out-group. An experiment demonstrated that contributions in the IPD-MD game are made almost exclusively to the cooperative, within-group pool. Moreover, preplay intragroup communication increases intragroup cooperation, but not intergroup competition. These results are compared with those observed in the intergroup prisoner\u2019s dilemma game, in which group members\u2019 contributions are restricted to the competitive, between-group pool. How can one explain the pervasive human willingness \u2018\u2018to fight and die for the ingroup . . . which makes lethal war possible\u2019\u2019 (Campbell, 1965, p. 293)? Narrow, self-interested rationality is clearly not a good explanation. Although it is often rational for groups (e.g., nations, ethnic groups) to fight, it is hardly ever rational for individual group members to participate in largescale intergroup conflict. The effect one individual can possibly have on the conflict\u2019s outcome is negligible, whereas his or her cost (e.g., in forgone opportunities, physical exertion, and risk of injury or death) is rather high. Moreover, the benefits associated with winning the conflict (e.g., territory, political and economic power, group pride) are by and large public goods that are equally available to all the members of the winning group, regardless of whether they paid the cost of participation (Bornstein, 1992, 2003; Rapoport & Bornstein, 1987). This payoff structure creates a clear disincentive for individual group members to participate in intergroup conflict. The explanation for individual participation in intergroup conflict must be rooted at the group level (Bowles, Choi, & Hopfensitz, 2003; Fehr & Fischbacher, 2003). Groups that fail to mobilize sufficient participation will not survive the aggression of other groups (or be able to exploit their weaknesses), and their members, conflict participants and nonparticipants alike, will have to forgo the benefits of victory or, worse yet, bear the costs of defeat. This is indeed why groups employ powerful solidarity mechanisms in time of conflict. Collective group goals and common group identity are highlighted, norms of groupbased altruism are strengthened, punishment and rejection of defectors are increased, and perceptions of the in-group and outgroup are manipulated (Brewer & Campbell, 1976; Campbell, 1965; Levine & Campbell, 1972; Sherif, 1966). Throughout human history, groups with more effective means of instilling self-sacrifice in their members have prevailed over groups with less effective solidarity mechanisms, thereby propagating their Address correspondence to Nir Halevy, School of Business Administration, The Hebrew University of Jerusalem, Mount Scopus, Jerusalem 91905, Israel, e-mail: nyh@mscc.huji.ac.il. PSYCHOLOGICAL SCIENCE Volume 19\u2014Number 4 405 Copyright r 2008 Association for Psychological Science altruistic (i.e., ethnocentric) norms and institutions (Bernhard, Fischbacher, & Fehr, 2006; Boyd, Gintis, Bowles, & Richerson, 2003). MODELING INTERGROUP CONFLICT Intergroup conflicts cannot be understood without taking into consideration the internal tension between group welfare and individual welfare. Because the relative success of the two groups in overcoming this intragroup conflict determines the outcome of the intergroup competition, the intragroup and intergroup levels of conflict must be considered simultaneously. A basicmodel of this two-level structure is the intergroup prisoner\u2019s dilemma (IPD) game (Bornstein, 1992, 2003; Bornstein & BenYossef, 1994). In this section, we illustrate the IPD game using a specific set of parameters (see Bornstein, 2003, for a general definition). The game is played by two groups, with 3 members in each group. Each player receives an endowment of 10 tokens and can contribute any number of these tokens to the group\u2019s pool. For each token contributed by a member of the in-group, each of its members, including the contributor, gains 1 money unit (MU) and each member of the out-group loses 1 MU. For each token kept, the player is paid 2MU. This simple game captures the key strategic properties of a large-scale intergroup conflict, as described in the introduction. Because the individual\u2019s return from contributing a token is 1 MU, but his or her cost is 2 MU, the dominant individual strategy\u2014the strategy that yields the highest personal payoffs regardless of what all the other in-group and out-group members do\u2014is to contribute nothing (i.e., defect). However, because contributing a token generates a total of 3 MU for the group while costing only 2MU, the dominant group strategy\u2014the strategy that yields the highest payoffs for each group regardless of what the other group does\u2014is for all group members to contribute all their tokens. These two properties define the intragroup payoff structure in the IPD game as an n-person (3-person in our example) prisoner\u2019s dilemma (PD) game (Dawes, 1980). This internal dilemma, however, is embedded in a PD game between the two groups. If both groups execute their dominant strategies in this intergroup game, both end upwith relatively poor outcomes. From the collective point of view of both groups and all players, each token contributed is a net waste of 2 MU, because the 2 MU that could be earned by keeping the token is traded off for an ingroup gain that is exactly offset by the out-group\u2019s loss. The collectively optimal strategy\u2014the strategy that maximizes the payoff of all players in both groups\u2014is for all players to withhold contribution (i.e., defect). The relations among individual, group, and collective interests in intergroup conflicts as modeled by the IPD game are clearly illustrated by Dawes\u2019s (1980) battle example. Dawes observed that soldiers who fight in a large battle can reasonably conclude that no matter what their comrades do they personally are better off taking no chances; yet if no one takes chances, the result will be a rout and slaughter worse for all the soldiers than is taking chances. (p. 170) From the perspective of one side, the battle situation is a social dilemma with defection being rational for the individual but harmful to the group. However, from a broader perspective that includes all the soldiers on both sides, defection is both individually rational and collectively efficient. All soldiers in the battle will be better off if they all act selfishly and take no chances, as then no one will be hurt. This additional level of superordinate or collective interest necessarily affects the motivational meaning of individual behavior. Whereas in a single-group dilemma, contributing is unmistakably altruistic and defection is plainly selfish, in intergroup conflicts as modeled by the IPD game, the motivation underlying individual behavior is inherently indistinct. Contributing can be motivated by an altruistic desire to help the ingroup, but it can also result from an aggressive motivation to hurt the out-group (or the competitive motivation to increase the ingroup\u2019s advantage over the out-group). The motivation underlying defection is also ambiguous. Refusing to take part in war can reflect a true altruistic concern for the collective welfare (of all players in both groups), but because defection is also consistent with the individual\u2019s self-interest, a pacifist is always suspected of being a free rider. To disentangle these motivational ambiguities, we introduce a new paradigm, called the intergroup prisoner\u2019s dilemma\u2013maximizing difference (IPD-MD) game. Like the IPD game, the IPDMD game involves a competition between two 3-member groups. Each group member receives an endowment of 10 tokens, each worth 2 MU, and can decide how many of these tokens to contribute. Unlike in the IPD game, however, contributions can be made to two different pools. Contributing a token to the withingroup pool (pool W) increases the payoff for each in-group member, including the contributor, by 1 MU, without affecting the out-group. Contributing a token to the between-group pool (pool B) increases the payoff for each in-group member, including the contributor, by 1MU, and at the same time decreases the payoff for each out-group member by 1 MU. The choice between pools Wand B is what reveals the specific motivation underlying each individual\u2019s behavior. Contributing to pool W clearly indicates a cooperative motivation to benefit the in-group without hurting the out-group. Contributing to pool B, in contrast, indicates an aggressive motivation to hurt the outgroup, or a competitive motivation to increase the in-group\u2019s advantage over the out-group. As in the IPD game, a narrowly If players are concerned only with their in-group\u2019s welfare, and completely disregard that of the out-group, they should divide their contribution randomly between pools W and B. If, however, players intentionally restrict their contributions to pool W, they must be attaching some positive value to the outgroup\u2019s welfare, rather than being merely indifferent to it. 406 Volume 19\u2014Number 4 In-Group Love and Out-Group Hate: A New Game Paradigm",
+    "authors": [
+        {
+            "affiliations": [],
+            "name": "Nir Halevy"
+        },
+        {
+            "affiliations": [],
+            "name": "Gary Bornstein"
+        },
+        {
+            "affiliations": [],
+            "name": "Lilach Sagiv"
+        }
+    ],
+    "id": "SP:623ef30c0e6aaad119293cb593d7e165c603c8e5",
+    "references": [
+        {
+            "authors": [
+                "G.W. Allport"
+            ],
+            "title": "The nature of prejudice",
+            "year": 1954
+        },
+        {
+            "authors": [
+                "C.E. Amiot",
+                "R.Y. Bourhis"
+            ],
+            "title": "Discrimination and the positivenegative asymmetry effect: Ideological and normative processes",
+            "venue": "Personality and Social Psychology Bulletin,",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "C. Bicchieri"
+            ],
+            "title": "Covenants without swords",
+            "venue": "Rationality and Society,",
+            "year": 2002
+        },
+        {
+            "authors": [
+                "G. Bornstein"
+            ],
+            "title": "The free rider problem in intergroup conflicts over step-level and continuous public goods",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1992
+        },
+        {
+            "authors": [
+                "G. Bornstein"
+            ],
+            "title": "Intergroup conflict: Individual, group and collective interests",
+            "venue": "Personality and Social Psychology Review,",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "G. Bornstein",
+                "M. Ben-Yossef"
+            ],
+            "title": "Cooperation in intergroup and single-group social dilemmas",
+            "venue": "Journal of Experimental Social Psychology,",
+            "year": 1994
+        },
+        {
+            "authors": [
+                "S. Bowles",
+                "J.K. Choi",
+                "A. Hopfensitz"
+            ],
+            "title": "The co-evolution of individual behaviors and social institutions",
+            "venue": "Journal of Theoretical Biology,",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "R. Boyd",
+                "H. Gintis",
+                "S. Bowles",
+                "P.J. Richerson"
+            ],
+            "title": "The evolution of altruistic punishment",
+            "venue": "Proceedings of the National Academy of Sciences,",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "M.B. Brewer"
+            ],
+            "title": "The psychology of prejudice: Ingroup love or outgroup hate",
+            "venue": "Journal of Social Issues,",
+            "year": 1999
+        },
+        {
+            "authors": [
+                "M.B. Brewer",
+                "D.T. Campbell"
+            ],
+            "title": "Ethnocentrism and intergroup attitudes: East African evidence",
+            "year": 1976
+        },
+        {
+            "authors": [
+                "T. Buhl"
+            ],
+            "title": "Positive-negative asymmetry in social discrimination: Meta-analytical evidence",
+            "venue": "Group Processes and Intergroup Relations,",
+            "year": 1999
+        },
+        {
+            "authors": [
+                "D.T. Campbell"
+            ],
+            "title": "Ethnocentric and other altruistic motives",
+            "venue": "Nebraska Symposium on Motivation (Vol",
+            "year": 1965
+        },
+        {
+            "authors": [
+                "D.T. Campbell"
+            ],
+            "title": "On the genetics of altruism and the counterhedonic components in human culture",
+            "venue": "Journal of Social Issues,",
+            "year": 1972
+        },
+        {
+            "authors": [
+                "R.M. Dawes"
+            ],
+            "title": "Social dilemmas",
+            "venue": "Annual Review of Psychology,",
+            "year": 1980
+        },
+        {
+            "authors": [
+                "R.J.P. De Figuerdo",
+                "Jr.",
+                "Z. Elkins"
+            ],
+            "title": "Are patriots bigots? An inquiry into the vices of ingroup pride",
+            "venue": "American Journal of Political Science,",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "M. Diehl"
+            ],
+            "title": "Justice and discrimination between minimal groups: The limits of equity",
+            "venue": "British Journal of Social Psychology,",
+            "year": 1989
+        },
+        {
+            "authors": [
+                "R. Jervis"
+            ],
+            "title": "Cooperation under the security dilemma",
+            "venue": "World Politics,",
+            "year": 1978
+        },
+        {
+            "authors": [
+                "H.H. Kelley",
+                "J.W. Thibaut"
+            ],
+            "title": "Interpersonal relations: A theory of interdependence",
+            "year": 1978
+        },
+        {
+            "authors": [
+                "N.L. Kerr",
+                "C.M. Kaufman-Gilliland"
+            ],
+            "title": "Communication, commitment, and cooperation in social dilemmas",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1994
+        },
+        {
+            "authors": [
+                "R.A. Levine",
+                "D.T. Campbell"
+            ],
+            "title": "Ethnocentrism: Theories of conflict, ethnic attitudes and group behavior",
+            "year": 1972
+        },
+        {
+            "authors": [
+                "H.F.M. Lodewijkx",
+                "J.M. Rabbie",
+                "L. Visser"
+            ],
+            "title": "Better to be safe than sorry\u2019\u2019: Extinguishing the individual-group discontinuity effect in competition by cautious reciprocation",
+            "venue": "European review of social psychology (Vol",
+            "year": 2006
+        },
+        {
+            "authors": [
+                "B.P. Meier",
+                "V.B. Hinsz"
+            ],
+            "title": "A comparison of human aggression committed by groups and individuals: An interindividual-intergroup discontinuity",
+            "venue": "Journal of Experimental Social Psychology,",
+            "year": 2004
+        },
+        {
+            "authors": [
+                "A. Mummendey",
+                "S. Otten"
+            ],
+            "title": "Positive-negative asymmetry in social discrimination",
+            "year": 1998
+        },
+        {
+            "authors": [
+                "R. Powell"
+            ],
+            "title": "Absolute and relative gains in international relations theory",
+            "venue": "American Political Science Review,",
+            "year": 1991
+        },
+        {
+            "authors": [
+                "J.M. Rabbie"
+            ],
+            "title": "Is there a discontinuity or a reciprocity effect in cooperation and competition between groups",
+            "year": 1998
+        },
+        {
+            "authors": [
+                "A. Rapoport",
+                "G. Bornstein"
+            ],
+            "title": "Intergroup competition for the provision of binary public-goods",
+            "venue": "Psychological Review,",
+            "year": 1987
+        },
+        {
+            "authors": [
+                "D.L. Rousseau"
+            ],
+            "title": "Motivations for choice: The salience of relative gains in international politics",
+            "venue": "Journal of Conflict Resolution,",
+            "year": 2002
+        },
+        {
+            "authors": [
+                "J. Schopler",
+                "C.A. Insko"
+            ],
+            "title": "The discontinuity effect in interpersonal and intergroup relations: Generality and mediation",
+            "venue": "European review of social psychology (Vol",
+            "year": 1992
+        },
+        {
+            "authors": [
+                "M. Sherif"
+            ],
+            "title": "In common predicament: Social psychology of intergroup conflict and cooperation. Boston: Houghton-Mifflin",
+            "year": 1966
+        },
+        {
+            "authors": [
+                "D. Snidal"
+            ],
+            "title": "The game theory of international politics",
+            "year": 1986
+        },
+        {
+            "authors": [
+                "D. Snidal"
+            ],
+            "title": "International cooperation among relative gains maximizers",
+            "venue": "International Studies Quarterly,",
+            "year": 1991
+        },
+        {
+            "authors": [
+                "H. Tajfel",
+                "J. Turner"
+            ],
+            "title": "The social identity theory of intergroup behavior",
+            "venue": "Psychology of intergroup relations (pp. 7\u201324)",
+            "year": 1986
+        },
+        {
+            "authors": [
+                "J.M. Weber",
+                "S. Kopelman",
+                "D.M. Messick"
+            ],
+            "title": "A conceptual review of decision making in social dilemmas: Applying a logic of appropriateness",
+            "venue": "Personality and Social Psychology Review,",
+            "year": 2004
+        },
+        {
+            "authors": [
+                "T. Wildschut",
+                "B. Pinter",
+                "J.L. Vevea",
+                "C.A. Insko",
+                "J. Schopler"
+            ],
+            "title": "Beyond the group mind: A quantitative review of the interindividual-intergroup discontinuity effect",
+            "venue": "Psychological Bulletin,",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "T. Yamagishi",
+                "T. Kiyonari"
+            ],
+            "title": "The group as a container of generalized reciprocity",
+            "venue": "Social Psychology Quarterly,",
+            "year": 2000
+        }
+    ],
+    "sections": [
+        {
+            "text": "havior in intergroup conflicts? Is it the altruistic desire to help the in-group or the aggressive drive to hurt the outgroup? This article introduces a new game paradigm, the intergroup prisoner\u2019s dilemma\u2013maximizing difference (IPD-MD) game, designed specifically to distinguish between these two motives. The game involves two groups. Each group member is given a monetary endowment and can decide how much of it to contribute. Contribution can be made to either of two pools, one that benefits the ingroup at a personal cost and another that, in addition, harms the out-group. An experiment demonstrated that contributions in the IPD-MD game are made almost exclusively to the cooperative, within-group pool. Moreover, preplay intragroup communication increases intragroup cooperation, but not intergroup competition. These results are compared with those observed in the intergroup prisoner\u2019s dilemma game, in which group members\u2019 contributions are restricted to the competitive, between-group pool.\nHow can one explain the pervasive human willingness \u2018\u2018to fight and die for the ingroup . . . which makes lethal war possible\u2019\u2019 (Campbell, 1965, p. 293)? Narrow, self-interested rationality is clearly not a good explanation. Although it is often rational for\ngroups (e.g., nations, ethnic groups) to fight, it is hardly ever rational for individual group members to participate in largescale intergroup conflict. The effect one individual can possibly have on the conflict\u2019s outcome is negligible, whereas his or her cost (e.g., in forgone opportunities, physical exertion, and risk of injury or death) is rather high. Moreover, the benefits associated with winning the conflict (e.g., territory, political and economic power, group pride) are by and large public goods that are equally available to all the members of the winning group, regardless of whether they paid the cost of participation (Bornstein, 1992, 2003; Rapoport & Bornstein, 1987). This payoff structure creates a clear disincentive for individual group members to participate in intergroup conflict.\nThe explanation for individual participation in intergroup conflict must be rooted at the group level (Bowles, Choi, & Hopfensitz, 2003; Fehr & Fischbacher, 2003). Groups that fail to mobilize sufficient participation will not survive the aggression of other groups (or be able to exploit their weaknesses), and their members, conflict participants and nonparticipants alike, will have to forgo the benefits of victory or, worse yet, bear the costs of defeat. This is indeed why groups employ powerful solidarity mechanisms in time of conflict. Collective group goals and common group identity are highlighted, norms of groupbased altruism are strengthened, punishment and rejection of defectors are increased, and perceptions of the in-group and outgroup are manipulated (Brewer & Campbell, 1976; Campbell, 1965; Levine & Campbell, 1972; Sherif, 1966). Throughout human history, groups with more effective means of instilling self-sacrifice in their members have prevailed over groups with less effective solidarity mechanisms, thereby propagating their Address correspondence to Nir Halevy, School of Business Administration, The Hebrew University of Jerusalem, Mount Scopus, Jerusalem 91905, Israel, e-mail: nyh@mscc.huji.ac.il.\nVolume 19\u2014Number 4 405Copyright r 2008 Association for Psychological Science\naltruistic (i.e., ethnocentric) norms and institutions (Bernhard, Fischbacher, & Fehr, 2006; Boyd, Gintis, Bowles, & Richerson, 2003).\nMODELING INTERGROUP CONFLICT\nIntergroup conflicts cannot be understood without taking into consideration the internal tension between group welfare and individual welfare. Because the relative success of the two groups in overcoming this intragroup conflict determines the outcome of the intergroup competition, the intragroup and intergroup levels of conflict must be considered simultaneously. A basicmodel of this two-level structure is the intergroup prisoner\u2019s dilemma (IPD) game (Bornstein, 1992, 2003; Bornstein & BenYossef, 1994).\nIn this section, we illustrate the IPD game using a specific set of parameters (see Bornstein, 2003, for a general definition). The game is played by two groups, with 3 members in each group. Each player receives an endowment of 10 tokens and can contribute any number of these tokens to the group\u2019s pool. For each token contributed by a member of the in-group, each of its members, including the contributor, gains 1 money unit (MU) and each member of the out-group loses 1 MU. For each token kept, the player is paid 2MU. This simple game captures the key strategic properties of a large-scale intergroup conflict, as described in the introduction. Because the individual\u2019s return from contributing a token is 1 MU, but his or her cost is 2 MU, the dominant individual strategy\u2014the strategy that yields the highest personal payoffs regardless of what all the other in-group and out-group members do\u2014is to contribute nothing (i.e., defect). However, because contributing a token generates a total of 3 MU for the group while costing only 2MU, the dominant group strategy\u2014the strategy that yields the highest payoffs for each group regardless of what the other group does\u2014is for all group members to contribute all their tokens.\nThese two properties define the intragroup payoff structure in the IPD game as an n-person (3-person in our example) prisoner\u2019s dilemma (PD) game (Dawes, 1980). This internal dilemma, however, is embedded in a PD game between the two groups. If both groups execute their dominant strategies in this intergroup game, both end upwith relatively poor outcomes. From the collective point of view of both groups and all players, each token contributed is a net waste of 2 MU, because the 2 MU that could be earned by keeping the token is traded off for an ingroup gain that is exactly offset by the out-group\u2019s loss. The collectively optimal strategy\u2014the strategy that maximizes the payoff of all players in both groups\u2014is for all players to withhold contribution (i.e., defect).\nThe relations among individual, group, and collective interests in intergroup conflicts as modeled by the IPD game are clearly illustrated by Dawes\u2019s (1980) battle example. Dawes observed that\nsoldiers who fight in a large battle can reasonably conclude that no matter what their comrades do they personally are better off taking no chances; yet if no one takes chances, the result will be a rout and slaughter worse for all the soldiers than is taking chances. (p. 170)\nFrom the perspective of one side, the battle situation is a social dilemma with defection being rational for the individual but harmful to the group. However, from a broader perspective that includes all the soldiers on both sides, defection is both individually rational and collectively efficient. All soldiers in the battle will be better off if they all act selfishly and take no chances, as then no one will be hurt.\nThis additional level of superordinate or collective interest necessarily affects the motivational meaning of individual behavior. Whereas in a single-group dilemma, contributing is unmistakably altruistic and defection is plainly selfish, in intergroup conflicts as modeled by the IPD game, the motivation underlying individual behavior is inherently indistinct. Contributing can be motivated by an altruistic desire to help the ingroup, but it can also result from an aggressive motivation to hurt the out-group (or the competitive motivation to increase the ingroup\u2019s advantage over the out-group). The motivation underlying defection is also ambiguous. Refusing to take part in war can reflect a true altruistic concern for the collective welfare (of all players in both groups), but because defection is also consistent with the individual\u2019s self-interest, a pacifist is always suspected of being a free rider.\nTo disentangle these motivational ambiguities, we introduce a new paradigm, called the intergroup prisoner\u2019s dilemma\u2013maximizing difference (IPD-MD) game. Like the IPD game, the IPDMD game involves a competition between two 3-member groups. Each group member receives an endowment of 10 tokens, each worth 2 MU, and can decide how many of these tokens to contribute. Unlike in the IPD game, however, contributions can be made to two different pools. Contributing a token to the withingroup pool (pool W) increases the payoff for each in-group member, including the contributor, by 1 MU, without affecting the out-group. Contributing a token to the between-group pool (pool B) increases the payoff for each in-group member, including the contributor, by 1MU, and at the same time decreases the payoff for each out-group member by 1 MU.\nThe choice between pools Wand B is what reveals the specific motivation underlying each individual\u2019s behavior. Contributing to pool W clearly indicates a cooperative motivation to benefit the in-group without hurting the out-group. Contributing to pool B, in contrast, indicates an aggressive motivation to hurt the outgroup, or a competitive motivation to increase the in-group\u2019s advantage over the out-group.1 As in the IPD game, a narrowly\n1If players are concerned only with their in-group\u2019s welfare, and completely disregard that of the out-group, they should divide their contribution randomly between pools W and B. If, however, players intentionally restrict their contributions to pool W, they must be attaching some positive value to the outgroup\u2019s welfare, rather than being merely indifferent to it.\n406 Volume 19\u2014Number 4\nrational player should contribute nothing. However, withholding contribution (i.e., defection) in this new game is plainly selfish and can no longer be confused with an altruistic concern for the collective welfare.\nTable 1 illustrates the individual payoffs in the IPD-MD game. For simplicity, it specifies only the payoffs for the corner cells, in which all the members of a group contribute their entire endowment to pool W, contribute it all to pool B, or keep all 10 tokens. When the option of contributing to pool W is eliminated, the IPD-MD game is transformed into the IPD game (depicted by the four corner cells, in gray). When the option of contributing to pool B is removed, the game becomes two independent 3-person PD games played side by side (depicted by the four cells inside the thick outline box; Bornstein & Ben-Yossef, 1994). The IPDMD game, in which both these options are available, essentially allows group members to decide whether they wish to play the IPD or the PD game (or, more accurately, how they want to divide their efforts between the two games). If the players are compelled to contribute their entire endowment and they can decide only how to divide their 10 tokens between pools Wand B, the internal free-riding problem is eliminated, and the IPD-MD game is reduced to a maximizing difference (MD) or \u2018\u2018spite\u2019\u2019 game (Kelley & Thibaut, 1978) between the two groups (depicted by the four cells in the triple outline box).\nWe maintain that in addition to being useful for discerning between \u2018\u2018in-group love\u2019\u2019 and \u2018\u2018out-group hate\u2019\u2019 as reasons for individual participation (and between selfishness and universalism as reasons for defection), the IPD-MD game is valuable as a simplified, abstract model of common real-world intergroup situations. Whereas the IPD game models two groups that are already fighting over absolute and relative outcomes, the IPD-\nMD game describes a more benign situation in which the members of each group can choose whether to cooperate in solving their internal dilemmas or compete with the other group for relative payoffs (Jervis, 1978; Snidal, 1986). Being able to choose between military service and equivalent civic or community service is a good example of such a situation."
+        },
+        {
+            "heading": "THE EXPERIMENT: GROUP AND INDIVIDUAL",
+            "text": "BEHAVIOR IN THE IPD AND IPD-MD GAMES\nWe conducted a laboratory experiment that compared behavior in the IPD and IPD-MD games. In half the experimental sessions, the participants made their decisions without communicating with the other in-group members. In the other half, group members met for a short discussion before making their decisions. Allowing group members to communicate (even when, as in the present experiment, communication is nonbinding and has no payoff consequences) has been shown to increase cooperation in one-shot social dilemmas (see Weber, Kopelman, & Messick, 2004, for a review), including the IPD game (Bornstein, 1992). Communication increases cooperation by enhancing group identity and commitment (e.g., Kerr & KaufmanGilliland, 1994), eliciting relevant social norms (Bicchieri, 2002), and manipulating perceptions of the in-group and the out-group (Bornstein, 1992). Studying the IPD and IPD-MD games played without and with communication enabled us to determine the extent to which individual decisions are motivated by in-group love or out-group hate, and whether the intragroup processes that take place during discussion affect the relative significance of these two motives."
+        },
+        {
+            "heading": "Method",
+            "text": ""
+        },
+        {
+            "heading": "Participants",
+            "text": "Two hundred forty male students participated (mean age 5 24 years, SD 5 3).2 They were recruited using ads promising a monetary reward for participation in a group decision-making experiment."
+        },
+        {
+            "heading": "Design and Procedure",
+            "text": "Participants arrived at the laboratory in cohorts of 6 and were randomly assigned to one of the four conditions (IPD or IPD-MD with or without intragroup communication). The participants in each cohort were randomly divided into two 3-person groups. Each participant was escorted into a private room, where he was given instructions concerning the rules and payoffs of the relevant game. The instructions were phrased in neutral language (e.g., the pools were labeled \u2018\u2018A\u2019\u2019 and \u2018\u2018B,\u2019\u2019 with no reference to \u2018\u2018cooperation\u2019\u2019 or \u2018\u2018competition\u2019\u2019) and explained how each play-"
+        },
+        {
+            "heading": "Payoffs in the Intergroup Prisoner\u2019s Dilemma\u2013Maximizing Difference (IPD-MD) Game",
+            "text": "Note. This table presents payoffs for games in which all members of each group make the same decision: to keep all their tokens, contribute all their tokens to pool W, or contribute all their tokens to pool B. In each cell, the left figure is the payoff to each in-group player in monetary units, and the right figure is the payoff to each out-group player in monetary units. When the option of contributing to pool W is eliminated, the IPD-MD game is transformed into the intergroup prisoner\u2019s dilemma game (depicted by the four corner cells, in gray). When the option of contributing to pool B is removed, the game becomes two independent 3-person prisoner\u2019s dilemma games played side by side (depicted by the four cells inside the thick outline box). If the players are compelled to contribute their entire endowment, the IPD-MD game is reduced to a maximizing difference or \u2018\u2018spite\u2019\u2019 game between the two groups (depicted by the four cells in the triple outline box). In experimental contexts, a fixed sum is added to payoffs to ensure that they are positive.\n2We also examined the behavior of all-female groups in the IPD-MD game (played with intragroup communication) and found no differences between allfemale and all-male groups: Women kept similar proportions of the initial endowment (26%) and contributed similar proportions of their endowment to the within-group pool (72.3%) and the between-group pool (1.3%).\nVolume 19\u2014Number 4 407\ner\u2019s own decision and the decisions of the other players would affect the payoffs. Participants subsequently answered a short quiz that tested their understanding of the game\u2019s rules.\nEach participant received an endowment of 10 tokens and had to indicate on a \u2018\u2018decision form\u2019\u2019 how many tokens he was keeping, how many he was contributing to pool W (the withingroup pool in the IPD-MD game), and how many he was contributing to pool B (the between-group pool in the IPD-MD game and the only pool in the IPD game). Each token that was contributed to either poolWor pool B paid 1 NIS (new Israeli shekel) to each in-group member, including the contributor. Each token that was contributed to pool B also subtracted 1 NIS from the payoff to each out-group member. For each token a player kept, he was paid 2 NIS. In addition, each player was paid a flat bonus of 30 NIS to ensure that payoffs would be positive. Thus, participants could earn between 10 NIS and 70 NIS (approximately $2.50 to $17.50), depending on the outcome of the game.\nParticipants in the no-communication condition made their decisions without communicating with the other in-group members. Participants in the communication condition met with the other members of their team for 5min of free discussion and then returned to their rooms to make their decisions in private. Participants were explicitly assured that their decisions would remain confidential.\nAfter submitting their decisions, but before learning the outcomes of the game, participants responded to a postexperimental questionnaire assessing their expectations regarding the behavior of in-group and out-group members (i.e., how many chips, on average, in-group and out-group members had contributed to each of the pools)."
+        },
+        {
+            "heading": "Results",
+            "text": "Following discussion, the decisions of group members were no longer independent. Therefore, all the analyses reported here (including, for the sake of comparison, those pertaining to the no-communication condition) were done at the group level (twenty 3-person groups in each of the four experimental conditions).\nThe type of game had a significant effect on the overall contribution rate\u2014the proportion of tokens that were contributed to either pool W or pool B. Across the two communication conditions, the participants contributed 63% of their endowment in the IPD-MD game, as compared with 51% in the IPD game, F(1, 76) 5 3.96, p 5 .050. The main effect of communication was also significant, F(1, 76) 5 21.47, p 5 .000. Across the two games, within-group communication increased the overall contribution rate from 44% to 70%. Game type and communication did not have an interactive effect on the overall contribution rate, F(1, 76) 5 1.41, p 5 .239. Figure 1 presents the mean contribution rates in the four conditions.\nThe most important finding concerns how contributions were divided between pools Wand B in the IPD-MD game. As Figure\n1 shows, contributions were made almost exclusively to the cooperative, within-group pool. In the no-communication condition, participants contributed an average of 47% of their endowment to pool W and less than 6% to pool B.3 Following within-group communication, contributions to pool W increased to 68%, t(29)5 2.756, p5 .010, whereas contributions to pool B remained low, at 4%.\nLooking more closely at the behavior of the individual participants revealed the following pattern. In the IPD game, about 7% of the participants in the no-communication condition contributed all 10 tokens to pool B, and 33% contributed nothing. Following group discussion, the distribution changed dramatically; 57% of the individuals contributed everything, and 18% contributed nothing. In the IPD-MD game, about 77% of participants in the no-communication condition contributed nothing to pool B, and this rate increased to 83% following discussion. About 30% of participants in the no-communication condition contributed everything to pool W, and this rate increased to 58% following group discussion.\nThe different patterns of behavior in the two games resulted in different levels of collective efficiency (i.e., the joint earnings of all the players in both groups as a percentage of the maximum possible earnings). In general, efficiency was higher in the IPDMD than in the IPD game,F(1, 36)5 51.410, p5 .000. As noted earlier, in both games, group communication enhanced individual contributions. However, in the IPD-MD game, communication increased contributions to the cooperative, withingroup pool, thus enhancing efficiency, whereas in the IPD game, communication raised contributions to the competitive, between-group pool, thereby diminishing collective efficiency. This interaction between game type and communication was statistically significant, F(1, 36) 5 18.791, p 5 .000. Specifically, in the IPD-MD game, the 6 players could have earned a total of 180 NIS if they all had contributed their entire endowment to pool W. They actually earned about 78% of this amount in the no-communication condition and almost 87% in the communication condition. In the IPD game, the 6 players could have earned a total of 120 NIS if they had all kept their entire endowment. The average efficiency rate was 65% in the nocommunication condition, and only 32% in the communication condition."
+        },
+        {
+            "heading": "Discussion",
+            "text": "A central issue in the psychological literature on intergroup relations is whether individual behavior in intergroup conflict is motivated by altruism toward the in-group, aggression toward the out-group, or a combination of both (De Figuerdo & Elkins, 2003). As pointed out by Brewer (1999), many researchers (e.g., Sherif, 1966; Tajfel & Turner, 1986) seem to accept that \u2018\u2018in-\n3The contribution rate to pool B in the IPD-MD game was significantly lower than the contribution rate to pool B (the only pool) in the IPD game, F(1, 76)5 109.74, p 5 .000.\n408 Volume 19\u2014Number 4\ngroup love and outgroup hate are reciprocally related\u2019\u2019 (p. 430). Other researchers, including Allport (1954) and Brewer (1999) herself, argue that in-group altruism does not necessarily imply out-group hostility.\nThis issue is equally pertinent to the literature on international relations, in which the group, rather than the individual group member, is the focus of investigation. The question in that field is whether groups (e.g., states, ethnic groups) strive to maximize absolute or relative gains (Jervis, 1978; Powell, 1991; Rousseau, 2002; Snidal, 1991). Whereas liberal institutionalists assume that groups focus on their absolute gains and have little interest in the gains of other groups, structural realists claim that groups are concernedmainly with their gains in comparison with those of other groups.\nTo distinguish between in-group love and out-group hate, or between the maximization of absolute and relative gains, as motives for individual and group behavior in intergroup conflict, we introduced and studied the IPD-MD game. In this game, players could make a costly contribution to either of two pools, one that benefited the in-group and another that, in addition, harmed the out-group. We found that contributions were made almost exclusively to the cooperative, within-group pool. Moreover, communication within the groups increased intragroup cooperation, but not intergroup competition. Clearly, participants in the IPDMD game preferred to maximize their group\u2019s absolute payoffs, rather than compete for relative payoffs, even though they could disadvantage the out-group at no additional cost.\nThis finding supports Campbell\u2019s (1965) impression that \u2018\u2018the altruistic willingness for self-sacrificial death in group causes\nmay be more significant than the covetous tendency for hostility toward outgroup members\u2019\u2019 (p. 293). It is also in line with minimal-group research, which has found that bias in favor of the ingroup is more pronounced in the positive domain (attributing positive traits, allocating rewards) than in the negative domain (attributing negative traits, allocating punishments; e.g., Amiot & Bouhris, 2003; Brewer, 1999; Buhl, 1999; Hewstone, Rubin, & Willis, 2002; Mummendey & Otten, 1998).4\nThe peaceful group coexistence observed in the IPD-MD game was utterly shattered in the IPD game, in which maximizing the in-group\u2019s gain was necessarily at the expense of the out-group (and the broader society). Under these circumstances, group members did not hesitate to compete. One obvious explanation for this behavior is that the in-group members placed more weight on the gains their contribution produced for the ingroup than on the losses it inflicted on the out-group. Another possibility is that in-group members made their contributions because they expected the out-group members to contribute and wanted to defend themselves against the possibility of falling behind. Research on intergroup interaction (e.g., Diehl, 1989) suggests that the fear of falling behind is more of a motivation\n4There is, however, an important methodological difference between the minimal-group research and the IPD-MD game paradigm. In the minimal-group paradigm, in-group favoritism and out-group derogation are investigated separately by manipulating the valence (positive/negative) of the evaluated traits and the behavioral mode (allocation/removal) of the allocated resources (Amiot & Bouhris, 2003; Mummendey & Otten, 1998). In the IPD-MD game, the relative strength of the two motives is assessed within subjects by having them make a single decision that affects their own welfare, the welfare of their ingroup, and, if they so choose, the welfare of the out-group.\nVolume 19\u2014Number 4 409\nthan the aspiration to get ahead. This explanation is consistent with the results of our postexperimental questionnaire, which indicated that participants in the IPD game expected the outgroup members to behave more competitively than did participants in the IPD-MD game, F(1, 76) 5 171.384, p 5 .000."
+        },
+        {
+            "heading": "IMPLICATIONS FOR CONFLICT RESOLUTION",
+            "text": "Groups are generally considered competitive and aggressive\u2014 more so than individuals (Meier & Hinsz, 2004; Rabbie, 1998). This view of groups has been corroborated by a series of experiments comparing strategic interaction between two groups with interaction between two individuals (e.g., Schopler & Insko, 1992; Wildschut, Pinter, Vevea, Insko, & Schopler, 2003). The typical finding in these experiments was that groups interact more competitively than individuals, an effect that has been labeled the individual-group discontinuity effect.\nThe present study found that groups are not competitive or aggressive per se. In fact, when possible, group members prefer to cooperate so as to maximize their absolute group gains, rather than to compete against the out-group for relative gains (and they assume that out-group members have similar preferences). However, when maximizing in-group gain necessitates hurting the out-group, in-groupmembers do not hesitate to compete (and they assume that out-group members would be similarly competitive). Although these results may appear at odds with the discontinuity hypothesis, this is not necessarily the case. The discontinuity research investigated intergroup and interindividual interactions in the 2-person PD game. In this game, as in the IPD game we used, competition can be motivated by either absolute- or relative-gain considerations. Groups may very well appear more competitive than individuals simply because they are more rational players with better insight into the strategic structure of the game than individuals (Bornstein, 2003; Lodewijkx, Rabbie, & Visser, 2006; Rabbie, 1998).\nOur results have important implications for conflict resolution. Above all, the high level of intragroup cooperation and the low level of intergroup competition observed in the IPD-MD game suggest that intergroup conflicts can be resolved by channeling group members\u2019 altruism toward internal group causes.Whereas in the IPD game, \u2018\u2018peace\u2019\u2019 is achieved only if all members of both groups defect, in the IPD-MD game, groups can avoid war while maintaining their ability to mobilize collective action. In view of the difficulties that individual rationality poses for mobilization of collective action in the first place, losing this ability is highly problematic from a group\u2019s point of view (Campbell, 1972). Clearly, \u2018\u2018more cooperative groups are less subject to extinction because they are more effective in warfare, more successful in co-insuring, [and] more adept at managing commons resources\u2019\u2019 (Boyd et. al., 2003, p. 3531).\nSherif (1966) believed that the existence of superordinate goals is necessary to increase cooperation and reduce conflict between groups. As pointed out by Brewer (1999), however, a\ncommon challenge or threat is unlikely to increase cooperation between highly differentiated social groups. People cooperate if they expect others to cooperate as well (Fehr & Fischbacher, 2003), and although they expect reciprocation from in-group members, they do not expect it frommembers of out-groups (e.g., Yamagishi & Kiyonari, 2000). Cooperative social norms are group-level phenomena that emerge through interactions within groups and apply to in-group members (Bernhard et al., 2006). Thus, the solution to intergroup conflict put forward by the IPDMD game may be more feasible than that suggested by Sherif. The collectively optimal solution, the one maximizing joint welfare in the IPD-MD game, calls for cooperation among the members of the same group and, at least in this respect, is \u2018\u2018essentially non-problematic\u2019\u2019 (Brewer, 1999, p. 436).\nThe present study examined the IPD-MD game played only once between small, randomly composed laboratory groups. So that our results will be more pertinent to real-world group conflicts, this preliminary investigation should eventually be expanded to include repeated interactions between larger groups with more meaningful group identities and boundaries.\nAcknowledgments\u2014We acknowledge the support of the Israel\nScience Foundation to Gary Bornstein (Grant 535/05), the Israel\nFoundation Trustees and the Minerva Center for Human Rights\nat the Hebrew University to Nir Halevy, and the Recanati\nFoundation of the Hebrew University School of Business Ad-\nministration to Lilach Sagiv."
+        }
+    ],
+    "title": "A New Game Paradigm",
+    "year": 2009
+}

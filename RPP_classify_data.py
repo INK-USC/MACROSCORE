@@ -3,7 +3,7 @@ from nltk.tokenize import word_tokenize
 
 metadata = pd.read_excel('./data/new_data.xlsx')[['Unnamed: 0', 'Study.Title.O', 'DOI', 'O.within.CI.R', 'Meta.analysis.significant', 'pvalue.label', 'Fold_Id']].to_dict()
 
-doi2filename = json.load(open("./data/doi_to_file_name_data.json", 'r'))
+doi2filename = json.load(open("./data/doi_to_file_name_data.parsed_rpp", 'r'))
 doi2filename = {r['doi']:r['file'] for r in doi2filename}
 
 data = []
@@ -23,4 +23,4 @@ for k in metadata['Unnamed: 0'].keys():
                  'Meta_analysis_significant':Meta_analysis_significant, 'pvalue_label':pvalue_label, \
                  'Fold_Id':Fold_Id, 'filename':filename, 'content':content})
 
-json.dump(data, open("./data_processed/RPP_classify_data.json", 'w'))
+json.dump(data, open("./data_processed/TA1_scienceparse_classify_data.parsed_rpp", 'w'))

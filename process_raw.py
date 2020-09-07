@@ -2,14 +2,14 @@ import os, re, json
 from collections import defaultdict, Counter
 from nltk.tokenize import sent_tokenize, word_tokenize
 
-data_source = 'czipmc'
+data_source = 'pjson'
 
 if data_source == 'TA1':
     raw_dir = "./tagtog/tokenized"
     raw_files = os.listdir(raw_dir)
     raw_files = [r for r in raw_files if r != "0_Labels.txt"]
 
-    metadata = json.load(open("./data/SCORE_json.json"))
+    metadata = json.load(open("./data/SCORE_json.parsed_rpp"))
     filename2id = {r['pdf_filename']:r['paper_id'] for r in metadata['data']}
     metadata = {r['pdf_filename']:r for r in metadata['data']}
 
@@ -53,6 +53,26 @@ elif data_source == 'RPP':
         filename = filename2id[f]
         
         fout.write('----NEW DOC----\n'+filename+'\n'+'\n'.join(content).lower() + '\n')
+
+elif data_source == 'pjson':
+    import nltk
+
+    raw_file = json.load(open('./data_processed/S.json', 'r'))
+    content = raw_file['sections']
+    contents = []
+    for cont in content:
+        contents.append(cont['text'])
+    final_content = " ".join(contents)
+    sentences = nltk.sent_tokenize(final_content)
+    new_sentences = []
+    for sent in sentences:
+
+        new_sentences.append(" ".join(nltk.word_tokenize(sent)))
+
+
+    fout = open("./data_processed/raw_all_sjson.txt", 'w')
+    data = []
+    fout.write('----NEW DOC----\n' + '\n'.join(new_sentences).lower() + '\n')
 
 elif data_source == 'biomed':
     raw_dir = "./CORD-19-research-challenge/biorxiv_medrxiv/biorxiv_medrxiv"

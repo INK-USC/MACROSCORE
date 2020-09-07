@@ -1,0 +1,720 @@
+{
+    "abstractText": "Low-prejudice people vary considerably in their ability to regulate intergroup responses. The authors hypothesized that this variability arises from a neural mechanism for monitoring conflict between automatic race-biased tendencies and egalitarian intentions. In Study 1, they found that low-prejudice participants whose nonprejudiced responses are motivated by internal (but not external) factors exhibited better control on a stereotype-inhibition task than did participants motivated by a combination of internal and external factors. This difference was associated with greater conflict-monitoring activity, measured by event-related potentials, when responses required stereotype inhibition. Study 2 demonstrated that group differences were specific to response control in the domain of prejudice. Results indicate that conflict monitoring, a preconscious component of response control, accounts for variability in intergroup bias among low-prejudice participants.",
+    "authors": [
+        {
+            "affiliations": [],
+            "name": "David M. Amodio"
+        },
+        {
+            "affiliations": [],
+            "name": "Patricia G. Devine"
+        },
+        {
+            "affiliations": [],
+            "name": "Eddie Harmon-Jones"
+        }
+    ],
+    "id": "SP:8909fe1fcdc86ae3fbe39129499d957f73c62605",
+    "references": [
+        {
+            "authors": [
+                "L.B. Alloy",
+                "L.Y. Abramson",
+                "D. Raniere",
+                "I.M. Dyller"
+            ],
+            "title": "Research methods in adult psychopathology",
+            "venue": "Handbook of research methods in clinical psychology (pp. 466\u2013498)",
+            "year": 1999
+        },
+        {
+            "authors": [
+                "G.W. Allport"
+            ],
+            "title": "The nature of prejudice",
+            "venue": "Reading, MA: AddisonWesley.",
+            "year": 1954
+        },
+        {
+            "authors": [
+                "D.M. Amodio",
+                "P.G. Devine"
+            ],
+            "title": "Stereotyping and evaluation in implicit race bias: Evidence for independent constructs and unique effects on behavior",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 2006
+        },
+        {
+            "authors": [
+                "D.M. Amodio",
+                "P.G. Devine",
+                "E. Harmon-Jones"
+            ],
+            "title": "A dynamic model of guilt: Implications for motivation and self-regulation in the context of prejudice",
+            "venue": "Psychological Science,",
+            "year": 2007
+        },
+        {
+            "authors": [
+                "D.M. Amodio",
+                "E. Harmon-Jones",
+                "P.G. Devine"
+            ],
+            "title": "Individual differences in the activation and control of affective race bias as assessed by startle eyeblink responses and self-report",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "D.M. Amodio",
+                "E. Harmon-Jones",
+                "P.G. Devine",
+                "J.J. Curtin",
+                "S.L. Hartley",
+                "A.E. Covert"
+            ],
+            "title": "Neural signals for the detection of unintentional race bias",
+            "venue": "Psychological Science,",
+            "year": 2004
+        },
+        {
+            "authors": [
+                "D.M. Amodio",
+                "J.T. Kubota",
+                "E. Harmon-Jones",
+                "P.G. Devine"
+            ],
+            "title": "Alternative mechanisms for regulating racial responses according to internal vs. external cues",
+            "venue": "Social Cognitive and Affective Neuroscience,",
+            "year": 2006
+        },
+        {
+            "authors": [
+                "D.M. Amodio",
+                "C. Stahlhut",
+                "P.G. Devine"
+            ],
+            "title": "Dissociations of implicit stereotyping and evaluative race bias as a function of internal",
+            "year": 2002
+        },
+        {
+            "authors": [
+                "A.D. Baddeley"
+            ],
+            "title": "Working memory",
+            "venue": "New York: Oxford University Press.",
+            "year": 1986
+        },
+        {
+            "authors": [
+                "R.M. Baron",
+                "D.A. Kenny"
+            ],
+            "title": "The moderator\u2013mediator variable distinction in social psychological research: Conceptual, strategic, and statistical consideration",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1986
+        },
+        {
+            "authors": [
+                "B.D. Bartholow",
+                "C.L. Dickter",
+                "M.A. Sestir"
+            ],
+            "title": "Stereotype activation and control of race bias: Cognitive control of inhibition and its impairment by alcohol",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 2006
+        },
+        {
+            "authors": [
+                "B.D. Bartholow",
+                "M.A. Pearson",
+                "C.L. Dickter",
+                "K.J. Sher",
+                "M. Fabiani",
+                "G. Gratton"
+            ],
+            "title": "Strategic control and medial frontal negativity: Beyond errors and response conflict",
+            "venue": "Psychophysiology, 42, 33\u201342.",
+            "year": 2005
+        },
+        {
+            "authors": [
+                "M.M. Botvinick",
+                "T.S. Braver",
+                "D.M. Barch",
+                "C.S. Carter",
+                "J.D. Cohen"
+            ],
+            "title": "Conflict monitoring and cognitive control",
+            "venue": "Psychological Review,",
+            "year": 2001
+        },
+        {
+            "authors": [
+                "J.C. Brigham"
+            ],
+            "title": "College students\u2019 racial attitudes",
+            "venue": "Journal of Applied and Social Psychology, 23, 1933\u20131967.",
+            "year": 1993
+        },
+        {
+            "authors": [
+                "J. Cohen",
+                "P. Cohen",
+                "S.G. West",
+                "L.S. Aiken"
+            ],
+            "title": "Applied multiple regression/correlation analysis for the behavioral sciences",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "M.G.H. Coles",
+                "G. Gratton",
+                "M. Fabiani"
+            ],
+            "title": "Event-related brain potentials",
+            "year": 1990
+        },
+        {
+            "authors": [
+                "D.P. Crowne",
+                "D. Marlowe"
+            ],
+            "title": "A new scale of social desirability independent of psychopathology",
+            "venue": "Journal of Consulting Psychology,",
+            "year": 1960
+        },
+        {
+            "authors": [
+                "W.A. Cunningham",
+                "M.K. Johnson",
+                "C.L. Raye",
+                "J.C. Gatenby",
+                "J.C. Gore",
+                "M.R. Banaji"
+            ],
+            "title": "Dissociated conscious and unconscious evaluations of social groups: An fMRI investigation",
+            "venue": "Psychological Science,",
+            "year": 2004
+        },
+        {
+            "authors": [
+                "E.L. Deci",
+                "R.M. Ryan"
+            ],
+            "title": "The \u201cwhat\u201d and \u201cwhy\u201d of goal pursuits: Human needs and the self-determination of behavior",
+            "venue": "Psychological Inquiry,",
+            "year": 2000
+        },
+        {
+            "authors": [
+                "S. Dehaene",
+                "M.I. Posner",
+                "D.M. Tucker"
+            ],
+            "title": "Localization of a neural system for error detection and compensation",
+            "venue": "Psychological Science,",
+            "year": 1994
+        },
+        {
+            "authors": [
+                "P.G. Devine"
+            ],
+            "title": "Prejudice and stereotypes: Their automatic and controlled components",
+            "venue": "Journal of Personality and Social Psychology, 56, 5\u201318.",
+            "year": 1989
+        },
+        {
+            "authors": [
+                "P.G. Devine",
+                "M.M. Monteith"
+            ],
+            "title": "Automaticity and control in stereotyping",
+            "year": 1999
+        },
+        {
+            "authors": [
+                "P.G. Devine",
+                "M.M. Monteith",
+                "J.R. Zuwerink",
+                "A.J. Elliot"
+            ],
+            "title": "Prejudice with and without compunction",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1991
+        },
+        {
+            "authors": [
+                "P.G. Devine",
+                "E.A. Plant",
+                "D.M. Amodio",
+                "E. Harmon-Jones",
+                "S.L. Vance"
+            ],
+            "title": "The regulation of explicit and implicit race bias: The role of motivations to respond without prejudice",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 2002
+        },
+        {
+            "authors": [
+                "B.C. Dunton",
+                "R.H. Fazio"
+            ],
+            "title": "An individual difference measure of motivation to control prejudiced reactions",
+            "venue": "Personality and Social Psychology Bulletin,",
+            "year": 1997
+        },
+        {
+            "authors": [
+                "B.A. Eriksen",
+                "C.W. Eriksen"
+            ],
+            "title": "Effects of noise letters upon the identification of target letters in a non-search task",
+            "venue": "Perception and Psychophysics,",
+            "year": 1974
+        },
+        {
+            "authors": [
+                "M. Falkenstein",
+                "J. Hohnsbein",
+                "J. Hoorman",
+                "L. Blanke"
+            ],
+            "title": "Effects of crossmodal divided attention on late ERP components: II. Error processing in choice reaction tasks",
+            "venue": "Encephalography and Clinical Neurophysiology,",
+            "year": 1991
+        },
+        {
+            "authors": [
+                "S.T. Fiske",
+                "S.L. Neuberg"
+            ],
+            "title": "A continuum model of impression formation: Form category-based to individuating process as a function of information, motivation, and attention",
+            "venue": "Advances in experimental social psychology (Vol",
+            "year": 1990
+        },
+        {
+            "authors": [
+                "K.I. Forster",
+                "J.C. Forster"
+            ],
+            "title": "DMDX: A Windows display program with millisecond accuracy",
+            "venue": "Behavior Research Methods, Instruments, and Computers,",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "S.L. Gaertner",
+                "J.F. Dovidio"
+            ],
+            "title": "The aversive form of racism",
+            "year": 1986
+        },
+        {
+            "authors": [
+                "W.J. Gehring",
+                "D.E. Fencsik"
+            ],
+            "title": "Functions of the medial frontal cortex in the processing of conflict and errors",
+            "venue": "Journal of Neuroscience,",
+            "year": 2001
+        },
+        {
+            "authors": [
+                "W.J. Gehring",
+                "B. Goss",
+                "M.G.H. Coles",
+                "D.E. Meyer",
+                "E. Donchin"
+            ],
+            "title": "A neural system for error detection and compensation",
+            "venue": "Psychological Science,",
+            "year": 1993
+        },
+        {
+            "authors": [
+                "P.M. Gollwitzer"
+            ],
+            "title": "Implementation intentions: Strong effects of simple plans",
+            "venue": "American Psychologist, 54, 493\u2013503.",
+            "year": 1999
+        },
+        {
+            "authors": [
+                "W. Heller",
+                "J. Levy"
+            ],
+            "title": "Perception and expression of emotion in right-handers and left-handers",
+            "venue": "Neuropsychologia,",
+            "year": 1981
+        },
+        {
+            "authors": [
+                "C.B. Holroyd",
+                "M.G.H. Coles"
+            ],
+            "title": "The neural basis of human error processing: Reinforcement learning, dopamine, and the error-related negativity",
+            "venue": "Psychological Review,",
+            "year": 2002
+        },
+        {
+            "authors": [
+                "L.L. Jacoby"
+            ],
+            "title": "A process dissociation framework: Separating automatic from intentional uses of memory",
+            "venue": "Journal of Memory and Language, 30, 513\u2013541.",
+            "year": 1991
+        },
+        {
+            "authors": [
+                "C.M. Judd",
+                "I.V. Blair",
+                "K.M. Champleau"
+            ],
+            "title": "Automatic stereotypes vs. automatic prejudice: Sorting out the possibilities in the Payne (2001) weapon paradigm",
+            "venue": "Journal of Experimental Social Psychology,",
+            "year": 2004
+        },
+        {
+            "authors": [
+                "K. Kawakami",
+                "J.F. Dovidio",
+                "J. Moll",
+                "S. Hermsen",
+                "A. Russin"
+            ],
+            "title": "Just say no (to stereotyping): Effects of training on the negation of stereotypic associations on stereotype activation",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 2000
+        },
+        {
+            "authors": [
+                "K.A. Kiehl",
+                "P.F. Liddle",
+                "J.B. Hopfinger"
+            ],
+            "title": "Error processing and the rostral anterior cingulate: An event-related fMRI study",
+            "year": 2001
+        },
+        {
+            "authors": [
+                "A.J. Lambert",
+                "B.K. Payne",
+                "L.L. Jacoby",
+                "L.M. Shaffer",
+                "A.L. Chasteen",
+                "S.R. Khan"
+            ],
+            "title": "Stereotypes as dominant responses: On the \u201csocial facilitation\u201d of prejudice in anticipated public contexts",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "P. Luu",
+                "P. Collins",
+                "D.M. Tucker"
+            ],
+            "title": "Mood, personality, and selfmonitoring: Negative affect and emotionality in relation to frontal lobe mechanisms of error monitoring",
+            "venue": "Journal of Experimental Psychology: General, 129, 43\u201360.",
+            "year": 2000
+        },
+        {
+            "authors": [
+                "E.K. Miller",
+                "J.D. Cohen"
+            ],
+            "title": "An integrative theory of prefrontal cortex function",
+            "venue": "Annual Review of Neuroscience,",
+            "year": 2001
+        },
+        {
+            "authors": [
+                "M.J. Monteith"
+            ],
+            "title": "Self-regulation of stereotypical responses: Implications for progress in prejudice reduction",
+            "venue": "Journal of Personality and Social Psychology, 65, 469\u2013485.",
+            "year": 1993
+        },
+        {
+            "authors": [
+                "M.J. Monteith",
+                "L. Ashburn-Nardo",
+                "C.I. Voils",
+                "A.M. Czopp"
+            ],
+            "title": "Putting the brakes on prejudice: On the development and operation of cues for control",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 2002
+        },
+        {
+            "authors": [
+                "M.J. Monteith",
+                "C.I. Voils"
+            ],
+            "title": "Proneness to prejudice responses: Toward understanding the authenticity of self-reported discrepancies",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1998
+        },
+        {
+            "authors": [
+                "G.B. Moskowitz",
+                "P.M. Gollwitzer",
+                "W. Wasel",
+                "B. Schaal"
+            ],
+            "title": "Preconscious control of stereotype activation through chronic egalitarian goals",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1999
+        },
+        {
+            "authors": [
+                "S. Nieuwenhuis",
+                "K.R. Ridderinkhof",
+                "J. Blom",
+                "G.P.H. Band",
+                "A. Kok"
+            ],
+            "title": "Error-related brain potentials are differently related to awareness of response errors: Evidence from an antisaccade",
+            "venue": "task. Psychophysiology,",
+            "year": 2001
+        },
+        {
+            "authors": [
+                "B.K. Payne"
+            ],
+            "title": "Prejudice and perception: The role of automatic and controlled processes in misperceiving a weapon",
+            "venue": "Journal of Personality and Social Psychology, 81, 181\u2013192.",
+            "year": 2001
+        },
+        {
+            "authors": [
+                "B.K. Payne"
+            ],
+            "title": "Conceptualizing control in social cognition: How executive functioning modulates the expression of automatic stereotyping",
+            "venue": "Journal of Personality and Social Psychology, 89, 488\u2013503.",
+            "year": 2005
+        },
+        {
+            "authors": [
+                "B.K. Payne",
+                "A.J. Lambert",
+                "L.L. Jacoby"
+            ],
+            "title": "Best laid plans: Effects of goals on accessibility bias and cognitive control in race-based misperceptions of weapons",
+            "venue": "Journal of Experimental Social Psychology,",
+            "year": 2002
+        },
+        {
+            "authors": [
+                "E.A. Plant",
+                "P.G. Devine"
+            ],
+            "title": "Internal and external motivation to respond without prejudice",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1998
+        },
+        {
+            "authors": [
+                "E.A. Plant",
+                "S.L. Vance",
+                "P.G. Devine"
+            ],
+            "title": "The intention underlying control of prejudice: To hide or be free of bias",
+            "year": 2007
+        },
+        {
+            "authors": [
+                "P.M.A. Rabbit"
+            ],
+            "title": "Errors and error correction in choice-response tasks",
+            "venue": "Journal of Experimental Psychology, 71, 264\u2013272.",
+            "year": 1966
+        },
+        {
+            "authors": [
+                "H.V. Semlitsch",
+                "P. Anderer",
+                "P. Schuster",
+                "O. Presslich"
+            ],
+            "title": "A solution for reliable and valid reduction of ocular artifacts, applied to the P300",
+            "venue": "ERP. Psychophysiology,",
+            "year": 1986
+        },
+        {
+            "authors": [
+                "T. Shallice"
+            ],
+            "title": "Specific impairments of planning",
+            "venue": "Philosophical Transactions of the Royal Society of London, B298, 199\u2013209.",
+            "year": 1982
+        },
+        {
+            "authors": [
+                "M. Snyder",
+                "S. Gangestad"
+            ],
+            "title": "On the nature of self-monitoring: Matters of assessment, matters of validity",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1986
+        },
+        {
+            "authors": [
+                "B.G. Tabachnick",
+                "L.S. Fidell"
+            ],
+            "title": "Using multivariate statistics",
+            "year": 2001
+        },
+        {
+            "authors": [
+                "V. van Veen",
+                "C.S. Carter"
+            ],
+            "title": "The timing of action-monitoring processes in the anterior cingulate cortex",
+            "venue": "Journal of Cognitive Neuroscience,",
+            "year": 2002
+        },
+        {
+            "authors": [
+                "D.T. Wegener",
+                "R.E. Petty"
+            ],
+            "title": "The flexible correction model: The role of na\u0131\u0308ve theories of bias in bias correction",
+            "venue": "Advances in experimental social psychology (Vol",
+            "year": 1997
+        },
+        {
+            "authors": [
+                "T.D. Wilson",
+                "N. Brekke"
+            ],
+            "title": "Mental contamination and mental correction: Unwanted influences on judgments and evaluations",
+            "venue": "Psychological Bulletin,",
+            "year": 1994
+        },
+        {
+            "authors": [
+                "N. Yeung",
+                "M.M. Botvinick",
+                "J.D. Cohen"
+            ],
+            "title": "The neural basis of error detection: Conflict monitoring and the error-related negativity",
+            "venue": "Psychological Review,",
+            "year": 2004
+        },
+        {
+            "authors": [
+                "Amodio"
+            ],
+            "title": "Individual Differences in the Regulation of Intergroup Bias: The Role of Conflict Monitoring and Neural Signals for Control,",
+            "venue": "(Journal of Personality and Social Psychology,",
+            "year": 2008
+        }
+    ],
+    "sections": [
+        {
+            "text": "INTERPERSONAL RELATIONS AND GROUP PROCESSES\nIndividual Differences in the Regulation of Intergroup Bias: The Role of Conflict Monitoring and Neural Signals for Control\nDavid M. Amodio New York University\nPatricia G. Devine University of Wisconsin\u2014Madison\nEddie Harmon-Jones Texas A&M University\nLow-prejudice people vary considerably in their ability to regulate intergroup responses. The authors hypothesized that this variability arises from a neural mechanism for monitoring conflict between automatic race-biased tendencies and egalitarian intentions. In Study 1, they found that low-prejudice participants whose nonprejudiced responses are motivated by internal (but not external) factors exhibited better control on a stereotype-inhibition task than did participants motivated by a combination of internal and external factors. This difference was associated with greater conflict-monitoring activity, measured by event-related potentials, when responses required stereotype inhibition. Study 2 demonstrated that group differences were specific to response control in the domain of prejudice. Results indicate that conflict monitoring, a preconscious component of response control, accounts for variability in intergroup bias among low-prejudice participants.\nKeywords: prejudice, control, ERP, ERN, conflict monitoring\nEspecially when inner conflict is present, people put brakes upon their prejudices. They do not act them out\u2014or they act them out only up to a certain point. Something stops the logical progression somewhere. (Allport, 1954, p. 332)\nSince the publication of The Nature of Prejudice in 1954, Allport\u2019s observation that intergroup responses often require regulation has received volumes of empirical support (Devine & Monteith, 1999). Yet half a century later, the mechanisms through which regulatory processes inhibit unwanted racial biases remain\nunclear. The present research builds on recent advances in cognitive neuroscience to illuminate this mechanism and to apply it to an issue that has long perplexed researchers of prejudice: Why are some egalitarians better than others at responding without prejudice? To date, the prejudice and stereotyping literature has paid little attention to individual differences among low-prejudice people\u2019s ability to respond without bias and has been virtually silent on the mechanism that underlies these differences.\nIndividual Differences in Responding Without Prejudice\nSocial psychological research on prejudice control has traditionally focused on how attitudes of high- versus low-prejudice people affect their behaviors. In this literature, prejudice control refers to responding with one\u2019s egalitarian intention despite the activation of countervailing racial stereotypes. Generally speaking, low-prejudice people are motivated to exert control in their intergroup responses, whereas high-prejudice people are not (Devine, 1989). However, growing evidence suggests that low-prejudice people vary substantially in their effectiveness in regulating expressions of race bias (Devine, Monteith, Zuwerink, & Elliot, 1991; Dovidio, Kawakami, & Gaertner, 2002; Gaertner & Dovidio, 1986). For example, when asked how one should respond toward a Black person versus how one actually would respond in an interaction, many low-prejudice people reveal substantial discrepancies between how they should and would behave (Devine et al., 1991). Low-prejudice participants with large should/would discrepancies are more prone to unintentional expressions of bias, especially in situations involving high cognitive load, in which reguDavid M. Amodio, Department of Psychology, New York University; Patricia G. Devine, Department of Psychology, University of Wisconsin\u2014 Madison; Eddie Harmon-Jones, Department of Psychology, Texas A&M University. This research was funded by National Science Foundation Grants BCS9910702 and BCS 0350435, National Institutes of Health Grant T32MH18931, an APA Dissertation Research Award, and a University of Wisconsin Dissertation Fellowship. This research was conducted as part of David M. Amodio\u2019s doctoral dissertation at the University of Wisconsin\u2014 Madison. The dissertation upon which this article is based received the 2004 Dissertation Award from the Society for the Psychological Study of Social Issues. We thank dissertation-committee members Lyn Abramson, John Curtin, Richard Davidson, and Jane Allyn Piliavin. We also thank Alison Covert, Annmarie Crampton, Sigan Hartley, and Jennifer Kubota for their assistance in data collection. Correspondence concerning this article should be addressed to David M. Amodio, Department of Psychology, New York University, 6 Washington Place, New York, NY 10003. E-mail: david.amodio@nyu.edu\nCORRECTED FEBRUARY 14, 2008; SEE LAST PAGE\nJournal of Personality and Social Psychology, 2008, Vol. 94, No. 1, 60\u201374 Copyright 2008 by the American Psychological Association 0022-3514/08/$12.00 DOI: 10.1037/0022-3514.94.1.60\n60\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly .\nlation is difficult (Monteith & Voils, 1998). These studies provided strong evidence that many low-prejudice people lack the regulatory abilities to inhibit effects of implicit racial bias, especially in situations that limit their opportunity to deliberate when making a response.\nInternal and External Motivations to Respond Without Prejudice\nRecent research on issues of prejudice control suggests that differences in regulatory ability among low-prejudice people may be linked to their motivations to respond without prejudice. Plant and Devine (1998) observed that nonprejudiced responses are typically driven by a combination of two independent sources of motivation: internal (personal) and external (normative; see also Dunton & Fazio, 1997). Plant and Devine developed the internal motivation scale (IMS) and external motivation scale (EMS) to assess these two motivations and found scores on the IMS and EMS to be uncorrelated across several samples. IMS was strongly associated with low-prejudice attitudes and predicted participants\u2019 explicit responses when in private. Although EMS was not associated with domain-general measures of social desirability (e.g., Social Desirability Scale, Crowne & Marlowe, 1960; SelfMonitoring Scale, Snyder & Gangestad, 1986), it predicted higher anxiety and less-biased behavior when intergroup responses were to be made in public. Additional research has addressed the possibility that people who report strong external motivations are not sincere when they also report strong internal motivations. However, these studies demonstrated that high-IMS/high-EMS participants\u2019 intentions to respond in an egalitarian manner are experienced as a moral responsibility that cuts across situations and leads to efforts to control bias even in the absence of external pressure (Plant & Devine, 1998; Plant, Devine, & Brazy, 2003; Plant, Vance, & Devine, 2007). The overarching program of research conducted by Plant, Devine, and their colleagues has shown that the IMS/EMS framework is able to explain a wider range of intergroup behaviors than traditional attitude measures of prejudice. For the present purposes, the IMS/EMS framework is useful for understanding why some low-prejudice people are more effective regulators of intergroup responses than are others.\nAccording to the IMS/EMS framework, all low-prejudice people are highly internally motivated to respond without prejudice, but they vary in their sensitivity to normative proscriptions of bias. Research by Devine, Plant, Amodio, Harmon-Jones, and Vance (2002) explored the possibility that the variance in external motivations among high-IMS participants is associated with differences in their ability to regulate intergroup response. Devine et al. (2002) theorized that different combinations of internal and external motivations corresponded to people\u2019s internalization of nonprejudiced standards into their automatic response tendencies. In building their proposal, they drew upon theorizing in the goals and motivation literature that describes how an extrinsically motivated behavior transitions to being one that is intrinsically motivated. According to self-determination theory (Deci & Ryan, 2000), behaviors motivated by purely extrinsic reasons are implemented only under external pressures. Thus, extrinsic behaviors are not internalized and tend to be inconsistent across situations. As an individual begins to adopt an intrinsic motivation for the same behavior, their behavior becomes motivated by a combination of extrinsic and intrinsic motives. This dual-motive state is charac-\nterized by having a behavioral intention that is held consciously and implemented in highly deliberative responses but not entrained at more automatic levels and thus not effectively implemented in less deliberative responses. Finally, behaviors motivated by purely intrinsic reasons are characterized as highly internalized and wellrehearsed and are effectively implemented and highly stable across situations. The motivational profiles provided by selfdetermination theory correspond closely with the IMS/EMS framework and suggest that low-prejudice people motivated primarily for internal reasons should be more effective regulators of intergroup responses than those motivated for a combination of internal and external reasons.\nConsistent with this hypothesis, Devine et al. (2002) found that among low-prejudice people, those who were primarily internally motivated (high-IMS/low-EMS participants) were effective in responding without prejudice when their responses were easy to control (e.g., self-report) as well as those that are difficult to control (e.g., physiological and reaction-time measures of bias; Amodio et al., 2003; Devine et al., 2002). By contrast, those motivated by a combination of internal and external motivations (high-IMS/high-EMS participants) were effective in responding without prejudice when their responses were easy to control but showed unintentional expressions of bias when their responses were more difficult to control. A third group of individuals, who were not internally motivated (low-IMS participants), exhibited bias on all measures, irrespective of their external concerns (given that responses were made privately). With regard to our central question, this research suggests that high-IMS/low-EMS individuals are good regulators across measures because they have a strong internalized sense for when control is needed, whereas high-IMS/high-EMS individuals are comparatively poor regulators because this internal impetus to control is weaker. This is consistent with the self-determination-theory position that these individuals are still in the process of internalizing egalitarian responses into their dominant response set.\nThe findings and theoretical analysis of Devine et al. (2002; also Amodio et al., 2003) imply that low-prejudice people who are poor regulators of intergroup responses may have trouble determining when control is needed, particularly in situations that do not afford deliberative responding. This analysis suggests that these individuals may be impaired in a nondeliberative aspect of control that is not addressed in extant social psychological models (e.g., Wegener & Petty, 1997; Wilson & Brekke, 1994). In the next section, we describe a neurocognitive model of control that distinguishes between a nondeliberative process of determining the need for control and a more deliberative process of implementing control.\nNeurocognitive Model of Control\nRecent theorizing in the cognitive neuroscience literature suggests that response control involves two distinct processing components, each associated with activity of separate neural structures (Botvinick, Braver, Barch, Carter, & Cohen, 2001). The first is an evaluative component that monitors ongoing responses and is sensitive to conflict between alternative response tendencies. Research suggests that this conflict-monitoring process is constantly active, requires few cognitive resources, and operates below conscious awareness (Berns, Cohen, & Mintun, 1997; Nieuwenhuis, Ridderinkhof, Blom, Band, & Kok, 2001). When conflicting re-\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly .\nsponse tendencies are activated, this process alerts a second, resource-dependent regulative component to override the unwanted tendency with an intentional response. The activity level of the conflict-monitoring process is commensurate with the degree of response conflict, and as such, this model represents a \u201cnonhomuncular\u201d mechanism for signaling the need for control. Eventrelated potential (ERP) and functional magnetic resonance imaging research have associated the conflict-monitoring process with activity in the dorsal anterior cingulate cortex (ACC) and the regulative component with activity in the dorsolateral prefrontal cortex (Botvinick, Nystrom, Fissel, Carter, & Cohen, 1999; Carter et al., 1998). Tests of this model have shown that activation of the ACC is high when prepotent responses are at odds with one\u2019s consciously intended response, such as in the color-naming Stroop task (MacDonald, Cohen, Stenger, & Carter, 2000), the go/no-go task (Kiehl, Liddle, & Hopfinger, 2001), and the Eriksen flankers task (Botvinick et al., 1999).\nWhen applied to the question of why high-IMS/high-EMS individuals have difficulty regulating their intergroup responses, the neurocognitive model suggests the possibility that the conflictmonitoring process of these individuals is not sufficiently engaged when an automatic stereotyping tendency is activated. A lack of conflict at this basic neural level would occur if egalitarian intentions are not strongly represented at a basic, automatic level and thus do not come into competition with the automatic-level stereotyping tendency. It is also possible that the regulative component of control may contribute to regulatory failures. However, this system tends to be linked to more deliberative, consciously guided behaviors. Given past work showing that high-IMS/high-EMS participants and high-IMS/low-EMS participants are equally effective at regulating intergroup responses when deliberation is possible, it is unlikely that the regulative component would explain differences in their ability to regulate nondeliberative behaviors, as observed by Devine et al. (2002) and Amodio et al. (2003). Following this line of reasoning, we hypothesized that differential sensitivity of the conflict-monitoring process to stereotype-related conflict may account for differences in intergroup response regulation between low-prejudice people characterized by high IMS/ low EMS and those characterized by high IMS/high EMS.\nMeasuring Conflict Monitoring With ERPs\nConflict-monitoring processes associated with the ACC may be measured in real time with ERPs. ERPs are electroencephalographic (EEG) signals that reflect a concerted firing of neurons associated with a discrete psychological event (Coles, Gratton, & Fabiani, 1990). The high temporal resolution of ERPs, when measured at high sampling rates, permits researchers to examine the neural activity of a psychological response as it unfolds over milliseconds. The error-related negativity (ERN) component of the ERP has been used as an index of conflict monitoring in much research (Gehring & Fencsik, 2001; Luu, Collins, & Tucker, 2000; Yeung, Botvinick, & Cohen, 2004). The ERN is a response-locked negative-polarity wave that peaks approximately at the time a response is made (Gehring, Goss, Coles, Meyer, & Donchin, 1993). It is most strongly pronounced at the frontocentral midline scalp region and has been demonstrated to originate from the dorsal ACC (Dehaene, Posner, & Tucker, 1994; van Veen & Carter, 2002). ERNs are sensitive to conflicts resulting in errors\n(i.e., failed control) and are therefore useful for examining the role of conflict monitoring when attempts to respond without bias fail. The ERN reflects neural sensitivity to conflict between an intended response and an alternative (incorrect) response that is in the process of being executed. The conflict-monitoring signal is stronger for errors than for correct responses, because for an error, the conflicting behavior is further along in its implementation, and the net level of conflict is therefore much greater (Yeung et al., 2004).\nThe Role of Conflict Monitoring in Race-Bias Control\nAmodio et al. (2004) identified the conflict-monitoring process as an important mechanism for regulating racial responses. Participants in their study completed a sequential priming task designed to assess stereotypic associations, called the weapons identification task (Payne, 2001), while EEG was collected. On each trial of the weapons identification task, a Black or a White face prime was presented briefly, followed by a target picture of either a handgun or a hand tool. Participants\u2019 task was to quickly categorize targets as a gun or tool within a 500-ms response deadline. As in past research involving this task, Black face primes facilitated responses to guns and interfered with responses to tools, suggesting the automatic activation of the violence-related African American stereotype (Lambert et al., 2003; Payne, 2001; Payne, Lambert, & Jacoby, 2002). Given the prepotent tendency to choose \u201cgun\u201d following a Black face, enhanced response control was needed to override this tendency when the target was a tool. To examine the role of conflict monitoring in behavioral control, we computed independent estimates of automatic and controlled processing using the process-dissociation (PD) procedure (Payne, 2001; Jacoby, 1991) and compared these behavioral indices with ERNs associated with responses on high-stereotype-conflict (e.g., Black\u2013tool) versus low-stereotype-conflict (Black\u2013gun) trials. Results showed that ERNs were larger on Black\u2013tool trials, in which stereotype inhibition was required, compared with Black\u2013gun trials, in which the correct response was congruent with the stereotype (and thus, inhibition was not needed). In addition, greater sensitivity of the conflict-monitoring system to race-bias conflict, as indicated by larger ERNs on Black\u2013tool trials, was correlated with higher PD estimates of control but was unrelated to PD estimates of automatic stereotyping (see also Amodio, Kubota, Harmon-Jones, & Devine, 2006). For the present purposes, Amodio et al. (2004, 2006) established a paradigm for examining the conflictmonitoring process in the context of intergroup bias. Here, we applied this paradigm to test our hypothesis that differences in regulatory ability among low-prejudice people are due to differences in the ability of neural systems to detect race-biased conflict.\nStudy 1\nWe examined ERNs associated with stereotype-response control among low-prejudice participants characterized by high internal motivation (but low external motivation) versus those with a combination of high internal and high external motivation, as well as highprejudice participants characterized by low internal motivation. To create groups that were highly representative of these profiles, we recruited participants with IMS and EMS scores in the upper or lower thirds of the participant pool (Alloy, Abramson, Raniere, & Dyller, 1999; Amodio et al., 2003). The extreme-groups approach was critical\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly .\nfor obtaining a true low-IMS group, because IMS scores were highly positively skewed in this sample. In addition, we combined low-IMS participants who reported either high or low levels of EMS, because their responses, which were to be made in private (i.e., without external pressures), were not theorized to differ (Amodio et al., 2003; Devine et al., 2002; Plant & Devine, 1998). We predicted that highIMS/low-EMS and high-IMS/high-EMS participants would report similar pro-Black attitudes, yet high-IMS/low-EMS participants would exhibit greater response control on the weapons-identification task relative to high-IMS/high-EMS participants. Furthermore, we predicted that this difference would be explained by the degree of conflict-monitoring activity during responses in which automatic stereotypes conflicted with intentions. We expected to observe relatively low activity of the conflict-monitoring process among high-IMS/highEMS participants when automatic stereotypes are activated, because their egalitarian intentions are not believed to be represented at the same automatic level of processing and thus would not create conflict. Last, low-IMS participants were expected to show a low degree of response control, coupled with low engagement of conflictmonitoring processes on stereotype-related trials. A low degree of conflict was expected because stereotypic responses are consistent with their prejudiced beliefs.\nTo conduct a strong test of our hypothesis, it was important to use a task that would elicit similar levels of automatic race-biased tendencies across groups. Our past work showed that high-IMS/ low-EMS participants exhibited lower levels of implicit bias than other groups on measures assessing affective/evaluative forms of bias (Amodio et al., 2003; Devine et al., 2002). However, highIMS/low-EMS participants did not differ from other participants when implicit stereotype associations were measured (Amodio, Stahlhut, & Devine, 2002). This distinction is consistent with research suggesting that implicit stereotyping reflects different underlying neurocognitive mechanisms than do affect-driven forms of implicit bias (Amodio & Devine, 2006). Because the weapons identification task elicits response biases that are driven primarily by stereotype associations rather than by affective responses, it was particularly well-suited for testing our hypothesis (Judd, Blair, & Champleau, 2004). In addition, we chose to focus on PD estimates of automaticity and control as our primary behavioral outcomes. Although reaction times and error rates have been used to indicate automatic and controlled response patterns in much past work, it is likely that any given response involves some combination of automatic and controlled processes, and thus raw measures of reaction time and accuracy do not provide processpure indicators of automaticity and control (Jacoby, 1991). The validity of the PD procedure in the context of prejudice has been established in several published articles (e.g., Amodio et al., 2004; Judd et al., 2004; Payne et al., 2002; Lambert et al., 2003), and the assumption of independent processes for automaticity and control is consistent with research identifying their separate neural substrates (e.g., Amodio et al., 2004, 2006; Cunningham et al., 2004).\nMethod"
+        },
+        {
+            "heading": "Participants",
+            "text": "Seventy-three psychology students at the University of Wisconsin\u2014Madison participated individually in exchange for extra course credit. We selected right-handed female participants to\ncontrol for variability in physiological responses associated with sex and handedness (Heller & Levy, 1981). Participants were White Americans, except for one Asian American."
+        },
+        {
+            "heading": "Procedure",
+            "text": "After they provided consent, participants were prepared for physiological recording and were given instructions for the weapons identification task. They were told that certain responses (i.e., errors on Black\u2013tool trials) would reveal race bias but that their responses would be private and confidential. These instructions were designed to activate any internal motivations to respond without prejudice while minimizing concerns over external pressures to appear nonprejudiced (as in Amodio et al., 2004). After completing the task, participants received a funneled debriefing and were thanked, awarded extra credit, and dismissed. Sessions took approximately 2.5 hr."
+        },
+        {
+            "heading": "Materials",
+            "text": "IMS and EMS. Participants completed Plant and Devine\u2019s (1998) IMS ( .84) and EMS ( .89) confidentially in a previous mass testing session. Responses ranged from 1 (strongly disagree) to 9 (strongly agree). The IMS includes items such as \u201cI attempt to act in nonprejudiced ways toward Black people because it is personally important to me.\u201d The EMS includes items such as \u201cI attempt to appear nonprejudiced toward Black people in order to avoid disapproval from others.\u201d Plant and Devine (1998) found scores on the IMS and EMS to be independent across seven samples (average r .14), and therefore, individuals with similar degrees of internal motivation can vary in their external motivations (Amodio et al., 2003; Devine et al, 2002; Plant & Devine, 1998; Plant, Devine, & Brazy, 2003).\nAttitude Towards Blacks (ATB) scale. Participants completed the ATB scale ( .87) in the same mass testing session. The ATB scale (Brigham, 1993) assesses positivity of attitudes toward Black people, scored on a 1\u20137 scale on which higher scores indicate more positive attitudes.\nWeapons identification task. The stimuli and instructions were taken from Amodio et al. (2004; originally adapted from Payne, 2001). Stimuli included pictures of two Black and two White male faces, four handguns, and four hand tools (drill, ratchet, wrench, pliers), digitized at 228 172 pixels. Stimuli were presented sequentially in the center of the computer screen, and trial order was randomized. Each trial began with a cross-hatched pattern mask (1 s), followed by the prime (Black or White face; 200 ms), the target (gun or tool; 200 ms), and then a second pattern mask (see Figure 1). Participants were instructed to classify targets as guns or tools as quickly and accurately as possible using buttons labeled \u201cgun\u201d and \u201ctool.\u201d The second mask remained onscreen until the participant responded or until 2 s had elapsed. Participants received a warning to respond more quickly following responses exceeding 500 ms. Reaction times for all responses were recorded, even when they exceeded the deadline. Intertrial intervals ranged from 2.5 s to 4 s. Participants were seated 4 feet (1.22 m) from a 19-in. (48.26-cm) CRT monitor refreshing at 100 Hz. Stimuli and physiological recording triggers were presented with DMDX (Forster & Forster, 2003).\nParticipants completed 16 practice trials in which targets (gun or tool pictures) were presented one at a time and remained until the\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly .\nparticipant categorized them correctly, followed by 10 practice trials in which the targets were preceded by face primes. Participants then completed 288 experimental trials, receiving a 2-min break after 144 trials. Accuracy feedback was given on practice trials but not on experimental trials."
+        },
+        {
+            "heading": "Behavioral-Data Processing",
+            "text": "Correct response latencies occurring between 250 ms and 1,500 ms were natural-log transformed and averaged within trial type for analysis (mean latencies are presented in raw ms). Because responsedeadline feedback was displayed only after a response was made, response-latency data were not contaminated by the presentation of the warning message. We therefore included response latencies exceeding 500 ms in our analyses to avoid a restricted range of data known to attenuate response-latency effects (Amodio et al., 2004, 2006; Payne, 2001). Error rates were computed by dividing the number of errors by the total number of trials within each trial type.\nThe PD estimate of control was computed by subtracting participants\u2019 error rates on Black\u2013tool trials from their accuracy rates on Black\u2013gun trials (see Payne, 2001). The PD estimate of automaticity was computed by dividing participants\u2019 error rates on Black\u2013tool trials by the reciprocal of their control-estimate scores."
+        },
+        {
+            "heading": "EEG Recording and Processing",
+            "text": "EEG was recorded from 27 tin electrodes embedded in a stretchlycra cap (ElectroCap; Eaton, OH), which we positioned according to the 10-10 system using known anatomical landmarks. We referenced scalp electrodes online to the left earlobe (referenced to average earlobes offline), with a forehead ground, using ElectroGel (Eaton, OH) as the conducting medium. All impedances were\nbelow 5 k . Vertical and horizontal eye movements were recorded to facilitate artifact scoring of the EEG. Signals were amplified with Neuroscan Synamps (Sterling, VA) with a direct-current coupling, low-pass filtered at 100 Hz, digitized at 2,500 Hz, and stored to a computer hard drive.\nOffline, EEG was scored for movement artifact, submitted to a regression-based blink-correction procedure (Semlitsch, Anderer, Schuster, & Presslich, 1986), and then submitted to a 1\u201315 Hz bandpass filter (96 dB, zero-phase shift). To quantify ERN amplitudes, we selected an 800-ms response-locked epoch of EEG signal for each artifact-free trial associated with a valid reaction time (250\u20131500 ms), to exclude ERNs associated with impulsive errors or inattentiveness. Baseline correction procedures subtracted the average voltage occurring from 400\u201350 ms preresponse from each entire epoch. Waveforms derived from correct and incorrect trials were then averaged within their respective trial types. On the basis of past work and visual inspection of waveforms, ERN amplitudes were scored as the peak negative deflection occurring between 50 ms and 150 ms at the frontocentral site (Fcz)."
+        },
+        {
+            "heading": "Results",
+            "text": "To ensure reliable ERN indices, it was necessary to exclude cases with fewer than five valid error responses on a given trial type. Of the original 73 participants, 21 were excluded because they made fewer than five errors on at least one of the four trial types (6 high-IMS/low-EMS, 9 high-IMS/high-EMS, and 10 lowIMS participants). Additional participants were excluded because of excessive EEG artifact (5) or extreme scores on one or more variables (2) that exceeded three standard deviations. These exclusions yielded 45 participants with full sets of valid responses\nA\nPattern Mask\nBlack or White Face Prime\nGun or Tool Target\nPattern Mask\nTime 1s 200 ms 200 ms response\nB\nFigure 1. Schematic of weapons identification task, which we adapted from Payne (2001), illustrating the timecourse of events (A) and sample stimuli (B).\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly .\n(12 high-IMS/low-EMS, 17 high-IMS/high-EMS, and 16 low-IMS participants). For this sample, ERNs were composed of the following average epochs per trial type: 18.80 (Black\u2013tool), 12.71 (Black\u2013gun), 14.64 (White\u2013tool), and 18.38 (White\u2013gun). Mean IMS, EMS, and ATB scores for each regulatory group are presented in Table 1. Scores on the IMS and EMS were not significantly correlated, r(43) .14, p .36, consistent with past findings. ATB scores were correlated with IMS scores, r(41) .64, p .001, but were not significantly correlated with EMS scores, r(41) .26, p .11. Preliminary analyses showed that excluded participants did not differ from included participants on primary behavioral measures, Fs 1.\nWeapons Identification Task Performance\nPreliminary analyses were conducted to establish that the weapons identification task was successful in eliciting a stereotype-driven pattern of responding, which in turn created the need for response control on high-conflict trials (Black\u2013tool) but not on low-conflict trials (Black\u2013gun). A 2 (Prime: Black vs. White) 2 (Target: gun vs. tool) analysis of variance (ANOVA) on response latencies produced the expected interaction, F(1, 44) 20.92, p .001. It indicated that Black faces facilitated responses to guns but interfered with responses to tools, compared with White faces (see Figure 2A). A 2 (Prime) 2 (Target) ANOVA of error rates also produced the expected interaction, F(1, 44) 20.64, p .001. It indicated that participants had more difficulty responding to tools than guns when preceded by a Black face, compared with White prime trials (see Figure 2B). Together, these analyses showed that the task created race-biased response conflict on Black\u2013tool trials and thus a need for greater control on such trials, compared with Black\u2013gun trials, replicating previous research (e.g., Amodio et al., 2004, 2006; Payne, 2001, 2005)."
+        },
+        {
+            "heading": "Hypothesis Testing Strategy",
+            "text": "To establish support for our primary hypothesis that regulatoryability differences among low-prejudice people are due to conflictmonitoring effects, we tested a specific set of predictions. All statistical tests were two-tailed.\nPrediction 1. High-IMS/low-EMS and high-IMS/high-EMS participants should not differ in explicit prejudice (i.e., ATB\nscores). Both groups should report more positive attitudes toward Blacks than low-IMS participants.\nPrediction 2. All groups are expected to show a similar degree of automatic stereotype activation, as revealed by stronger PDautomatic estimates associated with Black than with White faces on the weapons identification task.\nPrediction 3. High-IMS/low-EMS participants should demonstrate higher levels of control than high-IMS/high-EMS participants, and both groups should show greater control than low-IMS participants, as revealed by PD-control estimates associated with both Black and White faces.\nPrediction 4. Compared with high-IMS/high-EMS and lowIMS participants, high-IMS/low-EMS participants should exhibit greater conflict-monitoring-related brain activity (i.e., ERNs) on trials requiring stereotype inhibition (e.g., Black\u2013tool trials). No group differences are expected when responses do not require inhibition (i.e., Black\u2013gun trials).\nPrediction 5. Across participants, ERN scores should be associated with greater behavioral control, as indicated by PDcontrol scores. ERNs should not relate to automatic stereotyping (i.e., PD-automatic scores).\nPrediction 6. Group differences in PD-control should be mediated by conflict-related ERN amplitudes (i.e., from Black\u2013tool trials).\nPrediction 1: Explicit Prejudice\nA one-way ANOVA indicated differences among regulator groups\u2019 ATB scores, F(2, 42) 4.90, p .01. High-IMS/lowEMS and high-IMS/high-EMS participants both reported more positive attitudes toward Black people than did low-IMS partici-\nNote. The low-IMS group includes participants reporting high and low levels of external motivation to respond without prejudice. Differing subscripts indicate significantly different means within rows ( p .05), as determined by groupwise t tests. IMS Internal Motivation Scale; EMS External Motivation Scale; ATB Attitude Towards Blacks scale.\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly .\npants (see Table 1). It is important to note that ATB scores did not differ between high-IMS/low-EMS and high-IMS/high-EMS participants, replicating past work and directly supporting Prediction 1.\nPrediction 2: Automatic Race Bias\nPD-automatic estimates associated with Black and White faces were submitted to a 3 (Group: high IMS/low EMS vs. high IMS/high EMS vs. low IMS) 2 (Prime Race: White vs. Black) mixedfactorial ANOVA. A significant effect for prime race emerged, F(1, 42) 19.19, p .001, indicating greater automatic stereotyping bias for Black faces than for White faces (see Table 2). Significant effects were not obtained for group, F(2, 42) 1.60, p .21, or for the interaction, F 1. PD-automatic estimates for Black and White faces were not significantly correlated (see Table 3). This pattern of results revealed that automatic race biases were activated at similar levels across groups, supporting Prediction 2 and replicating past work. Given the positive attitudes toward Black people reported by highIMS/low-EMS and high-IMS/high-EMS participants, these results revealed an inherent conflict between their consciously held beliefs and their automatic tendencies.\nPrediction 3: Race-Bias Control\nThe hallmark of successful control is intention-driven behavior that is not affected by extraneous countervailing influences (Baddeley, 1986; Shallice, 1982). In the context of the weapons identification task, control should be evident in accurate classification of targets, despite the presence of automatic stereotyping associated with Black faces (e.g., Amodio et al., 2004; Lambert et al., 2003; Payne, 2001, 2005; Payne et al., 2002). In contrast to the stimulus-driven automatic responses to Black and White faces, which yielded uncorrelated PD-automatic estimates, PD control for both Black- and White-face trials reflects the engagement of an accuracy goal in the task. Because the accuracy goal applies across Black- and White-face trials, the two PD-control estimates should be strongly associated (Amodio et al., 2004, 2006; Payne, 2005). Indeed, these estimates were highly correlated (see Table 3).\nTo test Prediction 3, PD-control scores were submitted to a 3 (Group) 2 (Prime Race) mixed-factorial ANOVA. A significant effect for group emerged, F(2, 42) 15.09, p .001. Neither\neffects for prime race or the interaction reached significance, Fs 1. Simple analyses confirmed that PD-control scores for high-IMS/ low-EMS participants were significantly larger than those of highIMS/high-EMS participants, who exhibited greater control than did low-IMS participants (see Table 2). These analyses supported Prediction 3. Given that PD-control scores for Black and White trials were collinear (see Table 3) and appeared to reflect a common goal of response accuracy irrespective of race, they were averaged together to form a single index of control for subsequent analyses (Tabachnick & Fidell, 2001).\nPrediction 4: Group Differences in Race-Bias Conflict"
+        },
+        {
+            "heading": "Monitoring",
+            "text": "Neural signals for conflict-monitoring processes were indexed by ERN amplitudes. ERN amplitudes were submitted to a 3 (Group: high IMS/low EMS vs. high IMS/high EMS vs. low IMS) 2 (Prime Race: Black vs. White) 2 (Target: gun vs. tool) 2 (Accuracy: correct vs. incorrect) mixed-factorial ANOVA. This analysis produced a significant four-way interaction, F(2, 42) 3.02, p .05. Because our predictions pertained specifically to responses to Black targets, we examined lowerorder effects separately for Black and White faces.\nA 3 (Group) 2 (Target) 2 (Accuracy) ANOVA for trials involving Black faces produced a main effect for accuracy, F(1, 42) 171.66, p .001, indicating that ERNs were larger (i.e., more negative) when responses were incorrect (M 9.69, SD 4.28) than when they were correct (M 1.69, SD 2.43). This effect was qualified by a significant three-way interaction, F(2, 42) 3.70, p .04 (see Figure 3A). To understand this interaction, we analyzed ERNs associated with correct versus incorrect responses separately. The analysis of correct responses did not produce significant effects, Fs 1.35, ps .25. However, for incorrect responses, the predicted Group Target interaction was significant, F(2, 42) 4.86, p .02. Simple-effect analyses revealed a group effect for Black\u2013tool trial ERNs, F(2, 42) 6.64, p .005), but not for Black\u2013gun trials, F 1. Black\u2013tool ERNs were larger among high-IMS/low-EMS participants (M 14.15, SD 4.31) than high-IMS/high-EMS participants (M 9.48, SD 3.36), F(1, 42) 10.76, p .005, and low-IMS participants\nNote. N 45. Larger error-related negativity (ERN) waves are represented by larger negative values. PD refers to process dissociation estimates of automatic (A) and controlled (C) processing for responses associated with Black and White faces. PD scores represent probability estimates, ranging from 0 to 1. * p .01. ** p .001.\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly .\n(M 8.65, SD 4.83), F(1, 42) 9.75, p .005. Additional analyses revealed a significant difference between Black\u2013tool and Black\u2013gun ERNs for high-IMS/low-EMS participants, F(1, 42) 9.99, p .005, but not for either of the other groups, Fs 1. Hence, only high-IMS/low-EMS participants exhibited enhanced ERNs when automatic stereotyping tendencies were inconsistent with their intended responses. This pattern of results supported Prediction 4.1\nWe next examined ERN responses to White faces. However, it is important to note that White people are not associated with either guns or tools. This is reflected by the lack of reaction time differences on White\u2013gun and White\u2013tool trials. Given the reaction-time results, the differential error rates found for White\u2013gun versus White\u2013tool trials appear to be artifacts of the gun (vs. tool) associations with Black faces. Thus, it is not clear how to interpret error-related ERP effects for White-face trials. With these interpretational ambiguities in mind, we examined ERN amplitudes on trials involving White faces (see Figure 3B). A 3 (Group) 2 (Target) 2 (Accuracy) mixed-factorial ANOVA produced a main effect for accuracy, F(2, 42) 202.33, p .001, indicating larger negative amplitudes on error trials (M 9.42, SD 4.40) than on correct trials (M 1.51, SD 2.48). This effect was qualified by a Group Accuracy interaction, F(2, 42) 4.61, p .02. Simple-effect analyses suggested that the groups\u2019 ERN amplitudes differed on incorrect trials only, F(2, 42) 7.01, p .005, such that ERNs were larger for high-IMS/low-EMS participants (M 12.35, SD 3.91) than for high-IMS/high-EMS participants (M 9.08, SD 2.69), F(1, 42) 6.79, p .02, and low-IMS participants, (M 7.60, SD 3.34), F(1, 42) 11.56, p .005. The ERN amplitudes of high-IMS/high-EMS participants did not differ significantly from those of low-IMS participants, F(1, 42) 1.99, p .17. These effects were not moderated by target (i.e., guns vs. tools), however, and therefore could not be interpreted as evidencing conflict monitoring related to stereotyping. Additional analyses compared ERNs on critical Black\u2013tool trials with ERNs of the other trial types. These analyses revealed a significant difference\namong high-IMS/low-EMS participants, F(1, 42) 9.61, p .005, but not among the other groups, Fs 1.03.\nThis set of analyses showed that conflict-monitoring processing is more strongly engaged in response to race-biased tendencies\n1 Recently, the correct-related negativity (CRN) component of the ERP has been used to measure conflict-monitoring processes that lead to successful response control (i.e., correct responses on high-conflict trials; e.g., Bartholow et al., 2005; see also N2correct; Yeung et al., 2004). The CRN is a negativepolarity waveform that is strongest at frontocentral midline scalp sites and, like the ERN, has been associated with an ACC neural generator (van Veen & Carter, 2002). CRN effects tend to be more subtle than those of ERNs and thus do not provide as strong of an indicator of conflict monitoring, but we include analyses of the response-locked CRN as a supplement.\nThe CRN has been examined as both a response-locked and stimulus-locked component. Here, CRN amplitudes were scored as the peak negative deflection occurring 75\u2013150 ms prior to correct responses and were submitted to a 3 (Group: high IMS/low EMS vs. high IMS/high EMS vs. low IMS) 2 (Prime: Black vs. White) 2 (Target: gun vs. tool) ANOVA. A significant Prime Target interaction, F(1, 42) 13.75, p .001, indicated larger CRN amplitudes for Black\u2013tool trials than for each of the other trial types, ts(44) 2.42, ps .02, replicating Amodio et al. (2004). This effect was not moderated by group. However, planned comparisons following from ERN analyses indicated that the CRN enhancement on Black\u2013tool trials, relative to Black\u2013 gun trials, was significant for high-IMS/low-EMS participants (Ms 5.90 and 3.20, respectively), F(1, 42) 7.74, p .01, and high-IMS/high-EMS participants (Ms 5.75 and 3.47, respectively), F(1, 42) 12.32, p .01, but not for low-IMS participants (Ms 5.12 and 3.84, respectively), F(1, 42) 2.42, p .13. Finally, Black\u2013tool CRN amplitudes were associated with accuracy on tool trials, r(43) .33, p .03, and PD control, r(43) .33, p .03, in partial correlations covarying Black\u2013gun CRN amplitudes. These results suggest that when highly internally motivated individuals (irrespective of external motivation) succeed in overriding stereotyping effects, their success may be attributed to effective conflict-monitoring activity.\nFigure 3. Response-locked waveforms depicting the error-related negativity (ERN) component associated with Black-prime (A) and White-prime trials (B), as a function of internal motivation scale/external motivation scale (IMS/EMS) group, target, and accuracy. Larger ERN effects are reflected by larger negative-polarity values. Zero represents the time of key-press response.\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly .\namong high-IMS/low-EMS participants than among high-IMS/ high-EMS and low-IMS participants, supporting Prediction 4.\nPrediction 5: Relationship Between Race-Bias ERNs and"
+        },
+        {
+            "heading": "Behavior",
+            "text": "Correlational analyses revealed that larger ERN amplitudes were significantly associated with greater PD control, as well as posterror accuracy, an additional behavioral indicator of control used in past work (Rabbit, 1966; see Table 3). Black\u2013gun ERN amplitudes were covaried from Black\u2013tool ERN amplitudes so that partial correlations could be examined. These analyses indicated that Black\u2013tool ERN amplitudes predicted higher PD-control scores, r(42) .51, p .001, and greater posterror accuracy, r(42) .54, p .001, beyond any effect of Black\u2013gun ERNs. Black\u2013tool ERNs were not correlated with the PD-automatic estimates for Black or White faces.\nAdditional analyses indicated that greater control across trials was predicted uniquely by ERNs associated with Black faces but not with White faces. After partialling the ERN amplitude from White\u2013tool trials, larger Black\u2013tool ERNs predicted greater PDcontrol estimates for both Black and White faces, rs .42, ps .005. By contrast, after partialling Black\u2013tool ERNs, White\u2013tool ERNs were not significantly associated with PD-control estimates for Black or White faces, rs .21, ps .18. These results demonstrated that conflict-monitoring signals were activated specifically in response to the need for stereotype inhibition (i.e., on Black\u2013tool trials) and subsequently engaged a control mechanism that enhanced response regulation across trials, supporting Prediction 5.\nNext, using regression with dummy codes, as recommended for the analysis of categorical group data (Cohen, Cohen, West, & Aiken, 2003), we examined whether the relationship between ERN amplitude and response control varied as a function of group. These analyses revealed that the association of ERN amplitudes and PD control did not differ significantly between high-IMS/lowEMS and high-IMS/high-EMS participants, B 0.09, t(39) 1.45, p .16, high-IMS/low-EMS and low-IMS participants, B 0.08, t(39) 1.49, p .15, or high-IMS/high-EMS and low-IMS participants, B .01, t(39) 0.18, p .87. These findings suggest that, although the absolute level of activity of the conflict-monitoring system differed by group, greater conflict-\nmonitoring activity was tightly linked to enhanced behavioral control across groups.\nPrediction 6: Mediation Analyses\nOur central hypothesis was that the conflict-monitoring process explains individual differences in regulatory ability among lowprejudice people. This hypothesis was directly tested with a mediation analysis. As an initial test of mediation, we created a group contrast whereby high-IMS/low-EMS participants were assigned a value of 1, and the other two groups were each assigned a value of .5. Mediation was assessed by testing four regression models (Baron & Kenny, 1986). These revealed that (a) the group contrast predicted Black\u2013tool ERN amplitude, .48, t(43) 3.63, p .001 (see Prediction 4), (b) the group contrast predicted PD control, .49, t(43) 3.69, p .001, and (c) Black\u2013tool ERN amplitude predicted accuracy on PD control, .59, t(43) 4.73, p .001. When ERN amplitude was included as a covariate, the group contrast was reduced to marginal significance, .25, t(42) 1.88, p .07; Sobel\u2019s z 2.45, p .04.\nTo more directly test our main hypothesis regarding high-IMS/ low-EMS participants versus high-IMS/high-EMS participants, we created a group contrast comparing these groups (coded 1 vs. 1, respectively). Regression analyses indicated that (a) the contrast predicted Black\u2013tool ERN amplitudes, .53, t(27) 3.28, p .005 (see Prediction 4 results), (b) the contrast predicted PD control, .40, t(27) 2.29, p .02, and (c) Black\u2013tool ERN amplitude predicted PD control, .53, t(26) 3.24, p .005. A final regression supported the mediation hypothesis, such that this contrast variable no longer predicted PD control when race-bias ERN amplitudes were covaried, .17, t(26) 0.87, p .39, Sobel\u2019s z 1.79, p .07 (see Figure 4). However, the contrast effect on PD control was not mediated by ERNs from Black\u2013gun trials, Sobel\u2019s z .37, p .71. These results supported our main hypothesis that the conflict-monitoring processes could explain differences in prejudice control between high-IMS/lowEMS and high-IMS/high-EMS participants."
+        },
+        {
+            "heading": "Discussion",
+            "text": "In Study 1, we tested a specific set of hypotheses to determine whether conflict-monitoring process might account for why some\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly .\nlow-prejudice people are more effective at regulating intergroup responses than others (e.g., Amodio et al., 2003; Devine et al., 2002). As in past work, we found that high-IMS/low-EMS and high-IMS/high-EMS participants reported positive explicit attitudes toward Black people while also exhibiting automatic stereotyping effects. Despite an equivalent discrepancy between automatic and intentional responses, high-IMS/low-EMS participants exhibited significantly greater control over stereotype-driven tendencies on the weapons identification task than did high-IMS/ high-EMS participants. Measures of neural activity revealed that these differences in control were due to differential conflictmonitoring activity. That is, high-IMS/high-EMS participants were less effective in regulating their behavior because their conflict-monitoring systems were not engaged in response to unwanted stereotyping tendencies. Low-IMS participants did not show enhanced conflict monitoring or behavioral control when responses held the potential for revealing race bias, as was expected given their highly prejudiced attitudes. In addition, although low-IMS participants who reported high versus low EMS were combined for theoretical reasons, analyses comparing these two subgroups found no differences on key variables, including Black\u2013tool ERNs ( 8.71 vs. 8.60), F 1, and PD-control scores (.37 vs. .28), F(1, 14) 1.20, p .29. In sum, this study identified the conflict-monitoring process as a mechanism that explains variability in low-prejudice people\u2019s ability to effectively regulate race-biased behavior.\nOur interpretation of the ERN as representing a conflictmonitoring function is in line with the predominant view of current theorists, although alternative interpretations exist. One is that the ERN represents the conscious detection that an error was made (e.g., Falkenstein, Hohnsbein, Hoorman, & Blanke, 1991; Gehring et al., 1993). However, subsequent research has shown that the ERN is not dependent on awareness (Nieuwenhuis et al. 2001) and that an ERN-like deflection with a similar ACC substrate is also seen for correct responses to high-conflict stimuli (see Footnote 1; also, Bartholow et al., 2005). Furthermore, because high-IMS/lowEMS and high-IMS/high-EMS participants would presumably both be sensitive to errors, this error-detection interpretation does not fit our data. Another interpretation of the ERN is that it represents a feedback signal for surprising events, which functions to tune learning systems linked to the mesencephalic dopamine system (Holroyd & Coles, 2002). This feedback interpretation is complementary to the conflict-monitoring account, and it is possible that both functions characterize individuals with high internal motivation and low external motivation. Although our research was not designed to test the feedback account, it would be fruitful to examine the interplay of these functions in future work.\nWe were careful in Study 1 to address several alternative explanations. Our hypothesis was that enhanced conflictmonitoring processes should be triggered specifically on trials on which automatic biases and intentions were incongruent (Black\u2013tool trials) but not on trials on which they were congruent (Black\u2013 gun trials), and that this effect would be especially evident for individuals with high internal/low external motivation. On the basis of theories of cognitive control (e.g., Baddeley, 1986; Shallice, 1982), we further hypothesized that, once triggered, this mechanism of control should affect responses across trials (Payne, 2005). Indeed, ERN amplitudes were uniquely enhanced on Black\u2013tool trials among high-IMS/\nlow-EMS participants but predicted the implementation of response control across all trial types, suggesting a shift toward an accuracy-based (i.e., individuated) processing style (Fiske & Neuberg, 1990). Nevertheless, it may still be possible that patterns of conflict monitoring observed in Study 1 were related to more general differences in cognitive-control abilities between groups. The strongest test of this alternative hypothesis would be to examine whether these groups differ in their performance on a basic cognitive task commonly used to assess general conflict processing and cognitive control. If the group differences observed in Study 1 on the weapons identification task reflect domain-general effects, we would expect to find the same group differences on a general cognitive-control task. We tested this possibility in Study 2, in which participants completed the Eriksen flankers task (Eriksen & Eriksen, 1974), a widely-used behavioral measure of response-conflict processing, in addition to the weapons identification task. The flankers task was chosen because it is conceptually similar to the weapons identification task in that it requires responses that are either congruent or incongruent with prepotent response tendencies. Our primary hypothesis focused on the responses of high-IMS/low-EMS versus those of high-IMS/high-EMS participants, such that they were expected to differ in controlled processing on the weapons identification task, as in Study 1, but not on the flankers task.\nStudy 2\nMethod"
+        },
+        {
+            "heading": "Participants",
+            "text": "Fifty-nine introductory-psychology students at New York University volunteered to participate in exchange for course credit. Participants were selected on the basis of their IMS and EMS scores to match those of good regulators, poor regulators, and nonregulators in Study 1."
+        },
+        {
+            "heading": "Procedure",
+            "text": "After providing consent, participants completed the weapons identification task and then the flankers task on a computer. Next, participants completed the IMS/EMS scale and then questionnaires unrelated to this study. One to five participants took part in a given session, and all measures were completed privately at separate computer workstations. Upon completing the study, participants were debriefed, awarded extra credit, thanked, and dismissed."
+        },
+        {
+            "heading": "Behavioral Tasks",
+            "text": "The weapons identification task was identical to that used in Study 1, except that it included 196 trials. Fewer trials were required without the constraints of the ERN assessment. PD estimates of automaticity and control were computed as in Study 1.\nThe Eriksen flankers task is commonly used to measure the ability to regulate responses in the midst of competing prepotent response tendencies. On a given trial, a row of five arrows is presented, and the participant\u2019s task is to press a button indicating whether the center arrow points left ( ) or right ( ) while ignoring the outer arrows (i.e., the \u201cflankers\u201d).\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly .\nOn 60% of the trials (congruent condition), the center arrow pointed in the same direction as the flankers. On 20% of the trials (incongruent condition), the center arrow pointed in the opposite direction (e.g., or ). Another 20% of the trials were designated no-go trials ( X or X ), on which the participant withholds a response. We included no-go trials to examine hypotheses unrelated to issues of intergroup bias, and they are therefore not discussed further (although regulation groups did not differ in no-go accuracy, F 1). The discrepancy in trial frequencies was designed to entrain a habitual congruentflankers response, so that incongruent trials created response conflict and required control. In this way, the task modeled stereotypedriven effects observed with the weapons identification task. As with the weapons identification task, participants were instructed to respond within 500 ms of target presentation. Response latencies and error rates were computed for congruent and incongruent trials, collapsing across direction of the target arrow. Raw response latencies were natural-log transformed for analyses. PD estimates of control and automaticity were computed from error rates on congruent and incongruent trials, as in Study 1."
+        },
+        {
+            "heading": "Exclusions",
+            "text": "Data from one African American participant were excluded because it was not appropriate to examine her IMS/EMS scores. Of the remaining cases, data were excluded if the participant\u2019s error rate on incongruent flankers trials was very high (above 85%; 5 cases) or if scores on one or more measures exceeded three standard deviations (5 cases). Forty-eight participants (57% female, 43% male; 71% White, 25% Asian, 4% Hispanic) survived these criteria, and the distribution of participants into the three groups was similar to that of Study 1: 16 high-IMS/low-EMS, 15 high-IMS/high-EMS, and 17 low-IMS participants. IMS and EMS scores closely matched those of Study 1 for good regulators, poor regulators, and nonregulators (MIMS 8.39, 8.45, and 4.41, respectively; MEMS 3.74, 6.85, and 5.16, respectively). Sex distribution did not differ between IMS/EMS groups, 2 2.70, p .26."
+        },
+        {
+            "heading": "Results",
+            "text": "The main goal of Study 2 was to test whether the group effects observed on the race-specific weapons identification task would be found for the domain-general flankers task. In particular, we wanted to determine whether high-IMS/high-EMS participants\u2019 difficulty in responding without bias reflected a general cognitive impairment, relative to high-IMS/low-EMS participants. Average PD-control and PD-automatic estimates for both tasks are presented in Table 4. A preliminary set of analyses examining sex effects did not produce any significant main effects or interactions involving sex for any dependent measure, and therefore, all analyses collapsed across this variable."
+        },
+        {
+            "heading": "Regulation Group Effects",
+            "text": "We first conducted a 3 (Group: high IMS/low EMS vs. high IMS/high EMS vs. low IMS) 2 (Race Prime: Black vs. White) ANOVA for PD-automatic estimates to validate that the task elicited a pattern of automatic stereotyping. Replicating Study 1, a main effect for race prime emerged, F(1, 45) 22.68, p .001.\nIt indicated stronger automatic stereotyping effects for Black faces (M .59, SD .20) than White faces (M .41, SD .20). There were no effects for group or the interaction, Fs 1.\nA 3 (Group) 2 (Race Prime) ANOVA for PD-control estimates associated with race bias produced a main effect for group, F(2, 45) 4.36, p .02, replicating the findings of Study 1. PD control was significantly higher among high-IMS/low-EMS participants than among high-IMS/high-EMS participants, t(29) 2.38, p .02, and low-IMS participants, t(31) 2.79, p .01. PD-control between high-IMS/high-EMS and low-IMS participants did not differ significantly, t(30) 1.01, p .31. The main effect for race prime, F(1, 45) 2.11, p .15, and the interaction, F(2, 45) 1.88, p .17, were not significant."
+        },
+        {
+            "heading": "Flankers Effects",
+            "text": "We examined response latencies and error rates to establish the validity of the flankers task. As expected, responses were slower on incongruent trials (M 474 ms) than on congruent trials (M 354 ms), t(47) 21.75, p .001. Similarly, higher error rates were observed for incongruent trials (M 51%) than for congruent trials (M 3%), t(47) 15.63, p .001. This pattern indicated that the flankers task created a domain-general regulatory challenge that permitted appropriate comparison to the racespecific weapons identification task.\nOne-way ANOVAs examining group effects on PD estimates of control and automaticity for the flankers task were not significant, Fs 1, indicating no group differences on this general measure of response control."
+        },
+        {
+            "heading": "Comparison of Weapons Identification and Flankers Effects",
+            "text": "Our primary hypothesis in Study 2 was that high-IMS/highEMS participants\u2019 egalitarian intentions were not internalized sufficiently to create competition with automatic stereotyping tendencies at the level of conflict monitoring, compared with high-IMS/ low-EMS participants; and thus, this effect should be specific to the domain of intergroup bias. A preliminary omnibus 3 (Group:\nNote. PD estimates are probability scores. Differing subscripts indicate significantly different means within rows ( p .05), as determined by groupwise t tests.\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly .\nhigh IMS/low EMS vs. high IMS/high EMS vs. low IMS) 2 (Task: weapons vs. flankers) ANOVA on PD-control estimates from the two tasks produced a marginal interaction, F(2, 45) 2.15, p .13. An inspection of simple effects suggested that, although high-IMS/low-EMS and high-IMS/high-EMS participants differed in their responses on the weapons identification task, they did not differ in responses on the flankers task (see Table 4). By comparison, low-IMS participants showed a tendency for lower control on both tasks, and this tendency likely weakened the expected interaction effect. Given that our hypotheses pertained specifically to patterns of control among high-IMS/low-EMS and high-IMS/high-EMS participants, we conducted a more focused 2 (Group: high IMS/low EMS vs. high IMS/high EMS) 2 (Task: weapons vs. flankers) ANOVA on PD-control estimates. The critical interaction was significant, F(1, 31) 5.14, p .03, providing more direct support for the hypothesis that these two groups of low-prejudice participants would differ in PD control on the weapons identification task but not on the flankers task.\nRace-Specific Versus Domain-General Components of"
+        },
+        {
+            "heading": "Control",
+            "text": "Past research has shown that controlled processing in the context of prejudice involves a combination of general regulatory abilities and domain-specific abilities (Payne, 2005). Thus, we expected that PD control from the flankers task and the weapons identification task should be related and that the degree of relation between scores on these measures would reflect participants\u2019 general regulatory abilities. However, the hypothesized IMS/EMS group differences should be evident in the variance of PD control on the weapons identification task that is attributable only to the race-specific component of control. To test this hypothesis, we conducted an analysis of covariance (ANCOVA) examining regulation-group differences in race-specific controlled processing while controlling for domain-general aspects of controlled processing. PD-control scores from the weapons identification task were submitted to a 3 (Group: high IMS/low EMS vs. high IMS/high EMS vs. low IMS) 2 (Race Prime: Black vs. White) ANCOVA, with PD-control scores from the flankers task included as the covariate. This analysis produced a significant effect for the covariate, F(1, 44) 12.37, p .001, which reflected a significant degree of overlap in controlled processing on the two tasks that is attributable to domain-general regulatory ability. However, the group difference in PD control on the weapons identification task continued to be significant, F(2, 44) 4.53, p .02, indicating that the observed IMS/EMS group differences in the control of race-related responses were independent of general regulatory abilities."
+        },
+        {
+            "heading": "Discussion",
+            "text": "The results of Study 2 showed that although the groups differed in their degree of response control in the context of race, as in Study 1, they did not differ on a domain-general measure of response control. Thus, the individual differences in conflict monitoring observed in Study 1 likely reflected regulatory abilities specific to nonprejudiced intentions and the context of race and were not due to more fundamental differences in cognitive abilities.\nGeneral Discussion\nTheorists have long acknowledged the challenges associated with regulating race-biased responses. Allport (1954) wrote that\n\u201cprejudiced attitudes are almost certain to collide with deep-seated values that are often equally or more central to the personality,\u201d and as a result, many Americans live in a \u201cstate of conflict\u201d (p. 326). Since Allport made this prescient observation, researchers have accumulated numerous examples of conflict between automatic race biases and consciously held egalitarian beliefs. The present research is the first to examine the way this conflict plays out in neural processes over the course of a race-biased response among different individuals.\nConsistent with past research (Amodio et al., 2003; Devine et al., 2002), we found that high-IMS/low-EMS participants were more effective regulators of behavior on a stereotype-inhibition task than were high-IMS/high-EMS participants, despite their equally low-prejudice attitudes and equivalent baseline levels of automatic stereotyping. Here, we extended past findings by showing that neural conflict-monitoring processes accounted for the difference in control between these groups. These findings were consistent with the hypothesis that individuals with high internal motivation and high external motivation are less effective in responding without bias because the conflict between automatic stereotypes and egalitarian intentions is not strongly represented at the neural level while individuals form their responses.\nAlthough the present findings show strong support for the hypothesis that differences in conflict monitoring explain why some egalitarians are worse regulators of bias than others, some potential limitations are worth considering. Our use of an allfemale sample in Study 1 raises the possibility that our results would not have been observed for men. However, the behavioral effects of Study 1 were replicated in Study 2, in which gender effects were not observed. Furthermore, there are no known gender effects on ACC processing or on the ERN, and it is therefore unlikely that the results of Study 1 only pertain to women. A second potential limitation is that by telling participants that the weapons identification task could affect their use of stereotypes (albeit confidentially, to boost motivation to respond accurately), our results may have been driven by external motivations. This possibility would predict that high-IMS/high-EMS participants and a subset of low-IMS participants (those with high EMS) would have shown a high degree of behavioral control and large ERNs, but they did not."
+        },
+        {
+            "heading": "Comparing Social Psychological and Neuroscientific Models of Control",
+            "text": "Previous social psychological models have identified bias detection as an important step toward regulating behavior but differ from the present approach in their explanation for how the detection of bias is accomplished. Most previous models (e.g., Wegener & Petty, 1997; Wilson & Brekke, 1994) focus on the deliberative process of detecting the presence of bias and deciding to initiate control (but see Gollwitzer, 1999). In contrast, the neurocognitive model proposes that control is elicited when activations in an associative network come into conflict, requiring neither the conscious awareness of bias nor a homunculus who \u201cjust knows\u201d when control is needed (Botvinick et al., 2001; Miller & Cohen, 2001). This model is consistent with data showing that mechanisms of control are set in motion very early in the response stream and do not require conscious appraisals (Berns et al., 1997; Nieuwenhuis et al., 2001; see also Moskowitz, Gollwitzer, Wasel, &\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly .\nSchaal, 1999). By using ERPs to track this process, we were able to show evidence of conflict-processing before a response was actually made. In cases where automatic race-biased tendencies were detected and quickly inhibited during the course of a single response, conflict processing was observed approximately 100 ms before a successfully regulated response (see Footnote 1; also Amodio et al., 2004). These findings show that effective response control may be deployed without a person\u2019s awareness that a race-biased response was averted.\nOur focus on the conflict-monitoring component of control complements other research on the regulative component of control that is signaled by conflict-monitoring activity (Kerns et al., 2004). For example, Bartholow, Dickter, and Sestir (2006) examined the regulative component of control in the context of race bias using an ERP component called the negative slow wave that is believed to reflect prefrontal cortical activity. The authors observed higher negative slow-wave amplitudes on trials in which stereotyping tendencies were successfully inhibited. This research extended the findings of Amodio et al. (2004) to demonstrate that control of racial bias involves both conflict-monitoring and regulative aspects of control, associated with the ACC and prefrontal cortex, respectively. However, researchers have not examined individual differences in the role of the regulative component of control in the context of race bias. Although the ERN mediated behavioral differences between high-IMS/low-EMS and highIMS/high-EMS participants in Study 1, it is possible that a measure of the regulative component might further account for this group difference.\nOur findings also complement research on more \u201cdownstream\u201d aspects of race-bias regulation, such as the thoughts and feelings experienced after the commission of prejudice and their effects on future behavior (e.g., Amodio, Devine, & Harmon-Jones, 2007; Monteith, 1993; Monteith, Ashburn-Nardo, Voils, & Czopp, 2002). For example, Monteith\u2019s (1993) model of prejudice control was designed to predict patterns of cognitive, affective, and behavioral processes that are elicited when an individual becomes aware of having made a prejudiced response. More recent work by Amodio et al. (2007) demonstrated the role of prefrontal cortical activity in the regulation of behavior following awareness that one has responded with prejudice. Thus, the present work and the research of Monteith and colleagues focuses on two different stages of prejudice control, namely, pre- and postconscious processing. Whereas the present analysis focuses on the rapid processes that function to regulate a potentially race-biased response as it unfolds, Monteith\u2019s (1993) model focuses primarily on how people regulate future race-related behavior after a race-biased response has been committed (see also Amodio et al., 2007). However, because efforts to regulate future behaviors are typically more deliberative, our theoretical analysis suggests that individuals with both high internal/low external and high internal/high external motivational profiles would be effective in implementing this form of control."
+        },
+        {
+            "heading": "Strategies for Increasing Race-Bias Control",
+            "text": "By using ERP measures and applying a neurocognitive model of control, we provide unique insights into methods of prejudice reduction. For example, our findings suggest that the regulation of intergroup responses could be improved by enhancing the sensi-\ntivity of the conflict-monitoring system in situations in which bias may occur. Techniques have previously been shown to reduce the effect of automatic stereotyping on behavior, although not with the conflict-monitoring model in mind. For example, Kawakami, Dovidio, Moll, Hermsen, and Russin (2000) showed that stereotyping effects on behavior could be reduced by training participants to negate stereotypic associations with African Americans across hundreds of trials. In light of the present findings, we suggest that Kawakami et al.\u2019s negation training may have amplified the conflict-monitoring process by producing concurrent activation of stereotypic and counterstereotypic responses when participants viewed a Black face, in addition to the authors\u2019 interpretation that the training weakened participants\u2019 automatic stereotyped associations. Given the present findings that individuals with a profile of high internal motivation and high external motivation may lack concurrent activation of automatic stereotypic and counterstereotypic responses, the prejudice-reduction strategies used by Kawakami et al. (2000) would be especially effective for enhancing conflict-monitoring responses in these individuals."
+        },
+        {
+            "heading": "Conclusion",
+            "text": "Understanding the intrapsychic conflict between countervailing prepotent and intended responses has captured psychologists\u2019 attention for much of the field\u2019s history. In the present research, we employed a measure of neural activity to assess the role of conflict monitoring in people\u2019s efforts to respond without race bias toward Black people. Our results indicate that prejudice control depends on the sensitivity of the conflict-monitoring system to unwanted race bias and suggests that a proneness to unintentional expressions of prejudice among some low-prejudice people is due in part to a deficit in this system.\nReferences\nAlloy, L. B., Abramson, L. Y., Raniere, D., & Dyller, I. M. (1999). Research methods in adult psychopathology. In P. C. Kendall, J. N. Butcher, & G. N. Holmbeck (Eds.), Handbook of research methods in clinical psychology (pp. 466\u2013498). New York: Wiley. Allport, G. W. (1954). The nature of prejudice. Reading, MA: AddisonWesley. Amodio, D. M., & Devine, P. G. (2006). Stereotyping and evaluation in implicit race bias: Evidence for independent constructs and unique effects on behavior. Journal of Personality and Social Psychology, 91, 652\u2013661. Amodio, D. M., Devine, P. G., & Harmon-Jones, E. (2007). A dynamic model of guilt: Implications for motivation and self-regulation in the context of prejudice. Psychological Science, 18, 524\u2013530. Amodio, D. M., Harmon-Jones, E., & Devine, P. G. (2003). Individual differences in the activation and control of affective race bias as assessed by startle eyeblink responses and self-report. Journal of Personality and Social Psychology, 84, 738\u2013753. Amodio, D. M., Harmon-Jones, E., Devine, P. G., Curtin, J. J., Hartley, S. L., & Covert, A. E. (2004). Neural signals for the detection of unintentional race bias. Psychological Science, 15, 88\u201393. Amodio, D. M., Kubota, J. T., Harmon-Jones, E., & Devine, P. G. (2006). Alternative mechanisms for regulating racial responses according to internal vs. external cues. Social Cognitive and Affective Neuroscience, 1, 26\u201336. Amodio, D. M., Stahlhut, C., & Devine, P. G. (2002). Dissociations of implicit stereotyping and evaluative race bias as a function of internal\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly .\nand external motivations to respond without prejudice. Unpublished manuscript, University of Wisconsin. Baddeley, A. D. (1986). Working memory. New York: Oxford University Press. Baron, R. M., & Kenny, D. A. (1986). The moderator\u2013mediator variable distinction in social psychological research: Conceptual, strategic, and statistical consideration. Journal of Personality and Social Psychology, 51, 1173\u20131182. Bartholow, B. D., Dickter, C. L., & Sestir, M. A. (2006). Stereotype activation and control of race bias: Cognitive control of inhibition and its impairment by alcohol. Journal of Personality and Social Psychology, 90, 272\u2013287. Bartholow, B. D., Pearson, M. A., Dickter, C. L., Sher, K. J., Fabiani, M., Gratton, G. (2005). Strategic control and medial frontal negativity: Beyond errors and response conflict. Psychophysiology, 42, 33\u201342. Berns, G. S., Cohen, J. D., & Mintun, M. A. (1997, May 23). Brain regions responsive to novelty in the absence of awareness. Science, 276, 1272\u2013 1275. Botvinick, M. M., Braver, T. S., Barch, D. M., Carter, C. S., & Cohen, J. D. (2001). Conflict monitoring and cognitive control. Psychological Review, 108, 624\u2013652. Botvinick, M. M., Nystrom, L. E., Fissel, K., Carter, C. S., & Cohen, J. D. (1999, November 11). Conflict monitoring versus selection-for-action in anterior cingulate cortex. Nature, 402, 179\u2013181. Brigham, J. C. (1993). College students\u2019 racial attitudes. Journal of Applied and Social Psychology, 23, 1933\u20131967. Carter, C. S., Braver, T. S., Barch, D. M., Botvinick, M. M., Noll, D., & Cohen, J. D. (1998, May 1). Anterior cingulate cortex, error detection, and the online monitoring of performance. Science, 280, 747\u2013749. Cohen, J., Cohen, P., West, S. G., & Aiken, L. S. (2003). Applied multiple regression/correlation analysis for the behavioral sciences. Mahwah, NJ: Erlbaum. Coles, M. G. H., Gratton, G., & Fabiani, M. (1990). Event-related brain potentials. In J. T. Cacioppo & L. G. Tassinary (Eds.), Principles of psychophysiology: Physical, social, and inferential elements (pp. 413\u2013 455). New York: Cambridge University Press. Crowne, D. P., & Marlowe, D. (1960). A new scale of social desirability independent of psychopathology. Journal of Consulting Psychology, 24, 349\u2013354. Cunningham, W. A., Johnson, M. K., Raye, C. L., Gatenby, J. C., Gore, J. C., & Banaji, M. R. (2004). Dissociated conscious and unconscious evaluations of social groups: An fMRI investigation. Psychological Science, 15, 806\u2013813. Deci, E. L., & Ryan, R. M. (2000). The \u201cwhat\u201d and \u201cwhy\u201d of goal pursuits: Human needs and the self-determination of behavior. Psychological Inquiry, 11, 227\u2013268. Dehaene, S., Posner, M. I., & Tucker, D. M. (1994). Localization of a neural system for error detection and compensation. Psychological Science, 5, 303\u2013305. Devine, P. G. (1989). Prejudice and stereotypes: Their automatic and controlled components. Journal of Personality and Social Psychology, 56, 5\u201318. Devine, P. G., & Monteith, M. M. (1999). Automaticity and control in stereotyping. In S. Chaiken & Y. Trope (Eds.), Dual process theories in social psychology (pp. 339\u2013360). New York: Guilford Press. Devine, P. G., Monteith, M. M., Zuwerink, J. R., & Elliot, A. J. (1991). Prejudice with and without compunction. Journal of Personality and Social Psychology, 60, 817\u2013830. Devine, P. G., Plant, E. A., Amodio, D. M., Harmon-Jones, E., & Vance, S. L. (2002). The regulation of explicit and implicit race bias: The role of motivations to respond without prejudice. Journal of Personality and Social Psychology, 82, 835\u2013848. Dovidio, J. F., Kawakami, K., & Gaertner, S. L. (2002). Implicit and\nexplicit prejudice and interracial interaction. Journal of Personality and Social Psychology, 82, 62\u201368. Dunton, B. C., & Fazio, R. H. (1997). An individual difference measure of motivation to control prejudiced reactions. Personality and Social Psychology Bulletin, 23, 316\u2013326. Eriksen, B. A., & Eriksen, C. W. (1974). Effects of noise letters upon the identification of target letters in a non-search task. Perception and Psychophysics, 16, 143\u2013149. Falkenstein, M., Hohnsbein, J., Hoorman, J., & Blanke, L. (1991). Effects of crossmodal divided attention on late ERP components: II. Error processing in choice reaction tasks. Encephalography and Clinical Neurophysiology, 78, 447\u2013455. Fiske, S. T., & Neuberg, S. L. (1990). A continuum model of impression formation: Form category-based to individuating process as a function of information, motivation, and attention. In M. P. Zanna (Ed.), Advances in experimental social psychology (Vol. 23, pp. 1\u2013108). San Diego, CA: Academic Press. Forster, K. I., & Forster, J. C. (2003). DMDX: A Windows display program with millisecond accuracy. Behavior Research Methods, Instruments, and Computers, 35, 116\u2013124. Gaertner, S. L., & Dovidio, J. F. (1986). The aversive form of racism. In J. F. Dovidio & S. L. Gaertner (Eds.), Prejudice, discrimination, and racism (pp. 61\u201389). San Diego, CA: Academic Press. Gehring, W. J., & Fencsik, D. E. (2001). Functions of the medial frontal cortex in the processing of conflict and errors. Journal of Neuroscience, 21, 9430\u20139437. Gehring, W. J., Goss, B., Coles, M. G. H., Meyer, D. E., & Donchin, E. (1993). A neural system for error detection and compensation. Psychological Science, 4, 385\u2013390. Gollwitzer, P. M. (1999). Implementation intentions: Strong effects of simple plans. American Psychologist, 54, 493\u2013503. Heller, W., & Levy, J. (1981). Perception and expression of emotion in right-handers and left-handers. Neuropsychologia, 19, 263\u2013272. Holroyd, C. B., & Coles, M. G. H. (2002). The neural basis of human error processing: Reinforcement learning, dopamine, and the error-related negativity. Psychological Review, 109, 679\u2013709. Jacoby, L. L. (1991). A process dissociation framework: Separating automatic from intentional uses of memory. Journal of Memory and Language, 30, 513\u2013541. Judd, C. M., Blair, I. V., & Champleau, K. M. (2004). Automatic stereotypes vs. automatic prejudice: Sorting out the possibilities in the Payne (2001) weapon paradigm. Journal of Experimental Social Psychology, 40, 75\u201381. Kawakami, K., Dovidio, J. F., Moll, J., Hermsen, S., & Russin, A. (2000). Just say no (to stereotyping): Effects of training on the negation of stereotypic associations on stereotype activation. Journal of Personality and Social Psychology, 78, 871\u2013888. Kerns, J. G., Cohen, J. D., MacDonald, A. W., Cho, R. Y., Stenger, V. A., & Carter, C. S. (2004, February 13). Anterior cingulate conflict monitoring and adjustments in control. Science, 303, 1023\u20131026. Kiehl, K. A., Liddle, P. F., & Hopfinger, J. B. (2001). Error processing and the rostral anterior cingulate: An event-related fMRI study. Psychophysiology, 37, 216\u2013223. Lambert, A. J., Payne, B. K., Jacoby, L. L., Shaffer, L. M., Chasteen, A. L., & Khan, S. R. (2003). Stereotypes as dominant responses: On the \u201csocial facilitation\u201d of prejudice in anticipated public contexts. Journal of Personality and Social Psychology, 84, 277\u2013295. Luu, P., Collins, P., Tucker, D. M. (2000). Mood, personality, and selfmonitoring: Negative affect and emotionality in relation to frontal lobe mechanisms of error monitoring. Journal of Experimental Psychology: General, 129, 43\u201360. MacDonald W., III, Cohen, J. D., Stenger, V. A., & Carter, C. S. (2000, June 9). Dissociating the role of the dorsolateral prefrontal and anterior cingulate cortex in cognitive control. Science, 288, 1835\u20131838.\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly .\nMiller, E. K., & Cohen, J. D. (2001). An integrative theory of prefrontal cortex function. Annual Review of Neuroscience, 24, 167\u2013202. Monteith, M. J. (1993). Self-regulation of stereotypical responses: Implications for progress in prejudice reduction. Journal of Personality and Social Psychology, 65, 469\u2013485. Monteith, M. J., Ashburn-Nardo, L., Voils, C. I., & Czopp, A. M. (2002). Putting the brakes on prejudice: On the development and operation of cues for control. Journal of Personality and Social Psychology, 83, 1029\u20131050. Monteith, M. J., & Voils, C. I. (1998). Proneness to prejudice responses: Toward understanding the authenticity of self-reported discrepancies. Journal of Personality and Social Psychology, 75, 901\u2013916. Moskowitz, G. B., Gollwitzer, P. M., Wasel, W., & Schaal, B. (1999). Preconscious control of stereotype activation through chronic egalitarian goals. Journal of Personality and Social Psychology, 77, 167\u2013184. Nieuwenhuis, S., Ridderinkhof, K. R., Blom, J., Band, G. P. H., & Kok, A. (2001). Error-related brain potentials are differently related to awareness of response errors: Evidence from an antisaccade task. Psychophysiology, 38, 752\u2013760. Payne, B. K. (2001). Prejudice and perception: The role of automatic and controlled processes in misperceiving a weapon. Journal of Personality and Social Psychology, 81, 181\u2013192. Payne, B. K. (2005). Conceptualizing control in social cognition: How executive functioning modulates the expression of automatic stereotyping. Journal of Personality and Social Psychology, 89, 488\u2013503. Payne, B. K., Lambert, A. J., & Jacoby, L. L. (2002). Best laid plans: Effects of goals on accessibility bias and cognitive control in race-based misperceptions of weapons. Journal of Experimental Social Psychology, 38, 384\u2013396. Plant, E. A., & Devine, P. G. (1998). Internal and external motivation to respond without prejudice. Journal of Personality and Social Psychology, 75, 811\u2013832. Plant, E. A., Devine, P. G., & Brazy, P. C. (2003). The bogus pipeline and\nmotivations to respond without prejudice: Revisiting the fading and faking of racial prejudice. Group Processes & Intergroup Relations, 6, 187\u2013200. Plant, E. A., Vance, S. L., & Devine, P. G. (2007). The intention underlying control of prejudice: To hide or be free of bias. Unpublished manuscript, University of Wisconsin. Rabbit, P. M. A. (1966). Errors and error correction in choice-response tasks. Journal of Experimental Psychology, 71, 264\u2013272. Semlitsch, H. V., Anderer, P., Schuster, P., & Presslich, O. (1986). A solution for reliable and valid reduction of ocular artifacts, applied to the P300 ERP. Psychophysiology, 23, 695\u2013703. Shallice, T. (1982). Specific impairments of planning. Philosophical Transactions of the Royal Society of London, B298, 199\u2013209. Snyder, M., & Gangestad, S. (1986). On the nature of self-monitoring: Matters of assessment, matters of validity. Journal of Personality and Social Psychology, 51, 125\u2013139. Tabachnick, B. G., & Fidell, L. S. (2001). Using multivariate statistics. Needham Heights, MA: Allyn & Bacon. van Veen, V., & Carter, C. S. (2002). The timing of action-monitoring processes in the anterior cingulate cortex. Journal of Cognitive Neuroscience, 14, 593\u2013602. Wegener, D. T., & Petty, R. E. (1997). The flexible correction model: The role of na\u0131\u0308ve theories of bias in bias correction. In M. P. Zanna (Ed.), Advances in experimental social psychology (Vol. 29, pp. 141\u2013208). Mahwah, NJ: Erlbaum. Wilson, T. D., & Brekke, N. (1994). Mental contamination and mental correction: Unwanted influences on judgments and evaluations. Psychological Bulletin, 116, 117\u2013142. Yeung, N., Botvinick, M. M., & Cohen, J. D. (2004). The neural basis of error detection: Conflict monitoring and the error-related negativity. Psychological Review, 111, 931\u2013959.\nReceived September 13, 2006 Revision received May 18, 2007\nAccepted May 18, 2007\nMAIL TO: Name\nAddress\nCity State Zip\nAPA Member #\nCheck enclosed (make payable to APA)\nCharge my: VISA MasterCard American Express\nCardholder Name\nCard No. Exp. Date\nSignature (Required for Charge)\nBILLING ADDRESS: Street\nCity State Zip\nDaytime Phone\nE-mail\nPSPA 08\nORDER FORM Start my 2008 subscription to Journal of Personality\nand Social Psychology ISSN: 0022-3514\n___ $214.00, APA MEMBER/AFFILIATE _______ ___ $464.00, INDIVIDUAL NONMEMBER _______ ___ $1,450.00, INSTITUTION ___________\nIn DC add 5.75% / In MD add 6% sales tax _______ TOTAL AMOUNT ENCLOSED $ _______\nSubscription orders must be prepaid. (Subscriptions are on a calendar year basis only.) Allow 4-6 weeks for delivery of the first issue. Call for international subscription rates."
+        },
+        {
+            "heading": "SEND THIS ORDER FORM TO:",
+            "text": "American Psychological Association Subscriptions 750 First Street, NE Washington, DC 20002-4242\nOr call 800-374-2721, fax 202-336-5568. TDD/TTY 202-336-6123. For subscription information, e-mail: subscriptions@apa.org\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly .\nCorrection to Amodio et al. (2008)\nIn the article \u201cIndividual Differences in the Regulation of Intergroup Bias: The Role of Conflict Monitoring and Neural Signals for Control,\u201d by David M. Amodio, Patricia G. Devine, and Eddie Harmon-Jones (Journal of Personality and Social Psychology, 2008, Vol. 94, No. 1, pp. 60\u201374), there was an error in Figure 4. The figure should appear as follows:\nFigure 4. Mediation model illustrating how the difference between high-IMS/low-EMS and highIMS/high-EMS participants\u2019 response accuracy on trials requiring the inhibition of automatic stereotyping (Black\u2013tool trials) was accounted for by error-related negativity (ERN) amplitudes on Black\u2013tool trials. Betas are reported (beta in parentheses represents the effect of group on response accuracy before ERN scores were included in the regression model). Larger ERNs are represented by more negative values. *p .05. **p .01.\nTh is\nd oc\num en\nt i s c\nop yr\nig ht\ned b\ny th\ne A\nm er\nic an\nP sy\nch ol\nog ic\nal A\nss oc\nia tio\nn or\no ne\no f i\nts a\nlli ed\np ub\nlis he\nrs .\nTh is\na rti\ncl e\nis in\nte nd\ned so\nle ly\nfo r t\nhe p\ner so\nna l u\nse o\nf t he\nin di\nvi du\nal u\nse r a\nnd is\nn ot\nto b\ne di\nss em\nin at\ned b\nro ad\nly ."
+        }
+    ],
+    "title": "INTERPERSONAL RELATIONS AND GROUP PROCESSES Individual Differences in the Regulation of Intergroup Bias: The Role of Conflict Monitoring and Neural Signals for Control",
+    "year": 2008
+}

@@ -1,0 +1,293 @@
+{
+    "abstractText": "Research on retrieval-induced forgetting has demonstrated that retrieving some information from memory can cause the forgetting of other information in memory. Here, the authors report research on the relearning of items that have been subjected to retrieval-induced forgetting. Participants studied a list of category\u2013exemplar pairs, underwent a series of retrieval-practice and relearning trials, and, finally, were tested on the initially studied pairs. The final recall of non-relearned items exhibited a cumulative effect of retrieval-induced forgetting such that the size of the effect increased with each block of retrieval practice. Of most interest, and very surprising from a common-sense standpoint, items that were relearned benefited more from that relearning if they had previously been forgotten. The results offer insights into the nature and durability of retrieval-induced forgetting and provide additional evidence that forgetting is an enabler\u2014rather than a disabler\u2014of future learning.",
+    "authors": [
+        {
+            "affiliations": [],
+            "name": "Benjamin C. Storm"
+        },
+        {
+            "affiliations": [],
+            "name": "Elizabeth Ligon Bjork"
+        },
+        {
+            "affiliations": [],
+            "name": "Robert A. Bjork"
+        }
+    ],
+    "id": "SP:076496b555c6d0848978b7c8e028b86f4332a416",
+    "references": [
+        {
+            "authors": [
+                "M.C. Anderson"
+            ],
+            "title": "Rethinking interference theory: Executive control and the mechanisms of forgetting",
+            "venue": "Journal of Memory and Language, 49, 415\u2013445.",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "M.C. Anderson",
+                "E.L. Bjork",
+                "R.A. Bjork"
+            ],
+            "title": "Retrieval-induced forgetting: Evidence for a recall-specific mechanism",
+            "venue": "Psychonomic Bulletin & Review,",
+            "year": 2000
+        },
+        {
+            "authors": [
+                "M.C. Anderson",
+                "R.A. Bjork",
+                "E.L. Bjork"
+            ],
+            "title": "Remembering can cause forgetting: Retrieval dynamics in long-term memory",
+            "venue": "Journal of Experimental Psychology: Learning, Memory, and Cognition,",
+            "year": 1994
+        },
+        {
+            "authors": [
+                "M.C. Anderson",
+                "B.A. Spellman"
+            ],
+            "title": "On the status of inhibitory mechanisms in cognition: Memory retrieval as a model case",
+            "venue": "Psychological Review,",
+            "year": 1995
+        },
+        {
+            "authors": [
+                "K. Bauml"
+            ],
+            "title": "Semantic generation can cause episodic forgetting",
+            "venue": "Psychological Science, 13, 356\u2013360.",
+            "year": 2002
+        },
+        {
+            "authors": [
+                "E.L. Bjork",
+                "R.A. Bjork"
+            ],
+            "title": "On the adaptive aspects of retrieval failure in autobiographical memory",
+            "year": 1988
+        },
+        {
+            "authors": [
+                "E.L. Bjork",
+                "R.A. Bjork",
+                "M.C. Anderson"
+            ],
+            "title": "Varieties of goal-directed forgetting",
+            "year": 1998
+        },
+        {
+            "authors": [
+                "R.A. Bjork"
+            ],
+            "title": "Retrieval-inhibition as an adaptive mechanism in human memory",
+            "venue": "H. L. Roediger & F. I. M. Craik (Eds.), Varieties of memory and consciousness: Essays in honor of Endel Tulving (pp. 309\u2013330). Hillsdale, NJ: Erlbaum.",
+            "year": 1989
+        },
+        {
+            "authors": [
+                "R.A. Bjork"
+            ],
+            "title": "Memory and metamemory considerations in the training of human beings",
+            "venue": "J. Metcalfe & A. Shimamura (Eds.), Metacognition: Knowing about knowing (pp. 185\u2013205). Cambridge, MA: MIT Press.",
+            "year": 1994
+        },
+        {
+            "authors": [
+                "R.A. Bjork"
+            ],
+            "title": "Inhibition: An essential and contentious concept",
+            "venue": "H. L. Roediger, Y. Dudai, & S. M. Fitzpatrick (Eds.), Science of memory: Concepts (pp. 307\u2013313). Oxford, England: Oxford University Press.",
+            "year": 2007
+        },
+        {
+            "authors": [
+                "R.A. Bjork",
+                "T.W. Allen"
+            ],
+            "title": "The spacing effect: Consolidation or differential encoding",
+            "venue": "Journal of Verbal Learning and Verbal Behavior,",
+            "year": 1970
+        },
+        {
+            "authors": [
+                "R.A. Bjork",
+                "E.L. Bjork"
+            ],
+            "title": "A new theory of disuse and an old theory of stimulus fluctuation",
+            "venue": "From learning processes to cognitive processes: Essays in honor of William K. Estes. (Vol",
+            "year": 1992
+        },
+        {
+            "authors": [
+                "K.M. Butler",
+                "C.C. Williams",
+                "R.H. Maki",
+                "R.T. Zacks"
+            ],
+            "title": "A limit on retrieval-induced forgetting",
+            "venue": "Journal of Experimental Psychology: Learning, Memory, and Cognition,",
+            "year": 2001
+        },
+        {
+            "authors": [
+                "L.J. Cuddy",
+                "L.L. Jacoby"
+            ],
+            "title": "When forgetting helps memory: An analysis of repetition effects",
+            "venue": "Journal of Verbal Learning and Verbal Behavior,",
+            "year": 1982
+        },
+        {
+            "authors": [
+                "F.N. Dempster"
+            ],
+            "title": "Distributing and managing the conditions of encoding and practice",
+            "venue": "E. L. Bjork & R. A. Bjork (Eds.), Handbook of perception and cognition (Vol. 10, pp. 317\u2013344). New York: Academic Press.",
+            "year": 1996
+        },
+        {
+            "authors": [
+                "W.K. Estes"
+            ],
+            "title": "Statistical theory of spontaneous recovery and regression",
+            "venue": "Psychological Review, 62, 145\u2013154.",
+            "year": 1955
+        },
+        {
+            "authors": [
+                "C.L. Hull"
+            ],
+            "title": "The principles of behavior",
+            "venue": "New York: AppletonCentury-Crofts.",
+            "year": 1943
+        },
+        {
+            "authors": [
+                "W. James"
+            ],
+            "title": "The principles of psychology (Vol",
+            "venue": "1). New York: Holt.",
+            "year": 1890
+        },
+        {
+            "authors": [
+                "S.K. Johnson",
+                "M.C. Anderson"
+            ],
+            "title": "The role of inhibitory control in forgetting semantic knowledge",
+            "venue": "Psychological Science,",
+            "year": 2004
+        },
+        {
+            "authors": [
+                "C.M. MacLeod",
+                "M.D. Dodd",
+                "E.D. Sheard",
+                "D.E. Wilson",
+                "U. Bibi"
+            ],
+            "title": "In opposition to inhibition",
+            "venue": "The psychology of learning and motivation: Advances in research and theory (Vol",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "C.N. Macrae",
+                "M.D. MacLeod"
+            ],
+            "title": "On recollections lost: When practice makes imperfect",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1999
+        },
+        {
+            "authors": [
+                "T.J. Perfect",
+                "L.J. Stark",
+                "J.J. Tree",
+                "C.J.A. Moulin",
+                "L. Ahmed",
+                "R. Hutter"
+            ],
+            "title": "Transfer appropriate forgetting: The cue-dependent nature of retrieval-induced forgetting",
+            "venue": "Journal of Memory and Language,",
+            "year": 2004
+        },
+        {
+            "authors": [
+                "S.M. Smith",
+                "A. Glenberg",
+                "R.A. Bjork"
+            ],
+            "title": "Environmental context and human memory",
+            "venue": "Memory & Cognition,",
+            "year": 1978
+        },
+        {
+            "authors": [
+                "B.C. Storm",
+                "E.L. Bjork",
+                "R.A. Bjork"
+            ],
+            "title": "When intended remembering leads to unintended forgetting",
+            "venue": "Quarterly Journal of Experimental Psychology,",
+            "year": 2007
+        },
+        {
+            "authors": [
+                "B.C. Storm",
+                "E.L. Bjork",
+                "R.A. Bjork",
+                "J.F. Nestojko"
+            ],
+            "title": "Is retrieval success a necessary condition for retrieval-induced forgetting",
+            "venue": "Psychonomic Bulletin & Review,",
+            "year": 2006
+        }
+    ],
+    "sections": [
+        {
+            "text": "Accelerated Relearning After Retrieval-Induced Forgetting: The Benefit of Being Forgotten\nBenjamin C. Storm, Elizabeth Ligon Bjork, and Robert A. Bjork University of California, Los Angeles\nResearch on retrieval-induced forgetting has demonstrated that retrieving some information from memory can cause the forgetting of other information in memory. Here, the authors report research on the relearning of items that have been subjected to retrieval-induced forgetting. Participants studied a list of category\u2013exemplar pairs, underwent a series of retrieval-practice and relearning trials, and, finally, were tested on the initially studied pairs. The final recall of non-relearned items exhibited a cumulative effect of retrieval-induced forgetting such that the size of the effect increased with each block of retrieval practice. Of most interest, and very surprising from a common-sense standpoint, items that were relearned benefited more from that relearning if they had previously been forgotten. The results offer insights into the nature and durability of retrieval-induced forgetting and provide additional evidence that forgetting is an enabler\u2014rather than a disabler\u2014of future learning.\nKeywords: retrieval-induced forgetting, inhibition, learning, memory, forgetting\nThe adaptive and essential role of forgetting in memory is mostly unappreciated. As William James (1890) argued, however . . . \u201cIn the practical use of our intellect, forgetting is as important a function as recollecting\u201d (p. 679). Memories become irrelevant and outdated, and without some means of forgetting or setting aside such memories, learning and accessing new and relevant memories would become steadily more difficult. One way in which it appears that this form of goal-directed forgetting is accomplished is through retrieval inhibition (e.g., E. L. Bjork, Bjork, & Anderson, 1998; R. A. Bjork, 1989) or the executive control processes of inhibition (Anderson, 2003). As proposed by these researchers, in searching for a particular item in memory, other items that are related, but incorrect, can vie for access. Inhibitory control is recruited to select against and decrease the accessibility of such interfering items, facilitating access to the target item. As research on retrieval-induced forgetting has shown (e.g., Anderson, Bjork, & Bjork, 1994), this inhibition can have lasting consequences.\nRetrieval-induced forgetting is typically studied by researchers using a paradigm consisting of three phases: study, retrieval practice, and test (Anderson et al., 1994). Participants study a series of category\u2013exemplar pairs (e.g., fruit: lemon; profession: accountant; fruit: orange) and then retrieve half of the exemplars from half of the categories via guided retrieval practice (e.g., fruit: le_____). Practiced exemplars are referred to as Rp items, nonpracticed exemplars from practiced categories are referred to as Rp\u2013 items (e.g., orange), and nonpracticed exemplars from nonpracticed categories are referred to as Nrp items (e.g., accountant). Not surprisingly, Rp items are better recalled than are both Rp\u2013\nand Nrp items on a final delayed test; more important, however, Rp\u2013 items are less well recalled than are Nrp items. This impairment of Rp\u2013 items, referred to as retrieval-induced forgetting, is surprising because there are reasons to expect Rp\u2013 items to benefit, not suffer, from the retrieval of Rp items (e.g., spreading activation, covert rehearsal).\nIn the years since Anderson et al. (1994) demonstrated retrievalinduced forgetting, researchers have attempted to uncover the mechanisms underlying the phenomenon. According to interference or blocking-based accounts, retrieval-induced forgetting occurs because of the strengthening of the association between the retrieval cue and practiced exemplars (Rp items), which then interfere with the later recall of nonpracticed exemplars (Rp\u2013 items) associated with the same retrieval cue. According to inhibition-based accounts, however, retrieval-induced forgetting occurs because of competition that arises during retrieval practice. While attempting to retrieve target exemplars (Rp items) during retrieval practice, other exemplars interfere with those retrieval attempts and must therefore be selected against. Intrinsic to this selection process is the inhibition of the competing items, which is then presumed to impair their later recall. Observations that retrieval-induced forgetting is cue-independent (e.g., Anderson & Spellman, 1995), interference dependent (e.g., Storm, Bjork, & Bjork, 2007), retrieval specific, and strength independent (e.g., Anderson, Bjork, & Bjork, 2000; Bauml, 2002) have generally supported the inhibitory account. It should be noted, however, that the debate is far from over, and many researchers remain reluctant to endorse an inhibitory explanation of retrieval-induced forgetting (see, e.g., Butler, Williams, Maki, & Zacks, 2001; MacLeod, Dodd, Sheard, Wilson, & Bibi, 2003; Perfect et al., 2004).\nLogic of the Present Study\nThere has been extensive research on the nature, generality, and boundary conditions of retrieval-induced forgetting. The focus of the present research is, instead, on the relearning of items that have\nBenjamin C. Storm, Elizabeth Ligon Bjork, and Robert A. Bjork, Department of Psychology, University of California, Los Angeles.\nCorrespondence concerning this article should be addressed to Benjamin C. Storm, Department of Psychology, University of California, Los Angeles, Box 951563, Los Angeles, CA 90095. E-mail: storm@ucla.edu\nJournal of Experimental Psychology: Copyright 2008 by the American Psychological Association Learning, Memory, and Cognition 2008, Vol. 34, No. 1, 230\u2013236 0278-7393/08/$12.00 DOI: 10.1037/0278-7393.34.1.230\n230\nbeen subjected to retrieval-induced forgetting. Intrinsic to the concept of retrieval inhibition (see R. A. Bjork, 2007) is that such inhibition entails a temporary inability to retrieve information from memory, not a permanent loss. The accessibility of potentially interfering information is reduced but in a way that maintains a representation of that information in memory and, presumably, renders it relearnable at an accelerated rate compared with the relearning of new information, should it again be needed. Thus, retrieval inhibition is an adaptive mechanism (R. A. Bjork, 1989; see also E. L. Bjork & Bjork, 1988), and, from that perspective, the impairment of Rp\u2013 items should not persist after both Rp\u2013 and Nrp items are relearned.\nBeyond that broad consideration, the present research was motivated by a counterintuitive prediction derived from the assumptions of the new theory of disuse (R. A. Bjork & Bjork, 1992), a theoretical framework that motivated, in part, the original research on retrieval-induced forgetting. According to the theory, and consistent with a distinction that a number of learning theorists of various persuasions have postulated tracing back decades (e.g., Estes, 1955; Hull, 1943), an item\u2019s representation in memory is indexed by two dissociable strengths: its storage strength, which represents how entrenched or interassociated the item is with other items in memory, and its retrieval strength, which reflects how accessible the item is at a given point in time in response to a given cue or configuration of cues. The likelihood that an item can be recalled at a given point in time is assumed to be solely a function of its current retrieval strength. Storage strength, which corresponds roughly to degree of learning, is a latent variable that acts to retard the loss of retrieval strength across a retention interval and enhances the gain of retrieval strength during relearning. Furthermore, once storage strength is accumulated, it is assumed never to be lost.\nA key assumption of the theory in the present context is that increments in retrieval strength and storage strength that result from an opportunity to recall or restudy are assumed to be a decreasing function of the item\u2019s current retrieval strength. That is, the theory assumes, counterintuitively, that the more accessible an item is at a given point in time or in a certain context, the less that item stands to benefit when it is relearned. If, in keeping with the theory, the occurrence of retrieval-induced forgetting reflects only a decrease in retrieval strength of Rp\u2013 items, not their storage strength, relearning of Rp\u2013 items should actually bring them to a higher level than that of comparable relearned Nrp items. Thus, not only might Rp\u2013 items recover from inhibition following reexposure but they might even become more recallable than items that were also reexposed but never inhibited in the first place.\nAlthough the foregoing hypothesis may seem counterintuitive, several types of evidence indicate that forgetting can enhance, rather than reduce, learning. R. A. Bjork and Allen (1970), for example, increased the forgetting of studied items by manipulating the difficulty of a number-shadowing task that was interpolated before the studied items were either tested or studied again. Difficult number shadowing produced more forgetting than did easy number shadowing, but the converse was true when another study trial was provided, and the information was tested at a delay. Cuddy and Jacoby (1982) obtained an analogous result when they manipulated the similarity of the interpolated task to the to-beremembered material. After a relearning trial, the condition pro-\nducing the most forgetting of the first study event (the similar task) produced the best recall on a delayed test.\nThe spacing effect (see, e.g., Dempster, 1996) constitutes another demonstration that forgetting can enable learning. The longer the interval between an initial study trial and a second study trial, the more forgetting that occurs of the first trial. Such spacing, however, tends to enhance, not impair, long-term recall. Finally, Smith, Glenberg, and Bjork (1978) demonstrated that changing the environmental context from a first study session to a second study session on the same material increased forgetting of the first study session but enhanced learning\u2014as measured by subsequent recall in a novel context.\nThese results and others suggest that diminishing the retrieval strength or accessibility of information in memory prior to relearning can facilitate the effectiveness of relearning. We hypothesized, therefore, that items subjected to retrieval-induced forgetting would benefit more from subsequent relearning than would items not initially forgotten\u2014perhaps even to the point of rendering such items more recallable after relearning than they would have been had they not been subjected to retrieval-induced forgetting. More specifically, although the accessibility of nonpracticed items from practiced categories (Rp\u2013 items) may have been impaired relative to baseline (Nrp items) initially, we predicted that difference would reverse after both types of items were relearned.\nMethod\nWe tested our hypothesis by having participants undergo a series of retrieval-practice and relearning cycles that were designed to induce and eliminate the effects of retrieval-induced forgetting repeatedly."
+        },
+        {
+            "heading": "Participants",
+            "text": "A total of 240 undergraduate students from the University of California, Los Angeles (73 men and 167 women) averaging 20.7 years of age participated in the experiment."
+        },
+        {
+            "heading": "Materials",
+            "text": "Eight categories, each containing six exemplars of high taxonomic strength, no two of which began with the same first letter, were used in the present study. The eight experimental categories were first divided into two separate sets of four so that\u2014for any individual participant\u2014half of the categories received retrieval practice, and the other half did not. The two subsets were further divided into two sets of two such that half of the categories receiving retrieval practice and half of the categories not receiving retrieval practice were either relearned or not relearned. Thus, for any 1 participant, there were two practiced categories that were relearned and two practiced categories that were not relearned and, also, two unpracticed categories that were relearned and two unpracticed categories that were not relearned.\nDuring retrieval practice, participants were shown a series of category names and two-letter stems that began associated exemplars of relatively low taxonomic frequency. The targets of this retrieval practice were always extralist items\u2014that is, items that were not presented during the study phase of the experiment. Although this procedure differs from the typical retrieval-practice\nparadigm\u2014as Bauml (2002) and Storm, Bjork, Bjork, and Nestojko (2006) have demonstrated\u2014retrieval-induced forgetting is also obtained when participants generate extralist exemplars during retrieval practice. Thus, for a given subject, all six exemplars of a given category presented during the study phase served either as Rp\u2013 items or as Nrp items. The experiment was counterbalanced such that studied exemplars were associated with every experimental condition equally often across participants."
+        },
+        {
+            "heading": "Procedure",
+            "text": "The experiment was conducted in three main phases: study, retrieval practice/relearning, and test.\nStudy phase. Forty-eight category\u2013exemplar pairs were presented via computer at a rate of one pair per second. The presentation order was set randomly with the constraint that no two consecutive pairs were from the same category.\nRetrieval-practice/relearning phase. The retrieval-practice/ relearning phase immediately followed the study phase. Participants were randomly assigned to one of the following five conditions, which are shown in schematic form in Figure 1: (a) participants receiving one block of retrieval practice; (b) participants receiving one block of retrieval practice, followed by one block of relearning; (c) participants receiving one block of retrieval practice, followed by one block of relearning, and then a second block of retrieval practice; (d) participants receiving one block of retrieval practice, followed by one block of relearning, a second block of retrieval practice, and then a second block of relearning; (e) participants receiving one block of retrieval practice, followed by one block of relearning, a second block of retrieval practice, a second block of relearning, and then a third block of retrieval practice. Although the same cues were provided during the retrieval-practice blocks, and the same items were relearned in subsequent relearning blocks, the order of their presentation was different in each block.\nA block of retrieval practice consisted of 24 extralist categoryplus-two-letter-stem cues (6 from each of the 4 practiced categories for that subject) appearing on the screen for 5 s each, with the participants instructed to write down the particular exemplar that completed the two-letter stem. None of the letter-stem cues began with the same letter as any item from the same category that had\nbeen presented in the study phase. Each block of relearning consisted of the re-presentations of all of the category\u2013exemplar pairs from the two practiced categories and the two unpracticed categories that were to be relearned for that subject. Each relearning block contained 24 pairs (6 from each of those 4 categories) presented in random order and for 1 s each.\nFinal testing phase. After completing the retrieval-practice/ relearning phase and a subsequent 5-min intervening task, participants were given a category-plus-one-letter-stem cued-recall test for all of the 48 originally studied category\u2013exemplar pairs. Each cue was presented for 3 s, and the participants responded out loud for the experimenter to record.\nResults"
+        },
+        {
+            "heading": "Performance During Retrieval Practice",
+            "text": "Participants successfully generated exemplars 31% (SE 0.01), 34% (SE 0.01), and 37% (SE 0.02) of the time in the first, second, and third blocks of retrieval practice, respectively."
+        },
+        {
+            "heading": "Cued-Recall Performance",
+            "text": "The mean correct recall proportions on the final cued-recall test for exemplars exposed during the study phase as a function of their being relearned or not relearned and being Rp\u2013 or Nrp items are presented for each of the five groups of participants in Figure 2. A 5 (retrieval-practice/relearning condition: 1 vs. 2 vs. 3 vs. 4 vs. 5) 2 (relearning: not relearned vs. relearned) 2 (retrievalpractice status: Rp\u2013 vs. Nrp) mixed design analysis of variance (ANOVA) was conducted, with the retrieval-practice/relearning manipulation serving as the only between-subjects variable. All main effects and interactions, including the three-way interaction, were statistically significant (see Table 1 for ANOVA results). Given the complex nature of the design and the specific nature of our research questions, several separate analyses were conducted to explore the effects of forgetting and relearning. As can be seen in Figure 2, however, the data appear to support our predictions: Retrieval practice induced the forgetting of items from practiced categories relative to items from nonpracticed categories; these forgotten items benefited more from relearning than nonforgotten\nitems, and retrieval-induced forgetting was not only eliminated following relearning but it was reversed.1"
+        },
+        {
+            "heading": "Retrieval-Induced Forgetting for Non-Relearned Items",
+            "text": "Recall data for non-relearned categories in all conditions were subjected to a 2 (Rp\u2013 vs. Nrp) 3 (one block of retrieval practice [Conditions 1 and 2] vs. two blocks of retrieval practice [Conditions 3 and 4] vs. three blocks of retrieval practice [Condition 5]) mixed design ANOVA, with the number of retrieval-practice blocks serving as a between-subjects variable. Overall, a significant retrieval-induced-forgetting effect was found. Recall perfor-\nmance for items from categories that received retrieval practice (Rp\u2013 items: M 0.26, SE 0.01) was significantly worse than for items from categories that did not receive retrieval practice (Nrp items: M 0.31, SE 0.01), F(1, 237) 22.50, p .001, MSE 0.315.\nAs shown in Table 2, the effect of retrieval practice on the recall of Rp\u2013 versus Nrp items interacted significantly with the number of retrieval-practice blocks, F(2, 237) 3.89, p .05, MSE 0.05. Whereas participants receiving one block of retrieval practice demonstrated very little retrieval-induced forgetting (mean for Rp\u2013 items 0.29, SE 0.01 vs. mean for Nrp items 0.30, SE 0.01), participants receiving two blocks (mean for Rp\u2013 items 0.26, SE 0.01 vs. mean for Nrp items 0.31, SE 0.01) and three blocks (mean for Rp\u2013 items 0.22, SE 0.02 vs. mean for Nrp items 0.31, SE 0.02) of retrieval practice demonstrated substantially more forgetting, respectively. The difference in the magnitude was statistically significant in the one-block condition compared with the three-blocks condition, t(142) 2.75, p .01,\n1 As can be seen in Figure 2, recall performance for non-relearned Rp\u2013 items in Condition 2 was a bit strange. As such items were not relearned or related to any items that received retrieval practice, it is unclear why they should have been recalled any differently than non-relearned Rp\u2013 items in Condition 1. It should be noted, however, that the difference between the recall of such items in Condition 1 and Condition 2 did not reach statistical significance, t(94) 1.85, p .05.\napproached significance when comparing the one- and two-blocks conditions, t(190) 1.91, p .06, and did not reach significance when comparing the two- and three-blocks conditions, t(142) 1.03, p .05."
+        },
+        {
+            "heading": "Effect of Relearning on Rp and Nrp Items",
+            "text": "To assess the effect of relearning on items that were subjected to retrieval-induced forgetting prior to their relearning versus those that were not, we compared recall for Rp\u2013 versus Nrp items in Conditions 1 and 3 (where the test did not occur after a block of relearning) with that obtained for these two types of items in Conditions 2 and 4 (where the test occurred after a block of relearning). We did so by means of a 2 (Rp\u2013 vs. Nrp) 2 (not after relearning vs. after relearning) mixed design ANOVA, with not after relearning versus after relearning serving as the betweensubjects variable. Overall, a significant main effect of relearning was found such that items were more recallable after relearning (M 0.44, SE 0.01) than they were without relearning (M 0.33, SE 0.01), F(1, 190) 28.77, p .001, MSE 0.99. More important, however, the effect of relearning was significantly larger for Rp\u2013 items than it was for Nrp items, F(1, 190) 10.49, p .001, MSE 0.15. Whereas Nrp items were recalled at a rate of 0.36 (SE 0.02) and 0.42 (SE 0.02) before and after relearning, respectively, Rp\u2013 items were recalled at a rate of 0.31 (SE 0.02) and 0.45 (SE 0.02) before and after relearning, respectively. These results strongly support our hypothesis that Rp\u2013 items benefit more from relearning than do their Nrp counterparts. Two t tests were conducted to test for effects of retrievalinduced forgetting before and after relearning. Whereas significant retrieval-induced forgetting was found for items before relearning, t(95) 2.79, p .01, near-significant retrieval-induced facilitation was found for items after relearning, t(95) 1.84, p .07. Furthermore, as can be seen in Figure 2, the size of the retrievalinduced-facilitation effect appeared to be larger for participants in Condition 4 ( 0.05) than for participants in Condition 2 ( 0.02). Although this difference was not statistically significant, F(1, 94) 0.60, p .05, it is consistent with the idea that repeated cycles of inhibition and reexposure may increase the storage strength of items in memory, thereby making them more recallable once the inhibition is released. It is possible that with additional cycles, the amount of retrieval-induced facilitation would have continued to increase."
+        },
+        {
+            "heading": "Effect of Repeated Inhibition and Reexposure",
+            "text": "A separate analysis explored recall performance of participants in Condition 5, who had engaged in three blocks of retrieval practice interpolated with two blocks of relearning. A 2 (Rp\u2013 vs. Nrp) 2 (not relearned vs. relearned) repeated measures ANOVA demonstrated main effects of both relearning, F(1, 47) 72.32, p .001, MSE 1.38, and retrieval-induced forgetting, F(1, 47) 5.56, p .05, MSE 0.07. More important, a significant interaction emerged such that a larger retrieval-induced-forgetting effect was observed for items that were never relearned (mean for Rp\u2013 items 0.22, SE 0.02 vs. mean for Nrp items 0.31, SE 0.02) than for items that were intermittently relearned (mean for Rp\u2013 items 0.44, SE 0.03 vs. mean for Nrp items 0.43, SE 0.02), F(1, 47) 8.30, p .01, MSE 0.13. We believe that relearned items did suffer from retrieval-induced forgetting but that their impairment was offset by the additional benefits accrued during previous blocks of relearning. As can be seen in Figure 2, relearned Rp\u2013 items in Condition 5 tended to be recalled less well than relearned Rp\u2013 items in Condition 4, t(94) 1.47, p .14, indicating that some retrieval-induced forgetting had occurred even after multiple blocks of retrieval practice and relearning had taken place.\nDiscussion\nIn the present research, we explored whether the relearning of items that had been the target of retrieval-induced forgetting would restore the recall of such items to a level comparable with the relearning of items never exposed to retrieval-induced forgetting. Participants studied a list of category\u2013exemplar pairs, took part in one of five between-subjects retrieval-practice/relearning conditions, and were then tested on the initially studied pairs. On the basis of assumptions of the new theory of disuse (R. A. Bjork & Bjork, 1992) and on research demonstrating the importance of forgetting in creating effective conditions for future learning, we predicted that such forgotten items would benefit more from relearning than would their nonforgotten counterparts. In fact, retrieval-induced-forgetting effects were not only eliminated after relearning but they were, if anything, reversed.\nIt may seem reasonable, or at least not totally surprising, that relearning of items subjected to retrieval-induced forgetting would override that forgetting, but that such forgetting would be more than overridden by relearning is genuinely surprising. This finding is, however, consistent with a counterintuitive prediction of the new theory of disuse (R. A. Bjork & Bjork, 1992)\u2014namely, that the extent to which an item benefits from relearning is a decreasing function of the accessibility or retrieval strength of that item at the time of relearning. Thus, owing to their being forgotten, Rp\u2013 items are predicted by the theory to benefit more from relearning than are Nrp items. Furthermore, under the assumption that retrievalinduced forgetting reflects only a decrease in retrieval strength, not storage strength, the predicted greater increment in storage strength of Rp\u2013 items over Nrp items owing to the relearning phase should render Rp\u2013 items more recallable than Nrp after a sufficient delay. This prediction follows because storage strength is assumed to retard the loss of retrieval strength\u2014that is, retard observed forgetting\u2014so access to relearned Rp\u2013 items will be lost more slowly than will access to relearned Nrp items, meaning that the\nrecall of Rp\u2013 items, relative to Nrp items, should increase with delay.\nIn certain respects, the present results are problematic for noninhibitory accounts of retrieval-induced forgetting, such as blocking. If the impairment of Rp\u2013 items at test was caused by interference from strengthened Rp items, there seems every reason to assume that this impairment would persist, even after intermittent relearning. Although relearning cycles should make both Rp\u2013 and Nrp items more accessible, only Rp\u2013 items have competing exemplars strengthened during retrieval practice\u2014and, thus, only Rp\u2013 items should be susceptible to the effects of interference at test. In other words, if retrieval-induced forgetting was caused by interference at test, that interference should also have been observed even after the relearning of Rp\u2013 and Nrp items.\nThe current results also suggest that retrieval-induced forgetting does not reflect the permanent loss of items in memory. Had this been the case, items suffering from retrieval-induced forgetting should have remained less recallable even after relearning. Rather, the current results suggest that if retrieval-induced forgetting is caused by inhibition, that inhibition reflects the temporary inability to retrieve items from memory. Given that the supposed purpose of inhibitory control is to resolve interference from competing items (Anderson, 2003; Anderson et al., 1994; E. L. Bjork et al., 1998), this distinction makes sense. It is not the storage strength of related items that determines whether they will compete during the retrieval process, it is their retrieval strength. Thus, to reduce competition during retrieval, the current accessibility of competing items (retrieval strength) needs to be reduced, not the permanent storage (storage strength) of those items, which would have nonadaptive consequences in other contexts in which those items are relevant.\nStudies of retrieval-induced forgetting have typically required participants to retrieve exemplars multiple times during retrieval practice. Anderson et al. (1994), for example, had participants undergo retrieval practice for half of the exemplars from half of the categories three times each. Although some researchers have argued that numerous retrieval-practice trials are not necessary to induce forgetting (e.g., Macrae & MacLeod, 1999), it seems reasonable that having more retrieval-practice trials should increase the number of opportunities for competing items to be inhibited. Even though items inhibited during a particular retrieval-practice phase should become less accessible\u2014and, hence, less competing\u2014during a subsequent retrieval-practice phase, other not-yetinhibited items may still compete. Basically, as long as there are competitors still accessible in memory, additional retrieval practice should continue to result in additional retrieval-induced forgetting. Consistent with this idea, the magnitude of the retrieval-inducedforgetting effect for non-relearned items in the present study increased systematically with the number of retrieval-practice blocks.\nThat additional retrieval practice leads to increased retrievalinduced forgetting has important implications for researchers who employ the retrieval-practice paradigm. Retrieval-inducedforgetting effects are often quite small. The results observed here (and recently by others, e.g., Johnson & Anderson, 2004; Levy, McVeigh, Marful, & Anderson, 2007) suggest that increasing the number of retrieval-practice trials may offer an effective means of increasing the size of the effect."
+        },
+        {
+            "heading": "Concluding Comments",
+            "text": "It is natural to think of forgetting and learning as forces in constant competition\u2014that once some level of learning is accomplished, forgetting sets in to undo, so to speak, some or all of that learning. Most people may be able to appreciate that individuals can relearn what has been forgotten faster than individuals learning something for the first time, but most people would certainly also assume that it is best not to forget. That relearning should be enhanced by remembering, not by forgetting, seems an unassailable idea. As with many dynamics in human memory, however, common sense proves to be a poor guide. On the basis of these and other findings, it appears that rather than undoing learning, forgetting creates conditions that enhance the effectiveness of learning.\nFinally, it is worth noting that the present research, though motivated by theoretical issues, has provocative implications for a practical matter: the optimization of instruction. There exist a set of manipulations\u2014labeled desirable difficulties by R. A. Bjork (1994), such as variation, spacing, and contextual interference\u2014 that share the property that they create difficulties for the learner and appear to slow the rate of learning but then often enhance long-term retention and transfer. Perhaps retrieval-induced forgetting, incorporated in some creative way during instruction, has the potential to serve as an innovative and unintuitive desirable difficulty.\nReferences\nAnderson, M. C. (2003). Rethinking interference theory: Executive control and the mechanisms of forgetting. Journal of Memory and Language, 49, 415\u2013445. Anderson, M. C., Bjork, E. L., & Bjork, R. A. (2000). Retrieval-induced forgetting: Evidence for a recall-specific mechanism. Psychonomic Bulletin & Review, 7, 522\u2013530. Anderson, M. C., Bjork, R. A., & Bjork, E. L. (1994). Remembering can cause forgetting: Retrieval dynamics in long-term memory. Journal of Experimental Psychology: Learning, Memory, and Cognition, 20, 1063\u2013 1087. Anderson, M. C., & Spellman, B. A. (1995). On the status of inhibitory mechanisms in cognition: Memory retrieval as a model case. Psychological Review, 102, 68\u2013100. Bauml, K. (2002). Semantic generation can cause episodic forgetting. Psychological Science, 13, 356\u2013360. Bjork, E. L., & Bjork, R. A. (1988). On the adaptive aspects of retrieval failure in autobiographical memory. In M. M. Gruneberg, P. E. Morris, & R. N. Sykes (Eds.), Practical aspects of memory II (pp. 283\u2013288). London: Wiley. Bjork, E. L., Bjork, R. A., & Anderson, M. C. (1998). Varieties of goal-directed forgetting. In J. M. Golding & C. MacLeod (Eds.), Intentional forgetting: Interdisciplinary approaches (pp. 103\u2013137). Hillsdale, NJ: Erlbaum. Bjork, R. A. (1989). Retrieval-inhibition as an adaptive mechanism in human memory. In H. L. Roediger & F. I. M. Craik (Eds.), Varieties of memory and consciousness: Essays in honor of Endel Tulving (pp. 309\u2013330). Hillsdale, NJ: Erlbaum. Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), Metacognition: Knowing about knowing (pp. 185\u2013205). Cambridge, MA: MIT Press. Bjork, R. A. (2007). Inhibition: An essential and contentious concept. In H. L. Roediger, Y. Dudai, & S. M. Fitzpatrick (Eds.), Science of memory: Concepts (pp. 307\u2013313). Oxford, England: Oxford University Press.\nBjork, R. A., & Allen, T. W. (1970). The spacing effect: Consolidation or differential encoding. Journal of Verbal Learning and Verbal Behavior, 9, 567\u2013572. Bjork, R. A., & Bjork, E. L. (1992). A new theory of disuse and an old theory of stimulus fluctuation. In A. Healy, S. Kosslyn, & R. Shiffrin (Eds.), From learning processes to cognitive processes: Essays in honor of William K. Estes. (Vol. 2, pp. 35\u201367). Hillsdale, NJ: Erlbaum. Butler, K. M., Williams, C. C., Maki, R. H., & Zacks, R. T. (2001). A limit on retrieval-induced forgetting. Journal of Experimental Psychology: Learning, Memory, and Cognition, 27, 1314\u20131319. Cuddy, L. J., & Jacoby, L. L. (1982). When forgetting helps memory: An analysis of repetition effects. Journal of Verbal Learning and Verbal Behavior, 21, 451\u2013467. Dempster, F. N. (1996). Distributing and managing the conditions of encoding and practice. In E. L. Bjork & R. A. Bjork (Eds.), Handbook of perception and cognition (Vol. 10, pp. 317\u2013344). New York: Academic Press. Estes, W. K. (1955). Statistical theory of spontaneous recovery and regression. Psychological Review, 62, 145\u2013154. Hull, C. L. (1943). The principles of behavior. New York: AppletonCentury-Crofts. James, W. (1890). The principles of psychology (Vol. 1). New York: Holt. Johnson, S. K., & Anderson, M. C. (2004). The role of inhibitory control\nin forgetting semantic knowledge. Psychological Science, 15, 448\u2013453. Levy, B. J., McVeigh, N. D., Marful, A., & Anderson, M. C. (2007).\nInhibiting your native language: The role of retrieval-induced forgetting during second language acquisition. Psychological Science, 18, 29\u201334. MacLeod, C. M., Dodd, M. D., Sheard, E. D., Wilson, D. E., & Bibi, U. (2003). In opposition to inhibition. In B. H. Ross (Ed.), The psychology of learning and motivation: Advances in research and theory (Vol. 43, pp. 163\u2013214). New York: Elsevier Science. Macrae, C. N., & MacLeod, M. D. (1999). On recollections lost: When practice makes imperfect. Journal of Personality and Social Psychology, 77, 463\u2013473. Perfect, T. J., Stark, L. J., Tree, J. J., Moulin, C. J. A., Ahmed, L., & Hutter, R. (2004). Transfer appropriate forgetting: The cue-dependent nature of retrieval-induced forgetting. Journal of Memory and Language, 51, 399\u2013417. Smith, S. M., Glenberg, A., & Bjork, R. A. (1978). Environmental context and human memory. Memory & Cognition, 6, 342\u2013353. Storm, B. C., Bjork, E. L., & Bjork, R. A. (2007). When intended remembering leads to unintended forgetting. Quarterly Journal of Experimental Psychology, 60, 909\u2013915. Storm, B. C., Bjork, E. L., Bjork, R. A., & Nestojko, J. F. (2006). Is retrieval success a necessary condition for retrieval-induced forgetting? Psychonomic Bulletin & Review, 13, 1023\u20131027.\nReceived May 23, 2007 Revision received October 5, 2007\nAccepted October 8, 2007"
+        }
+    ],
+    "title": "Accelerated Relearning After Retrieval-Induced Forgetting: The Benefit of Being Forgotten",
+    "year": 2007
+}

@@ -1,0 +1,260 @@
+{
+    "abstractText": "Rabbi Hyman Schachtel (1954) proposed that \u2018\u2018happiness is not having what youwant, but wanting what you have\u2019\u2019 (p. 37). In two studies, we tested Schachtel\u2019s maxim by asking participants whether or not they had and the extent to which they wanted each of 52 material items. To quantify how much people wanted what they had, we identified what they had and the extent to which they wanted those things. To quantify how much people had what they wanted, we identified how much they wanted and whether or not they had each item. Both variables accounted for unique variance in happiness.Moreover, the extent to which people wanted what they had partially mediated effects of gratitude and maximization on happiness, and the extent to which they had what they wanted partially mediated the effect of maximization. Results indicate that happiness is both wanting what you have and having what you want. Happiness is not having what you want, but wanting what you",
+    "authors": [
+        {
+            "affiliations": [],
+            "name": "Jeff T. Larsen"
+        },
+        {
+            "affiliations": [],
+            "name": "Amie R. McKibban"
+        }
+    ],
+    "id": "SP:bdb7f73f42e9cfc007e0c600078358f6555f5efa",
+    "references": [
+        {
+            "authors": [
+                "R.M. Baron",
+                "D.A. Kenny"
+            ],
+            "title": "The moderator-mediator variable distinction in social psychology research: Conceptual, strategic, and statistical considerations",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1986
+        },
+        {
+            "authors": [
+                "P. Brickman",
+                "D. Campbell"
+            ],
+            "title": "Hedonic relativism and planning the good society",
+            "venue": "In M.H. Appley (Ed.), Adaptation-level theory: A symposium (pp. 287\u2013302)",
+            "year": 1971
+        },
+        {
+            "authors": [
+                "P. Brickman",
+                "D. Coates",
+                "R. Janoff-Bulman"
+            ],
+            "title": "Lottery winners and accident victims: Is happiness relative",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1978
+        },
+        {
+            "authors": [
+                "XIV Dalai Lama",
+                "H.C. Cutler"
+            ],
+            "title": "The art of happiness: A handbook for living",
+            "year": 1998
+        },
+        {
+            "authors": [
+                "E. Diener",
+                "R.A. Emmons",
+                "R.J. Larsen",
+                "S. Griffin"
+            ],
+            "title": "The Satisfaction With Life Scale",
+            "venue": "Journal of Personality Assessment,",
+            "year": 1985
+        },
+        {
+            "authors": [
+                "E. Diener",
+                "E.M. Suh"
+            ],
+            "title": "Measuring quality of life: Economic, social, and subjective indicators",
+            "venue": "Social Indicators Research,",
+            "year": 1997
+        },
+        {
+            "authors": [
+                "E. Diener",
+                "E.M. Suh",
+                "R.E. Lucas",
+                "H.L. Smith"
+            ],
+            "title": "Subjective well-being: Three decades of progress",
+            "venue": "Psychological Bulletin,",
+            "year": 1999
+        },
+        {
+            "authors": [
+                "D. Kahneman"
+            ],
+            "title": "Objective happiness",
+            "year": 1999
+        },
+        {
+            "authors": [
+                "M.E. McCullough",
+                "R.A. Emmons",
+                "Tsang",
+                "J.-A"
+            ],
+            "title": "The grateful disposition: A conceptual and empirical topography",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 2002
+        },
+        {
+            "authors": [
+                "A.C. Michalos"
+            ],
+            "title": "Multiple discrepancies theory",
+            "venue": "Social Indicators Research,",
+            "year": 1985
+        },
+        {
+            "authors": [
+                "T. Miller"
+            ],
+            "title": "How to want what you have",
+            "year": 1995
+        },
+        {
+            "authors": [
+                "C. Nickerson",
+                "N. Schwarz",
+                "E. Diener",
+                "D. Kahneman"
+            ],
+            "title": "Zeroing in on the dark side of the American dream: A closer look at the negative consequences of the goal for financial success",
+            "venue": "Psychological Science,",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "K.J. Preacher",
+                "A.F. Hayes"
+            ],
+            "title": "SPSS and SAS procedures for estimating indirect effects in simple mediation models",
+            "venue": "Behavior Research Methods, Instruments, & Computers,",
+            "year": 2004
+        },
+        {
+            "authors": [
+                "K.J. Preacher",
+                "A.F. Hayes"
+            ],
+            "title": "Asymptotic and resampling strategies for assessing and comparing indirect effects in multiple mediator models. Manuscript submitted for publication",
+            "year": 2006
+        },
+        {
+            "authors": [
+                "C. Robitschek"
+            ],
+            "title": "Personal growth initiative: The construct and its measure",
+            "venue": "Measurement and Evaluation in Counseling and Development,",
+            "year": 1998
+        },
+        {
+            "authors": [
+                "C. Ryff"
+            ],
+            "title": "Happiness is everything, or is it? Explorations on the meaning of psychological well-being",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1989
+        },
+        {
+            "authors": [
+                "H.J. Schachtel"
+            ],
+            "title": "The real enjoyment of living",
+            "year": 1954
+        },
+        {
+            "authors": [
+                "B. Schwartz",
+                "A. Ward",
+                "J. Monterosso",
+                "S. Lyubomirsky",
+                "K. White",
+                "D.R. Lehman"
+            ],
+            "title": "Maximizing versus satisficing: Happiness is a matter of choice",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 2002
+        },
+        {
+            "authors": [
+                "A.K. Srivastava",
+                "G. Misra"
+            ],
+            "title": "Going beyond the model of economic man: An indigenous perspective on happiness",
+            "venue": "Indian Journal of Psychology,",
+            "year": 2003
+        }
+    ],
+    "sections": [
+        {
+            "text": "\u2018\u2018happiness is not having what youwant, but wanting what you have\u2019\u2019 (p. 37). In two studies, we tested Schachtel\u2019s maxim by asking participants whether or not they had and the extent to which they wanted each of 52 material items. To quantify how much people wanted what they had, we identified what they had and the extent to which they wanted those things. To quantify how much people had what they wanted, we identified how much they wanted and whether or not they had each item. Both variables accounted for unique variance in happiness.Moreover, the extent to which people wanted what they had partially mediated effects of gratitude and maximization on happiness, and the extent to which they had what they wanted partially mediated the effect of maximization. Results indicate that happiness is both wanting what you have and having what you want.\nHappiness is not having what you want, but wanting what you have.\n\u2014Rabbi Hyman Schachtel (1954, p. 37)\nDiscrepancy theories of well-being contend that happiness depends on the extent to which people have what they want (e.g., Michalos, 1985). For instance, most people presumably want money, and those who make more money tend to be slightly happier (Diener, Suh, Lucas, & Smith, 1999). Moreover, the effect of income on happiness is strongest among those who are particularly interested in acquiring wealth (Nickerson, Schwarz, Diener, & Kahneman, 2003). Such findings are consistent with the hypothesis that people who have what they want are happier\nthan others. From Schachtel\u2019s (1954) perspective, however, individuals who acquire the wealth they seek may be happy not because they have what they want, but because they want what they have.\nFor Schachtel\u2019s maxim to constitute a testable hypothesis, the extent to which people want what they have and the extent to which they have what they want must be both distinct and quantifiable. However wise the maxim sounds, it may not even be clear what it means for people to want what they have as opposed to have what they want. Fortunately, probability theory clarifies what it means for people to want what they have and have what they want, and it provides a framework for measuring these variables. Let us first quantify the extent to which people want what they have. LetHave represent the set of material items that an individual has (e.g., bed, stereo, car; see the shaded area in Fig. 1) and Want represent the material items that the individual wants (see the dotted area in Fig. 1). The extent to which the individual wants what he or she has is provided by the following conditional probability: p\u00f0WantjHave\u00de \u00bc p\u00f0Have \\Want\u00de=p\u00f0Have\u00de; where \\ refers to the intersection of Have and Want (as depicted by the area in Fig. 1 that is both shaded and dotted). Replacing p(Have) with p(Want) provides the extent to which the individual has what he or she wants:\np\u00f0HavejWant\u00de \u00bc p\u00f0Have \\Want\u00de=p\u00f0Want\u00de: In sum, the extent to which people want what they have and the extent to which they have what they want are quantifiable and distinct in that they represent conditional probabilities with common numerators but different denominators. As a result, Schachtel\u2019s maxim is testable. In this article, we report two studies investigating the relationships among wanting what one has, having what one wants, and happiness. Schachtel\u2019s either/or approach to the sources of happiness is remarkably parsimonious, but happiness is known to be multiply determined (Diener Address correspondence to Jeff T. Larsen, Department of Psychology, Texas Tech University, Lubbock, TX 79409-2051, e-mail: jeff.larsen@ ttu.edu.\nVolume 19\u2014Number 4 371Copyright r 2008 Association for Psychological Science at KAI NAN UNIV on February 21, 2015pss.sagepub.comDownloaded from\net al., 1999). Thus, we held out the possibility that happiness may be associated with wanting what one has, having what one wants, neither, or both."
+        },
+        {
+            "heading": "PILOT STUDY",
+            "text": "We conducted a pilot study to identify a representative sample of material items that members of our participant population have and want. Fifty Texas Tech University students (36 women, 14 men) participated for course credit. They were asked to list \u2018\u2018items that you have in your life, as well as items that you want.\u2019\u2019 A page labeled \u2018\u2018Items that I have\u2019\u2019 contained five categories: \u2018\u2018material possessions,\u2019\u2019 \u2018\u2018interpersonal relationships,\u2019\u2019 \u2018\u2018abilities and/or traits,\u2019\u2019 \u2018\u2018accomplishments and/or work,\u2019\u2019 and \u2018\u2018other.\u2019\u2019 Each category had eight blank lines. Another page was identical except it was labeled \u2018\u2018Items that I want.\u2019\u2019 The order of the two pages was counterbalanced. Participants were asked to list things that it was feasible to have at \u2018\u2018this stage in your life.\u2019\u2019 On average, participants generated 6.76 (SD5 1.66) material items that they had and 4.31 (SD 5 2.59) material items that they wanted.\nIn order to create the Have/Want Survey for Studies 1 and 2, we culled 62 items that were listed by at least 2 participants, without regard for whether they were listed as haves or wants.1 The 54 material items in this list loosely fell into various categories, including vehicles (e.g., \u2018\u2018car\u2019\u2019), housing (e.g., \u2018\u2018apartment\u2019\u2019), appliances (e.g., \u2018\u2018microwave\u2019\u2019), electronics (e.g., \u2018\u2018cell phone\u2019\u2019), apparel (e.g., \u2018\u2018athletic shoes\u2019\u2019), and furniture (e.g., \u2018\u2018bed\u2019\u2019). Two of these items were excluded from all analyses: \u2018\u2018iPod\u2019\u2019 (because we later learned that this was redundant with \u2018\u2018MP3 player\u2019\u2019) and \u2018\u2018eyeglasses\u2019\u2019 (because, in hindsight, it is unclear why individuals with 20/20 vision would want corrective eyeglasses). Other categories yielded little serviceable data, but interspersed among the material items were \u2018\u2018job,\u2019\u2019 \u2018\u2018major,\u2019\u2019 and\n6 items dealing with relationships (e.g., \u2018\u2018boyfriend/girlfriend\u2019\u2019). These 8 items were also excluded from all analyses. In sum, the survey contained a total of 62 items, but analyses were based on data from only 52 of those items.\nSTUDY 1\nTo examine whether wanting what one has or having what one wants predicts happiness, we asked participants in Study 1 to indicate whether they had and wanted the items identified in the pilot study and to complete a measure of happiness. Wanting what you have and having what you want may also help explain why other variables predict happiness. One possibility is that grateful people tend to be happier than others (McCullough, Emmons, & Tsang, 2002) because they want what they have more than less grateful people do. To test this hypothesis, we included the gratitude measure developed by McCullough et al. (2002)."
+        },
+        {
+            "heading": "Method",
+            "text": ""
+        },
+        {
+            "heading": "Participants",
+            "text": "Participants were 126 Texas Tech undergraduates (70 women, 56 men)."
+        },
+        {
+            "heading": "Materials",
+            "text": "For each item included in the Have/Want Survey, participants answered two questions, beginning with the dichotomous (i.e., yes/no) question, \u2018\u2018Do you have a __?\u2019\u2019 This question was followed by \u2018\u2018If YES: To what extent do you want the __ that you have?\u2019\u2019 and \u2018\u2018If NO: To what extent do you want a __?\u2019\u2019 Participants answered the latter two questions on 9-point scales ranging from 1 (not at all) to 9 (a lot). Wants were rescaled to range from 0 to 8 for all analyses. Participants also completed several individual difference measures, including the Satisfaction With Life Scale (Diener, Emmons, Larsen, & Griffin, 1985; a 5 .85), a five-item measure of subjective well-being, and the six-item Gratitude Questionnaire (McCullough et al., 2002; a5 .83)."
+        },
+        {
+            "heading": "Quantifying the Extent to Which People Want What They Have",
+            "text": "Figure 2 depicts two hypothetical profiles of haves and wants. Shaded areas represent items the individuals have, and numbers ranging from 0 to 8 represent the extent to which the individuals want each item. If wants are dichotomized (i.e., 0 5 does not want; 1\u20138 5 want, indicated by the dotted area in Fig. 2), the proportion of individuals\u2019 possessions that they want represents the extent to which they want what they have. For both hypothetical individuals in Figure 2, this value is provided by the following conditional probability:\np\u00f0WantjHave\u00de \u00bc p\u00f0Have \\Want\u00de=p\u00f0Have\u00de \u00bc 2=6 \u00bc :33: Schachtel would presumably recommend that people greatly, as opposed to scarcely, want each of the things they have. To\n1Several material items that had been listed by at least 2 pilot participants were omitted from the survey because they were overly general (e.g., \u2018\u2018shelter\u2019\u2019), overly specific (e.g., \u2018\u2018tennis shoes\u2019\u2019), or overly gender-specific (e.g., \u2018\u2018purse\u2019\u2019).\n372 Volume 19\u2014Number 4\nat KAI NAN UNIV on February 21, 2015pss.sagepub.comDownloaded from\nweight the conditional probability accordingly, we simply averaged the extent to which participants wanted each of their possessions and divided this average by the maximum want rating, 8. For the hypothetical individuals represented by the left and right panels of Figure 2, these scores, which can range from 0 to 1, are\n0\u00fe 0\u00fe 0\u00fe 0\u00fe 7\u00fe 8\u00f0 \u00de=6 8 \u00bc 15=6 8 \u00bc :31\nand\n\u00f00\u00fe 0\u00fe 0\u00fe 0\u00fe 1\u00fe 2\u00de=6 8 \u00bc 3=6 8 \u00bc :06;\nrespectively. Thus, participants who greatly wanted the things they had (like the person represented by the left panel in Fig. 2) received higher scores than those who only scarcely wanted the things they had (like the person represented by the right panel in Fig. 2). These scores resemble conditional probabilities in that they reflect how many items individuals want conditional on their having those items. However, these scores are also affected by howmuch individuals want each of the items they have. Thus, these scores can be termed weighted conditional probability scores."
+        },
+        {
+            "heading": "Quantifying the Extent to Which People Have What They Want",
+            "text": "We also computed weighted conditional probability scores representing the extent to which participants had what they wanted. If wants are dichotomized, the proportion of individuals\u2019 desired items that they have represents the extent to which they have what they want. For both hypothetical individuals depicted in Figure 2,\np\u00f0HavejWant\u00de \u00bc p\u00f0Have \\Want\u00de=p\u00f0Want\u00de \u00bc 2=9 \u00bc :22: To weight the scores by how much individuals wanted each item, we divided the sum of the extent to which they wanted each of their possessions by the sum of the extent to which they want all 52 items. This calculation yielded weighted conditional probability scores that could range from 0 to 1. For the hypothetical individuals represented by the left and right panels of Figure 2, these scores are\n7\u00fe 8 1\u00fe 2\u00fe 3\u00fe 4\u00fe 4\u00fe 5\u00fe 6\u00fe 7\u00fe 8 \u00bc 15 40 \u00bc :38\nand\n1\u00fe 2 1\u00fe 2\u00fe 3\u00fe 4\u00fe 4\u00fe 5\u00fe 6\u00fe 7\u00fe 8 \u00bc 3 40 \u00bc :08;\nrespectively. Thus, participants who had only what they greatly desired (like the person represented by the left panel in Fig. 2) received higher scores than those who had only the things they scarcely desired (like the person represented by the right panel in Fig. 2)."
+        },
+        {
+            "heading": "Caveat",
+            "text": "One potential limitation of our weighted conditional probability scores is that they weight each item equally even though people\u2019s construals of some items (e.g., cars) are presumably more consequential than their construals of other items (e.g., rollerblades). In that we took care to construct a large, representative set of items, these scores should nonetheless provide reasonable estimates of the extent to which participants generally wanted what they had and had what they wanted."
+        },
+        {
+            "heading": "Results",
+            "text": "Participants tended to be quite happy (M 5 25.2 out of 35.0, SD5 6.3), to have slightly more than half the items in the Have/ Want Survey (M5 58%, SD5 8%), and to want the items listed on the survey to a fairly large degree (M5 5.09 out of 8.00, SD5 0.77). In addition, they generally wanted what they had (M 5 .78, SD5 .11) and had what they wanted (M5 .72, SD5 .12). The extent to which people were happy, wanted what they had, and had what they wanted were negatively skewed, so we applied square-root transformations to these variables for all correlational analyses. The extent to which people wanted what they had and the extent to which they had what they wanted were positively, but not perfectly, correlated, r 5 .42, prep > .99. 2 Thus, wanting what you have and having what you want, though clearly related, are conceptually and empirically distinct.\nAs suggested by Schachtel\u2019s maxim, participants who wanted what they hadmore than others did tended to be happier, r5 .36, prep> .99 (see Fig. 3, left panel). In addition, however, those who had more of what they wanted tended to be happier, r5 .41, prep > .99 (see Fig. 3, right panel), as did those who simply had more things, r5 .25, prep5 .97. In contrast, the extent to which people simply wanted things was uncorrelated with happiness, r5 .11.3\n2Unless noted, all reported effects were significant at the .05 level. Isolated gender effects were obtained, but none were replicated across both studies. Moreover, Fisher z tests revealed no effects of gender on the magnitude of any simple or partial correlations reported.\n3It is possible that simply wanting things is uncorrelated with happiness because the positive effect of wanting what one has is nullified by a negative effect of wanting what one does not have. To examine this possibility, we computed weighted conditional probability scores reflecting the extent to which participants wanted things they did not have. As expected, the extent to which people wanted what they did not have was negatively correlated with happiness, r5 .30, prep5 .99. This effect was replicated in Study 2, r5 .23, prep5 .94.\nVolume 19\u2014Number 4 373\nat KAI NAN UNIV on February 21, 2015pss.sagepub.comDownloaded from\nWe computed several partial correlations to examine which of the three significant predictors of happiness accounted for unique variance. The number of things people had did not predict happiness after we controlled for the extent to which they wanted what they had, pr 5 .16; had what they wanted, pr 5\n.09; or both, pr5 .09 (all ps .08). In contrast, people who wanted what they had more than others did tended to be happier even after we controlled for the number of things they had and the extent to which they had what they wanted, pr5 .23, prep 5 .95. Similarly, those who had what they wanted more than others did tended to be happier even after we controlled for the number of things they had and the extent to which they wanted what they had, pr5 .27, prep 5 .98. Thus, both participants\u2019 wanting what they had and having what they wanted accounted for unique variance. In other words, the results indicate that happiness is, in part, both wanting what you have and having what you want.\nThe distribution of scores on the Gratitude Questionnaire was J-shaped, so these data were submitted to an arcsine transformation. As in the study by McCullough et al. (2002), more grateful individuals tended to be happier, r 5 .42, prep > .99. They also tended to want what they hadmore, r5 .40, prep> .99. To investigate whether the extent to which people wanted what they hadmediated gratitude\u2019s effect on happiness, we conducted a Sobel test (Sobel, 1982, cited in Baron & Kenny, 1986) using Preacher and Hayes\u2019s (2004, 2006) bootstrapping procedure. The analysis, which comprised 5,000 bootstrap samples, revealed an indirect effect of the extent to which people want what they have on happiness, z5 2.37, prep 5 .93, as well as a direct effect of gratitude on happiness, t(123) 5 3.79, prep > .99. Additional regression analyses indicated that gratitude accounted for 18% of the variance in happiness before, but only 10% after, controlling for the extent to which people wanted what they had. These findings indicate that more grateful people tend to be happier in part because they want what they have more.\nSTUDY 2\nSchwartz et al. (2002) found that maximizers, people who accept nothing less than the best, tend to be less happy than satisficers, people who are content with suboptimal but acceptable outcomes. Perhaps maximizers are less happy because they are less satisfied with what they have. It is also possible that they are less happy because they do not have as much of what they want. To test these hypotheses, in Study 2 we included the maximization scale developed by Schwartz et al.\nSchachtel viewed wanting what you have as a virtue. An alternative view is that wanting what you have is a state of complacency that results in a type of empty happiness. If individuals who want what they have are complacent, they should be less likely than others to have a sense of purpose in life and to desire personal growth. To test these hypotheses, in Study 2 we examined the relationship between wanting what one has and scores on the Purpose in Life Subscale of Ryff \u2019s (1989) Multidimensional Measure of Psychological Well-Being. We also examined the relationship between wanting what one has and scores on two measures of the desire for personal growth, Ryff \u2019s Personal Growth Subscale from the Multidimensional Measure of Psychological Well-Being and Robitschek\u2019s (1998) Personal Growth Initiative Scale."
+        },
+        {
+            "heading": "Method",
+            "text": ""
+        },
+        {
+            "heading": "Participants",
+            "text": "Participants were 119 Texas Tech undergraduates (54 women, 65 men)."
+        },
+        {
+            "heading": "Materials",
+            "text": "As in Study 1, participants completed the Have/Want Survey, the Satisfaction With Life Scale (Diener et al., 1985; a 5 .84), and the Gratitude Questionnaire (McCullough et al., 2002;\n374 Volume 19\u2014Number 4\nat KAI NAN UNIV on February 21, 2015pss.sagepub.comDownloaded from\na 5 .82). In addition, they completed the Maximization Scale (Schwartz et al., 2002; a 5 .60), the Purpose in Life (a 5 .89) and Personal Growth (a 5 .92) subscales of Ryff \u2019s (1989) measure of psychological well-being, and the Personal Growth Initiative Scale (Robitschek, 1998; a 5 .89). Surveys were presented in five different random orders."
+        },
+        {
+            "heading": "Results",
+            "text": "We first examined whether the findings of Study 2 replicated those of Study 1.4 Participants tended to be quite happy (M 5 25.6, SD 5 5.8), to have more than half the items on the Have/ Want Survey (M5 57%, SD5 8%), and to want the items listed on the survey to a fairly large degree (M 5 6.26, SD 5 0.73). Moreover, they generally wanted what they had (M5 .78, SD5 .09) and had what they wanted (M5 .72, SD5 .11). As in Study 1, the extent to which participants wanted what they had and the extent to which they had what they wanted were correlated, r5 .34, prep> .99. Participants who wanted what they hadmore than others did tended to be happier, r5 .40, prep > .99 (see Fig. 3, left panel), as did those who had more of what they wanted, r5 .36, prep> .99 (see Fig. 3, right panel), and those who simply had more things, r5 .22, prep5 .93. Simply wanting things, however, was uncorrelated with happiness, r 5 .13.\nAnalyses designed to identify whether having things, wanting what one has, and having what one wants accounted for unique variance in happiness also replicated those of Study 1. The number of things people had did not predict happiness after we controlled for the extent to which they wanted what they had, pr 5 .15; had what they wanted, pr 5 .03; or both, pr 5 .02. In contrast, people who wanted what they had more than others did tended to be happier even after we controlled for the number of things they had and the extent to which they had what they wanted, pr5 .32, prep> .99. Similarly, people who had what they wanted more than others did tended to be happier even after we controlled for the number of things they had and the extent to which they wanted what they had, pr 5 .21, prep 5 .92. As in Study 1, more grateful individuals tended to be happier, r5 .54, prep > .99, and to want what they had more, r5 .21, prep 5 .92. Moreover, a Sobel test calculated with Preacher and Hayes\u2019s (2004, 2006) bootstrapping procedure revealed that the extent to which participants wanted what they had partially mediated gratitude\u2019s effect on happiness, z5 1.99, prep5 .88. In sum, both Study 1 and Study 2 indicate that wanting what you have and having what you want both account for unique variance in happiness and that more grateful individuals are happier in part because they tend to want what they have more.\nAs demonstrated by Schwartz et al. (2002), maximizers tended to be less happy than satisficers, r5 .24, prep5 .95. Moreover, maximizers tended to want what they had less than satisficers did, r5 .24, prep5 .96, and to have less of what they wanted,\nr5 .23, prep5 .95. Preacher andHayes\u2019s (2006) bootstrapping procedure allows for tests of whether relationships are mediated by multiple variables. Thus, we used their procedure to examine whether the effect of maximization on happiness was mediated by the extent to which people had what they wanted, wanted what they had, or both. The analysis revealed a significant indirect effect of the extent to which participants wanted what they had, z5 2.11, prep5 .90, and a marginally significant indirect effect of the extent to which they had what they wanted, z 5\n1.85, p5 .06, prep 5 .86. Thus, maximizers tended to be less happy in part because they wanted what they had less and, perhaps, because they had less of what they wanted.5\nWe also investigated the relationships between wanting what one has and measures of purpose in life and the desire for personal growth (scores on these measures were submitted to square-root transformations to correct for negative skew). Wanting what one has was positively correlated with Ryff \u2019s (1989) Purpose in Life and Personal Growth subscales and with Robitschek\u2019s (1998) Personal Growth Initiative Scale, rs5 .36, .19, and .26, respectively, all preps .88. Thus, people who want what they have do not appear to be complacent. To the contrary, it appears that they seek purpose and growth in their lives even as they appreciate what they have."
+        },
+        {
+            "heading": "GENERAL DISCUSSION",
+            "text": "Two studies tested Rabbi Schachtel\u2019s maxim that happiness is not having what you want, but wanting what you have. Results indicate that Schachtel was both right andwrong. He was right in that people who want what they have more than others do tend to be happier; he was wrong in that people who have more of what they want than others do also tend to be happier. Indeed, both the extent to which participants wanted what they had and the extent to which they had what they wanted accounted for unique variance in happiness. In contrast, simply wanting things was uncorrelated with happiness, and simply having things accounted for no additional variance in happiness after we controlled for the extent to which people wanted what they had or had what they wanted. Thus, the effect of possessions on wellbeing depends on how people value those possessions, a finding that speaks to the subjectivity of well-being.\nOur results also indicate that the extent to which people want what they have and the extent to which they have what they want help explain why other individual differences are associated with happiness. By asking people whether they had and wanted various material items, we had an opportunity to investigate whether individuals who think they are grateful are indeed grateful. Our finding that individuals who score high on the gratitude measure of McCullough et al. (2002) also tend to want\n4All transformations applied in Study 1 were also applied in Study 2.\n5In that maximizers wanted what they had less than satisficers did and grateful individuals wanted what they had more than nongrateful people did, we expected maximizers to be less grateful than satisficers. This was not the case, r 5 .06.\nVolume 19\u2014Number 4 375\nat KAI NAN UNIV on February 21, 2015pss.sagepub.comDownloaded from\nwhat they have suggests that people\u2019s subjective sense of their gratefulness is objectively accurate. We also found that people who perceive themselves as being satisfied with nothing less than the best (i.e., maximizers; Schwartz et al., 2002) are, for instance, less content than others with what they have. Moreover, our findings that the effect of gratitude on happiness is partially mediated by wanting what one has and that the effect of maximization on happiness is partially mediated by both wanting what one has and having what one wants help delineate the mechanisms by which happiness is attained by grateful people but eluded by maximizers."
+        },
+        {
+            "heading": "Potential Moderators",
+            "text": "Future research should investigate the extent to which our results generalize beyond North American undergraduates. Income has a stronger effect on happiness among the poor than among the wealthy (Diener & Suh, 1997). Thus, simply having things and having what one wants may emerge as more important predictors of happiness among the poor. Cultural variables may also moderate the effects of wanting what one has and having what one wants on well-being. In a book titled How to Want What You Have, Miller (1995), a psychotherapist, argued that all major religions admonish their followers to want what they have. Indeed, the Dalai Lama, the spiritual leader of Tibetan Buddhists, reiterated Rabbi Schachtel\u2019s maxim by suggesting that the key to happiness \u2018\u2018is not to have what we want but rather to want and appreciate what we have\u2019\u2019 (Dalai Lama & Cutler, 1998; p. 29). Srivastava and Misra (2003), however, contended that one of Hinduism\u2019s basic precepts is that happiness can be obtained only by abandoning wants. If so, simply wanting things may be negatively associated with happiness among Hindus, and the effects of having what one wants and wanting what one has may be attenuated or even reversed in that population."
+        },
+        {
+            "heading": "Maintaining Happiness",
+            "text": "Increases in happiness elicited by favorable life events (e.g., winning the lottery) tend to diminish over time (Brickman, Coates, & Janoff-Bulman, 1978). This tendency has been attributed to a hedonic treadmill (Brickman & Campbell, 1971), such that people tend to stop wanting the desirable possessions they have acquired. Kahneman (1999) suggested that people might also succumb to a satisfaction treadmill. By this account, even if individuals with newfound wealth continue to want their newly acquired possessions, they may adopt a higher aspiration level for hedonic experiences and, as a result, find new things that they want but do not have. Our results suggest that people may be able to avoid the hedonic treadmill by continuing to want what they have and to avoid the satisfaction treadmill by continuing to have what they want.6 Stronger tests of these hypotheses would require having individuals complete the Have/\nWant Survey on several occasions over time. Though most people may become happier as they accumulate the things they want, those who continue to want those things and avoid discovering new things to want may experience sustained increases in happiness. Implicit in this analysis is that people should want what they have. This was certainly the spirit of Schachtel\u2019s prescription for happiness, and it might make sense for most individuals in developed countries. We would find it absurd, however, to encourage individuals struggling with poverty to be content with their lot in life."
+        },
+        {
+            "heading": "Conclusion",
+            "text": "Some years ago, a popular bumper sticker in the United States declared, \u2018\u2018He who dies with the most toys wins.\u2019\u2019 Whatever rewards await those who die with the most toys, our results indicate that the American undergraduates who are happiest in this life are not necessarily those who amass great numbers of things. Rather, they are those who both have the things they want and want the things they have.\nAcknowledgments\u2014The authors thank Erin Hardin, Jonathan\nLevav, Peter McGraw, and two anonymous reviewers for com-\nments on earlier drafts and Erin Hardin andKristopher Preacher\nfor statistical advice."
+        }
+    ],
+    "title": "Is Happiness Having What You Want, Wanting What You Have, or Both?",
+    "year": 2009
+}

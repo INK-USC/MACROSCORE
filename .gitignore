@@ -8,3 +8,12 @@
 /tagtog/*
 /xml/*
 /plots/*
+/parsed_ta1/*
+/parsed_rpp/*
+/parsed_ta3_covid/*
+/scienceparse/*
+/test_annotation/*
+/new_annotation/*
+/.idea/*
+/.DS_Store
+/.ipynb_checkpoints/*

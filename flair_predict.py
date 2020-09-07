@@ -1,7 +1,10 @@
+import flair
 from flair.data import Sentence
 from flair.models import SequenceTagger
 import argparse, re, numpy as np, json
 from collections import defaultdict
+from transformers import AutoConfig, AutoModel
+from tqdm import tqdm
 
 # parser = argparse.ArgumentParser(description="Train flair")
 # parser.add_argument("--folder", type=str, help="folder to chkp")
@@ -9,17 +12,32 @@ from collections import defaultdict
 # args = vars(args)
 # tagger = SequenceTagger.load('./flair_models/'+args['folder']+'/final-model.pt')
 
-model_num = '7'
+metadata = json.load(open("./data/SCORE_json.json"))
+id2doi = {r['paper_id']: r['DOI_CR'] for r in metadata['data']}
+rppmap = json.load(open("./data/doi_to_file_name_data.json"))
+rppid2doi = {r['file']: r['doi'] for r in rppmap}
+print(rppid2doi)
+model_num = '1'
 
-tagger = SequenceTagger.load('./flair_models/score_'+model_num+'/final-model.pt') # load to gpu:0 by default, use CUDA_VISIBLE_DEVICES=x
+tagger = SequenceTagger.load('./flair_models/scibertnew_'+model_num+'/final-model.pt') # load to gpu:0 by default, use CUDA_VISIBLE_DEVICES=x
+# get name of embedding
+transformer_model_name = '-'.join(tagger.embeddings.name.split('-')[2:])
+print(transformer_model_name)
 
-data_source = 'TA1'
+# reload transformer embedding
+config = AutoConfig.from_pretrained(transformer_model_name, output_hidden_states=True)
+tagger.embeddings.model = AutoModel.from_pretrained(transformer_model_name, config=config)
+tagger.to(flair.device)
+
+data_source = 'sjson'
 if data_source == 'TA1':
     postfix = ''
 elif data_source == 'RPP':
     postfix = '_RPP'
 elif data_source == 'biomed':
     postfix = '_biomed'
+elif data_source == 'sjson':
+    postfix = '_sjson'
 
 data, curr_data, curr_id = {}, [], None
 with open("data_processed/raw_all"+postfix+".txt", 'r') as f:
@@ -38,7 +56,7 @@ with open("data_processed/raw_all"+postfix+".txt", 'r') as f:
             curr_data.append(line[:-1])
 
 all_pred = {}
-for id, sents in data.items():
+for id, sents in tqdm(data.items()):
     curr_pred = defaultdict(lambda: [])
     claim4_sents_idx = []
     for i in range(len(sents)):
@@ -71,7 +89,7 @@ for id, sents in data.items():
                 else:
                     sent_idx = curr_pred[k][i][1]
                     curr_pred[k][i][1] = sorted([sent_idx - r for r in claim4_sents_idx], key=lambda x:abs(x))[0]
-    
+
     all_pred[id] = curr_pred
     
 
@@ -318,6 +336,9 @@ for id, preds in all_pred.items():
         if data_source == 'TA1':
             processed = [[process_pred('ES', r[0]), r[1]] for r in preds['ES']]
             processed = [r for r in processed if r[0]]
+            processed = [[xx, x[1]] for x in processed for xx in x[0][1]]
+            processed = sorted(processed, key=lambda x: (abs(x[1]) if not x[1] is None else 1e9))
+
             r = [x for x in processed if x[0][0] == 'r']
             R2 = [x for x in processed if x[0][0] == 'R2']
             r = [[xx, x[1]] for x in r for xx in x[0][1]]
@@ -327,22 +348,17 @@ for id, preds in all_pred.items():
         else:
             processed = [process_pred('ES', r) for r in preds['ES']]
             processed = [r for r in processed if r]
-            r = [x for x in processed if x[0] == 'r']
-            R2 = [x for x in processed if x[0] == 'R2']
-            r = [x for xx in r for x in xx[1]]
-            R2 = [x for xx in R2 for x in xx[1]]
-        if r:
-            curr_output['Effect Sizes - r'] = r
-        else:
-            curr_output['Effect Sizes - r'] = None
-        if R2:
-            curr_output['Effect Sizes - R2'] = R2
-        else:
-            curr_output['Effect Sizes - R2'] = None
+            processed = [r for rr in processed for r in rr[1]]
+
+        curr_output['Effect Sizes'] = processed
     else:
-        curr_output['Effect Sizes - r'] = None
-        curr_output['Effect Sizes - R2'] = None
-    
+        curr_output['Effect Sizes'] = None
+
+    if data_source == 'TA1':
+        id = id2doi[id]
+    elif data_source == 'RPP':
+        id = rppid2doi[id]
+
     output[id] = curr_output
 
 
@@ -369,9 +385,9 @@ with open("./flair_pred/extraction_result_"+model_num+postfix+".csv", 'w') as f:
         TE = str(out['Number of Models/Tests']) if out['Number of Models/Tests'] else 'None'
         SD = str(out['Number of Studies']) if out['Number of Studies'] else 'None'
         PV = str(out['P Values']) if out['P Values'] else 'None'
-        ESr = str(out['Effect Sizes - r']) if out['Effect Sizes - r'] else 'None'
-        ESR2 = str(out['Effect Sizes - R2']) if out['Effect Sizes - R2'] else 'None'
+        ESr = str(out['Effect Sizes']) if out['Effect Sizes'] else 'None'
+        ESR2 = str(out['Effect Sizes']) if out['Effect Sizes'] else 'None'
         f.write('"'+id+'","'+SS+'","'+TN+'","'+TE+'","'+SD+'","'+PV+'","'+ESr+'","'+ESR2+'"\n')
 
-json.dump(output, open("./flair_pred/extraction_result_"+model_num+postfix+".json", 'w'))
+json.dump(output, open("./flair_pred/extraction_result_"+model_num+postfix+".parsed_rpp", 'w'))
 

@@ -4,7 +4,7 @@ from collections import Counter
 
 load() # load word segmenter
 
-data = json.load(open("./data/SCORE_json.json", 'r'))["data"]
+data = json.load(open("./data/SCORE_json.parsed_rpp", 'r'))["data"]
 
 all_xmls = os.listdir("./xml")
 
@@ -47,10 +47,10 @@ for d in data:
     for k in keys:
         data_processed[filename][k] = d[k]
 
-json.dump(data_processed, open("./data/data_processed.json", 'w'))
+json.dump(data_processed, open("./data/data_processed.parsed_rpp", 'w'))
 
 # write txt file for AutoPhrase
-data_processed = json.load(open("./data/data_processed.json", 'r'))
+data_processed = json.load(open("./data/data_processed.parsed_rpp", 'r'))
 with open("../AutoPhrase/data/papers/papers.txt", 'w') as f:
     for k, v in data_processed.items():
         for t in v['text']:
@@ -60,7 +60,7 @@ with open("../AutoPhrase/data/papers/papers.txt", 'w') as f:
 
 
 # use only sentences around/in claims
-data_processed = json.load(open("./data/data_processed.json", 'r'))
+data_processed = json.load(open("./data/data_processed.parsed_rpp", 'r'))
 window_size = 5
 text = []
 for k, v in data_processed.items():
@@ -106,7 +106,7 @@ for k, v in data_processed.items():
     
     data_processed[k]['important_sents'] = all_windows
 
-json.dump(data_processed, open("./data/data_processed.json", 'w'))
+json.dump(data_processed, open("./data/data_processed.parsed_rpp", 'w'))
 
 
 with open("../AutoPhrase/data/papers/papers.txt", 'w') as f:

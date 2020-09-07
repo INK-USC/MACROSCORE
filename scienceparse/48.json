@@ -1,0 +1,1275 @@
+{
+    "abstractText": "Six studies examined the role of young adults\u2019 parental attachment in terror management. Studies 1\u20133 revealed that activating thoughts of one\u2019s parent in response to mortality salience (MS) reduced death-thought accessibility and worldview defense and increased feelings of self-worth. Studies 4\u20135 demonstrated that MS led to greater ease of recalling positive maternal interactions and greater difficulty recalling negative interactions, and increased attraction to a stranger who was described as being similar to one\u2019s parent. If reliance on parents for terror management purposes reflects the operation of attachment mechanisms, then such effects should vary on the basis of an individual\u2019s attachment style. Study 6 demonstrated that, after MS, insecure individuals were more likely to rely on relationships with their parents, whereas secure individuals were more likely to rely on relationships with romantic partners.",
+    "authors": [
+        {
+            "affiliations": [],
+            "name": "Cathy R. Cox"
+        },
+        {
+            "affiliations": [],
+            "name": "Jamie Arndt"
+        },
+        {
+            "affiliations": [],
+            "name": "Tom Pyszczynski"
+        },
+        {
+            "affiliations": [],
+            "name": "Jeff Greenberg"
+        },
+        {
+            "affiliations": [],
+            "name": "Abdolhossein Abdollahi"
+        }
+    ],
+    "id": "SP:e6d6a68207fa6f8a753a3cde6bfaec3837c2fb30",
+    "references": [
+        {
+            "authors": [
+                "L.S. Aiken",
+                "S.G. West"
+            ],
+            "title": "Multiple regression: Testing and interpreting interactions",
+            "year": 1991
+        },
+        {
+            "authors": [
+                "M.D.S. Ainsworth"
+            ],
+            "title": "Attachment beyond infancy",
+            "venue": "American Psychologist,",
+            "year": 1989
+        },
+        {
+            "authors": [
+                "M.D.S. Ainsworth"
+            ],
+            "title": "Attachments and other affectional bonds across the life cycle",
+            "year": 1991
+        },
+        {
+            "authors": [
+                "J.P. Allen",
+                "D. Land"
+            ],
+            "title": "Attachment in adolescence",
+            "year": 1999
+        },
+        {
+            "authors": [
+                "S.M. Andersen",
+                "A. Baum"
+            ],
+            "title": "Transference in interpersonal relations: Schema-triggered inferences and affect based on significant-other representations",
+            "venue": "Journal of Personality,",
+            "year": 1994
+        },
+        {
+            "authors": [
+                "S.M. Andersen",
+                "N.S. Glassman"
+            ],
+            "title": "Responding to significant others when they are not there: Effects on interpersonal inference, motivation, and affect",
+            "venue": "Handbook of motivation and cognition (Vol",
+            "year": 1996
+        },
+        {
+            "authors": [
+                "J. Arndt",
+                "J. Greenberg"
+            ],
+            "title": "The effects of a self-esteem boost and mortality salience on responses to boost relevant and irrelevant worldview threats",
+            "venue": "Personality and Social Psychological Bulletin,",
+            "year": 1999
+        },
+        {
+            "authors": [
+                "J. Arndt",
+                "J. Greenberg",
+                "A. Cook"
+            ],
+            "title": "Mortality salience and the spreading activation of worldview-relevant constructs: Exploring the cognitive architecture of terror management",
+            "venue": "Journal of Experimental Psychology: General,",
+            "year": 2002
+        },
+        {
+            "authors": [
+                "J. Arndt",
+                "J. Greenberg",
+                "J. Schimel",
+                "T. Pyszczynski",
+                "S. Solomon"
+            ],
+            "title": "To belong or not to belong, that is the question: Terror management and identification with gender and ethnicity",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 2002
+        },
+        {
+            "authors": [
+                "J. Arndt",
+                "J. Schimel",
+                "J. Greenberg",
+                "T. Pyszczynski"
+            ],
+            "title": "The intrinsic self and defensiveness: Evidence that activating the intrinsic self reduces self-handicapping and conformity",
+            "venue": "Personality and Social Psychology Bulletin,",
+            "year": 2002
+        },
+        {
+            "authors": [
+                "M.W. Baldwin",
+                "L. Sinclair"
+            ],
+            "title": "Self-esteem and \u201cif",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1996
+        },
+        {
+            "authors": [
+                "A. Bandura"
+            ],
+            "title": "Social learning theory",
+            "year": 1977
+        },
+        {
+            "authors": [
+                "K. Bartholomew"
+            ],
+            "title": "From childhood to adult relationships: Attachment theory and research",
+            "year": 1993
+        },
+        {
+            "authors": [
+                "K. Bartholomew",
+                "L.M. Horowitz"
+            ],
+            "title": "Attachment styles among young adults: A test of a four category model",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1991
+        },
+        {
+            "authors": [
+                "J.N. Bassili",
+                "M.C. Smith"
+            ],
+            "title": "On the spontaneity of trait attribution: Converging evidence for the role of cognitive strategy",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1986
+        },
+        {
+            "authors": [
+                "E. Becker"
+            ],
+            "title": "The denial of death",
+            "year": 1973
+        },
+        {
+            "authors": [
+                "J. Bowlby"
+            ],
+            "title": "Attachment and loss: Vol. 1. Attachment (2nd ed.)",
+            "year": 1982
+        },
+        {
+            "authors": [
+                "K.A. Brennan",
+                "J.K. Bosson"
+            ],
+            "title": "Attachment-style differences in attitudes toward and reactions to feedback from romantic partners: An exploration of the relational bases of self-esteem",
+            "venue": "Personality and Social Psychology Bulletin,",
+            "year": 1998
+        },
+        {
+            "authors": [
+                "K.A. Brennan",
+                "K.A. Morris"
+            ],
+            "title": "Attachment styles, self-esteem, and patterns of seeking feedback from romantic partners",
+            "venue": "Personality and Social Psychology Bulletin,",
+            "year": 1997
+        },
+        {
+            "authors": [
+                "C.C. Brumbaugh",
+                "R.C. Fraley"
+            ],
+            "title": "Transference and attachment: How do attachment patterns get carried forward from one relationship to the next",
+            "venue": "Personality and Social Psychology Bulletin,",
+            "year": 2006
+        },
+        {
+            "authors": [
+                "D. Byrne"
+            ],
+            "title": "The attraction paradigm",
+            "year": 1971
+        },
+        {
+            "authors": [
+                "J. Cassidy",
+                "P.R. Shaver"
+            ],
+            "title": "Handbook of attachment: Theory, research, and clinical applications",
+            "year": 1999
+        },
+        {
+            "authors": [
+                "E. Castano"
+            ],
+            "title": "In case of death, cling to the ingroup",
+            "venue": "European Journal of Social Psychology,",
+            "year": 2004
+        },
+        {
+            "authors": [
+                "S. Chen",
+                "S.M. Andersen"
+            ],
+            "title": "Relationships from the past in the present: Significant-other representations and transference in interpersonal life",
+            "venue": "Advances in experimental social psychology (Vol",
+            "year": 1999
+        },
+        {
+            "authors": [
+                "V.G. Cicirelli"
+            ],
+            "title": "Attachment theory in old age: Protection of the attached figure",
+            "year": 1991
+        },
+        {
+            "authors": [
+                "N.L. Collins"
+            ],
+            "title": "Working models of attachment: Implications for explanation, emotion, and behavior",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1996
+        },
+        {
+            "authors": [
+                "N.L. Collins",
+                "S.J. Read"
+            ],
+            "title": "Adult attachment, working models, and relationship quality in dating couples",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1990
+        },
+        {
+            "authors": [
+                "C.R. Cox",
+                "J.L. Goldenberg",
+                "J. Arndt",
+                "T. Pyszczynski"
+            ],
+            "title": "Mother\u2019s milk: An existential perspective on negative reactions to breastfeeding",
+            "venue": "Personality and Social Psychology Bulletin,",
+            "year": 2007
+        },
+        {
+            "authors": [
+                "J. Crocker",
+                "R.K. Luhtanen",
+                "M.L. Cooper",
+                "S. Bouvrette"
+            ],
+            "title": "Contingencies of self-worth in college students: Theory and measurement",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "M. Daly",
+                "M. Wilson"
+            ],
+            "title": "Is parent offspring conflict sex-linked? Freudian and Darwinian models",
+            "venue": "Journal of Personality,",
+            "year": 1990
+        },
+        {
+            "authors": [
+                "M. Dechesne",
+                "T. Pyszczynski",
+                "J. Arndt",
+                "S. Ransom",
+                "K.M. Sheldon",
+                "A. van Knippenberg",
+                "J. Janssen"
+            ],
+            "title": "Literal and symbolic immortality: The effect of evidence of literal immortality on self-esteem striving in response to mortality salience",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "N.A. Doherty",
+                "J.A. Feeney"
+            ],
+            "title": "The composition of attachment networks throughout the adult years",
+            "venue": "Personal Relationships,",
+            "year": 2004
+        },
+        {
+            "authors": [
+                "S.D. Farnham",
+                "A.G. Greenwald",
+                "M.R. Banaji"
+            ],
+            "title": "Implicit self-esteem",
+            "year": 1999
+        },
+        {
+            "authors": [
+                "B.C. Feeney",
+                "N.L. Collins"
+            ],
+            "title": "Predictors of caregiving in adult intimate relationships: An attachment theoretical perspective",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 2001
+        },
+        {
+            "authors": [
+                "J.A. Feeney",
+                "L. Hohaus"
+            ],
+            "title": "Attachment and spousal caregiving",
+            "venue": "Personal Relationships,",
+            "year": 2001
+        },
+        {
+            "authors": [
+                "J.A. Feeney",
+                "P. Noller"
+            ],
+            "title": "Attachment style as a predictor of adult romantic relationships",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1990
+        },
+        {
+            "authors": [
+                "V. Florian",
+                "M. Mikulincer"
+            ],
+            "title": "Fear of death and the judgment of social transgressions: A multidimensional of terror management theory",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1997
+        },
+        {
+            "authors": [
+                "V. Florian",
+                "M. Mikulincer",
+                "G. Hirschberger"
+            ],
+            "title": "The anxietybuffering function of close relationships: Evidence that relationship commitment acts as a terror management mechanism",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 2002
+        },
+        {
+            "authors": [
+                "R.C. Fraley"
+            ],
+            "title": "Attachment stability from infancy to adulthood",
+            "year": 2002
+        },
+        {
+            "authors": [
+                "R.C. Fraley",
+                "K.E. Davis"
+            ],
+            "title": "Attachment formation and transfer in young adults\u2019 close friendships and romantic relationships",
+            "venue": "Personal Relationships,",
+            "year": 1997
+        },
+        {
+            "authors": [
+                "R.C. Fraley",
+                "K.E. Davis",
+                "P.R. Shaver"
+            ],
+            "title": "Dismissing-avoidance and the defensive organization of emotion, cognition, and behavior",
+            "year": 1998
+        },
+        {
+            "authors": [
+                "R.C. Fraley",
+                "N.G. Waller"
+            ],
+            "title": "Adult attachment patterns: A test of the typological model",
+            "year": 1998
+        },
+        {
+            "authors": [
+                "S. Freud"
+            ],
+            "title": "Some psychological consequences of the anatomical distinction between the sexes",
+            "venue": "In J. Strachey (Ed. and Trans.), The standard edition of the complete psychological works of Sigmund Freud (Vol",
+            "year": 1927
+        },
+        {
+            "authors": [
+                "S. Freud"
+            ],
+            "title": "Civilization and its discontents (J. Riviere, Trans.)",
+            "year": 1939
+        },
+        {
+            "authors": [
+                "S. Freud"
+            ],
+            "title": "Three essays on the theory of sexuality",
+            "venue": "In J. Strachey (Ed. and Trans.), The standard edition of the complete psychological works of Sigmund Freud (Vol",
+            "year": 1957
+        },
+        {
+            "authors": [
+                "S. Freud"
+            ],
+            "title": "The dynamics of transference",
+            "venue": "In J. Strachey (Ed. and Trans.), The standard edition of the complete psychological works of Sigmund Freud (Vol",
+            "year": 1958
+        },
+        {
+            "authors": [
+                "S. Freud"
+            ],
+            "title": "Introductory lectures on psychoanalysis",
+            "venue": "(J. Strachey, Trans.). New York: Norton. (Original work published",
+            "year": 1977
+        },
+        {
+            "authors": [
+                "W. Furman",
+                "D. Buhrmester"
+            ],
+            "title": "Age and sex in perceptions of networks of personal relationships",
+            "venue": "Child Development,",
+            "year": 1992
+        },
+        {
+            "authors": [
+                "G. Geher"
+            ],
+            "title": "Perceived and actual characteristics of parents and partners: A test of a Freudian model of mate selection. Current Psychology: Developmental",
+            "venue": "Learning, Personality,",
+            "year": 2000
+        },
+        {
+            "authors": [
+                "D.T. Gilbert",
+                "J.G. Hixon"
+            ],
+            "title": "The trouble of thinking: Activation and application of stereotypic beliefs",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1991
+        },
+        {
+            "authors": [
+                "J. Greenberg",
+                "T. Pyszczynski",
+                "S. Solomon"
+            ],
+            "title": "The causes and consequences of a need for self-esteem: A terror management theory",
+            "year": 1986
+        },
+        {
+            "authors": [
+                "J. Greenberg",
+                "T. Pyszczynski",
+                "S. Solomon",
+                "L. Simon",
+                "M. Breus"
+            ],
+            "title": "Role of consciousness and accessibility of death-related thoughts in mortality salience effects",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1994
+        },
+        {
+            "authors": [
+                "J. Greenberg",
+                "S. Solomon",
+                "J. Arndt"
+            ],
+            "title": "A basic but uniquely human motivation: Terror management",
+            "venue": "In J. Shah (Ed.), Handbook of motivation science (pp. 114\u2013134)",
+            "year": 2008
+        },
+        {
+            "authors": [
+                "J. Greenberg",
+                "S. Solomon",
+                "T. Pyszczynski"
+            ],
+            "title": "Terror management theory of self-esteem and social behavior: Empirical assessments and conceptual refinements",
+            "venue": "Advances in experimental social psychology (Vol",
+            "year": 1997
+        },
+        {
+            "authors": [
+                "A.G. Greenwald",
+                "S.D. Farnham"
+            ],
+            "title": "Using the implicit association test to measure self-esteem and self-concept",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 2000
+        },
+        {
+            "authors": [
+                "A.G. Greenwald",
+                "D.E. McGhee",
+                "J.L.K. Schwartz"
+            ],
+            "title": "Measuring individual differences in implicit cognition: The implicit association test",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1998
+        },
+        {
+            "authors": [
+                "D. Griffin",
+                "K. Bartholomew"
+            ],
+            "title": "Metaphysics of measurement: The case of adult attachment",
+            "year": 1994
+        },
+        {
+            "authors": [
+                "D. Griffin",
+                "K. Bartholomew"
+            ],
+            "title": "Models of the self and other",
+            "year": 1994
+        },
+        {
+            "authors": [
+                "E. Harmon-Jones",
+                "L. Simon",
+                "J. Greenberg",
+                "T. Pyszczynski",
+                "S. Solomon",
+                "H. McGregor"
+            ],
+            "title": "Terror management theory and self-esteem: Evidence that increased self-esteem reduces mortality salience effects",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1997
+        },
+        {
+            "authors": [
+                "J. Hart",
+                "P.R. Shaver",
+                "J.L. Goldenberg"
+            ],
+            "title": "Attachment, selfesteem, worldviews, and terror management: Evidence for a tripartite security system",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 2005
+        },
+        {
+            "authors": [
+                "W.N. Hayes"
+            ],
+            "title": "Identifying sex from handwriting",
+            "venue": "Perceptual and Motor Skills,",
+            "year": 1996
+        },
+        {
+            "authors": [
+                "C. Hazan",
+                "P.R. Shaver"
+            ],
+            "title": "Romantic love conceptualized as an attachment process",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1987
+        },
+        {
+            "authors": [
+                "C. Hazan",
+                "D. Zeifman"
+            ],
+            "title": "Sex and the psychological tether",
+            "venue": "Advances in personal relationships (Vol",
+            "year": 1994
+        },
+        {
+            "authors": [
+                "K. Hinkley",
+                "S.M. Andersen"
+            ],
+            "title": "The working self-concept in transference: Significant-other activation and self-change",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1996
+        },
+        {
+            "authors": [
+                "G. Hirschberger",
+                "V. Florian",
+                "M. Mikulincer"
+            ],
+            "title": "Fear and compassion: A terror management analysis of emotional reactions to physical disability",
+            "venue": "Rehabilitation Psychology,",
+            "year": 2005
+        },
+        {
+            "authors": [
+                "K. Horney"
+            ],
+            "title": "The neurotic personality of our time",
+            "year": 1937
+        },
+        {
+            "authors": [
+                "S.L. Koole",
+                "M. Dechesne",
+                "A. van Knippenberg"
+            ],
+            "title": "The sting of death: The effects of mortality salience on implicit self-evaluations",
+            "venue": "Unpublished manuscript,",
+            "year": 2001
+        },
+        {
+            "authors": [
+                "L.A. Kurdek"
+            ],
+            "title": "On being insecure about the assessment of attachment styles",
+            "venue": "Journal of Social and Personal Relationships,",
+            "year": 2002
+        },
+        {
+            "authors": [
+                "M.J. Landau",
+                "M. Johns",
+                "J. Greenberg",
+                "T. Pyszczynski",
+                "A. Martens",
+                "J. Goldenberg",
+                "S. Solomon"
+            ],
+            "title": "A function of form: Terror management and structuring the social world",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 2004
+        },
+        {
+            "authors": [
+                "M.J. Landau",
+                "S. Solomon",
+                "J. Greenberg",
+                "F. Cohen",
+                "T. Pyszczynski",
+                "J. Arndt",
+                "C.H. Miller",
+                "D.M. Ogilvie",
+                "A. Cook"
+            ],
+            "title": "Deliver us from evil: The effects of mortality salience and reminders of 9/11 on support for President",
+            "venue": "George W. Bush. Personality and Social Psychology Bulletin,",
+            "year": 2004
+        },
+        {
+            "authors": [
+                "A.C. Little",
+                "I.S. Penton-Voak",
+                "D.M. Burt",
+                "D.I. Perrett"
+            ],
+            "title": "Investigating an imprinting-like phenomenon in humans: Partners and opposite-sex parents have similar hair and eye colour",
+            "venue": "Evolution and Human Behavior,",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "A.C. Little",
+                "D.I. Perrett"
+            ],
+            "title": "Putting beauty back in the eye of the beholder",
+            "year": 2002
+        },
+        {
+            "authors": [
+                "C.N. Macrae",
+                "G.V. Bodenhausen",
+                "A.B. Milne",
+                "J. Jetten"
+            ],
+            "title": "Out of mind but back in sight: Stereotypes on the rebound",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1994
+        },
+        {
+            "authors": [
+                "D. Markiewicz",
+                "H. Lawford",
+                "A.B. Doyle",
+                "N. Haggart"
+            ],
+            "title": "Developmental differences in adolescents\u2019 and young adults\u2019 use of mothers, fathers, best friends, and romantic partners to fulfill attachment needs",
+            "venue": "Journal of Youth and Adolescence,",
+            "year": 2006
+        },
+        {
+            "authors": [
+                "A. Martens",
+                "J. Greenberg",
+                "J. Schimel",
+                "M.J. Landau"
+            ],
+            "title": "Ageism and death: Effects of mortality salience and similarity to elders on distancing from and derogation of elderly people",
+            "venue": "Personality and Social Psychology Bulletin,",
+            "year": 2004
+        },
+        {
+            "authors": [
+                "O. Mayseless"
+            ],
+            "title": "Home-leaving to military service: Attachment concerns, transfer of attachment functions from parents to peers, and adjustment",
+            "venue": "Journal of Adolescent Research,",
+            "year": 2004
+        },
+        {
+            "authors": [
+                "G.H. Mead"
+            ],
+            "title": "Mind, self, and society",
+            "year": 1934
+        },
+        {
+            "authors": [
+                "K.D. Mickelson",
+                "R.C. Kessler",
+                "P.R. Shaver"
+            ],
+            "title": "Adult attachment in a nationally representative sample",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1997
+        },
+        {
+            "authors": [
+                "M. Mikulincer"
+            ],
+            "title": "Attachment style and the mental representation of the self",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1995
+        },
+        {
+            "authors": [
+                "M. Mikulincer",
+                "V. Florian"
+            ],
+            "title": "Exploring individual differences in reactions to mortality salience: Does attachment style regulate terror management mechanisms",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 2000
+        },
+        {
+            "authors": [
+                "M. Mikulincer",
+                "V. Florian",
+                "G. Birnbaum",
+                "S. Malishkevich"
+            ],
+            "title": "The death-anxiety buffering function of close relationships: Exploring the effects of separation reminders on death-thought accessibility",
+            "venue": "Personality and Social Psychology Bulletin,",
+            "year": 2002
+        },
+        {
+            "authors": [
+                "M. Mikulincer",
+                "V. Florian",
+                "G. Hirschberger"
+            ],
+            "title": "The existential function of close relationships: Introducing death into the science of love",
+            "venue": "Personality and Social Psychology Review,",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "M. Mikulincer",
+                "V. Florian",
+                "G. Hirschberger"
+            ],
+            "title": "The terror of death and the quest for love: An existential perspective on close relationships",
+            "venue": "Handbook of experimental existential psychology (pp. 287\u2013304)",
+            "year": 2004
+        },
+        {
+            "authors": [
+                "M. Mikulincer",
+                "O. Gillath",
+                "P.R. Shaver"
+            ],
+            "title": "Activation of the attachment system in adulthood: Threat-related primes increase the accessibility of mental representations of attachment figures",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 2002
+        },
+        {
+            "authors": [
+                "M. Mikulincer",
+                "G.S. Goodman"
+            ],
+            "title": "Dynamics of romantic love: Attachment, caregiving, and sex",
+            "year": 2006
+        },
+        {
+            "authors": [
+                "M. Mikulincer",
+                "P. Shaver"
+            ],
+            "title": "The attachment behavioral system in adulthood: Activation, psychodynamics, and interpersonal processes",
+            "venue": "Advances in experimental social psychology (Vol",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "M. Mikulincer",
+                "P.R. Shaver"
+            ],
+            "title": "Security-based selfrepresentations in adulthood",
+            "year": 2004
+        },
+        {
+            "authors": [
+                "S.L. Murray",
+                "D.W. Griffin",
+                "P. Rose",
+                "G. Bellavia"
+            ],
+            "title": "Calibrating the sociometer: The relational contingencies of self-esteem",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "B.A. Nosek",
+                "K. Lane"
+            ],
+            "title": "Analyzing paper-pencil IAT data",
+            "venue": "Unpublished manuscript,",
+            "year": 1999
+        },
+        {
+            "authors": [
+                "G. Owens",
+                "J.A. Crowell",
+                "H. Pan",
+                "D. Treboux",
+                "E. O\u2019Connor",
+                "E. Waters"
+            ],
+            "title": "The prototype hypothesis and the origins of attachment working models: Adult relationships with parents and romantic partners",
+            "venue": "Monographs of the Society for Research in Child Development,",
+            "year": 1995
+        },
+        {
+            "authors": [
+                "L.E. Park",
+                "J. Crocker",
+                "K.D. Mickelson"
+            ],
+            "title": "Attachment styles and contingencies of self-worth",
+            "venue": "Personality and Social Psychology Bulletin,",
+            "year": 2004
+        },
+        {
+            "authors": [
+                "T. Pyszczynski",
+                "J. Greenberg"
+            ],
+            "title": "Toward an integration of cognitive and motivational perspectives on social inference: A biased hypothesis-testing model",
+            "venue": "Advances in experimental social psychology (Vol",
+            "year": 1987
+        },
+        {
+            "authors": [
+                "T. Pyszczynski",
+                "J. Greenberg",
+                "S. Solomon"
+            ],
+            "title": "A dual-process model of defense against conscious and unconscious death-related thoughts: An extension of terror management theory",
+            "venue": "Psychological Review,",
+            "year": 1999
+        },
+        {
+            "authors": [
+                "T. Pyszczynski",
+                "J. Greenberg",
+                "S. Solomon",
+                "J. Arndt",
+                "J. Schimel"
+            ],
+            "title": "Why do people need self-esteem? A theoretical and empirical review",
+            "venue": "Psychological Bulletin,",
+            "year": 2004
+        },
+        {
+            "authors": [
+                "T. Pyszczynski",
+                "R.A. Wicklund",
+                "S. Floresky",
+                "G. Gauch",
+                "S. Koch",
+                "S. Solomon",
+                "J. Greenberg"
+            ],
+            "title": "Whistling in the dark: Exaggerated",
+            "year": 1996
+        },
+        {
+            "authors": [
+                "O. Rank"
+            ],
+            "title": "The trauma of birth",
+            "year": 1973
+        },
+        {
+            "authors": [
+                "W.S. Rholes",
+                "J.A. Simpson",
+                "M. Friedman"
+            ],
+            "title": "Avoidant attachment and the experience of parenting",
+            "venue": "Personality and Social Psychology Bulletin,",
+            "year": 2006
+        },
+        {
+            "authors": [
+                "A. Rosenblatt",
+                "J. Greenberg",
+                "S. Solomon",
+                "T. Pyszczynski",
+                "D. Lyon"
+            ],
+            "title": "Evidence for terror management theory: I. The effects of mortality salience on reactions to those who violate or uphold cultural values",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1989
+        },
+        {
+            "authors": [
+                "R. Rosenthal",
+                "R.L. Rosnow"
+            ],
+            "title": "Contrast analysis",
+            "year": 1985
+        },
+        {
+            "authors": [
+                "C. Routledge",
+                "J. Arndt",
+                "J.L. Goldenberg"
+            ],
+            "title": "A time to tan: Proximal and distal effects of mortality salience on sun exposure intentions",
+            "venue": "Personality and Social Psychology Bulletin,",
+            "year": 2004
+        },
+        {
+            "authors": [
+                "J. Sappington",
+                "M. Money"
+            ],
+            "title": "Sex, gender role, attribution pathology, and handwriting tidiness",
+            "venue": "Perceptual and Motor Skills,",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "J. Schimel",
+                "T. Pyszczynski",
+                "J. Greenberg",
+                "H. O\u2019Mahen",
+                "J. Arndt"
+            ],
+            "title": "Running from the shadow: Psychological distancing from others to deny characteristics people fear in themselves",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 2000
+        },
+        {
+            "authors": [
+                "J. Schimel",
+                "L. Simon",
+                "J. Greenberg",
+                "T. Pyszczynski",
+                "S. Solomon",
+                "J. Waxmonsky",
+                "J. Arndt"
+            ],
+            "title": "Stereotypes and terror management: Evidence that mortality salience enhances stereotypic thinking and preferences",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1999
+        },
+        {
+            "authors": [
+                "P.R. Shaver",
+                "J. Belsky",
+                "K.A. Brennan"
+            ],
+            "title": "Comparing measures of adult attachment: An examination of interview and self-report methods",
+            "venue": "Personal Relationships,",
+            "year": 2000
+        },
+        {
+            "authors": [
+                "P.R. Shaver",
+                "C. Hazan",
+                "D. Bradshaw"
+            ],
+            "title": "Love as attachment: The integration of three behavioral systems",
+            "venue": "The psychology of love (pp. 68\u201399)",
+            "year": 1988
+        },
+        {
+            "authors": [
+                "P.R. Shaver",
+                "M. Mikulincer"
+            ],
+            "title": "Attachment in the later years: A commentary",
+            "venue": "Attachment and Human Development,",
+            "year": 2004
+        },
+        {
+            "authors": [
+                "J.A. Simpson"
+            ],
+            "title": "Influence of attachment styles on romantic relationships",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1990
+        },
+        {
+            "authors": [
+                "J.A. Simpson",
+                "W.S. Rholes"
+            ],
+            "title": "Attachment theory and close relationships",
+            "year": 1997
+        },
+        {
+            "authors": [
+                "J.A. Simpson",
+                "W.S. Rholes",
+                "J. Nelligan"
+            ],
+            "title": "Support-seeking and support-giving within couples in an anxiety-provoking situation: The role of attachment styles",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1992
+        },
+        {
+            "authors": [
+                "S. Solomon",
+                "J. Greenberg",
+                "T. Pyszczynski"
+            ],
+            "title": "Terror management theory of self-esteem",
+            "year": 1991
+        },
+        {
+            "authors": [
+                "B.A. Sowards",
+                "A.J. Moniz",
+                "M.J. Harris"
+            ],
+            "title": "Self-esteem and bolstering: Testing major assumptions of terror management theory",
+            "venue": "Representative Research in Social Psychology,",
+            "year": 1991
+        },
+        {
+            "authors": [
+                "L.A. Sroufe",
+                "B. Egeland",
+                "T. Kreutzer"
+            ],
+            "title": "The fate of early experience following developmental change: Longitudinal approaches to individual adaptation in childhood",
+            "venue": "Child Development,",
+            "year": 1990
+        },
+        {
+            "authors": [
+                "C.M. Steele",
+                "J. Aronson"
+            ],
+            "title": "Stereotype threat and the intellectual test performance of African Americans",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1995
+        },
+        {
+            "authors": [
+                "H.S. Sullivan"
+            ],
+            "title": "The interpersonal theory of psychiatry",
+            "year": 1953
+        },
+        {
+            "authors": [
+                "O. Taubman-Ben-Ari",
+                "L. Findler",
+                "M. Mikulincer"
+            ],
+            "title": "The effects of mortality salience on relationship strivings and beliefs: The moderating role of attachment style",
+            "venue": "British Journal of Social Psychology,",
+            "year": 2002
+        },
+        {
+            "authors": [
+                "B.A. Teachman",
+                "K.D. Gapinski",
+                "K.D. Brownell",
+                "M. Rawlins",
+                "S. Jeyaram"
+            ],
+            "title": "Demonstrations of implicit anti-fat bias: The impact of providing causal information and evoking empathy",
+            "venue": "Health Psychology,",
+            "year": 2003
+        },
+        {
+            "authors": [
+                "S.J. Trinke",
+                "K. Bartholomew"
+            ],
+            "title": "Hierarchies of attachment relationships in young adulthood",
+            "venue": "Journal of Social and Personality Relationships,",
+            "year": 1997
+        },
+        {
+            "authors": [
+                "E. Tulving",
+                "D.L. Schacter",
+                "H.A. Stark"
+            ],
+            "title": "Priming effects in word-fragment completion are independent of recognition memory",
+            "venue": "Journal of Experimental Psychology: Learning, Memory, and Cognition,",
+            "year": 1982
+        },
+        {
+            "authors": [
+                "D. Watson",
+                "L.A. Clark",
+                "A. Tellegen"
+            ],
+            "title": "Development and validation of brief measures of positive and negative affect: The PANAS scales",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 1988
+        },
+        {
+            "authors": [
+                "R.S. Weiss"
+            ],
+            "title": "Continuities and transformations in social relationships from childhood to adulthood",
+            "venue": "Hillsdale, NJ: Erlbaum. Winnicott,",
+            "year": 1986
+        },
+        {
+            "authors": [
+                "A. Wisman",
+                "J.L. Goldenberg"
+            ],
+            "title": "From the grave to the cradle: Evidence that mortality salience engenders a desire for offspring",
+            "venue": "Journal of Personality and Social Psychology,",
+            "year": 2005
+        }
+    ],
+    "sections": [
+        {
+            "text": "Terror Management and Adults\u2019 Attachment to Their Parents: The Safe Haven Remains\nCathy R. Cox and Jamie Arndt University of Missouri\u2014Columbia\nTom Pyszczynski University of Colorado at Colorado Springs\nJeff Greenberg University of Arizona\nAbdolhossein Abdollahi Islamic Azad University-Zarand Branch and Kerman Shahid\nBahonar University\nSheldon Solomon Skidmore College\nSix studies examined the role of young adults\u2019 parental attachment in terror management. Studies 1\u20133 revealed that activating thoughts of one\u2019s parent in response to mortality salience (MS) reduced death-thought accessibility and worldview defense and increased feelings of self-worth. Studies 4\u20135 demonstrated that MS led to greater ease of recalling positive maternal interactions and greater difficulty recalling negative interactions, and increased attraction to a stranger who was described as being similar to one\u2019s parent. If reliance on parents for terror management purposes reflects the operation of attachment mechanisms, then such effects should vary on the basis of an individual\u2019s attachment style. Study 6 demonstrated that, after MS, insecure individuals were more likely to rely on relationships with their parents, whereas secure individuals were more likely to rely on relationships with romantic partners.\nKeywords: terror management, mortality salience, adult attachment, close relationships, parents\nResearch on adult attachment over the past 2 decades has provided general support for Bowlby\u2019s (1982) notion, based partly on Freud (1905/1957), that as people mature, their relationships with their romantic partners tend to take on many of the psychological functions formerly served by their relationships with their parents. The management of existential anxiety appears to be among these functions. A large body of evidence shows that close relationships serve a terror management function in that they help people cope with the awareness of the inevitability of death (Mikulincer, Florian, & Hirschberger, 2003, 2004). However, like much\nof the adult attachment literature, the extant research connecting terror management and attachment needs has focused extensively on romantic and other close peer relationships but not on the primary attachments that presumably form the impetus for later attachment representations. The present research explored the role that the original safe haven provided by one\u2019s parents plays as an ongoing psychological bulwark against the problem of death. Drawing from terror management theory (TMT; Greenberg, Pyszczynski, & Solomon, 1986), in six experiments we examined whether parental attachment, even in young adulthood, continues to serve existential needs.\nAttachment and Managing Terror\nDespite somewhat different emphases, TMT and attachment theory share common roots (e.g., Freud, 1930/1939; Horney, 1937; Mead, 1934; Rank, 1929/1973; Sullivan, 1953) and provide complementary insights into the psychological processes that enable people to feel secure and manage their fears in a threatening world. Bowlby\u2019s (1982) attachment theory posits that because the helpless infant\u2019s survival is dependent on the care and protection of others, infants are predisposed to form attachment relationships with others (initially the parents) who offer care and protection against external threats (e.g., starvation). Thus, attachment theory views distress regulation as the primary impetus for the maintenance of the attachment bonds through which the child\u2019s survival is assured. A substantial empirical literature accordingly demon-\nCathy R. Cox and Jamie Arndt, Department of Psychological Sciences, University of Missouri\u2014Columbia; Tom Pyszczynski, Department of Psychology, University of Colorado at Colorado Springs; Jeff Greenberg, Department of Psychology, University of Arizona; Abdolhossein Abdollahi, Department of Psychology, Islamic Azad University-Zarand Branch, Kerman, Iran, and Department of Psychology, Kerman Shahid Bahonar University, Kerman, Iran; Sheldon Solomon, Department of Psychology, Skidmore College.\nWe thank Ann Hecker and Michelle Carpentier (University of Missouri\u2014Columbia), Jennifer Bowers and Cindy Jenkins (University of Colorado at Colorado Springs), and Kelsey Hendrickson (Skidmore College) for their help in collecting data for this article.\nCorrespondence concerning this article should be addressed to Cathy R. Cox, Department of Psychological Sciences, University of Missouri\u2014 Columbia, McAlester Hall, Columbia, MO 65211. E-mail: crcr25@ mizzou.edu\nJournal of Personality and Social Psychology Copyright 2008 by the American Psychological Association 2008, Vol. 94, No. 4, 696\u2013717 0022-3514/08/$12.00 DOI: 10.1037/0022-3514.94.4.696\n696\nstrates that individuals rely on attachment figures when faced with threat (see, e.g., Mikulincer & Shaver, 2003, for a review).\nTMT (Greenberg et al., 1986) posits that existential fear rooted in awareness of death is a primary source of distress and plays a central role in human motivation and behavior. The theory proposes that people manage this fear by securing self-esteem by believing in and living up to the standards of a cultural worldview that imbues life with meaning, order, value, and permanence. Empirical support for TMT is provided by converging evidence from over 350 experiments conducted in at least 15 countries testing variants of five basic hypotheses. This research has shown that (a) increasing self-esteem makes people less prone to anxiety in response to threats; (b) subtle reminders of death (mortality salience; MS) produce increased positive reactions to those who support one\u2019s worldview and negative reactions to those who threaten it, increased self-esteem striving, and greater preference for information that is well-structured or fits specific templates for meaning; these effects have been obtained relative to a diverse array of control conditions; (c) increasing self-esteem or validating one\u2019s worldview eliminates the effect of MS on self-esteem striving and worldview defense; (d) threats to self-esteem or one\u2019s worldview increase the accessibility of death-related thoughts, and boosts to self-esteem or faith in one\u2019s worldview reduce the accessibility of death-related thoughts; and (e) evidence of the existence of a literal afterlife eliminates the effect of MS on self-esteem striving and worldview defense. These effects have been observed across a multitude of different aspects of cultural worldviews and sources of self-esteem (for a recent review, see Greenberg, Solomon, & Arndt, 2008).\nIn the first presentation of TMT, Greenberg et al. (1986) briefly suggested a terror management function of close relationships due to the initial role of parents in offering protection from anxiety, and then later, the capacity of close relationships to bolster an individual\u2019s self-esteem and faith in his or her cultural worldview (i.e., worldview validation). Integrating TMT and attachment theory, Mikulincer and colleagues (2003, 2004) have argued that people pursue close relationships because they provide protection against existential concerns through a basic emotional attachment mechanism (Bowlby, 1982), as well as by providing self-esteem and validation of one\u2019s cultural beliefs.\nA considerable body of evidence supports this analysis. For example, reminders of death lead people to initiate interactions with other people (Taubman-Ben-Ari, Findler, & Mikulincer, 2002), heighten feelings of personal competence and reduce fear of rejection (Taubman-Ben-Ari et al., 2002), and increase their desire for intimacy and commitment in romantic relationships (Florian, Mikulincer, & Hirschberger, 2002). Furthermore, death-related primes are among the types of threats that increase the accessibility of attachment constructs (Mikulincer, Gillath, & Shaver, 2002) and having participants imagine either a separation from or argument with a romantic partner increases the accessibility of death-related thoughts and instigates worldview defense (Florian et al., 2002; Mikulincer, Florian, Birnbaum, & Malishkevich, 2002). Building from this research, Hart, Shaver, and Goldenberg (2005) suggested that because close relationships, self-esteem, and cultural worldviews are developmentally intertwined, threats associated with one component of the security system result in compensatory activation of other components. Notably, although there is clear evidence\nfor the role of close relationships in terror management research, all of this research has focused on peer-to-peer relationships. Studies have yet to consider what role, if any, parental attachment plays in such processes.\nThe Present Research\nAlthough Bowlby (1982) focused on the importance of parents as attachment figures in the shaping and functioning of the attachment system during infancy and childhood, he also believed that a child\u2019s early relationship with his or her parents serves as a basis, or prototype, for subsequent relationships throughout the lifespan. Such prototype-like dynamics have been advanced in the attachment literature by findings that, in adulthood, there is some degree of overlap between attachment security in parental and romantic domains (e.g., Collins, 1996; Owens et al., 1995; Sroufe, Egeland, & Kreutzer, 1990; van IJzendoorn, 1996; also see Fraley, 2002, for meta-analysis on attachment stability from infancy to adulthood). This idea has also been advanced in a variety of studies indicating that as people mature, their attachment to and use of parents for emotional security gradually diminishes (e.g., Doherty & Feeney, 2004; Fraley & Davis, 1997; Furman & Buhrmester, 1992; Hazan & Zeifman, 1994; Mayseless, 2004; Trinke & Bartholomew, 1997), and their relationships with romantic and peer partners tend to take on many of the psychological functions formerly served by their relationships with their parents (see, e.g., Allen & Land, 1999; Cassidy & Shaver, 1999; Hazan & Shaver, 1987; Mikulincer & Goodman, 2006; Simpson & Rholes, 1997; Weiss, 1986). Perhaps because of this, little attention has been paid in personality and social psychology to the influence of adult affectional ties to parents on psychological well-being across the lifespan.\nHowever, given that the relationship with one\u2019s parents is the initial attachment bond that creates cognitive models posited to influence all later relationships (Bowlby, 1982; Freud, 1930/ 1939), the question of whether one\u2019s parents continue to provide emotional security and buffer the existential concerns of the mature adult seems an especially important one for the continued integration of TMT and attachment theories. To the extent that parents represent the initial security bond, from a terror management perspective, they may remain helpful into adulthood when people need to allay their existential fears. In other words, if children\u2019s relationship to their parents influences relationships and attachment in later life, and if affectional ties to the parents are an enduring bond across the lifespan, then such attachment may play a pivotal role in how adults manage existential concerns about their mortality. The results of Mikulincer and Shaver (2004) suggest that parents may indeed play such a role. Parents were more frequently nominated as attachment figures than other relationships, and traits associated with parents (like those associated with other relationships) were likely to be internalized as part of the self. Further, Fraley and Davis (1997) found that a majority of their college-aged participants (60%) used their parents as primary attachment figures. However, in contrast to research examining the death-anxiety-buffering function of secondary attachment relationships (e.g., romantic partners, friends; for a review see\nMikulincer et al., 2003, 2004), to our knowledge the following experiments are the first to empirically explore whether people\u2019s primary attachment to their parents also serve a terror management function in response to intimations of mortality.\nIt is important to note that we are not suggesting that parental relationships uniquely serve terror management functions. The research cited in the preceding section is quite clear that close relationships (such as those with romantic partners or friends) are vital buffers against death-related cognition and play an important role in terror management processes. Rather, we suggest that an important question concerns whether for young adults, parents do so as well and therefore should be added to the lexicon of existential interpersonal resources.\nTo provide initial insights into whether parental attachments serve terror management functions, we assessed three basic hypotheses. First, if parental attachment buffers death-related concerns, then rendering salient parental representations should reduce the defensive consequences of death reminders that would otherwise occur. To examine this possibility, we followed the strategy of previous TMT research. That is, previous research has established that self-esteem buffers the consequences of concerns about death by finding that situational boosts to self-esteem as well as opportunities to affirm valued aspects of the self reduce worldview defense and death-thought accessibility after MS (e.g., Arndt & Greenberg 1999; Florian et al., 2002; Harmon-Jones et al., 1997). Building from this literature and seeking to provide an understanding of how parental attachment can impact terror management processes, we examined in our first line of inquiry whether the activation of parental representations would attenuate MS induced deaththought accessibility (Study 1) and worldview defense (Study 2). Study 3 extended the analysis by exploring whether the accessibility of thoughts of a parent would be an important resource people could use to boost their self-esteem in response to mortality concerns.\nFollowing the approach of previous research on the effects of MS on self-esteem and close relationship striving (e.g., Dechesne et al., 2003; Mikulincer & Florian, 2000; TaubmanBen-Ari et al., 2002), we focused in our second line of inquiry on parental attachment as a potential psychological resource to which people may turn when reminded of their death. That is, if parents serve an anxiety-buffering function for their adult offspring, then people should be more positive toward their parents after MS. This basic idea was examined in Study 4, which assessed the effect of MS on participants\u2019 ease or difficulty in recalling positive and negative interactions with their mother. Study 5 explored a further implication of the emerging theoretical synthesis of attachment theory and TMT (e.g., Hart et al., 2005; Mikulincer et al., 2003): that existential threat may affect evaluations of and interactions with others who share important characteristics with one\u2019s parents. Specifically, we utilized Andersen\u2019s (e.g., Andersen & Glassman, 1996) work on transference to examine people\u2019s attitudes and behaviors following thoughts of death toward a person who was described as being similar or dissimilar to a parent.\nThe final study (Study 6) explored the role of individual differences in attachment style in the way existential threats affect evaluations of parents. Specifically, contemporary re-\nsearch on individual differences in attachment refers to two orthogonal dimensions: attachment-related anxiety and avoidance (e.g., Brennan, Clark, & Shaver, 1998). Research has consistently found that securely attached individuals (those scoring low on both dimensions), more than insecure persons, react to threats with an increased tendency to seek out close others for support (e.g., B. C. Feeney & Collins, 2001). This is also the case with regard to reactions elicited by reminders of death. For example, in Mikulincer and Florian (2000), secure persons reacted to MS with a heightened desire for intimacy in their romantic relationships, whereas anxious and avoidants persons did not (also see Taubman-Ben-Ari et al., 2002). Furthermore, making salient a romantic partner mitigated MSinduced worldview defense only for securely attached individuals.\nThe lack of effects among those high in attachment anxiety may reflect the specific focus of prior research on adult attachments. Anxiously attached individuals may be unlikely to rely on adult relationships to cope with existential threat because they lack the ability to maintain secure adult attachments (e.g., Hazan & Shaver, 1987). Further, although parents and peers can accomplish the same anxiety-buffering function in young adulthood for secure individuals (e.g., Doherty & Feeney, 2004; Fraley & Davis, 1997; Hazan & Zeifman, 1994; Trinke & Bartholomew, 1997), more anxious individuals may rely on parents because they have problems transferring attachment functions to extrafamilial figures (e.g., Allen & Land, 1999; Mayseless, 2004). Because no prior adult studies have compared preferences for the solace of different relationships after threat, in Study 6, we included such a comparison to assess the possibility that whereas romantic relationships best serve the terror management needs of securely attached adults, anxious adults will turn to parents when terror management is needed.\nSTUDIES 1\u20133: PARENTAL REPRESENTATIONS AS"
+        },
+        {
+            "heading": "A BUFFER OF MORTALITY SALIENCE EFFECTS",
+            "text": "Study 1\nIf secure images of parental attachment offer protection from death-related concerns, activating positive cognitive representations of one\u2019s mother should attenuate the delayed increase in death-thought accessibility that has been found to follow reminders of death. To examine this possibility, in Study 1 we randomly assigned participants to a 2 (MS: death vs. dental pain) 4 (parent prime: positive parent, negative parent, positive acquaintance, or neutral acquaintance) factorial design, and we measured the accessibility of death-related thoughts with a word stem completion task. If parents fulfill an anxietybuffering role for their adult offspring, then people should complete fewer death-related words following a manipulation that emphasizes positive support from one\u2019s mother. To ascertain whether any activation of parental representations would attenuate post MS death-thought accessibility, we also included a condition in which participants were asked to visualize a critical, negative interaction with a parent. Finally, to assess whether the predicted effects are specific to activating thoughts of one\u2019s mother and not just a positive interaction with another\nperson, we included a condition in which participants were asked to write about a positive interaction with a recent acquaintance.\nMethod"
+        },
+        {
+            "heading": "Participants",
+            "text": "One hundred and forty-three students (92 women and 50 men; 1 person did not report his or her age and gender but was included) from two universities participated in exchange for course credit. Ages ranged from 17 to 54 years (M 21.81, SD 6.71).1"
+        },
+        {
+            "heading": "Materials and Procedure",
+            "text": "Participants completed a packet of materials described as a personality assessment. All questionnaires were identical except for the MS and parent prime manipulations.\nMortality salience. To maintain the cover story, we included in all packets filler questionnaires and then, following previous research (Rosenblatt, Greenberg, Solomon, Pyszczynski, & Lyon, 1989), we randomly assigned participants to answer questions related to either death or another aversive topic. In the MS conditions, the questions were \u201cPlease briefly describe the emotions that the thought of your own death arouse in you\u201d and \u201cJot down, as specifically as you can, what you think will happen to you as you physically die and once you are physically dead.\u201d In the control condition, participants were asked parallel questions about experiencing dental pain. This has been the most commonly used aversive thought control condition, and prior research has shown that it yields results similar to other aversive thought control conditions concerning topics, such as uncertainty, upcoming exams, and social exclusion, and similar to neutral control conditions as well (e.g., Landau et al., 2004a, 2004b; Routledge, Arndt, & Goldenberg, 2004; Schimel et al., 1999).\nDelay\u2013distraction. Evidence suggests that distal MS effects occur when thoughts of death are highly accessible but outside of conscious awareness (Pyszczynski, Greenberg, & Solomon, 1999). Therefore, we asked participants to complete the Positive and Negative Affect Schedule (PANAS; Watson, Clark, & Tellegen, 1988) and a word search task to provide a 3- to 5-min delay. The word search puzzle was a 10 10 matrix of letters with instructions asking people to search and circle 10 neutral words (e.g., book, movie). We used the PANAS in subsequent analyses to determine whether MS influenced people\u2019s mood, although previous research indicates that it typically does not (see, e.g., Greenberg, Solomon, & Pyszczynski, 1997).2\nParent prime. The second independent variable consisted of a visualization task based on Baldwin and Sinclair\u2019s (1996) research. Specifically, participants were asked to imagine either a negative or positive interaction with a parent. In the positive condition participants were told \u201cPlease write about a time where your mother expressed a positive opinion of you. That is, write about a time when your mother was nonevaluative and simply accepted your for who you are.\u201d In the negative condition, participants were instructed to consider a time where their mother held a \u201csomewhat negative opinion\u201d and \u201cwas very evaluative and accepted you only to the extent that you lived up\nto certain standards.\u201d As in Baldwin and Sinclair, participants in a third control condition were asked to write about a recent acquaintance (i.e., \u201csomeone you recently met\u201d). Finally, we included a fourth condition wherein participants were asked to write about a positive interaction with a recent acquaintance. The instructions were identical to the positive parent condition except the word mother was replaced with someone you recently met. In all conditions, students were instructed to visualize being in the presence of this person (i.e., to imagine the person\u2019s eye color, hair color, sound of his or her voice) and to express their thoughts and feelings associated with this person by writing for the length of a page.\nDeath-thought accessibility. We used a word stem completion task to measure the accessibility of death-related thoughts; this served as the dependent variable. This task is similar to those used in other research (e.g., Bassili & Smith, 1986; Gilbert & Hixon, 1991; Steele & Aronson, 1995; Tulving, Schacter, & Stark, 1982) and presents participants with 25 word fragments, 5 of which could be completed with a neutral or death-related word. This measure has been used successfully in a many terror management studies (e.g., Greenberg, Pyszczynski, Solomon, Simon, & Breus, 1994; Mikulincer & Florian, 2000). Examples of the neutral words include TAB _ _ (table), _ _ OK (book), and WAT _ _ (water). The death completions were DE _ _ (dead or deed), GRA _ _ (grave or grape), SK _ _ L (skull or skill), COFF _ _ (coffin or coffee), and KI _ _ ED (killed or kissed). Death accessibility scores were the total number of death-related word completions."
+        },
+        {
+            "heading": "Results and Discussion",
+            "text": ""
+        },
+        {
+            "heading": "Death-Thought Accessibility",
+            "text": "The hypothesis that priming a positive interaction with one\u2019s mother would attenuate death-thought accessibility after reminders of death was tested with a 2 (MS: death vs. dental pain) 4 (parent prime: positive parent, negative parent, positive acquaintance, or neutral acquaintance) between-subjects analysis of variance (ANOVA) on death-thought accessibility scores. The results revealed main effects for MS, F(1, 135) 18.09, p .001, d .99 (with greater accessibility in the MS condition), and parent prime conditions, F(3, 135) 3.14, p .03, d .72 (with less accessibility in the positive parent condition). These effects were qualified by the predicted two-way interaction, F(3, 135) 2.79, p .04, d .66 (see Figure 1).\nReplicating previous research, in the neutral acquaintance conditions, MS led to higher death-thought accessibility than the salience of dental pain, F(1, 135) 9.69, p .002, d .89.\n1 All studies began with an informed consent process and concluded with a demographic page requesting participants\u2019 age and gender (no gender or age effects were found, Fs 1), as well as a detailed debriefing.\n2 In all six experiments, we conducted a one-way ANOVA on the two subscales of the PANAS to examine whether the MS manipulation had an effect on people\u2019s mood, which would affect the dependent variables. Consistent with previous research, the results revealed no significant difference between death and the control conditions on the two subscales (Fs 1, ps .29).\nCritically, as expected, there was no significant difference between MS and dental pain conditions after participants were primed with an accepting, positive mother (F 1). A third comparison was conducted to determine whether priming a critical, negative mother would similarly attenuate the activation of death-related thought (reflecting perhaps a global buffering effect of the attachment system) or whether only positive memories of one\u2019s mother produce this effect. Consistent with the latter hypothesis, the results revealed that after being primed with a critical, negative mother, people in the MS condition completed more death-related words compared to the dental pain condition, F(1, 135) 11.23, p .001, d .92. A fourth comparison found that within the positive acquaintance condition, participants reported greater death-thought accessibility when primed with death (vs. dental pain), F(1, 135) 6.41, p .01, d .52.\nWe also assessed the effect of parent primes within MS conditions. There was a significant difference among cells in the death, F(3, 135) 5.78, p .001, d .87, but not dental pain conditions (F 1). Within the MS condition, activating a positive, accepting interaction with one\u2019s mother led to lower death-thought accessibility than a critical, negative interaction with one\u2019s mother, and either a positive or neutral interaction with a recent acquaintance (Fs 2.97, ps .03, ds .71). No significant differences emerged between the negative parent and acquaintance conditions or between the two acquaintance conditions (Fs 1).\nStudy 1 offers initial support for the hypothesis that positive cognitive representations of one\u2019s parents provide a buffer against the increased accessibility of death-related thoughts produced by reminders of one\u2019s mortality. When reminded of death, participants who were asked to think about a critical, negative interaction with their mother; a positive, accepting interaction with a recent acquaintance; or a neutral relationship with a recent acquaintance evidenced greater death-thought accessibility compared to those in other conditions. Importantly, however, recalling an accepting, positive interaction with their mother reduced participants\u2019 death-thought accessi-\nbility. Taken together, these results provide some insight into how parents play a critical role in defending against existential concerns. Further, the current study clearly demonstrates that any positive relationship (i.e., an acquaintance) will not reproduce the mitigation of death-thought accessibility, suggesting that the current results are not due to feelings of acceptance or positive thoughts in general.\nThere are, however, a few issues with this study. One limitation involves the parent prime manipulation that was used. Specifically, Baldwin and Sinclair (1996) designed the visualization task to determine whether priming interpersonal acceptance or rejection is an important factor in the social construction of self-esteem. Variants of this manipulation have subsequently been used to explore the consequences of different (intrinsic or extrinsic) contingencies of self-worth on general defensiveness (e.g., Arndt, Schimel, Greenberg, & Pyszczynski, 2002). This suggests that it is important to consider whether we were manipulating aspects of self-esteem rather than the salience of parental approval. But from a TMT perspective, positive feedback from the parent is an initial impetus for the development and desire for self-esteem (e.g., Solomon, Greenberg, & Pyszczynski, 1991). Because evaluations from one\u2019s parents are conceptually linked to self-esteem, teasing these variables apart would be exceedingly difficult. Therefore, in Studies 2 and 3, we adopted a different strategy for assessing the anxiety-buffering role of parents. First, instead of using a positively or negatively toned visualization task, participants were simply asked to write about a relationship with a parent. Second, unlike the previous experiments, participants were allowed to select which parent they chose to write about, allowing the opportunity to generalize results beyond the mother\u2013 child affectional bond.\nAnother issue is that Study 1 did not compare the buffering effects of parental relationships to other attachment relationships. The present analysis posits that, like other close relationships (Mikulincer et al., 2003), parents continue to provide a terror management resource for their young adult children. However, we have yet to determine whether priming parental and other close attachment figures engenders similar effects within the same study.\nStudy 2\nSimilar to Study 1, participants were randomly assigned to write about their thoughts and feelings associated with death or, in this case, the control topic of losing a limb, to provide another elicitation of a generally aversive cognition. In addition, as in the previous experiment, participants were randomly assigned to complete a visualization task in which they were asked to recall an interaction with a parent, an interaction with a close friend, or a neutral interaction with a recent acquaintance. The dependent measure asked people to evaluate a series of cultural transgressions, an approach that has been widely used in previous terror management research to assess worldview defense (e.g., Florian & Mikulincer, 1997). Consistent with previous research (see, e.g., Greenberg et al., 1997), we predicted that MS, relative to an aversive control, would lead people to respond more negatively to cultural transgressions in the absence of a parent and close friend prime. In contrast, to the extent that parents and close friends fulfill\na terror management function, we hypothesized that making salient such relationships would eliminate these effects. Of course, a critical contingency of this hypothesis is that the parent and close friend do indeed function as an important attachment relationship for the individual. To provide a check on this assumption, we had participants complete a variant of the WHOTO scale; a measure that has been previously used to establish the attachment status of a relationship (e.g., Fraley & Davis, 1997; Hazan & Zeifman, 1994).\nMethod"
+        },
+        {
+            "heading": "Participants",
+            "text": "Participants were 40 women and 20 men from the University of Missouri\u2014Columbia who volunteered to participate in exchange for credits toward a psychology course. Ages ranged from 18 to 21 years (M 18.87, SD 0.89)."
+        },
+        {
+            "heading": "Materials and Procedure",
+            "text": "Participants completed a packet of materials in a laboratory setting. All packets were identical in content except for the MS and relationship manipulations.\nMS. Following a series of personality fillers, participants answered the same open-ended questions about death described in Study 1. In the control condition, participants were asked parallel questions about losing a limb, thus providing a different aversive control group. Because, as noted above, MS effects occur when death thoughts are highly accessible but outside current conscious awareness, we had participants complete the PANAS and a word search to provide a delay.\nRelationship manipulation. We used a modified version of the visualization task described in Study 1. First, instead of using a positively versus negatively toned visualization task, we randomly assigned participants to write about a particular relationship partner. Second, participants were allowed to select which parent they chose to write about, allowing the opportunity to generalize beyond the mother\u2013 child affectional bond. Specifically, in the parent condition, participants were told to \u201cwrite about your parent or parent-like figure\u201d; in the friend condition, participants were told to \u201cwrite about your closest or best friend\u201d; whereas in the neutral condition, participants were told to \u201cwrite about someone you met recently.\u201d With these exceptions, the instructions were otherwise identical to those used in Study 1.\nWorldview defense. The dependent measure was a modified version of Florian and Mikulincer\u2019s (1997) Multidimensional Social Transgressions Scale consisting of four vignettes assessing reactions to both moral transgressions (i.e., an organizer running off with students\u2019 tuition money, a burglar destroying an artist\u2019s life masterpiece; also see Florian & Mikulincer, 1997) and participants\u2019 worldviews (i.e., an immigrant farm laborer criticizing the United States, students burning the American flag in protest; see also Cox, Goldenberg, Arndt, & Pyszczynski, 2007). For each scenario, participants were asked to indicate, \u201cHow severe was this wrongdoing?\u201d and \u201cHow heavily should this person be punished?\u201d All responses were made on a 7-point scale ranging from 1 (not at\nall) to 7 (very). To assess attitudes toward worldview threatening others, we averaged questions for the four transgression scenarios together to make a worldview defense score ( .74).\nWHOTO scale. To confirm whether parents and close friends serve as attachment figures, we had participants complete a modified version of the WHOTO scale (Fraley & Davis, 1997; Hazan & Zeifman, 1994; also see J. A. Feeney & Hohaus, 2001, for similar procedures). Specifically, participants were instructed to recall the person they were asked to write about earlier and answer a series of eight questions. Three questions tapped into the proximity-related function (e.g., \u201cI like to spend time with my parent\u201d), three items tapped into the safe-haven function (e.g., \u201cI turn to my parent for comfort and support when I am upset\u201d), and two items tapped into the secure base function (e.g., \u201cI can always count on my relationship with my parent\u201d). Instructions and questions substituted closest or best friend and someone you met recently for parent, depending on condition. For each statement, participants were asked to rate how much they agreed or disagreed on a 9-point scale ranging from 1 (not at all) to 9 (totally). Following previous research (e.g., Doherty & Feeney, 2004; Fraley & Davis, 1997; Hazan & Zeifman, 1994; Markiewicz, Lawford, Doyle, & Haggart, 2006), we calculated WHOTO scores by taking the mean response for the three separate subscales ( s .90)."
+        },
+        {
+            "heading": "Results and Discussion",
+            "text": ""
+        },
+        {
+            "heading": "WHOTO",
+            "text": "We performed a 2 (MS: death vs. losing a limb) 3 (relationship: parent vs. friend vs. neutral) between-subjects ANOVA on the three subscales of the WHOTO. Across all analyses, the results showed a significant effect for relationship, Fs(2, 54) 8.85, ps .001, ds 1.00, but no significant effect of MS or interaction between relationship and MS (Fs 1.87, ps 16). Pairwise comparisons revealed that both a parent and friend were rated more highly as serving an attachment function (i.e., proximity seeking, safe haven, and secure base) than a neutral acquaintance (Fs 3.75, ps .05, ds 1.00). Further, there was no significant difference between parent and friend scores on secure base and safe haven functioning (Fs 2.84, ps 10); however, a friend (M 8.48, SD 0.73) was rated more highly than a parent (M 7.45, SD 1.75) on proximity seeking, F(1, 36) 5.68, p .02, d .64. These results are consistent with Hazan and Zeifman (1994), who found that components of attachment are transferred from parents to peers in a particular order with proximity seeking first. They are also in line with other work (e.g., Doherty & Feeney, 2004; Markiewicz et al., 2006) showing that although peers may be sought out more on a regular basis for attachment functions in late adolescence, parents continue to provide an important basis of security (safe haven and secure base) for their adult offspring."
+        },
+        {
+            "heading": "Worldview Defense",
+            "text": "Preliminary analyses revealed that which parent participants wrote about did not affect the results, so this variable is not\nmentioned further.3 A 2 (MS: death vs. losing a limb) 3 (relationship: parent vs. friend vs. neutral) between-subjects ANOVA was performed on the mean transgression score. The results revealed a significant two-way interaction, F(2, 54) 4.15, p .02, d .71, but no main effects (Fs 1; see Figure 2).4 To explicate this interaction, we conducted tests for simple effects of MS within each relationship condition. As predicted and replicating many prior studies, MS (relative to losing a limb) increased defensive reactions to moral transgressors in the neutral acquaintance condition, F(1, 54) 6.46, p .01, d .60. In contrast, priming an interaction with a parent and a friend eliminated this effect (Fs 1). We also performed simple effects analyses within each level of the MS manipulation. After MS, participants primed with an acquaintance evidenced more negative responses to the transgressions than participants primed with either a parent or friend (both Fs 6.85, ps .02, d .70), but there was no significant difference between the parent and friend conditions (F 1). Within the control condition (losing a limb), there was no significant difference between relationships (Fs 1).\nThe results of Study 2 provide additional support for the hypothesis that parents serve an anxiety-buffering function for their adult offspring. First, as expected, in the neutral relationship condition, MS led participants to favor a more punitive stance toward moral transgressions, a finding in line with previous research (e.g., Cox et al., 2007; Florian & Mikulincer, 1997) examining worldview defense with such scenarios. Furthermore, as expected, asking people to visualize an interaction with a parent and a close friend eliminated this effect.\nOverall, these findings are important for three reasons. First, whereas Study 1 examined death-thought accessibility, this study extends the parental buffering effect to another well-documented consequence of MS (i.e., worldview defense). Second, whereas Study 1 only compared a parental prime to a recent acquaintance, here we were able to see that parents function similarly to other close relationships (e.g., a best friend). Third, although the first\nstudy shows that a parent might help people deal with distress, it is not clear whether these effects have anything to do with attachment mechanisms per se. Study 2 informed this issue and found that both parents and close friends received higher scores on the WHOTO scale, demonstrating that both relationships more strongly fulfill attachment needs for our participants. However, further evidence that parents are a part of their adult offspring\u2019s attachment matrix would be provided by showing similar effects when parents are primed as when another close relationship, such as that with a romantic partner, is primed. Study 3 was designed in part to test this possibility.\nStudy 3\nPrevious research has shown that reminders of death increase various forms of self-esteem striving (see Pyszczynski, Greenberg, Solomon, Arndt, & Schimel, 2004, for a review). Interestingly, research investigating possible direct effects of MS on self-esteem scores have yielded null or inconsistent results (e.g., Koole, Dechesne, & van Knippenberg, 2001; Sowards, Moniz, & Harris, 1991). Pyszczynski et al. (2004) argued that this is because people are not free to believe anything they like, and must, to a certain extent, base their self-evaluations on some semblance of reality (i.e., they must maintain an illusion of objectivity about the manner in which their self-evaluations are derived; Pyszczynski & Greenberg, 1987). This implies that when the need for self-esteem is increased by reminders of death, people will work especially hard to demonstrate their worth to both themselves and others, and will recruit whatever resources they have available to support positive feelings about themselves. To the extent that close interpersonal attachments are important sources of self-worth (Bartholomew & Horowitz, 1991; Brennan & Bosson, 1998; Brennan & Morris, 1997; Crocker, Luhtanen, Cooper, & Bouvrette, 2003; Griffin & Bartholomew, 1994a; Mikulincer, 1995; Murray, Griffin, Rose, &\n3 In both Studies 2 and 3, we checked to see if which parent participants chose to write about played a role in the effects of interest. In Study 2, 65% of participants chose to write about their mother, 30% of participants chose to write about their father, and 5% of participants chose to write about both, and WHOTO scores were not related to which parent was written about (F 1). In Study 3, 45% of the participants chose to write about their mother, 50% of participants chose to write about their father, and 5% of participants chose to write about both. In both studies, there was no effect of MS on which parent participants wrote about ( ps .41), and which parent was written about did not influence responses on the dependent measures (Fs 1).\n4 We conducted a series of analyses to determine whether individual differences on the WHOTO could explain the effects of the relationship prime on the evaluation of moral transgressions. Separate 2 (MS: death vs. losing a limb) x 3 (relationship: parent vs. friend vs. neutral) analyses of covariances (with WHOTO subscale scores entered as covariates in separate analyses) revealed no main effects of the WHOTO (Fs 1.88, ps .18). Further, including the separate subscales in the model did not affect the significant two-way interaction between MS and relationship primes on transgression scores (Fs 4.06, ps .02). Further, to determine whether more attached individuals reported less worldview defense after MS and the relationship primes, we examined within-cell correlations between the WHOTO and moral transgression scores. These analyses were nonsignificant (rs .45, ps .19).\nBellavia, 2003; Park, Crocker, & Mickelson, 2004), we would expect that the recent priming of caring attachment figures would make it easier to feel good about oneself when faced with existential threats.\nStudy 3 tested this hypothesis by reminding participants of either death or an aversive control topic, priming thoughts of relationship figures or neutral others, and then assessing selfesteem. We measured self-esteem at the implicit level by using a pen-and-paper implicit association task (IAT; Greenwald, McGhee, & Schwartz, 1998).5 To continue our exploration of possible similarities and differences between parental attachment and other types of attachment relationships, we primed thoughts of either a parent, a romantic partner (the most commonly studied type of adult attachment figure), and a neutral other. To the extent that close relationships serve as a buffer against existential anxieties, activating parental and romantic relationships following reminders of death should lead people to feel secure and, thus, exhibit higher implicit feelings of self-worth.\nMethod"
+        },
+        {
+            "heading": "Participants",
+            "text": "Forty-nine women and 29 men recruited from introductory psychology classes at the University of Missouri\u2014Columbia participated in exchange for course credit. Ages ranged from 18 to 22 years (M 18.84, SD 0.91)."
+        },
+        {
+            "heading": "Materials and Procedure",
+            "text": "Participants completed questionnaire packets in a classroom setting and were given course credit for participation. At two times during the course of the study, participants were instructed to stop working by a \u201cstop\u201d page in the questionnaire packets to complete an IAT.\nPractice IAT. Greenwald et al. (1998) developed the IAT to measure automatic concept\u2013attribute associations. An assumption of the test is that strongly associated (compatible) attribute concept pairs (e.g., the concepts flower and pleasant) should be easier to classify together than weakly associated or opposed (incompatible) attribute concept pairs (flower and unpleasant). Strength of association is calculated by comparing one pairing (flower, pleasant) to another type of pairing (flower, unpleasant; Greenwald et al., 1998).\nIn the present study, IAT procedures were modeled closely after those used by Nosek and Lane (1999; also see Teachman, Gapinski, Brownell, Rawlins, & Jeyaram, 2003, for similar procedures with a pencil and paper version).6 Practice trials were included to teach participants the IAT procedure. The task was explained as an attitudes questionnaire, and participants were told they would be categorizing words on the basis of category labels presented at the top of each page. Participants were informed that this was a timed task and instructed to work as quickly as possible while making as few errors as possible. They were also instructed to place their pen or pencil in a box at the top of the page and wait for the experimenter\u2019s signal to begin. Participants were presented with the category labels and words for the task and were asked to briefly study the words they would be classifying. Finally, they were told\nto attend to the category labels presented at the top of each page because the categories changed from page to page.\nOnce participants read the instructions and were ready to begin the IAT, the experimenter told them to turn to the next page. Half of the participants were presented with insect or bad (flower or good) first, and the other half were presented with insect or good (flower or bad) first. Participants were given 20 s to classify 40 words. When the experimenter said \u201cstop,\u201d participants were instructed to turn the page and place their pen or pencil in a box at the top of the next page and wait for the signal to begin classifying the words on that page. On this next page, participants classified words with the opposing category labels (again 20 s to classify 40 words). We counterbalanced the two tasks to eliminate order effects. Following the first IAT, participants were told to work through the remainder of the packet at their own pace. An example of the pen-and-paper-based version of the IAT can be obtained at www.briannosek.com.\nMS. Following a series of personality fillers, participants were randomly assigned to write about death or experiencing personal failure. We adopted failure to control for the threat of self-relevant aversive cognition, and it has been used in a number of prior terror management studies (e.g., Arndt, Greenberg, & Cook, 2002). Following the MS manipulation, we had everyone complete the PANAS Mood scale (Watson et al., 1988) and a word search puzzle to provide a delay before assessment of the primary dependent measure.\nRelationship prime. Participants were asked to complete a visualization identical to the one described in Study 2. However, rather than having people imagine a relationship with a close friend, we randomly assigned participants to write about a romantic partner, a parent, or, in the control condition, a recent acquaintance. In the romantic partner condition, participants were instructed to write about their \u201ccurrent or most recent romantic partner.\u201d\nImplicit self-esteem. The dependent measure consisted of a pen-and-paper IAT designed to measure implicit self-esteem (see\n5 Although much of the research on attachment and self-esteem has relied on explicit self-report measures (e.g., Bartholomew & Horowitz, 1991; Collins & Read, 1990; J. A. Feeney & Noller, 1990; Mickelson, Kessler, & Shaver, 1997), we decided to use an IAT in the current study for a couple of reasons. First, as already noted, previous TMT research on the effects of MS on (explicit) self-esteem has produced mixed results (e.g., Koole et al., 2001; Sowards et al., 1991). Since the current study was looking at the intersection between attachment, terror management, and self-esteem concerns, we decided to use the IAT procedure. Second, in light of previous work that has found that explicit self-esteem is a poor predictor of people\u2019s quality of relationship with their parents (see, e.g., Farnham, Greenwald, & Banaji, 1999, for a review), the IAT was useful in the present study to determine whether adult children\u2019s self-esteem is related to parental attachment.\n6 Since the study was conducted in a classroom setting (i.e., 10\u201315 students/session), we chose the pencil-and-paper-based version of the IAT because it could be administered to large groups of people at one time setting. Previous research on the similarities and differences between paper-and-pencil and computerized IAT tasks have found that the two measures are highly correlated with one another (r .91; Nosek & Lane, 1999).\nGreenwald & Farnham, 2000, for similar implicit self-esteem procedures). Following procedures outlined above, participants were given two categorization tasks in which they were given 20 s to classify 40 words that were presented on a list on a single page with categorization instructions printed on both the left and right side of the column of critical words. For one of these categorization tasks, the left column asked participants whether the words were related to either self (myself, me, my, self, mine) or good (wonderful, smile, happy, joy, pleasure), and the right column asked participants whether the words were related to either other (other, they, their, them, theirs) or bad ( pain, grief, agony, sickness, terrible). For the second task, the combination was reversed so that participants were to categorize words as either self-related or bad on the left side of the page while also categorizing these same words as either other-related or good on the right side of the page. We counterbalanced the two tasks to eliminate any order effects. As with the practice IAT, participants were asked to work as quickly and accurately as possible, and they were told to try to avoid making mistakes (e.g., misclassifying a word) but to continue without stopping if this was to occur.\nFollowing procedures outlined by Nosek and Lane (1999) and Teachman et al. (2003), we checked data to make sure that participants completed a minimum of five correctly identified items for each IAT page as evidence that they understood and attended to the task. Additionally, IAT pages were inspected for high error rates (i.e., 35% incorrectly classified items). Data for 2 women were excluded because of excessive errors, thereby bringing the total sample size down to 76 individuals. We calculated scores by counting the number of correctly classified words for each task (dropping all errors).7 Thus, the variable of interest was the difference in the number of correctly classified items under the two category pairings (i.e., the compatible block [self good] minus the incompatible block [self bad]). Therefore, a higher score indicates higher feelings of self-esteem."
+        },
+        {
+            "heading": "Results and Discussion",
+            "text": "To examine whether reminders of mortality interact with parent and romantic partner primes to affect self-esteem, we performed a 2 (MS: death vs. failure) 3 (relationship: parent vs. romantic partner vs. neutral) between-subjects ANOVA on the IAT selfesteem scores.8 The results revealed a marginal effect for MS, F(1, 70) 3.64, p .06, d .47, with participants in the death condition (M 7.63, SD 4.92) manifesting higher selfesteem than participants in the failure control condition (M 5.50, SD 5.08). The results also showed the predicted MS Relationship Prime interaction, F(2, 70) 3.64, p .03, d .65 (see Figure 3).\nTests for simple main effects revealed that whereas there was no effect of MS in the neutral acquaintance prime condition, F(1, 10) 1.21, p .28, both parent and romantic partner prime participants evidenced higher implicit self-esteem after MS than failure salience, both Fs(1, 70) 4.23, ps .04, ds .42. Looked at differently, within the MS conditions, there was a significant effect for priming condition, F(2, 70) 4.35, p .02, d .74. Specific comparisons indicated that after being reminded of death, both parent and romantic partner primes, which did not differ from each other (F 1), led to higher self-esteem than the acquaintance\nprime, both Fs 7.61, ps .01, ds .76. There was no significant difference among the three relationships within the failure condition (Fs 1).\nAs would be expected if attachment figures are important sources of self-esteem that are used to buttress self-worth when the need for protection from existential concerns is heightened, participants who were reminded of death and primed with thoughts of either their parents or romantic partners showed elevated levels of implicit self-esteem. In the absence of priming to increase the accessibility of these persons as sources of self-esteem, MS had no effect on implicit self-esteem. This is consistent with previous findings that self-esteem is not increased after MS without a basis for feeling better about oneself. Similarly, in the absence of MS, priming thoughts of attachment figures did not influence selfesteem. This suggests that the findings of Study 3 reflect a combination of increased need for self-esteem produced by the reminder of death coupled with increased resources for self-esteem provided by the accessibility of thoughts of an attachment figure.\nAs with Study 2\u2019s finding regarding the role of thoughts of close friends in deflecting the impact of MS on worldview defense, the effects of priming thoughts of one\u2019s parents were equivalent to that of priming thoughts of another close relationship figure, in this case, a romantic partner. This implies, as most attachment theorists\n7 Following Nosek and Lane (1999) and Teachman et al. (2003), incorrectly identified items were not included in the difference score because errors indicate misunderstanding of the instructions or an effort to increase speed at the cost of accuracy, which would distort the actual implicit bias.\n8 In Studies 3 and 6, we examined whether the pattern of results varied depending on whether participants were currently involved in a romantic relationship. In Study 3, 40% of the participants indicated that they were in a romantic relationship (ranging from 1 to 84 months, M 14.91, SD 15.72); whereas in Study 6, 42% of the participants reported being in a current romantic relationship (ranging from 1 to 48 months, M 13.22, SD 11.73). Across both studies, that there were no significant effects of relationship status or interaction with relationship status on any of our analyses ( ps .19).\nhave suggested (e.g., Ainsworth, 1989, 1991; Bowlby, 1982; Shaver & Mikulincer, 2004), that a variety of different types of relationships, including parents, close friends, and romantic partners, function in similar ways to provide protection against existential fear. Most people probably use a variety of others for this purpose. This is not to imply, however, that these relationships are necessarily interchangeable or that all people use all of these types of relationships for terror management purposes. The question of who uses particular types of relationships for existential protection is an important one that is taken up in Study 6.\nSTUDIES 4\u20135: PARENTS AS TERROR"
+        },
+        {
+            "heading": "MANAGEMENT RESOURCES AND THEIR EFFECTS",
+            "text": "ON INTERPERSONAL JUDGMENTS\nFollowing the approach of previous terror management research on the functions of self-esteem and close relationships, in our second set of studies we focused on the impact of MS on people\u2019s striving to use their cognitive representations of their parents for this purpose. Study 4 assessed the effect of MS on participants\u2019 momentary recollections of their mothers, and Study 5 assessed the effect of MS on people\u2019s evaluation of a novel other who was described as being similar or dissimilar to a parent.\nStudy 4\nJust as using self-esteem for effective anxiety-buffering requires that people recruit resources that make them feel good about themselves (as demonstrated in Study 3), we suspect that using cognitive representations of parents for these purposes requires that these representations remain positive. From a TMT perspective, the more favorable the cognitions about a source of security, the more effective that source becomes as a buffer against existential fear. This need for positive parental representations should be especially great when one\u2019s need for existential protection is elevated. Study 4 examined this possibility.\nInstead of using the parental visualization exercise as an independent variable as in Studies 1\u20133, here we used a variant of it as a dependent variable. After an MS manipulation, participants were asked to recall a positive, accepting interaction with their mother and a critical, negative interaction with her. Thus, we hypothesized that MS would bias people toward positive representations of their parents, making it easier to recall positive interactions with them and more difficult to recall negative interactions with them.\nMethod"
+        },
+        {
+            "heading": "Participants",
+            "text": "Participants were 24 women and 30 men from introductory psychology classes at the University of Missouri\u2014Columbia who participated in exchange for course credit. Ages ranged from 18 to 23 years (M 20.03, SD 4.35)."
+        },
+        {
+            "heading": "Materials and Procedure",
+            "text": "Participants completed a packet of materials described as a personality assessment. All questionnaires were identical except for the MS manipulation.\nMortality salience. Participants completed the same MS (or dental pain) and delay materials described in Study 1.\nParent evaluation measure. The dependent measure consisted of two visualization tasks (counterbalanced for order) based on Baldwin and Sinclair (1996) and those used in Studies 1\u20133. A positive scenario asked participants to consider a time when \u201cyour mother expressed a positive opinion\u201d and \u201cwas nonevaluative and accepted you for who you are.\u201d A negative scenario asked participants to think about a time when \u201cyour mother held a somewhat negative opinion of you\u201d and \u201cwas very evaluative and accepted you to the extent that you lived up to certain standards.\u201d Unlike the previous studies in which participants were asked to write a short passage, following each scenario, participants rated the clarity of each visualization (\u201cHow easy was it to bring this event to mind?\u201d and \u201cHow clearly were you able to visualize this event?\u201d) by placing an X on a doted line ranging from not at all to very. The response range, measured in cm, was from 0 to 16 (see Schimel, Pyszczynski, Greenberg, O\u2019Mahen, & Arndt, 2000, for similar procedures). The dependent measure of ease of recall was composed of the mean of these items for the positive ( .80) and negative ( .88) scenarios."
+        },
+        {
+            "heading": "Results and Discussion",
+            "text": "A 2 (MS: death vs. dental pain) 2 (evaluation: positive vs. negative) mixed-design ANOVA, with the second factor treated within subjects, was performed on the ease of recall scores. The results revealed a significant main effect for evaluation, F(1, 52) 46.00, p .001, d 1.00, with participants having an easier time recalling a positive interaction with their mother (M 11.97, SD 3.47) than a negative one (M 6.77, SD 4.23). The MS main effect was not significant (F 1). The results also revealed the predicted interaction between MS and evaluation condition, F(1, 52) 8.53, p .005, d .82 (see Figure 4).9 Simple main effects analyses within the evaluation conditions revealed a significant difference between death and dental pain conditions for both positive, F(1, 52) 6.10, p .02, d .68, and negative, F(1, 52) 4.30, p .04, d .53, scores. After being reminded of their mortality, people had an easier time recalling a positive interaction with their mother and a more difficult time recalling a negative interaction with their mother compared to the dental pain condition. Looked at differently, there were significant effects of evaluation condition within the salience conditions: death, F(1, 52) 45.39, p .001, d 1.00; dental pain, F(1, 52) 7.75, p .001, d .78. In both cases, participants had an easier time recalling a positive interaction with their mother compared to a negative one, though as shown by the aforementioned comparisons, this effect was stronger in the MS condition. These effects were not moderated by order of the tasks (Fs 1).\nUtilizing the parent primes from the previous experiments, we intended in the present study to examine how reminders of mortality affect the repository of parental images that people can more easily bring to mind. The present results demonstrate that when intimations of one\u2019s inevitable death are rendered salient, this leads\n9 The presentation order of the visualization tasks did not affect the results (Fs 2.73, ps .11).\nto a cognitive orientation that disposes people to more easily recall positive accepting images of their mother. Such findings, in turn, provide further insight into the effects documented in the initial three studies and also suggest further avenues of empirical inquiry. That participants were more in tune with these positive motherly images after MS explains in part why the buffering effects were observed in Studies 1\u20133; that is, such parental images apparently reflect a desired source of solace for dealing with concerns about mortality. Moving forward, these findings also suggest that reminders of death may affect evaluations of and interactions with others who share important characteristics with one\u2019s parents. Study 5 was designed to provide more direct insight into this possibility.\nStudy 5\nThe idea that ideation about early relationships with one\u2019s parents may resurface in later relationships with others is common to a wide variety of psychological theories (e.g., attachment theory, Bowlby, 1982; objects relations theory, Winnicott, 1960; social learning theory, Bandura, 1977; Sullivan, 1953; attraction\u2013 similarity; Byrne, 1971). Of interest, the concept of transference, as originally proposed by Freud (1912/1958), refers to the phenomenon whereby aspects of past relationships with significant individuals resurface in and influence current interpersonal relations. More recently, Andersen and colleagues (e.g., Andersen & Baum 1994; Chen & Andersen, 1999) have applied these ideas to interpersonal relationships and have developed methods for studying transference in the laboratory. According to Chen and Andersen (1999), when something about a new person reminds the perceiver of a significant other, the stored representations of the significant individual are readily accessible, either consciously or unconsciously and, in turn, are applied to the new person, thereby influencing the perceiver\u2019s interpretations of and responses toward the new person.\nIn his analysis of what he referred to as \u201cthe spell cast by persons,\u201d Becker (1973) built on Freud\u2019s concept of transference and argued that other transference relationships play an important role in providing psychological protection against the awareness of death. He proposed that part of the reason people idealize meaningful others, including loved ones, leaders, and cult figures, is that they seek to use the power of others to protect them from existential fear. This implies that transference may be especially likely to occur when the problem of death is salient.\nBuilding on the work of Andersen and her colleagues (e.g., Andersen & Baum 1994; Chen & Andersen, 1999), in the present study we examined reactions to a potential interaction partner as a function of MS and positive characteristics shared with a significant other, specifically, one\u2019s opposite-gender parent. After being reminded of death (or not), participants were provided with a personality profile from an unknown partner with positive characteristics similar to either their own opposite-gender parent or someone else\u2019s parent. Our primary reason for choosing the opposite-gender parent was simply to hold that variable constant. However, we also thought that this would be a good choice because it has sometimes been suggested that people tend to be attracted to members of the opposite sex with characteristics similar to their opposite-gender parent (Freud, 1927; Geher, 2000; Little, Penton-Voak, Burt, & Perrett, 2003; Little & Perrett, 2002). We chose to examine the effect of shared positive characteristics because both attachment theory and the present Studies 1 and 4 show that it is positive parental representations that provide security and a buffer against death-related fear. Two primary dependent measures were assessed. First, we examined the participants\u2019 attitudinal evaluation of their potential partner. Second, we obtained a behavioral measure of physical proximity seeking by using a variant of the seating paradigm developed by Macrae and colleagues (Macrae, Bodenhausen, Milne, & Jetten, 1994). To the extent transference is especially likely to influence evaluations of others when existential threat is elevated, we hypothesized that MS would lead people to evaluate a target person who resembled their parent more positively and to sit closer to that person in an anticipated interaction task.\nMethod"
+        },
+        {
+            "heading": "Participants",
+            "text": "Seventy-five participants (49 women and 26 men) from the University of Missouri\u2014Columbia participated in exchange for course credit for their introductory psychology classes. Ages ranged from 18 to 22 years (M 18.70, SD 0.89)."
+        },
+        {
+            "heading": "Materials and Procedure",
+            "text": "The experiment took place over two different time periods. Participants signed up for each study separately, and the studies were conducted at different locations on campus. The content and order of the materials for each session are described below.\nSession 1: Generating significant-other characteristics. Participants completed a questionnaire packet described as a personality and relationship assessment in a classroom setting. To obtain the characteristics for the second phase of the experiment, we\nasked participants to provide information about their mothers and fathers. The actual purpose of this exercise was of course not revealed at the initial session. Following Andersen and Baum (1994), we told participants,\nTake a moment to think about your mother. Consider characteristics that you feel uniquely describe your mother and distinguish her from other people (i.e., think about what stands out about your mother in your mind). Next, we want you to generate seven sentences that describe your mother.\nParticipants were also asked to think about and generate a parallel set of sentences about their father. After listing these characteristics, they were asked to rank order each list in terms of their importance for distinguishing each parent from other people. The rank-ordered items were used to construct target descriptions for the partner evaluation task described in Session 2 (following Andersen & Baum, 1994, we selected items ranked 4\u20137 for the task). In addition to general trait characteristics, participants provided demographic information about both parents including age, date of birth, and general hobbies\u2013interests; in addition, as in Andersen and Baum (1994), they were asked to evaluate 42 experimenter provided adjectives for each parent in order to get a reasonable number of irrelevant characteristics for the person perception task described in Session 2. At the end of the session, participants were asked to provide demographic information about themselves, including their age and gender.\nSession 2: Person perception. The actual experiment was conducted in a person perception study that was held at least 2 weeks after the initial session by a different experimenter. This phase of the experiment was conducted in individual sessions in a laboratory setting. These precautions (i.e., different experimenter, individual testing in a lab setting) were included to reduce the connection between the two sessions. Participants were told that the second study was interested in how people form first impressions about one another. The experimenter (who was blind to conditions) explained that the study involved filling out a couple of questionnaires and doing a task with a partner in another room (i.e., briefly talking with another student about a topic chosen at random, e.g., being in college). Participants were randomly assigned to complete one of two different questionnaire packets. The only difference between the packets was the MS manipulation.\nPersonality profile. Participants were asked to complete a personality profile as part of the cover story for the experiment, and participants were told that they would be exchanging this information with their partner prior to the interaction task. The personality profile asked participants to answer a series of questions, including their birthday, major, interests\u2013hobbies, and a few words to describe themselves.\nMortality salience. Participants completed the same MS\u2013 dental pain and delay materials described in the previous studies.\nPartner evaluation. Participants were given a personality profile describing their fictitious partner in the next room. Half of the participants received a profile that resembled their own parent (women received a profile with characteristics that resembled their father, men received a profile with characteristics that resembled their mother) or someone else\u2019s parent. In the own parent condition, the participant\u2019s partner had the same birthday as his or her parent (i.e., the month and day but not year), participated in similar hobbies (i.e., two of the four\nhobbies listed were similar to ones generated by participants in Session 1 to describe their parents), and read a series of characteristics used to describe the target person. As previously mentioned, these included the items ranked 4\u20137 on their forms from Session 1. The remaining three characteristics were obtained from experimentersupplied adjectives also collected at Session 1. In light of previous work that finds that people are able to discern a writer\u2019s sex with better-than-chance accuracy (Hayes, 1996; Sappington & Money, 2003), the partner\u2019s ostensible handwriting was designed to be consistent with the sex of the participant\u2019s opposite-gender parent. Participants were randomly assigned to conditions prior to their participation, and separate experimenters were used to generate the personality profiles.\nParticipants were then asked to evaluate their partner with the assurance that their partners would not have access to their evaluations. The dependent measure consisted of 12 items with scales ranging from not at all to totally, including, \u201cHow much do you think that you would like this person?\u201d \u201cIn general, how positive is your impression of this person?\u201d \u201cHow comfortable do you think you would feel interacting with this person?\u201d and \u201cHow much are you looking forward to completing the task with your partner?\u201d Similar to Study 4, responses were measured with a ruler. The possible range of scores was 1 to 16. We calculated partner evaluation scores by taking the mean response across all 12 items ( .91).\nDistancing task. Once participants finished their partner evaluations, the experimenter directed the participants into another room to complete the interaction task with their partner. This room was much larger than the previous lab space, and the room was completely empty except for two folding chairs left leaning against a wall. The experimenter informed the participant that she was going to check on his or her partner and asked the participant to set up the folding chairs for the task. When the experimenter returned, the participant was told that his or her partner was not ready and was asked to return to their original lab room to complete additional questionnaire forms. Once the participant had left the room, the experiment measured the distance (in inches) between the two chairs (see Macrae et al., 1994, for similar procedures).\nManipulation checks. Participants completed two manipulation checks as part of the second questionnaire packet. First, to make sure that participants read their partner\u2019s personality profile, we asked them to list four things that they remembered about their partner. Next, to determine whether their partner reminded them of their parent, we asked three questions, \u201cDoes your partner remind you of someone that you know?\u201d \u201cTo what extent does this person remind you of your mother?\u201d and \u201cTo what extent does this person remind you of your father?\u201d Responses were indicated on a 9-point scale ranging from 1 (not at all) to 9 (totally). These questions were analyzed separately for the manipulation check.\nAt the end of the study, participants were extensively debriefed and probed about the nature of study and whether they saw any connection between the two separate sessions."
+        },
+        {
+            "heading": "Results and Discussion",
+            "text": ""
+        },
+        {
+            "heading": "Manipulation Check",
+            "text": "Participants recalled, on average, 2.7 items from their partners\u2019 profile, suggesting that they did indeed read the profile. Analysis\nof recall revealed no significant main or interaction effects (Fs 1.02, ps .32). A 2 (MS: death vs. dental pain) x 2 (target profile: own parent vs. other parent) between-subjects ANOVA on participants\u2019 similarity ratings for the target person (i.e., \u201cDoes your partner remind you of someone who you know?\u201d) revealed that no main or interaction effects were significant, Fs(1, 68) 2.13, ps .15. Since participants were presented with characteristics based on the gender of their parents (i.e., women received their father\u2019s characteristics, men received their mother\u2019s characteristics), separate analyses were performed on the remaining two items (\u201cTo what extent does this person remind you of your mother\u2013father?\u201d). For women, the ANOVA revealed a significant effect for profile, F(1, 43) 23.23, p .001, d 1.00, with people receiving their father\u2019s characteristics stating the person resembled their father (M 5.04, SD 2.23) more than those who received someone else\u2019s father characteristics (M 2.42, SD 1.47). Neither the main effect of MS nor the interaction between MS and parent profile was significant, Fs(1, 43) 1.29, ps .26. Similarly, for men, there was a main effect for profile, F(1, 21) 7.02, p .02, d .72, but no other effects (Fs 1). Examination of the means showed that men who received their mother\u2019s characteristics (M 5.30, SD 1.70) rated the target as reminding them more of their mother compared to those who received another person\u2019s mother descriptions (M 3.33, SD 1.91). Taken together, theses results suggest that the transference manipulation was successful."
+        },
+        {
+            "heading": "Partner Evaluation",
+            "text": "To test the hypothesis that people evaluate a target person who is similar to a parent more positively following reminders of death, we conducted a 2 (MS: death vs. dental pain) 2 (target profile: own parent vs. other parent) between-subjects ANOVA on mean partner evaluation scores. The results showed a significant main effect for profile, F(1, 69) 4.19, p .04, d .52, but not death, F(1, 69) 2.58, p .11. People who received the parent-like characteristics (M 9.64, SD 2.16) evaluated the target person more positively compared to people who received the non-parentlike characteristics (M 8.76, SD 1.96). However, this effect was qualified by the predicted two-way interaction between MS and profile conditions, F(1, 69) 3.87, p .05, d .49 (see Figure 5). Simple main effect analyses revealed that when a target person held characteristics similar to the participants\u2019 parents, people primed with thoughts of death rated the target person more positively compared to the dental pain condition, F(1, 69) 5.99, p .02, d .68. In the non-parent-like condition, there was no difference between the MS and dental pain conditions (F 1). Looked at differently, the results also revealed an effect of profile within the death condition, F(1, 69) 8.04, p .006, d .80, but not the dental pain condition (F 1). Following MS, participants rated the target person more positively when this person had parent-like characteristics compared to someone who did not."
+        },
+        {
+            "heading": "Interpersonal Distance",
+            "text": "A 2 (MS: death vs. dental pain) x 2 (target profile: own parent vs. other parent) between-subjects ANOVA on the distance between own and other\u2019s chair showed the predicted MS Profile interaction, F(1, 70) 4.68, p .03, d .64, but no main effects\n(Fs 1; see Figure 6). Simple main effect tests revealed a significant effect of MS within the parent-like condition, F(1, 70) 4.72, p .03, d .57, with people in the death condition moving the chairs closer together than the dental pain condition. There was no significant difference between death and dental pain conditions within the non-parent-like condition (F 1). The results also showed a significant effect of profile within the death, F(1, 70) 9.81, p .003, d .87, but not dental pain (F 1) condition. Following MS, participants who received parent-like descriptions moved the chairs closer together compared to those who received non-parent-like descriptions.\nStudy 5 demonstrated that MS increased attraction and physical proximity to a novel person who shared positive characteristics with the participants\u2019 opposite-gender parent. Because the effect of MS did not extend to a control other who resembled another person\u2019s parent, it cannot be interpreted as a general increase in positivity of evaluations or proximity seeking brought on by the death reminder. Because this preference for others who resemble one\u2019s parent did not emerge in the absence of MS, this result cannot be attributed to a general positivity effect of people viewing the characteristics of their parents as especially desirable. Rather, these results suggest that, as hypothesized, reminders of death increase the appeal of others who resemble one\u2019s parents. Thus, transference reactions to those who share positive features with one\u2019s parents appear to be especially likely when one\u2019s need for existential protection is elevated. Presumably such others are especially attractive under conditions of MS because their similarity to one\u2019s primary attachment figures implies, probably at an unconscious experiential level, that they will be comforting and esteem enhancing and thus useful for terror management purposes.\nUnlike the findings of Andersen and colleagues (e.g., Andersen & Baum, 1994), Study 5 did not find any hint of an effect of similarity to parent in the absence of MS. Given Andersen et al.\u2019s (e.g., Andersen & Baum, 1994) previous findings of transference\neffects in the absence of MS, it is obvious that MS is not a prerequisite for such effects to occur. We suspect that the similarity between parent and novel other in the present study may have been more subtle than that in these previous studies. For example, in Andersen\u2019s work on transference (see, e.g., Andersen & Baum, 1994), partner characteristics are presented one at a time on an index card and participants are asked to memorize each trait for a memory test at the end of the study. Conversely, in the present study participants were simply asked to read a short personality profile about the target person. Although our participants did rate the transference target person as more similar to their parents than the control target person, they did not differentiate between target persons on the more subtle item asking if this person \u201creminds you of someone you know.\u201d In contrast, Andersen et al. (Andersen & Baum, 1994; Hinkley & Andersen, 1996) did find differences on measures similar to this item. This suggests that although transference processes may affect evaluations of those who are highly similar to important others in one\u2019s life on a relatively routine and regular basis, heightened motivation may be necessary for transference effects to occur when the level of similarity between the novel other and transference object is relatively subtle.\nThe present finding that transference effects are increased when mortality is salient are consistent with the ideas of Freud (1958) and others (e.g., Becker, 1973; Sullivan, 1953; Winnicott, 1960) who posit that transference is often used to serve pressing and largely unconscious psychological needs. It is also generally consistent with theories that posit that romantic attraction to those who resemble one\u2019s opposite-gender parent is driven by needs for psychological security (e.g., Freud, 1912/1958). And perhaps most relevant for present purposes, these findings support the attachment theory proposition (e.g., Bowlby, 1982; Brumbaugh & Fraley, 2006; Hazan & Shaver, 1987) that attraction to those who are similar to attachment figures is driven by the security and potential for a safe haven that such others provide.\nThe findings of Study 5 also raise some important questions worthy of additional research. Are these effects specific to reactions to members of the opposite sex who are similar to one\u2019s opposite sex parent? Previous theorists from Freud on (e.g., Daly & Wilson, 1990; Geher, 2000; Little et al., 2003) have speculated about a possible romantic preference for those who share features with one\u2019s opposite-gender parents, and the present study demonstrates that MS increases attraction to such others. The question of whether this effect would generalize to others who are similar to same-sex parents is an important one, but because it is not directly pertinent to the theoretical ideas the present set of studies was designed to test, it is not pursued further here.\nSecond, because the current study only used positive trait adjectives to describe the target person, it is unclear what effect MS would have on evaluations of those who share negative characteristics with one\u2019s parents. Andersen and Baum (1994) found a significant transference effect (evaluating a novel other who resembles an important person from one\u2019s past in a way that reflects one\u2019s feelings about the past other) regardless of whether the similarity was on positive or negative features. This suggests that the transference probably operates on both positive and negative dimensions. However, because our interest here was in MSinduced attraction to those who resemble attachment figures, and because Studies 1 and 4 demonstrate that only positive attachment representations are useful for terror management purposes, this question is beyond the scope of the present work and is not explored further here. Still, how people relate to others who share negative characteristics with attachment figures is an important and intriguing issue for future research on motivated transference processes.\nSTUDY 6: THE EFFECT OF INDIVIDUAL DIFFERENCES IN ATTACHMENT STYLE\nStudy 6\nStudies 1\u20135 provide converging evidence that parental attachment can play an important role in terror management processes. However, in Studies 2 and 3, both parental primes and close friend or romantic partner primes were found to mitigate the consequences of MS. This leads to the question of how parental attachment relates to other types of attachments and what leads a person to preferentially rely on one or the other type of attachment when his or her need for security is heightened. Although all attachment theories posit that the initial bond with one\u2019s parents or primary caregivers forms the basis on which later relationships are founded, the present studies are the first to document the continued use of these primary attachment relationships to control existential anxiety in adult life. But given that young adults have now been shown to use their romantic partners, close friends, and parents as bulwarks against death-related anxiety, questions about the determinants of which others are selected for such protection must be addressed. As an initial step in this direction, Study 6 explored the role of attachment security in producing such preferences.\nTo our knowledge, this is the first study to explore relative preferences for different attachment figures in response to threat. After a copious literature search, we could find no studies that compared preferences for the solace of different relationship types\nas a function of an individuals\u2019 attachment style. Addressing this question poses a methodological challenge: How to assess participants\u2019 relationship preferences among a number of simultaneously available options. To this end, we created a purported marketing survey wherein participants were asked to allocate minutes on a cell phone calling plan to each of four different relationship persons (i.e., parent, sibling, romantic partner, close friend). Following previous TMT research (Mikulincer & Florian, 2000), we hypothesized that low levels of attachment anxiety and avoidance (attachment security) would predict increased preference for close relationships with romantic partners. Conversely, after MS, insecurely attached individuals should report increased preference for a parent. However, we predicted that this effect would be specific to those with high levels of attachment anxiety and low levels of attachment avoidance, since previous research has found that such individuals have problems transferring attachment functions from parents to subsequent relationships (e.g., Allen & Land, 1999; Mayseless, 2004). Highly avoidant individuals seem not to value attachments generally (Fraley, Davis, & Shaver, 1998), so we doubted whether they would rely on parents or any other attachment figures after MS.\nMethod"
+        },
+        {
+            "heading": "Participants",
+            "text": "Participants were 100 students (56 women, 44 men) recruited from introductory psychology classes at the University of Missouri\u2014Columbia in exchange for partial course credit. Ages ranged from 18 to 26 years (M 19.07, SD 1.33)."
+        },
+        {
+            "heading": "Materials and Procedure",
+            "text": "The study was conducted in a laboratory setting. All packets were identical in content except for the MS manipulation.\nAttachment. Participants completed Griffin and Bartholomew\u2019s (1994b) 30-item Relationship Scales Questionnaire as part of a mass screening session approximately 2 weeks prior to their participation in the study. Previous research attests to the scale\u2019s reliability and validity (e.g., Griffin & Bartholomew, 1994a, 1994b; Kurdek, 2002). Given the present interest in preferences among different relationships, one advantage of this particular scale is that it measures general attachment styles as opposed to those tied to a specific type of (e.g., romantic) relationship. Items were presented on a 5-point scale ranging from 1 (not at all like me) to 5 (very like me). Since most researchers currently suggest that attachment should be measured in relation to two distinct attachment dimensions (see, e.g., Fraley & Waller, 1998), we calculated separate anxiety (e.g., \u201cI worry about being abandoned\u201d; .81) and avoidant (e.g., \u201cI find it difficult to trust others completely\u201d; .72) scores following procedures recommended by Kurdek (2002; see also Simpson, Rholes, & Nelligan, 1992).\nMS manipulation. Following filler measures to maintain the cover story, participants completed the same MS\u2013dental pain manipulation and delay tasks described previously.\nCell phone task. The dependent measure was a cell phone minute allocation task that we created to assess preference for\nvarious relationships. Specifically, participants were presented with a questionnaire described as a \u201cConsumer Behavior and Marketing Survey.\u201d To maintain the cover story for the task, we told participants,\nRecent evidence suggests that observing people\u2019s attitudes and behaviors toward certain products can be very informative. By having a fuller sense of how people use a product, researchers gain important insight into how people make decisions and what they look for.\nThe instructions further stated that everyone was randomly assigned to evaluate a common, everyday household product; actually, all participants completed the same cell phone calling plan evaluation. The instructions read,\nImagine you are given a cell phone with 100 minutes allotted to you per week. These are whenever minutes, so you can call anyone at anytime without additional fees or penalties; however, you must partition these minutes in advance. In the space below, indicate how you would partition (or breakdown) your 100 minutes. That is, please indicate how many minutes that you would use to call each of the following people. Keep in mind that your total time should add up to 100 minutes.\nFollowing the instructions, participants were presented with four relationships: parent, sibling, romantic partner, and a close friend. A blank space was placed next to each relationship, and participants were asked to indicate the number of minutes they would use to call each person. We counterbalanced the presentation order of relationships to control for order effects. The dependent measure consisted of the number of minutes allocated to each of the four relationships."
+        },
+        {
+            "heading": "Results and Discussion",
+            "text": "Separate regression analyses were performed on minutes allocated to each relationship (parent, romantic partner, sibling, and close friend). For each analysis, MS (dummy coded) and attachment anxiety and avoidance (centered) were entered simultaneously as predictors in the first step, followed by all two-way interactions in the second step, and the three-way interaction in the third step (Aiken & West, 1991). To ensure participant\u2019s relationship status did not affect the results, we included the amount of time in a romantic relationship (centered) as a covariate (entering zero for people not in a romantic relationship).\nWhereas there were no effects for time allocated to a close friend or sibling (both ps .21), there was an Avoidance Anxiety MS interaction on people\u2019s time allocations to a romantic partner (b \u201316.58, SE 7.17, t \u20132.31, p .02, R2 .18. In order to examine simple slopes, we needed to split the data; thus, we inspected the two-way interaction between MS and anxiety among those above and below the median on avoidance. There were no significant effects among high-avoidant individuals ( ps .34). However, there was an interaction between MS and anxiety among low-avoidant individuals (b 34.76, SE 9.94, t 3.50, p .001, R2 .22; Figure 7). Simple slope tests (Rosenthal & Rosnow, 1985) revealed that, after MS, lower attachment anxiety predicted higher time allocations to a romantic partner (b \u201327.54, SE 8.46, t \u20133.25, p .002). No such relationship was present in the dental pain condition ( p .17).\nTo further elucidate this interaction, we examined the effects of MS (vs. dental pain) at 1 SD above and below the mean on continuous attachment anxiety and avoidance scores (cf. Aiken & West, 1991). At high levels of attachment anxiety and low levels of attachment avoidance, reminders of death led to fewer minutes allocated to a romantic partner than did reminders of dental pain (b 50.47, SE 22.40, t 2.25, p .03). As expected, at low levels of anxious and avoidant attachment, however, MS increased the amount of time allotted to a romantic partner relative to the dental pain condition (b \u201316.38, SE 6.83), t \u20132.40, p .02).\nThere was also an MS, anxiety, and avoidance interaction on parent time allocations (b 15.42, SE 5.66, t 2.73, p .01, R2 .15. The Death Anxiety interaction was examined for those scoring above and below the median on avoidance, and the result revealed no significant effects among high-avoidant individuals ( ps .65). However, among low-avoidant individuals, the results revealed an MS Anxiety interaction (b \u201328.62, SE 7.07, t \u20134.05, p .001, R2 .32; Figure 8). Simple slope tests revealed that, after MS, higher attachment anxiety predicted more time being allocated to a parent (b 26.71, SE 6.02, t 4.44, p .001). There was no linear relationship in the dental pain condition ( p .61).\nWe again examined the effects of MS at 1 SD above and below the mean on attachment anxiety and attachment avoidance (both continuous). At high levels of attachment anxiety and low levels of attachment avoidance, MS participants allocated significantly more time to a parent than did their dental pain condition counterparts (b \u201332.04, SE 14.47, t \u20132.22, p .03).\nExperiment 6 provides initial evidence of the role of attachment style in determining which of several potential attachment figures one is most interested in interacting with after being reminded of their mortality. Specifically, those scoring low on attachment anxiety and avoidance (i.e., secure individuals) reported increased relative preference for a romantic partner (as measured by the amount of cell phone time allocated to this person) after MS than a control condition. In contrast, for those scoring low on avoidance and high on anxiety (i.e., highly anxious persons), MS led to an increased relative preference for a parent. Finally, there was no\nsignificant relationship between MS and anxiety for those scoring high on attachment avoidance.\nTo our knowledge, this is the first study to investigate how a person\u2019s attachment style influences the preference for different attachment relationships in response to threat. In so doing, the study replicates, reconciles, and extends the previous studies reported here as well as in the prior work of Mikulincer and Florian (2000). Whereas Mikulincer and Florian found that MS increased a desire for romantic relationship intimacy primarily among securely attached individuals, the present study replicates that finding but also shows that MS increased relational striving toward one\u2019s parents among anxious individuals (i.e., people scoring high on attachment anxiety, low on attachment avoidance). By using a dependent measure that allowed participants to evaluate different relationships, we were able to see that the preferred object of relational strivings after MS differ in theoretically meaningful ways as a function of an individual\u2019s preexisting levels of attachment anxiety and avoidance.\nOne area of ambiguity concerns the responses of those scoring low on both attachment anxiety and attachment avoidance (i.e., secure individuals). In this study, there was no effect of MS for such individuals on the amount of time allocated to a parent. In Studies 1\u20135, however, we found that parental representations generally served an anxiety-buffering function following reminders of death. One possible explanation for this apparent inconsistency is that the lower preference for parents in Study 6 could have been caused by secure individuals\u2019 higher preference for romantic partners. Indeed, secure individuals on average allocated 79.45 of their 100 minutes to a romantic partner, leaving very few minutes to allocate to the other relationships (i.e., a parent, sibling, and/or close friend). In light of previous research that has found that secure persons react to MS with a heightened desire for close relationships (Mikulincer & Florian, 2000), it makes sense that they would express an increased relative preference for a romantic partner over a parent when given the opportunity to do so. Although the current study provides the first step in examining people\u2019s preferences for relationships as a function of MS and attachment style differences, future research should continue to examine when, where, under what circumstances, and for whom such preferences are more likely to occur."
+        },
+        {
+            "heading": "GENERAL DISCUSSION",
+            "text": "TMT has long posited that the capacity for self-esteem and cultural worldviews to protect people from fears about death develops out of the security provided by early attachment relationships. Although research has examined the role that close romantic relationships (e.g., Mikulincer & Florian, 2000) and other social identifications (e.g., Arndt, Greenberg, Schimel, Pyszczynski, & Solomon, 2002; Castano, 2004; Pyszczynski et al., 1996) play in terror management processes, questions about whether one\u2019s more rudimentary attachment to one\u2019s parents continue to provide protection against mortality concerns into young adulthood have not yet been empirically examined. The present series of studies addressed these questions.\nSummary of the Main Findings\nIn the present work, we followed diverse strategies used in previous terror management research to uncover the psychological protection afforded by parental attachments. Specifically, the first series of studies tested whether parents serve an anxiety-buffering function. Study 1 showed that visualizing a positive interaction with a parent eliminated the delayed increase in death-thought accessibility otherwise produced by a reminder of one\u2019s mortality. Study 2 showed that visualizing an interaction with a parent or a close friend eliminated the oft-replicated effect of MS on worldview defense. Study 3 revealed that combining MS and parent or romantic relationship primes led to increased feelings of selfworth. These studies thus attest to the capacity for parental representations to buffer the consequences of thoughts of death.\nThe second series of studies examined specific ways in which people use their parents as a resource for managing mortality concerns. From a TMT perspective, the more favorable the evaluation of a source of security, the more effective that source becomes as a buffer against existential fear. In Study 4, MS increased the ease with which individuals were able to recall positive interactions with their mother and the difficulty they had recalling negative interactions with her. Study 5 demonstrated that MS led to increased (behavioral and evaluative) attraction to a stranger who was similar to one\u2019s opposite-gender parent but had no effect on reactions to a positively described stranger who was not similar to one\u2019s parent.\nFinally, Study 6 explored how variations in attachment style influence people\u2019s reactions toward different personal relationships following MS. This study found that intimations of mortality motivated anxious individuals to show increased relative preference for a parent, whereas secure individuals showed increased preference for romantic partners. Taken together, the results of six studies, using markedly different approaches, suggest that adult offspring continue to use internal representations of their parents as a means of coping with the inevitability of death.\nFrom the perspective of attachment theory (Bowlby, 1982), close relationships are important because they are an effective means for dealing with basic anxieties and as a resource for adjustment. The present findings converge with previous research (see, e.g., Mikulincer et al., 2003) to extend these formulations to the existential fear of death. It seems that close relationships not only protect individuals from real or actual threats but also provide\na symbolic shield against reminders of one\u2019s finitude. As the current research demonstrates, following MS, people are motivated to strengthen their relationship with a parent, who, in turn, may help them manage and diffuse the sense of threat. However, unlike most other threats, the threat of one\u2019s mortality is inescapable, and support from others cannot remove the threat entirely, though it can provide some comfort. That is, mere thoughts of failure (Study 3), pain (Studies 1, 4, 5, and 6), and loss of a limb (Study 2) can be easily dismissed because they can be viewed as unlikely to happen or experiences that people can move past, whereas thoughts of one\u2019s mortality cannot be easily dismissed and death is not so surmountable. Therefore, whereas a number of aversive experiences when relevant are likely to activate the attachment system, the mere thought of them may not do so to the same extent as thoughts of death. In addition, in some of the present work (e.g., Studies 1\u20132), the control condition was not expected to elicit any defensive responses (e.g., worldview defense), and thus there was nothing for the activation of the attachment system to mitigate.\nIssues With the Intersection Between Terror Management and Attachment\nAlthough this work provides insight into the role of parental attachment in terror management, there are some remaining issues that should be noted. Although the present studies examined the role that parents play in buffering concerns about death, there are theoretical and empirical reasons to believe that attachment style would interact with MS to influence the findings (Studies 1\u20135). For example, one would expect individual differences in the ease with which people are able to recall positive interactions with their mothers, as well as the positivity of the interaction, and the vividness of the memory. Although we did not examine attachment-style differences in all of the studies, we feel that the current research is important because it integrates the normative (Studies 1\u20135) and intraindividual (Study 6) aspects of attachment. Hundreds of studies have documented the role of attachment in adulthood, focusing primarily on the domain of individual differences. The primary focus here was on the general role of parental attachment in coping with the threat of mortality. Still, Study 6 did support a moderating role of attachment style, suggesting that when given choices, securely attached people tend to rely on romantic partners, whereas anxious but not avoidant people tend to rely on parents.\nFurther, whereas Studies 1 and 4 focused on perhaps the more basic maternal relationship, fathers can also serve as a source of meaning and security. Although Studies 2, 3, 5, and 6 explored people\u2019s reactions to parent in place of one\u2019s mother, we cannot confidently generalize all of the results to both parents. However, in Studies 2 and 3, we coded the relationship primes for whether people wrote about their mother or father and found that the gender of the parent did not affect the results. Future research should continue to explore when and how people use their fathers, in addition to their mothers, as a source of solace and protection against existential anxieties. Indeed, for certain individuals, fathers may have a more potent influence on attachment processes and psychological security (Shaver, Belsky, & Brennan, 2000).\nThis distinction between parental attachments may be seen as part of a larger issue of how primary attachment fits into the matrix of young adults\u2019 social networks. Studies have shown that under certain conditions, after reminders of mortality, people will seek generalized social affiliation (Wisman & Koole, 2003), attitudinal consensus with larger nationalistic groups (e.g., Pyszczynski et al., 1996), commitment to romantic relationships (Florian et al., 2002), and, now, parental attachment as well. However, what has yet to be explored are the conditions under which people seek the security of particular attachment representations over others. Study 6 provides an initial answer to this question, demonstrating that choice among relationships in response to threat depends on preexisting attachment styles, with securely attached persons showing increased preference for romantic partners, anxiously attached persons showing increased preference for parents, and avoidantly attached persons not showing any increased desire for contact with these persons or their siblings or close friends in response to MS. Although Study 6 provides an important first step toward exploring the determinants of preferences among different attachment figures in response to existential threat, more research is needed to explore the determinants of such relationship hierarchies and preferences.\nOne can adopt an even broader vantage point and conceptualize attachment as one form of existential protection within a larger security system. In accord with this view, Hart et al. (2005) provided evidence of compensatory responses among attachment, self-esteem, and worldview defense mechanisms. The relative preference for utilizing these different resources, however, remains to be investigated. While there may indeed be a tripartite security system, it is likely that as people navigate through life, they prefer to use certain resources over others. Such preferences might vary depending not only on dispositional factors such as attachment style but situational factors as well. For example, one question is whether some types of threats may be more prone to elicit relational striving, whereas other threats may be more prone to elicit self-esteem or worldview relevant responses (Arndt, Greenberg, & Cook, 2002). Further, even within a type of threat, contextual factors may render a particular domain more appealing than others. Overall, in light of the results of Study 3 and that of other research (e.g., Hart et al., 2005), more research is needed into the mechanism by which attachment buffers mortality concerns.\nThe present analysis also provides a foundation from which to consider how the intersection between terror management and attachment relate to lifespan development. Attachment has been much studied as a theoretical concept explaining a child\u2019s relational ties to his or her parents or caregivers; however, there have been relatively few empirical studies of attachment processes in adult children\u2019s relationships and their aging parents (however, see Cicirelli, 1991), as well as the processes that unfold once the tables are turned and the child has children of his or her own. In regard to the former, one possibility is that given the increased vulnerability of parents to illness with increasing age, parents may indeed be more problematic and perceived less as attachment figures for their older children. Although Study 1 found that parents served an anxiety-buffering function for their adult children regardless of age (i.e., participants ranged in age between 17 and 54 years), we were unable to determine whether parents served the attachment needs (as assessed on the WHOTO) of our participants despite age\ndifferences. A second possibility is that watching one\u2019s parents grow old and approach death might actually increase the salience of one\u2019s mortality. Martens, Greenberg, Schimel, and Landau (2004) can be seen as consistent with this view. In this research, similar to reactions to disabled persons observed by Hirschberger, Florian, and Mikulincer (2005), exposure to elderly persons increased death thought accessibility among younger individuals, and reminding younger adults of their mortality resulted in distancing from and derogation of elderly people.\nOf course, there may be important differences between typical elderly persons and one\u2019s parents in terms of their capacity to stimulate thoughts of personal mortality and associated existential dynamics. Perhaps because of the existential protection they provide, in many cases people seem reticent to accept their parents\u2019 aging and increasing vulnerability to mortality. And when such revelations are made, do they also prompt concerns with personal mortality and its consequent defensive reactions? It is worth noting that, while not focused on one\u2019s parents per se, Greenberg et al. (1994) found that thoughts of the death of a loved one did not elicit as strong an effect on worldview defense as thinking about one\u2019s own mortality. Nonetheless, by drawing attention to existential issues and parental attachment, the present studies invite further inquiry into the conditions under which (and the interaction between) parents\u2019 capacity to serve as anxiety buffers and reminders of the transience of life across the lifespan.\nJust as there are important questions to consider when people approach the end of life, so too are there critical questions about the juxtaposition of terror management and attachment as new life begins. Research is needed to explore the existential and attachment dynamics that emerge when children become parents. Wisman and Goldenberg (2005) found that reminders of mortality can increase the desire for offspring, as long as the desire for offspring was not seen by participants as inconsistent with pursuing career choices that might garner prestige and self-esteem. This finding invites consideration of how people juggle the different motives that reminders of death can provoke. The integration of attachment style into this topic (e.g., Rholes, Simpson, & Friedman, 2006), in turn, may help to elucidate how people prioritize different terror management motives across the changing landscape of one\u2019s lifetime.\nConclusion\nThe present research contributes to the growing body of evidence examining the continuation of the parent\u2013child affectional bond across the lifespan (Cicirelli, 1991). Previous attachment research in personality and social psychology has predominately focused on people\u2019s relationships with their romantic partners (e.g., Bartholomew, 1993; Hazan & Shaver, 1987; Griffin & Bartholomew, 1994b; Mikulincer & Shaver, 2003; Shaver, Hazan, & Bradshaw, 1988; Simpson, 1990). The current studies build from this work to provide the first empirical demonstration of how adults continue to derive existential security from their continued attachment to parents. Following Freud (1966/1977, Bowlby (1982), and Ainsworth (1989), the present results suggest that parents remain an important source of comfort and security to their adult offspring, enabling their children to deal with basic human\nfears and anxieties\u2014the safe haven of parental comfort does indeed endure.\nReferences\nAiken, L. S., & West, S. G. (1991). Multiple regression: Testing and interpreting interactions. Thousand Oaks, CA: Sage. Ainsworth, M. D. S. (1989). Attachment beyond infancy. American Psychologist, 44, 709\u2013716. Ainsworth, M. D. S. (1991). Attachments and other affectional bonds across the life cycle. In C. M. Parkes, J. Stevenson-Hinde, & P. Marris (Eds.), Attachment across the life cycle (pp. 33\u201351). New York: Routledge. Allen, J. P., & Land, D. (1999). Attachment in adolescence. In J. Cassidy & P. R. Shaver (Eds.), Handbook of attachment: Theory, research, and clinical applications (pp. 319\u2013335). New York: Guilford Press. Andersen, S. M., & Baum, A. (1994). Transference in interpersonal relations: Schema-triggered inferences and affect based on significant-other representations. Journal of Personality, 62, 459\u2013498. Andersen, S. M., & Glassman, N. S. (1996). Responding to significant others when they are not there: Effects on interpersonal inference, motivation, and affect. In R. Sorrentino & E. T. Higgins (Eds.), Handbook of motivation and cognition (Vol. 3, pp. 272\u2013331). New York: Guilford Press. Arndt, J., & Greenberg, J. (1999). The effects of a self-esteem boost and mortality salience on responses to boost relevant and irrelevant worldview threats. Personality and Social Psychological Bulletin, 25, 1331\u2013 1341. Arndt, J., Greenberg, J., & Cook, A. (2002). Mortality salience and the spreading activation of worldview-relevant constructs: Exploring the cognitive architecture of terror management. Journal of Experimental Psychology: General, 131, 307\u2013324. Arndt, J., Greenberg, J., Schimel, J., Pyszczynski, T., & Solomon, S. (2002). To belong or not to belong, that is the question: Terror management and identification with gender and ethnicity. Journal of Personality and Social Psychology, 83, 26\u201343. Arndt, J., Schimel, J., Greenberg, J., & Pyszczynski, T. (2002). The intrinsic self and defensiveness: Evidence that activating the intrinsic self reduces self-handicapping and conformity. Personality and Social Psychology Bulletin, 28, 671\u2013683. Baldwin, M. W., & Sinclair, L. (1996). Self-esteem and \u201cif . . . then\u201d contingencies of interpersonal acceptance. Journal of Personality and Social Psychology, 71, 1130\u20131141. Bandura, A. (1977). Social learning theory. New York: General Learning Press. Bartholomew, K. (1993). From childhood to adult relationships: Attachment theory and research. In S. Duck (Ed.), Understanding relationship processes: Vol. 2. Learning about relationships (pp. 30\u201362). Beverly Hills, CA: Sage. Bartholomew, K., & Horowitz, L. M. (1991). Attachment styles among young adults: A test of a four category model. Journal of Personality and Social Psychology, 61, 226\u2013244. Bassili, J. N., & Smith, M. C. (1986). On the spontaneity of trait attribution: Converging evidence for the role of cognitive strategy. Journal of Personality and Social Psychology, 50, 239\u2013245. Becker, E. (1973). The denial of death. New York: Free Press. Bowlby, J. (1982). Attachment and loss: Vol. 1. Attachment (2nd ed.). New\nYork: Basic Books. Brennan, K. A., & Bosson, J. K. (1998). Attachment-style differences in\nattitudes toward and reactions to feedback from romantic partners: An exploration of the relational bases of self-esteem. Personality and Social Psychology Bulletin, 24, 699\u2013714. Brennan, K. A., Clark, C. L., & Shaver, P. R. (1998). Self-report measure-\nment of adult attachment: An integrative overview. In J. A. Simpson & W. S. Rholes (Eds.), Attachment theory and close relationships (pp. 46\u201376). New York: Guildford Press. Brennan, K. A., & Morris, K. A. (1997). Attachment styles, self-esteem, and patterns of seeking feedback from romantic partners. Personality and Social Psychology Bulletin, 23, 23\u201331. Brumbaugh, C. C., & Fraley, R. C. (2006). Transference and attachment: How do attachment patterns get carried forward from one relationship to the next? Personality and Social Psychology Bulletin, 32, 552\u2013560. Byrne, D. (1971). The attraction paradigm. New York: Academic Press. Cassidy, J., & Shaver, P. R. (1999). Handbook of attachment: Theory,\nresearch, and clinical applications. New York: Guilford Press. Castano, E. (2004). In case of death, cling to the ingroup. European\nJournal of Social Psychology, 34, 375\u2013384. Chen, S., & Andersen, S. M. (1999). Relationships from the past in the\npresent: Significant-other representations and transference in interpersonal life. In M. P. Zanna (Ed.), Advances in experimental social psychology (Vol. 31, pp. 123\u2013190). San Diego, CA: Academic Press. Cicirelli, V. G. (1991). Attachment theory in old age: Protection of the attached figure. In K. Pillemer & K. McCartney (Eds.), Parent\u2013child relations across the life span (pp. 25\u201342). Hillsdale, NJ: Erlbaum. Collins, N. L. (1996). Working models of attachment: Implications for explanation, emotion, and behavior. Journal of Personality and Social Psychology, 71, 810\u2013832. Collins, N. L., & Read, S. J. (1990). Adult attachment, working models, and relationship quality in dating couples. Journal of Personality and Social Psychology, 58, 644\u2013663. Cox, C. R., Goldenberg, J. L., Arndt, J., & Pyszczynski, T. (2007). Mother\u2019s milk: An existential perspective on negative reactions to breastfeeding. Personality and Social Psychology Bulletin, 33, 110\u2013122. Crocker, J., Luhtanen, R. K., Cooper, M. L., & Bouvrette, S. (2003). Contingencies of self-worth in college students: Theory and measurement. Journal of Personality and Social Psychology, 85, 894\u2013908. Daly, M., & Wilson, M. (1990). Is parent offspring conflict sex-linked? Freudian and Darwinian models. Journal of Personality, 58, 163\u2013189. Dechesne, M., Pyszczynski, T., Arndt, J., Ransom, S., Sheldon, K. M., van Knippenberg, A., & Janssen, J. (2003). Literal and symbolic immortality: The effect of evidence of literal immortality on self-esteem striving in response to mortality salience. Journal of Personality and Social Psychology, 84, 722\u2013737. Doherty, N. A., & Feeney, J. A. (2004). The composition of attachment networks throughout the adult years. Personal Relationships, 11, 469\u2013 488. Farnham, S. D., Greenwald, A. G., & Banaji, M. R. (1999). Implicit self-esteem. In D. Abrams & M. A. Hogg (Eds.), Social identity and social cognition (pp. 230\u2013248). Oxford, England: Blackwell. Feeney, B. C., & Collins, N. L. (2001). Predictors of caregiving in adult intimate relationships: An attachment theoretical perspective. Journal of Personality and Social Psychology, 80, 972\u2013994. Feeney, J. A., & Hohaus, L. (2001). Attachment and spousal caregiving. Personal Relationships, 8, 21\u201339. Feeney, J. A., & Noller, P. (1990). Attachment style as a predictor of adult romantic relationships. Journal of Personality and Social Psychology, 58, 281\u2013291. Florian, V., & Mikulincer, M. (1997). Fear of death and the judgment of social transgressions: A multidimensional of terror management theory. Journal of Personality and Social Psychology, 73, 369\u2013380. Florian, V., Mikulincer, M., & Hirschberger, G. (2002). The anxietybuffering function of close relationships: Evidence that relationship commitment acts as a terror management mechanism. Journal of Personality and Social Psychology, 82, 527\u2013542. Fraley, R. C. (2002). Attachment stability from infancy to adulthood:\nMeta-analysis and dynamic modeling of developmental mechanisms. Personality and Social Psychology Review, 6, 123\u2013151. Fraley, R. C., & Davis, K. E. (1997). Attachment formation and transfer in young adults\u2019 close friendships and romantic relationships. Personal Relationships, 4, 131\u2013144. Fraley, R. C., Davis, K. E., & Shaver, P. R. (1998). Dismissing-avoidance and the defensive organization of emotion, cognition, and behavior. In J. A. Simpson & W. S. Rholes (Eds.), Attachment theory and close relationships (pp. 249\u2013279). New York: Guilford Press. Fraley, R. C., & Waller, N. G. (1998). Adult attachment patterns: A test of the typological model. In J. A. Simpson & W. S. Rholes (Eds.), Attachment theory and close relationships (pp. 77\u2013114). New York: Guilford Press. Freud, S. (1927). Some psychological consequences of the anatomical distinction between the sexes. In J. Strachey (Ed. and Trans.), The standard edition of the complete psychological works of Sigmund Freud (Vol. 8, pp. 133\u2013142). London: The Hogarth Press. Freud, S. (1939). Civilization and its discontents (J. Riviere, Trans.). London: Hogarth Press. (Original work published 1930) Freud, S. (1957). Three essays on the theory of sexuality. In J. Strachey (Ed. and Trans.), The standard edition of the complete psychological works of Sigmund Freud (Vol. 7, pp. 123\u2013246). London: The Hogarth Press. (Original work published 1905) Freud, S. (1958). The dynamics of transference. In J. Strachey (Ed. and Trans.), The standard edition of the complete psychological works of Sigmund Freud (Vol. 12, pp. 99\u2013108). London: The Hogarth Press. (Original work published 1912) Freud, S. (1977). Introductory lectures on psychoanalysis. (J. Strachey, Trans.). New York: Norton. (Original work published 1966) Furman, W., & Buhrmester, D. (1992). Age and sex in perceptions of networks of personal relationships. Child Development, 63, 103\u2013115. Geher, G. (2000). Perceived and actual characteristics of parents and partners: A test of a Freudian model of mate selection. Current Psychology: Developmental, Learning, Personality, Social, 19, 194\u2013214. Gilbert, D. T., & Hixon, J. G. (1991). The trouble of thinking: Activation and application of stereotypic beliefs. Journal of Personality and Social Psychology, 60, 509\u2013517. Greenberg, J., Pyszczynski, T., & Solomon, S. (1986). The causes and consequences of a need for self-esteem: A terror management theory. In R. F. Baumeister (Ed.), Public self and private self (pp. 189\u2013212). New York: Springer-Verlag. Greenberg, J., Pyszczynski, T., Solomon, S., Simon, L., & Breus, M. (1994). Role of consciousness and accessibility of death-related thoughts in mortality salience effects. Journal of Personality and Social Psychology, 67, 627\u2013637. Greenberg, J., Solomon, S., & Arndt, J. (2008). A basic but uniquely human motivation: Terror management. In J. Shah (Ed.), Handbook of motivation science (pp. 114\u2013134). New York: Guilford Press. Greenberg, J., Solomon, S., & Pyszczynski, T. (1997). Terror management theory of self-esteem and social behavior: Empirical assessments and conceptual refinements. In M. P. Zanna (Ed.), Advances in experimental social psychology (Vol. 29, pp. 61\u2013139). New York: Academic Press. Greenwald, A. G., & Farnham, S. D. (2000). Using the implicit association test to measure self-esteem and self-concept. Journal of Personality and Social Psychology, 79, 1022\u20131038. Greenwald, A. G., McGhee, D. E., & Schwartz, J. L. K. (1998). Measuring individual differences in implicit cognition: The implicit association test. Journal of Personality and Social Psychology, 74, 1464\u20131480. Griffin, D., & Bartholomew, K. (1994a). Metaphysics of measurement: The case of adult attachment. In K. Bartholomew & D. Perlman (Eds.), Advances in personal relationships: Vol. 5. Attachment processes in adulthood (pp. 17\u201352). London: Jessica Kingsley. Griffin, D., & Bartholomew, K. (1994b). Models of the self and other:\nFundamental dimensions underlying measures of adult attachment. Journal of Personality and Social Psychology, 67, 430\u2013445. Harmon-Jones, E., Simon, L., Greenberg, J., Pyszczynski, T., Solomon, S., & McGregor, H. (1997). Terror management theory and self-esteem: Evidence that increased self-esteem reduces mortality salience effects. Journal of Personality and Social Psychology, 72, 24\u201336. Hart, J., Shaver, P. R., & Goldenberg, J. L. (2005). Attachment, selfesteem, worldviews, and terror management: Evidence for a tripartite security system. Journal of Personality and Social Psychology, 88, 999\u20131013. Hayes, W. N. (1996). Identifying sex from handwriting. Perceptual and Motor Skills, 83, 791\u2013800. Hazan, C., & Shaver, P. R. (1987). Romantic love conceptualized as an attachment process. Journal of Personality and Social Psychology, 52, 511\u2013524. Hazan, C., & Zeifman, D. (1994). Sex and the psychological tether. In D. Perlman & K. Bartholomew (Eds.), Advances in personal relationships (Vol. 5, pp. 151\u2013180). London: Kingsley. Hinkley, K., & Andersen, S. M. (1996). The working self-concept in transference: Significant-other activation and self-change. Journal of Personality and Social Psychology, 71, 1279\u20131295. Hirschberger, G., Florian, V., & Mikulincer, M. (2005). Fear and compassion: A terror management analysis of emotional reactions to physical disability. Rehabilitation Psychology, 50, 246\u2013257. Horney, K. (1937). The neurotic personality of our time. New York: Norton. Koole, S. L., Dechesne, M., & van Knippenberg, A. (2001). The sting of death: The effects of mortality salience on implicit self-evaluations. Unpublished manuscript, University of Nijmegen, Nijmegen, the Netherlands. Kurdek, L. A. (2002). On being insecure about the assessment of attachment styles. Journal of Social and Personal Relationships, 19, 811\u2013834. Landau, M. J., Johns, M., Greenberg, J., Pyszczynski, T., Martens, A., Goldenberg, J., Solomon, S., & Martens, A. (2004). A function of form: Terror management and structuring the social world. Journal of Personality and Social Psychology, 87, 190\u2013210. Landau, M. J., Solomon, S., Greenberg, J., Cohen, F., Pyszczynski, T., Arndt, J., Miller, C. H., Ogilvie, D. M., & Cook, A. (2004). Deliver us from evil: The effects of mortality salience and reminders of 9/11 on support for President George W. Bush. Personality and Social Psychology Bulletin, 30, 1136\u20131150. Little, A. C., Penton-Voak, I. S., Burt, D. M., & Perrett, D. I. (2003). Investigating an imprinting-like phenomenon in humans: Partners and opposite-sex parents have similar hair and eye colour. Evolution and Human Behavior, 24, 43\u201351. Little, A. C., & Perrett, D. I. (2002). Putting beauty back in the eye of the beholder. Psychologist, 15, 28\u201332. Macrae, C. N., Bodenhausen, G. V., Milne, A. B., & Jetten, J. (1994). Out of mind but back in sight: Stereotypes on the rebound. Journal of Personality and Social Psychology, 67, 808\u2013817. Markiewicz, D., Lawford, H., Doyle, A. B., & Haggart, N. (2006). Developmental differences in adolescents\u2019 and young adults\u2019 use of mothers, fathers, best friends, and romantic partners to fulfill attachment needs. Journal of Youth and Adolescence, 35, 121\u2013134. Martens, A., Greenberg, J., Schimel, J., & Landau, M. J. (2004). Ageism and death: Effects of mortality salience and similarity to elders on distancing from and derogation of elderly people. Personality and Social Psychology Bulletin, 30, 1524\u20131536. Mayseless, O. (2004). Home-leaving to military service: Attachment concerns, transfer of attachment functions from parents to peers, and adjustment. Journal of Adolescent Research, 19, 533\u2013558. Mead, G. H. (1934). Mind, self, and society. Chicago: University of Chicago Press.\nMickelson, K. D., Kessler, R. C., & Shaver, P. R. (1997). Adult attachment in a nationally representative sample. Journal of Personality and Social Psychology, 73, 1092\u20131106. Mikulincer, M. (1995). Attachment style and the mental representation of the self. Journal of Personality and Social Psychology, 69, 1203\u20131215. Mikulincer, M., & Florian, V. (2000). Exploring individual differences in reactions to mortality salience: Does attachment style regulate terror management mechanisms. Journal of Personality and Social Psychology, 79, 260\u2013273. Mikulincer, M., Florian, V., Birnbaum, G., & Malishkevich, S. (2002). The death-anxiety buffering function of close relationships: Exploring the effects of separation reminders on death-thought accessibility. Personality and Social Psychology Bulletin, 28, 287\u2013299. Mikulincer, M., Florian, V., & Hirschberger, G. (2003). The existential function of close relationships: Introducing death into the science of love. Personality and Social Psychology Review, 7, 20\u201340. Mikulincer, M., Florian, V., & Hirschberger, G. (2004). The terror of death and the quest for love: An existential perspective on close relationships. In J. Greenberg, S. L. Koole, & T. Pyszczynski (Eds.), Handbook of experimental existential psychology (pp. 287\u2013304). New York: Guilford Press. Mikulincer, M., Gillath, O., & Shaver, P. R. (2002). Activation of the attachment system in adulthood: Threat-related primes increase the accessibility of mental representations of attachment figures. Journal of Personality and Social Psychology, 83, 881\u2013895. Mikulincer, M., & Goodman, G. S. (2006). Dynamics of romantic love: Attachment, caregiving, and sex. New York: Guilford Press. Mikulincer, M., & Shaver, P. (2003). The attachment behavioral system in adulthood: Activation, psychodynamics, and interpersonal processes. In M. Zanna (Ed.), Advances in experimental social psychology (Vol. 35, pp. 53\u2013152). New York: Academic Press. Mikulincer, M., & Shaver, P. R. (2004). Security-based selfrepresentations in adulthood. In W. S. Rholes & J. A. Simpson (Eds.), Adult attachment: Theory, research, and clinical implications (pp. 159\u2013 195). New York: Guilford Press. Murray, S. L., Griffin, D. W., Rose, P., & Bellavia, G. (2003). Calibrating the sociometer: The relational contingencies of self-esteem. Journal of Personality and Social Psychology, 85, 63\u201384. Nosek, B. A., & Lane, K. (1999). Analyzing paper-pencil IAT data. Unpublished manuscript, Yale University. Owens, G., Crowell, J. A., Pan, H., Treboux, D., O\u2019Connor, E., & Waters, E. (1995). The prototype hypothesis and the origins of attachment working models: Adult relationships with parents and romantic partners. Monographs of the Society for Research in Child Development, 60, 216\u2013233. Park, L. E., Crocker, J., & Mickelson, K. D. (2004). Attachment styles and contingencies of self-worth. Personality and Social Psychology Bulletin, 30, 1243\u20131254. Pyszczynski, T., & Greenberg, J. (1987). Toward an integration of cognitive and motivational perspectives on social inference: A biased hypothesis-testing model. In L. Berkowitz (Ed.), Advances in experimental social psychology (Vol. 20, pp. 297\u2013340). San Diego, CA: Academic Press. Pyszczynski, T., Greenberg, J., & Solomon, S. (1999). A dual-process model of defense against conscious and unconscious death-related thoughts: An extension of terror management theory. Psychological Review, 106, 835\u2013845. Pyszczynski, T., Greenberg, J., Solomon, S., Arndt, J., & Schimel, J. (2004). Why do people need self-esteem? A theoretical and empirical review. Psychological Bulletin, 130, 435\u2013468. Pyszczynski, T., Wicklund, R. A., Floresky, S., Gauch, G., Koch, S., Solomon, S., & Greenberg, J. (1996). Whistling in the dark: Exaggerated\nestimates of social consensus in response to incidental reminders of mortality. Psychological Science, 7, 332\u2013336. Rank, O. (1973). The trauma of birth. New York: Harcourt, Brace. (Original work published 1929) Rholes, W. S., Simpson, J. A., & Friedman, M. (2006). Avoidant attachment and the experience of parenting. Personality and Social Psychology Bulletin, 32, 275\u2013285. Rosenblatt, A., Greenberg, J., Solomon, S., Pyszczynski, T., & Lyon, D. (1989). Evidence for terror management theory: I. The effects of mortality salience on reactions to those who violate or uphold cultural values. Journal of Personality and Social Psychology, 57, 681\u2013690. Rosenthal, R., & Rosnow, R. L. (1985). Contrast analysis. Cambridge, England: Cambridge University Press. Routledge, C., Arndt, J., & Goldenberg, J. L. (2004). A time to tan: Proximal and distal effects of mortality salience on sun exposure intentions. Personality and Social Psychology Bulletin, 30, 1347\u20131358. Sappington, J., & Money, M. (2003). Sex, gender role, attribution pathology, and handwriting tidiness. Perceptual and Motor Skills, 97, 671\u2013 674. Schimel, J., Pyszczynski, T., Greenberg, J., O\u2019Mahen, H., & Arndt, J. (2000). Running from the shadow: Psychological distancing from others to deny characteristics people fear in themselves. Journal of Personality and Social Psychology, 78, 446\u2013462. Schimel, J., Simon, L., Greenberg, J., Pyszczynski, T., Solomon, S., Waxmonsky, J., & Arndt, J. (1999). Stereotypes and terror management: Evidence that mortality salience enhances stereotypic thinking and preferences. Journal of Personality and Social Psychology, 77, 905\u2013926. Shaver, P. R., Belsky, J., & Brennan, K. A. (2000). Comparing measures of adult attachment: An examination of interview and self-report methods. Personal Relationships, 7, 25\u201343. Shaver, P. R., Hazan, C., & Bradshaw, D. (1988). Love as attachment: The integration of three behavioral systems. In R. Sternberg & M. L. Barnes (Eds.), The psychology of love (pp. 68\u201399). New Haven, CT: Yale University Press. Shaver, P. R., & Mikulincer, M. (2004). Attachment in the later years: A commentary. Attachment and Human Development, 6, 451\u2013464. Simpson, J. A. (1990). Influence of attachment styles on romantic relationships. Journal of Personality and Social Psychology, 59, 971\u2013980. Simpson, J. A., & Rholes, W. S. (1997). Attachment theory and close relationships. New York: Guilford Press. Simpson, J. A., Rholes, W. S., & Nelligan, J. (1992). Support-seeking and support-giving within couples in an anxiety-provoking situation: The role of attachment styles. Journal of Personality and Social Psychology, 62, 434\u2013446. Solomon, S., Greenberg, J., & Pyszczynski, T. (1991). Terror management theory of self-esteem. In C. R. Snyder & D. Forsyth (Eds.), Handbook of social and clinical psychology: The health perspective (pp. 21\u201340). New York: Pergamon Press. Sowards, B. A., Moniz, A. J., & Harris, M. J. (1991). Self-esteem and bolstering: Testing major assumptions of terror management theory. Representative Research in Social Psychology, 19, 95\u2013106. Sroufe, L. A., Egeland, B., & Kreutzer, T. (1990). The fate of early experience following developmental change: Longitudinal approaches to individual adaptation in childhood. Child Development, 61, 1363\u20131373. Steele, C. M., & Aronson, J. (1995). Stereotype threat and the intellectual test performance of African Americans. Journal of Personality and Social Psychology, 69, 797\u2013811. Sullivan, H. S. (1953). The interpersonal theory of psychiatry. New York: Norton. Taubman-Ben-Ari, O., Findler, L., & Mikulincer, M. (2002). The effects of mortality salience on relationship strivings and beliefs: The moderating role of attachment style. British Journal of Social Psychology, 41, 419\u2013441.\nTeachman, B. A., Gapinski, K. D., Brownell, K. D., Rawlins, M., & Jeyaram, S. (2003). Demonstrations of implicit anti-fat bias: The impact of providing causal information and evoking empathy. Health Psychology, 22, 68\u201378. Trinke, S. J., & Bartholomew, K. (1997). Hierarchies of attachment relationships in young adulthood. Journal of Social and Personality Relationships, 14, 603\u2013625. Tulving, E., Schacter, D. L., & Stark, H. A. (1982). Priming effects in word-fragment completion are independent of recognition memory. Journal of Experimental Psychology: Learning, Memory, and Cognition, 8, 336\u2013342. van IJzendoorn, M. H. (1996). Commentary. Human Development, 39, 224\u2013231. Watson, D., Clark, L. A., & Tellegen, A. (1988). Development and validation of brief measures of positive and negative affect: The PANAS scales. Journal of Personality and Social Psychology, 54, 1063\u20131070.\nWeiss, R. S. (1986). Continuities and transformations in social relationships from childhood to adulthood. In W. W. Hartup & Z. Rubin (Eds.), On relationships and development (pp. 95\u2013110). Hillsdale, NJ: Erlbaum. Winnicott, D. (1960). The theory of the parent\u2013child relationship. International Journal of Psychoanalysis, 41, 585\u2013595. Wisman, A., & Goldenberg, J. L. (2005). From the grave to the cradle: Evidence that mortality salience engenders a desire for offspring. Journal of Personality and Social Psychology, 89, 46\u201361. Wisman, A., & Koole, S. L. (2003). Hiding in the crowd: Can mortality salience promote affiliation with others who oppose one\u2019s worldview? Journal of Personality and Social Psychology, 84, 511\u2013526.\nReceived March 22, 2007 Revision received October 4, 2007\nAccepted November 5, 2007\nMembers of Underrepresented Groups: Reviewers for Journal Manuscripts Wanted\nIf you are interested in reviewing manuscripts for APA journals, the APA Publications and Communications Board would like to invite your participation. Manuscript reviewers are vital to the publications process. As a reviewer, you would gain valuable experience in publishing. The P&C Board is particularly interested in encouraging members of underrepresented groups to participate more in this process.\nIf you are interested in reviewing manuscripts, please write to the address below. Please note the following important points:\n\u2022 To be selected as a reviewer, you must have published articles in peer-reviewed journals. The experience of publishing provides a reviewer with the basis for preparing a thorough, objective review.\n\u2022 To be selected, it is critical to be a regular reader of the five to six empirical journals that are most central to the area or journal for which you would like to review. Current knowledge of recently published research provides a reviewer with the knowledge base to evaluate a new submission within the context of existing research.\n\u2022 To select the appropriate reviewers for each manuscript, the editor needs detailed information. Please include with your letter your vita. In the letter, please identify which APA journal(s) you are interested in, and describe your area of expertise. Be as specific as possible. For example, \u201csocial psychology\u201d is not sufficient\u2014you would need to specify \u201csocial cognition\u201d or \u201cattitude change\u201d as well.\n\u2022 Reviewing a manuscript takes time (1\u20134 hours per manuscript reviewed). If you are selected to review a manuscript, be prepared to invest the necessary time to evaluate the manuscript thoroughly.\nWrite to Journals Office, American Psychological Association, 750 First Street, NE, Washington, DC 20002-4242."
+        }
+    ],
+    "title": "Terror Management and Adults\u2019 Attachment to Their Parents: The Safe Haven Remains",
+    "year": 2008
+}

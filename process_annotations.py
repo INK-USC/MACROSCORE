@@ -2,10 +2,10 @@ import os, re, json
 from collections import defaultdict, Counter
 
 
-keep_variables = ['SS', 'TN', 'TE', 'SD', 'ES', 'PV']
+keep_variables = ['SS', 'TN', 'TE', 'SD', 'ES', 'PV', 'PR', 'SP']
 
 
-annotated_dir = "./tagtog/annotated"
+annotated_dir = "./tagtog/new_annotated_test"
 annotated_files = os.listdir(annotated_dir)
 annotated_files = [r for r in annotated_files if r != "0_Labels.txt"]
 
@@ -35,6 +35,9 @@ for f in annotated_files:
     # validate annotation
     content = [r.split(" ") for r in content]
     content_tags = [r for rr in content for r in rr if re.match("</?..>", r)]
+    for r in content_tags:
+        if r not in all_tags:
+            print(r)
     assert all([r in all_tags for r in content_tags])
     unclosed_tags = defaultdict(lambda: 0)
     for t in content_tags:
@@ -79,4 +82,4 @@ for f in annotated_files:
     curr_data = {"file": f, "sents": sents_notags, "tags": content_tags}
     data.append(curr_data)
 
-json.dump(data, open("./data_processed/data.json", 'w'))
+json.dump(data, open("./data_processed/new_data_test.parsed_rpp", 'w'))

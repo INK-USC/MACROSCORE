@@ -4,7 +4,7 @@ from matplotlib import pyplot as plt
 metadata = open("./data/COVID_areas.csv", 'r').readlines()
 sha = [r.split(",")[0] for r in metadata]
 sha = [r for r in sha if r]
-all_files = [r+".json" for r in sha]
+all_files = [r+".parsed_rpp" for r in sha]
 files_1 = [r for r in all_files if r in os.listdir("./CORD-19-research-challenge/comm_use_subset/comm_use_subset")]
 files_2 = [r for r in all_files if r in os.listdir("./CORD-19-research-challenge/custom_license/custom_license")]
 files_3 = [r for r in all_files if r in os.listdir("./CORD-19-research-challenge/noncomm_use_subset/noncomm_use_subset")]

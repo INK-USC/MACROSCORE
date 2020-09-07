@@ -66,9 +66,9 @@ if __name__ == '__main__':
     args = parser.parse_args()
     args = vars(args)
     
-    tagger = SequenceTagger.load('./flair_models/'+args['folder']+'/final-model.pt')
-    test_data_f = "score/eng.testb.src"
-    test_labels_f = "score/eng.testb.trg"
+    tagger = SequenceTagger.load('./flair_models/'+args['folder']+'/best-model.pt')
+    test_data_f = "data_processed/eng.test_new.src"
+    test_labels_f = "data_processed/eng.test_new.trg"
     TP, FP, FN = 0, 0, 0
     with open(test_data_f, 'r') as f_data,\
          open(test_labels_f, 'r') as f_labels:
@@ -100,6 +100,7 @@ if __name__ == '__main__':
     all_labels = [r[:-1].split(' ') for r in open(test_labels_f, 'r').readlines()]
     all_labels = list(set([r for rr in all_labels for r in rr]))
     all_types = set([r[2:] for r in all_labels if r != 'O'])
+    all_types = ['SS','TN','TE','SD','PV','ES','SP']
     for type in sorted(all_types):
         num_true, num_pred = 0, 0
         TP, FP, FN = 0, 0, 0
