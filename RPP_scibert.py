@@ -160,7 +160,7 @@ def eval_model(model, test_data):
 
     return preds, targets
 
-data = json.load(open('./data_processed/RPP_scienceparse_classify_data.parsed_rpp', 'r'))
+data = json.load(open('./data_processed/RPP_scienceparse_classify_data.json', 'r'))
 
 #r_process = [[r['content'], r['O_within_CI_R'], r['Fold_Id']] for r in data]
 meta_process = [[r['content'], r['Meta_analysis_significant'], r['Fold_Id']] for r in data]

@@ -1,7 +1,7 @@
 *.zip
 /CORD-19-research-challenge/*
-/data/*
-/data_processed/*
+/data_processed/glove.6B.100d.txt
+/data_processed/raw_all_czipmc.txt
 /glove/*
 /flair_models/*
 /pdfs/*
