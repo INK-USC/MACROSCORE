@@ -7,7 +7,7 @@ load()
 nlp = spacy.load("en_core_web_sm")
 
 
-data_processed = json.load(open("./data/data_processed.parsed_rpp", 'r'))
+data_processed = json.load(open("./data/data_processed.json", 'r'))
 phrased_text = open("../AutoPhrase/models/DBLP_papers/segmentation.txt").readlines()
 
 def get_phrase_loc(raw, phrased):
@@ -38,8 +38,8 @@ for k in data_processed:
             phrase_locs = get_phrase_loc(data_processed[k]['text'][i][1], text_iter.__next__())
             data_processed[k]['text'][i].append(phrase_locs)
 
-json.dump(data_processed, open("./data/data_with_phrases.parsed_rpp", 'w'))
-data_with_phrases = json.load(open("./data/data_with_phrases.parsed_rpp", 'r'))
+json.dump(data_processed, open("./data/data_with_phrases.json", 'w'))
+data_with_phrases = json.load(open("./data/data_with_phrases.json", 'r'))
 
 # phrases in/around claims
 window_size = 500
@@ -208,7 +208,7 @@ for pair in contrary_keywords:
 
 
 # Text with phrases for Daniel
-data_with_phrases = json.load(open("./data/data_with_phrases.parsed_rpp", 'r'))
+data_with_phrases = json.load(open("./data/data_with_phrases.json", 'r'))
 window_size = 5 # number of sentences before/after claims
 results = [[], [], [], []]
 for k, v in data_with_phrases.items():
@@ -353,7 +353,7 @@ with open('output_for_dan.txt', 'w') as f:
 
 
 # TF-IDF of phrases in important sentences (in/around claims)
-data_processed = json.load(open("./data/data_processed.parsed_rpp", 'r'))
+data_processed = json.load(open("./data/data_processed.json", 'r'))
 phrased_text = open("../AutoPhrase/models/DBLP_papers/segmentation.txt").readlines()
 phrases = open("../AutoPhrase/models/DBLP_papers/AutoPhrase.txt").readlines()
 phrases_ = []
@@ -366,7 +366,7 @@ for r in phrases:
 
 phrases = phrases_
 
-data = json.load(open("./data/SCORE_json.parsed_rpp", 'r'))["data"]
+data = json.load(open("./data/SCORE_json.json", 'r'))["data"]
 sorted_files = []
 for d in data:
     filename = d['pdf_filename']
