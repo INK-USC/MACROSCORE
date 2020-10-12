@@ -1,0 +1,648 @@
+YOUNG_Criminology_2011_lkxZ.pdf
+aroOH3D7wQZ1edV5IvzBr21iHv9e-YOUNG_Criminology_2011_lkxZ.pdf.plain.html
+
+ASSESSING AND EXPLAINING MISPERCEPTIONS OF PEER DELINQUENCY ∗ JACOB T. N. YOUNG School of Criminology and Criminal Justice Arizona State University J. C. BARNES Criminology Program University of Texas at Dallas RYAN C. MELDRUM Department of Criminal Justice Florida International University FRANK M. WEERMAN Netherlands Institute for the Study of Crime and Law Enforcement ( NSCR ) KEYWORDS : self-control , delinquent peers , social networks , measure- ment , theory testing Peer delinquency is a robust correlate of delinquent and criminal be- havior .
+However , debate continues to surround the proper measurement of peer delinquency .
+Recent research suggests that some respondents are likely to misrepresent their peers ’ involvement in delinquency when asked in survey questionnaires , drawing into question the traditional ( i.e. , perceptual ) measurement of peer delinquency .
+Research also has shown that direct measures of peer delinquency ( e.g. , measures obtained via networking methods such as Add Health ) , as compared with per- ceptual measures , differentially correlate with key theoretical variables ( e.g. , respondent delinquency and respondent self-control ) , raising the question of whether misperception of peer delinquency is systematic and can be predicted .
+Almost no research , however , has focused on ∗ This research is supported by funding from the Netherlands Organization for Scientific Research .
+Direct correspondence to Jacob T. N. Young , School of Criminology and Criminal Justice , Arizona State University , 411 North Central Avenue , Phoenix , AZ 85004 ( e-mail : jtny @ uw.edu ) .
+C© 2011 American Society of Criminology doi : 10.1111/j.1745-9125.2011.00232.x CRIMINOLOGY Volume 49 Number 2 2011 599 600 YOUNG ET AL .
+this issue .
+This study , therefore , provides detailed information on re- spondents ’ misperceptions of peer behavior and investigates whether individual characteristics , the amount of time spent with peers , and peer network properties predict these misperceptions .
+Findings indicated that 1 ) some individuals—to varying degrees—misperceived the delinquent behavior of their peers ; 2 ) self-control and self-reported delinquency predicted misperception ; 3 ) respondents occupying densely populated peer networks were less likely to misperceive their peers ’ delinquent involvement ; and 4 ) peers who occupy networks in which individuals spend a lot of time together were more likely to misperceive peer delin- quency .
+Implications are discussed .
+For decades , theorists and researchers have commented on and inves- tigated the role that peers play in the etiology of delinquent behavior ( e.g. , Akers , 1977 ; Sutherland , 1947 ; Warr , 2002 ) .
+Research has shown that associating with delinquent peers is one of the strongest correlates of delinquency and crime ( Akers and Jensen , 2006 ; Pratt et al. , 2010 ; Warr , 2002 ) .
+Furthermore , research provides evidence that peer behavior mediates the effect of other factors known to be related to delinquent and criminal behavior , such as age ( Warr , 1993 ) and parenting effects ( Warr , 2005 ) .
+Thus , peer influence occupies a prominent position in the field of criminology .
+Despite the numerous studies that find a significant relationship between peer and respondent delinquency , disagreement exists over the proper measurement of peer behavior .
+Some scholars ( e.g. , Davies and Kandel , 1981 ; Gottfredson and Hirschi , 1987 , 1990 ) have argued that the typical measure of peer delinquency , which relies on respondents ’ perceptions of their peers ’ behavior , results in respondents imputing their own behaviors or traits onto their peers .
+Thus , rather than capturing true peer influence , perceptual measures of peer behavior might reflect individual biases that lead to inaccurate reports of peer delinquency ( Gottfredson and Hirschi , 1990 ) .
+In an effort to circumvent the problems associated with perceptual mea- sures of peer behavior , researchers recently have made use of alternative measures by having respondents identify their peers and by directly ob- taining information from those individuals .
+This technique has come to be known as the “ social network method ” or the “ direct method ” ( Aseltine , 1995 ; Baerveldt et al. , 2004 ; Haynie , 2001 , 2002 ; Haynie and Osgood , 2005 ; Meldrum , Young , and Weerman , 2009 ; Weerman and Smeenk , 2005 ) .
+Re- search that has used the direct method indicates that the effect of peer delinquency on self-reported delinquency is less substantial than when perceptual measures are used ( e.g. , Weerman and Smeenk , 2005 ) and , moreover , that perceptual measures of peer behavior downwardly bias the MISPERCEPTIONS OF PEER DELINQUENCY 601 effect of competing theoretical variables such as self-control ( Meldrum , Young , and Weerman , 2009 ) .
+Evidence therefore suggests that perceptual measures might be problematic for obtaining valid reports of peer behavior .
+Although increasing attention is being given to the measurement and understanding of peer influence using social-networking methodologies , several important questions remain largely unexplored .
+First , and of par- ticular interest for the current investigation , few studies have examined the discrepancies between perceptual and direct measures of peer behavior .
+This discrepancy is referred to here as the misperception of peer behavior .
+Second , almost no attention has been devoted to examining the factors that explain why misperception occurs ( Prinstein and Wang , 2005 ) .
+Is misper- ception the result of individual characteristics ?
+Or , do some individuals have better access to information about their peers than others ?
+These are important , yet open , empirical questions .
+Assessing and understanding why misperception occurs is important for at least two reasons .
+First , because a large body of research has relied on the use of perceptual measures of peer behavior to assess the strength of peer influence , it is important to understand the extent to which such mea- sures differ from direct—and arguably more accurate—measures of peer behavior .
+As mentioned , multiple studies suggest that individuals might not perceive the behavior of their peers accurately ( Gottfredson and Hirschi , 1990 ; Haynie and Osgood , 2005 ; Jussim and Osgood , 1989 ; Prinstein and Wang , 2005 ; Wilcox and Udry , 1986 ) .
+Whether this error is systematic ( i.e. , youth consistently over- or underrepresent their peers ’ delinquent behavior ) has important implications for all research that includes peer delinquency as an independent variable in statistical analyses ( Meldrum , Young , and Weerman , 2009 ) .
+Second , to the extent that misperceptions occur , it is important to under- stand why certain individuals are more likely to misperceive the behavior of their peers .
+Gottfredson and Hirschi ( 1990 ) claimed that individual characteristics , such as self-control , might bias perceptual measures of peer behavior .
+Research from Haynie ( 2001 ) also suggests that variation in activities with peers and access to information about peers might lead to the misperception of peer behavior .
+Specifically , the structural features of one ’ s social network ( e.g. , network density ) and one ’ s position in that network ( i.e. , centrality ) are related to the influence of peer behavior ( Haynie , 2001 ) .
+Thus , it is possible that such network characteristics also are related to one ’ s ability to report peer behavior accurately .
+Focusing attention on these processes might help to clarify the underlying relationship between respondent and peer behavior From these considerations , we seek to address two key questions that will yield insight into the validity of perceptual measures of peer behavior .
+First , to what extent do respondents vary in misperceiving the delinquent 602 YOUNG ET AL .
+behavior of their peers ?
+Although research provides preliminary evidence that misperception of peer behavior exists ( Prinstein and Wang , 2005 ; Weerman and Smeenk , 2005 ) , scholars have yet to fully investigate the distribution of these misperceptions .
+This endeavor leads to a second question : What are the factors that contribute to the misperception of peer delinquency ?
+As the previous discussion suggests , we have reason to believe that both individual traits and social network characteristics might affect an adolescent ’ s perception of his or her peers ’ delinquency .
+Research , however , has yet to explore these possibilities .
+The data used in the current study are uniquely suited to investigating these issues .
+Most importantly , the data allow for the calculation of both a direct measure of peer delinquency and an indirect ( perceptual ) measure of peer delinquency , both of which are necessary to construct a measure of misperception .
+Furthermore , the research design allows for the measurement of friendship network characteristics ( i.e. , density , centrality , and amount of time spent socializing ) and includes a widely recognized measure of self-control .
+Having introduced the topic of our study , we now provide an overview of the issues surrounding the measurement of peer delinquency and the limited body of research that has compared perceptual measures of peer behavior to direct ( i.e. , social network ) measures of peer behavior .
+After this overview , we discuss in detail the factors that might influence a person ’ s perception of his or her peers ’ behavior .
+Next , we describe the data and measures used in the current study .
+Then an analysis is presented that provides detailed information on the distribution of misperceptions of peer delinquency within our sample and investigates the extent to which individ- ual and social network characteristics are related to these misperceptions .
+We conclude by summarizing our findings and by providing a discussion of the implications of our findings for future research .
+LITERATURE REVIEW ISSUES IN THE MEASUREMENT OF PEER DELINQUENCY Since the emergence of the self-report method as a major source of data on delinquency and crime , the traditional manner in which peer delin- quency has been measured is with perceptual indicators whereby adoles- cents provide reports of the amount of delinquency in which their friends have engaged ( e.g. , the National Youth Survey ; see Elliot , Huizinga , and Ageton , 1985 ) .
+Although this methodology is widely used , it is not necessar- ily widely accepted as a valid instrument for measuring peer delinquency .
+Several scholars have questioned the validity of perceptual measures of peer delinquency , arguing that individuals are likely to overreport the similarity of their own level of deviant behavior with that of their peers ( Gottfredson and Hirschi , 1990 ; Haynie and Osgood , 2005 ; Jussim and MISPERCEPTIONS OF PEER DELINQUENCY 603 Osgood , 1989 ; Prinstein and Wang , 2005 ; Wilcox and Udry , 1986 ) .
+If such overreporting of similarity is a general phenomenon , then estimations of the effect of peer influence on respondent delinquency that are garnered from perceptual measures are likely to be inflated because of this bias .
+In an effort to obtain more precise reports of peer behavior , researchers have begun to employ methodologies that do not rely on respondent re- ports of peer behavior .
+Instead , social network data ( e.g. , Add Health ; Haynie , 2001 ; Netherlands Institute for the Study of Crime and Law En- forcement [ NSCR ] School Project ; Weerman and Smeenk , 2005 ) have allowed for an alternative method to measure peer delinquency by hav- ing respondents identify who their peers are and by directly obtaining information from those individuals .
+Social network data , in other words , obtain information straight from the source ( i.e. , peers report on their own behavior ) .
+Research indicates an imperfect overlap in the amount of variance ex- plained by direct and perceptual measures of peer behavior ( Prinstein and Wang , 2005 ) .
+For example , correlations between direct measures of peer delinquency and self-reported delinquency are roughly one half to one third the size of correlations garnered from perceptual measures of peer delin- quency ( Iannotti and Bush , 1992 ; Kandel , 1996 ; Weerman and Smeenk , 2005 ) .
+This finding reflects the likely scenario that individuals who are in- volved in delinquency are more likely to overreport their peers ’ delinquent behavior and those who are less involved are more likely to underreport .
+Also of importance is that the use of perceptual measures of peer behavior downwardly biases estimates of competing theoretical variables , including self-control , school commitment , and time spent with peers ( Meldrum , Young , and Weerman , 2009 ) .
+Taken together , these studies indicate that perceptual measures of peer delinquency might create complications for researchers attempting to discern the “ true ” effects of peer influence .
+Clearly , research has shown that perceptual and direct measures of peer delinquency paint different pictures of peer group deviance .
+Against this backdrop , it is surprising that almost no research has considered the difference between the two measures—what we have chosen to call the misperception of peer delinquency .
+In other words , research has yet to address adequately whether respondents over- or underreport peer be- havior .
+In fact , only two relevant studies could be located ( Prinstein and Wang , 2005 ; Weerman and Smeenk , 2005 ) .
+Weerman and Smeenk ( 2005 ) found that respondents tended to underreport their peers ’ involvement in delinquency .
+Specifically , 51.6 percent of the adolescents in their sample reported that “ any of their peers ” engaged in “ any delinquent behavior ” during the reference period .
+At the same time , however , 77.2 percent of the respondents had in-school peers who reported delinquent behavior .
+This finding suggests that adolescents are not always aware of their peers ’ 604 YOUNG ET AL .
+involvement in delinquency .
+It is important to point out , however , that this study did not provide information on the distribution of over- and underreporting at the individual level , thus masking important variation across respondents .
+In a similar effort , Prinstein and Wang ( 2005 ) studied 120 best-friend dyads and asked participants to report on their best friends ’ delinquency .
+The results revealed substantial variation in misperception , but systematic over- or underreporting did not seem to occur .
+Thus , the available research indicates that the disparities in direct and perceptual measures are important to consider and that several questions remain .
+POSSIBLE MECHANISMS INFLUENCING THE PERCEPTION OF PEER DELINQUENCY Preliminary research suggests that respondent reports of their peers ’ delinquency are biased and are likely to reflect overreporting ( Meldrum , Young , and Weerman , 2009 ; Pratt et al. , 2010 ; Prinstein and Wang , 2005 ; but see Weerman and Smeenk , 2005 ) .
+The factors affecting these biases , however , are not well understood .
+Some suggest that misperceptions of peer delinquency are the result of several influences : One might reasonably ask the basis of the respondent ’ s answer to questions about the delinquency of his friends .
+Several possibilities come to mind : ( 1 ) the respondent may have been at the scene , himself engaging in the activity ; ( 2 ) the respondent may impute his own quali- ties to his friends ; ( 3 ) the respondent may impute friendship to people like himself ; ( 4 ) the respondent ’ s friends may have told him about delinquencies he did not himself witness ; or ( 5 ) the respondent may have heard about his friend ’ s delinquencies from people who witnessed or heard about them .
+If ‘ delinquency of peers ’ is really ‘ delinquency of respondent ’ ( see points 1 , 2 , and 3 ) , the causal-order question is hardly resolved .
+.
+.
+.
+If ‘ delinquency of peers ’ is really hearsay or rumor ( points 4 and 5 ) , the value of the measure is obviously suspect ( and is again contaminated by the characteristics of the respondent ) .
+( Gottfredson and Hirschi , 1990 : 157 ) The previous criticism raised by Gottfredson and Hirschi ( 1990 ) points to the fact that reporting on the behavior of peers might be a function of 1 ) the characteristics of the respondent , such as his or her level of self-control or his or her level of involvement in delinquency , and 2 ) the respondent ’ s access to information about peer behavior .
+In other words , individual traits might bias perceptual measures of peer behavior through projection effects ( Krueger and Zeiger , 1993 ; Ross , Greene , and House , 1977 ) and/or individuals might select into environments that influence their access to accurate information about their peers ’ behavior .
+MISPERCEPTIONS OF PEER DELINQUENCY 605 The characteristics of the individual are likely to influence responses to self-report questionnaires .
+Making this point explicit , Gottfredson and Hirschi ( 1990 : 48 ) stated that “ self-control itself affects survey responses. ” But why might a person ’ s level of self-control influence his or her survey responses ?
+Marcus ( 2004 : 42 ) offered the following insight on this issue : Items like those described [ self-report items ] require some kind of introspection and mostly a reliable—i.e .
+realistic—assessment of the self , including the consequences of one ’ s behavior in the past .
+These are precisely the skills or qualities we would not ascribe to a person low in self-control .
+Research has supported this position by showing that individuals with lower levels of self-control respond differently than expected to survey questions ( Piquero , MacIntosh , and Hickman , 2000 ) and that respondents with less self-control are more likely to skip survey questions than are respondents with greater self-control ( Watkins and Melde , 2007 ) .
+Given these findings and the previous theoretical statements , it is likely that an individual ’ s level of self-control will not only influence responses to survey items about one ’ s own behavior but also influence responses to items measuring the behavior of his or her peers .
+Individuals with less self-control simply might be less likely to give the thought and attention necessary to recall and provide accurate reports of the behavior of their friends .
+It is also possible that one ’ s involvement in delinquency affects per- ceptions of peer delinquency .
+During the adolescent years , delinquency is largely a group-based phenomenon .
+Scholars have noted , however , that youth do not always offend with the same group members ( McGloin et al. , 2008 ; Pratt et al. , 2010 ; Warr , 1996 ) .
+Thus , youth who are highly involved in delinquency might tend to overreport their peers ’ level of involvement in delinquency by extrapolating their experiences with some of their peers to the complete peer network .
+Preliminary evidence from one study supports this hypothesis .
+Prinstein and Wang ( 2005 ) reported that certain respondent attributes , such as the person ’ s level of aggression and the respondent ’ s own involvement in delinquency , were related to the misperception of his or her best friend ’ s behavior .
+Respondents who were more aggressive and who were more involved in delinquency were more likely to overreport their best friend ’ s involvement in delinquency .
+Gottfredson and Hirschi ( 1990 ) also noted that an individual ’ s routine activities might influence reports of his or her peers ’ behavior .
+In short , spending more time with one ’ s peers is likely to lead to more accurate reports of those peers ’ behavior .
+Because research has shown that time spent with peers influences a person ’ s involvement in delinquency ( Haynie 606 YOUNG ET AL .
+and Osgood , 2005 ; McGloin and Shermer , 2009 ; Rebellon , 2006 ) , we might expect that individuals who spend more time with their peer group will perceive the delinquency of their friends more accurately .
+Above and beyond the amount of time individuals spend with peers , fea- tures of the individual ’ s social network might influence perceptions of peer delinquency .
+Gottfredson and Hirschi ( 1990 ) indicated that an important element of the misperception of peer delinquency is that information is based on hearsay and rumor .
+Therefore , individuals in less central positions might be more likely to garner information via hearsay and rumor , whereas individuals in more central network positions might be more likely to have more direct and more accurate information about their peers ’ behaviors .
+Similarly , individuals in networks in which members share many relation- ships ( i.e. , a dense network ) and affiliate with each other on a regular basis might be more likely to transmit accurate information ( Coleman , 1990 ; Granovetter , 1985 ) .
+Coleman ( 1990 : 310 ) characterized this structural prop- erty as a resource , arguing that “ an important form of social capital is the potential for information that inheres in social relations. ” Similarly , Burt ( 2001 ) noted that the bandwidth hypothesis implicit in models of network properties as social capital ( e.g. , Coleman , 1990 ) predicts that an actor in a dense network will have better information about another person because the individual can acquire information from third-party ( i.e. , friends of friends ) sources in addition to his or her direct experience with the person .
+Several studies support this argument by showing that reputation , which involves the exchange of information about an actor ’ s past behavior , is re- lated to the structure of third-party relationships ( Buskens and Yamaguchi , 1999 ; Raub and Weesie , 1990 ; Yamaguchi , 1994 ) .
+THE CURRENT STUDY The purpose of this study is twofold .
+First , we examine the distribution of misperception of peer delinquency among a large Dutch sample of adolescents .
+Although a limited body of research provides evidence that adolescents do misreport their peers ’ involvement in delinquency ( Prinstein and Wang , 2005 ; Weerman and Smeenk , 2005 ) , we provide a much more detailed analysis of the distribution of misperception .
+Second , we examine the potential factors related to the misperception of peer delinquency .
+Scholars have hypothesized that misperceptions are linked to individual characteristics such as self-control , involvement in delinquency , time spent with peers , and characteristics of peer networks ( Gottfredson and Hirschi , 1990 ) .
+To date , however , little research has tested such hypotheses in part because the methodologies required to produce the data needed to examine these issues only have been developed recently .
+MISPERCEPTIONS OF PEER DELINQUENCY 607 Building on this limited knowledge base , the current research provides an important advancement concerning issues central to the validity of mea- sures of peer delinquency .
+The following specific hypotheses are tested : Hypothesis 1 : ( H1 ) Variation will be found in respondents ’ mispercep- tions of their peers ’ delinquent behavior .
+Hypothesis 2 : ( H2 ) Individuals with less self-control and individuals who engage in more delinquency will be more likely to misperceive the delinquency of their peers than individuals with more self-control and individuals who engage in less delinquency .
+Hypothesis 3 : ( H3 ) Individuals who spend less time with their peers and individuals who exist in networks in which members spend less time together will be more likely to misperceive the delinquency of their peers as compared with individuals who spend a lot of time with peers and individuals who exist in networks in which members spend a lot of time together .
+Hypothesis 4 : ( H4 ) Individuals in networks that are dense and individ- uals located in more central positions in their peer friendship network will be less likely to misperceive the delinquency of their peers as compared with individuals in less dense networks and individuals occupying less central positions in their peer network .
+DATA The data used in this study come from the first wave of the NSCR “ School Project , ” a Netherlands-based longitudinal study that began in 2002 and focuses on peer network formation , personal development , and school interventions that target the development of problem behaviors .
+The sampling procedure was guided by the following aims : 1 ) to obtain a relatively “ high-risk ” sample with a substantial proportion of delinquent respondents and 2 ) to achieve enough variation in school contexts and student populations to generalize results better .
+To achieve these aims , schools and students in the lower educational strata of a major Dutch city with inner-city problems were oversampled , and additional students were recruited from schools in smaller cities and towns in the vicinity .
+For a more complete description of the NSCR School Project data , please refer to Weerman and Smeenk ( 2005 ) .
+The sample consists of 1,978 students from 12 schools that had a total population of 2,370 students .
+Ages range from 11 to 18 years , but because of the accelerated cohort design of the study , respondents aged 13 and 608 YOUNG ET AL .
+15 years dominate ( 32 percent and 25 percent , respectively ) .
+Most respon- dents ( 58 percent ) live in the target city , a substantial number ( 34 percent ) live in one of two medium-sized cities ( approximately 120,000 inhabitants ) nearby , and some respondents ( 8 percent ) were recruited at a school in a smaller town ( approximately 15,000 inhabitants ) .
+As a consequence of selecting a large city , more than one third of the sample consists of respon- dents with a foreign background , but respondents with Dutch parents are still the majority ( 63 percent ) .
+Of the 1,978 sampled respondents , 1,591 had valid social network data used for this analysis.1 Measures Misperception of peer delinquency .
+The misperception of peer delin- quency variable is constructed by using the following indicators of peer behavior : a direct indicator provided by the respondent ’ s peers themselves and an indirect indicator reported on by the respondent .
+The following paragraphs , first , describe these two measures and , second , describe how the measure of misperception was calculated .
+The direct measure of peer delinquency was constructed using social net- work methods of data collection comparable with the Add Health method ( see Haynie , 2001 ) .
+Respondents were provided with a numbered list of all students in their school who were of the same grade level and were asked to identify those students with whom they usually associated ( a maximum of ten nominations could be given ) .
+The number of students on this list varied between schools ( roughly between 50 and 150 ) but usually spanned more than one classroom .
+Peers that were nominated were provided with a self-report survey that asked about their involvement in various delinquent behaviors .
+Specifically , respondents were asked to report how often they committed the following offenses in the last year : “ stole small things from shops worth less than 5 Euros , ” “ stole things worth more than 5 Euros , ” “ break or enter to steal something , ” “ robbed someone , ” and “ hit somebody so hard he or she gets wounded/hurt. ” The responses were recoded into 1 .
+From the full sample of 1,978 , 387 cases are excluded in this analysis .
+For 248 cases , the boundary of the social network differs from the boundary for the rest of the sample ( i.e. , nominations made within school vs. nominations made within the grade ) .
+The remaining 139 cases are excluded because of insufficient social network data ( e.g. , no nominations or invalid nominations ) .
+The excluded cases have a significantly higher level of self-control ( μ = 2.85 vs. μ = 2.69 , p ≤ .002 ) and significantly lower levels of delinquency ( μ = .15 vs. μ = .31 , p ≤ .000 ) .
+The differences are minimal and are unlikely to have affected the results .
+In the anal- yses presented , missing values were accounted for by using multiple imputations by chain equations with the “ ice ” procedure in STATA 10 ( StataCorp , College Station , TX ) .
+Exclusion of the cases with missing values did not substantively alter the results .
+MISPERCEPTIONS OF PEER DELINQUENCY 609 binary measures that reflected whether the respondent reported engaging in each behavior and then were summed to create a count of how many different offenses were committed by the respondent .
+The information gleaned from the peer nomination surveys then were linked to the target respondent ’ s survey responses ( i.e. , the original referring respondent ) .
+Although some past studies ( Haynie , 2001 , 2002 ; Haynie and Osgood , 2005 ; Meldrum , Young , and Weerman , 2009 ) using a direct measure of delinquency have used the sent-and-receive network ( nominations made by the respondent also are identified by the nominated peer ) , the sent network ( nominations made by the respondent only ) is more appropriate for this study given the focus on perceptions of behavior .
+The number of different offenses committed by each nominated school friend were summed and then scaled by the number of nominated school friends to account for respondents with different-size peer networks ( α = .66 ) .
+The direct measure of peer delinquency , therefore , indicates the average number of delinquent acts reported by each individual in the respondent ’ s peer group .
+The construction of the indirect measure of peer delinquency followed the conventional method in criminology ( e.g. , the National Youth Survey ; see Elliot , Huizinga , and Ageton , 1985 ) .
+Respondents were asked to report how many of their friends in the last year “ stole small things from shops worth less than 5 Euros , ” “ stole things worth more than 5 Euros , ” “ break or enter to steal something , ” “ robbed someone , ” and “ hit somebody so hard he or she gets wounded/hurt. ” The response categories for each question were “ no one , ” “ some , ” and “ most or all ” and were coded 1 , 2 , and 3 , respectively.2 The resulting scale of indirect peer delinquency is constructed by summing the values for each question and then dividing by the number of items ( α = .73 ) .
+This scale indicates the perceived amount of peer delin- quency .
+The measure of misperception of peer delinquency is created using a residual score approach consistent with prior discrepancy score research ( Brendgen et al. , 2002 ; Chi and Henshaw , 2002 ; De Los Reyes and Prinstein , 2004 ; Prinstein and Wang , 2005 ) .
+The measure is created using a three- step process .
+First , both the direct and the indirect measures of peer delin- quency are standardized .
+Second , the indirect measure of peer delinquency is regressed on the direct measure of peer delinquency and the residuals from this model are saved as a new variable .
+These residuals represent the variance of the indirect measure of peer delinquency that is not accounted for by the direct measure of peer delinquency .
+Third , a regression model is estimated where the criterion variables are reversed ( i.e. , direct is regressed 2 .
+An anonymous reviewer noted that it is possible that respondents might interpret “ no one , ” “ some , ” and “ most or all ” differently .
+This possibility , and the implica- tions that might follow , are considered in the Discussion and Conclusion section .
+610 YOUNG ET AL .
+on indirect ) and the residuals once again saved .
+The residuals from the third step are multiplied by −1 to ensure that both sets of residuals are scaled in the same direction.3 Finally , the residuals are averaged to create a measure that does not favor a particular criterion variable ( Prinstein and Wang , 2005 ) .
+Positive residuals indicate overreporting of peer delinquency , whereas negative values indicate underreporting of peer delinquency.4 Self-control .
+The measure of self-control consists of three subscales ( i.e. , impulsivity , risk-seeking , and anger ) adapted from the Grasmick et al .
+3 .
+This transformation is conducted because the residuals from each equation are negatively correlated after estimation .
+The direction of the correlation occurs because , on a two-dimensional Cartesian plane , the regression of the indirect measure on the direct measure is the transpose of the regression of the direct measure on the indirect measure .
+The residuals from the third step are multiplied by –1 to establish consistent directionality .
+4 .
+Three alternative means for computing misperception were explored .
+First , we calculated the simple difference between the direct and indirect measures of peer delinquency .
+Second , we calculated a value of misperception based on the following formula : Misperceptionik = 1δi [ ( πik × δi ) − J∑ j ηik j ] = πik − J∑ j ηik j δi where δ i is the number of nominations made by respondent i ; π ik is the perceived proportion of the peer group engaging in item k reported by respondent i ; and η ikj is the response of network member j to item k for respondent i .
+The index is created by summing over k items and dividing by the number of items .
+Third , we employed an ordinal approach for measuring misperception .
+Specifically , for each type of delinquency , we created an indicator of misperception based on a confidence interval of indirect perception such that if the respondent reported that “ none ” of his or her friends engaged in delinquency and the proportion of friends who engaged in the behavior was greater than 0 , then the respondent received a value of –1 ( i.e. , underreporting ) .
+If none of his or her friends reported engaging in the behavior , then the respondent received a value of 0 ( i.e. , no misperception ) .
+This process also was carried out for respondents who reported that “ some ” or “ most or all ” of their friends engaged in each item .
+The final step was to average across the individual items to create a measure of misperception that collapses the variation within ordinal categories that is attributable to measurement error to zero .
+We elected to present the residual score approach as opposed to one of these other methods for three reasons .
+First , the two measurements of peer delinquency are not completely parallel in their categorization .
+Second , analyses revealed that the three different misperception measures were highly correlated with the residual variable presented in the text ( r = .91 for the simple difference score approach , r = .89 for the misperception formula approach , and r = .87 for the ordinal approach ) .
+Third , results from models employing these other operationalizations were substantively identical to the results obtained from models using the residual scores ( i.e. , those presented in the text ) .
+These analyses are available upon request .
+MISPERCEPTIONS OF PEER DELINQUENCY 611 ( 1993 ) scale .
+The following 12 items were included : “ I often do things without thinking first ” ; “ I make fun if I can , even if it leads to trouble ” ; “ I say what I think immediately ” ; “ I often do what I feel like immediately ” ; “ I like to do exciting and adventurous things ” ; “ I like to try out scary things ” ; “ I love doing dangerous things ” ; “ I think it ’ s stupid to do things for fun where you might get hurt ” ( reverse coded ) ; “ People better stay away from me when I am angry ” ; “ I would rather hit someone than talk when I am angry at them ” ; “ I can talk out arguments calmly ” ( reverse coded ) ; and “ I get angry easily. ” Response categories were a five-point , Likert-type scale ranging from “ completely agree ” ( = 1 ) to “ completely disagree ” ( = 5 ) , with higher values indicating greater self-control .
+Confirmatory factor analysis indicated that the subscales represent three dimensions of a single common factor ( α = .78 ) , and the factor loadings are shown in appendix A .
+The self-control scale is created by summing the responses and dividing by the number of items .
+Self-reported delinquency .
+Respondents were asked whether they ever had committed any of five offenses and , if so , how often during the refer- ence period , which covered the interval between the last summer holiday prior to the beginning of the school year and the time when the survey was administered ( April and May ) .
+The measure used in this study comes from the following five questions that reference the same behaviors tapped when measuring peer delinquency : In the last year , how many times did you “ steal small things from shops worth less than 5 Euros , ” “ steal things worth more than 5 Euros , ” “ break or enter to steal something , ” “ rob someone , ” and “ hit somebody so hard he or she gets wounded/hurt ? ” The responses to each item were coded into binary measures that reflected whether the respondent reported engaging in the behavior .
+These measures then were summed and divided by the number of items to create a scale of delinquency for the respondent ( α = .69 ) .
+Higher values reflect a greater variety of delinquent involvement .
+Time spent with peers .
+To account for variability in social interaction , we constructed a variable measuring the amount of time respondents spent with their peers .
+The items used , with the response categories in parenthe- ses and numerical codes in brackets , include the following : 1 .
+“ After school , are you usually at home or away from home ? ” ( usu- ally at home [ = 1 ] , about as much at home as away from home [ = 2 ] , or usually away from home [ = 3 ] ) 2 .
+“ How often do you spend time with your friends after school ? ” ( almost never [ = 1 ] , some days [ = 2 ] , or most or all days [ = 3 ] ) 3 .
+“ How long are you with your friends during weekdays ? ” ( less than 1 hour [ = 1 ] , a few hours [ = 2 ] , or all afternoon and evening [ = 3 ] ) 612 YOUNG ET AL .
+4 .
+“ How often do you meet with your friends on the weekend ? ” ( al- most never [ = 1 ] , Saturday or Sunday [ = 2 ] , or Saturday and Sunday [ = 3 ] ) 5 .
+“ How long are you with your friends during weekend days ? ” ( less than 1 hour [ = 1 ] , a few hours [ = 2 ] , or all afternoon and evening [ = 3 ] ) All items for the time spent with peers variable were combined into a single scale by summing and dividing by the number of items ( α = .78 ) .
+Larger values reflect more time spent with peers .
+In addition to the time that an individual spends with his or her peers , the time that other members of the individual ’ s peer group spend together might influence the information to which an individual is exposed .
+Thus , we included a measure of how often the individuals in the respondent ’ s peer network spend time together .
+This variable is created by summing the time spent with peers scale across all nominated peers and then di- viding by the number of friends to create a scale ( α = .82 ) .
+Higher values reflect a greater amount of time spent between peers in the same social network .
+Peer network properties .
+Previous work has shown that the density of an individual ’ s peer network and the position of the individual in his or her network are important factors to consider in relation to delinquency ( Haynie , 2001 ) .
+We include a measure of network density operationalized as the proportion of social ties in an individual ’ s network relative to the total possible number of ties ( Wasserman and Faust , 1994 ) .
+Higher values indicate greater network density .
+To measure network centrality , we use the Bonacich ( 1987 ) centrality method , which is based on the number of friends a respondent nominates and the number of friends the respondent ’ s friends nominate .
+Larger num- bers indicate that the respondent occupies a more central position in the peer network .
+Control variables .
+Given that peer nominations were limited to students who attended the same school as the target respondent , the potential for bias in regression estimates exists if some respondents have numerous friends outside of their immediate school setting .
+To correct for this possi- bility , a “ friends outside of school ” measure is included as a control variable in the analysis .
+Specifically , respondents were asked to indicate whether most of their peers attend their school .
+Response categories were “ almost all of my friends are in this school ” ( = 1 ) , “ about half are in school and half are outside of this school ” ( = 2 ) , and “ almost all of my friends are outside of this school ” ( = 3 ) .
+Controls for age ( coded in years ) , sex ( 1 = male ) , and a dummy variable to indicate whether the respondent ’ s parents were MISPERCEPTIONS OF PEER DELINQUENCY 613 Table 1 .
+Descriptive Statistics Number of Variables Observations Mean SD Min Max Male 1,591 .45 .49 .00 1.00 Age 1,591 14.10 1.32 12.00 17.00 Parents foreign born 1,591 .42 .49 .00 1.00 Friends outside school 1,591 2.10 .73 1.00 3.00 Time with friends 1,587 2.27 .52 1.00 3.00 Network average time with friends 1,591 2.29 .49 1.12 3.00 Network density 1,591 .34 .17 .00 1.00 Network centrality 1,591 .90 .46 .04 2.32 Self-reported delinquency 1,591 .32 .69 .00 5.00 Self-control 1,450 2.74 .72 1.00 5.00 Misperception of peer delinquency ( untransformed score ) 1,591 .00 .76 −6.57 3.24 Misperception of peer delinquency ( absolute value ) 1,591 .50 .57 .00 6.57 ABBREVIATIONS : Max = maximum ; Min = minimum ; SD = standard deviation .
+born in a foreign country ( 1 = foreign born parents ) also are included in the models .
+Descriptive statistics for each variable are shown in table 1 , and the correlation matrix for all variables can be found in appendix B. ANALYTIC PLAN The analysis will proceed in two steps .
+The first step is to examine the distributional properties of the measure of misperception of peer delin- quency ( hypothesis 1 ) .
+Recall that hypotheses 2–4 link respondents ’ level of self-control , their involvement in delinquency , the amount of time they spend with their peers , and their peer network characteristics with their misperceptions of peer delinquency .
+It is unclear , however , whether these factors should differentiate between overrepresentations and underrepre- sentations of peer delinquency , as this is theoretically unspecified .
+In other words , we have no a priori reason to believe , for example , that levels of self-control should be directionally related to the misperception measure .
+Instead , prior theoretical statements ( Gottfredson and Hirschi , 1990 ) only indicate that self-control should predict misperception , both over- and underrepresentation .
+For this reason , we created a transformed measure of misperception by calculating the absolute value .
+Taking the absolute value of the misperception measure captures all misperception as a positive number , regardless of whether it is under- or overreporting of peer delin- quency .
+However , we do maintain the untransformed values for analysis .
+We present graphical representations of both distributions ( absolute value and untransformed ) of the misperception measure .
+The second step in the analysis will analyze the extent to which respon- dents ’ level of self-control , their involvement in delinquency , the amount of time they spend with their peers , and their peer network properties are 614 YOUNG ET AL .
+related to their misperception of their peers ’ delinquency .
+To examine these relationships , we present ordinary least-squares ( OLS ) regression models in which the two measures of misperception of peer delinquency ( i.e. , absolute value measure and untransformed measure ) are used as the dependent vari- ables .
+These models will inform hypotheses 2–4.5 Because respondents are nested within schools , we use the “ cluster ” option in STATA 10 to correct the standard errors in the models for both measures of misperception .
+Given the measurement strategy for the misperception variable , a cross- sectional analysis is most appropriate for two reasons .
+First , an individual ’ s reported perception ( and any resulting misperception ) of peer delinquency is a contemporaneous indicator that is captured at the time a survey questionnaire is completed .
+Second , an individual ’ s report of self-control , involvement in delinquency , and time spent with peers reflects behaviors and attitudes that have occurred or have been established prior to the administration of the survey .
+Self-control and the other social process variables are tapping behaviors and events prior to the respondent ’ s report of his or her peers ’ delinquency and , therefore , prior to the measurement of misperception .
+As a result , correct temporal ordering is established in a cross-sectional analysis .
+RESULTS DISTRIBUTION OF MISPERCEPTIONS Figure 1 shows the distribution of the absolute value transformation of the misperception variable .
+The extent to which each respondent misper- ceived his or her peers ’ involvement in delinquency , regardless of whether over- or underreporting occurred , is represented as a positive value .
+The plot shows vertical lines for the mean ( μ ) , 1 standard deviation above the mean ( +1 σ ) , and 2 standard deviations above the mean ( +2 σ ) for the measure .
+The x-axis represents the values of the misperception variable .
+Because the misperception variable is created by averaging the residuals from two regressions , the meaning of an exact value is difficult to in- terpret .
+The distribution of the deviations , as well as the magnitude of the deviations , however , is important to evaluate .
+As is shown , roughly 5 .
+Prior to performing the regression analyses , a log transformation was performed on the absolute value measure of misperception .
+This transformation was neces- sary to normalize the distribution because transforming the misperception variable into absolute values allowed for the distribution to range from zero to positive infinity .
+The log transformation was successful in reducing the skew ( skewness prior to transformation = 2.715 and skewness after transformation = .210 ) .
+No respondents scored a zero on the misperception variable ; thus , no cases were dropped because of the log transformation .
+MISPERCEPTIONS OF PEER DELINQUENCY 615 Figure 1 .
+Distribution of Misperception ( Absolute Value Transformation ) 20 percent of the sample ( n = 303 ) had a value less than or equal to .01 on the misperception measure .
+These respondents can be regarded as having closely perceived the delinquency of their peers .
+It is important to reiterate , however , that an examination of the exact level of accuracy/inaccuracy of reporting can not be inferred from this analysis .
+Instead , we only can report on the distribution of misperceptions in the sample .
+Nonetheless , an important point to take away from figure 1 is that some respondents misperceived the delinquency of their peers .
+In other words , the perceptual measure of peer delinquency did not map well with the direct measure of peer delinquency .
+This point also is reflected by the fact that the correlation between the indirect measure and direct measure of peer delinquency is only r = .18.6 Figure 2 shows the distribution for the untransformed measure of misper- ception .
+Because the variable in this figure is not transformed into absolute values , it presents both over- and underreporting of peer delinquency that occurred within the sample .
+Figure 2 reveals two important things .
+First , 6 .
+An anonymous reviewer noted that the correlation between the perceptual mea- sure and the direct measure of peer delinquency , after correcting for attenuation because of measurement error , is approximately .26 .
+616 YOUNG ET AL .
+Figure 2 .
+Distribution of Misperception ( Untransformated ) and consistent with the distribution of the absolute value measure of mis- perception , a large percentage of individuals have values that are close to zero .
+Second , and a point that was masked by the absolute value measure , some individuals tend to overestimate the delinquent behavior of their peers , but others underestimate their peers ’ delinquent behavior .
+Taken to- gether , the distributions presented in figures 1 and 2 provide partial support for hypothesis 1 by demonstrating that , although most individuals tend to estimate the behavior of their peers closely , some individuals do not and this misperception varies from large underreporting to large overreporting.7 PREDICTORS OF MISPERCEPTION Having found variability around the mean of the misperception mea- sures , we now investigate the potential explanations as to why some 7 .
+An anonymous reviewer noted that some studies have shown that individuals are actually more accurate in their perceptions than would be expected ( e.g. , Funder , 1987 ; Jussim , 1991 ; Kenny , 1994 ) .
+Our findings can not inform this line of inquiry directly because we employed a residual score approach .
+However , we do show a nontrivial amount of variation in misperceptions , suggesting that some individuals misperceive peer behavior .
+MISPERCEPTIONS OF PEER DELINQUENCY 617 Table 2 .
+OLS Regression of Misperception of Peer Delinquency ( N = 1,591 ) Absolute Value Score Untransformed Score Predictors Model 1 Model 2 Male −.138 −.110∗ ( .161 ) ( .042 ) Age −.035 −.013 ( .058 ) ( .018 ) Age-squared .006 .008 ( .027 ) ( .013 ) Parents foreign born .104 .011 ( .101 ) ( .045 ) Friends outside of school .103 .032 ( .068 ) ( .035 ) Time with friends .004 .006 ( .050 ) ( .024 ) Network average time with friends .323∗∗ −.155∗∗ ( .036 ) ( .035 ) Network density −.126∗ −.004 ( .047 ) ( .017 ) Network centrality .043 .023 ( .046 ) ( .036 ) Self-control −.198∗∗ −.081∗∗ ( .053 ) ( .012 ) Self-reported delinquency .249∗∗ .182∗∗ ( .029 ) ( .021 ) Constant −1.060 .248 ( .925 ) ( .248 ) R2 .155 .116 NOTE : Unstandardized coefficients with robust standard errors corrected for clustering in parentheses .
+∗p < .05 ; ∗∗p < .01. individuals might have greater misperceptions of their peers ’ delinquency than others .
+Table 2 presents results from regression models in which both the absolute value measure of misperception ( model 1 ) and the untrans- formed measure ( model 2 ) are employed as dependent variables .
+Beginning with the absolute value transformation of misperception , model 1 reveals that respondents who spend more time with their peers are no more likely to misperceive their peers ’ delinquency as compared with respondents who spend little time with their peers .
+Also , respondents who are located in networks in which group members spend more time together are more likely to misperceive their peers ’ behavior .
+These findings are counter to hypothesis 3 .
+In line with hypothesis 4 , however , model 1 re- vealed that respondents located in denser social networks were less likely to misperceive their peers ’ involvement in delinquency .
+The measure tapping respondents ’ network centrality was unrelated to misperception .
+618 YOUNG ET AL .
+In support of hypothesis 2 , respondents ’ level of self-control and their level of involvement in delinquency significantly predicted misperception .
+Specifically , lower levels of self-control were associated with more misper- ception and a greater involvement in delinquency was associated with more misperception .
+Consistent with prior research ( Prinstein and Wang , 2005 ) , this latter finding—that delinquency is positively related to misperception— indicates that individuals might project their own delinquent behavior onto their peers ( Krueger and Zeiger , 1993 ; Ross , Greene , and House , 1977 ) .
+For example , the mean value of delinquency for cases that are within .5 , 1.0 , and 2.0 standard deviations above the mean for the absolute value measure of misperception is .14 , .30 , and .43 , respectively .
+The results from model 1 revealed that several factors—both peer net- work characteristics and individual-level characteristics—are associated with a greater degree of misperception .
+Although informative , this model tells us nothing about the direction of misperception .
+For example , model 1 shows that respondents with lower levels of self-control were more likely to misperceive their peers ’ delinquency .
+Whether this misperception takes the form of overreports or underreports of peer delinquency remains to be examined .
+Model 2 presents the results of an OLS regression equation in which the independent variables are predicting scores on the untransformed measure of misperception .
+The benefit of this model is that it allows for the investi- gation of factors that predict over- and underreporting of peer delinquency .
+Model 2 shows that males are significantly more likely to underreport their peers ’ involvement in delinquency as compared with females .
+Respondents who occupy friendship networks in which group members spend a lot of time together were significantly more likely to underreport their peers ’ delinquent behavior as compared with respondents in groups that spend less time together .
+As is shown , the self-control measure was related significantly to the untransformed value of misperception .
+The coefficient was negative , in- dicating that respondents with less self-control were significantly more likely to overreport their peers ’ delinquency , as compared with respondents with greater self-control .
+Respondent ’ s self-reported delinquency also was associated significantly with the untransformed value of misperception .
+The association was positive , meaning that respondents who reported more involvement in delinquent activities also were more likely to overreport their peers ’ involvement in delinquency .
+It is important to note that the models in table 2 provide slightly different images regarding the predictors of misperception of peer delinquency .
+This difference is most evident when the proportion of explained variance is examined across models .
+For example , model 1 explained 15.5 percent of the variance in the absolute value measure , whereas model 2 explained MISPERCEPTIONS OF PEER DELINQUENCY 619 11.6 percent of the variance in the untransformed measure of mispercep- tion .
+In supplementary analyses not shown , the explained variance for the untransformed measure , as compared with the explained variance for the absolute value measure , increased to a greater degree when the self-control and self-reported delinquency items were added in a stepwise fashion ( the variance increased by a factor of 2.3 for the untransformed measure ; the variance increased by a factor of .5 for the absolute value measure ) .
+In other words , adding self-control and self-reported delinquency to the model is much more informative for the untransformed measure of misperception as compared with the absolute value measure .
+When the absolute value measure is used , the directionality of misperception is masked and the network property variables explain a larger fraction of the variance .
+Thus , looking at the two measures of misperception ( undirected [ model 1 ] and directed [ model 2 ] ) reveals an interesting finding ; general or undirected misperception is more attributable to network properties and information sharing , whereas overreporting of peer delinquency is primarily attributable to individual characteristics .
+DISCUSSION AND CONCLUSION The study of peer influence on an individual ’ s delinquent behavior oc- cupies a prominent position in the field of criminology .
+Indeed , the role of peer influence has been at the forefront of criminological theorizing for decades ( Sutherland , 1947 ) .
+However , disagreement over the proper mea- surement of peer delinquency abounds .
+Scholars have proposed two distinct measurement strategies .
+The first is an indirect ( perceptual ) measure of peer delinquency that relies on the reports of the target respondent .
+The second measurement strategy uses social networking techniques and ob- tains reports directly from the respondent ’ s peers ( i.e. , the direct method ) .
+Criminologists only recently have used the latter method , but researchers already have begun to find that the two measurement strategies can produce different results .
+For example , Meldrum , Young , and Weerman ( 2009 ) recently found that the two different measures of peer delinquency can in- fluence the relationship between other key variables and respondent delin- quency .
+Meldrum , Young , and Weerman ’ s study , as well as other studies ( e.g. , Haynie and Osgood , 2005 ; Prinstein and Wang , 2005 ; Weerman and Smeenk , 2005 ) , highlighted the differences between perceptual measures of peer delinquency and those obtained via direct measurements .
+Surprisingly , however , almost no attention has been devoted to examining whether these differences occur randomly or systematically ( Prinstein and Wang , 2005 ) .
+The current study filled this void in the extant literature by analyzing 1 ) the degree to which survey respondents misperceive their peers ’ involvement 620 YOUNG ET AL .
+in delinquency and 2 ) the extent to which measureable characteristics are related to misperceptions .
+In summarizing the results , it is important to contextualize them within the four hypotheses that were proposed .
+First , although some individuals seem to misestimate peer behavior substantially , most had misperception values close to zero ( hypothesis 1 ) .
+Still , enough variability was present to explore the various factors that might be linked to misperception .
+Ac- cordingly , we investigated and found support for hypothesis 2 , which stated that respondents with less self-control and respondents who reported more delinquency would have greater misperceptions .
+This finding supports a large literature that documents individuals ’ tendencies to project their be- haviors onto others ( Krueger and Zeiger , 1993 ; Ross , Greene , and House , 1977 ) .
+Hypothesis 3 stated that respondents who spend less time with their peers and who were embedded in networks in which members spend less time together would be more likely to misperceive the delinquency of their peers as compared with individuals who spend a lot of time with peers .
+Our findings were not supportive of hypothesis 3 .
+Although the amount of time respondents spend with their peers was unrelated to misperceptions , the amount of time peers in the same network spend together was positively related to misperception ( i.e. , more time together predicted more misper- ception ) .
+This latter finding was somewhat surprising and counter to our hypothesis .
+For these reasons , post hoc theorizing is all that can be offered .
+One possibility is the echo hypothesis proposed by Burt ( 2001 ) .
+Rather than exposing an actor to more accurate information , the echo hypothesis claims that structural features of the network facilitate the dissemination of inaccurate information by reinforcing an actor ’ s misperception .
+This reinforcement occurs when actors selectively disclose information that they perceive to be relevant to the situation ( e.g. , topics related to deviance ) .
+Dishion et al. ’ s ( 1996 ) notion of deviancy training , in which peers reinforce each other for deviant talk or behavior and ridicule conforming behavior by others , illustrates this process .
+Youth spending more time together might facilitate this process and influence perceptions of delinquency if youth frequently discuss these topics .
+If this were the case , then the findings observed here might be expected .
+Finally , hypothesis 4 linked peer network properties ( network density and centrality ) to misperception .
+Network density was associated with misperception in the predicted direction ( i.e. , more density is related to less misperception ) but did not differentiate over- versus underreporting of peer delinquency .
+In other words , when it comes to information about peer behavior , network density affects the transmission of accurate information .
+Network density does not , however , determine whether inaccurate infor- mation results in the over- or underrepresentation of peer delinquency .
+MISPERCEPTIONS OF PEER DELINQUENCY 621 Furthermore , contrary to hypothesis 4 , no evidence was found to link network centrality with misperceptions .
+In broad strokes , the current findings indicate that misperceptions of peer delinquency are attributable to multiple sources ( i.e. , characteristics of the individual and characteristics of the individual ’ s peer network ) .
+Moreover , analysis of the explained variance in misperception indicates that the utility of different variables for explaining misperception of peer delinquency depends on the way that misperception is conceptualized ( i.e. , absolute value [ undirected measure ] vs. a directional measure ) .
+To be sure , a larger portion of the variance was explained for the absolute value of mispercep- tion as compared with the explained variance in the untransformed ( i.e. , directional ) measure of misperception .
+When the directionality of misper- ception was suppressed with the absolute value measure , the average time the individual ’ s peer group spends together and network density explained the largest portion of the variance .
+However , individual characteristics such as self-control and self-reported delinquency were related strongly to the directionality of misperception .
+This finding suggests that both individual- level and network-level processes are operational and complements the call for research that focuses on an integrated understanding of individual propensities and group processes ( e.g. , McGloin and Shermer , 2009 ) .
+Furthermore , the findings of this study contribute to both the self- control and the peer delinquency literature in several ways .
+First , this study has provided support for Gottfredson and Hirschi ’ s ( 1990 ; Hirschi and Gottfredson , 1993 ) statements regarding the effect of self-control on sur- vey response by demonstrating that individuals with less self-control are more likely to misperceive their peers ’ delinquency .
+Second , this study contributes to the ongoing debate regarding the most appropriate mea- surement of peer delinquency .
+This study moves the literature forward by showing that direct and indirect measures of peer delinquency differ and that these differences are not distributed randomly across respondents .
+Instead , the degree to which a person will misperceive his or her peers ’ delinquency is associated with several individual-level and social factors .
+Furthermore , the direction of the misperception—whether under- or over- reporting will occur—also seems to be influenced by multiple factors such as the respondent ’ s level of self-control , delinquency , and social network properties .
+Our findings indicate that misperceptions of peer behavior , in addition to peer behavior per se , might be important to consider when explaining delinquent behavior .
+Future work should explore whether misperception predicts later delinquency .
+If so , then it would suggest that social influence might operate through mechanisms not suggested by typical peer influence explanations ( e.g. , social learning theory ) .
+Future scholars might consider , for example , the question of whether perceived peer delinquency is more 622 YOUNG ET AL .
+influential than actual peer delinquency .
+Moreover , misperceptions of peer delinquency might vary according to the type of deviant behavior being con- sidered .
+The nature of certain activities might make them more visible and , therefore , easier to perceive accurately .
+Also , behaviors that are accorded higher status might be more likely to be exaggerated in social discourse , leading to less accurate views of the prevalence of behavior .
+Overall , we believe that the study of misperception of peer behavior is a fruitful avenue for understanding the various ways in which concepts from various theories operate together .
+Limitations of this study require discussion .
+First , the direct measurement of peer delinquency that was used to construct the measure of mispercep- tion was constrained to friends inside the same school and grade as the respondent .
+This means that friends who were older or younger than the target respondent , or friends who were made outside of the school context , were not included .
+This limitation , however , is unlikely to have affected the results substantially for two reasons .
+First , we controlled for the degree to which respondents had friends outside of school , thereby limiting any bias- ing effect that might have resulted from the measurement strategy .
+Second , supplemental analyses not shown indicated that the findings reported here are substantively identical when the sample was constrained to respondents who reported only having in-school peers .
+A second limitation has roots in the self-control literature .
+Specifically , prior research has linked self-control with item nonresponse ( i.e. , skipping survey questions ; Watkins and Melde , 2007 ) and with unreliable survey re- sponses ( Piquero , MacIntosh , and Hickman , 2000 ) .
+Although nonresponse is unlikely to have affected the current study ( only 9 percent of respondents had missing data , and data imputation procedures did not reveal divergent results when compared with models with no data imputation ) , to the extent that persons with less self-control provided unreliable answers , the current findings are likely to have been attenuated because unreliable measures bias correlations toward zero .
+If unreliability is a function of a third variable ( say self-control ) , however , then this bias might be controlled if a measure of that third variable is included .
+Thus , including a measure of each respon- dent ’ s level of self-control has taken this issue into account ( although not perfectly because self-control can not be measured without error ) .
+Future research exploring the degree to which unreliable survey responses and self- control covary will pave the way for a more in-depth discussion of the effect that this limitation might have had on the current findings .
+Finally , the strategy employed for measuring misperceptions must be considered in light of the potential for substantive measurement error .
+To be sure , the misperception variable captures respondents ’ mispercep- tions of their peers ’ delinquency .
+However , the misperception measures also include measurement error because the two construct measures ( i.e. , MISPERCEPTIONS OF PEER DELINQUENCY 623 perceptual and direct peer delinquency ) could not be measured without error .
+Such limitations , however , are not unique to this study .
+Indeed all social-science research suffers from measurement error to some degree .
+Thus , we are left with the following important question : Are the current findings sensitive to measurement error ?
+Although it is impossible to know for sure , we took a number of steps to try and address this question .
+Specifically , we reanalyzed the models presented using three alternative measurement strategies for misperception ( see footnote 4 ) .
+The findings from these analyses were identical to those presented in table 2 , suggesting that inflation of the variance that might occur because of a lack of precision in our measure does not influence the substantive conclusions .
+Thus , we can not rule out measurement error , but we can say that the current results are unlikely to be sensitive to these effects .
+In conclusion , theoretical constructs such as peer delinquency measured via perceptions might be biased ( to a certain degree in predictable direc- tions ) by individual characteristics and characteristics of an individual ’ s peer network .
+In this regard , the current findings are critical to the devel- opment of a discipline such as criminology , which primarily relies on data drawn from survey information .
+Until the factors that lead to mispercep- tions are better understood , future researchers should use caution when interpreting the effect of variables that are measured as a respondent ’ s perceptions .
+This caution is especially relevant when peer delinquency is the research focal point .
+REFERENCES Akers , Ronald L. 1977 .
+Deviant Behavior : A Social Learning Approach , 2nd ed .
+Belmont , CA : Wadsworth .
+Akers , Ronald L. , and Gary F. Jensen .
+2006 .
+The empirical status of social learning theory of crime and deviance : The past , present , and future .
+In Taking Stock : The Status of Criminological Theory , vol .
+15 , eds .
+Francis T. Cullen , John P. Wright , and Kristie R. Blevins .
+New Brunswick , NJ : Transaction .
+Aseltine , Robert H. 1995 .
+A reconsideration of parental and peer influences on adolescent deviance .
+Journal of Health and Social Behavior 36 : 103–21 .
+Baerveldt , Chris , Marije A. J .
+Van Duijn , Lotte Vermeij , and Dianne A .
+Van Hermert .
+2004 .
+Ethnic boundaries and personal choice : Assessing the influence of individual inclinations to choose intra-ethnic relation- ships on pupils ’ networks .
+Social Networks 26:55–74 .
+624 YOUNG ET AL .
+Bonacich , Phillip .
+1987 .
+Power and centrality : A family of measures .
+The American Journal of Sociology 92:1170–82 .
+Brendgen , Mara , Frank Vitaro , Lyse Tugeon , and Francois Poulin .
+2002 .
+Assessing aggressive and depressed children ’ s social relations with classmates and friends : A matter of perspective .
+Journal of Abnormal Child Psychology 30:609–24 .
+Burt , Ronald S. 2001 .
+Bandwidth and echo : Trust , information , and gossip in social networks .
+In Networks and Markets , eds .
+James E. Rauch and Alessandra Casella .
+New York : Russell Sage Foundation .
+Buskens , Vincent , and Kazuo Yamaguchi .
+1999 .
+A new model for informa- tion diffusion in heterogeneous social networks .
+Sociological Methodol- ogy 29:281–325 .
+Chi , Terry C. , and Stephen P. Henshaw .
+2002 .
+Mother-child relationships of children with ADHD : The role of maternal depressive symptoms and depression-related distortions .
+Journal of Abnormal Child Psychology 30:387–400 .
+Coleman , James S. 1990 .
+Foundations of Social Theory .
+Cambridge , MA : Harvard University Press .
+Davies , Mark , and Denise B. Kandel .
+1981 .
+Parental and peer influences on adolescents ’ educational plans : Some further evidence .
+American Journal of Sociology 87:363–87 .
+De Los Reyes , Andres , and Mitchell J. Prinstein .
+2004 .
+Applying depression-distortion hypotheses to the assessment of peer victimiza- tion in adolescents .
+Journal of Clinical Child and Adolescent Psychology 33:325–35 .
+Dishion , Thomas J. , Kathleen M. Spracklen , David W. Andrews , and Gerald R. Patterson .
+1996 .
+Deviancy training in male adolescent friend- ships .
+Behavior Therapy 27:373–90 .
+Elliott , Delbert S. , David Huizinga , and Suzanne S. Ageton .
+1985 .
+Explain- ing Delinquency and Drug Use .
+Beverly Hills , CA : Sage .
+Funder , David C. 1987 .
+Errors and mistakes : Evaluating the accuracy of social judgment .
+Psychological Bulletin 101:75–90 .
+Gottfredson , Michael R. , and Travis Hirschi .
+1987 .
+The methodological adequacy of longitudinal research on crime .
+Criminology 25:581–614 .
+MISPERCEPTIONS OF PEER DELINQUENCY 625 Gottfredson , Michael R. , and Travis Hirschi .
+1990 .
+A General Theory of Crime .
+Palo Alto , CA : Stanford University Press .
+Granovetter , Mark .
+1985 .
+Economic action and social structure : The prob- lem of embeddedness .
+American Journal of Sociology 91:481–510 .
+Grasmick , Harold G. , Charles R. Tittle , Robert J. Bursik , Jr. , and Bruce Arneklev .
+1993 .
+Testing the core empirical implications of Gottfredson and Hirschi ’ s general theory of crime .
+Journal of Research in Crime and Delinquency 30:5–29 .
+Haynie , Dana L. 2001 .
+Delinquent peers revisited : Does network structure matter ?
+American Journal of Sociology 106:1013–57 .
+Haynie , Dana L. 2002 .
+Friendship networks and delinquency : The relative nature of peer delinquency .
+Journal of Quantitative Criminology 18:99– 134 .
+Haynie , Dana L. , and D. Wayne Osgood .
+2005 .
+Reconsidering peers and delinquency : How do peers matter ?
+Social Forces 84:1109–30 .
+Hirschi , Travis , and Michael R. Gottfredson .
+1993 .
+Commentary : Test- ing the general theory of crime .
+Journal of Research in Crime and Delinquency 30:47–54 .
+Iannotti , Ronald J. , and Patricia J. Bush .
+1992 .
+Perceived vs. actual friends ’ use of alcohol , cigarettes , marijuana , and cocaine : Which has the most influence ?
+Journal of Youth and Adolescence 21:375–89 .
+Jussim , Lee .
+1991 .
+Social perception and social reality : A reflection- construction model .
+Psychological Review 98:54–73 .
+Jussim , Lee , and D. Wayne Osgood .
+1989 .
+Influence and similarity among friends : An integrative model applied to incarcerated adolescents .
+Social Psychology Quarterly 52:98–112 .
+Kandel , Denise B .
+1996 .
+The parental and peer contexts of adolescent deviance : An algebra of interpersonal influences .
+Journal of Drug Issues 26:289–315 .
+Kenny , David A .
+1994 .
+Interpersonal Perception : A Social Relational Anal- ysis .
+New York : Guilford Press .
+Krueger , Joachim , and Joanna S. Zeiger .
+1993 .
+Social categorization and the truly false consensus effect .
+Journal of Personality and Social Psychology 65:670–80 .
+626 YOUNG ET AL .
+Marcus , Bernd .
+2004 .
+Self-control in the general theory of crime : Theoret- ical implications of a measurement problem .
+Theoretical Criminology 8:33–55 .
+McGloin , Jean M. , and Lauren Shermer .
+2009 .
+Self-control and deviant peer network structure .
+Journal of Research in Crime and Delinquency 46:35–72 .
+McGloin , Jean M. , Christopher J. Sullivan , Alex R. Piquero , and Sarah Bacon .
+2008 .
+Investigating the stability of co-offending and co-offenders among a sample of youthful offenders .
+Criminology 46:155–88 .
+Meldrum , Ryan C. , Jacob T. N. Young , and Frank M. Weerman .
+2009 .
+Reconsidering the effect of self-control and delinquent peers : Implica- tions of measurement for theoretical significance .
+Journal of Research in Crime and Delinquency 46:353–76 .
+Piquero , Alex R. , Randall MacIntosh , and Matthew Hickman .
+2000 .
+Does self-control affect survey response ?
+Applying exploratory , confirma- tory , and item response theory analysis to Grasmick et al. ’ s self-control scale .
+Criminology 38:897–930 .
+Pratt , Travis C. , Francis T. Cullen , Christine S. Sellers , L. Thomas Winfree , Jr. , Tamara D. Madensen , Leah E. Daigle , Noelle E. Fearn , and Jacinta M. Gau .
+2010 .
+The empirical status of social learning theory : A meta- analysis .
+Justice Quarterly 27:765–802 .
+Prinstein , Mitchell J. , and Shirley S. Wang .
+2005 .
+False consensus and ado- lescent peer contagion : Examining discrepancies between perceptions and actual reported levels of friends ’ deviant and health risk behavior .
+Journal of Abnormal Child Psychology 33:293–306 .
+Raub , Werner , and Jeroen Weesie .
+1990 .
+Reputation and efficiency in social interactions : An example of network effects .
+American Journal of Sociology 96:626–54 .
+Rebellon , Cesar J .
+2006 .
+Do adolescents engage in delinquency to attract social attention of peers ?
+An extension and test of the social reinforce- ment hypothesis .
+Journal of Research in Crime and Delinquency 43 : 387–411 .
+Ross , Lee , David Greene , and Pamela House .
+1977 .
+The “ false consensus effect ” : An egocentric bias in social perception and attribution pro- cesses .
+Journal of Experimental Social Psychology 13:279–301 .
+MISPERCEPTIONS OF PEER DELINQUENCY 627 Sutherland , Edwin H. 1947 .
+Principles of Criminology , 4th ed .
+Philadelphia , PA : Lippincott .
+Warr , Mark .
+1993 .
+Age , peers , and delinquency .
+Criminology 31:17–40 .
+Warr , Mark .
+1996 .
+Organization and instigation in delinquent groups .
+Crim- inology 34:11–37 .
+Warr , Mark .
+2002 .
+Companions in Crime : The Social Aspects of Criminal Conduct .
+Cambridge , U.K. : Cambridge University Press .
+Warr , Mark .
+2005 .
+Making delinquent friends : Adult supervision and chil- dren ’ s affiliations .
+Criminology 43:77–106 .
+Wasserman , Stanley , and Katherine Faust .
+1994 .
+Social Network Analysis : Methods and Applications .
+Cambridge , U.K. : Cambridge University Press .
+Watkins , Adam M. , and Chris Melde .
+2007 .
+The effect of self-control on unit and item nonresponse in an adolescent sample .
+Journal of Research in Crime and Delinquency 44:267–94 .
+Weerman , Frank M. , and Wilma H. Smeenk .
+2005 .
+Peer similarity in delin- quency for different types of friends : A comparison using two different measurement methods .
+Criminology 43:499–523 .
+Wilcox , Steven , and J. Richard Udry .
+1986 .
+Autism and accuracy in adoles- cent perceptions of friends ’ sexual attitudes and behaviors .
+Journal of Applied Social Psychology 16:361–74 .
+Yamaguchi , Kazuo .
+1994 .
+The flow of information through social networks : Diagonal-free measures of inefficiency and the structural determinants of inefficiency .
+Social Networks 16:57–86 .
+Jacob T. N. Young is an assistant professor in the School of Criminology and Criminal Justice at Arizona State University .
+His research examines social networks , norms , and quantitative methods .
+His recent publications have appeared in such journals as the Journal of Quantitative Criminology , and the Journal of Research in Crime and Delinquency .
+J. C. Barnes is an assistant professor in the Criminology Program at The University of Texas at Dallas .
+His recent work examines how genetic and environmental influences can facilitate a better understanding of the impact of adult social bonds on desistance from crime .
+628 YOUNG ET AL .
+Ryan C. Meldrum is an assistant professor in the Department of Criminal Justice at Florida International University in Miami .
+His research examines the influence of family , school , and peer group factors on juvenile delin- quency and other deviant behaviors .
+His recent publications also focus on the causes and consequences of self-control .
+Frank M. Weerman is a senior researcher at the Netherlands Institute for the Study of Crime and Law Enforcement ( NSCR ) .
+His publications focus on the explanation of juvenile delinquency , co-offending and youth gangs , and the role of delinquent peers .
+He coordinated the NSCR School Project , which included the collection of peer social network data during the high- school period .
+MISPERCEPTIONS OF PEER DELINQUENCY 629 Appendix A .
+Factor Loadings for Self-Control Items Questionnaire Item Factor Loading I often do things without thinking first .52 I make fun if I can , even if it leads to trouble .57 I say what I think immediately .51 I often do what I feel like immediately .60 I like to do exciting and adventurous things .65 I like to try out scary things .61 I love doing dangerous things .54 I think it ’ s stupid to do things for fun where you might get hurt ( reverse coded ) .68 People better stay away from me when I am angry .58 I would rather hit someone than talk when I am angry at them .51 I can talk out arguments calmly ( reverse coded ) .56 I get angry easily .58 NOTE : Eigenvalues of the first four factors are 3.13 , .21 , .14 , and .05 , respectively .
+630 YOUNG ET AL .
+A pp en di x B .
+C or re la ti on M at ri x fo r V ar ia bl es V ar ia bl es 1 2 3 4 5 6 7 8 9 10 11 12 1 .
+M al e — 2 .
+A ge − .
+03 3 .
+P ar en ts fo re ig n bo rn .0 8∗ ∗ .0 8∗ ∗ 4 .
+F ri en ds ou ts id e sc ho ol − .
+17 ∗∗ ∗ .1 1∗ ∗∗ − .
+12 ∗∗ ∗ 5 .
+T im e w it h fr ie nd s − .
+12 ∗∗ ∗ .1 3∗ ∗∗ − .
+18 ∗∗ ∗ .3 4∗ ∗∗ 6 .
+N et w or k av er ag e ti m e w it h fr ie nd s − .
+19 ∗∗ ∗ .1 6∗ ∗∗ − .
+23 ∗∗ ∗ .2 6∗ ∗∗ .2 9∗ ∗∗ 7 .
+N et w or k de ns it y .0 5∗ .0 0 − .
+08 ∗∗ ∗ − .
+05 ∗ − .
+04 .0 3 8 .
+N et w or k ce nt ra lit y .1 5∗ ∗∗ − .
+04 .0 1 − .
+11 ∗∗ ∗ .0 5 .0 2 − .
+07 9 .
+Se lf -r ep or te d de lin qu en cy − .
+02 .0 6∗ − .
+01 .1 5∗ ∗∗ .2 2∗ ∗∗ .1 4∗ ∗∗ − .
+08 ∗∗ .0 2 10 .S el f- co nt ro l .1 4∗ ∗∗ .0 2 .1 2∗ ∗∗ − .
+17 ∗∗ ∗ − .
+27 ∗∗ ∗ − .
+21 ∗∗ ∗ .0 0 − .
+03 − .
+30 ∗∗ ∗ 11 .M is pe rc ep ti on of pe er de lin qu en cy ( u nt ra ns fo rm ed sc or e ) − .
+06 ∗ − .
+03 .0 3 .0 4 .0 5∗ − .
+13 ∗∗ ∗ − .
+04 .0 2 .2 7∗ ∗∗ − .
+16 ∗∗ ∗ 12 .M is pe rc ep ti on of pe er de lin qu en cy ( a bs ol ut e va lu e ) − .
+12 ∗∗ ∗ .0 8∗ ∗∗ .0 4 .1 3∗ ∗∗ .1 1∗ ∗∗ .2 1∗ ∗∗ − .
+05 ∗ − .
+08 ∗∗ ∗ .2 6∗ ∗∗ − .
+16 ∗∗ ∗ − .
+06 — ∗ p < .0 5 ; ∗∗ p < .0 1 ; ∗∗ ∗ p < .0 01 .

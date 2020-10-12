@@ -1,0 +1,578 @@
+Bull_JournExPsychGen_2013_z9Ny.pdf
+aOe.2UULnuHQXnqCG7IUZ52a_jFW-Bull_JournExPsychGen_2013_z9Ny.pdf.plain.html
+
+Sex Differences in the Spatial Representation of Number Rebecca Bull Nanyang Technological University and University of Aberdeen Alexandra A. Cleland and Thomas Mitchell University of Aberdeen There is a large body of accumulated evidence from behavioral and neuroimaging studies regarding how and where in the brain we represent basic numerical information .
+A number of these studies have considered how numerical representations may differ between individuals according to their age or level of mathematical ability , but one issue rarely considered is whether the representational acuity or automaticity of using numerical representations differs between the sexes .
+We report 4 studies that suggest that male participants show a stronger influence of the spatial representation of number as revealed through the spatial numerical association of response codes ( SNARC ) effect , through the numerical distance effect ( NDE ) , and through number-line estimations .
+Evidence for a sex difference in processing number was present for parity decisions ( Experiment 1 ) , color decisions ( Experiment 2 ) , number-line estimations ( Experiment 3 ) , and magnitude decisions ( Experiment 4 ) .
+We argue that this pattern of results reflects a sex difference in either the acuity of representation or reliance upon spatial representations of number , and that this difference may arise due to differences in the parietal lobes of men and women .
+Keywords : number line , sex differences , parietal , SNARC , NDE Substantial evidence exists suggesting that when we process numerosity information , either intentionally or unintentionally , this activates associated spatial representations where low numer- osity is associated with left and high numerosity is associated with right .
+Behavioral evidence for this comes from findings of both the spatial numerical association of response codes ( SNARC ) effect ( see Hubbard , Piazza , Pinel , & Dehaene , 2005 , for a review ) and the numerical distance effect ( NDE ; see Noël , Rousselle , & Mus- solin , 2005 , for a review ) , and from tasks that require a direct mapping of numbers onto a visual number line ( Siegler & Booth , 2004 ) .
+When adults simply identify or compare numbers , it is argued that they activate an internal representation of a directional spatial continuum ( Dehaene , 1992 ) .
+This effect is revealed through findings showing that individuals are faster to respond to small quantities with a left-sided response and large quantities with a right-sided response ; the SNARC effect .
+This finding holds even when quantity/magnitude judgment is irrelevant or incidental to the task—for example , making parity judgments , phoneme moni- toring , or judging shape orientation where “ irrelevant ” digits are presented inside the shape ( Dehaene , Bossini , & Giraux , 1993 ; Fias , Brysbaert , Geypens , & d ’ Ydewalle , 1996 ; Fias , Lauwereyns , & Lammertyn , 2001 ; Mitchell , Bull , & Cleland , in press ) .
+Although there is currently little evidence as to whether adult men and women process number differently , Halpern et al .
+( 2007 ) suggested that sex differences might be expected to occur for the mental number line .
+They argued this first on the basis that the parietal lobe is heavily implicated in the spatial representation of number , and there certainly is accumulating evidence from behav- ioral and neuroimaging studies that the parietal cortex is crucial for coding spatial representations of numerical quantity from number digits , number words , and nonsymbolic dot arrays ( e.g. , Ansari , Dhital , & Siong , 2006 ; Cohen Kadosh , Cohen Kadosh , Kaas , Henik , & Goebel , 2007 ; Dehaene , Spelke , Pinel , Stanescu , & Tsivkin , 1999 ; Eger , Sterzer , Russ , Giraud , & Kleinschmidt , 2003 ; Fias et al. , 2001 ; Piazza , Izard , Pinel , Le Bihan , & Dehaene , 2004 ; Piazza , Pinel , Le Bihan , & Dehaene , 2007 ; see Dehaene , Piazza , Pinel , & Cohen , 2003 ; Hubbard et al. , 2005 ; Nieder & Dehaene , 2009 , for reviews of numerical–spatial interactions in the parietal cortex ) .
+Second , there is some evidence for sex differences in the structure of the parietal lobe .
+For example , Goldstein et al .
+( 2001 ) reported that ( in absolute terms ) the inferior parietal lobe was 25 % larger in men than in women , and even once the sex difference in overall brain volume was accounted for , this difference was 20 % .
+Koscik , O ’ Leary , Moser , Andreasen , and Nopoulos ( 2009 ) found that women had proportionately greater gray matter volume in the parietal lobe but proportionately smaller parietal lobe surface area and that these differences appeared to be linked to performance on mental rotation tasks .
+However , it is far from clear whether such structural differences would result in sex differences in the acuity of a spatial representation of number .
+Although there is little in the extant literature that addresses this issue in adult participants , there has been some research of sex differences in children ’ s representations of number .
+Thompson and Opfer ( 2008 ) reported sex differences in magnitude estimation for children 7 to 9 years old .
+In two studies , they found that boys ’ numerical magnitude estimates were more accurate than girls ’ estimates ; in contrast , girls ’ fractional magnitude estimates tended to be more accurate than boys ’ .
+This appeared to reflect the fact This article was published Online First April 30 , 2012 .
+Rebecca Bull , Centre for Research in Pedagogy and Practice , National Institute of Education , Nanyang Technological University , Singapore , and School of Psychology , University of Aberdeen , Aberdeen , Scotland , United Kingdom ; Alexandra A. Cleland and Thomas Mitchell , School of Psychology , University of Aberdeen .
+Correspondence concerning this article should be addressed to Rebecca Bull , Centre for Research in Pedagogy and Practice , National Institute of Education , 1 Nanyang Walk , Nanyang Technological University , Singa- pore , 637616 .
+E-mail : rebecca.bull @ nie.edu.sg Journal of Experimental Psychology : General © 2012 American Psychological Association 2013 , Vol .
+142 , No .
+1 , 181–192 0096-3445/13/ $ 12.00 DOI : 10.1037/a0028387 181 that boys ’ numerical estimates were more linear than girls ’ esti- mates , whose estimates were more likely to be best fit by a logarithmic function .
+It is hypothesized that children ’ s initial rep- resentation of magnitude is logarithmic but that this tends to move toward a linear representation with age and/or experience ; a ten- dency toward logarithmic representation has been connected with deficits in mathematics ( e.g. , Geary , Hoard , Byrd-Craven , Nugent , & Numtee , 2007 ; Siegler & Booth , 2004 ) .
+Having assumed in earlier studies that numerical representations did not differ be- tween the sexes , Thompson and Opfer re-analyzed a previously reported study ( Opfer & Thompson , 2008 , Experiment 2 ) and again found evidence that boys reported more linear estimates on average than girls on the spatial number-line task .
+Although not statistically significant , there was also a similar magnitude sex difference in a verbal number categorization task ( classifying numbers between “ really small ” and “ really big ” within a given numerical context ) , suggesting that this sex difference may not just be due to the spatial demands of the number-to-position task .
+These findings suggest a sex difference for number representa- tion in children ; however , it is less clear whether such a difference should arise in adults , and it is this issue that the current studies addressed .
+It is also unclear whether significant sex differences in numerical representations would be observed in paradigms other than the number-to-position task .
+Despite a large number of studies that have examined numerical representation in adults using a variety of paradigms , the increasing scientific interest in spatial associations of number in the developmental , cognitive , and neu- ropsychological domains , and despite calls from some authors of the need to more fully understand interindividual variability in the presence of behavioral phenomena such as the SNARC effect ( see Wood , Willmes , Nuerk , & Fischer , 2008 ) , virtually no studies have considered the possibility of gender differences as a source of individual differences in numerical–spatial associations .
+Experi- ment 1 was specifically designed to examine for sex differences in one of the most robust effects in the numerical representation literature—the SNARC effect .
+Experiment 1 Method Participants .
+Ninety-six participants ( 48 women ) , with a mean age of 22.54 years ( SD 5.28 years ) , completed the study on a voluntary basis .
+All had normal or corrected-to-normal vision .
+Stimuli .
+The visually presented stimuli were the digits 1 , 2 , 3 , 4 , 6 , 7 , 8 , and 9 presented on the screen in Arial font size 36 , black on a white background .
+The experimental stimuli were presented on a Dell 19 “ flat panel monitor running Windows XP , with key presses recorded from a Dell keyboard .
+Response times ( RTs ) were collected using Eprime software .
+Procedure .
+Participants were instructed that , when a digit appeared on the screen , they should indicate whether the number was even or odd , using the Z and M keys on the keyboard .
+In one block , they used the Z key to respond to even numbers and the M key to respond to odd numbers ; in another block this was reversed .
+The order of blocks was counterbalanced across participants .
+On each trial , a fixation cross appeared for 1,000 ms .
+This was then replaced by the digit , which remained onscreen for either 1,500 ms or until the participant had made a response .
+This was followed by a blank screen for 1,000 ms before the fixation point for the next trial .
+The experimental session consisted of two blocks of 96 trials each , with 12 presentations of each number in both blocks ( total 192 trials ) .
+Each experimental block was preceded by a practice block of 24 trials .
+Results Accuracy of the parity judgment task was 94.5 % and did not differ significantly between men and women , t ( 94 ) 1.14 , p .257 , and there was no difference in overall RT ( male mean RT 539 ms , SD 82 ms ; female mean RT 538 ms , SD 98 ms ) , t ( 94 ) .089 , p .930 .
+RTs for each digit responded to with the left and right key were collated and the median time calculated ( correct responses only ) .
+The difference in the time to respond to each digit with the right and left hand was then calculated ( right hand RT left hand RT ) .
+The nature of the SNARC effect was captured by regression analyses ( Lorch & Myers , 1990 , Method 3 ; for a detailed discussion , see Fias et al. , 1996 ) .
+A regression equation was computed for each participant , with digit magnitude as the predictor variable and RT difference as the criterion vari- able .
+The regression weight ( standardized beta ) was recorded for each participant , and one-sample t tests were conducted to deter- mine whether the regression weights for each sex were signifi- cantly different from 0 ( a flat line ) .
+A one-sample t test revealed that , across all participants , the regression weight differed significantly from 0 : mean .37 , t ( 95 ) 9.31 , p .001 .
+The regression weight differed signifi- cantly from 0 for both men , mean .469 , t ( 47 ) 9.20 , p .001 , and women , mean .268 , t ( 47 ) 4.66 , p .001 ( see Figure 1 ) .
+An independent samples t test indicated that the differ- ence between the regression weights for men and women was significant , t ( 94 ) 2.61 , p .011 , d 0.54 .
+Discussion The results of Experiment 1 provide evidence of a sex difference in the SNARC effect .
+Both men and women showed a significant Figure 1 .
+Mean response time ( RT ) difference for each number for men ( solid line ) and women ( dashed line ) in Experiment 1 .
+Bars show 1 standard error .
+182 BULL , CLELAND , AND MITCHELL SNARC effect ; however , the regression weight for male partici- pants was significantly stronger than for female participants .
+As observed by Thompson and Opfer ( 2008 ) in the context of studies of children ’ s representation of number , data from male and female participants are generally reported within the same analysis under the assumption that they will show similar effects .
+In order to further explore sex differences in numerical representation , we re-analyzed data from three existing studies that examined the SNARC effect under more implicit number processing conditions ( Experiment 2 ) , the linearity of numerical representation ( Experi- ment 3 ) , and the NDE ( Experiment 4 ) .
+Experiment 2 Experiment 2 was originally designed to examine the activa- tional limits of the SNARC effect , in particular , whether the SNARC effect was still apparent even when the participants had to complete no numerical processing of a presented digit—they sim- ply had to decide what color the digit was presented in .
+Fias et al .
+( 2001 ) presented color and shape stimuli superimposed onto irrel- evant digits ; participants were simply asked to respond to the color ( Experiments 2 and 3 ) , form ( Experiment 5 ) , or orientation ( Ex- periments 1 and 4 ) of the presented shape , with no explicit refer- ence made to the digit presented at the center of the form .
+Fias et al .
+( 2001 ) found SNARC effects driven by the irrelevant number for orientation judgments but not for color or shape judgments .
+Fias et al .
+( 2001 ) explained their findings according to the extent to which information from these features is processed by the parietal pathway ; while orientation depends on the parietal cortex , color processing is not thought to substantially rely on these areas ( e.g. , Chao & Martin , 1999 ; Faillenot , Sunaert , Van Hecke , & Orban , 2001 ) .
+As such , Fias et al .
+( 2001 ) argued that irrelevant information regarding the magnitude of the digit ( and hence its associated spatial information ) interfered with processing orientation .
+These findings have since been replicated using an alternative form of numerical representation—nonsymbolic dis- plays ( Mitchell et al. , in press ) .
+Here , participants saw an array of shapes on the screen ( between 1 and 9 although the numerosity of the display was never explicitly referenced ) and simply made a decision about the color or orientation of the shapes .
+Numerosity was implicit to the stimulus presentation .
+In the current study , we modified the original Fias et al .
+( 2001 ) paradigm with one small difference—participants had to recognize the stimulus as a number prior to responding ( Bull & Cleland , 2012 ) .
+Hence , participants were presented with both digits and symbols ; if they saw a digit , they indicated whether it was pre- sented in blue or green , and if they saw a symbol , they waited for the next trial .
+For current purposes , the key point of interest was whether the size of any SNARC effect observed was modulated by the sex of the participant .
+In this study , we had additionally collected data from the numerical operations task of the Wechsler Individual Achievement Test ( 2nd UK edition ; WIAT II–UK ; Wechsler , 2005 ) .
+Method Participants .
+Forty participants ( 20 women ) , with a mean age of 21.5 years ( SD 5.8 years ) , completed the study on a voluntary basis or for course credits .
+All had normal or corrected- to-normal vision .
+Stimuli .
+The stimuli were the digits 1 , 2 , 3 , 4 , 6 , 7 , 8 , and 9 and the symbols , , , , , , , and presented onscreen in Arial font size 36 , in either blue or green .
+The experimental stimuli were presented on a Dell 19 ” flat panel monitor running Windows XP , with key presses recorded from a Dell keyboard .
+RTs were collected using Eprime software .
+Procedure .
+Participants were instructed that , when a digit appeared on the screen , they should indicate whether the number was presented in blue or green ; however , when a symbol appeared on the screen , they should wait until the next trial to respond .
+Half the participants responded to blue numbers with the M key and green numbers with the Z key ; for the other half the response mapping was reversed .
+On each trial , a fixation cross appeared for 1,000 ms .
+This was then replaced by either a symbol or a digit , which remained onscreen for either 1,500 ms or until the partici- pant had made a response .
+This was followed by a blank screen for 1,000 ms before the fixation point for the next trial .
+The experi- mental session consisted of 240 trials in total ; 192 of these were digit trials ( 24 presentations of each digit , 12 green and 12 blue ) , and 48 were symbol trials .
+The main experimental session was preceded by a practice block of 24 trials ( 16 digit trials and 8 symbol trials ) .
+The numerical operations subtest examined addition , subtrac- tion , multiplication , and division of decimal and fractional num- bers ; calculation of square roots ; and simple and complex alge- braic equations .
+Participants provided written answers .
+Reported split-half reliability for this test is .93 in this age group .
+Results Overall accuracy on the task was 95.2 % for go trials ( color decision of number ) and 98.5 % for no-go trials ( withheld re- sponses for nonnumerical stimuli ) .
+Men and women did not differ significantly in accuracy on either go or no-go trials , t ( 38 ) .33 , p .75 , and t ( 38 ) .637 , p .528 , respectively .
+There was no significant difference between men and women in overall RT , t ( 38 ) .587 , p .561 .
+Data processing and analysis proceeded as for Experiment 1 .
+Across all participants , the regression weight differed significantly from 0 : mean .25 , t ( 39 ) .25 , p .002 .
+The regression weight differed significantly from 0 when only male participants were considered , mean .37 , t ( 19 ) 3.82 , p .001 , but not when only female participants were considered , mean .12 , t ( 19 ) 1.18 , p .252 ( see Figure 2 ) .
+An independent samples t test indicated that the regression weights for men and women would differ significantly had a one-tailed test been considered , but not in the context of a more conservative two-tailed test , t ( 38 ) 1.74 , p .045 ( one-tailed ) , d 0.55 .
+While men achieved a higher score on the numerical operations test ( M 18.4 compared with 16.2 for women ) , this difference was not significant , t ( 38 ) 1.32 , p .196 .
+Strength of the SNARC effect ( standardized ) did not significantly correlate with mathematics achievement overall ( r .07 ) or when con- sidered separately for men ( r .16 ) and women ( r .12 ) .
+Discussion There was again evidence of a sex difference for the SNARC effect in Experiment 2 .
+When men and women were considered separately , only men showed a SNARC effect that was signifi- 183SPATIAL REPRESENTATION OF NUMBER cantly different from 0 .
+Based on a one-tailed directional hypoth- esis , as would be predicted from Experiment 1 ( men showing a stronger SNARC effect than women ) , men and women differed significantly in the strength of the SNARC effect .
+The task used in this study was unlike that typically used in SNARC studies ; most studies require participants to perform some form of numerical decision making ( e.g. , parity judgments ) .
+This experiment had been specifically designed to examine the activational limits of the SNARC effect , and in particular whether the number line was still activated at a basic implicit processing level that required the participant only to recognize the stimulus as a digit before making a decision about its color ; no further numerical processing was required .
+The overall finding of a SNARC effect for color decisions is in contrast to findings from Fias et al .
+( 2001 ) and our own studies ( Mitchell et al. , in press ) .
+Although a full discussion of this specific finding is not included here ( with the current focus on sex differ- ences ) , we offer a brief summary of our interpretation .
+One simple explanation is that by merely having participants recognize the stimulus as a number prior to responding to its color , semantic number processing has been pushed to a deep enough level to activate spatial associations .
+An alternative interpretation relates to the additional neural activation imposed by the need to inhibit color responses to nonnumerical stimuli .
+Specifically , we argue that the necessity to inhibit would have recruited prefrontal re- sources and that prefrontal resources , alongside parietal cortices , are part of the circuit recruited for the processing of numerical information and ordinal sequences more generally ( e.g. , Van Op- stal , Fias , Peigneux , & Verguts , 2009 ) .
+Furthermore , executive control functions ( which include inhibition ) are subserved by multiple neural circuits involving interconnections of prefrontal cortex with striatal and parietal regions ( e.g. , Edin et al. , 2009 ) .
+In summary , we argue that we have created a condition that provides neural overlap ( either in prefrontal or parietal resources ) , which results in the SNARC effect for color decisions .
+The findings from Experiments 1 and 2 might suggest that male participants have a stronger spatial representation of number that is activated more readily even when it is irrelevant to the task at hand .
+An alternative possibility is that men have a more linear representation of number , whereas women have a more logarith- mic representation .
+Generally , spatial–numerical associations seems to transfer from a logarithmic to a more linear scale with age and experience ( Siegler & Booth , 2004 ) , and Thompson and Opfer ( 2008 ) reported evidence that , in children , girls showed evidence of a logarithmic scale , whereas boys showed evidence of a more linear scale .
+In a logarithmic representation the distance between numbers—for example , the numbers 1 and 2—is the same as the distance between 4 and 8 .
+If the task was to make comparisons to a target number of 5 , close comparisons would be more difficult because of the extent of the representational overlap ( see Ashke- nazi & Henik , 2010 , for a discussion of this interpretation ) .
+A logarithmic representation may also influence the SNARC effect ; with fewer numbers represented in the left side of space , most numbers would be responded to faster with a response in the right side of space , resulting in a weaker or no SNARC effect , or indeed a pattern of RT differences that would be better fit by a logarithmic than a linear function—that is , a rapid change in RT difference for low numbers with a flattening of the RT difference for higher numbers .
+To test this possibility we conducted curve estimation analysis of the data from Experiment 1 whereby the fit of both linear and logarithmic functions was calculated for each individual partici- pant .
+Standardized beta weights for the curve fits were then com- pared in a 2 ( linear vs. logarithmic ) 2 ( male vs. women ) mixed-design analysis of variance ( ANOVA ) .
+This revealed sig- nificant main effects of fit , F ( 1 , 94 ) 26.93 , p .001 , p 2 .223 , and sex , F ( 1 , 94 ) 4.27 , p .032 , p 2 .048 , and a significant interaction , F ( 1 , 94 ) 17.53 , p .001 , p 2 .158 .
+Decomposing the interaction using paired samples t tests for men and women separately revealed that while both a linear ( .469 ) and a loga- rithmic ( .478 ) regression provided an equally good fit to the data for men , t ( 47 ) .699 , p .49 , for women a logarithmic fit ( .359 ) was significantly better than a linear fit ( .268 ) , t ( 47 ) 6.72 , p .001 , d .24 .
+This suggests that particularly for female participants the SNARC effect may be driven by the faster left hand response to numbers at the lowest end of the scale ( 1 ) , with faster right hand responses to virtually all other numbers , indica- tive of a representation with more numbers represented in the right hand side of space .
+This could be construed as evidence that , overall , female participants had a more logarithmic spatial repre- sentation of number .
+Similar analysis of Experiment 2 , however , revealed no significant interaction of Fit Sex , F 1 , with the logarithmic fit being marginally better for both men and women , F ( 1 , 38 ) 3.526 , p .068 , p 2 .085 .
+One method that has been used to provide a direct estimate of the acuity of numerical representations is the number-to-position task ( Siegler & Booth , 2004 ) .
+In this task , a line is presented with 0 at one end and 10 , 100 , or 1000 at the other , depending on the context .
+A target number is provided , and the participant is asked to estimate where its position would be located on the number line .
+This task provides a clear physical measure of one ’ s mental representations of distances between numbers on a number line .
+Evidence from this task would address the question of the nature of the representation in men and women ( logarithmic vs. linear ) and the acuity of the representations .
+Bull et al .
+( 2011 ) provided one of the few studies examining the linearity of numerical rep- Figure 2 .
+Mean response time ( RT ) difference for each number for men ( solid line ) and women ( dashed line ) in Experiment 2 .
+Bars show 1 standard error .
+184 BULL , CLELAND , AND MITCHELL resentations in adults ; Experiment 3 is a re-analysis of data from hearing participants focusing on sex differences in performance .
+Experiment 3 Method Participants .
+Thirty-nine university students ( 19 women , mean age 19.76 , SD 1.60 ) participated and were reimbursed for their time .
+All had normal or corrected-to-normal vision .
+Tasks and procedures .
+The number to position task ( NP ) was used : Estimation of numerical magnitudes was assessed using a computerized number-line estimation task .
+On each problem , a number between 1 and 999 was presented at the top of the screen , with a horizontal number line presented in the middle of the screen with 0 at the left end and 1000 at the right end ( always presented at the same location and measuring 222 mm ) .
+The experimenter explained that the participant should click on the line to show where he or she thought the number at the top should go .
+Partic- ipants were given one practice trial , after which the remaining numbers were presented , one at a time without feedback .
+The 44 numbers used on the number-line task were 3 , 6 , 7 , 9 , 19 , 22 , 52 , 62 , 103 , 108 , 158 , 168 , 240 , 243 , 289 , 297 , 346 , 349 , 387 , 391 , 435 , 438 , 470 , 475 , 502 , 508 , 586 , 591 , 613 , 619 , 690 , 694 , 721 , 728 , 760 , 767 , 828 , 835 , 874 , 879 , 902 , 907 , 962 , and 970 .
+Each number was presented twice to calculate an average positioning .
+Participants completed the numerical operations task as de- scribed in Experiment 2 .
+They also completed the mathematical reasoning test from the WIAT–II .
+Skills examined included the use of nonstandard and standard measurement units ; using graphs and grids ; using fractions and percentages to represent quantities less than a whole ; creating and solving addition , multiplication , and division problems ; completing patterns ; solving problems related to time and money ; and using probability to make predictions .
+Reported split-half reliability for this test is .85 in this age range .
+Results Several assessments were made of participants ’ numerical esti- mations .
+First we examined whether estimated numerical positions were best fit by a linear or logarithmic function .
+For each individ- ual participant , curve estimation analysis was conducted whereby the absolute residuals from the linear and logarithmic regressions were compared to determine if one provided a significantly better fit to the estimations than the other .
+From this we examined both the linearity and slope of the estimations .
+The ideal function relating actual and estimated magnitudes is perfectly linear ( r2 1 ) with a slope of 1.00 .
+However , estimates can increase in a perfectly linear function with a slope far less than 1.00 , and estimates can increase with a slope of 1.00 but not fit a linear function very closely ( see , e.g. , Ramani & Siegler , 2008 ) .
+To measure the accuracy of each participant ’ s estimates , the percent absolute error ( PAE ) was calculated as [ ( actual number esti- mated target number presented ) /scale of number line ] 100 .
+For example , if a participant was asked to estimate the location of 120 on the 0 to 1000 number line and placed his or her mark at the point corresponding to 150 , the PAE would be [ ( 150 120 ) /1000 ] * 100 3 % .
+All participants ’ number-line estimations were better fit by a linear function than by a logarithmic function .
+Men showed a significantly better linear fit compared with women , t ( 37 ) 2.15 , p .038 , d 0.63 ; men showed a significantly more accurate slope , t ( 37 ) 2.29 , p .028 , d .75 ; and men showed a marginally lower PAE , t ( 37 ) 1.83 , p .076 , d 0.60 .
+Men and women did not differ in performance on the numerical operations task , t ( 37 ) .97 , p .34 , although men did score marginally higher on the mathematical reasoning task , t ( 37 ) 1.94 , p .06 , d 0.64 .
+Acuity of number-line estimations , as assessed both by PAE and r 2 linear fit , did not correlate with score on the numerical operations or mathematical reasoning task ( rs ranged from .24 to .17 , ps .15 ) .
+The pattern of relationships did not differ for men and women ( men ’ s rs ranged from .26 to .02 , ps .27 ; women ’ s rs ranged from .16 to .06 , ps .51 ) .
+Slope did correlate significantly with mathematical reasoning ( r .40 , p .012 ) .
+However , this relationship held only for men ( r .52 , p .019 ) , not for women ( r .22 , p .37 ) .
+All descriptive data are shown in Table 1 .
+Discussion While all participants ’ number-line estimates were best fit by a linear ( compared with a logarithmic ) function , the linear acuity of the number line appeared to be more precise in men compared with women in terms of both linearity and slope .
+This finding therefore speaks against the possibility discussed previously that sex differ- ences arise because women represent number in a fashion that is more logarithmic ; instead , poorer acuity in the linearity of the representation may mean women have more representational over- lap between numbers , making them more difficult to distinguish .
+Such a conclusion rests on the assumption that estimates on a physical visual number line provide a direct reflection of a mental number line ; however , some researchers have questioned this assumption , as correlations between phenomena such as the NDE and SNARC to visual number-line estimations are low or nonsig- nificant ( Schneider , Grabner , & Paetsch , 2009 ) .
+Therefore , to definitively address the issue of a logarithmic mental representa- tion for women , it would be necessary to conduct alternative tasks that do not require a positional estimation of a physical number line .
+One possibility in future research would be to examine SNARC and NDE effects for higher numerosities where a loga- rithmic representation with a large amount of compressed numer- osities in the right-hand side should result in no significant SNARC effect but a very pronounced NDE .
+Table 1 Mean Performance ( SD ) on the Number-to-Position ( NP ) Task and Mathematics Achievement Measures for Men and Women ( Experiment 3 ) Measure Men Women NP task : % absolute error 3.36 ( 1.02 ) 4.17 ( 1.71 ) NP task : r2 linear fit .986 ( .01 ) .976 ( .02 ) NP task : slope .966 ( .029 ) .937 ( .046 ) Numerical operations 47.90 ( 5.77 ) 46.16 ( 5.36 ) Mathematical reasoning 63.00 ( 3.21 ) 60.95 ( 3.39 ) 185SPATIAL REPRESENTATION OF NUMBER We do have preliminary unpublished data in our laboratory examining number-to-position estimations in children ( 208 chil- dren , 7 to 12 years old ) , and again , while we did not initially make predictions about sex differences in performance , the data allow for a comparison to the findings of Thompson and Opfer ( 2008 ) .
+Here we find no significant sex differences in estimation accuracy ( as measured by PAE ) .
+The only major difference between our study and that of Thompson and Opfer is that we used a 0–100 number line , whereas Thompson and Opfer used a 0–1000 number line .
+A 0–100 estimation task is relatively simple for children of this age range ( previous research by Siegler and colleagues reports that most children at this age have progressed from a logarithmic to linear representation within this numerical range , e.g. , Siegler & Booth , 2004 ) and as such we are limited in the ability to detect individual differences .
+Within that same data set we do have number-line estimation data for 53 deaf children ( boys 24 , girls 29 ) .
+These deaf children showed significantly poorer estimation on the number-line task compared with age- and gender-matched hearing children , t ( 104 ) 3.70 , p .001 , d .72 , and within the deaf group , girls showed significantly poorer estimation compared with boys , t ( 51 ) 2.056 , p .045 , d .57 .
+This might suggest that we are more likely to detect sex differ- ences when the task is more demanding for children—for example , when dealing with a group that have poorer than expected skills for their age range , or when using a task that typically achieving children may find more difficult ( e.g. , use of a number range for which they have less experience ) .
+Experiment 4 Activation of a spatial number line is also evidenced through the NDE .
+When the difference/distance between two numbers is small ( e.g. , 2 vs. 3 ) , people are slower and less accurate at deciding which of the two is larger than when the distance is greater ( e.g. , 2 vs. 8 ; Moyer & Landauer , 1967 ; see Noël et al. , 2005 , for a review ) .
+The NDE arises from overlapping internal representations of number where numbers that are closer together share more representational overlap than those further apart .
+The size of this effect can therefore be used to determine the acuity of an individ- ual ’ s internal representation of number and has been examined in relation to developmental and individual differences in numerical and mathematical skills ( e.g. , De Smedt , Verschaffel , & Ghesqui- ere , 2009 ; Holloway & Ansari , 2009 ; Mundy & Gilmore , 2009 ) .
+The size of the NDE is reported to be a unique predictor of mathematics achievement in children whereby individuals with smaller NDEs ( e.g. , a flatter slope/smaller regression weight ) showed higher overall math achievement .
+It is argued that these children have more exact mappings between Arabic numerals and the magnitudes they represent , making it just as easy to compare numbers that are close together on the mental number line as those that are far apart , hence a less pronounced NDE .
+Individuals with more extreme numerical processing difficulties—for example , de- velopmental dyscalculia and acalculia , show larger NDEs com- pared with typically achieving individuals ( Ashkenazi , Mark- Zigdon , & Henik , 2009 ; Delazer , Karner , Zamarian , Donnemiller , & Benke , 2006 ; Mussolin , Mejias , & Noël , 2010 ) .
+Experiment 4 was originally designed to examine for differ- ences in activation of numerical representations ( as assessed by the NDE ) as a function of mathematical ability in adults , using a dual-task method known as the psychological refractory period ( PRP ) paradigm .
+A thorough discussion of the PRP paradigm can be found elsewhere ( e.g. , Navon & Miller , 2002 ; Pashler , 1994 ; Tombu & Jolicoeur , 2003 ) .
+Müller and Schwarz ( 2007 ) had pre- viously applied PRP methodology to the SNARC effect ( using a parity judgment task ) and found a relatively late locus of the SNARC effect associated with response selection ( see also Keus & Schwarz , 2005 ) .
+In Experiment 4 we used a similar PRP method- ology to examine whether the same pattern of results would hold for the NDE .
+Participants were asked to make a magnitude deci- sion with the difficulty manipulation being the numerical distance between the digit on the screen and the target number ( 5 ) .
+We found a main effect of distance ( reflecting the NDE ) , which did not interact with stimulus onset asynchrony ( SOA ) .
+According to PRP logic , this strongly suggests that activation of the mental number line occurs at a stage of processing associated with response selection , consistent with other findings reported in the literature ( Cohen Kadosh , Brodsky , Levin , & Henik , 2008 ; Van Opstal , Gevers , De Moor , & Verguts , 2008 ) , although the exact cognitive origin of effects like the NDE may depend on the specific task requirements ( Van Opstal & Verguts , 2011 ) .
+Here we revisit the NDE data to determine whether the effect differs by sex .
+Method Participants .
+Fifty-two participants ( 26 women ) , with a mean age of 23.1 years ( SD 4.18 years ) , completed the study on a voluntary basis or for course credits .
+All had normal or corrected- to-normal vision and reported having normal hearing .
+Stimuli .
+The auditory stimulus ( Task 1 ) was a tone ( 300 Hz ) with duration of 300 ms. Two versions of the tone were created , a “ smooth ” tone and a “ buzz ” tone .
+The buzz tone was created by distorting the nature of the smooth tone to create a harsher texture ; by doing this , the pitch of the two tones was kept constant .
+The visually presented stimuli ( Task 2 ) were the digits 1 , 2 , 3 , 4 , 6 , 7 , 8 , and 9 presented on the screen in Arial font size 36 .
+The experimental stimuli were presented on a Dell 19 “ flat panel monitor , with key presses recorded from a Dell keyboard , and vocal onset times recorded from an Audio-Technica microphone linked to an E-prime SR Box equipped with a voice key .
+Procedure .
+Task 1 was a tone discrimination task , and Task 2 was a magnitude decision task , with participants performing two sessions .
+Key-press responses to low numbers ( 1 , 2 , 3 , and 4 ) were made with a left-orientated response ( Z key ) , and high numbers ( 6 , 7 , 8 , and 9 ) on the right ( M key ) , and were reversed in the second block of trials .
+Order of the response mappings was counterbal- anced across participants .
+Each trial started with a centrally pre- sented fixation cross .
+After 1,000 ms a tone was presented for 300 ms ( fixation cross still visible ) to which the participant provided a vocal response ( “ ban ” or “ bat ” ) depending on whether they heard a smooth tone or a buzz tone ( half of the participants responded “ ban ” to the smooth tone , and half responded “ ban ” to the buzz tone ) .
+“ Ban ” and “ bat ” were selected as the vocal responses as they both initiated with a voiced bilabial with minimal voice onset time .
+As such , the difference in onset time for the two words due to phonetics should be minimal .
+Either 50 ms ( short SOA ) or 400 ms ( long SOA ) following the onset of the tone , the fixation was replaced with a single digit , which remained on the screen until a manual response was made to indicate whether the digit was less 186 BULL , CLELAND , AND MITCHELL than or more than 5 .
+RTs were considered only for trials where the participant correctly indicated the tone first before responding to the digit and where the participant made an accurate magnitude judgment .
+Each of the two sessions consisted of 32 practice trials followed by 96 experimental trials ( total 192 trials ; each number presented 6 times at 2 SOAs and following either a buzz or smooth tone ) .
+Participants were instructed that they had two tasks to perform ; the first was to respond to tones that they heard over the head- phones and the second was to respond to digits presented on the screen .
+They were instructed that they should respond as quickly and as accurately as they could to both tasks but to ensure they respond to Task 1 before Task 2 .
+RTs to Task 2 were measured from the onset of the digit presentation .
+Participants were also asked to complete a set of 30 mental arithmetic problems ( multidigit addition and subtraction and single digit multiplication ) in a limited time period ( 1 min ) to assess their arithmetical fluency .
+Results Trials on which participants made an error to either Task 1 or Task 2 , or trials on which participants responded to Task 1 and Task 2 in the wrong order were excluded from the analysis ( 4.6 % of trials ) .
+Trials were also excluded if the participant showed extreme fast or slower responses ( 100 ms or 3000 ms ) ; this was less than 0.5 % of all trials .
+Initially a mixed-design ANOVA was conducted with sex and response mapping order as the between-subjects factor and numerical distance ( 1 , 2 , 3 , 4 ) and SOA ( 50 ms , 400 ms ) as the within-subject factor .
+Order of response mapping showed no significant main effect or interac- tions with the other factors and so was dropped from the analysis .
+Overall RT to Task 1 was added as a covariate .
+The mixed design three-way analysis of covariance revealed main effects of SOA , F ( 1 , 49 ) 37.09 , p .001 , p 2 .43 , and sex , F ( 1 , 49 ) 4.42 , p .041 , p 2 .08 .
+Participants were faster to respond overall at the long compared with the short SOA .
+Men responded signifi- cantly faster overall than women .
+There was also a significant Distance Sex interaction , F ( 3 , 147 ) 2.75 , p .045 , p 2 .053 .
+No other main effects or interactions were found to be significant ( all Fs 1 ) .
+Planned comparisons revealed that the distance effect was significant for female participants , F ( 3 , 47 ) 9.57 , p .001 , p 2 .38 , but not for male participants , F ( 3 , 47 ) .38 , p .77 , p 2 .024 ( see Figure 3 ) .
+The NDE was also captured by regression analysis for each participant .
+The median RT for digits with a distance of 1 ( 4 and 6 ) , 2 ( 3 and 7 ) , 3 ( 2 and 8 ) , and 4 ( 1 and 9 ) from the target 5 was calculated ; distance was the predictor variable and RT was the criterion variable in the regression analysis .
+The regression weight ( standardized beta ) was recorded for each participant , and one- sample t tests conducted to determine whether the regression weight was significantly different from 0 ( a flat line ) for men and women .
+In line with the ANOVA results , the regression weight differed significantly from 0 for women , mean .353 , t ( 25 ) 3.29 , p .003 , but not for men , mean .044 , t ( 25 ) .388 , p .701 .
+An independent samples t test revealed that the difference in beta weight between men and women was significant , t ( 50 ) 1.56 , p .05 , d .55 .
+Men did complete significantly more arithmetical problems in the time limit compared with women ( 19.11 versus 14.81 ) , t ( 50 ) 2.26 , p .029 , although beta weight associated with the NDE did not correlate with arithmetical fluency overall , r ( 50 ) .15 , p .29 , nor when considered separately for men , r .10 , p .62 , or women , r .26 , p .20 .
+Discussion Differences between male and female participants were not reflected in the additivity of the NDE—that is , the response locus of the effect .
+Rather , there appeared to be a difference in the overall magnitude of the NDE ; the Sex Distance interaction revealed that only women showed a significant NDE .
+In the regression analysis , the regression weight differed significantly from 0 only for women and not for men .
+Our results might therefore be taken to imply that female participants had a less accurate number-line representation than our male participants , making it particularly difficult to compare numbers close to the target on the mental number line , hence the significant NDE .
+Analysis of the arithmetic data also showed that men answered significantly more questions correctly in the time available .
+This finding initially appears to suggest that poorer magnitude repre- sentation acuity in women could be associated with poorer numer- ical skills , which would be in line with individual differences studies conducted with children .
+However , overall and within each sex , the beta weight for the NDE was not found to correlate significantly with arithmetic performance , suggesting that while women may show poorer numerical representation acuity and less fluency in arithmetic , the two are not necessarily related .
+Previous studies have revealed adults with recognized numerical difficulties such as dyscalculia and acalculia to have less precise representa- tions of number ( Ashkenazi et al. , 2009 ; Delazer et al. , 2006 ) , but no relationship has been found between representational acuity ( as measured by a number-line estimation task ) and mathematical achievement in typically achieving adults ( Bull et al. , 2011 ) .
+Therefore , in adult participants , unlike children , relationships be- Figure 3 .
+Adjusted mean response time ( RT ; controlling for Task 1 response time ) at each numerical distance for men ( solid lines ) and women ( dashed lines ) .
+Bars show 1 standard error .
+187SPATIAL REPRESENTATION OF NUMBER tween representational acuity and mathematical ability may be apparent only in groups with atypical numerical abilities .
+General Discussion The novel finding from the current series of studies is that the association between numerical and spatial representation , whether that is reflected in the NDE , the SNARC effect , or in number-line estimations , is more apparent in male than female participants .
+In Experiment 1 the SNARC effect was observed for both male and female participants but was significantly stronger in the male participants .
+In Experiment 2 only men showed evidence of a SNARC effect under more implicit numerical processing condi- tions .
+In Experiment 3 , men showed evidence of significantly more accurate number-to-position estimations on a number-line take .
+Finally , in Experiment 4 the effect of numerical distance showed an interaction with sex , with only female participants showing an NDE ( with a larger NDE considered an indicator of poorer acuity in numerical representations ) .
+In 2008 , Wood et al .
+( 2008 ) conducted a meta-analysis of the SNARC effect in which they specifically noted , some authors have also asked for interindividual variability in the strength of the SNARC effect .
+Recently , Wood et al .
+( 2006a , 2006b ) have reported that across different studies , the proportion of partici- pants showing a negative SNARC slope varies between 65 % and 75 % .
+Accordingly , Piazza , Pinel , and Dehaene ( 2006 ) showed that idiosyncratic associations between number and space may coexist with the usual SNARC effect .
+Finally , Cohen Kadosh and Henik ( 2007 ) suggested that the implicit mental representation of numbers may differ across individuals and may deviate from the standard left-to-right representation typically described .
+( p. 491 ) Most of the focus so far has been on individual differences related to reading habits across cultures and differences across tasks due to specific stimulus or response characteristics , but nowhere within this meta-analysis was there even a mention or consideration of sex differences .
+The sex differences observed in the current studies were small to medium in size , requiring a relatively large sample for the effects to become apparent .
+This may account for why sex differences have not been previously reported .
+The SNARC effect and NDE are robust findings that are generally statistically reliable with relatively few participants ; for this reason , sample sizes tend to be small ( see Wood et al. , 2008 , Appendix II for many examples of study characteristics ) .
+For example , in Dehaene et al. ’ s ( 1993 ) seminal article on the SNARC effect , participant numbers in the nine experiments varied between eight ( Experiment 6 ) and 24 ( Experiments 8 and 9 ) , and the proportion of men and women within the sample was not reported .
+Fias et al .
+( 1996 ) reported three studies with between 23 and 26 participants each , and Fias et al .
+( 2001 ) reported data from 24 participants in four experiments and 20 in a fifth ; in both of those Fias et al .
+studies , numbers of male and female participants were roughly equal .
+Fischer , Castel , Dodd , and Pratt ( 2003 ) reported data from 15 participants ( sex of participants not specified ) .
+Finally , we do have additional data from our own laboratory where we found a SNARC effect overall but no sex differences ( Mitchell et al. , in press , Experiments 2 and 4 ) .
+In these studies sample sizes were small ( approximately 20 ) with small numbers of male participants ( n 8 ) , and so it is unsurprising that no sex difference was found .
+Our review of the mental number-line literature revealed no studies ( other than Thompson & Opfer , 2008 ) that had directly compared effects for men and women ( see Discussion of Experiment 3 for preliminary analyses of some of our own data ) ; in some cases this was restricted by sample size or by testing participants of only one sex , but it is possible that the occurrence of sex differences in previous studies may have been dismissed as being somewhat of a nuisance .
+We see two ways in which our findings might be interpreted .
+The first is that men have a stronger , more accurate , spatial representation of number and that this results in the smaller NDE , larger SNARC effect , and more accurate number-line estimations .
+In Experiment 4 , only female participants showed evidence of an NDE ; there was no effect of distance for male participants .
+Cer- tainly , this finding would suggest that the male participants had greater acuity of number representation than the female partici- pants and found it equally easy to compare numbers close and far away from the target .
+This suggests an accurate mental represen- tation of number where distance between a target and a digit are clearly mapped in mental workspace , meaning RTs remain unaf- fected ( see Holloway & Ansari , 2009 ) .
+Findings from Experiments 1 and 2 revealed a stronger SNARC effect in men than in women , which again could be attributed to a clearer mapping of number along the mental number line , and this indeed was shown through acuity of visual number-line estimations in Experiment 3 .
+It is important to note that the current findings do not imply that male participants processed number “ better ” than female partici- pants .
+It has been suggested that sex differences in arithmetical reasoning may be mediated in part by a male advantage in spatial cognition ( e.g. , Geary , Saults , Liu , & Hoard , 2000 ) , and acuity of spatial–numerical associations has been associated with mathemat- ics ability in children and in adults with extreme mathematical difficulties ( as discussed in Experiments 3 and 4 ) .
+However , with the exception of one significant correlation in Experiment 3 , we found no evidence of an association between individual differ- ences in spatial–numerical associations and arithmetical fluency or math achievement .
+This raises the possibility that men and women may be using different resources or strategies to complete more complex mathematical tasks , or that beyond a certain level of mathematical proficiency , spatial numerical associations are still activated but are not predictive of mathematical ability .
+This leads to our second interpretation , that men are just more likely to use a spatial representation of number as a strategy for performing tasks , and possibly to the point that they activate the mental number line when it is not required .
+There is certainly evidence from other tasks that men and women may use different regions of the brain to solve the same problems .
+On the basis of an analysis of gray and white matter volumes in brain areas related to intelligence , Haier , Jung , Yeo , Head , and Alkire ( 2005 ) concluded that male and female participants achieved similar scores on the Wechsler Adult Intelligence Scale using different brain regions .
+Jordan , Wüstenberg , Heinze , Peters , and Jäncke ( 2002 ) found that women and men who performed at the same level on three mental rotation tasks showed different patterns of cerebral activation ; they interpreted this as showing that men and women used different strategies to complete the tasks ( e.g. , with men adopting a “ gestalt ” approach and women a more piecemeal , or serial , strategy ) .
+Fi- nally , Kucian , Loenneker , Dietrich , Martin , and Von Aster ( 2005 ) , while finding no sex differences in performance behaviorally on measures of magnitude comparison and exact and approximate 188 BULL , CLELAND , AND MITCHELL arithmetic , did reveal sex differences in the pattern of brain activation ; for exact and approximate arithmetic men and women showed activation of bilateral parietal and prefrontal network , but women also showed additional activation in the temporal cortices ( thought to be representing verbal recall and verbal working memory ) .
+The findings of Experiment 2 may lend some support to a similar interpretation in the current studies ; there is no benefit of activating any representation of number in the color decision task .
+In fact , it can only hinder the participant as magnitude is entirely irrelevant to the task .
+It is likely that a verbal labeling strategy would be more effective ; recent evidence suggests that perfor- mance on some color discrimination tasks is improved when those colors correspond to language-specific category labels such as blue and green ( e.g. , Winawer et al. , 2007 ) .
+Interestingly , the female participants in Experiment 2 were unaffected by the magnitude of the digit presented on the screen ; a speculative suggestion would be that they were engaging a verbal labeling strategy to complete the task without accessing any rep- resentation of number .
+In contrast , male participants appeared to activate spatial representations of number even under these low semantic processing conditions and even though it was counter- productive to the task .
+Neuroimaging studies that examine the brain regions typically activated during symbolic and nonsymbolic numerical processing tasks may shed light on whether the patterns or levels of activation differ for men and women when performing these tasks , which in turn may address the question of whether spatial or verbal representations are being used differentially by men and women .
+While previous studies have examined individual differences in patterns of brain activation as they relate to achieve- ment in mathematics ( e.g. , Grabner et al. , 2007 ; Price , Holloway , Rasanen , Vesterinen , & Ansari , 2007 ) or changes with age ( e.g. , Ansari & Dhital , 2006 ) , only one ( Kucian et al. , 2005 ) , as far as we are aware , has considered differences between the sexes .
+So what might underlie sex differences in number representa- tion ?
+In terms of brain architecture , the parietal cortex is a likely candidate .
+As reviewed in the introduction , the parietal cortex is heavily implicated in interactions of number and space , with such interactions postulated to occur as a result of common parietal circuits for attention to external space , on the one hand , and internal representations of number on the other ( see Hubbard et al. , 2005 , for a review ) .
+For example , Fias et al .
+( 2001 ) reported that irrelevant digits interfered with an unrelated task only when that task involved responding to features for which processing depends on the parietal cortex ( e.g. , orientation ) .
+In contrast , there was no SNARC effect for decisions that did not largely depend on parietal resources ( e.g. , shape and color decisions ) .
+Evidence from imaging studies suggests that the parietal cortex is deeply involved in the processing of number ; activation in the left and right intraparietal sulcus has repeatedly been linked to numerical tasks , with the horizontal segment of the intraparietal sulcus ( HIPS ) particularly central to number magnitude processing ( e.g .
+; Nieder & Dehaene , 2009 ; see Dehaene et al. , 2003 ; Hubbard et al. , 2005 , for earlier reviews ) .
+Similarly , there is evidence that transcranial magnetic stimulation ( TMS ) over the HIPS affects processing of numerical magnitude ( e.g. , Knops , Nuerk , Sparing , Foltys , & Willmes , 2006 ) .
+Crucially , there is some evidence for sex differences in the parietal lobes of men and women .
+For example , Frederikse , Lu , Aylward , Barta , and Pearlson ( 1999 ) reported that the inferior parietal lobe is larger in men than in women .
+More recently , Koscik et al .
+( 2009 ) found that women had proportionately greater gray matter volume in the parietal lobes but that men had greater parietal lobe surface area , and linked this finding to performance on a mental rotation task .
+Interestingly , in the TMS study men- tioned above , Knops et al .
+( 2006 ) found that men and women were differently affected by TMS over the left HIPS .
+Participants in this study had to indicate which of two numbers was greater , with compatibility and distance manipulated .
+A compatible trial would be where both digits of a two-digit number were consistent with the correct answer ( e.g. , 42_57 , where 5 is bigger than 4 , and 7 is bigger than 2 ) ; an incompatible trial would be where individual units of the number were not consistent ( e.g. , 47_62 , where 6 is bigger than 4 , but 2 is smaller than 7 ) .
+The distance effect was manipulated as within decade ( e.g. , 21_26 ) or between decades ( 21_46 ) .
+Following TMS , Knops et al .
+found that women showed greater distance and compatibility effects and men showed a smaller distance effect .
+These findings are difficult to interpret , particularly as women appear to be more susceptible to the effects of TMS than men—a fact that may or may not be linked to gender differences in the corpus callosum ( e.g. , De Gennaro et al. , 2004 ) .
+However , Knops et al. ’ s finding does strengthen the argument that the sex differences observed in the current studies are linked in some way to the parietal cortex .
+Alternative explanations for the SNARC effect have been pro- posed—for example , that it is attributable to the spatial coding of ordinal information in working memory ( WM ; e.g. , van Dijck & Fias , 2011 ) and that temporary position-space interactions drive the SNARC effect rather than the long-term semantic representa- tions of number to which the SNARC effect is traditionally as- cribed .
+There is also evidence that a visual–spatial working mem- ory load eliminates the SNARC effect ( Herrera , Macizo , & Semenza , 2008 ) .
+Therefore , sex differences in these underlying cognitive processes may account for sex differences in numerical representations .
+In a number of our experiments we have collected data on cognitive tasks as potential predictors of mathematics performance .
+A subset of participants from Experiments 1 ( n 47 ) and 2 ( n 40 ) completed measures of verbal and visual– spatial WM span .
+Men and women did not differ in verbal WM , t .993 , p .326 , or in visual–spatial WM ( Experiment 1 , t .058 , p .954 ; Experiment 2 , t .043 , p .966 ) , and neither WM span task correlated significantly with strength of the SNARC effect ( verbal WM r .12 , p .421 ; visual–spatial WM Exper- iment 1 , r .023 , p .878 ; Experiment 2 , r .14 , p .38 ) .
+When spilt by sex a similar nonsignificant pattern of results was found for both men and women .
+However , it would be useful to conduct further research—for example , dual-task studies with a verbal or visual–spatial memory load , to examine whether inter- ference to these cognitive resources has differential impacts on numerical representations for men and women .
+The current discussion has been restricted to number represen- tation , but SNARC-like effects have been reported in other arenas , for example in music perception , where pitch appears to be asso- ciated with vertical and horizontal “ pitch lines ” ( Rusconi , Kwan , Giordano , Umiltà , & Butterworth , 2006 ) .
+Recent evidence sug- gests that we also hold a mental “ timeline ” that runs from left to right ( e.g. , Santiago , Lupiàñez , Pérez , & Funes , 2007 ; Torralbo , Santiago , & Lupiàñez , 2006 ; Ulrich & Maienborn , 2010 ; Vallesi , 189SPATIAL REPRESENTATION OF NUMBER Binns , & Shallice , 2008 ) .
+It could be argued that , along with the SNARC effect , these “ SMARC ” and “ STARC ” effects reflect a general tendency for the cognitive system to apply spatial ordering to linear information ( e.g. , Gevers , Reynvoet , & Fias , 2003 ) .
+However , it is unclear whether they are driven by common under- lying mechanisms .
+For example , Ulrich and Maienborn ( 2010 ) reported that left-handed responses were faster to past-related sentences and right-handed responses were faster to future-related sentences when the task involved categorizing the sentences ac- cording to the past and future .
+However , when participants had to judge only whether the sentence made sense , response compati- bility no longer influenced reaction times .
+This suggests that the mental time line is not activated when time is irrelevant to the task in the same way that spatial associations are activated when magnitude is irrelevant ( cf .
+Weger & Pratt , 2008 ) ; in this respect at least , the exact relationship between these different types of spatial representation is still somewhat unclear .
+It therefore remains an open question whether the tendency for men to make more use of spatial information would extend beyond the mental number line to other “ SNARC-like ” phenomena .
+Conclusion The current findings suggest that spatial numerical associations may be represented or accessed differently in adult men and women .
+There have been calls from researchers to more fully understand interindividual differences in spatial numerical associ- ations as seen via behavioral phenomena such as the SNARC effect .
+There are an increasing number of studies using a variety of paradigms in the developmental , cognitive , and neuropsychologi- cal literature to study spatial numerical associations , and many of these studies may be missing an important source of individual differences by not considering how representations may differ between men and women .
+Here we report four studies that use different paradigms and task manipulations , and even under con- ditions of very low level semantic number processing we see evidence of a sex difference .
+Given the burgeoning interest in research in this field , we believe our findings raise important issues for the interpretation of individual differences and hopefully pave the way for future research to address our speculations about the factors that might underlie this difference .
+References Ansari , D. , & Dhital , B .
+( 2006 ) .
+Age-related changes in the activation of the intraparietal sulcus during nonsymbolic magnitude processing : An even-related functional magnetic resonance imaging study .
+Journal of Cognitive Neuroscience , 18 , 1820 –1828 .
+doi:10.1162/ jocn.2006.18.11.1820 Ansari , D. , Dhital , B. , & Siong , S. C. ( 2006 ) .
+Parametric effects of numerical distance on the intraparietal sulcus during passive viewing of rapid numerosity changes .
+Brain Research , 1067 , 181–188 .
+doi:10.1016/ j.brainres.2005.10.083 Ashkenazi , S. , & Henik , A .
+( 2010 ) .
+A dissociation between physical and mental number bisection in developmental dyscalculia .
+Neuropsycholo- gia , 48 , 2861–2868 .
+doi:10.1016/j.neuropsychologia.2010.05.028 Ashkenazi , S. , Mark-Zigdon , N. , & Henik , A .
+( 2009 ) .
+Numerical distance effect in developmental dyscalculia .
+Cognitive Development , 24 , 387– 400. doi:10.1016/j.cogdev.2009.09.006 Bull , R. , & Cleland , A .
+A .
+( 2012 ) .
+Conditions under which making a color decision can activate spatial–numerical associations .
+Manuscript in preparation .
+Bull , R. , Marschark , M. , Sapere , P. , Davidson , W. A. , Murphy , D. , & Nordmann , E. ( 2011 ) .
+Numerical estimation in deaf and hearing adults .
+Learning and Individual Differences , 21 , 453– 457. doi:10.1016/ j.lindif.2011.02.001 Chao , L. L. , & Martin , A .
+( 1999 ) .
+Cortical regions associated with per- ceiving , naming , and knowing about colors .
+Journal of Cognitive Neu- roscience , 11 , 25–35 .
+doi:10.1162/089892999563229 Cohen Kadosh , R. , Brodsky , W. , Levin , M. , & Henik , A .
+( 2008 ) .
+Mental representation : What can pitch tell us about the distance effect ?
+Cortex , 44 , 470–477 .
+doi:10.1016/j.cortex.2007.08.002 Cohen Kadosh , R. , Cohen Kadosh , K. , Kaas , A. , Henik , A. , & Goebel , R. ( 2007 ) .
+Notation-dependent and -independent representations of num- bers in the parietal lobes .
+Neuron , 53 , 307–314 .
+doi:10.1016/ j.neuron.2006.12.025 De Gennaro , L. , Bertini , M. , Pauri , F. , Cristiani , R. , Curcio , G. , Ferrara , M. , & Rossini , P. M. ( 2004 ) .
+Callosal effects of transcranial magnetic stimulation ( TMS ) : The influence of gender and stimulus parameters .
+Neuroscience Research , 48 , 129–137 .
+doi:10.1016/j.neures.2003.10.004 Dehaene , S. ( 1992 ) .
+Varieties of numerical abilities .
+Cognition , 44 , 1–42 .
+doi:10.1016/0010-0277 ( 92 ) 90049-N Dehaene , S. , Bossini , S. , & Giraux , P. ( 1993 ) .
+The mental representation of parity and number magnitude .
+Journal of Experimental Psychology : General , 122 , 371–396 .
+doi:10.1037/0096-3445.122.3.371 Dehaene , S. , Piazza , M. , Pinel , P. , & Cohen , L. ( 2003 ) .
+Three parietal circuits for number processing .
+Cognitive Neuropsychology , 20 , 487– 506. doi:10.1080/02643290244000239 Dehaene , S. , Spelke , E. , Pinel , P. , Stanescu , R. , & Tsivkin , S. ( 1999 ) .
+Sources of mathematical thinking : Behavioral and brain-imaging evi- dence .
+Science , 284 , 970–974 .
+doi:10.1126/science.284.5416.970 Delazer , M. , Karner , E. , Zamarian , L. , Donnemiller , E. , & Benke , T. ( 2006 ) .
+Number processing in posterior cortical atrophy : A neuropsy- chological case study .
+Neuropsychologia , 44 , 36 –51 .
+doi:10.1016/ j.neuropsychologia.2005.04.013 De Smedt , B. , Vershaffel , L. , & Ghesquiere , P. ( 2009 ) .
+The predictive value of numerical magnitude comparison for individual differences in mathematics achievement .
+Journal of Experimental Child Psychology , 103 , 469–479 .
+doi:10.1016/j.jecp.2009.01.010 Edin , F. , Klingberg , T. , Johansson , P. , McNab , F. , Tegnér , J. , & Compte , A .
+( 2009 ) .
+Mechanisms of top down control of working memory capac- ity .
+Proceedings of the National Academy of Sciences of the USA , 106 , 6802–6807 .
+doi:10.1073/pnas.0901894106 Eger , E. , Sterzer , P. , Russ , M. O. , Giraud , A.-L. , & Kleinschmidt , A .
+( 2003 ) .
+A supramodal number representation in human intraparietal cortex .
+Neuron , 37 , 719–726 .
+doi:10.1016/S0896-6273 ( 03 ) 00036-9 Faillenot , I. , Sunaert , S. , Van Hecke , P. , & Orban , G. A .
+( 2001 ) .
+Orienta- tion discrimination of objects and gratings compared : An fMRI study .
+European Journal of Neuroscience , 13 , 585–596 .
+doi:10.1046/j.1460- 9568.2001.01399.x Fias , W. , Brysbaert , M. , Geypens , F. , & d ’ Ydewalle , G. ( 1996 ) .
+The importance of magnitude information in numerical processing : Evidence from the SNARC effect .
+Mathematical Cognition , 2 , 95–110 .
+doi : 10.1080/135467996387552 Fias , W. , Lauwereyns , J. , & Lammertyn , J .
+( 2001 ) .
+Irrelevant digits affect feature-based attention depending on the overlap of neural circuits .
+Cognitive Brain Research , 12 , 415– 423. doi:10.1016/S0926- 6410 ( 01 ) 00078-7 Fischer , M. H. , Castel , A. D. , Dodd , M. D. , & Pratt , J .
+( 2003 ) .
+Perceiving numbers causes spatial shifts of attention .
+Nature Neuroscience , 6 , 555–556 .
+doi:10.1038/nn1066 Frederikse , M. E. , Lu , A. , Aylward , E. , Barta , P. , & Pearlson , G. ( 1999 ) .
+Sex differences in the inferior parietal lobe .
+Cerebral Cortex , 9 , 896– 901. doi:10.1093/cercor/9.8.896 190 BULL , CLELAND , AND MITCHELL Geary , D. C. , Hoard , M. K. , Byrd-Craven , J. , Nugent , L. , & Numtee , C. ( 2007 ) .
+Cognitive mechanisms underlying achievement deficits in chil- dren with mathematical learning disability .
+Child Development , 78 , 1343–1359 .
+doi:10.1111/j.1467-8624.2007.01069.x Geary , D. C. , Saults , S. J. , Liu , F. , & Hoard , M. K. ( 2000 ) .
+Sex differences in spatial cognition , computational fluency , and arithmetical reasoning .
+Journal of Experimental Child Psychology , 77 , 337–353 .
+doi:10.1006/ jecp.2000.2594 Gevers , W. , Reynvoet , B. , & Fias , W. ( 2003 ) .
+The mental representation of ordinal sequences is spatially organized .
+Cognition , 87 , B87–B95 .
+doi : 10.1016/S0010-0277 ( 02 ) 00234-2 Goldstein , J. M. , Seidman , L. J. , Horton , N. J. , Makris , M. , Kennedy , D. N. , Caviness , V. S. , Jr. , Faraone , S. V. , & Tsuang , M. T. ( 2001 ) .
+Normal sexual dimorphism of the adult human brain assessed by in vivo mag- netic resonance imaging .
+Cerebral Cortex , 11 , 490–497 .
+doi:10.1093/ cercor/11.6.490 Grabner , R. H. , Ansari , D. , Reishofer , G. , Stern , E. , Ebner , F. , & Neuper , C. ( 2007 ) .
+Individual differences in mathematical competence predict parietal activation during mental calculation .
+NeuroImage , 38 , 346–356 .
+doi:10.1016/j.neuroimage.2007.07.041 Haier , R. J. , Jung , R. E. , Yeo , R. A. , Head , K. , & Alkire , M. T. ( 2005 ) .
+The neuroanatomy of general intelligence : Sex matters .
+NeuroImage , 25 , 320–327 .
+doi:10.1016/j.neuroimage.2004.11.019 Halpern , D. F. , Benbow , P. , Geary , D. C. , Gur , R. C. , Shibley Hyde , J. , & Gernsbacher , M. A .
+( 2007 ) .
+The science of sex differences in science and mathematics .
+Psychological Science in the Public Interest , 8 , 1–51 .
+Herrera , A. , Macizo , P. , & Semenza , C. ( 2008 ) .
+The role of working memory in the association between number magnitude and space .
+Acta Psychologica , 128 , 225–237 .
+doi:10.1016/j.actpsy.2008.01.002 Holloway , I. D. , & Ansari , D. ( 2009 ) .
+Mapping numerical magnitudes onto symbols : The numerical distance effect and individual differences in children ’ s mathematics achievement .
+Journal of Experimental Child Psychology , 103 , 17–29 .
+doi:10.1016/j.jecp.2008.04.001 Hubbard , E. M. , Piazza , M. , Pinel , P. , & Dehaene , S. ( 2005 ) .
+Interactions between number and space in parietal cortex .
+Nature Reviews Neuro- science , 6 , 435–448 .
+doi:10.1038/nrn1684 Jordan , K. , Wüstenberg , T. , Heinze , H.-J. , Peters , M. , & Jäncke , L. ( 2002 ) .
+Women and men exhibit different cortical activation patterns during mental rotation tasks .
+Neuropsychologia , 40 , 2397–2408 .
+doi:10.1016/ S0028-3932 ( 02 ) 00076-3 Keus , I. M. , & Schwarz , W. ( 2005 ) .
+Searching for the functional locus of the SNARC effect : Evidence for a response-related origin .
+Memory & Cognition , 33 , 681–695 .
+doi:10.3758/BF03195335 Knops , A. , Nuerk , H.-C. , Sparing , R. , Foltys , H. , & Willmes , K. ( 2006 ) .
+On the functional role of human parietal cortex in number processing : How gender mediates the impact of a “ virtual lesion ” induced by rTMS .
+Neuropsychologia , 44 , 2270 –2283 .
+doi:10.1016/j.neuropsychologia .2006.05.011 Koscik , T. , O ’ Leary , D. , Moser , D. J. , Andreasen , N. C. , & Nopoulos , P. ( 2009 ) .
+Sex differences in parietal lobe morphology : Relationship to mental rotation performance .
+Brain and Cognition , 69 , 451–459 .
+doi : 10.1016/j.bandc.2008.09.004 Kucian , K. , Loenneker , T. , Dietrich , T. , Martin , E. , & Von Aster , M. ( 2005 ) .
+Gender differences in brain activation patterns during mental rotation and number related cognitive tasks .
+Psychology Science , 47 , 112–131 .
+Lorch , R. F. , Jr. , & Myers , J. L. ( 1990 ) .
+Regression analyses of repeated measures data in cognition research .
+Journal of Experimental Psychol- ogy : Learning , Memory , and Cognition , 16 , 149–157 .
+doi:10.1037/ 0278-7393.16.1.149 Mitchell , T. , Bull , R. , & Cleland , A .
+A .
+( in press ) .
+Implicit response- irrelevant number information triggers the SNARC effect : Evidence using a neural overlap paradigm .
+Quarterly Journal of Experimental Psychology .
+Moyer , R. S. , & Landauer , T. K. ( 1967 ) .
+Time required for judgements of numerical inequality .
+Nature , 215 , 1519–1520 .
+doi:10.1038/2151519a0 Müller , D. , & Schwarz , W. ( 2007 ) .
+Exploring the mental number line : Evidence from a dual-task paradigm .
+Psychological Research , 71 , 598– 613. doi:10.1007/s00426-006-0070-6 Mundy , E. , & Gilmore , C. K. ( 2009 ) .
+Children ’ s mapping between sym- bolic and nonsymbolic representations of number .
+Journal of Experi- mental Child Psychology , 103 , 490 –502 .
+doi:10.1016/j.jecp.2009 .02.003 Mussolin , C. , Mejias , S. , & Noel , M.-P. ( 2010 ) .
+Symbolic and nonsymbolic number comparison in children with and without dyscalculia .
+Cognition , 115 , 10–25 .
+doi:10.1016/j.cognition.2009.10.006 Navon , D. , & Miller , J .
+( 2002 ) .
+Queuing or sharing ?
+A critical evaluation of the single-bottleneck notion .
+Cognitive Psychology , 44 , 193–251 .
+doi:10.1006/cogp.2001.0767 Nieder , A. , & Dehaene , S. ( 2009 ) .
+Representation of number in the brain .
+Annual Review of Neuroscience , 32 , 185–208 .
+doi:10.1146/annurev .neuro.051508.135550 Noël , M. P. , Rousselle , L. , & Mussolin , C. ( 2005 ) .
+Magnitude representa- tion in children : Its development and dysfunction .
+In J. I. D. Campbell ( Ed .
+) , Handbook of mathematical cognition ( pp .
+179–195 ) .
+Hove , UK : Psychology Press .
+Opfer , J. E. , & Thompson , C. A .
+( 2008 ) .
+The trouble with transfer : Insights from microgenetic changes in the representation of numerical magni- tude .
+Child Development , 79 , 788 – 804. doi:10.1111/j.1467- 8624.2008.01158.x Pashler , H. ( 1994 ) .
+Dual-task interference in simple tasks : Data and theory .
+Psychological Bulletin , 116 , 220 –244 .
+doi:10.1037/0033-2909.116 .2.220 Piazza , M. , Izard , V. , Pinel , P. , Le Bihan , D. , & Dehaene , S. ( 2004 ) .
+Tuning curves for approximate numerosity in the human intraparietal sulcus .
+Neuron , 44 , 547–555 .
+doi:10.1016/j.neuron.2004.10.014 Piazza , M. , Pinel , P. , Le Bihan , D. , & Dehaene , S. ( 2007 ) .
+A magnitude code common to numerosities and number symbols in the human intra- parietal cortex .
+Neuron , 53 , 293–305 .
+doi:10.1016/j.neuron.2006.11.022 Price , G. R. , Holloway , I. , Rasanen , P. , Vesterinen , M. , & Ansari , D. ( 2007 ) .
+Impaired parietal magnitude processing in developmental dys- calculia .
+Current Biology , 17 , R1042–R1043 .
+doi:10.1016/ j.cub.2007.10.013 Ramani , G. B. , & Siegler , R. S. ( 2008 ) .
+Promoting broad and stable improvements in low-income children ’ s numerical knowledge through playing number board games .
+Child Development , 79 , 375–394 .
+doi : 10.1111/j.1467-8624.2007.01131.x Rusconi , E. , Kwan , B. , Giordano , B. L. , Umiltà , C. , & Butterworth , B .
+( 2006 ) .
+Spatial representation of pitch height : The SMARC effect .
+Cognition , 99 , 113–129 .
+doi:10.1016/j.cognition.2005.01.004 Santiago , J. , Lupiàñez , J. , Pérez , E. , & Funes , M. J .
+( 2007 ) .
+Time ( also ) flies from left to right .
+Psychonomic Bulletin & Review , 14 , 512–516 .
+doi:10.3758/BF03194099 Schneider , M. , Grabner , R. H. , & Paetsch , J .
+( 2009 ) .
+Mental number line , number line estimation , and mathematical achievement : Their interrela- tions in grades 5 and 6 .
+Journal of Educational Psychology , 101 , 359–372 .
+doi:10.1037/a0013840 Siegler , R. S. , & Booth , J. L. ( 2004 ) .
+Development of numerical estimation in young children .
+Child Development , 75 , 428–444 .
+doi:10.1111/ j.1467-8624.2004.00684.x Thompson , C. A. , & Opfer , J. E. ( 2008 ) .
+Costs and benefits of represen- tational change : Effects of context on age and sex differences in sym- bolic magnitude estimation .
+Journal of Experimental Child Psychology , 101 , 20–51 .
+doi:10.1016/j.jecp.2008.02.003 Tombu , M. , & Jolicoeur , P. ( 2003 ) .
+A central capacity sharing model of dual-task performance .
+Journal of Experimental Psychology : Human Perception and Performance , 29 , 3–18 .
+doi:10.1037/0096-1523.29.1.3 Torralbo , A. , Santiago , J. , & Lupiàñez , J .
+( 2006 ) .
+Flexible conceptual 191SPATIAL REPRESENTATION OF NUMBER projection of time onto spatial frames of reference .
+Cognitive Science , 30 , 745–757 .
+doi:10.1207/s15516709cog0000_67 Ulrich , R. , & Maienborn , C. ( 2010 ) .
+Left–right coding of past and future in language : The mental timeline during sentence processing .
+Cognition , 117 , 126–138 .
+doi:10.1016/j.cognition.2010.08.001 Vallesi , A. , Binns , M. A. , & Shallice , T. ( 2008 ) .
+An effect of spatial- temporal association of response codes : Understanding the cognitive representations of time .
+Cognition , 107 , 501–527 .
+doi:10.1016/ j.cognition.2007.10.011 van Dijck , J.-P. , & Fias , W. ( 2011 ) .
+A working memory account for spatial-numerical associations .
+Cognition , 119 , 114–119 .
+doi:10.1016/ j.cognition.2010.12.013 Van Opstal , F. , Fias , W. , Peigneux , P. , & Verguts , T. ( 2009 ) .
+The neural representation of extensively trained ordered sequences .
+NeuroImage , 47 , 367–375 .
+doi:10.1016/j.neuroimage.2009.04.035 Van Opstal , F. , Gevers , W. , De Moor , W. , & Verguts , T. ( 2008 ) .
+Dissect- ing the symbolic distance effect : Comparison and priming effects in numerical and nonnumerical orders .
+Psychonomic Bulletin & Review , 15 , 419–425 .
+doi:10.3758/PBR.15.2.419 Van Opstal , F. , & Verguts , T. ( 2011 ) .
+The origins of the numerical distance effect : The same–different task .
+Journal of Cognitive Psychology , 23 , 112–120 .
+doi:10.1080/20445911.2011.466796 Wechsler , D. ( 2005 ) .
+Wechsler Individual Achievement Test—second UK edition .
+London , England : Harcourt Assessment .
+Weger , U. W. , & Pratt , J .
+( 2008 ) .
+Time flies like an arrow : Space-time compatibility effects suggest the use of a mental timeline .
+Psychonomic Bulletin & Review , 15 , 426–430 .
+doi:10.3758/PBR.15.2.426 Winawer , J. , Witthoft , N. , Frank , M. C. , Wu , L. , Wade , A. R. , & Boroditsky , L. ( 2007 ) .
+Russian blues reveal effects of language on color discrimination .
+Proceedings of the National Academy of Sciences of the USA , 104 , 7780–7785 .
+doi:10.1073/pnas.0701644104 Wood , G. , Willmes , K. , Nuerk , H.-C. , & Fischer , M. H. ( 2008 ) .
+On the cognitive link between space and number : A meta-analysis of the SNARC effect .
+Psychology Science , 50 , 489–525 .
+Received July 8 , 2011 Revision received March 20 , 2012 Accepted March 30 , 2012 192 BULL , CLELAND , AND MITCHELL

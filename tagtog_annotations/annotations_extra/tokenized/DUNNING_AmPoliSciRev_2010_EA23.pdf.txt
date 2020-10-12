@@ -1,0 +1,404 @@
+DUNNING_AmPoliSciRev_2010_EA23.pdf
+aCmxTmKrCJ5I1lNiW_otW6mkfixm-DUNNING_AmPoliSciRev_2010_EA23.pdf.plain.html
+
+American Political Science Review Vol .
+104 , No .
+1 February 2010 doi:10.1017/S0003055409990311 Cross-cutting Cleavages and Ethnic Voting : An Experimental Study of Cousinage in Mali THAD DUNNING and LAUREN HARRISON Yale University Social scientists often attribute moderation of the political salience of ethnicity in ethnically di-verse societies to the presence of cross-cutting cleavages—that is , to dimensions of identity orinterest along which members of the same ethnic group may have diverse allegiances .
+Yet , es- timating the causal effects of cross-cutting cleavages is difficult .
+In this article , we present experi- mental results that help explain why ethnicity has a relatively minor political role in Mali , an ethni- cally heterogeneous sub-Saharan African country in which ethnic identity is a poor predictor of vote choice and parties do not form along ethnic lines .
+We argue that the cross-cutting ties afforded by an informal institution called “ cousinage ” help explain the weak association between ethnicity and individual vote choice .
+The experimental research design we introduce may be useful in many other settings .
+Social scientists often attribute moderation of thepolitical salience of ethnicity in ethnically di-verse societies to the presence of cross-cutting cleavages—that is , to dimensions of identity or inter- est along which members of the same ethnic group may have diverse allegiances ( Dahl 1956 ; Lipset and Rokkan 1967 ) .
+When individuals who are members of the same group or social category on one dimen- sion of interest or identity , such as ethnicity , are mem- bers of different groups on another dimension , such as social class , their competing interests on the second dimension may undercut their primary allegiance to interests arising on the first dimension .
+Cross-cutting cleavages can thereby inhibit the extent to which po- litical alignments intensify along any single dimension .
+As the sociologist Lewis Coser ( 1956 , 72 ) once put it , “ The interdependence of antagonistic groups and the Thad Dunning is Associate Professor , Department of Political Sci- ence , Yale University , P.O .
+Box 208301 , New Haven , CT 06520-8301 ( thad.dunning @ yale.edu ) .
+Lauren Harrison is a graduate of Yale College , Class of 2009 .
+We are grateful for helpful advice from David Freedman , Don Green , Dominika Koter , and Ken Scheve , as well as useful com- ments from Adam Berinsky , Taylor Boas , Dawn Brancati , Michael Bratton , Michael Coppedge , Brian Crisp , Alberto Diaz-Cayeros , Jessica Gottlieb , Fran Hagopian , Macartan Humphreys , Nate Jensen , Matt Kirwin , Karen Long Jusko , Stephen Krasner , David Laitin , Chappell Lawson , Gabe Lenz , Beatriz Magaloni , Scott Mainwaring , Marc Meredith , Ryan Moore , Melissa Nobles , Sunita Parikh , Jean- Philippe Peltier , Jonathan Rodden , Guillermo Rosas , Norman Schofield , Naunihal Singh , Margit Tavits , Mike Tomz , Rob Walker , and participants in seminars at the Massachusetts Institute of Tech- nology , the Kellogg Institute at the University of Notre Dame , Stanford University , Washington University in St. Louis , and the first meeting of the network on Experiments in Governance and Politics ( EGAP ) held at Yale .
+We are especially grateful to the anonymous reviewers and to Daniel Treisman and APSR co- editors for their helpful comments .
+Jean-Louis Bourgeois , Bamadou Diallo , Mamadou Doumbia , Mohamed Keita , Abdoul Karim Soumano , Amadou Touré , and Kassim Traoré graciously facilitated our work in Mali , while Amara Bidanis and Idrissa Keita provided research assistance .
+Yale ’ s Institution for Social and Policy Studies and the MacMillan Center for International and Area Studies pro- vided financial support .
+This research was approved by Yale ’ s Human Subjects Committee under IRB protocol # 0807003989 .
+A previous version of this article appeared as Afrobarometer Working Paper 107. crisscrossing within such societies of conflicts , which serve to ‘ sew the social system together ’ by canceling each other out , thus prevent disintegration along one primary line of cleavage. ” 1 A recent literature in comparative politics and po- litical economy has extended this classic insight in a number of ways .
+Where ethnicity has multiple dimensions—for example , when language , race , reli- gion , caste , or clan can each provide the basis for different ethnic identities—the way in which different identities interact can explain whether political conflict becomes entrenched along any single ethnic dimen- sion , as well as which dimension of ethnic identity is politically salient ( Chandra 2005 ; Laitin 1986 ; Posner 2004a , 2005 ) .
+A rich theoretical literature suggests that the degree to which cleavages are cross cutting may affect individual vote choice and coalition forma- tion ( Rogowski 1989 ) , patterns of party competition ( Bartolini and Mair 1990 ; Roemer , Lee , and van der Staeten 2007 ) , and other outcomes of interest to stu- dents of comparative politics .
+By limiting the poten- tial for electoral alignments to intensify along any one dimension of identity or interest , cross-cutting cleav- ages may even promote the stability and persistence of democracy ( Chandra 2005 ; Lipset 1959 , 31 , 88–9 ) .
+Yet , estimating the causal effects of cross-cutting cleavages is difficult .
+Cross-country comparisons can be problematic because a country ’ s cleavage structure may be related to many confounding factors that might also explain patterns of ethnic politics .
+Analysts must also take care to isolate the separate influences of dif- ferent dimensions of identity .
+In addition , it may be difficult to define the relevant manipulation or inter- vention , the impact of which we want to estimate.2 Empirical studies are thus challenged to isolate the causal effects of those aspects of the cleavage structure that are , in principle , subject to manipulation .
+1 The idea has a distinguished history .
+See Allardt and Littunen 1964 , Dahl 1956 , 1982 , Dahrendorf 1959 , Lipset 1959 , Lipset and Rokkan 1967 , Simmel 1955 , or Taylor and Rae 1969 .
+2 Although nonmanipulationist accounts of causation obviously ex- ist , causal inference often involves specifying the hypothetical ma- nipulation , the effects of which we want to estimate ( Cochran 1955 ) .
+21 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 14 A ug 2 01 9 at 2 0 : 42 :5 1 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 09 99 03 11 Cross-cutting Cleavages and Ethnic Voting February 2010 In this article , we present experimental results that help explain why ethnicity appears to have little polit- ical salience in Mali , an ethnically heterogeneous sub- Saharan African country in which ethnic identity is a poor predictor of vote choice and parties do not form along ethnic lines .
+The apparent absence of ethnic vot- ing in Mali constitutes an important puzzle .
+Previous survey evidence suggests that ethnic identification is highly socially salient in Mali , as does our own research .
+Yet , unlike many other sub-Saharan African countries , in Mali , the social importance of ethnicity does not translate into a strong observed association between ethnicity and voters ’ electoral choices .
+We show that the cross-cutting ties afforded by an informal institution called “ joking kinship ” or “ cousi- nage ” can help explain the limited political salience of ethnic identity in Mali .
+During the Mali Empire ( 1230 to c. 1600 ) , families formed alliances on the basis of patronyms ( i.e. , surnames ) ; today , in countries such as current-day Mali , as well as Sénégal , The Gambia , Guinea , and Burkina Faso , these historical alliances are invoked in everyday social interactions .
+The cross- cutting nature of cousinage and coethnic ties may well explain the weak relationship between ethnicity and voter choice in Mali and several other countries .
+Imag- ine two voters from the same ethnic group and a politi- cian who comes from a different ethnic group .
+If a cousinage alliance exists between the politician and one of the voters but not the other , and if voters prefer their joking cousins as well as their coethnics , the relative attractiveness of the candidate to the two voters may diverge .
+In the aggregate , the cross-cutting nature of ethnic and cousinage ties may weaken the correlation between ethnicity and political preferences .
+To test this hypothesis , we developed an experimen- tal research design that isolates the effects of different dimensions of candidate identity on voter preferences .
+In brief , we showed videotaped political speeches to experimental subjects in Bamako , Mali ’ s capital , and then asked subjects to evaluate the quality of the speech , as well as various attributes of the candidate giving the speech .
+The content of speeches viewed by each subject was identical ; the experimental manipu- lation consisted of what subjects were told about the politician ’ s last name .
+Because surname conveys in- formation about both ethnic identity and cousinage ties in Mali , varying the politician ’ s last name allowed us to vary the treatment along two dimensions : the ethnic relationship of the politician and the subject ( same ethnicity/different ethnicity ) and their cousinage relationship ( joking cousins/not joking cousins ) .
+The experimental design thus allows us to compare , for example , subjects ’ evaluations of cousins from a dif- ferent ethnic group and noncousins from their own ethnic group , while holding constant the content of the speech and any fixed effects associated with the candidate .
+We find that cousinage alliances do affect candidate evaluations in the anticipated direction .
+Politicians who are cousins are evaluated more favorably than politi- cians who are noncousins .
+In contrast to previous ob- servational survey evidence , we also find that subjects favor coethnics over politicians from a different eth- nic group .
+However , we show that cousinage alliances counteract the negative impact of ethnic differences on candidate evaluations .
+For example , subjects ’ evalua- tions of candidates who are cousins from a different ethnic group are statistically indistinguishable from their evaluations of candidates who are noncousins from their own ethnic group .
+Our data and field research allow us to test further our core hypothesis and to evaluate the external valid- ity of our findings .
+We show , first , that cousinage links between voters and politicians are widespread and comparable in frequency to coethnic ties , so they pro- vide a plausible counterweight to ethnic linkages .
+Sec- ond , cousinage alliances are politically salient .
+In our experiment , the effects of cousinage are strongest for politically active subjects , and our analysis of electoral data suggests that parties exploit cousinage relations when choosing candidates to place on party lists .
+Third , we demonstrate that although ethnic and cousinage ties both positively affect voters ’ evaluations of candidates , there is a negative correlation between cousinage and coethnicity ( in the sense that coethnics are more likely to be noncousins than cousins , and non-coethnics are at least as likely to be cousins as noncousins ) ; thus , the omission of cousinage ties from analyses of obser- vational survey data should indeed suppress the true positive effect of coethnicity on political preferences .
+Fourth , although we can not adjudicate between all mechanisms that might explain why voters prefer their cousins and their coethnics , we show that subjects deem their cousins to be more trustworthy than noncousins ; cousinage relations appear to influence voters ’ expec- tations about politicians ’ responsiveness to their de- mands .
+Finally , we contrast the limited political salience of ethnicity in the several countries formerly under the authority of the Mali Empire , where cousinage is practiced , with ethnicity ’ s more pronounced political role in other countries , also formerly part of French West Africa , that lack cousinage .
+Of course , we do not suggest that cousinage necessarily constitutes the only reason ethnicity is not associated with vote choice in Mali .
+Our experimental research simply shows that cousinage has a causal effect on candidate preferences and that it helps offset the effects of coethnicity— something not easily inferred from the existing evidence .
+Although some features of our research design are best suited to the study of cousinage and ethnic poli- tics in Mali and elsewhere in West Africa , the exper- iment we introduce can be used to study the effects of cross-cutting cleavages in other settings .
+Our arti- cle therefore constitutes a methodological as well as substantive contribution , complementing recent pio- neering research in which experiments have been used to study such topics as the relationship between ethnic diversity and public goods provision ( Habyarimana , Humphreys , Posner , and Weinstein 2007 ) or how clien- telism shapes voter behavior ( Wantchekon 2003 ) .
+Our expectation is that replication of the experimental de- sign we introduce here will prove useful in other set- tings as well .
+22 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 14 A ug 2 01 9 at 2 0 : 42 :5 1 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 09 99 03 11 American Political Science Review Vol .
+104 , No .
+1 ETHNICITY AND COUSINAGE AS CROSS-CUTTING CLEAVAGES IN MALI Ethnicity is a highly relevant dimension of social iden- tity in Mali .
+The West African country is ethnically diverse .
+It has more than 12 linguistically defined ethnic groups , and its ethnolinguistic fractionalization score of .84 , which measures the probability that two individuals selected at random will come from different linguisti- cally defined ethnic groups , approaches the score of ethnically diverse countries such as Kenya ( .89 ) and Nigeria ( .85 ) ( Alesina et al .
+2003 , 184–9 ) .
+In Afro- barometer surveys taken in 2001 and 2002 , respectively , 40 % and 37 % of respondents said they belonged “ first and foremost ” to their ethnic group .
+These percent- ages are higher than for any other category , including religion , occupation , or gender , and they exceed the average of 31 % for nine other African countries sur- veyed ( Eifert , Miguel , and Posner 2007 , 8 ) .
+In an Afro- barometer survey taken in 2005 , 76 % of respondents said they felt “ some ” or “ a lot ” of confidence in people from their own ethnic group , whereas just 54 % said the same of other ethnic groups ( Afrobarometer 2007 , 51 ) .
+Different regions of Mali are identified with and populated by particular ethnic groups , and although the capital of Bamako tends to be well integrated , many neighborhoods are nonetheless associated with particular ethnic groups.3 Yet , despite the social importance of ethnic identi- fication in Mali , ethnicity is not highly salient politi- cally .
+In contrast to many other sub-Saharan African countries , ethnicity has not provided a strong basis for individual vote choice or party competition in Mali since the country ’ s return to democracy in 1992 .
+Dowd and Driessen ( 2008 , 6–8 ) calculate a measure of asso- ciation between individual ethnicity and party identifi- cation , and find that Mali has one of the lowest scores among the seventeen African countries surveyed ( see also Norris and Mattes 2003 , 25 ) .
+Posner ( 2004b ) , using country reports and other sources to code how often ethnicity is mentioned as a basis for party formation or political identity , creates a Politically Relevant Ethnic Group ( PREG ) fractionalization index .
+Mali ’ s PREG score ranks far below countries with similar levels of ethnolinguistic fractionalization .
+Cabinets in Mali of- ten include ministers from various ethnic groups , and Mali lacks ethnic parties in the sense of Chandra ( 2004 , 3 ) : parties do not portray themselves as “ the champion of a particular ethnic group or category to the exclusion of others ” or “ make such a strategy central to [ their ] strategy to mobilize voters. ” Thus , even as African- ists have begun to reevaluate the presumed influ- ence of ethnicity on voting behavior elsewhere in sub- Saharan Africa ( Basedau and Stroh 2009 ; Bratton and Kimenyi 2008 ; Cheeseman and Ford 2007 ; Erdmann 2007 ; Lindberg and Morrison 2008 ; Norris and Mattes 2003 ; Posner and Simon 2002 ) , Mali still stands out as a clear regional outlier .
+3 For instance , one of our interviewees gave examples of ten neigh- borhoods ( quartiers ) of Bamako , each of which was identified with a different ethnic group ( field interview Mamadou Keita , October 14 , 2008 , Bamako ) .
+What explains the apparently negligible political role of ethnicity in Mali ?
+The cross-cutting ties afforded by cousinage alliances may play an important role , as anthropologists , political scientists , Malian politicians , and the U.S. State Department have all pointed out.4 Cousinage , sometimes called “ joking kinship , ” has ex- isted in what is now the country of Mali since at least the time of the Mali Empire.5 Under the rule of the emperor Sundiata Keita ( c. 1235–1255 ) , joking rela- tions between subjects of the empire who bore cer- tain patronyms6 ( which were often identified with oc- cupational specializations ) were officially sanctioned.7 Article 6 of Keita ’ s “ Kurukan Fuga ” —which was a set of prescriptions for how the Mali Empire should be organized and governed—stated that cousinage “ is ( hereafter ) instated among the Mandenkas [ subjects of the Mali Empire ] .
+By consequence , no difference born between these groups can degenerate , the respect of the other being the rule ” ( Kouyaté 2003 ) .
+According to several scholars , the stated purpose of institution- alizing cousinage was to “ defend , with language , the peace and harmony within the empire ” ( Kouyaté 2003 , 58 ) .
+Just as constructivist scholars have argued with re- spect to ethnic identities ( e.g. , Nobles 2000 ) , then , cousinage was originally codified and reinforced by the state .
+Although joking alliances were described by colonial administrators ( Arcin 1906 ; Humblot 1918 ; Molinié 1959 ) and anthropologists ( Mauss 1928 ; Radcliffe-Brown 1940 ) in the preindependence period , there appears to be little information about the im- pact of colonialism on this social practice .
+Unlike other institutions that provided a greater basis for mobiliz- ing challenges to colonial rule , colonists apparently did not seek to restructure cousinage relations.8 Since in- dependence , however , and especially after the return to democracy in many countries in the 1990s , official tributes organized by governments in Mali , Sénégal , and elsewhere have celebrated cousinage as a source of interethnic understanding , which may again under- score the role of the state in reinforcing this institution ( Canut 2006 ) .
+Although our main goal in this article is to estimate the political effects of cousinage and not to explain the origins or persistence of this institution , 4 See , inter alia Delafosse 1912 , Mauss 1928 , Pageard 1958 , Radcliffe- Brown 1940 ; more recently , Canut and Smith 2006 , Davidheiser 2006 , 837 , Douyon 2006 , Galvan 2006 , Launay 2006 , Lieberman 2009 , O ’ Bannon 2008 , Smith 2006 , and U.S. Department of State 2003 .
+5 The standard French terms used to describe this institution include “ cousinage ” and “ parenté a plaisanterie ” ( joking kinship ) ; the term is “ senankunya ” in the local language of Bambara .
+6 We use “ patronym , ” “ last name , ” and “ surname ” interchangeably in this article ; the first term is most widely used in the anthropological literature on cousinage .
+7 According to oral historians , alliances between patronyms existed even before Sundiata Keita ’ s time ; however , Keita codified and sanc- tioned the practice ( Noumoussa Kante , interview , October 12 , 2008 , Bamako ) .
+8 Cousinage thus contrasts with other institutions , such as Sufi broth- erhoods or the Fon aristrocracy , where the French sought to reor- ganize traditional authority structures ( Dominika Koter , personal correspondence , July 2009 ) .
+23 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 14 A ug 2 01 9 at 2 0 : 42 :5 1 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 09 99 03 11 Cross-cutting Cleavages and Ethnic Voting February 2010 it is nonetheless important to understand the political incentives that may underlie this cultural equilibrium.9 Today cousinage alliances exist not only in Mali , but also in other places that were either under the au- thority of the Mali Empire , such as Sénégal ( Galvan 2006 ; O ’ Bannon 2008 ) , Guinea ( Kouyaté 2003 ) , The Gambia ( Davidheiser 2006 ) , and Burkina Faso ( Sissao 2002 ) , or that have since experienced substantial im- migration from these areas , such as the northern Ivory Coast , southern Mauritania , and Niger .
+Cousinage is not practiced everywhere in West Africa .
+Although it occurs in many parts of the Western Sahel zone , coun- tries located along the Gulf of Benin , such as Togo and Benin , lack cousinage .
+There is also some variance in practice within countries where cousinage does exist .
+For example , the Tuareg ( Tamasheq ) in northern Mali and the Diola in Sénégal do not appear to have exten- sive surname-based joking alliances with members of their own or other ethnic groups.10 However , cousinage is practiced almost everywhere else in Mali , and joking kinships occur between and among members of most of the country ’ s 12 largest ethnic groups.11 Today , if someone in Mali with the last name of Keita ( a surname from the Malinké ethnic group ) meets someone named Coulibaly ( a surname from the Bambara ethnic group ) , these two joking cousins may insult each other with a standard set of jokes , even if they have never met .
+It may be tempting to think of cousinage alliances as themselves being ethnic ties , yet this does not seem appropriate .
+Although common descent is often taken to be a defining feature of ethnic identity ( Chandra 2006 ; Weber 1978 ) , sharing a surname in Mali only loosely implies common descent .
+As Launay ( 2006 , 767–8 ) explains , “ in a large community , it is not uncom- mon for two entirely unrelated descent groups to share the same patronym .
+.
+.
+the relationship of senankunya [ cousinage ] transcends all locality , linking all peo- ple who share one name with all people who share another. ” 12 Cousinage relationships therefore provide a distinct form of identity ; they are not simply an ex- tension of ethnicity .
+Cousinage relations imply a social bond between par- ties to the alliance , that is , between joking cousins .
+At least historically , there was often hierarchy involved in these relationships , with one patronym in a pair of cousins associated with a higher caste ( say , the caste 9 We refer to cousinage as an institution in the sense of Greif ( 2006 , 30 ) : “ An institution is a system of rules , beliefs , norms and organiza- tions that together generate a regularity of social behavior. ” 10 However , on some accounts , the Diola have cousinage relations with the Sereer ( see O ’ Bannon 2008 , 9–10 ) .
+Again , the geographic and political reach of the Mali Empire seems important in explaining which groups practice cousinage ; for example , the Tuareg , who speak a Berber language , were not subjects of the empire .
+11 Ethnic groups in Mali include the Bambara/Bamanan ( an es- timated 26 % of the national population ) , Peulh/Fula ( 14 % ) , Sonrhai ( 10 % ) , Soninké/Sarakolé ( 9 % ) , Maninka/Malinké ( 7 % ) , Dogon ( 6 % ) , Bobo ( 3 % ) , Sénoufo ( 3 % ) , Mianka ( 3 % ) , Khasonké ( 2 % ) , Tuareg ( 2 % ) , and Bozo ( 1 % ) , among others ( Afrobarometer 2007 , 51 ) .
+12 Although neighborhoods in Bamako may be ethnically identified , we have not found evidence that cousins tend to live near each other .
+However , this point is challenging to evaluate empirically .
+of nobles ) than the other.13 Part of the point of cousi- nage appears to be precisely that the leveling influ- ence of joking subverts hierarchies of power , at least temporarily.14 For instance , cousins sometimes com- pete to call each other their “ slave ” ( esclave ) ; dietary customs may be denigrated through comments such as “ you eat beans ” ( Canut and Smith 2006 ; Jones 2007 ) .
+Although such jokes are formulaic , they are also re- formulated to diffuse social tensions or to advance particular aims in ways that are situation dependent .
+Jones ( 2007 , 72 ) recounts an instance in which a certain M. Traoré asked for the surname of an administrative office worker , who was taking a long time with the preparation of paperwork ; on learning that the worker was a joking cousin , Traoré said , “ You must work faster .
+You are doing the work of your master. ” Some typical jokes imply possession or dominance , through phrases such as “ you are my daughter/son ” ( often uttered by a younger joking cousin to an older one ) or “ I made you , and God made the others ” ( Jones 2007 , 75 ) .
+Other stan- dard jokes are simpler , mocking insults such as “ Your name is worthless , ” “ Your name is something found in the street , ” or simply “ Keita ( insert other name ) is bad ” ( said by the Coulibaly/other joking cousin ) .15 Joking kinship alliances thus allow the establishment of rap- port and permit a degree of frankness between cousins that may not otherwise exist in social relationships .
+Cousinage relations are also said to imply a set of reciprocal obligations .
+As one ethnic Senoufo intervie- wee told us , he could “ never hurt his cousin ” and would “ have to do what his cousin asks , ” a sentiment shared by other interviewees as well.16 Anthropologists and other scholars have alleged that joking kinship may “ re- sult in greater willingness to make voluntary material sacrifices ( of resources , time , willingness to voluntarily cede in disputes , etc . )
+for people thought to belong to different groups ” ( Galvan 2006 , 816–17 ) .
+These bonds of obligation can have real practical consequences .
+Cousinage relations may be invoked to avoid payment of traffic tickets , extract concessions from bureaucrats , speed up ( or avoid ) the payment of taxes , and for other purposes ( see Canut and Smith 2006 ; Jones 2007 ) .
+As we discuss further below , the ability to procure special favors from one ’ s joking cousins may play an important role in explaining the political impact of cousinage .
+This does not imply , of course , that the establish- ment of greater rapport or trust through cousinage re- lations is automatic .
+As many cultural anthropologists and sociologists emphasize , although social practices such as cousinage typically involve a set of persistent habits that structure behavior , parties to an 13 Cousinage ties are not transitive : if A is a cousin of B and B is a cousin of C , A and C are not necessarily cousins .
+14 For example , a Malian businessman on a flight from Paris to Ba- mako complained to one of the authors ( Dunning ) that employees who are his joking cousins feel free to insult and make special de- mands of him .
+Such anecdotes suggest that the leveling of hierarchy remains an important aspect of the social institution .
+15 Many insults are extemporaneous rather than formulaic ; whatever the nature of the joke , the key point is that joking reinforces the cousinage relationship between the speakers .
+16 Interview Mamadou Sonogo , October 8 , 2008 , Bamako .
+24 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 14 A ug 2 01 9 at 2 0 : 42 :5 1 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 09 99 03 11 American Political Science Review Vol .
+104 , No .
+1 exchange must also choose to invoke these relation- ships ( Bourdieu 1992 ) .
+As Launay ( 2006 , 95 , 99 ) puts it , “ joking [ between cousins ] has constantly to be instantiated .
+.
+.
+.Such relationships .
+.
+.
+are either delib- erately staged .
+.
+.
+or voluntarily instantiated by one or both parties .
+For there to be a joking relationship , someone actually has to do the joking. ” We do not presuppose a positive impact of cousinage on inter- personal trust .
+Indeed , our experiment is designed to allow us to evaluate empirically the political effects of this social institution , whatever they may be .
+We also recognize that the nature of cousinage relation- ships may change over time , with even the set of sur- name pairs that constitute joking cousins subject to transformation.17 However , cousinage alliances consti- tute “ social facts , ” which are difficult for any individual to alter .
+At any given point in time , there exists an understanding about who can joke with whom , and the ability to invoke cousinage alliances is constrained by the surnames of the parties doing the joking.18 In Mali , surnames imply a set of cross-cutting ethnic and cousinage ties .
+It is therefore important to empha- size the specificity of the social institution we study .
+Although many anthropologists have examined sim- ilar “ joking kinship alliances ” in other settings ( see Radcliffe-Brown 1940 ) , they may not involve the cross- cutting ties that characterize cousinage in Mali.19 What , then , is the political role of this social in- stitution ?
+Our field research and the secondary liter- ature suggest that Malian politicians employ cousi- nage relations to serve their electoral objectives .
+A deputy in the National Assembly told one of us ( Dun- ning ) that he uses cousinage alliances to establish rap- port and “ win the loyalty ” of non-coethnic voters in his constituency.20 Mali ’ s current president , Amadou Toumani Touré , often refers in speeches to his joking cousins ( Douyon 2006 , 899 ) .
+The president is fortu- nate that his surname grants him alliances with voters bearing common patronyms from at least four ethnic groups—namely , the Coulibaly ( ethnic Bamanans ) , the Maiga ( ethnic Songhais ) , the Keita and the Sissoko ( ethnic Malinkés ) , and the Guindo ( ethnic Dogons ) .
+Thus , Touré can invoke cousinage relations nearly 17 Some observers even allege a cousinage “ growth industry , ” in which more and more surname pairs have come to be considered cousins ( Douyon 2006 ) .
+We discuss the challenges this posed to our experimental design further below .
+18 Launay ( 2006 , 799 ) suggests that “ the question of which jamu [ patronym ] actually jokes with whom is subject to considerable in- determinacy .
+Lists of the joking partners of any given jamu may vary from community to community , or even from individual speaker to speaker. ” Nonetheless , there is often a clear understanding about which surname pairs comprise cousins , particularly for “ classic ” cousins such as the Keita and the Coulibaly .
+19 Joking between grandparents and grandchildren is sometimes de- scribed as “ senankunya , ” the Bambara term for cousinage ( Jones 2007 ) .
+We focus on alliances between particular patronyms , how- ever , because these cross-cut ethnic groups and could therefore conceivably limit the observed relationship between ethnicity and vote choice .
+20 This deputy from the Malinké ethnic group reported using cousi- nage ties to establish rapport while campaigning in a village inhabited by many ethnic Bambaras named Samaké , who are his joking cousins ( interview , October 12 , 2008 , Lanceni Balla Keita , Bamako ) .
+wherever he travels in the country .
+Douyon ( 2006 , 899 ) also notes that “ numerous candidates in the legisla- tive or municipal elections have solicited the vote of their senankun allies [ their cousins ] , who are manip- ulated more easily than ( even ) direct relatives ” ( see also Canut 2006 ) .21 Interestingly , politicians sometimes find ways to extend the range of cousinage relations to which they can legitimately appeal politically , for example , by drawing on both maternal and pater- nal patronyms ( Douyon 2006 , 896–7 ) .
+Finally , where deputies or other politicians come from a minority or nondominant ethnic group in a given constituency , they appear to enjoy particularly widespread cousinage re- lations with voters in the consituency .
+In Gao , which is ethnically nearly 75 % Sonrhai , the president of the re- gional assembly is ethnically Dogon , an extreme minor- ity comprising well under 5 % of the population in that region .
+However , this politician ’ s surname ( Guindo ) affords him cousinage relations with the most common Sonrhai patronyms ( e.g. , Maiga , Cissé , Touré ) .22 If politicians strategically exploit cousinage in their electoral campaigns , then these relationships should presumably also shape the preferences of individ- ual voters .
+Several studies allege that voters prefer their cousins and even suggest why they would do so .
+Douyon ( 2006 , 899 ) , for example , claims that “ voters tend to vote for their allies ( cousins ) , saying that in case of problems—administrative , political , or social— the elected ally would be more prompt to intervene than he would be even with a direct member of his own family. ” Other scholars have referred to the role of joking kinships in limiting the political salience of eth- nicity in several West African countries ( see Lieberman 2009 , 277–8 ) .
+Nevertheless , to our knowledge , our re- search supplies the first rigorous empirical test of the proposition that cousinage shapes political preferences .
+Most important , it allows us to assess how the cross- cutting ethnic and cousinage ties interact , and thereby may inhibit the crystallization of political preferences along ethnic lines .
+EXPERIMENTAL DESIGN To measure the effect of cousinage on voter prefer- ences , we showed videotaped political speeches to ex- perimental subjects , who were recruited through door- to-door canvassing in almost all neighborhoods in the capital city of Bamako .
+Subjects were told that the can- didate in the video was a political independent who was considering launching a campaign for deputy in the National Assembly.23 In all 824 experimental tri- als , we asked subjects to evaluate the overall quality of the speech and the attractiveness of the candidate 21 Translated from the original French ; all translations are ours , un- less otherwise noted .
+22 Kassim Traoré , personal communication , December 8 and 22 , 2008 .
+23 Mali has a multiparty democracy with direct elections for president and list-based elections in single- or multimember constituencies for seats in the National Assembly .
+25 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 14 A ug 2 01 9 at 2 0 : 42 :5 1 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 09 99 03 11 Cross-cutting Cleavages and Ethnic Voting February 2010 TABLE 1 .
+Experimental Design : Subjects Assigned to Treatment and Control Conditions Subject and politician are joking cousins Subject and politician are not joking cousins Subject and politician are from the same ethnic group <SS> N = 136 </SS> <SS> N = 122 </SS> Subject and politician are from different ethnic groups <SS> N = 124 </SS> <SS> N = 152 </SS> Control conditions Politician ’ s last name not given <SS> N = 132 </SS> Subject and politician have the same last name <SS> N = 158 </SS> along various dimensions .
+The content of speeches viewed by all subjects was identical .
+The experimen- tal manipulation consisted of what subjects were told about the politician ’ s last name , which conveys infor- mation about both ethnic identity and cousinage ties in Mali .
+Our experimental design had six treatment and control conditions .
+In the four treatment conditions shown in the top two rows of Table 1 , the subject and the politician are , respectively , joking cousins from the same ethnic group ( <SS> N = 136 </SS> ) ; noncousins from the same ethnic group ( <SS> N = 122 </SS> ) ; joking cousins from dif- ferent ethnic groups ( <SS> N = 124 </SS> ) ; or noncousins from different ethnic groups ( <SS> N = 152 </SS> ) .
+We also added two additional control conditions to the experimental de- sign ( bottom rows of Table 1 ) .
+In the fifth condition , subjects were not provided with information about the politician ’ s last name , and thus received no information about their ethnic and cousinage ties to the politician ( <SS> N = 132 </SS> ) .
+Adding this fifth condition therefore allows us to estimate treatment effects relative to this baseline candidate evaluation .
+Finally , in the sixth condition , the politician had the same last name as the subject ( <SS> N = 158 </SS> ) .
+Of course , such politicians are also noncousins from the subject ’ s own ethnic group ( because cousi- nage alliances occur between patronyms , and because last name indicates ethnicity ) ; thus , this final control condition in one sense coincides with the coethnic , noncousin treatment condition.24 However , adding this additional condition allows us to compare treatment ef- fects stemming from cousinage or coethnicity to a sim- ple sameness or clan effect .
+Experimental subjects were assigned at random to these six treatment and control conditions with equal probability , using a computer- generated list of pseudorandom integers between 1 and 6 ( inclusive ) .
+24 Our evidence supports this assertion .
+Among subjects assigned to view a speech by a politician with the same last name , 98 % said the politician was not a cousin , whereas 90 % said the politician was a coethnic .
+To assign subjects at random to the treatment and control conditions , we needed a way to expose each subject to the appropriate stimulus—that is , to a politi- cian ’ s patronym that corresponds to the relevant cell of Table 1 , for a given subject surname .
+To do this , we reviewed the secondary literature and conducted interviews with experts on cousinage , as well as or- dinary Malian informants in Bamako .
+We then cata- logued the surnames associated with each treatment condition for more than 200 subject surname-ethnicity combinations.25 This allowed us to create a large matrix in which each row corresponds to a Malian last name that we could expect to encounter in the field and each column gives politicians ’ surnames associated with the appropriate treatment or control condition.26 We used two small experiments ( <SS> N = 42 </SS> and <SS> N = 169 </SS> , respec- tively ) to test a preliminary version of our matrix .
+In conjunction with further qualitative interviews in the field , these smaller experiments allowed us to create and refine the random assignment matrix used in the larger experiment reported in this article .
+Although several secondary sources describe cousinage alliances between various patronyms , we do not know of any previous mapping that is as comprehensive as our ran- dom assignment matrix .
+Table 2 shows a typical row of our matrix , this one for a subject named Keita who is from the Malinké ( also known as Maninka ) ethnic group .
+The columns of Table 2 give the politicians ’ surnames associated with each of the six treatment and control conditions , for such a subject .
+For example , politicians with the sur- names in the first two columns are coethnics of the subject ; however , those in the first column ( Sissoko and Konaté ) are considered cousins of the Keita , whereas those in the second ( Diané ) are not .
+The surnames in the third and fourth columns , meanwhile , are asso- ciated with other ( non-Malinké ) ethnic groups , some of which are cousins of the Keita ( third column ) and some of which are not ( fourth column ) .
+In cells with multiple entries , such as in the first , third , and fourth columns in Table 2 , the politician ’ s last name was se- lected at random from the names listed in the cell .
+The surnames included in each column are not intended to be exhaustive ; for instance , the first and third columns of the matrix do not include all possible cousins for this subject surname .
+Rather , we sought to use politician surnames for which cousinage links are well under- stood and widely recognized , so that we could accu- rately manipulate the stimuli to which subjects were exposed .
+One important question is whether we were in fact able to manipulate subjects ’ perceptions of their eth- nic and cousinage ties to politicians .
+This is important because we ultimately care about how subjects ’ per- ceptions of these ties to politicians shape candidate 25 Although last name usually implies a single ethnicity in Mali ( as implied by our experimental design ) , one will occasionally encounter exceptions .
+In each row of our matrix , we thus specified the subject ’ s ethnicity and surname .
+26 The random assignment matrix and other experimental materials are posted online at http : //research.thaddunning.com .
+26 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 14 A ug 2 01 9 at 2 0 : 42 :5 1 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 09 99 03 11 American Political Science Review Vol .
+104 , No .
+1 TABLE 2 .
+Typical Row of Our Random Assignment Matrix Subject ’ s ( 1 ) ( 2 ) ( 3 ) ( 4 ) ( 5 ) ( 6 ) Surname Coethnic/ Coethnic/ Not Coethnic/ Not Coethnic/ No Same ( Ethnicity ) Cousin Not Cousin Cousin Not Cousin Name Name Keita ( Maninka ) 1 .
+Sissoko 1 .
+Diané 1 .
+Doucouré 1 .
+Diallo Pas de nom Keita 2 .
+Konaté 2 .
+Sacko 2 .
+Cissé 3 .
+Sylla 3 .
+Dambelé 4 .
+Coulibaly 4 .
+Théra 5 .
+Touré 5 .
+Touré 6 .
+Togola 7 .
+Watarra evaluations .
+In some cases , we were concerned that we risked misclassifying the stimuli to which subjects perceived themselves to be exposed .
+As a manipula- tion check , we therefore asked subjects to identify the ethnicity of the politician in the videotape and also whether the politician was a joking cousin of the sub- ject .
+( We did this only after subjects had answered all questions related to the treatment . )
+Subjects perceived both the politician ’ s ethnic iden- tity and their cousinage ties to the politician with sub- stantial accuracy .
+First , given only the politician ’ s last name and choosing from more than 14 ethnic cate- gories , subjects correctly classified the politician ’ s eth- nicity more than 80 % of the time .
+In the control con- dition in which no politician surname was provided , subjects ’ guesses roughly tracked the distribution of ethnic groups in Bamako .
+Next , when assigned to view a speech by a politician from a different ethnic group , subjects correctly classified the politician as a cousin or a noncousin nearly 85 % of the time .
+Subjects more often misclassified their cousinage ties to politicians from their own ethnic group ( in particular , they more often classified coethnic cousins as noncousins than they did coethnic , noncousins as cousins ) .
+As a sub- stantive matter , the direction of the misclassification may serve to emphasize that cousinage alliances are typically understood to cut across ethnic groups.27 We recruited experimental subjects by approaching men and women sitting outside homes ( or knocking on doors ) and asking if they would participate in a study on political speeches .
+Distributions on several measured variables in the experimental population , such as ethnicity and age , are similar to those given for Bamako and Mali as a whole by representative surveys ( Afrobarometer 2007 ) .
+However , the experiment severely underrepresents women , who comprise just 27 % of the experimental population.28 After ap- proaching a potential subject , we administered a screening questionnaire in which we sought back- ground information , including first and last name and 27 As an inferential matter , however , the slight misclassification may lead us to underestimate the true effects of some treatments , as we discuss in the next section and in the Appendix .
+28 In Bamako , women tend to be doing work inside houses or com- pounds , whereas men , when at home , tend to be outside sipping tea .
+ethnic identity.29 The information gathered during screening allowed us to determine subject eligibility and to assign subjects randomly to the treatment and control conditions.30 To create the political speech to be viewed by the experimental subjects , we drew on fieldwork conducted by one of us ( Harrison ) in Bamako during Mali ’ s parlia- mentary elections in 2007 , as well as secondary sources .
+The speech focused on standard themes in Malian polit- ical campaigns , such as the need to improve infrastruc- ture , invest in schools , and relieve electricity blackouts .
+Approximately 56 % of experimental subjects said the speech “ reminded them of a speech they had heard on a previous occasion. ” The speech was delivered in Bam- bara/Bamanakan , which is the lingua franca of Bamako ( and of Mali ) .31 The fieldwork for our experiment took place from June to October 2008 .
+Subjects viewed the videotaped political speech on a portable DVD player or laptop computer using head- phones .
+When subjects were found in groups , only one subject was recruited per group ; only the subject could hear the speech through the headphones , and each sub- ject answered follow-up questions on his or her own .
+These features of the research design limited the po- tential for subjects ’ responses to treatment to depend on the treatment assignment of other subjects , which would violate the standard assumption in experimental 29 The screening questionnaire asked for name , sex , year of birth , last year of schooling completed , place of birth , years living in Bamako , where else subject has lived ( if anywhere ) , whether the subject is registered to vote , language of greatest daily use , the first language the subject learned , and the subject ’ s ethnic identity .
+30 Around 20 % of potential subjects were not eligible to participate because their ( more unusual ) surnames did not appear in the rows of our random assignment matrix .
+For such subjects , who are not included in this article ’ s analysis , we showed a single version of the speech and then administered an abbreviated postspeech question- naire .
+31 The use of Bambara does not necessarily imply a particular ethnic identity for the politician .
+Among experimental subjects who self- identified with an ethnicity other than Bambara/Bamanan , 61 % speak Bambara most frequently in daily life , 14 % speak both Bambara and French , and 13 % speak primarily French—leaving just 12 % of non-Bambaras who use their first language most frequently .
+Also , subjects did not disproportionately attribute a Bamanan/Bambara identity to either of our actors/politicians and attributed a similar distribution of ethnicities to both—although one actor was in fact ethnically Bambara , whereas the other was ethni- cally Peulh .
+27 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 14 A ug 2 01 9 at 2 0 : 42 :5 1 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 09 99 03 11 Cross-cutting Cleavages and Ethnic Voting February 2010 analysis of “ no interference between units ” ( Cox 1958 ) or what Rubin ( 1978 ) called the “ stable unit treatment value assumption ” ( SUTVA ) .
+Follow-up questions then asked subjects to evalu- ate the content of the speech and the politician who delivered it .
+For instance , subjects answered questions about the speech ’ s quality , whether the speech made them want to vote for the candidate , and candidate attributes such as competence , likeability , and intelli- gence .
+The experimental manipulation was reinforced through repetition of the politician ’ s surname .
+Our re- search assistants mentioned the politician ’ s surname before playing the videotape ( after subjects were ran- domly assigned to one of the treatment conditions ) and repeated it each time they asked about the can- didate or the speech in the posttreatment question- naire .
+Our Malian research assistants asked the follow- up questions in French , Bambara , or a mixture of the two.32 A final aspect of the experimental design to note is that we sought to achieve a within-subjects component to the experimental design in order to reduce the vari- ance of estimated treatment effects .
+To do this , we hired two Malian actors , who each separately recorded the political speech ; some subjects saw the speech twice , with a different actor each time .
+However , we took care to ensure that the identity of the actor did not interact with other experimental stimuli.33 The results reported here are qualitatively very similar when we drop all data from second showings of the speech .
+The experimental protocol was published prior to data analysis ( Dunning 2009 ) , as recommended by many methodologists .
+It bears emphasis that we might expect treatment effects to be weak in this experiment , for several rea- sons .
+First , viewing a videotaped political speech may not closely approximate the experience of attending a real political rally .
+Despite our attempt to create a speech that is similar to typical campaign speeches , the delivery of the speech via a laptop or DVD makes the stimulus somewhat artificial .
+Second , subjects were not asked to evaluate politicians whom they already knew , and the effects of cousinage or coethnicity could be different ( perhaps stronger ) with different candidate histories .
+Finally , merely changing the last name of the politician across different treatment conditions may not provide a strong priming of ethnic identification or cousinage ties .
+By simply changing the last name of the politician giving a speech , we may fail to capture the subtle and perhaps more powerful ways in which political actors call on the institution of cousinage to serve their strategic purposes .
+Nonetheless , our substantive wager was that ethnic ties and cousinage-based alliances are sufficiently im- 32 We supervised our two research assistants intensively , especially during our initial smaller experiments .
+In total , at least one of the two authors was present for 11 % of the subject interviews .
+33 The identity of the actor in the first video was assigned at random to subjects who saw two versions .
+Perhaps surprisingly , few subjects commented on the identical content of the speeches , and there was substantial within-subject variance in responses .
+portant that merely changing the last name of the politi- cian would allow us to capture some of the interacting effects of these cross-cutting cleavages .
+However , the true effects of cousinage and ethnic ties may be sub- stantially stronger than those we estimate here .
+EXPERIMENTAL RESULTS : INTENTION-TO-TREAT ANALYSIS After viewing the videotaped political speech , sub- jects were asked , “ On a scale of 1 to 7 , how much does this speech make you want to vote for ( name of politician ) ? ” 34 For subjects assigned to the control con- dition in which the politician ’ s last name was not given , this candidate replaced name of politician .
+Higher num- bers indicate more favorable evaluations .
+The aver- age candidate evaluation was 4.53 across all treatment conditions , with a standard deviation of 1.73 .
+Table 3 reports descriptive statistics for all response variables analyzed in this article .
+Because posttreatment ques- tions were measured on different scales ( some on a scale of 1–5 and others on a scale of 1–7 ) , Table 3 also presents means and standard deviations for the response variables , rescaled to run from 0 to 1 .
+How did coethnicity and cousinage alliances shape subjects ’ evaluations of candidates ?
+To answer this question , we compare average responses among sub- jects randomly assigned to the various treatment and control conditions .
+Such intention-to-treat analysis es- timates the causal effect of treatment assignment ( Freedman 2006 ) .
+The intention-to-treat principle im- plies that we ignore ( for the moment ) whether subjects actually believed the politician to be their coethnic or their cousin ; we return to this important issue later in the article .
+Figure 1 graphically depicts average candidate evalu- ations by treatment assignment category for four treat- ments , and Table 4 reports the full results .
+As Figure 1 and Table 4 show , both coethnicity and cousinage al- liances significantly affect candidate evaluations .
+On average , assignment to view a speech by a coethnic , rather than a politician from a different ethnic group , raised candidate evaluations by more than one half a point , whereas assignment to view a cousin rather than a noncousin increased evaluations by just under one half of one point .
+Taken together , the effects imply that assignment to view a speech by a coethnic cousin , rather than a noncousin from a different ethnic group , raised the average evaluation by 1.09 points ( with a t statistic of 5.54 ) , or nearly two thirds of one standard deviation.35 Most important for our purposes , the evidence suggests that cousinage relations can counteract the 34 In French , the question reads “ Sur une échelle de 1 à 7 , est-ce que le discours de ( nom du politicien/ce candidat ) vous donne envie de préférer ce candidat ?
+( 1 = non , pas du tout , 7 = oui , tout à fait ) . ” The verb “ préférer ” may be slightly ambiguous , because it may be interpreted as “ to prefer ” or “ vote for ” in this context .
+35 Surprisingly to us , the evidence suggests additive rather than in- teractive effects .
+For example , the estimated effect of cousinage is about the same , regardless of whether the politician is a coethnic .
+28 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 14 A ug 2 01 9 at 2 0 : 42 :5 1 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 09 99 03 11 American Political Science Review Vol .
+104 , No .
+1 TABLE 3 .
+Descriptive Statistics on Response Variables ( Across All Treatment Conditions ) Variable Range Mean ( SD ) Mean ( SD ) Range 0–1 Global evaluation of candidate 1–7 4.53 ( 1.73 ) 0.58 ( 0.29 ) Global evaluation of speech 1–7 6.29 ( 1.22 ) 0.88 ( 0.20 ) The candidate .
+.
+.
+Is likeable 1–5 4.49 ( 0.61 ) 0.87 ( 0.15 ) Is intelligent 1–5 2.90 ( 0.95 ) 0.48 ( 0.24 ) Is competent 1–5 2.72 ( 0.96 ) 0.43 ( 0.24 ) Is impressive 1–7 4.26 ( 1.69 ) 0.54 ( 0.28 ) Is trustworthy 1–5 2.57 ( 1.08 ) 0.39 ( 0.27 ) Would do a good job in office 1–7 3.49 ( 1.78 ) 0.42 ( 0.30 ) Would defend others and fight for his ideals 1–7 2.99 ( 1.80 ) 0.33 ( 0.30 ) Has good motivations for running 1–7 6.13 ( 1.39 ) 0.85 ( 0.23 ) Would successfully face challenges of office 1–7 4.00 ( 1.35 ) 0.50 ( 0.23 ) Has good ideas 1–7 6.01 ( 1.44 ) 0.84 ( 0.24 ) The table reports the theoretical ( and empirical ) range , mean , and standard deviation for each variable analyzed in the article .
+The final column reports means and standard deviations for each variable , recoded on a 0–1 scale .
+FIGURE 1 .
+Average Candidate Evaluations , by Treatment Assignment Coethnic Cousins Coethnics , Not Cousins Cousins , Not Coethnics Not Coethnics , Not Cousins The figure reports average answers by treatment assignment category to the question , “ On a scale of 1 to 7 , how much does this speech make you want to vote for ( name of politician/this candidate ) ? ” negative effects of ethnic differences on candidate eval- uations .
+In fact , the average evaluation of cousins from a different ethnic group ( 4.44 ) is statistically indistin- guishable from the average evaluation of noncousins from the same ethnic group ( 4.57 ) .
+On average , subjects appear roughly indifferent between noncousins from their own ethnic group and cousins from a different ethnic group .
+We subjected these results to a variety of robustness tests .
+Nonparametric , two-sample <TN> Wilcoxon rank-sum tests </TN> , which are based on the median rather than the mean , tell the same story as the parametric analysis : coethnics are significantly preferred to non-coethnics , and cousins are significantly preferred to noncousins , whereas preferences for joking cousins from a differ- ent ethnic group and noncousins from the same ethnic group are statistically indistinguishable .
+We also found very similar treatment effects for similar questions , such as “ On a scale of 1 to 7 , how would you rate the global quality of this speech ? ” Because our main analysis effectively pools across multiple experiments , one for each subject surname , we also analyzed treat- ment effects by individual surnames ; although sample sizes are small , even for the most common last names , 29 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 14 A ug 2 01 9 at 2 0 : 42 :5 1 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 09 99 03 11 Cross-cutting Cleavages and Ethnic Voting February 2010 TABLE 4 .
+Average Candidate Evaluations , by Treatment Assignment Subject and politician are joking cousins Subject and politician are not joking cousins Difference of means A B A–B Subject and politician are from 5.05 4.57 0.49∗∗∗ same ethnic group ( 0.15 ) ( 0.16 ) ( 0.22 ) C Subject and politician are from 4.44 3.96 0.48∗∗∗ different ethnic groups ( 0.17 ) ( 0.13 ) ( 0.21 ) D Difference of means 0.61∗∗∗ 0.61∗∗∗ C–D ( 0.22 ) ( 0.20 ) Control conditions Politician ’ s last name not 4.33 given ( 0.12 ) Subject and politician have 4.84 same last name ( 0.15 ) The cells report average answers to the question , “ On a scale of 1 to 7 , how much does this speech make you want to vote for ( name of politician/this candidate ) ? ” Estimated standard errors are reported in parentheses .
+∗∗∗ <PV> p < .001 </PV> .
+the results track the aggregate findings .
+Finally , we con- ducted several tests using permutation distributions of the test statistics , under the sharp null hypothesis of no unit-level effects , and found substantively identical results.36 In addition , although our intention-to-treat analysis suggests significant effects , it likely underestimates the effect of treatment receipt .
+As we show in the Ap- pendix , treatment effects are nearly 50 % larger once we adjust for some mismatches between treatment as- signment and subjects ’ perceptions of the treatment— that is , when we estimate the effects of treatment on those who perceive the treatment as we intended .
+Note that here and in the Appendix , we do not present analysis by “ treatment received ” ; that is , we do not compare all subjects who perceive the politician to be a cousin to all those who perceive the politician to be a noncousin .
+Suppose that some subjects generally feel more positively about other people and are also more likely to identify other people as their joking cousins .
+By comparing subjects who identify the politician as a cousin with those who do not , we might misleadingly infer that cousinage boosts evaluations of politicians when instead there is simply an omitted confounder— that is , how positive a subject is about people in gen- 36 The sharp null hypothesis assumes no effects at the unit level , so unit potential outcomes are the same for every treatment assignment .
+Thus , observed outcomes under the actual treatment assignment vec- tor reveal potential outcomes for counterfactual assignments .
+Under this sharp null hypothesis , we can calculate the exact probabilities ( known as Fisher ’ s exact p-values ) of observing differences between treatment conditions as big as the ones we actually observe , given the vector of assignment probabilities .
+However , the sharp null may be less relevant if treatment “ hurts ” the evaluations of some subjects and “ helps ” the evaluations of others .
+For discussion of Fisher ’ s pro- cedure , see Fisher ( 1956 ) , Rosenbaum ( 2002 , Chapter 2 ) , or Bowers and Panagopolous ( 2009 ) .
+eral .
+Use of our “ objective ” matrix , rather than the de facto perceptions of subjects , solves this problem by randomizing people to treatment conditions .
+However , we can then use the random assignment to address the important issue of perception by estimating the “ effect of treatment on compliers ” ( see the Appendix ) .
+Qualitative data gathered during the experiment also underscore the political salience of both ethnic and cousinage ties .
+In response to open-ended questions , subjects frequently made disparaging remarks about candidates from different ethnic groups .
+For example , an ethnic Bamanan subject who saw a speech by a politician named Guindo ( a patronym from the Do- gon ethnic group ) said someone named Guindo “ could never do a good job ” as a politician .
+Another Bamanan said that Dogons “ don ’ t know how to lead. ” An eth- nic Songhai suggested that Bobo ethnics “ don ’ t know anything about politics , ” whereas an ethnic Malinké subject said the same of Dogons .
+An ethnic Soninké subject , in turn , offered the opinion that “ the Malinkés are not intelligent. ” Subjects tended to offer more positive comments about coethnics .
+For instance , a Bamanan subject named Koné saw a speech by a coethnic named Di- arra and said “ the Koné and the Diarra are the same thing. ” One subject who said he paid attention to the candidate ’ s family name in reflecting on the candi- date ’ s merits said he did so because “ it is important to know the identity of the candidate. ” Subjects also held a special regard for politicians who shared their own surnames .
+A subject with the last name Anne offered the opinion that “ the Anne family is composed of intellectuals. ” One subject named Sacko said that “ a Sacko is a hard worker , ” and another commented that the “ Sackos are very cultured. ” A griot ( oral historian ) named Kouyaté commented that “ if a griot [ Kouyaté ] is a candidate , it is because he is capable of many things , ” whereas a Malinké subject named Koné said that she 30 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 14 A ug 2 01 9 at 2 0 : 42 :5 1 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 09 99 03 11 American Political Science Review Vol .
+104 , No .
+1 FIGURE 2 .
+Effects of a Cousinage Alliance on Evaluations of Candidate Attributes ( Differences of Means , Cousins Minus Noncousins ) The figure reports the estimated effect of cousinage alliances on subjects ’ evaluations of the candidate ’ s attributes .
+All variables are rescaled to run from 0–1 , so effect sizes are on that scale .
+The darkened circles give point estimates , whereas vertical lines show 95 % confidence intervals .
+The analysis pools across coethnicity ; that is , mean responses of subjects assigned to the “ coethnic , noncousin ” or “ non-coethnic , noncousin ” conditions are subtracted from the mean responses of subjects assigned to the “ coethnic cousin ” or “ non-coethnic cousin ” conditions .
+paid attention to the politician ’ s name of Koné because the “ Konés are nobles. ” ( The Konés were members of the caste of nobles during the Mali Empire . )
+A sub- ject named Keita , when asked whether she would be more susceptible to vote for a candidate sharing her family name , said “ yes , like uncle IBK ” —a reference to an opposition candidate during the 2007 presidential elections , Ibrahim Boubacar Keita .
+Finally and most important , subjects offered several rationales for their tendency to support cousins .
+The ability of cousins to reprimand and sanction one an- other appeared to play a particularly important role .
+As one subject put it , if a joking cousin “ is not serious , we will correct him. ” Another said she would vote for her cousin because “ if he does not respect his promises , I will bring him to heel , because he is a cousin. ” These comments suggest some hypotheses about why subjects prefer candidates who are their cousins .
+Unfortunately , our data do not allow us to distinguish rigorously between independent families of mecha- nisms that may explain why subjects vote for coethnics and cousins , as Habyarimana et al .
+( 2007 ) , for example , have sought to do in explaining why ethnic diversity inhibits public goods provision .
+Nonetheless , our analysis does provide some important clues .
+Figure 2 presents mean differences , across the cousin and noncousin conditions , in subjects ’ evaluations of candidate attributes such as likeability , competence , intelligence , and trustworthiness .
+To focus attention on the effects of cousinage , in Fig- ure 2 we pool across the ethnic relationship between subjects and politicians ; that is , we compare subjects assigned to the “ coethnic cousin ” or “ non-coethnic cousin ” conditions with subjects assigned to the “ coethnic , noncousin ” or “ non-coethnic , noncousin ” conditions .
+Such pooling is appropriate for two reasons .
+First , coethnicity is assigned at random with equal probability , so there are about as many coethnics as noncoethnics in each of the cousin and noncousin con- ditions ( Table 1 ) .
+Second , our analysis suggests additive rather than interactive effects ( Table 4 ) .
+Thus , pooling readily allows us to estimate the effects of cousinage , 31 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 14 A ug 2 01 9 at 2 0 : 42 :5 1 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 09 99 03 11 Cross-cutting Cleavages and Ethnic Voting February 2010 net of the effects of ethnicity.37 Note that for purposes of comparability across differing scales , in Figure 2 the raw variables measuring subjects ’ evaluations of candidate attributes are all rescaled to run from 0 to 1 .
+Our quantitative analysis echoes the qualitative comments discussed previously .
+The single largest dif- ference of means is for a survey question asking sub- jects whether the candidate is trustworthy.38 On the 0–1 scale , cousins are viewed as over 0.07 points more trustworthy than noncousins , for a statistically signifi- cant effect size of more than one fourth of a standard deviation .
+Cousins are also rated more favorably than noncousins on other variables that tap expectations about postelectoral behavior , such as whether the can- didate would do a good job if elected , whether he or she would fight for others and defend his or her ideals , or whether he or she could successfully face the challenges of office ( although for the latter two variables , the dif- ferences of means are significant only at the 0.1 level ) .
+In contrast , cousins are seen as no more competent , intelligent , or impressive than noncousins .
+They are , however , viewed as more likeable than noncousins.39 One interpretation of these data is indeed that voters anticipate being able to sanction cousins who renege on campaign promises , or anticipate being able to procure benefits from their cousins , thus making such candi- dates more “ trustworthy. ” 40 Perhaps social networks also allow voters to monitor and sanction both cousins and coethnics.41 In our postreatment questionnaire , we asked subjects how many of their close friends and acquaintances ( i.e. , people they see regularly but who are not as close as friends ) bear the same last name as the politician in the video ; possible answers ranged from 0 to 10 or more.42 Figure 3 displays the average number of close friends and acquaintances bearing the last name of the politician in the video by treatment assignment .
+Notice that subjects assigned to the co- ethnic cousin condition have on average 4.73 friends 37 However , we also conducted the analysis separately for coethnics and non-coethnics , with similar results .
+38 “ Trustworthy ” or “ worthy of confidence ” are both possible trans- lations of “ digne de confiance ” in French .
+39 We have also analyzed the effects of coethnicity , pooling across cousinage relationships ; there , variables tapping expectations about postelectoral behavior are also most important .
+40 In general , political candidates are not considered very worthy of confidence ; thus , any factor that increases trustworthiness could be especially valuable to politicians .
+Across all treatment conditions , the mean trustworthiness of candidates is just 0.39 on a scale of 0 to 1 .
+Subjects were similarly pessimistic about whether the candidate would do a good job in office , defend others and fight for his or her ideals , or successfully face the challenges of office ( Table 3 ) .
+According to one experimental subject , the videotaped politician “ would construct his village with the country ’ s money , forgetting all of his ideals ; ” according to another , the politician “ will only defend his own village. ” This echoes evidence from a recent survey , in which 90 % of respondents said that politicians “ often ” or “ always ” make promises just to get elected , whereas 84 % said politicians “ never ” or “ rarely ” keep their promises after elections ( Afrobarometer 2007 , 50 ) .
+41 One subject named Kouyaté noted that “ the Djelys ( griots , Kouyatés ) are trustworthy. ” 42 It should be borne in mind that this is an observational , not exper- imental , quantity .
+We can not manipulate the number of friendships that subjects have with people bearing various last names .
+and 7.1 acquaintances with the politician ’ s last name , whereas subjects assigned to the noncoethnic , non- cousin condition have on average just 1.75 friends and 3.52 acquaintances with the politician ’ s surname.43 It is possible that voters prefer their cousins and coethnics because they are more tightly linked with them in social networks , which may also make it easier for them to sanction politicians who perform poorly.44 However , these are not the only interpretations con- sistent with our evidence .
+It could well be that the greater trustworthiness of cousins is related to their greater likeability , although the fact that cousins are not seen as any more intelligent , competent , or impres- sive than noncousins may weaken the interpretation that affective factors play an important role .
+Our data can not readily tell us whether likeability and trustwor- thiness are independent dimensions that shape candi- date evaluations,45 nor can they tell us the precise role played by social networks .
+Although it is possible that networks increase cousins ’ trustworthiness by allowing voters to monitor and sanction their cousins more ef- fectively ( Stokes 2005 ) , just as they may monitor coeth- nics in other contexts ( Fearon and Laitin 1996 ) , further evidence is needed on this point .
+In the final analysis , we can not adjudicate between all such alternative mecha- nisms .
+Future research should seek to explain further why voters prefer coethnics and their cousins .
+CAN COUSINAGE ALLIANCES EXPLAIN THE ABSENCE OF ETHNIC VOTING IN MALI ?
+To what extent can the causal effects revealed by our experiment help explain the real world puzzle we have highlighted—namely , the weak relationship between ethnicity and individual vote choice in Mali ?
+Com- paring cousinage to other explanatory factors is chal- lenging .
+For example , existing data on individual vote choice do not include measures of joking kinship al- liances between voters and politicians , so it is difficult to assess the “ variance explained ” by cousinage .
+How- ever , our own data allow us to make some progress in this regard .
+In this section , we discuss external validity and several related topics before turning to alternative explanations .
+First , note that random assignment to the treatment conditions supports the internal validity of our conclu- sions and implies that we can validly estimate causal effects for our experimental study group .
+Yet , is the study group representative of the population of Mali , 43 On average , subjects in the “ own last name ” condition had 6.89 friends and 8.11 acquaintances with that name .
+44 Although we do not have the data to pursue the hypothesis here , voters may anticipate receiving greater access to government benefits from cousins , just as they do from coethnics in other settings ( Bates 1983 ) .
+Clientelism plays an important role in Mali ; in a nationally representative survey , 83 % of respondents said that politicians of- fer gifts to voters during electoral campaigns “ always ” or “ often ” ( Afrobarometer 2007 , 50 ) .
+45 In earlier work , we generated two linear and additive scales com- prised of variables tapping “ affection ” and “ credibility , ” respectively .
+Although a useful heuristic , we can not really defend the grouping of the component variables into two independent indices .
+32 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 14 A ug 2 01 9 at 2 0 : 42 :5 1 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 09 99 03 11 American Political Science Review Vol .
+104 , No .
+1 FIGURE 3 .
+Mean Number of Subjects ’ Friend and Acquaintances Sharing the Politician ’ s Last Name ( by Treatment Assignment ) The figure presents average answers by treatment assignment to the questions , “ How many of your close friends have the family name of politician ’ s last name ? ” and “ How many of your acquaintances ( people whom you see regularly but who are not as close as friends ) have the family name politician ’ s last name ? ” Possible answers run from 0 to 10 or more ( which is coded as 10 ) .
+or even of Bamako ?
+As noted previously , our field investigators canvased every neighborhood of Bamako in a more-or-less random way .
+However , subjects who chose to participate in the experiment ( or whom our field investigators chose to persuade to participate ) may be unlike those who refused in ways that matter for subjects ’ responses to treatment .
+Thus , even if strict probability sampling had been used to recruit subjects , nonparticipation might have posed obstacles to validly extrapolating estimated treatment effects to broader populations .
+In addition , the capital city is clearly un- like the rest of Mali in many ways , which may also limit the external validity of our findings .
+Although we can not fully correct for nonparticipa- tion , we can partially assess the resulting degree of bias when we extrapolate estimated treatment effects to broader populations .
+As noted previously , the distribu- tion of key covariates in the experimental study group is quite similar to those reported by representative sur- veys .
+For example , if we pick any two experimental subjects from our data set , the probability that they are coethnics is about .17 .
+This number is strikingly consis- tent with the ethnolinguistic fractionalization score of .84 reported for Mali by Alesina et al .
+( 2003 , 185 ) , which gives the probability that two individuals selected at random are from different ethnic groups .
+This may also imply , inter alia , that our study group includes a fairly representative sample of last names because there is no a priori reason to think that our sampling process would over- or underrepresent particular last names , within each ethnic group.46 However , we were quite concerned about the un- derrepresentation of women in our sample .
+After all , if treatment effects differ systematically for men and women , we might risk bias in extrapolating effects from our study group.47 To evaluate this possibility , we estimated the treatment effects reported in Table 4 separately for men and women ( the results are re- ported in an online Appendix ) .48 Note that for both men and women in our study group , our estimators are unbiased and internally valid because both men and women were randomized to treatment conditions .
+In Table 5 , we present the weighted average of these unbiased estimates , where the weights are proportional to the inverse of the probability of selection for men and women.49 In principle , this procedure allows us 46 As mentioned earlier , we did not randomize ineligible subjects , who have very unusual surnames , to the treatment conditions and thus did not include them in the experimental analysis ; however , we recorded their surnames , and we use that data in our analysis of the frequency of cousinage relations that follows .
+47 It is conceivable that because cousinage relations were originally established between surnames linked to caste , and because caste still indicates profession to some degree , that joking kinships would be more salient among men .
+However , we found in the field that many women engage in cousinage-based joking ( see also Jones 2007 ) .
+48 See http : //research.thaddunning.com .
+49 The probability of selection is 73/100 for men and 27/100 for women .
+33 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 14 A ug 2 01 9 at 2 0 : 42 :5 1 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 09 99 03 11 Cross-cutting Cleavages and Ethnic Voting February 2010 TABLE 5 .
+Average Candidate Evaluations , by Treatment Assignment ( Weighted Averages of Male and Female Subjects ) Subject and politician are joking cousins Subject and politician are not joking cousins Difference of means A B A–B Subject and politician are from 4.89 4.51 0.38 same ethnic group ( 0.15 ) ( 0.16 ) ( 0.22 ) C Subject and politician are from 4.28 3.79 0.49∗∗∗ different ethnic groups ( 0.17 ) ( 0.13 ) ( 0.21 ) D Difference of means 0.61∗∗∗ 0.72∗∗∗ C–D ( 0.22 ) ( 0.20 ) Control conditions Politician ’ s last name not given 4.03 ( 0.12 ) Subject and politician have 4.65 same last name ( 0.15 ) The cells report average answers to the question , “ On a scale of 1 to 7 , how much does this speech make you want to vote for ( name of politician/this candidate ) ? ” The table reports weighted averages of treatment effects estimated separately for men and for women , where the weights are proportional to the inverse of the probability of selection .
+Estimated standard errors are reported in parentheses and are as in Table 4 .
+∗∗∗ <PV> p < .001 </PV>

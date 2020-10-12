@@ -1,0 +1,858 @@
+Offer_AmSocioRev_2018_3zNd.pdf
+aJV6M5xJFWG6zhvoDWe6q_VqvASe-Offer_AmSocioRev_2018_3zNd.pdf.plain.html
+
+https : //doi.org/10.1177/0003122417737951 American Sociological Review 2018 , Vol .
+83 ( 1 ) 111 –142 © American Sociological Association 2017 DOI : 10.1177/0003122417737951 journals.sagepub.com/home/asr In the development of social network analysis since the 1950s , researchers and popularizers have stressed the importance to individuals of egocentric networks as sources of emotional support , information , and material assistance in both mundane situations and emergencies .
+Also recognized , but trailing far behind in attention , is the importance of egocentric net- works as sources of demands and difficulties .
+Scholars have noted that sometimes l ’ enfer , c ’ est les autres by showing that individuals are also connected to people who burden and stress them ( Bertera 2005 ; Durden , Hill , and Angel 2007 ; Lee and Szinovacz 2016 ; Rook 1984 , 1989 ; Thomas 2010 ) , but they have paid far less attention to difficult ties than to supportive or even weak ties ( for an overview , 737951 ASRXXX10.1177/0003122417737951American Sociological ReviewOffer and Fischer 2017 aBar-Ilan University bUniversity of California , Berkeley Corresponding Author : Shira Offer , Department of Sociology and Anthropology , Bar-Ilan University , Ramat Gan , 52900 , Israel E-mail : shira.offer @ biu.ac.il Difficult People : Who Is Perceived to Be Demanding in Personal Networks and Why Are They There ?
+Shira Offera and Claude S. Fischerb Abstract Why do people maintain ties with individuals whom they find difficult ?
+Standard network theories imply that such alters are avoided or dropped .
+Drawing on a survey of over 1,100 diverse respondents who described over 12,000 relationships , we examined which among those ties respondents nominated as a person whom they “ sometimes find demanding or difficult. ” Those so listed composed about 15 percent of all alters in the network .
+After holding ego and alter traits constant , close kin , especially women relatives and aging parents , were especially likely to be named as difficult alters .
+Non-kin described as friends were less likely , and those described as co-workers more likely , to be listed only as difficult alters .
+These results suggest that normative and institutional constraints may force people to retain difficult and demanding alters in their networks .
+We also found that providing support to alters , but not receiving support from those alters , was a major source of difficulty in these relationships .
+Furthermore , the felt burden of providing support was not attenuated by receiving assistance , suggesting that alters involved in reciprocated exchanges were not less often labeled difficult than were those in unreciprocated ones .
+This study underlines the importance of constraints in personal networks .
+Keywords difficult ties , egocentric networks , personal networks , social demands , social exchange 112 American Sociological Review 83 ( 1 ) see Kadushin 2012 ) .
+The modest literature on difficult ties within networks , although alert- ing us to the complexities of relationships , insufficiently identifies who tends to be felt as difficult by whom and , more generally , insuf- ficiently explains why individuals maintain such burdensome relationships .
+Studies of network formation , from either an agentic or a structural perspective , typically assume that difficult ties will be avoided and eventually dissolved ( Harrigan and Yap 2017 ) , thus mak- ing their presence and persistence in networks a puzzle .
+In this article , we use data from the first wave of the University of California Social Network Study ( UCNets ) to learn about the prevalence , attributes , and correlates of diffi- cult ties .
+UCNets is an extensive egocentric network survey of some 1,150 adults in the greater San Francisco Bay Area .
+Respondents described their relationships with over 11,000 alters drawn from their answers to six name- eliciting questions asking about the people with whom they were involved in different spheres of activity .
+A major advantage of UCNets is that , in addition to these questions , the survey also asked respondents to name the people whom they found “ demanding or dif- ficult , ” thus allowing us to learn about the sources of burdens and difficulties in personal networks .
+We argue that individuals experi- ence constraints that press them to continue engaging with others whom they would have preferred to avoid or to disengage from .
+Our study focuses on two types of constraints , role- and interaction-based , and examines their association with the likelihood that dif- ferent alters will be named as participants in difficult ties in a network .
+PrevIOuS reSeArCh ON DIFFICulT TIeS The observation that individuals may have ties that are partly or even predominantly costly to them would not be striking to scholars who analyze whole networks , such as classrooms or work settings , where dislike , competition , and conflict are expected ( e.g. , Everett and Borgatti 2014 ; Lyons and Scott 2012 ) .
+The bulk of theory and research on personal , or egocentric , networks , however , focuses on the supportive function of personal relationships ( Cohen and Janicki-Deverts 2009 ; Fischer 1982a ; House , Umberson , and Landis 1988 ; Thoits 2011 ; Wellman and Wortley 1990 ) .
+These studies typically stress how family , friends , and even acquaintances assist respon- dents , connect them to various resources , and contribute to their physical and mental health .
+( For a representative overview of a vast litera- ture , see Kawachi and Berkman 2001 . )
+Con- siderably less attention , however , has been given to the role and implications of difficult relationships .
+Karen Rook is one of the few scholars to have addressed this issue .
+In her study of elderly women , Rook ( 1984 , 1989 ) found that the number of relationship burdens they reported affected the women psychologically more than did the number of supportive rela- tionships they described ( see also Lincoln 2000 ) .
+Importantly , she found that the number of difficult and helpful ties the women reported were uncorrelated ; indeed , specific friends and relatives could be sources of both help and strain .
+More recently , several sur- veys have asked respondents to report support or strain from specific types of alters , such as their spouses or daughters ( e.g. , Bertera 2005 ; Birditt and Antonucci 2007 ) , or from general categories of ties , such as family and friends ( e.g. , Chen and Feeley 2014 ; Durden et al .
+2007 ; Shaw et al .
+2007 ; Walen and Lachman 2000 ) .
+Other researchers have estimated how many people provide support versus prob- lems or how often they do so ( e.g. , how many of the people you listed “ get on your nerves ? ” [ Thomas 2010 ] ) .
+Additionally , studies of “ psychological ambivalence ” in the family literature empha- size that relationships with kin often involve simultaneously positive and negative content ( e.g. , Birditt and Fingerman 2013 ; Connidis and McMullin 2002 ; Fingerman , Hay , and Birditt 2004 ) .
+In a recent example , Lee and Szinovacz ( 2016 ) , using the 2008 Health Retirement Study , found that respondents Offer and Fischer 113 reported the greatest mix of positive and negative evaluations for their spouses and children , then next greatest for other relatives , and least for friends .
+In addition , they found that negative reports about spouses and chil- dren , but not about relatives or friends , cor- related with various psychological well-being measures .
+Overall , these studies commonly find that respondents who give more negative reports also tend to report higher levels of stress and loneliness and lower levels of physical health and psychological well-being ( see Ailshire and Burgard 2012 ; Lee and Szinovacz 2016 ; Lund et al .
+2014 ; Rook 2003 , 2015 ; for some complexity , see Antonucci et al .
+2010 ) .
+Although the association between difficult ties and health and well-being appears to be robust , the causal paths linking them have not been sufficiently studied .
+Difficult ties may impair well-being by increasing a person ’ s sense of stress and burden ; or , psychologi- cally distressed people and those with a nega- tive outlook on life may tend to perceive others in an unpleasant way ( see Vinokur , Schul , and Caplan 1987 ) .
+Despite the consensus on the correlates of difficult ties , the existing literature barely addresses the question of which types of peo- ple and what kinds of ties are felt to be diffi- cult .
+That is , it is important to understand not just whether individuals can identify stressful ties in their networks , but also to understand which specific alters and which specific ties— defined by relationship type and other fea- tures , such as alters ’ interactions with the individual—seem to provoke stress and feel- ings of burden .
+To our knowledge , the only approximate precedent to our analysis is Lef- fler , Krannich , and Gillespie ( 1986 ) , which asked residents of four Utah villages to name people with whom they had various positive interactions and to name those who were overly demanding , would let them down , and made them angry .
+Our study uses a larger and more diverse sample and expands what we know about these relationships , allowing us to address the issue of who is viewed as creat- ing stress and burden , and then permitting us to infer answers to the broader question of why individuals would maintain such rela- tionships .
+Is it , as an exchange model would suggest , because people gain more than they lose in these ties , or is it because people can- not avoid these ties ?
+TheOrIeS OF TIe FOrmATION AND The QueSTION OF DIFFICulT TIeS The question of why individuals sustain con- nections to people whom they consider diffi- cult and demanding directs us to the broader , and relatively unexplored , issue of how peo- ple build and maintain personal networks .
+The social science literature has proposed two main complementary approaches .
+The first emphasizes individuals ’ agentic nature and treats them as active and purposive builders of their social worlds .
+The second approach focuses on the structural locations in which individuals are embedded and how these locations provide opportunities for social connections .
+These two approaches , however , have not been applied to explain the existence and persistence of difficult ties in people ’ s networks .
+We begin by briefly reviewing the two main approaches to tie formation , address their limitations , and then discuss the idea of constraints to help resolve the puzzle of last- ing difficult ties .
+Tie Formation as a Purposive Process The approach that treats tie formation as a purposive and deliberate process rests on the assumption that individuals are agentic actors who make strategic decisions regarding whom to include and whom to exclude from their networks .
+This approach highlights the mental process individuals engage in as they evaluate and screen potential network mem- bers .
+Explanations typically focus on the gains obtained from the connections or the utility of potential associates for fulfilling individual needs and interests .
+114 American Sociological Review 83 ( 1 ) The idea that people form and invest in relationships with an eye to the benefits , both extrinsic and intrinsic , they can accrue from them is most explicit in early exchange theory approaches ( e.g. , Blau 1986 ; Homans 1958 ; Thibaut and Kelly 1959 ) and more recently in the investment model put forward by theorists of social capital .
+As Bourdieu ( 1986:249 ) explains , “ the network of relationships is the product of investment strategies , individual or collective , consciously or unconsciously aimed at establishing or reproducing social relationships that are directly usable in the short or long term ” ( see also Coleman 1990 ; Lin 2001 ) .
+Tie formation and activation is thus treated as an instrumental process whose main motivation is driven by the utility of the tie .
+Consequently , ties based on unrecipro- cated exchanges , or those in which costs out- weigh benefits , are likely to be discontinued ( Ikkink and van Tilburg 1999 ) .
+In research on social support , this approach resonates with models of “ targeted mobiliza- tion ” ( Small 2013 ) and “ functional specificity ” ( Perry and Pescosolido 2010 ) , which contend that individuals assess their own needs and then selectively turn to specific people to access their resources based on evaluations of how useful these people are .
+Consistent with this idea , research points to specialization in the provision of support by showing that different types of ties are mobilized for differ- ent types of support ( e.g. , Fischer 1982a ; Pescosolido 1992 ; Wellman and Wortley 1990 ) .
+Other studies , mostly ethnographies of family and community relationships , use lan- guage that is not explicitly actor-based but that also assumes people build networks in a deliberate and purposive manner .
+Nelson ( 2005 ) , for example , shows how the low- income single mothers she interviewed in Vermont carefully select network members by evaluating who in their social environ- ments is most suited to fulfill their needs .
+Nelson refers to this screening process as “ the work of sociability. ” Similarly , Hansen ( 2005 ) describes a process of sifting and sorting net- work members , referred to as “ staging net- works , ” that parents continuously go through in their attempt to build networks of care for their children .
+Hansen ( 2004 ) shows how parents assess network candidates based on their past behaviors , values , and childrearing philosophy and how they follow relatively strict rules regarding what to ask from whom , when , and under what circumstances .
+These studies nicely demonstrate how individuals meticulously seek to gain information about potential network members and weigh the benefits and costs of drawing someone into or excluding someone from the network ( see also Domínguez and Watkins 2003 ; Menjívar 2000 ) .
+Tie Formation and the Context of Opportunity The second approach focuses on the more contingent and idiosyncratic character of tie formation .
+It stresses that individuals often create connections with the people in their social surroundings who are accessible and available to them .
+Social contexts ( or foci , see Feld 1981 ) matter much more for network inclusion than agentic search models suggest .
+Simple inaccessibility , for example , rules out all but a small sliver of hypothetical relation- ships .
+Consistent with recent developments in network research , this approach assumes that circumstances play a crucial role in shaping the compositional and structural features of social networks ( e.g. , Doreian and Conti 2012 ; Entwisle et al .
+2007 ; Mollenhorst , Völker , and Flap 2014 ; Small 2013 ; Small , Pamphile , and McMahan 2015 ) .
+For example , studies show how people often form quite intimate and sup- portive ties with others whom they barely know and have recently met , sometimes unex- pectedly , in different places , such as childcare centers ( Small 2009 ) , food pantries , neighbor- hood clinics , homeless shelters ( Desmond 2012 ) , college classrooms ( Kossinets and Watts 2009 ; Small 2013 ) , beauty salons ( Furman 1997 ) , and diners ( Torres forthcoming ) .
+The broader social and institutional con- text is thus conceptualized as an opportunity structure for social meetings and the forma- tion of new ties mainly because it determines Offer and Fischer 115 the pool of potential associates and allows for the emergence of interactions ( Blau and Schwartz 1984 ; Feld 1982 ; Fischer 1982a ; Lazarsfeld and Merton 1954 ) .
+This idea is key to research on homophily , which shows that the degree of similarity between associates is affected by the characteristics of the social contexts in which they meet and interact ( e.g. , Marsden 1990 ; McPherson and Smith-Lovin 1987 ; McPherson , Smith-Lovin , and Cook 2001 ) .
+In support of this view , Small ( 2013 ) finds that students discuss important matters not just with others they feel close to , but also with acquaintances whom they meet in vari- ous groups and associations .
+Mollenhorst and colleagues ( 2014 ) , using longitudinal per- sonal network data in the Netherlands , find that many social ties are discontinued over time due to a lack of meeting opportunities .
+The opportunity approach does not dis- credit the idea that within specific contexts individuals may select ties purposively , but its focus is elsewhere .
+It assumes that access , physical or social proximity , is key to the process of tie formation and maintenance.1 Experimental studies provide evidence show- ing how proximity contributes to the endur- ance of ties by facilitating regular interactions and the development of positive sentiments and trust between individuals ( Lawler 2001 ) .
+Further support is provided by survey research suggesting that even in today ’ s digital world , propinquity is important for social interaction and the receipt of support ( Mok , Wellman , and Carrasco 2010 ) .
+TOWArD uNDerSTANDINg DIFFICulT TIeS IN egOCeNTrIC NeTWOrKS People form ties in many different ways : some are purposeful , others incidental , or even spontaneous ( Small and Sukhu 2016 ) .
+The two approaches outlined in the previous section help distinguish analytically between the different mechanisms but , and most importantly for the present study , neither has been used to explain the maintenance of difficult ties in networks .
+Both approaches implicitly assume that difficult and demand- ing individuals will be avoided , dropped from the network , or not recruited into it in the first place .
+Nelson ( 2005 ) , for example , reports that mothers tend to socially disengage from people who make burdensome demands , fail to reciprocate their gestures , or are judgmen- tal .
+Similarly , Desmond ( 2012 ) finds that the “ disposable ties ” evicted tenants create with new acquaintances , and from whom they obtain important support needed for their daily survival , are typically short-lived and frequently dissolve following unexpected cri- ses , emergencies , and mounting relational tension ( for other examples , see review in Offer 2012 ) .
+The prediction that difficult ties will be avoided or dropped is based on the idea that people can freely choose with whom they want , or do not want , to associate .
+The focus on individual choice is explicit in the agentic model , but it is also part of the structure of opportunity approach , which specifies that people can freely choose their associates from the pool of available candidates .
+Little account , however , is given to how the social environ- ment can restrict individual freedom and con- strain behavior ( Emirbayer and Goodwin 1994 ; Granovetter 1985 , 2002 ) .2 Yet people often feel pressure to continue engaging socially with others whom they would prefer to avoid or disengage from , thus further sour- ing the relationship .
+Scholars often overlook this aspect of personal relationships .
+For exam- ple , in his study of childcare centers in New York City , Small ( 2009 ) describes how the centers serve an important brokerage function by giving mothers the opportunity to connect with each other and with other organizations through routines and activities , such as drop- off and pick-up times , parties , and fieldtrips , but he only briefly mentions instances when parents feel coerced by the centers to cooperate with parents whom they find annoying .
+Seeking to understand which ties are per- ceived as difficult and why they are part of a network , we elaborate on the agentic and structure of opportunity approaches of tie 116 American Sociological Review 83 ( 1 ) formation by articulating two distinct types of constraints on individual choice and behavior .
+Consistent with the structural approach , the first type is role-based and refers to the source or context ( “ focus ” in Feld ’ s terms ) of the relationship between the individual and the alter , and the normative , institutional , and material limitations imposed by this relation- ship .
+Consistent with the agentic model , the second type is interaction-based and refers to the patterns of social exchange between the individual and the alter and the potential util- ity derived from their relationship .
+STuDy hyPOTheSeS Role-Based Constraints Individuals ’ roles in a network emerge from the contexts in which they participate , and these contexts vary in their level of constraint .
+According to Feld ( 1981 ) , highly constrain- ing contexts produce highly interconnected networks , which are likely to engender not only positive but also negative sentiments because they tend to force people to interact with other members .
+Hence , and consistent with the structural model , the contexts in which individuals are embedded determine not only the pool of potential associates whom individuals can choose , but also people whom individuals have no choice but to engage with , even if they would rather not .
+As Brashears and Brashears ( 2016:23 ) explain , in the absence of mechanisms to “ eliminate ” them , such ties are likely to endure : “ [ N ] ega- tive ties are more likely to be found in a per- sistent form when interaction is unavoidable .
+By extension this suggests that stable nega- tive ties will rarely exist outside of some overarching framework ( e.g. , a larger family grouping , a workplace ) . ” 3 Contexts can be bounding for different rea- sons .
+For example , normative pressures exist in the context of the family , which Feld identi- fies as one of the most constraining foci .
+Most family-of-origin ties are inherited and typically characterized by high emotional closeness , strong commitment , and norms of care ( Bengtson 2001 ; Silverstein , Gans , and Yang 2006 ; Swartz 2009 ; Wellman and Wortley 1990 ) .
+The high level of interconnectedness among family members also constitutes an important mechanism of norm reinforcement and social control .
+Families often pressure their members to comply , cooperate , and share resources and sanction those who do not abide ( Coleman 1988 ; Portes and Sensenbrenner 1993 ; Stack 1974 ) .
+Hence , strong normative pressures within families may force people to retain ties to relatives , especially close ones , who are viewed as difficult and burdensome ( see Brashears and Brashears 2016 ) .
+Other contexts likely impose practical and material constraints that force people to pre- serve difficult ties .
+This is most evident in hierarchical contexts that create power asym- metries and where people occupy subordinate positions that make them highly dependent on others ( Burt 2000 ; Emerson 1962 ) .
+The work- place provides an excellent example of such a context : people can not easily disengage from their supervisor or manager nor limit interac- tions with difficult workmates unless they quit their jobs ( Levine 2013 ) .
+Similarly , the complexities of moving may make it difficult for people to avoid annoying and disturbing neighbors ( Goering and Feins 2003 ; Lee , Oropesa , and Kanan 1994 ) .
+Greater freedom , however , exists in ties originating in voluntary associations , includ- ing religious congregations .
+In these contexts , people can turn away relatively easily from bothersome fellow-members , or leave the church or even the denomination ( Fischer and Hout 2006 ; Wuthnow 1988 ) .
+Similarly , friendship ties are less constraining ( Blieszner and Roberto 2004 ) , particularly those that are “ just ” friendships and are not tangled in other role relationships ( Fischer 1982b ) .
+Friendship ties may therefore be more easily disbanded if they are distressful or burdensome .
+Neverthe- less , even though they are more voluntary in nature than kinship ties , friendships may also be subject to normative constraints .
+What will people say if a person drops his friend when she needs him ?
+Here , too , normative pres- sures may be heightened if the friendship is Offer and Fischer 117 part of a larger web of relationships ( Feld and Carter 1998 ) , as people care for their self- image and reputation and seek approval from others in their surroundings ( Blau 1986 ; Podolny 1993 ) .
+In summary , the structural model predicts that for normative , institutional , material , and other reasons , people may feel pressure to retain difficult ties .
+We thus predict that the probability of being perceived as difficult will be greater for alters in contexts that most con- strain an individual ’ s ability to dissolve the tie : Hypothesis 1 : Ties to kin are more likely to be perceived as difficult than ties to non-kin .
+Hypothesis 2 : Ties to non-kin in more con- straining contexts are more likely to be per- ceived as difficult than ties to non-kin in less constraining contexts .
+Interaction-Based Constraints A second type of constraint arises from social exchanges between the individual and the alter , with some exchanges being more constraining than others .
+Based on the agentic model , indi- viduals consider the utility derived from inter- actions with the alter—in our data , various forms of social support—and what would be lost by terminating the tie .
+Moreover , the receipt of support engenders a sense of obliga- tion , commitment , and indebtedness to the alter , which pressures her to reciprocate and sustain the tie ( Blau 1986 ; Mauss [ 1923 ] 1990 ; Simmel [ 1950 ] 1978 ) .
+These pressures can constitute a source of constraint that further bounds the receiving individual to giving alters and restricts her ability to disengage from the difficult ones .
+In Emerson ’ s ( 1962 ) terms , obtaining support from an alter creates power- dependence relations that do not allow indi- viduals to “ overcome resistance ” by simply severing ties to alters perceived to be difficult .
+Dependence on a tie for unequal exchanges may thus generate tension , rivalry , and conflict and lead to what Blau ( 1986 ) calls a process of “ differentiation , ” in which failure to reciprocate establishes a status hierarchy and claims of superiority ( see also Mauss [ 1923 ] 1990 ) .
+We expect these interaction-based con- straints to be stronger if the utility of the good or service rendered is high , such as in emer- gency situations .
+By contrast , the constraint will be of lower magnitude in cases that involve a lower sense of obligation , such as engaging in leisure activities .
+This leads to the following prediction : Hypothesis 3 : Ties to alters who provide criti- cal types of support are more likely to be perceived as difficult than ties to alters who provide less critical types of support .
+Nevertheless , the constraining effect associated with the sense of commitment and obligation that the receipt of support creates may be attenuated if an individual also provides support to the alter .
+Research shows that for normative and practical rea- sons , people strive to maintain reciprocal relationships with others by returning favors and avoiding social debts ( Blau 1986 ; Gouldner 1960 ; Plickert , Côté , and Wellman 2007 ; Roberto and Scott 1986 ; van Tilburg 1992 ) , and failing to do so can lead to feel- ings of distress and guilt ( Menjívar 2000 ; Nelson 2005 ; Offer 2012 ) and tie dissolu- tion ( Blau 1986 ; Ikkink and van Tilburg 1999 ) .4 That is , when a person reciprocates an alter ’ s support , or provides more than the alter does , she is less dependent on the alter and may more easily disengage if that alter is viewed as difficult .
+Hence , we hypothe- size the following : Hypothesis 4 : Non-reciprocal exchange ties providing unilateral benefits to ego are more likely to be perceived as difficult than recip- rocal exchange ties .
+DATA AND meASureS UCNets Data We use the University of California Social Networks Study ( UCNets ) , a longitudinal egocentric network survey on personal rela- tionships , life events , and well-being,5 to examine who is considered difficult and why they are part of personal networks .
+UCNets 118 American Sociological Review 83 ( 1 ) participants were drawn from two distinct age groups in the greater six-county San Fran- cisco Bay Area : 50- to 70-year-olds and 21- to 30-year-olds .
+The study focused on these two age groups to maximize the number of key transitions and life events respondents would likely experience between survey waves .
+Using address-based sampling , people in the eligible age range were solicited to participate ( for pay ) in the three-wave survey of personal networks .
+This procedure sufficed with the older cohort , but it fell short with the 21- to 30-year-olds .
+To increase their number , we added about 300 complete surveys of respon- dents in that age group largely by recruiting through Facebook .
+As part of a mode experi- ment , respondents were randomly assigned to either an in-person or a web version of the survey at a 3:1 ratio .
+All Facebook-recruited respondents did the survey online .
+The two instruments were substantively identical and we control for mode effects in all analyses .
+The data we use in this study are based on the first wave of UCNets , which includes 666 respondents age 50 to 70 who completed the survey and named 6,689 alters , and 480 respondents age 21 to 30 who completed the survey and named 5,064 alters6 ( see Appendix Table A1 for a full description of respondents ’ demographic and socioeconomic characteris- tics ) .
+All analyses use weights that adjust for combinations of gender , age , race , Hispanic ethnicity , marital status , and education to match the corresponding age-specific popula- tion of the region.7 Methods : The Extended Egocentric Survey UCNets used an extended egocentric name- eliciting method to draw a detailed map of respondents ’ personal networks and collect information about their social connections .
+The first stage in this procedure , name-eliciting , asked respondents to name the people to whom they were connected .
+A major advan- tage of the present study is that unlike most other egocentric network studies , which are mainly based on the General Social Survey “ discuss important matters ” question ( e.g. , Brashears 2014 ; Marsden 1987 ; Small 2013 ) , the UCNets survey generated names using seven distinct name-eliciting questions .
+Research shows this extended procedure yields greater reliability than do methods that use a single or restricted number of name-eliciting questions ( Killworth , Shelley , and Robinson 1990 ; Marin 2004 ; Marin and Hampton 2007 ; McCallister and Fischer 1978 ) .
+The first six name-eliciting questions asked respondents to name the people with whom they engaged in various spheres of social activity ( see details below ) .
+The last name- eliciting question asked respondents to name the people whom they “ sometimes find demanding or difficult. ” This question , which has rarely been used in previous egocentric network research , is the major focus of our study : it allowed us to examine the prevalence and role of difficult ties in personal networks .
+The second stage in the procedure applied several name-interpreting questions to obtain descriptions of the named alters and of the ties respondents had with them , including role relationship categories , felt closeness , geo- graphic proximity , and homophily in gender , age , religion , and race and ethnicity .
+In addi- tion , the UCNets survey collected detailed information about participants ’ demographic , socioeconomic , and health characteristics .
+Variables Difficult ties .
+Based on respondents ’ responses to the “ difficult ” name-eliciting question and to the six name-eliciting ques- tions tapping engagement in various social activities , we created two distinct measures of difficult ties that serve as our dependent vari- ables .
+( 1 ) Difficult-only ties : names respond- ents mentioned only in response to the difficult name-eliciting question and which did not appear on any of the other six name-eliciting questions tapping social exchanges .
+( 2 ) Diffi- cult engaged-in-exchange ties : names respond- ents mentioned in response to both the difficult question and at least one of the other six social exchange name-eliciting questions .
+Offer and Fischer 119 Role-based constraints .
+We use role- relationship categories as proxies for role- based constraints .
+Using prefixed categories , respondents were asked to specify how they were connected to each alter whom they named .
+We distinguish between kin and non- kin .
+The kin category includes wife , husband , female romantic partner , male romantic part- ner , mother , father , adult daughter , adult son , sister , and brother ( other relative is the refer- ence category ) .
+The non-kin variables include a series of dummies referring to different role relationships specifying whether the alter is a housemate , neighbor , workmate , schoolmate , churchmate , friend , or acquaintance .
+Note that the non-kin variables are not mutually exclusive .
+A person could , for example , be mentioned as both a workmate and a friend or as a brother , housemate , and friend .
+Interaction-based constraints .
+The first six name-generating questions compiled a list of the people with whom respondents engaged in different types of social exchanges .
+We use these six types of exchanges as prox- ies for interaction-based constraints : ( 1 ) socializing—the people with whom respond- ents usually get together and do social activi- ties such as visiting for meals , going to cultural events , or just hanging out ; ( 2 ) con- fiding in—the people in whom respondents confide about relationships , important things in life , or difficult experiences ; ( 3 ) advice— the people respondents turn to when seeking advice for making important decisions ; ( 4 ) practical help—the people who , in the previ- ous few months , had given respondents prac- tical help such as doing repairs , looking after a child , or providing a ride ; ( 5 ) emergency help—the people whom respondents would ask if they were seriously injured or sick and needed help for a couple of weeks with things such as preparing meals and getting around ; and ( 6 ) providing support—the people whom respondents help out in different ways .
+Respondents could mention up to nine names in answering the socializing question and up to six names for all other questions .
+Table 1 shows the distribution of all alters named in a network by role relationship and type of social exchange .
+Overall , respondents ’ networks were quite varied .
+Most notably , the majority of alters ( close to 60 percent ) were labeled as friends .
+More than half of alters men- tioned in a network were people with whom respondents socialized .
+This may be due , how- ever , to allowing respondents to name up to nine names in this item , compared to only six names in the other name-eliciting items .
+About a third of alters were named as confidants , advisors , and sources of emergency help for respondents .
+Forty percent of alters were named as people to whom respondents provided support .
+Finally , we see expected age differences , for example , in the presence of spouses , parents , housemates , and schoolmates .
+Controls .
+At the tie level , we include con- trols for alters ’ sociodemographic characteris- tics , most of which are measured in terms of homophily with the respondent .
+These include gender ( for non-kin alters ) , age , religion , race and ethnicity , and political orientation .
+Other controls refer to relationship characteristics between the respondent and the alter , such as whether the respondent had met the alter in the previous year , feels emotionally close to alter , lives with alter in the same household , lives within five minutes from alter , or lives more than one hour away from alter .
+Descrip- tive statistics for all tie-level controls are pre- sented in Appendix Table A2 .
+Finally , we control at the individual-level for respondents ’ sociodemographic background and health .
+PlAN OF ANAlySIS The major objective of this study is to reveal which ties are perceived as difficult and why they are part of the network .
+To examine these questions , we use two distinct dependent vari- ables : ( 1 ) difficult-only ties and ( 2 ) difficult engaged-in-exchange ties .
+We begin with basic descriptive statistics by calculating the prevalence of the two types of difficult ties and examining their distribution by role rela- tionship and types of exchange .
+In the next stage , we estimate a series of multilevel models to test the study hypothe- ses , positing that difficult ties are maintained 120 American Sociological Review 83 ( 1 ) in networks because of role- and interaction- based constraints ( we use HLM 7.01 [ Rauden- bush , Bryk , and Congdon 2013 ] ) .
+The advantage of multilevel modeling is that , rather than using aggregated measures at the individual level or simply examining all ties together as if they were independent of each other , this method accounts for the nested structure of the data ( i.e. , alters or ties nested within individual networks ) and the non- independence of observations within individ- uals , which allows us to simultaneously esti- mate variables at different levels ( Raudenbush and Bryk 2002 ; van Duijn , van Busschbach , and Snijder 1999 ; Wellman and Frank 2001 ) .8 Because our outcome is a binary variable ( i.e. , whether the alter is named as difficult or not ) , we use the binomial sampling distribu- tion with the logit link function .
+We estimate separate sets of models to predict the log-odds of the two outcomes using the role-relationship variables as prox- ies for role-based constraints , and the types of exchange variables as proxies for interaction- based constraints .
+All models control for sociodemographic characteristics of both the tie and the respondent.9 The first set of mod- els predicts the log-odds that an alter would Table 1 .
+Percentages of Alters in the Network , by Cohort ( Weighted ) 21- to 30-Year-Olds ( n = 5,022 alters ) 50- to 70-Year-Olds ( n = 6,613 alters ) Role Relationship Kin Wife 1.2 3.1*** Husband 1.3 3.1*** Female romantic partner 1.7 .8*** Male romantic partner 3.1 .6*** Mother 8.0 2.7*** Father 5.2 1.5*** Daughter 5.2 Son 4.5 Sister 5.1 5.4 Brother 3.7 3.0* Other female relative 4.6 7.2*** Other male relative 3.7 4.9** Non-kin Housemate 8.7 3.3*** Neighbor 3.1 7.3*** Workmate 9.0 8.9 Schoolmate 12.0 1.7*** Churchmate 4.9 5.7 Friend 58.9 53.9*** Acquaintance 4.1 3.5 Type of Social Exchange Socialize 55.8 56.3 Confide 30.5 29.4 Advice 30.0 25.3*** Practical help 22.8 16.5*** Emergency help 31.5 29.3** Provide support to alter 42.0 38.8*** *p < .05 ; **p < .01 ; ***p < .001 ( two-tailed tests ) for differences between cohorts .
+Offer and Fischer 121 be named as a difficult-only tie as opposed to all other ties ( i.e. , ties that are either not dif- ficult or difficult but otherwise engaged in the network ) .
+The latter set of models excludes the difficult-only ties and estimates the log- odds that an alter would be named as a diffi- cult engaged-in-exchange tie as opposed to a tie that is not difficult .
+We estimate these two outcomes separately not only for practical reasons ( i.e. , the second set of models includes additional variables , measures of social exchanges ) , but also because we believe they are conceptually distinct .
+The difficult-only ties are more similar to what the literature calls “ negative ” ties , that is , ties characterized by antagonism and dislike that typically lead to disconnected networks ( Everett and Bor- gatti 2014 ) , whereas difficult engaged-in- exchange ties are more ambivalent in nature and constitute a source of both positive affect and hardship ( Connidis and McMullin 2002 ) .
+The PrevAleNCe AND DISTrIBuTION OF DIFFICulT TIeS How many difficult ties do respondents have in their networks ?
+The upper panel in Table 2 shows the overall proportion of difficult ties and then distinguishes between difficult-only and difficult engaged-in-exchange ties .
+These estimates are calculated at the aggregated individual-level out of the total number of ties in a respondent ’ s network .
+The vast majority of participants , about three-quarters in the young cohort and two-thirds in the older cohort , nominated at least one person in their network as difficult or demanding .
+The pro- portion of difficult ties in each network , how- ever , is relatively small .
+About 16 percent of ties in young respondents ’ networks , and 13 percent in older respondents ’ networks , were labeled as difficult .
+Additionally , relatively few alters appeared only in answer to the “ dif- ficult ” name-eliciting question—only 5 per- cent for both cohorts .
+Nearly 70 percent of respondents did not report any such tie .
+Hence , most alters named as difficult were reported as engaged in the network in some other way .
+Overall , these alters account for 12 and 8 percent of all ties among the younger and older cohorts , respectively .
+The middle panel in Table 2 shows , at the tie-level , the proportion of alters who were named difficult by role relationship .
+The first column in each cohort refers to difficult-only ties .
+Within the family , among 21- to 30-year- olds , brothers were the most likely to be labeled solely as difficult ( 13 percent ) .
+Among 50- to 70-year-olds , mothers and sisters were most likely to be labeled solely as difficult ( 13 and 10 percent , respectively ) .
+Interest- ingly , no spouses or romantic partners were mentioned in the network solely in response to the difficult name-eliciting question .
+This may be due to selection bias—intimate rela- tionships that become highly strained are often terminated .
+Unlike other close kin rela- tions , most notably parents and adult chil- dren , ties to spouses and intimate partners are more voluntary in nature and , despite the stress involved , may be easier to dissolve .
+Another possible explanation is that in a cul- ture emphasizing marital satisfaction , people may be less inclined to report that their rela- tionship with their intimate partner is stressful and burdensome ( Hackstaff 1999 ) .
+Among non-kin , workmates and acquaintances were the most likely to be named as difficult .
+The second column in each cohort refers to the difficult engaged-in-exchange ties .
+By and large , the percentage of difficult ties among alters who engaged in social exchanges was much higher for kin , and especially close female kin , than for non-kin .
+This finding points to the complex and perhaps ambivalent role these alters play in personal networks .
+The percentage of difficult engaged-in- exchange ties was particularly high among wives ( 27 percent ) , mothers ( 24 percent ) , and sisters ( 30 percent ) for respondents in the young cohort , and among parents ( 29 and 24 percent for mothers and fathers , respectively ) and female romantic partners ( 28 percent ) for respondents in the older cohort .
+Finally , the lower panel in Table 2 indi- cates how the difficult engaged-in-exchange 122 American Sociological Review 83 ( 1 ) ties are involved in the networks .
+We calcu- lated these numbers at the name-level , and they refer to the proportion of all alters men- tioned in answer to each social exchange question who were also named as difficult .
+Overall , we find similar patterns for the two age groups .
+About 10 percent of alters whom respondents named as socializing partners , Table 2 .
+Mean Proportion of Difficult Ties in the Network , by Cohort ( Weighted ) 21- to 30-Year-Olds ( n = 480 respondents ) 50- to 70-Year-Olds ( n = 666 respondents ) Mean Proportion % Reporting No Difficult Alters Mean Proportion % Reporting No Difficult Alters Difficult Tiesa .162 ( .149 ) 25.3 .131*** ( .129 ) 33.0 Difficult-only ties .046 ( .077 ) 69.1 .052 ( .092 ) 67.1 Difficult engaged-in- exchange ties .117 ( .141 ) 42.0 .079*** ( .112 ) 54.3 Difficult Ties by Role Relationshipb % Difficult- Only % Difficult Engaged-in- Exchange % Difficult- Only % Difficult Engaged-in- Exchange Kin Wife .0 27.0 .0 13.0* Husband .0 20.0 .0 15.0 Female romantic partner .0 14.0 .0 28.0 Male romantic partner .0 19.0 .0 14.0 Mother 4.5 24.0 12.7** 29.0* Father 5.6 13.0 2.1 24.0 Daughter .0 .0 6.0 16.0 Son .0 .0 5.2 19.0 Sister 5.6 30.0 10.2* 8.0*** Brother 13.1 13.0 5.7* 5.0* Other female relative 11.0 6.0 6.5 8.0 Other male relative 5.1 7.0 5.8 5.0 Non-kin Housemate 3.3 18.0 .7* 24.0 Neighbor .7 5.0 2.7 3.0 Workmate 11.6 6.0 11.7 5.0 Schoolmate 2.5 9.0 3.6 4.0* Churchmate 3.5 5.0 2.9 5.0 Friend 2.3 7.0 1.9 6.0 Acquaintance 11.7 9.0 15.5 6.0 Difficult Ties by Type of Exchangeb Socialize 9.5 8.0** Confide 11.8 9.0** Advice 14.8 8.0*** Practical help 9.9 7.0* Emergency help 15.2 11.2*** Provide support to alter 17.1 14.9** aAggregated person-level measures .
+bName-level measures .
+*p < .05 ; **p < .01 ; ***p < .001 ( two-tailed tests ) for differences between cohorts .
+Offer and Fischer 123 confidants , and providers of practical help were subsequently named as difficult .
+Alters who provided emergency support were slightly more likely than those who did not provide such assistance to be viewed as dif- ficult ( 15 and 11 percent of alters in the younger and older cohorts , respectively ) .
+This finding may reflect the type of alters who typically provide help in emergency situa- tions ( i.e. , close kin ) .
+The percentage of alters considered difficult among those who pro- vided advice was also relatively high ( nearly 15 percent ) , but only in the younger cohort .
+Ties in which respondents provided support to an alter were the most likely to be consid- ered difficult : nearly 17 percent of alters to whom respondents provided support in the younger cohort , and 15 percent in the older cohort , were considered difficult .
+WhO Are The DIFFICulT TIeS AND Why DO They APPeAr IN NeTWOrKS ?
+Testing for Role-Based Constraints Our first two hypotheses predict that difficult ties are more likely to be present in contexts where individuals have limited ability to exer- cise choice in selecting their associates or they are pressured to socially engage with them .
+Table 3 presents the models testing these hypotheses and shows , for each cohort , results of the two sets of multilevel regressions .
+The first two columns show the models predicting the log-odds that a tie would be named as difficult-only ( Analyses 1 and 2 for the young and old cohorts , respectively ) ; the last two columns show the analyses predicting the log- odds that a tie would be named as difficult engaged-in-exchange ( Analyses 3 and 4 for the young and old cohorts , respectively ) .
+Hypothesis 1 postulates that within a fam- ily , close kin are more likely to be perceived as difficult than are more distant relatives .
+Overall , our results support this prediction .
+Analysis 2 shows that among 50- to 70-year- olds , the log-odds of close relatives , and especially of female relatives , being named only in response to the “ difficult ” name-eliciting question were significantly higher than for more distant relatives .
+Moth- ers , adult daughters , and sisters were over twice as likely as more distant relatives to be named as difficult-only ties .
+To better illus- trate this effect , for each kin category we calculated the predicted probability of being named a difficult-only tie while holding all other alter- and individual-level variables constant at their mean levels .
+Figure 1 pre- sents these probabilities and shows that mother , daughters , and sisters have an approx- imately 10 percent probability of being per- ceived as a difficult-only tie .
+We found no such effect for respondents in the young cohort ( see Analysis 1 ) .
+This important age- group difference may reflect the higher demands imposed by elderly relatives on advanced middle-aged respondents , and these respondents ’ lower ability to respond to them .
+The older cohort may thus view relatives as exclusively difficult and burdensome .
+Or per- haps among young respondents , close kin are more often a source of support .
+The results in Table 3 further indicate that close relatives were substantially more likely to be named as both difficult and otherwise engaged in social exchange than were more distant relatives .
+In the young cohort , wives , male romantic partners , mothers , brothers , and sisters had higher log-odds of being named as difficult engaged-in-exchange alters than did other relatives ( Analysis 3 ) .
+In the older cohort , female romantic partners , mothers , fathers , daughters , sons , and sisters had higher log-odds of being named as difficult engaged-in- exchange alters ( Analysis 4 ) .
+To ease interpre- tation , for each kin category we calculated the predicted probability of the alter being named as a difficult engaged-in-exchange tie .
+Figure 2 presents the results .
+The probability of being named a difficult engaged-in-exchange tie was highest in the young cohort for sisters ( 14 per- cent ) and wives ( 12 percent ) , and in the older cohort for aging parents ( approximately 12 percent for both mothers and fathers ) .
+Taken together , and consistent with Hypothesis 1 , these findings suggest that rela- tionships to close kin , perhaps due to the familial obligations these relationships entail 124 American Sociological Review 83 ( 1 ) Table 3 .
+Multilevel Results Predicting the Log-Odds an Alter Would Be Named a Difficult Tie : Coefficients ( Odds Ratios in Parentheses ) , by Cohort ( Weighted ) Difficult-Only Tie Difficult Engaged-in-Exchange Tie 21- to 30-Year- Olds 50- to 70-Year- Olds 21- to 30-Year- Olds 50- to 70-Year- Olds Analysis 1 Analysis 2 Analysis 3 Analysis 4 Intercept −2.265** ( .104 ) −2.599*** ( .074 ) −4.214*** ( .015 ) −3.728*** ( .024 ) Alter-level variables Role Relationship Kin Wife 1.937** ( 6.935 ) .658 ( 1.932 ) Husband 1.273 ( 3.573 ) .498 ( 1.645 ) Female romantic partner 1.036 ( 2.819 ) 1.736** ( 5.676 ) Male romantic partner .856* ( 2.353 ) .964 ( 2.623 ) Mother −.703 ( .495 ) .963* ( 2.620 ) 1.541*** ( 4.669 ) 1.848*** ( 6.350 ) Father −.724 ( .482 ) −.190 ( .304 ) .827 ( 2.287 ) 1.716*** ( 5.563 ) Daughter .914* ( 2.493 ) 1.036*** ( 2.819 ) Son .404 ( 1.497 ) 1.231*** ( 3.424 ) Sister −.120 ( .887 ) .820* ( 2.271 ) 2.025*** ( 7.576 ) .691*** ( 1.995 ) Brother .899 ( 2.458 ) .083 ( 1.087 ) .875* ( 2.400 ) .062 ( 1.064 ) [ reference : other relative ] Non-kin Housemate −.587 ( .556 ) −1.488 ( .226 ) .278 ( 1.321 ) .547 ( 1.727 ) Neighbor −2.265** ( .104 ) −.398 ( .672 ) −.210 ( .811 ) −.701 ( .496 ) Workmate .844** ( 2.327 ) .620* ( 1.858 ) −.251 ( .778 ) −.149 ( .862 ) Schoolmate −.403 ( .668 ) −.412 ( .662 ) .170 ( 1.185 ) −.214 ( .807 ) Churchmate −.355 ( .701 ) −.359 ( .698 ) −.182 ( .834 ) −.030 ( .971 ) Friend −1.392*** ( .249 ) −1.756*** ( .173 ) −.244 ( .784 ) −.090 ( .914 ) Acquaintance .453 ( 1.574 ) .316 ( 1.372 ) .515 ( 1.673 ) .317 ( 1.373 ) Type of Social Exchange Socialize .041 ( 1.042 ) −.109 ( .897 ) ( continued ) Offer and Fischer 125 Difficult-Only Tie Difficult Engaged-in-Exchange Tie 21- to 30-Year- Olds 50- to 70-Year- Olds 21- to 30-Year- Olds 50- to 70-Year- Olds Analysis 1 Analysis 2 Analysis 3 Analysis 4 Confide −.403 ( .668 ) .038 ( 1.039 ) Advice .324 ( 1.383 ) −.625*** ( .535 ) Practical help −.001 ( .993 ) −.131 ( .877 ) Emergency help .057 ( 1.058 ) .198 ( 1.219 ) Provide support to alter 1.476*** ( 4.376 ) 1.421*** ( 4.143 ) Alter Descriptors Female ( for non-kin ) .290 ( 1.337 ) .333 ( 1.395 ) .519 ( 1.681 ) −.164 ( .849 ) Same age −.685 ( .509 ) .238 ( 1.268 ) .563 ( 1.756 ) .479** ( 1.615 ) Older −.246 ( .782 ) .471 ( 1.602 ) .896 ( 2.449 ) .387 ( 1.472 ) Met in last year −.173 ( .841 ) −.043 ( .958 ) −.421 ( .656 ) −.628 ( .534 ) Emotionally close −2.242*** ( .106 ) −1.576*** ( .207 ) −.531* ( .588 ) −.434** ( .648 ) Share household .768 ( 2.156 ) −.115 ( .891 ) .276 ( 1.318 ) .732** ( 2.080 ) Live within five min .
+−.100 ( .904 ) −.738** ( .478 ) −.068 ( .934 ) −.125 ( .822 ) Live over one hour away .636* ( 1.889 ) .417* ( 1.516 ) −.129 ( .879 ) −.309 ( .734 ) Same religion .048 ( 1.049 ) −.311 ( .733 ) .110 ( 1.117 ) .213 ( 1.238 ) Same race −.091 ( .913 ) .158 ( 1.171 ) −.168 ( .846 ) −.815 ( .831 ) Different political opinion .910*** ( 2.485 ) .521** ( 1.683 ) .602*** ( 1.826 ) .262 ( 1.299 ) respondent-level variables Male −.206 ( .813 ) −.168 ( .845 ) −.377 ( .686 ) −.283 ( .754 ) Age 50 to 60 .061 ( 1.063 ) −.205 ( .815 ) Asian .279 ( 1.322 ) −.660* ( .517 ) −.244 ( .783 ) −.282 ( .754 ) Latino .248 ( 1.281 ) .374 ( 1.453 ) −.168 ( .845 ) .031 ( 1.031 ) Black and other .549 ( 1.731 ) .701* ( 2.016 ) −.201 ( .818 ) −.307 ( .736 ) Married .329 ( 1.390 ) .066 ( 1.068 ) −.696* ( .499 ) .018 ( 1.018 ) Table 3 .
+( continued ) ( continued ) 126 American Sociological Review 83 ( 1 ) Difficult-Only Tie Difficult Engaged-in-Exchange Tie 21- to 30-Year- Olds 50- to 70-Year- Olds 21- to 30-Year- Olds 50- to 70-Year- Olds Analysis 1 Analysis 2 Analysis 3 Analysis 4 Partnered .054 ( 1.056 ) .258 ( 1.294 ) −.278 ( .758 ) −.242 ( .785 ) Foreign-born .473 ( 1.604 ) .550* ( 1.775 ) −.007 ( .993 ) .272 ( 1.312 ) New town −.191 ( .826 ) .086 ( 1.09 ) −.050 ( .952 ) −.392 ( .676 ) Educ .
+less than BA −.300 ( .741 ) −.429* ( .651 ) .437 ( 1.547 ) .498** ( 1.646 ) Educ .
+BA −.115 ( .891 ) .055 ( 1.057 ) .251 ( 1.285 ) .034 ( 1.034 ) Income low .466 ( 1.594 ) .315 ( 1.370 ) .118 ( 1.125 ) .258 ( 1.295 ) Income med .
+−.096 ( .908 ) .161 ( 1.175 ) .428 ( 1.535 ) .117 ( 1.124 ) Health good .215 ( 1.239 ) −.004 ( .996 ) .062 ( 1.064 ) .482** ( 1.619 ) Health fair/bad 1.129 ( .138 ) .372 ( 1.451 ) −.109 ( .897 ) .160 ( 1.173 ) No health problem −.267 ( .766 ) −.067 ( .936 ) −.147 ( .863 ) −.126 ( .882 ) Network size .075** ( 1.078 ) .036 ( 1.037 ) −.065** ( .937 ) .007 ( 1.007 ) Prop .
+of kin in network .098 ( 1.103 ) −.722 ( .486 ) −.207 ( .813 ) .038 ( 1.039 ) Web .547 ( 1.728 ) .154 ( 1.166 ) .453 ( 1.573 ) .152 ( 1.164 ) Facebook −.366 ( .693 ) −.120 ( .896 ) Personal reference −.284 ( .752 ) .156 ( 1.168 ) N alters 5,022 6,602 4,772 6,238 N respondents 480 666 480 666 Variance component Between-person variance .515 .363 .208 .517 Chi-square ( intercept ) 596.63*** 745.524** 560.077*** 745.344** *p < .05 ; **p < .01 ; ***p < .001 ( two-tailed tests ) .
+Table 3 .
+( continued ) and their level of intensity and embedded- ness , are more likely to be viewed as difficult or ambivalent ( i.e. , involve both supportive and burdensome experiences ) .
+The results also highlight the particular role of female kin as a source of difficulty in networks .
+Hypothesis 2 makes a similar prediction with respect to ties outside the family : ties in more constraining and less voluntary contexts are more likely to be named difficult .
+The results in Table 3 provide some support for our prediction .
+As expected , in both the Offer and Fischer 127 younger and older cohorts , workmates had higher , and friends lower , log-odds of being labeled as difficult-only ties ( Analyses 1 and 2 , respectively ) .
+Figure 3 presents the pre- dicted probabilities we calculated for each non-kin role relationship category .
+Among 21- to 30-year-olds ( panel A ) , workmates had a 15 percent probability of being named as difficult-only ties , whereas the probability for non-workmates was reduced by more than half .
+We find a similar trend , but of smaller magnitude , among the 50- to 70-year-olds Figure 1 .
+Predicted Probabilities of Kin Being Named as Difficult-Only Ties ( 50- to 70-Year- Olds ) Note : All alter- and individual-level variables are held constant at their mean levels .
+*p < .05 ( two-tailed test ) for difference from “ other relative. ” Figure 2 .
+Predicted Probabilities of Kin Being Named as Difficult Engaged-in-Exchange Ties , by Cohort Note : All alter- and individual-level variables are held constant at their mean levels .
+In younger cohort : effects for mother and sister significant at p < .001 ; wives significant at p < .01 ; male romantic partner and brother significant at p < .05 ( compared to other relative ) .
+In older cohort : effects for mother , father , daughter , son , and sister significant at p < .001 ; female romantic partner significant at p < .01 ( compared to other relative ) .
+128 American Sociological Review 83 ( 1 ) ( panel B ) .
+By contrast , the probability of friends being named as difficult-only ties was as low as 4 percent in the younger cohort and 2 percent in the older cohort .
+The probability of alters who were not considered friends being named difficult-only was substantially higher ( 16 and over 10 percent in the younger and older cohorts , respectively ) .
+Contrary to our expectation , neighbors were rather less likely to be named as difficult-only ties ( and only in the young cohort , see Analysis 1 ) .
+Furthermore , we found no effect for any of the other non-kin role relationships .
+Testing for Interaction-Based Constraints Hypothesis 3 tests the interaction-based con- straints .
+It posits that alters providing more critical forms of support are more likely to be Figure 3 .
+Predicted Probabilities of Non-Kin Being Named as Difficult-Only Ties Note : All alter- and individual-level variables are held constant at their mean levels .
+*p < .05 ; **p < .01 ; ***p < .001 ( two-tailed test ) .
+Offer and Fischer 129 named difficult than are alters who provide less critical forms of support .
+Overall , how- ever , the results do not support this expecta- tion .
+As Analyses 3 and 4 in Table 3 indicate , none of the types of support received from alters was significantly associated with the log- odds of an alter being labeled difficult , except for giving advice to the respondent in the older cohort ( Analysis 4 ) .
+By contrast , alters who were recipients of respondents ’ help were important sources of difficulty in networks .
+Alters whom respondents helped had substan- tially higher log-odds of being named difficult ties compared to alters whom respondents did not name as recipients of their help .
+Figure 4 displays the calculated probabilities for these effects : they suggest that much of the burden in networks is driven by helping others .
+Figure 4 .
+Predicted Probabilities of Alter Being Named a Difficult Engaged-in-Exchange Tie by Type of Social Exchange Note : All alter- and individual-level variables are held constant at their mean levels .
+***p < .001 ( two-tailed test ) .
+130 American Sociological Review 83 ( 1 ) In additional analyses , we examined which other types of social exchange are associated with alters being perceived as difficult by excluding alters to whom respondents pro- vided support .
+Because of the overall low percentages of difficult ties in these catego- ries , we estimated a logistic regression model at the alter-level rather than a multilevel model .
+Figure 5 presents the results and shows the predicted probabilities that an alter would be named difficult by type of social exchange ( for full results see the online supplement ) .
+In line with Hypothesis 3 , the results indicate that in the older cohort ( panel A ) , providing emergency help is significantly associated with being labeled as difficult .
+This finding Figure 5 .
+Predicted Probabilities of Alter Being Named a Difficult Engaged-in-Exchange Tie by Type of Social Exchange for Restricted Sample ( Excluding Alters Who Provided Support to the Respondent ) Note : All alter- and individual-level variables are held constant at their mean levels .
+**p < .01 ; ***p < .001 ( two-tailed test ) .
+Offer and Fischer 131 suggests that individuals may keep critical helpers in their network even if they are diffi- cult because of the support they may receive from them in times of need .
+In the younger cohort ( panel B ) , confiding is associated with lower , and advice with higher , log-odds that an alter will be named difficult .
+According to Hypothesis 4 , reciprocated relationships ( i.e. , those in which the respond- ent both receives support from and provides support to the alter ) should be less likely to be considered difficult than non-reciprocated relationships ( i.e. , those in which the respond- ent only receives support from the alter ) .
+Although none of the types of support received from alters were statistically signifi- cant , we were able to test this hypothesis about reciprocation because we found that providing support to an alter is associated with an increased likelihood of the alter being named a difficult tie .
+Thus , in the next stage , we examined whether the effect of providing support to an alter was counterbalanced by help received from the alter .
+We tested this by adding to the model interaction terms between the variable providing support to the alter and the five exchange variables tapping support received from the alter ( see Table 4 ) .
+By and large , the results do not support Hypothesis 4 .
+For the younger cohort , receiving support from an alter did not matter much—none of the interaction terms were statistically signifi- cant .
+In the older cohort , only the interaction effect with receiving advice from an alter was significant .
+Alters to whom respondents pro- vided support who also gave advice had lower log-odds of being labeled difficult than did alters who did not give advice but received support from respondents .
+None of the other interaction effects were significant .
+Considering the strong effect of providing support to alters , in a post-hoc analysis we examined whether this effect varies by who the alter is .
+That is , we examined whether providing support to certain kinds of alters was considered especially burdensome and difficult .
+We tested this possibility by adding interaction terms between providing support to alter and role relationship .
+The results , pre- sented in Table 5 , reveal several interesting findings .
+Among the younger cohort , provid- ing support to wives and sisters , compared to others , was associated with higher log-odds of that woman being seen as difficult .
+Provid- ing support to acquaintances was also associ- ated with higher log-odds that the alter would be viewed as difficult , perhaps due to the low social expectations involved in relationships with acquaintances .
+In the older cohort , we found significant effects for parents and sons .
+To better illustrate these effects , we calculated their predicted probabilities ( see Figure 6 ) .
+Table 4 .
+Multilevel Results Predicting the Log-Odds an Alter Would Be Named a Difficult Engaged-in-Exchange Tie with Interactions between Providing Support to Alter and Support Received from Alter : Coefficients ( Odds Ratios in Parentheses ) , by Cohort ( Weighted ) 21- to 30-Year-Olds 50- to 70-Year-Olds Providing support to alter 1.426*** ( 4.164 ) 1.732*** ( 5.652 ) x socialize .242 ( 1.273 ) .033 ( 1.034 ) x confide −.140 ( .869 ) −.051 ( .950 ) x advice −.171 ( .843 ) −.869*** ( .420 ) x practical help −.001 ( .999 ) −.035 ( .966 ) x emergency help −.008 ( .992 ) −.075 ( .928 ) Note : Controlling for alter descriptors and social exchange variables at the name-level and for sociodemographic variables , network size , and proportion of kin in network at the person-level .
+*p < .05 ; **p < .01 ; ***p < .001 ( two-tailed tests ) .
+132 American Sociological Review 83 ( 1 ) Among the 50- to 70-year-olds , both mothers and fathers to whom respondents provided support had a 25 percent probability of being viewed as difficult , compared to only 8 per- cent for other relatives whom respondents helped .
+The predicted probability for female romantic partners was also 25 percent , but the effect was not statistically significant .
+We found similar probabilities for providing sup- port to wives and sisters in the younger cohort .
+We thus conclude that the perception of difficulty associated with providing sup- port varies by who the person is who receives that support .
+Table 5 .
+Multilevel Results Predicting the Log-Odds an Alter Would Be Named a Difficult Engaged-in-Exchange Tie with Interactions between Providing Support to Alter and Role Relationship : Coefficients ( Odds Ratios in Parentheses ) , by Cohort ( Weighted ) 21- to 30-Year-Olds 50- to 70-Year-Olds Providing support to alter 1.120*** ( 3.034 ) 1.414*** ( 4.111 ) Kin x wife 1.836*** ( 6.274 ) −.437 ( .646 ) x husband .727 ( 2.069 ) −.438 ( .645 ) x female romantic partner .483 ( 2.198 ) 1.283 ( 3.607 ) x male romantic partner .788 ( 1.621 ) −.713 ( .490 ) x mother .688 ( 1.989 ) 1.243** ( 3.465 ) x father −.444 ( .641 ) 1.313* ( 3.717 ) x daughter .535 ( 1.708 ) x son .788** ( 2.199 ) x sister 1.708*** ( 5.520 ) −.089 ( .915 ) x brother .378 ( 1.460 ) −.539 ( .583 ) Non-kin x housemate −.399 ( .712 ) .274 ( 1.315 ) x neighbor −.055 ( .946 ) −.408 ( .665 ) x workmate −.072 ( .931 ) .009 ( 1.009 ) x schoolmate .364 ( 1.439 ) −1.048 ( .351 ) x churchmate −.856 ( .425 ) .601 ( 1.824 ) x friend .020 ( 1.021 ) −.257 ( .773 ) x acquaintance 1.250* ( 3.492 ) −.025 ( .976 ) Note : Controlling for alter descriptors and social exchange variables at the alter-level and for sociodemographic variables , network size , and proportion of kin in network at the person-level .
+*p < .05 ; **p < .01 ; ***p < .001 ( two-tailed tests ) .
+Offer and Fischer 133 DISCuSSION AND CONCluSIONS Previous research points to the detrimental effect of difficult ties for individuals ’ health and well-being ( Ailshire and Burgard 2012 ; Bertera 2005 ; Durden et al .
+2007 ; Lee and Szinovacz 2016 ; Lund et al .
+2014 ; Rook 2003 , 2015 ) , yet little is known about who people find to be difficult and burdensome , what makes relationships with these individu- als difficult , and why these relationships are present in networks .
+The extensive multifac- eted egocentric method used in UCNets allowed us to address these issues and expand on previous studies by shedding new light on the sources and mechanisms of difficulty in personal networks .
+Our findings show that the vast majority of participants ( about three-quarters in the younger cohort and two-thirds in the older cohort ) nominated at least one person in their network as difficult or demanding .
+The pro- portion of difficult alters in a network , how- ever , was relatively small , and even a smaller fraction were named solely as difficult alters who did not take part in any type of exchange with respondents .
+This finding , that most alters were not considered difficult , can be explained by people ’ s tendency to avoid or exclude relationships that weigh on them ( Harrigan and Yap 2017 ; Ikking and van Till- burg 1999 ; Nelson 2005 ; Offer 2012 ) .
+How- ever , even though they constituted a minority , difficult ties did exist in networks .
+Theories of tie formation , in either the agentic or the structure of opportunity approach , have not been applied to explain the existence and per- sistence of difficult ties in personal networks .
+The major contribution of this study is our examination of the different types of con- straints that may pressure people to interact with others whom they would otherwise pre- fer to avoid or disengage from .
+With respect to role-based constraints , the results support Hypothesis 2 : difficult alters are likely to be found in contexts where indi- viduals have relatively low levels of freedom and where associations are less voluntary .
+Friends were substantially less likely , and workmates more likely , to be mentioned in networks as solely difficult .
+Contrary to Hypothesis 2 , however , neighbors were not more likely to be seen as difficult .
+This result may seem surprising , given the popular view that depicts neighbors as noisy and nosy .
+In Figure 6 .
+Predicted Probabilities of Alter Being Named a Difficult Engaged-in-Exchange Tie for Providing Support by Kin Categories Note : All alter- and individual-level variables are held constant at their mean levels .
+In the younger cohort : effects for wife and sister significant at p < .001 .
+In the older cohort : effects for mother and son significant at p < .01 ; father significant at p < .05 ( compared to other relative ) .
+134 American Sociological Review 83 ( 1 ) fact , respondents in the younger cohort viewed their neighbors as less difficult than other alters .
+This result may reflect younger participants ’ greater physical mobility or their greater selectivity in dealing with neighbors .
+As Hypothesis 1 postulates , close family appear to be a particularly constraining context .
+Close kin were substantially more likely to be considered difficult yet also engaged in exchange , compared to more distant kin and non-kin .
+Many ties with close kin include nega- tive elements , perhaps because close family ties may , due to their nature and long duration , generate more multifaceted and intensive inter- actions , or because such ties are hard for indi- viduals to drop due to strong normative constraints , or both ( see the ambivalence litera- ture , e.g. , Birditt and Fingerman 2013 ; Con- nidis and McMullin 2002 ; Fingerman et al .
+2004 ; Lee and Szinovacz 2016 ) .
+This finding suggests that despite demographic and cultural changes of the past four decades and the preva- lent discourse about the weakening of the fam- ily , expectations from kin and a sense of familial responsibility remain strong ( Bengtson 2001 ; Connidis 2015 ; Johnson 2000 ; Silverstein et al .
+2006 ; Swartz 2009 ) .
+Analyses we conducted with a subsample from the UCNets10 support this interpretation by showing that respondents felt substantially more obligated to close kin than to more distant kin and non-kin ( see results in the online supplement ) .
+Another possible explanation is related to the level of embeddedness in networks .
+People may find it difficult to avoid or disengage from burdensome ties in highly interconnected con- texts because , as Feld ( 1981 ) explains , the amount of constraint in such contexts makes each tie highly dependent on the entire set of relationships ( for empirical support , see Burt 2000 ) .
+This is most typical of close family .
+We found some preliminary support for this view using a subsample of names : alters named as difficult were more likely to know well most of the other alters in the subsample ( i.e. , they were more highly embedded ) than alters who were not named as difficult .
+This effect was espe- cially prevalent among close kin ( see results in the online supplement ) .11 Future research will benefit from a more comprehensive investigation of the role of network structure , including embeddedness , in the maintenance of difficult ties .
+We also found that older respondents were more likely than the younger cohort to name close kin as difficult .
+This finding may reflect the particular status of 50- to 70-year-olds , who , sandwiched between two generations , face competing demands for their time and resources from adult children and aging par- ents .
+Studies show that today middle-aged parents continue to support their adult children for long periods of time ( Furstenberg 2010 ; Settersten and Ray 2010 ; Swartz 2009 ) .
+Simul- taneously , because of the increase in longevity , these mature adults may also need to provide care for their elderly and often frail parents ( Birditt and Fingerman 2013 ; Grundy and Henretta 2006 ) .
+Such dual obligations to the generations above and below can be a major source of stress , conflict , and strain for 50- to 70-year-olds , especially considering that at this age they themselves may start experiencing health , economic , and other challenges that make it harder to support others .
+Additionally , respondents in the older cohort were almost two times more likely to label as difficult their aging parents than their adult children , suggesting that dealing with aging parents is more burdensome than deal- ing with adult children .
+This interpretation is consistent with the intergenerational stake hypothesis , that parents are more emotionally invested in their children and report better quality relationships with them than with their parents ( Giarrusso , Feng , and Bengtson 2004 ) .
+The finding from the model with inter- action effects in the older cohort , showing that the association between difficulty and providing assistance to aging parents is stronger than the association with providing assistance to adult children , further supports this interpretation .
+Another important family-related finding indicates that female relatives were generally more likely than male relatives to be named as either difficult-only ties or as difficult engaged-in-exchange ties .
+This gendered pat- tern may be explained by women ’ s greater involvement in kinship networks ( Fischer Offer and Fischer 135 1982a ; Roschelle 1997 ; Sarkisian and Gerstel 2004 ; Wellman and Wortley 1990 ) .
+Women typically assume the role of household man- agers and kin-keepers who bear the major responsibility for maintaining relationships with relatives ( Gerstel and Gallagher 1993 ) and planning and organizing family activities and events ( Daly 2002 ; Shaw 2008 ) .
+Wom- en ’ s more intensive contact and interaction with kin , and greater sense of obligation to kin , may make them more vulnerable to criti- cism and stress and provide fodder for tension and conflict ( Connidis and McMullin 2002 ; Gerstel and Gallagher 1993 ; Offer 2014 ) .
+This study also examined interaction- based constraints for alters who were engaged in a network .
+The results do not support Hypothesis 3 , that alters providing more criti- cal types of support are more likely to be perceived as difficult than alters providing less critical support .
+Almost none of the vari- ables tapping support received from an alter were a significant predictor of being named in the “ difficult ” question .
+By contrast , provid- ing support to an alter was a major source of difficulty in relationships ( for similar results , see Durden et al .
+2007 ; Lincoln 2000 ; Rook 2015 ) .
+Furthermore , we did not find evidence to support Hypothesis 4 , that reciprocated exchanges would be related to reduced diffi- culty compared to unreciprocated exchanges .
+Receiving support from alters did not attenu- ate the effect of just providing support to them .
+These results seem to deviate from previous studies , which , based on the norm of reciprocity approach , find that people gener- ally feel more distressed by ties from which they overbenefit ( i.e. , gave less than they received ) than by ties from which they under- benefit ( i.e. , gave more than they received ) ( see review in Uehara 1995 ) .
+Rather , our find- ings seem to suggest that underbenefiting is a more negative experience .
+This interpretation , however , should be taken with much caution because our data reflect only the respondent ’ s perspective and not that of the alter .
+Considering people ’ s tendency to report that they give more help than they receive ( Phan , Blumer , and Demaiter 2009 ; Uehara 1995 ) , self-reported data can lead to biased results .
+Additionally , assessing the effect of reciprocity in a relationship based on self-reported information and cross-sectional data is problematic because it does not account for generalized forms of reciprocity12 and the sometimes long time lag that takes place between receiving and returning support ( Ekeh 1974 ; Sahlins 1972 ; Stack 1974 ; Yamagishi and Cook 1993 ) .
+These two considerations are especially important when dealing with familial relationships ( Hansen 2004 ; Nelson 2005 ; Plickert et al .
+2007 ; Uehara 1990 ) .
+Several other study limitations are note- worthy .
+The question asking respondents to name the people they find difficult appeared last in the name-eliciting battery and was pre- ceded by questions about positive exchanges .
+This may have led to the underestimation of the number of alters perceived to be difficult in a network .
+Additionally , although UCNets used an extensive name-eliciting methodol- ogy tapping a variety of exchanges , several social domains were not addressed .
+Thus , an alter named as a difficult-only tie might have , had we asked more name-eliciting questions , been named elsewhere , for example , as some- one consulted about work issues .
+This , in turn , may have led to overestimating the num- ber of difficult-only ties .
+Finally , the cross- sectional nature of the data did not allow us to examine issues of causality and track difficult ties over time .
+Longitudinal data , which will be available in the next waves of the UCNets , will allow us to examine which difficult ties tend to persist in networks over time and which eventually disappear .
+Nevertheless , despite these limitations , our study makes an important contribution to the literature on personal networks .
+By focusing on role- and interaction-based constraints , an insufficiently addressed issue in previous research , we help identify who is viewed as difficult in personal networks and better understand why they are there .
+As such , this study provides a more comprehensive and complex view of personal networks , which is important for understanding the functioning of networks and their enduring role in the lives of individuals .
+136 American Sociological Review 83 ( 1 ) APPeNDIx Table A1 .
+Percentages for Respondent-Level Variables , by Cohort ( Unweighted ) 21- to 30-Year-Olds ( n = 480 ) 50- to 70-Year-Olds ( n = 666 ) Male 31.3 35.7 Age 50 to 60 44.6 Race/ethnicity White 50.0 75.2*** Asian 29.0 10.0*** Latino 14.8 6.0*** Black and other 6.3 8.7 Married 11.3 46.6*** Partnered 51.7 16.7*** Foreign-born 19.0 13.1** New resident in towna 59.8 5.9*** Education Less than bachelor ’ s degree 23.5 29.9** Bachelor ’ s degree 54.2 24.8*** More than bachelor ’ s degree 22.3 35.3*** Incomeb Low ( up to $ 35,000 ) 49.0 18.3*** Medium ( $ 35,000 to $ 75,000 ) 27.1 26.9 High ( $ 75,000 and higher ) 24.0 54.8*** Self-reported health Excellent 64.8 58.3* Good 24.4 24.9 Fair or bad 10.8 16.8** No health problemc 78.0 67.0*** Network sized 11.24 ( 4.25 ) 10.33*** ( 4.47 ) Prop .
+kin in networkd 35.62 ( 19.43 ) 40.25*** ( 24.02 ) Web 71.0 24.0*** Facebook 59.4 Personal reference 7.3 aLiving in current town for two or fewer years .
+bTotal household income ( before taxes ) for married or partnered respondents ; individual income for respondent living alone or with otherwise unrelated roommates .
+cHealth problem refers to serious illness , recent hospitalization , and disability .
+dMean and standard deviation ( in parentheses ) calculated at the aggregated person-level .
+*p < .05 ; **p < .01 ; ***p < .001 ( two-tailed tests ) for differences between cohorts .
+Offer and Fischer 137 Acknowledgments We wish to thank Ori Schwartz , the University of Cali- fornia Social Network Study ’ s ( UCNets ) Executive Director , Leora Lawton , and participants , and the four ASR anonymous reviewers for their excellent comments and suggestions .
+We also thank the Center for Economic and Social Research at the University of South California for development and data management , especially pro- grammer Bart Orriens , and UCNets fieldwork managers , Kenric Erickson and Cat Conti .
+Funding This research is supported by National Institute of Aging Grant R01 AG041955-01 , Claude S. Fischer , principal investigator .
+Notes 1 .
+A debate , beyond the scope of this article , exists in the literature regarding how to conceptualize acces- sibility : as an attribute of the potential alter that individuals take into account when making deliber- ate decisions about whom to include in their net- work , or as a condition of the situation ( see review in Small and Sukhu 2016 ) .
+2 .
+Homophily scholars describe how structural con- straints , by delimiting the pool of potential asso- ciates , determine not only who is available but also who is not available , thus leading to induced homophily ( Blau and Schwartz 1984 ; Kossinets and Watts 2009 ; McPherson and Smith-Lovin 1987 ; Mollenhorst , Völker , and Flap 2008 ) .
+Our concept of constraint is different .
+We refer to the ways social and institutional contexts can coerce people to inter- act with others they would rather avoid .
+3 .
+Brashears and Brashears ( 2016 ) use the term “ nega- tive tie ” in their discussion of imbalanced structures when referring to the negative affect that individuals feel toward one another .
+In this article , we examine ties that tend to be complex and ambivalent—for example , ties that involve positive sentiments but also constitute a source of hardship—and therefore we use the term “ difficult. ” 4 .
+Research suggests that the importance people attri- bute to the norm of reciprocity varies by context and role relationship .
+Specifically , relationships to close kin and longtime friends have relatively flex- ible terms of return , and thus they tolerate more unilateral exchanges , compared to relationships to more distant associates ( Antonucci , Fuhrer , and Jackson 1990 ; Ikkink and van Tilburg 1999 ; Nelson 2005 ; Plickert et al .
+2007 ) .
+5 .
+UCNets wave 1 data will be made available to researchers .
+Consult its website , http : //ucnets.berke ley.edu/researcher-resources/ , or the second author .
+6 .
+We excluded 10 respondents who failed to follow instructions and gave unusable names , such as “ family ” and “ sports ” rather than real names .
+7 .
+We then trimmed weights above the 95th percentile and below the 5th percentile so no case would count more than the 95th percentile or less than the 5th per- centile and thereby carry undue influence in the results .
+8 .
+The fact that some respondents in the young cohort were eventually recruited through Facebook and personal reference may violate the assumption that individual observations are independent , because some respondents may be connected to each other through shared ties .
+To address this issue , we esti- mated separate models for respondents recruited through Facebook and personal references and com- pared them to results obtained for the full sample .
+Overall , the models yield similar results .
+The main Table A2 .
+Alter Descriptors , Percentages by Cohort ( Weighted ) 21- to 30-Year-Olds ( n = 5,022 alters ) 50- to 70-Year-Olds ( n = 6,613 alters ) Alter Descriptors Female ( for non-kin ) 32.6 35.9*** Same age 62.5 44.4*** Older 33.0 13.3*** Met in past year 15.5 5.4*** Emotionally close 45.0 46.3 Share household 13.0 9.9*** Live within five min .
+20.8 22.3* Live over one hour away 30.3 21.9*** Same religion 49.2 45.9*** Same race 65.9 71.7*** Different political opinion 22.9 18.1*** *p < .05 ; **p < .01 ; ***p < .001 ( two-tailed tests ) for differences between cohorts .
+138 American Sociological Review 83 ( 1 ) difference was in the model predicting difficult engaged-in-exchange ties : among Facebook and personal reference recruits , husbands , and not just wives as in the full sample , had higher log-odds of being named as difficult ties , whereas the effect for brothers was no longer significant ( see results in the online supplement ) .
+Note , too , that all our multivari- ate analyses control for whether a respondent was recruited through Facebook or personal reference .
+9 .
+Consistent with previous longitudinal studies show- ing that most of the variance in ambivalent rela- tionships over time is within rather than between individuals ( Birditt , Jackey , and Antonucci 2009 ) , our multilevel models reveal that the likelihood of having difficult-only and difficult engaged-in-exchange ties is little affected by individual-level variables .
+10 .
+Respondents went through more intensive question- ing about a subsample of up to five alters .
+For these names , respondents were asked , among other ques- tions , about the extent to which they felt obligated to the alter if the alter needed a big favor .
+Alters in the subsample were drawn from the six name- eliciting questions and excluded members of the household who were kin .
+Of the names offered in answer to each of the six questions , the procedure took the first name that qualified .
+Exploratory anal- yses showed that alters in the subsample tended to be more intimate than alters in the overall sample , but otherwise we saw no differences between the subsample and the overall sample of alters .
+11 .
+In the subsample , respondents were asked how well each pair of names knew each other ( “ know well , ” “ know a little , ” or “ do not know each other at all ” ) .
+Answers to this question allowed us to calculate a measure of centrality , or embeddedness , for each alter in the subsample .
+At the descriptive prelimi- nary level , we found that alters named as difficult had , on average and other traits held constant , higher centrality scores than alters who were not named as difficult ( see results in the online supple- ment ) .
+Most of these ties were close kin ( the rela- tively small size of the subsample did not allow us to estimate multilevel models ) .
+12 .
+The conditions and forms of return under general- ized reciprocity are highly flexible and not stipu- lated in advance .
+Unlike restricted or balanced reciprocity , to use Sahlins ’ s ( 1972 ) typology , gen- eralized reciprocity does not require immediate return , return in the same domain , or even return from the same party ( see examples in Stack 1974 ; Uehara 1990 ) .
+references Ailshire , Jennifer A. , and Sarah A. Burgard .
+2012 .
+“ Family Relationships and Troubled Sleep among U.S .
+Adults : Examining the Influences of Contact Frequency and Relationship Quality. ” Journal of Health and Social Behavior 53 ( 2 ) :248–62 .
+Antonucci , Toni C. , Katherine L. Fiori , Kira Birditt , and Lisa M. H. Jackey .
+2010 .
+“ Convoys of Social Rela- tions : Integrating Life-Span and Life-Course Per- spectives. ” Pp .
+434–73 in The Handbook of Life-Span Development , Vol .
+2 , Social and Emotional Develop- ment , edited by R. M. Lerner , M. E. Lamb , and A. M. Freund .
+Hoboken , NJ : John Wiley & Sons .
+Antonucci , Toni C. , Rebecca Fuhrer , and James S. Jack- son .
+1990 .
+“ Social Support and Reciprocity : A Cross- Ethnic and Cross-National Perspective. ” Journal of Social and Personal Relationships 7 ( 4 ) :519–30 .
+Bengtson , Vern L. 2001 .
+“ Beyond the Nuclear Family : The Increasing Importance of Multigenerational Bonds. ” Journal of Marriage and Family 63 ( 1 ) :1–16 .
+Bertera , Elizabeth M. 2005 .
+“ Mental Health in U.S .
+Adults : The Role of Positive Social Support and Social Negativity in Personal Relationships. ” Journal of Social and Personal Relationships 22 ( 1 ) :33–48 .
+Birditt , Kira S. , and Toni C. Antonucci .
+2007 .
+“ Relation- ship Quality Profiles and Well-Being among Married Adults. ” Journal of Family Psychology 21 ( 4 ) :595–604 .
+Birditt , Kira S. , and Karen L. Fingerman .
+2013 .
+“ Parent- Child and Intergenerational Relationships in Adult- hood. ” Pp .
+71–87 in Handbook of Family Theories : A Content-Based Approach , edited by M. A .
+Fine and F. D. Finchman .
+New York : Taylor & Francis .
+Birditt , Kira S. , Lisa M. H. Jackey , and Toni C. Anto- nucci .
+2009 .
+“ Longitudinal Patterns of Negative Relationship Quality across Adulthood. ” Journal of Gerontology Series B : Psychological and Social Sci- ences 64B ( 1 ) :55–64 .
+Blau , Peter M. 1986 .
+Exchange and Power in Social Life .
+New Brunswick , NJ : Transaction Publishers .
+Blau , Peter M. , and Joseph E. Schwartz .
+1984 .
+Crosscut- ting Social Circles .
+New Brunswick , NJ : Transaction Publishers .
+Blieszner , Rosemary , and Karen A. Roberto .
+2004 .
+“ Friendship across the Life Span : Reciprocity in Indi- vidual and Relationship Development. ” Pp .
+159–82 in Growing Together : Personal Relationships across the Life Span edited by F. Lang and K. L. Fingerman .
+New York : Cambridge University Press .
+Bourdieu , Pierre .
+1986 .
+“ The Forms of Capital. ” Pp .
+241–58 in Handbook of Theory and Research for the Sociology of Education , edited by J. G. Richardson .
+New York : Greenwood .
+Brashears , Matthew E. 2014 .
+“ ‘ Trivial ’ Topics and Rich Ties : The Relationship between Discussion Topic , Alter Role , and Resource Availability Using the ‘ Important Matters ’ Name Generator. ” Sociological Science 1:493–511 .
+Brashears , Matthew E. , and Laura A. Brashears .
+2016 .
+“ The Enemy of My Friend Is Easy to Remember : Balance as a Compression Heuristic. ” Advances in Group Processes 33:1–31 .
+Burt , Ronald S. 2000 .
+“ Decay Functions. ” Social Net- works 22:1–28 .
+Chen , Yixin , and Thomas H. Feeley .
+2014 .
+“ Social Sup- port , Social Strain , Loneliness , and Well-Being Offer and Fischer 139 among Older Adults : An Analysis of the Health and Retirement Study. ” Journal of Social and Personal Relationships 31 ( 2 ) :141–61 .
+Cohen , Sheldon , and Denise Janicki-Deverts .
+2009 .
+“ Can We Improve Our Physical Health by Altering Our Social Networks ? ” Perspectives on Psychological Science 4 ( 4 ) :375–78 .
+Coleman , James .
+1988 .
+“ Social Capital in the Creation of Human Capital. ” American Journal of Sociology 94 : S95–S120 .
+Coleman , James .
+1990 .
+Foundations of Social Theory .
+Cambridge , MA : Belknap Press of Harvard Univer- sity Press .
+Connidis , Ingrid A .
+2015 .
+“ Exploring Ambivalence in Family Ties : Progress and Prospects. ” Journal of Marriage and Family 77 ( 1 ) :77–95 .
+Connidis , Ingrid A. , and Julie A. McMullin .
+2002 .
+“ Sociological Ambivalence and Family Ties : A Criti- cal Perspective. ” Journal of Marriage and Family 64 ( 3 ) :558–67 .
+Daly , J. Kerry .
+2002 .
+“ Time , Gender , and the Nego- tiation of Family Schedules. ” Symbolic Interaction 25 ( 3 ) :323–42 .
+Desmond , Matthew .
+2012 .
+“ Disposable Ties and the Urban Poor. ” American Journal of Sociology 117 ( 5 ) :1295–1335 .
+Domínguez , Sylvia , and Celeste Watkins .
+2003 .
+“ Creating Networks for Survival and Mobility : Social Capital among African American and Latin American Low- Income Mothers. ” Social Problems 50 ( 1 ) :111–35 .
+Doreian , Patrick , and Norman Conti .
+2012 .
+“ Social Context , Spatial Structure , and Network Structure. ” Social Networks 34 ( 1 ) :111–35 .
+Durden , Emily D. , Terrence D. Hill , and Ronald J. Angel .
+2007 .
+“ Social Demands , Social Supports , and Psy- chological Distress among Low-Income Women. ” Journal of Social and Personal Relationships 24 ( 3 ) :343–61 .
+Ekeh , Peter .
+1974 .
+Social Exchange Theory : The Two Tra- ditions .
+Cambridge , MA : Harvard University Press .
+Emerson , Richard M. 1962 .
+“ Power-Dependence Rela- tions. ” American Sociological Review 27 ( 1 ) :31–41 .
+Emirbayer , Mustafa , and Jeff Goodwin .
+1994 .
+“ Network Analysis , Culture , and the Problem of Agency. ” American Journal of Sociology 99 ( 6 ) :1411–54 .
+Entwisle , Barbara , Katherine Faust , Ronald R. Rindfuss , and Toshiko Kaneda .
+2007 .
+“ Networks and Contexts : Variation in the Structure of Social Ties. ” American Journal of Sociology 112 ( 5 ) :1495–1533 .
+Everett , Martin G. , and Stephen P. Borgatti .
+2014 .
+“ Net- works Containing Negative Ties. ” Social Networks 38:111–20 .
+Feld , Scott L. 1981 .
+“ The Focused Organization of Social Ties. ” American Journal of Sociology 86 ( 5 ) :1015–35 .
+Feld , Scott L. 1982 .
+“ Social Structural Determinants of Similarity among Associates. ” American Sociologi- cal Review 47 ( 6 ) :797–801 .
+Feld , Scott L. , and William C. Carter .
+1998 .
+“ Foci of Activity as Changing Contexts for Friendship. ” Pp .
+136–52 in Placing Friendship in Context , edited by R. G. Adams and G. Allan .
+Cambridge , UK : Cam- bridge University Press .
+Fingerman , Karen L. , Elizabeth L. Hay , and Kira S. Birditt .
+2004 .
+“ The Best of Ties , the Worst of Ties : Close , Problematic , and Ambivalent Social Relation- ships. ” Journal of Marriage and Family 66 ( 3 ) :792– 808 .
+Fischer , Claude S. 1982a .
+To Dwell among Friends : Per- sonal Networks in Town and City .
+Chicago : Univer- sity of Chicago Press .
+Fischer , Claude S. 1982b .
+“ What Do We Mean by ‘ Friend ’ ? ” Social Networks 3 ( 4 ) :287–306 .
+Fischer , Claude S. , and Michael Hout .
+2006 .
+Century of Difference : How America Changed in the Last One Hundred Years .
+New York : Russell Sage Foundation .
+Furstenberg Jr. , Frank F. 2010 .
+“ On a New Schedule : Transitions to Adulthood and Family Change. ” The Future of Children 20 ( 1 ) :67–87 .
+Furman , Frida K. 1997 .
+Facing the Mirror : Older Women and Beauty Shop Culture .
+New York : Routledge .
+Gerstel , Naomi , and Sally K. Gallagher .
+1993 .
+“ Caring for Kith and Kin : Gender , Employment , and the Privati- zation of Care. ” Social Problems 41 ( 4 ) :519–39 .
+Giarrusso , Roseann , Due Feng , and Vern L. Bengtson .
+2004 .
+“ The Intergenerational Stake Phenomenon over 20 Years. ” Annual Review of Gerontology and Geri- atrics 24:55–76 .
+Goering , John , and Judith D. Feins .
+2003 .
+Choosing a Better Life : Evaluating the Moving to Opportunity Social Experiment .
+Washington , DC : Urban Institute Press .
+Gouldner , Alwin W. 1960 .
+“ The Norm of Reciprocity. ” American Sociological Review 25 ( 2 ) :161–78 .
+Granovetter , Mark .
+1985 .
+“ Economic Action and Social Structure : The Problem of Embeddedness. ” American Journal of Sociology 91 ( 3 ) :481–510 .
+Granovetter , Mark .
+2002 .
+“ A Theoretical Agenda for Economic Sociology. ” Pp .
+35–60 in The New Eco- nomic Sociology : Developments in an Emerging Field , edited by M. F. Guillén , R. Collins , P. England , and M. Meyer .
+New York : Russell Sage Foundation .
+Grundy , Emily , and John C. Henretta .
+2006 .
+“ Between Elderly Parents and Adult Children : A New Look at the Intergenerational Care Provided by the ‘ Sandwich Generation. ’ ” Ageing & Society 26:702–722 .
+Hackstaff , Karla B .
+1999 .
+Marriage in a Culture of Divorce .
+Philadelphia : Temple University Press .
+Hansen , Karen V. 2004 .
+“ The Asking Rules of Reciproc- ity in Networks of Care for Children. ” Qualitative Sociology 2 ( 4 ) :421–37 .
+Hansen , Karen V. 2005 .
+Not-So-Nuclear Families : Class , Gender , and Networks of Care .
+New Brunswick , NJ : Rutgers University Press .
+Harrigan , Nicholas , and Janice Yap .
+2017 .
+“ Avoidance in Negative Ties : Inhibiting Closure , Reciprocity and Homophily. ” Social Networks 28 ( 1 ) :126–41 .
+Homans , George .
+1958 .
+“ Social Behavior as Exchange. ” American Journal of Sociology 63 ( 6 ) :597–606 .
+140 American Sociological Review 83 ( 1 ) House , James S. , Debra Umberson , and Karl R. Landis .
+1988 .
+“ Structures and Processes of Social Support. ” Annual Review of Sociology 14:293–318 .
+Ikkink , Karen , and Theo van Tilburg .
+1999 .
+“ Broken Ties : Reciprocity and Other Factors Affecting the Termination of Older Adults ’ Relationships. ” Social Networks 21 ( 2 ) :131–46 .
+Johnson , Colleen L. 2000 .
+“ Perspectives on American Kinship in the Later 1990s. ” Journal of Marriage and the Family 62 ( 3 ) :623–39 .
+Kadushin , Charles .
+2012 .
+Understanding Social Net- works .
+New York : Oxford University Press .
+Kawachi , Ichiro , and Lisa F. Berkman .
+2001 .
+“ Social Ties and Mental Health. ” Journal of Urban Health : Bulle- tin of the New York Academy of Medicine 78 ( 3 ) :458– 67 .
+Killworth , Christopher McCarty , Gene A. Shelley , and Scott Robinson .
+1990 .
+“ Comparing Four Different Methods for Measuring Personal Social Networks. ” Social Networks 12 ( 3 ) :179–215 .
+Kossinets , Gueorgi , and Duncan J. Watts .
+2009 .
+“ Ori- gins of Homophily in an Evolving Social Network. ” American Journal of Sociology 115 ( 2 ) :405–450 .
+Lawler , Edward J .
+2001 .
+“ An Affect Theory of Social Exchange. ” American Journal of Sociology 107 ( 2 ) : 321–52 .
+Lazarsfeld , Paul F. , and Robert K. Merton .
+1954 .
+“ Friend- ship as a Social Process : A Substantive and Meth- odological Analysis. ” Pp .
+18–66 in Freedom and Control in Modern Society , edited by M. Berger , T. Abel , and C. Page .
+New York : Van Nostrand .
+Lee , Barret A. , R. S. Oropesa , and James W. Kanan .
+1994 .
+“ Neighborhood Context and Residential Mobility. ” Demography 31 ( 2 ) :249–70 .
+Lee , Hyo Jung , and Maximiliane E. Szinovacz .
+2016 .
+“ Positive , Negative , and Ambivalent Interactions with Family and Friends : Associations with Well-Being. ” Journal of Marriage and Family 78 ( 3 ) :660–79 .
+Leffler , Ann , Richard S. Krannich , and Dair L. Gillespie .
+1986 .
+“ Contact , Support , and Friction : Three Faces of Networks in Community Life. ” Sociological Per- spectives 29 ( 3 ) :337–55 .
+Levine , Judith .
+2013 .
+Ain ’ t No Trust : How Bosses , Boy- friends , and Bureaucrats Fail Low-Income Mothers and Why It Matters .
+Berkeley : University of Califor- nia Press .
+Lin , Nan .
+2001 .
+Social Capital : A Theory of Social Struc- ture and Action .
+Cambridge , UK : Cambridge Univer- sity Press .
+Lincoln , Karen D. 2000 .
+“ Social Support , Negative Social Interactions , and Psychological Well-Being. ” Social Service Review 74 ( 2 ) :231–52 .
+Lund , Rikke , Ulla Christensen , Charlotte Juul Nilsson , Margit Kriegbaum , and Naja Hulvej Rod .
+2014 .
+“ Stressful Social Relations and Mortality : A Prospec- tive Cohort Study. ” Journal of Epidemiology and Community Health 68:720–27 .
+Lyons , Brent J. , and Brent A. Scott 2012 .
+“ Integrating Social Exchange and Affective Explanations for the Receipt of Help and Harm : A Social Network Approach. ” Organizational Behavior and Human Decision Processes 117 ( 1 ) :66–79 .
+Marin , Alexandra .
+2004 .
+“ Are Respondents More Likely to List Alters with Certain Characteristics ?
+Implica- tions for Name Generator Data. ” Social Networks 26 ( 4 ) :289–307 .
+Marin , Alexandra , and Keith N. Hampton .
+2007 .
+“ Sim- plifying the Personal Network Name Generator : Alternative to Traditional Multiple and Single Name Generator. ” Field Methods 9 ( 2 ) :163–93 .
+Marsden , Peter V. 1987 .
+“ Core Discussion Networks of Americans. ” American Sociological Review 52 ( 1 ) :122–31 .
+Marsden , Peter V. 1990 .
+“ Network Diversity , Subcul- tures , and Opportunities for Contact. ” Pp .
+397–410 in Structures of Power and Constraint , Papers in Honor of Peter M. Blau , edited by C. Calhoun , M. W. Meyer , and W. R. Scott .
+Cambridge , UK : Cambridge Univer- sity Press .
+Mauss , Marcel .
+[ 1923 ] 1990 .
+The Gift : The Form and Reason for Exchange in Archaic Societies .
+New York : Norton .
+McCallister , Lynne , and Claude S. Fischer .
+1978 .
+“ A Pro- cedure for Surveying Personal Networks. ” Sociologi- cal Methods and Research 7 ( 2 ) :131–48 .
+McPherson , Miller J. , and Lynn Smith-Lovin .
+1987 .
+“ Homophily in Voluntary Organizations : Status Dis- tance and the Composition of Face-to-Face Groups. ” American Sociological Review 52 ( 3 ) :370–79 .
+McPherson , Miller J. , Lynn Smith-Lovin , and James M. Cook .
+2001 .
+“ Birds of a Feather : Homophily in Social Networks. ” Annual Review of Sociology 27:415–44 .
+Menjívar , Cecilia .
+2000 .
+Fragmented Ties : Salvadoran Immigrant Networks in America .
+Berkeley : Univer- sity of California Press .
+Mok , Diana , Barry Wellman , and Juan Carrasco .
+2010 .
+“ Does Distance Matter in the Age of the Internet ? ” Urban Studies 47 ( 13 ) :2747–83 .
+Mollenhorst , Gerald , Beate Völker , and Henk Flap .
+2008 .
+“ Social Contexts and Personal Relationships : The Effect of Meeting Opportunities on Similarity of Relationships of Different Strength. ” Social Networks 30 ( 1 ) :60–68 .
+Mollenhorst , Gerald , Beate Völker , and Henk Flap .
+2014 .
+“ Changes in Personal Relationships : How Social Contexts Affect the Emergence and Discontinuation of Relationships. ” Social Networks 37:65–80 .
+National Research Council .
+2013 .
+Nonresponse in Social Science Surveys : A Research Agenda , edited by R. Tourangeau and T. J. Plewes .
+Washington , DC : The National Academies Press .
+Nelson , Margaret K. 2005 .
+The Social Economy of Single Motherhood : Raising Children in Rural America .
+New York : Routledge .
+Offer , Shira .
+2012 .
+“ The Burden of Reciprocity : Pro- cesses of Exclusion and Withdrawal from Personal Networks among Low-Income Families. ” Current Sociology 60 ( 6 ) :788–805 .
+Offer and Fischer 141 Offer , Shira .
+2014 .
+“ The Costs of Thinking about Work and Family : Mental Labor , Work-Family Spillover , and Gender Equality among Parents in Dual-Earner Families. ” Sociological Forum 29 ( 4 ) :916–36 .
+Perry , Brea L. , and Bernice A. Pescosolido .
+2010 .
+“ Func- tional Specificity in Discussion Networks : The Influ- ence of General and Problem-Specific Networks on Health Outcomes. ” Social Networks 32 ( 4 ) :345–57 .
+Pescosolido , Bernice A .
+1992 .
+“ Beyond Rational Choice : The Social Dynamics of How People Seek Help. ” American Journal of Sociology 97 ( 4 ) :1096–1138 .
+Phan , Mai B. , Nadine Blumer , and Erin I. Demaiter .
+2009 .
+“ Helping Hands : Neighborhood Diversity , Deprivation , and Reciprocity of Support in Non-Kin Networks. ” Journal of Social and Personal Relation- ships 27 ( 6–7 ) :899–918 .
+Plickert , Gabrielle , Rochelle R. Côté , and Barry Well- man .
+2007 .
+“ It ’ s Not Who You Know , It ’ s How You Know Them : Who Exchanges What with Whom. ” Social Networks 29 ( 3 ) :405–429 .
+Podolny , Joel M. 1993 .
+“ Status-Based Model of Mar- ket Competition. ” American Journal of Sociology 98 ( 4 ) :829–72 .
+Portes , Alejandro , and Julia Sensenbrenner .
+1992 .
+“ Embeddedness and Immigration : Notes on the Social Determinants of Economic Action. ” American Journal of Sociology 98 ( 6 ) :1320–50 .
+Raudenbush , Stephen W. , and Anthony S. Bryk .
+2002 .
+Hierarchical Linear Models .
+Thousand Oaks , CA : Sage Publications .
+Raudenbush , Stephen W. , Anthony S. Bryk , and Richard Congdon .
+2013 .
+HLM 7.01 for Windows [ Computer software ] .
+Skokie , IL : Scientific Software Interna- tional , Inc. Roberto , Karen A. , and Jean P. Scott .
+1986 .
+“ Equity Con- siderations in the Friendships of Older Adults. ” Jour- nal of Gerontology 41 ( 2 ) :241–47 .
+Rook , Karen S. 1984 .
+“ The Negative Side of Social Interaction : Impact on Psychological Well-Being. ” Journal of Personality and Social Psychology 46 ( 5 ) :1097–1108 .
+Rook , Karen S. 1989 .
+“ Stressful Aspects of Older Adults ’ Social Relationships : Current Theory and Research. ” Pp .
+173–92 in Stress and Coping in Later-Life Fami- lies , edited by M. A. Parris Stephens , J. N. Crowther , S. E. Hobfoll , and D. L. Tennenbaum .
+New York : Hemisphere Publishing Corporation .
+Rook , Karen S. 2003 .
+“ Exposure and Reactivity to Nega- tive Social Exchanges : A Preliminary Investigation Using Daily Time Diaries. ” Journal of Gerontology : Psychological Sciences 58B : P100–P111 .
+Rook , Karen S. 2015 .
+“ Social Networks in Later Life : Weighing Positive and Negative Effects on Health and Well-Being. ” Current Directions in Psychologi- cal Research 24 ( 1 ) :45–51 .
+Roschelle , Anne R. 1997 .
+No More Kin : Exploring Race , Class , and Gender in Family Networks .
+Thousand Oaks , CA : Sage Publications .
+Sahlins , David M. 1972 .
+Stone Age Economics .
+Chicago : Aldine and Atherton .
+Sarkisian , Natalia , and Naomi Gerstel .
+2004 .
+“ Kin Support among Blacks and Whites : Race and Fam- ily Organization. ” American Sociological Review 69 ( 6 ) :812–37 .
+Settersten , Richard A. , and Barbara E. Ray .
+2010 .
+Not Quite Adults : Why 20-Somethings Are Choosing a Slower Path to Adulthood , and Why It ’ s Good for Everyone .
+New York : Bantam Books .
+Shaw , Benjamin , Neal Krause , Jersey Liang , and Joan Bennett .
+2007 .
+“ Tracking Changes in Social Rela- tions throughout Late Life. ” Journal of Gerontology : Social Sciences 62B : S90–S99 .
+Shaw , Susan M. 2008 .
+“ Family Leisure and Chang- ing Ideologies of Parenthood. ” Sociology Compass 2 ( 2 ) :688–703 .
+Silverstein , Merrill , Daphna Gans , and Frances Yang .
+2006 .
+“ Intergenerational Support to Aging Parents : The Role of Norms and Needs. ” Journal of Family Issues 27 ( 8 ) :1068–84 .
+Simmel , Georg .
+[ 1950 ] 1978 .
+“ Faithfulness and Grati- tude. ” Pp .
+379–95 in The Sociology of Georg Simmel , edited by K. H. Wolff .
+New York : Free Press .
+Small , Mario L. 2009 .
+Unanticipated Gains : Origins of Network Inequality in Everyday Life .
+New York : Oxford University Press .
+Small , Mario L. 2013 .
+“ Weak Ties and the Core Dis- cussion Network : Why People Regularly Discuss Important Matters with Unimportant Alters. ” Social Networks 35 ( 3 ) :470–85 .
+Small , Mario L. , Vontrese Deeds Pamphile , and Peter McMahan .
+2015 .
+“ How Stable Is the Core Discussion Network ? ” Social Network 40 ( 1 ) :90–102 .
+Small , Mario L. , and Christopher Sukhu .
+2016 .
+“ Because They Were There : Access , Deliberation , and the Mobilization of Networks for Support. ” Social Net- works 47:73–84 .
+Stack , Carol B .
+1974 .
+All Our Kin : Strategies for Survival in a Black Community .
+New York : Harper & Row .
+Swartz , Teresa T. 2009 .
+“ Intergenerational Family Rela- tions in Adulthood : Patterns , Variations , and Impli- cations in the Contemporary United States. ” Annual Review of Sociology 35:191–212 .
+Thibaut , John W. , and Harold H. Kelly .
+1959 .
+The Social Psychology of Groups .
+New York : Wiley .
+Thoits , Peggy A .
+2011 .
+“ Mechanisms Linking Social Ties and Support to Physical and Mental Health. ” Journal of Health and Social Behavior 52 ( 2 ) :145–61 .
+Thomas , Patricia A .
+2010 .
+“ Is It Better to Give or to Receive ?
+Social Support and the Well-being of Older Adults. ” Journals of Gerontology Series B : Psycho- logical Sciences and Social Sciences 65B:351–57 .
+Torres , Stacey .
+Forthcoming .
+Old New York : Late Life in the City .
+Berkeley : University of California Press .
+Uehara , Edwina .
+1990 .
+“ Dual Exchange Theory , Social Networks , and Informal Social Support. ” American Journal of Sociology 96 ( 3 ) :521–57 .
+Uehara , Edwina .
+1995 .
+“ Reciprocity Reconsidered : Gouldner ’ s ‘ Moral Norm of Reciprocity ’ and Social Support. ” Journal of Social and Personal Relation- ships 12 ( 4 ) :483–502 .
+142 American Sociological Review 83 ( 1 ) van Duijn , Marijtje , Jooske van Busschbach , and Tom Snijder .
+1999 .
+“ Multilevel Analysis of Personal Net- works as Dependent Variables. ” Social Networks 21 ( 2 ) :187–209 .
+van Tilburg , Theo .
+1992 .
+“ Support Networks Before and After Retirement. ” Journal of Social and Personality Relationships , Special Issue : Social Networks 9:433–45 .
+Vinokur , Amiram D. , Yaacov Schul , and Robert D. Caplan .
+1987 .
+“ Determinants of Perceived Social Support : Interpersonal Transactions , Personal Out- look , and Transient Affective States. ” Journal of Per- sonality and Social Psychology 53 ( 6 ) :1137–45 .
+Walen , Heather , and Margie E. Lachman .
+2000 .
+“ Social Support and Strain from Partner , Family , and Friends : Costs and Benefits for Men and Women in Adult- hood. ” Journal of Social and Personal Relationships 17 ( 1 ) :5–30 .
+Wellman , Barry , and Kenneth A. Frank .
+2001 .
+“ Network Capital in a Multilevel World : Getting Support from Personal Communities. ” Pp .
+133–273 in Social Capi- tal : Theory and Research , edited by N. Lin , K. Cook , and R. S. Burt .
+New York : Aldine de Gruyter .
+Wellman , Barry , and Scot Wortley .
+1990 .
+“ Different Strokes from Different Folks : Community Ties and Social Support. ” American Journal of Sociology 96 ( 3 ) :558–88 .
+Wuthnow , Robert .
+1988 .
+The Restructuring of Ameri- can Religion : Society and Faith since World War II .
+Princeton , NJ : Princeton University Press .
+Yamagishi , Toshio , and Karen S. Cook .
+1993 .
+“ General- ized Exchange and Social Dilemmas. ” Social Psy- chology Quarterly 56 ( 4 ) :235–48 .
+Shira Offer is an Associate Professor at the Department of Sociology and Anthropology at Bar-Ilan University , Israel .
+She received her PhD in Sociology from the Uni- versity of Chicago .
+Her research focuses on personal networks , social support and reciprocity , time use and family dynamics , and work and family .
+Her work appears in various journals , including the American Sociological Review , Journal of Marriage and Family , Social Forces , Social Science Research , and Gender & Society .
+For more information and downloads visit https : //biu.acad emia.edu/ShiraOffer .
+Claude S. Fischer is Professor of the Graduate School in Sociology at the University of California , Berkeley .
+His recent books deal with social change over the twentieth century ( Fischer and Hout , Century of Difference , 2006 ) , the social history of American culture ( Made in America , 2010 ) , and developments in Americans ’ personal ties ( Still Connected : Family and Friends in America Since 1970 , 2011 ) .
+A collection of his columns for the Boston Review appeared in 2014 as Lurching toward Happiness in America .
+His major current project , funded by the National Institute of Aging , is a panel study of how per- sonal ties change .
+Copyright of American Sociological Review is the property of Sage Publications Inc. and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder 's express written permission .
+However , users may print , download , or email articles for individual use .

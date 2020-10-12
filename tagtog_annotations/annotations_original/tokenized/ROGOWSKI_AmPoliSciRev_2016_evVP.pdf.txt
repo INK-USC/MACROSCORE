@@ -1,0 +1,662 @@
+ROGOWSKI_AmPoliSciRev_2016_evVP.pdf
+ardGMPZbyOJXlVks895Z0m_eD8Se-ROGOWSKI_AmPoliSciRev_2016_evVP.pdf.plain.html
+
+American Political Science Review Vol .
+110 , No .
+2 May 2016 doi:10.1017/S0003055416000125 c© American Political Science Association 2016 Presidential Influence in an Era of Congressional Dominance JON C. ROGOWSKI Washington University in St. Louis Research on presidential power focuses almost exclusively on the modern era , while earlier pres-idents are said to have held office while congressional dominance was at its peak .
+In this article , I argue that nineteenth-century presidents wielded greater influence than commonly recognized due to their position as head of the executive branch .
+Using an original dataset on the county-level distribution of U.S. post offices from 1876 to 1896 , I find consistent evidence that counties represented by a president ’ s copartisans in the U.S. House received substantially more post offices than other counties , and that these advantages were especially large under divided government and in electorally important states .
+These results are robust across model specifications and when examining the Senate .
+The findings challenge key components of the congressional dominance and modern presidency theses , and have important implications for scholarship on interbranch relations , bureaucratic politics , and American political development .
+The emergence of the modern presidency is oneof the most important developments in UnitedStates history .
+Prior to the twentieth century , presidents were seen as largely unable to provide strong leadership except in instances of national cri- sis ( Bryce 1888 ) .1 Nineteenth-century presidents are commonly regarded as “ very ordinary people with very ordinary reputations ” ( Lowi 1986 , 40 ) whose ambitions were constrained largely by the nature of the party system ( Galvin 2014 ; Klinghard 2010 ) .
+Instead , the nineteenth century was “ the golden age of the legis- lature ” ( Lowi 1986 , 30 ) and the president was merely “ the servant of Congress ” ( Wilson 1885 , 213 ) .
+But as the center of political power transitioned from what Woodrow Wilson ( 1885 ) termed Congressional Gov- ernment to what Polsby ( 1983 , 20 ) labeled the “ pres- idential branch , ” the nation entered “ an entirely new constitutional epoch ” ( Lowi 1986 , xi ) , in which modern presidents exert considerably greater influence over the national government ’ s activities than even Alexan- der Hamilton may have anticipated .
+Jon C. Rogowski is Assistant Professor , Department of Political Sci- ence , Campus Box 1063 , One Brookings Drive , St. Louis , MO 63130 ( jrogowski @ wustl.edu ) .
+I thank Alex Bluestone , Michael Byrne , Madelyn Josel , Sophie Schuit , Joe Sutherland , and especially Chris Gibson for exceptional research assistance , and the Office of Undergraduate Research and the Department of Political Science at Washington University for funding .
+Cameron Blevins , Dan Carpenter , Jeff Cohen , Erik En- gstrom , Justin Fox , Will Howell , Jeff Jenkins , Richard John , George Krause , Doug Kriner , Bill Lowry , Terry Moe , Jacob Montgomery , Hans Noel , John Patty , Andrew Reeves , Greg Wawro , Aaron Welo , and seminar audiences at Columbia University and the University of Virginia provided generous comments and suggestions .
+Data used in this project were obtained from David Canon , Garrison Nelson , and Charles Stewart ( “ Historical Congressional Standing Commit- tees , 1st to 79th Congresses , 1789-1947 ” ) and ICPSR studies # 2896 ( “ Historical , Demographic , Economic , and Social Data : The United States , 1790-2002 ” ) , # 3371 ( “ Database of [ United States ] Congres- sional Historical Statistics , 1789-1989 ” ) , and # 8611 , “ Electoral Data for Counties in the United States : Presidential and Congressional Races , 1840-1972 ” ) .
+1 Indeed , Lowi ( 1986 ) and Neustadt ( 1990 ) argued that the crises posed by the two world wars and the Great Depression directly contributed to the ascendence of the modern presidency .
+For a dis- cussion of how wars and other crises affect presidential influence in the modern era , see Howell , Jackman , and Rogowski ( 2013 ) .
+For all that has been written about the weaknesses of the premodern presidency , however , scholars have assembled little evidence in support of claims about congressional dominance in influencing the goings-on of the federal government .
+While other research has focused on presidents ’ roles in state-building activi- ties and bureaucratic expansion ( Carpenter 2000 ; 2001 ; James 2000 ; 2005 ; Skowronek 1982 ; Whittington and Carpenter 2003 ) , much less is known about the in- fluence of presidents on public policy in earlier time periods .
+In one of the only such studies , Cohen ( 1982 ) reports that presidents serving in the twentieth century were more successful in achieving the proposals they outlined in their State of the Union addresses than presidents who served in the second half of the nine- teenth century .
+Moreover , recent revisionist scholar- ship argues that some of the characteristics associated with the modern presidency were in place well before the twentieth century ( Bailey 2007 ; Cohen 2012 ; Galvin and Shogun 2004 ; Klinghard 2005 ; 2010 ) , raising the intriguing possibility that earlier presidents were more influential than commonly recognized .
+In this article , I argue that presidents who served prior to the modern era benefited in their dealings with Congress from their position as head of the executive branch .
+Scholarship on nineteenth-century bureaucra- cies details the ways in which administrative officials gained autonomy from their political principals and de- veloped valuable reputations and expertise ( Carpenter 2001 ; Gailmard and Patty 2012 ) , and these informa- tional advantages cumulated to the president by gen- erating patterns of congressional deference .
+Though previous literature recognizes that nineteenth-century bureaucracies served as important conduits of infor- mation , scholarship on Congress and the presidency has not previously acknowledged how this expertise systematically advantaged the president .
+Understanding the scope of nineteenth-century presidential influence has important consequences for scholarship on interbranch relations , bureaucratic pol- itics , and American political development more gener- ally .
+First , presidential power is widely believed to have been at its nadir in the post-Reconstruction period , and the relative weakness of pre-twentieth century presi- dents is a key assumption of the modern presidency 325 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 12 Ju l 2 01 9 at 1 8 : 52 :3 8 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 16 00 01 25 Presidential Influence in an Era of Congressional Dominance May 2016 paradigm .
+Second , studies of the distribution of partic- ularistic goods such as post offices , rural delivery routes , and rivers and harbors legislation typically focus on the roles of Congress ( Kernell and McDonald 1999 ; Wilson 1986 ) and the bureaucracy ( Carpenter 2000 , 2001 ) to the exclusion of the president .
+Moreover , the account offered here helps clarify the political incen- tives that contributed to bureaucratic growth and gen- erated distinct patterns of state-building .
+Fourth , this article contributes to recent efforts to more fully incor- porate both Congress ( Katznelson and Lapinski 2006 ; Lapinski 2008 ) and quantitative methods ( Wawro and Katznelson 2014 ) with the study of American political development .
+Building on research that investigates presidential influence over the distribution of federal resources in the contemporary period ( Berry , Burden , and Howell 2010 ; Kriner and Reeves 2015 ) , I examine the relative influence of presidents and congressional majority par- ties over the expansion of the national post office in the late nineteenth century .
+Using an original dataset of the county-level distribution of post offices from 1876 to 1896 , I find strong and consistent evidence of presidential influence over the provision of post office locations .
+Counties represented by a president ’ s co- partisans received significantly more post offices than other counties , and these advantages were especially large under divided government and in electorally im- portant states .
+The results are robust across a wide range of model specifications , empirical strategies , and when examining the Senate .
+The findings reported here suggest that premodern presidents directed the activi- ties of the federal government to a larger degree than is commonly recognized and raise new questions about the links between the modern presidency and presiden- tial influence .
+POLITICAL INFLUENCE AND THE PRE-MODERN PRESIDENCY Concerns about the proper distribution of power across the legislative and executive branches of government have animated discussions about American politics dating back to the Articles of Confederation .
+As Madi- son wrote in Federalist 51 , “ In republican govern- ment , the legislative branch necessarily predominates. ” Scholars widely agree , however , that since at least the New Deal era the U.S. has witnessed the ascendence of the modern presidency ( Cohen 1982 ; Lowi 1972 ; 1986 ; Moe 1985 ; Neustadt 1990 ) , and modern presidents pos- sess many levers of influence that were not available to their predecessors ( e.g. , Moe and Howell 1999 ) .
+The breadth of presidential influence over lawmak- ing and the administrative state in earlier periods is much less clear .
+As the title of Woodrow Wilson ’ s ( 1885 ) dissertation attests , American politics in the nineteenth-century was dominated by Congressional Government .
+In the years following the Civil War , rising incumbency rates , the centralization of power by party leaders , and vigorous electoral competition helped to institutionalize the House of Representatives in particular ( Polsby 1968 ) .
+In an apt summary of the conventional wisdom , Lowi ( 1972 , 201 ) wrote : “ The ‘ Republican Era ’ of 1869-1901 is generally thought of as a period of congressional dominance. ” Congress was thought to dominate during this time period , moreover , because independent presidential leadership was weak or altogether nonexistent .
+As De Santis ( 1963 , 556 ) argued , “ National political power was then vested chiefly in Congress and not in the pres- idency. ” The late nineteenth-century presidency was said to have been weakened by the turbulent tenure of Andrew Johnson ( White 1958 ) and constrained by Whig commitments to the presidency ’ s limited con- stitutional role and responsibilities ( Skowronek 1993 , 52 ) .2 As Lowi ( 1972 , 301 ) pointedly observed , “ The only thing Presidents were strong about was their faith in the separation of powers , which meant steadfast pas- sivity in the policy-making process. ” Congressional dominance in the nineteenth century plays an important role in the modern presidency paradigm .
+In Constitutional Government Wilson ( 1908 ) articulated a new vision of the American political order that placed the president squarely at the center , and Lowi ( 1986 , vii ) described the realization of this vision as the founding of a “ Second Republic. ” Reflecting on these developments , proponents of the modern pres- idency thesis argued that “ the transformation of the office has been so profound that the modern presi- dencies have more in common with one another in the opportunities they provide and the demands they place on their incumbents than they have with the entire sweep of traditional presidencies from Washington ’ s to Hoover ’ s ” ( Greenstein 1982 , 3 ) .
+However , a range of scholars have questioned the merits of such a bi- furcacted periodization , arguing instead that many el- ements of the modern presidency appeared far earlier in history than generally acknowledged ( Adler 2013 ; Cohen 2012 ; Ellis and Walker 2007 ; Galvin and Shogan 2004 ; Klinghard 2005 ; 2010 ; Korzi 2004 ; Laracey 2002 ; Young 2011 ) and calling for a reconceptualization of the links between the historical and contemporary presidency ( Skowronek 1993 ; 2002 ) .
+Scholars from Leonard White ( 1958 ) to Scott James ( 2000 ) have argued that traditional accounts under- estimate the capacity for policy leadership by Gilded Age presidents .
+For instance , presidents during this era controlled patronage appointments , which enabled even the weakest presidents to successfully advance the party agenda ( Whittington and Carpenter 2003 ) .
+Bryce ( 1888 , vol .
+1 , 61 ) recognized the potential for pa- tronage appointments to exalt presidential influence : “ The president ’ s patronage is , in the hands of a skilful intriguer , an engine of far-spreading potency .
+By it he can oblige a vast number of persons , can bind their interests to his own , can fill important places with the men of his choice. ” Though appointments were heavily influenced by party politics , a president ’ s ability to mete 2 Here and elsewhere , Skowronek ( 1992 ; 1993 ; 2002 ) challenges the modern presidency paradigm , and instead emphasizes the impor- tance of understanding presidential behavior in the regimes presi- dents inhabit in political ( rather than chronological ) time .
+326 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 12 Ju l 2 01 9 at 1 8 : 52 :3 8 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 16 00 01 25 American Political Science Review Vol .
+110 , No .
+2 out appointments to advantage his party likely would have been an important indicator of a president ’ s suc- cess ( Rogowski 2015 ) .
+In addition to patronage authority , presidents over- saw a rapidly growing administrative state .
+Though bureaucracies during this period were much smaller than modern bureaucracies , presidents could appoint like-minded officials to carry out their wishes where discretion was delegated to the executive branch .
+Prior to the centralization of the budgetary process , more- over , the appropriations process was generally under- stood to provide Congress with little capacity for over- sight over agency activities and expenditures ( White 1958 ) .
+This lack of oversight over agency expenditures thus provided opportunities for bureaucratic officials to privilege the president ’ s priorities .
+Thus , despite a sizable literature ’ s insistence that “ congressional dom- inance ” characterized interbranch relations during the era of premodern presidents , presidents were hardly complicit in ensuring their subservience , and instead possessed tools that may have advantaged them vis-à- vis Congress .
+I subject the congressional dominance thesis to em- pirical scrutiny and evaluate the relative influence of presidents and Congress in the context of the Post Of- fice Department and the distribution of federal post offices.3 While other research on the distribution of federal resources in the contemporary era generally focuses on federal grant expenditures ( e.g. , Berry , Bur- den , and Howell 2010 ; Christenson , Kriner , and Reeves 2014 ; Dynes and Huber 2015 ; Kriner and Reeves 2015 ; Levitt and Snyder 1995 ; Mebane and Wawro 2002 ; Stein and Bickers 1995 ) , the distribution of post of- fices provides a direct measure of federal commitments and investment in public goods .
+As previous scholars have long recognized , however , presidential influence is difficult—if not impossible—to observe directly.4 In- stead , I study one set of observable implications that stem from the relative balance of influence across the branches of government , and examine whether a presi- dent ’ s copartisans in Congress , rather than members of the congressional majority party , were disproportion- ate recipients of post office locations in the late nine- teenth century .
+In doing so , I distinguish between the provision of benefits to a president ’ s copartisans under unified government ( in which case one can not infer whether the president or the majority party is most influential ) and divided government ( in which case ev- idence of presidential influence suggests the ability to overcome the majority party in Congress ) .
+Examining how distributive benefits accrue to legislators sheds 3 As the only other study in existing scholarship to focus on distribu- tive politics around the turn of the twentieth century , Wilson ( 1986 ) studies the provision of localized benefits in rivers and harbors legis- lation .
+Though , as Stewart ( 1989 , 67 ) explains , the rivers and harbors bill was “ the symbolic target of congressional extravagance , ” the provisions in these bills typically accounted for about two percent of domestic spending throughout the late nineteenth century .
+4 For instance , in their discussion about studying presidential power , Howell , Jackman , and Rogowski ( 2013 ) write that : “ Like quarks , we can only see its [ presidential power ] traces. ” light on how the institutional arrangements during the premodern presidency affected political outcomes .
+POLITICAL CONTROL OF THE POST OFFICE The post office enjoys a privileged position in the story of the nineteenth-century American state .
+According to Leonard White ( 1958 , 258 ) , “ The Post Office was unique in the closeness of its relations to the great mass of people. ” The post office was “ the only state organiza- tion that interacted with all citizens ” ( Carpenter 2001 , 66 ) and was “ one of the most important institutions of the day ” ( John 1995 , vii ) .
+Control over the provision of post offices was for- mally shared between the executive and legislative branches .
+Article I , Section 8 of the U.S. Constitution granted Congress the power “ to establish Post Offices and post Roads , ” and the Post Office Act of 1792 estab- lished that Congress had the sole power to designate post offices and establish postal routes .
+Congressional reins over post offices were loosened , however , with the Postal Act of 1825 , in which Congress granted the Postmaster General the authority to “ establish post offices , and appoint postmasters , at all such places as shall appear to him expedient , on the post roads that are , or may be established by law , ” though Congress retained its exclusive authority over designating postal routes .
+In practice , these arrangements formally split control over the establishment of post offices between Congress and the executive branch , as post office lo- cations could be established only when they could be served by an existing postal road.5 Though the nineteenth-century Post Office Depart- ment was among the largest and most costly depart- ments in the late nineteenth century—by 1895 its ap- propriations accounted for 18 percent of the domestic federal budget—in other ways it resembled many of the other bureaucracies .
+During this period , executive branch agencies were relatively amorphous structures and did not often have established protocols or routines ( Blevins 2014 ) .
+For instance , confusion over responsi- bility for post office decisions was reflected in whom citizens lobbied from the establishment of a post offices , as petitions submitted by local communities requesting new post offices were variously addressed to the Post- master General , their member of Congress , members of the Post Roads and Post Offices committee , and the president himself.6 These conditions made it especially 5 In the absence of postal routes , postal officials would respond to petitioners ’ requests for post offices by indicating that they were precluded from doing so .
+For instance , in a letter sent January 7 , 1871 by Acting Second Assistant Postmaster General J. L. French to Congressman Burton Cook of Illinois , the postal official wrote that “ The subject has received due attention and it is found that no post route has been established by act of Congress on which to make this extension .
+Having no doubt of the utility of such an extension it will be ordered whenever it can be legally done. ” 6 The National Archives and Records Administration contains many such petitions .
+For instance , one such petition was initially addressed to the Postmaster General , whose name was then crossed out and replaced with the name of the residents ’ House member .
+See “ Peti- tion of inhabitants of Stevens and Pope Counties , Minnesota , 1872. ” 327 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 12 Ju l 2 01 9 at 1 8 : 52 :3 8 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 16 00 01 25 Presidential Influence in an Era of Congressional Dominance May 2016 difficult for Congress to exert much direct political con- trol over nineteenth-century bureaucracies .
+Due to the sizable discretion afforded to the Postmaster General , this position was among the most powerful of the pres- ident ’ s cabinet officials .
+Communities across the country mobilized around the establishment of post offices .
+For instance , in 1894 , the New York Times reported on the “ strenuous ef- forts ” made by the Asbury Park , New Jersey Board of Trade “ to obtain additional facilities for handling the increased business of the local Post Office. ” 7 In 1884 , local residents of Gresham , Oregon petitioned the gov- ernment for a post office , and proposed renaming the city ( then variously called Powell Valley and Camp Ground ) after Postmaster General Walter Gresham if the post office request were granted.8 Presidents them- selves also took notice .
+As President Hayes wrote in his farewell message to Congress in December 1880 : “ All the inhabitants of the country are directly and personally interested in having proper mail facilities , and naturally watch the post office very closely .
+This careful oversight on the part of the people has proved a constant stimulus to improvement. ” 9 Politics played a key role in the expansion of the post office .
+As Fuller ( 2003 , xi ) writes , “ No arm of the national government .
+.
+.
+was as closely connected to American politics or subject to more pressures from various interest groups. ” Post offices were needed and distributed throughout every corner of the nation .
+This fact was not lost on political leaders .
+An article that appeared in the St. Louis Post-Dispatch on May 25 , 1886 noted that “ Post-office fights are among the most disagreeable subjects [ House ] members encounter in their careers , ” and speculated that Rep. Albert Willis of Kentucky “ will have a hard fight for renomination on account of his decision in the Louisville Post-office case. ” 10 Presidents also were frequently involved in postal affairs .
+President Grover Cleveland ’ s assistant , George F. Parker , noted ( 1909 , 266 ) that the presi- dent spent inordinate amounts of time meeting with prospective postmasters and regularly exercised his veto pen over post office appropriations—even for relatively minor sums .
+Thus , postal affairs consumed considerable attention from both members of Congress and the president .
+Though providing post offices may have been an im- portant component of political responsiveness to local communities , the patronage opportunities made avail- able through the post office were a far more important commodity for presidents and Congress.11 Debates House of Representatives Committee on the Post Office and Post Roads , NARA I RG 233 , 42A , H11.2 , Folder 4 .
+I am grateful to Cameron Blevins for sharing this example .
+7 “ Asbury Park ’ s Post Office , ” October 22 , 1894 , p. 3 .
+8 The post office was subsequently established later that year .
+For a short history of the city of Gresham , see https : //greshamoregon.gov/greshamhistory/ .
+9 See Letters and Messages of Rutherford B. Hayes 1881 , 337 .
+10 T. C. Crawford , “ Post-office Fights : Contests that will Figure in the Fall Campaign , ” p. 4 .
+11 Presidents themselves appointed postmasters of the largest post offices ( first , second , and third class post offices ) with Senate over the establishment of post offices nearly exactly reflected Gailmard and Patty ’ s ( 2012 , 98 ) observation that “ Reconstruction-era politics .
+.
+.
+[ revolved ] around the struggle between Congress and the president for control of patronage. ” According to Carpenter ( 2001 , 66 ) , these appointments were made “ far less for ser- vice than for electoral fidelity. ” The Postmaster Gen- eral ’ s office reached out to congressional representa- tives from the relevant area to serve as “ referees ” on a given postmaster appointment , though this courtesy was extended far more frequently to a president ’ s co- partisans ( Cushing 1893 ; Fowler 1945 ) .
+DISTRIBUTIVE POLITICS AND THE POST OFFICE Despite the relatively weak ( by contemporary stan- dards ) bureaucratic structures that characterized the late nineteenth century , informational asymmetries be- tween Congress and the executive branch were likely to advantage the president .
+Innovations undertaken by bureaucratic offices during this time period signifi- cantly increased the department ’ s expertise in a wide range of matters , including the demand for and perfor- mance of local post office locations .
+Executive branch expertise can advantage the president ( e.g. , Howell , Jackman , and Rogowski 2013 , chap .
+2 ) , in large part due to the tendency of Congress to defer to bureaucratic ex- perts ( e.g. , Carpenter 2001 ; Gailmard and Patty 2012 ) .
+Appointment prerogatives and bureaucratic exper- tise were likely to benefit the president ( and his con- stituencies ) across a wide range of domains .
+Mashaw ’ s study of administrative law during the late nineteenth century notes ( 2010 , 1463 ) that “ The president retained the power to appoint .
+.
+.
+and regained the removal power—a power than had been transformed into a presumptive power to direct administrative action. ” For instance , control over military and civilian appoint- ments generated considerable lobbying of executive branch officials during the Spanish-American war.12 Beyond appointments , military pensions provided to veterans and their families operated as a relatively pure form of distributive good .
+These pensions con- sumed 34 percent of the federal budget by 1894 ( Keller 1977 , 311–2 ) , and Skocpol ( 1993 ) reports that pension officials often attended to pension requests based on the importance of the recipient ’ s state in the upcom- ing presidential election .
+Bureaucratic expertise was cultivated across the federal bureaucracy , including in the Patent Office , Department of Agriculture , and the Pension Office ( Carpenter 2001 ; White 1958 ) .13 Thus , confirmation , while fourth class postmasters received their appoint- ments from the Postmaster General .
+12 Secretary of War Russell Alger ( 1901 , 30 ) wrote that “ great and constant was the pressure for appointments , ” and Naval Secretary John D. Long observed that Senators fought over even minor ap- pointments “ like a fight of wolves over a carcass ” ( Mayo 1923 , 156 ) .
+13 White ( 1958 ) documents the various ways in which officials in these departments were hired for their expertise due to the complex- ity of the subject matter .
+In case of patent applications , “ the decision to issue or refuse a patent went on according to long-established routine and in the hands of a highly trained and generally usually 328 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 12 Ju l 2 01 9 at 1 8 : 52 :3 8 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 16 00 01 25 American Political Science Review Vol .
+110 , No .
+2 the conditions for presidential influence appeared to be in place for many domains of American government during this time period .
+The postal inspector system was a key source of the post office ’ s informational advantages.14 The inspec- tors traveled to local offices throughout the country , checking accounts , investigating claims of fraud , and helping to introduce greater efficiency into the mail system .
+Due to their travels , the inspectors “ provided to Washington officials a previously unavailable view of local operations ” such that they “ became the in- formational glue of the department ” ( Carpenter 2001 , 109 ) .
+For the purposes of establishing new locations , moreover , the postal inspectors were unrivaled in their knowledge of where post offices were most needed and how these decisions would be received .
+As Carpenter ( 2001 , 109 ) explains : When local offices were eliminated , when one commu- nity ( and not another ) was chosen for free delivery , when routes were changed or service terminated for a time , com- munities expressed varying levels of dissatisfaction .
+The department maintained an ongoing calculus of the political costs and benefits of these actions , even if the moves were administratively minute .
+What the special agents brought to the equation , again , was information .
+The department could propose the elimination of a delivery route or a local office , and the agents could provide an estimation of the local reaction .
+Through bureaucratic structures like the postal in- spectors , therefore , the executive branch secured im- portant informational advantages that it could use to generate congressional complicity .
+Perhaps reflecting these informational asymmetries , Congress appeared quite deferential to Post Office Department officials .
+For instance , on February 25 , 1882 , Congress passed a law that provided the Post- master General with the authority to allow his subor- dinates to issue warrants for payments from the U.S. Treasury for postal operations .
+When it came to post office expansion , Post Office and Post Roads com- mittees in the House and Senate “ favored the wishes of postal officials , particularly when experimental re- sults warranted it ” ( Carpenter 2001 , 95 ) .
+Perhaps most importantly , Congress made little use of its key institu- tional advantage vis-à-vis the executive branch : appro- priations power .
+Rather than using detailed line-item competent body of examiners ” ( 224 ) .
+As Carpenter ( 2001 ) describes , the Department of Agriculture stood out for its commitment to sci- entific principles in the early years of the American administrative state .
+According to White ( 1958 , 243 ) , the department ’ s personnel was “ predominantly concerned with science , not seeds ” and “ highly specialized , ” and the department ’ s “ secretaries , bureau chiefs , and division heads had work to do that required competence and sta- bility ” ( 256 ) .
+Expertise was also important in the Pension Office , as “ the mass of pension legislation and adjudication defied mas- tery except by experts .
+.
+.
+.
+Two kinds of experts threaded their way through the maze : the Pension Office clerks and examiners , and the private attorneys and claim agents ” ( 210 ) .
+In all these areas , the need for bureaucratic expertise likely generated patterns of congressional deference to executive branch administration and policymaking .
+14 See Carpenter ( 2001 , chap .
+4 ) , for a detailed account of the politics and expansion of the postal inspector system .
+appropriations to control bureaucratic activity , Congress frequently allocated lump sums with respect to some of the largest items of expenditure ( Mashaw 2010 ) .
+For instance , total post office appropriations for fiscal year 1895 summed to $ 87,236,599.55 spread over 41 line-items , most of which were extremely vague and allowed the Postmaster General and his staff to deter- mine how funds were to be spent.15 Though Congress had the capacity to make specific provisions for at least some forms of particularistic goods such as rivers and harbors , Congress appeared to do so relatively infre- quently in the case of the post office .
+Congressional deference to the Post Office Depart- ment was likely to privilege the president and , through the president ’ s role as de facto party leader ( James 2000 , 2005 ) , his congressional copartisans.16 The president ’ s copartisans represent potential supporters of the pres- ident , and presidents stand to gain when their congres- sional copartisans are recognized by their constituents for providing valuable federal resources .
+Because the time period under investigation largely precedes the introduction of the Australian ballot , the electoral fates of presidents and their copartisans in Congress were linked especially tightly .
+The hypothesis outlined here contrasts with the ex- pectations offered by canonical theories of distributive politics that focus on how members of Congress se- cure resources for their constituencies .
+Universalistic theories argue that legislators engage in logrolling , and thereby secure benefits for their constituents by sup- porting other legislators ’ claims to similar resources ( Shepsle and Weingast 1987 ; Weingast 1979 ) , and thus each legislator secures a roughly equal share of the federal pie for his constituents .
+Other theories empha- size the relative success of well-positioned legislators in securing distributive benefits for their constituents , such as those serving on key committees including Ap- propriations , Ways and Means , and , in the case of post offices , the Post Office and Post Roads committees , and committee chairs or ranking members may be es- pecially well-positioned to secure additional distribu- tive benefits ( Deering and Smith 1997 ; Ferejohn 1974 ; Shepsle and Weingast 1987 ) .
+Alternatively , Congress may disproportionate rewards to majority party mem- bers .
+Because majority parties seek to cultivate a fa- vorable view of the party “ brand ” among voters , their control of the agenda may enable them to funnel fed- eral resources to the constituencies their members rep- resent ( Cox and McCubbins 2005 ) .
+The empirical tests that follow assess these hypotheses directly .
+DATA I test the congressional dominance thesis using an original dataset of county-level post offices in the late 15 For instance , in a line-item for free delivery service , Congress ap- propriated $ 12,327,685.33 , of which $ 20,000 was to be “ applied under the direction of the Postmaster General to experimental free delivery in rural communities other than towns and villages. ” Congress made no attempt to dictate which communities should be the subject of this experiment or specify how the experiment was to be conducted .
+16 See also Berry , Burden , and Howell ( 2010 ) .
+329 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 12 Ju l 2 01 9 at 1 8 : 52 :3 8 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 16 00 01 25 Presidential Influence in an Era of Congressional Dominance May 2016 nineteenth century .
+The data were collected from the United States Official Postal Guide , which was pub- lished annually from 1874 to 1954 and contained in- formation about the organization of the department , postal rates , changes to postal regulations , the names and salaries of postmasters appointed by the president , and a complete list of the locations of post offices by county and state .
+These data were collected for even years between 1876 and 1896.17 The advent of rural free delivery in 1896 altered the need for continued post office expansion , and thus 1896 is a sensible end- point for the analysis.18 The number of post offices in the data nearly doubled over the time period under investigation , from 35,650 in 1876 to 69,116 by 1896 .
+Across the entire time period , the average number of post offices per county was just over 20 , and the median county had 16 .
+However , post offices do not appear to have been distributed uniformly across the country or within states .
+While each county had at least one post office , a number of counties had well over 100 .
+The concentration of post offices was greatest in the northeast , and over this time period the number of post offices expanded dramatically across the South and West .
+While differences in the allocation of post offices were correlated with county population , popula- tion alone did not fully explain the distribution of post offices .
+For instance , though the two most populous counties in 1896 , New York ( 1.8 million ) and Cook ( 1.6 million ) counties , had similar populations , the number of post offices differed considerably .
+New York County had 59 post offices , up from 42 in 1894 , while Cook County had 225 post offices , which had increased from 174 just two years earlier .
+The variation across counties suggests that the distribution of post offices could have been influenced by political factors , and thus bears a close similarity to other research that in- vestigates the distribution of federal spending on “ high- variation ” programs ( Berry , Burden , and Howell 2010 ; Kriner and Reeves 2015 ; Levitt and Snyder 1995 ; Stein and Bickers 1995 ) .
+Figure 1 below shows how the number of post offices increased in Illinois from 1876 to 1896 .
+Darker shades indicate greater numbers of post offices .
+In 1876 , for instance , only Cook County—home of Chicago—had 40 or more post offices , while 46 counties had 15 or fewer .
+By 1886 , three additional counties ( Hancock , LaSalle , and McLean ) had 40 or more post offices , and the number of counties with 15 or fewer post of- fices had reduced to 32 .
+And by 1896 , counties in the state ’ s northeastern and southwestern industrial areas had been blanketed with new post offices .
+17 However , guides could not be located for the years 1884 or 1888 , and thus in their place I used information contained in the guides published in January 1885 and January 1889 , respectively .
+In addition , the first page of the listings of post offices is missing from the only Postal Guide that could be located for 1876 .
+Thus , data are missing for about half of the counties in Alabama for that year .
+18 As Carpenter ( 2000 , 140 ) notes , the number of post office locations peaked at 76,945 in 1901 , and then reduced considerably to 59,580 by 1910 , as post offices were closed or consolidated and replaced with postal routes ( Kernell and McDonald 1999 ) .
+The use of counties as the units of analysis confers several advantages .
+Perhaps most critically , with coun- ties I avoid geographic challenges associated with con- gressional redistricting .
+For instance , Ohio ’ s congres- sional lines were redrawn seven times between 1878 and 1892 ( Taylor 1899 ) .
+The use of congressional dis- tricts would only allow the analysis to take advantage of changes in political factors that occurred within a single redistricting cycle .
+Thus , because county lines are fixed and relatively stable across time , the analysis exploits all available changes in political alignments to identify their effects .
+At the same time , this analysis−like virtually any analysis of congressional political geography during this time period−confronts unavoidable issues related to the overlap between counties and congressional dis- tricts .
+Two sets of counties are excluded from the anal- yses that follow .
+Most obviously , I excluded counties that are split across districts .
+Distributing these coun- ties ’ post offices across congressional districts is not straightforward ; fortunately , however , only 1.3 percent of counties over this time period were shared by more than one congressional district .
+I also dropped counties in states with multiple congressional seats and used at-large districts exclusively , which applies mostly to South Dakota and Washington and represents another 1.6 percent of the counties during this time period .
+Empirical Strategy Based on the panel nature of the data , I use a differences-in-differences design to identify the effects of the political factors discussed above on the distribu- tion of post offices .
+This approach isolates the effects of political affiliation on the provision of post offices while accounting for other time-invariant characteristics of counties , both observed and unobserved , that also in- fluence the distribution of post offices .
+Specifically , I estimate the following model : ln ( post officesit ) = β0 + αi + δt + β1Mit + β2Cit +β3Pit + Xit + it , ( 1 ) where i and t index counties and years , respectively .
+Be- cause the distribution of post offices is highly skewed , I use its logged value as the dependent variable.19 The three key variables are indicators for the partisan align- ment of the legislator with the House majority party and the president .
+Members of Congress who shared the president ’ s party and were also members of the House majority party are indicated by Mit ; members of the majority party who did not share the president ’ s party are indicated with Cit ; and legislators who shared the president ’ s party and were members of the House minority party are indicated by Pit .
+Thus , legislators 19 The results shown below are not sensitive to this particular linear specification .
+I have estimated models using fixed effects poisson regression , and the substantive results are nearly identical .
+The re- sults of these models are shown in Table A.1 in the Supplementary Materials .
+330 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 12 Ju l 2 01 9 at 1 8 : 52 :3 8 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 16 00 01 25 American Political Science Review Vol .
+110 , No .
+2 FIGURE 1 .
+The Expansion of the Post Office in Illinois , 1876–1896 1876 1878 1880 1882 1884 1886 1888 1890 1892 1894 1896 1−15 16−25 26−49 40 or more Notes : Plots show the number of post offices per county in Illinois , where darker colors indicate larger numbers of post offices .
+Over this time period , the mean number of post offices per county increased from 18.5 in 1876 to 26.4 by 1896. who are members of the minority party and do not share the president ’ s partisanship are the omitted cat- egory .
+The coefficients that accompany these variables , β1 through β3 , are the main parameters of interest .
+Positive values of these parameter estimates indicate that the associated variable increased the number of post offices in a given county .
+The key comparison is between the estimates associated with Cit and Pit .
+If presidents were more influential than congressional majority parties in directing post offices to their co- partisans , then we would expect the coefficient for β3 to be larger in magnitude than the coefficient for β2 .
+The congressional dominance hypothesis , in contrast , predicts that β2 is positive and significantly greater than the estimate of β3 .
+The model also includes county fixed effects ( αi ) to control for all observed and unobserved time-invariant county attributes that may affect the dis- tribution of post offices , and time fixed effects ( δt ) to account for changes in the distribution of post offices across time .
+I also include a matrix ( Xit ) of other county , legislator , and contextual characteristics that may also be related to the distribution of post offices , which are explained below in greater detail .
+Finally , β0 is a con- stant term , it is a vector of coefficients for the control variables , and it is a random error term , clustered on state.20 The model represented by Equation ( 1 ) identifies the key parameters of interest using within-county changes in the alignment between the county ’ s congressional representative , the House majority party , and the pres- ident ’ s party .
+These changes can occur in two general ways .
+First , the county could be represented by a new legislator or a new president could take office .
+Second , majority control of the House could switch .
+The time period under investigation provides nearly ideal condi- tions for producing both kinds of variation .
+More than two-fifths ( 41.5 percent ) of the members of Congress 20 Clustering on states obtains more conservative—i.e. , larger— standard errors than clustering on county .
+331 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 12 Ju l 2 01 9 at 1 8 : 52 :3 8 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 16 00 01 25 Presidential Influence in an Era of Congressional Dominance May 2016 TABLE 1 .
+Presidential Terms , Partisan Control of Government , and the Distribution of Post Offices ( 1876–1896 ) Congress Number 44 45 46 47 48 49 50 51 52 53 54 President Grant Hayes Hayes Garfield/ Arthur Cleveland Cleveland Harrison Harrison Cleveland Cleveland Arthur Party Rep Rep Rep Rep Rep Dem Dem Rep Rep Dem Dem House Majority Dem Dem Dem Rep Dem Dem Dem Rep Dem Dem Rep Senate Majority Rep Rep Dem Dem Rep Rep Rep Rep Rep Dem Rep Number of Post Offices 35,650 38,994 41,488 44,844 50,224 51,275 57,415 59,115 64,170 67,342 69,116 elected during this time period were elected to their first term , and another 26.3 percent had served one term or only a portion of a term , implying that turnover produced frequent changes in a county ’ s congressional representative .
+Moreover , only one president ( Cleve- land ) served more than one term , no president was re-elected in successive elections , and the partisan af- filiation of the president changed in three of the four president elections that occurred during the period .
+Party control of the House switched five times .
+Of the ten congresses that met between 1877 and 1896 , party control of the House and the presidency was divided in six ; Democrats held control of both the House and the presidency in three congresses , and Republicans had unified control in two .
+These frequent changes in the occupancy of the White House and Congress ensure a great deal of variation for identifying the key coefficients .
+Table 1 below summarizes these configu- rations and details the number of post office locations contained in the data .
+Of course , the distribution of post offices was also explained by other , potentially confounding , factors .
+Thus , I estimated models with a broad set of control variables .
+First , more populous counties were likely to have more post offices , so I include the logged value of county population in all models .
+Second , because densely populated areas would have needed more post offices than rural areas , I also include a measure of population density , measured by hundreds of people per square mile .
+Third , some members of Congress may be better-positioned than others to deliver post offices to the counties in their districts .
+Thus , I include indi- cators for whether members served on the Ways and Means , Appropriations , and the Post Office and Post Roads committees.21 As previous work on distributive politics has found ( Berry , Burden , and Howell 2010 ) , there may also be partisan differences in the provision 21 Appropriations for the Post Office Department was handled by the Appropriations Committee until 1885 , when the Post Office and Post Roads Committee was awarded jurisdiction ( Stewart 1989 , chap .
+3 ) .
+of post offices ; thus , I include an indicator for counties represented by a Democrat .
+The electoral environment and the member ’ s expe- rience may also have affected the provision of post of- fices .
+For instance , presidents and their administrations may have strategically targeted states in which they narrowly won or lost election ; thus , I include an indi- cator ( Close presidential election ) for whether a county is located in a state in which the margin of victory was five percentage points or less in the most recent pres- idential election .
+Similar dynamics may have affected legislators ’ incentives to secure post offices , and thus I include an indicator ( Marginal district ) for whether the legislator ’ s margin of victory in the most recent con- gressional election was five percentage points or less.22 Moreover , inexperienced legislators may be less effec- tive at securing distributive benefits for their districts ; thus , I include an indicator for counties represented by a first-term member of Congress .
+Following Dynes and Huber ( 2015 ) , I also estimate models in which I distinguish the provision of post of- fices due to the partisanship of elected officials from the partisanship of the electorate.23 Thus , I include a term President aligned with county , which inter- acts the indicator for being represented by a member of the president ’ s party with the district ’ s underlying partisan disposition.24 Positive ( negative ) values indi- cate counties that were more ( less ) Republican than the average county .
+If presidential administrations attempt to deliver benefits to their copartisan constituencies , then the coefficient associated with President aligned 22 Using continuous variables to characterize margins of victory in both these cases yields substantively identical results .
+23 For instance , a heavily Republican county represented by a mem- ber of the Republican majority could receive a large number of post offices either because the legislator is advantaged in securing post offices because she is a member of the majority party , or because the majority party wishes to distribute benefits to like-minded voters .
+24 This latter measure is calculated using the county two-party vote share for the Republican presidential candidate in the most recent election , minus the average proportion of Republican vote share across all counties , and thus represents the Republican performance in that county relative to the others .
+332 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 12 Ju l 2 01 9 at 1 8 : 52 :3 8 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 16 00 01 25 American Political Science Review Vol .
+110 , No .
+2 TABLE 2 .
+Explaining the Distribution of Post Offices , 1876–1896 Independent Variables ( 1A ) ( 1B ) ( 2 ) ( 3 ) ( 4 ) President ’ s Party 0.064∗∗∗ ( 0.008 ) President ’ s Party and Majority Party ( β1 ) 0.026∗∗∗ 0.031∗∗∗ 0.024∗∗∗ 0.021∗∗ ( 0.007 ) ( 0.006 ) ( 0.007 ) ( 0.009 ) Majority Party Only ( β2 ) 0.035 0.000 0.001 0.021 ( 0.029 ) ( 0.031 ) ( 0.034 ) ( 0.039 ) President ’ s Party Only ( β3 ) 0.137∗∗∗ 0.123∗∗∗ 0.124∗∗∗ 0.126∗∗∗ ( 0.036 ) ( 0.039 ) ( 0.039 ) ( 0.046 ) County Population ( ln ) 0.352∗∗∗ 0.357∗∗∗ 0.406∗∗∗ 0.407∗∗∗ 0.400∗∗∗ ( 0.039 ) ( 0.038 ) ( 0.050 ) ( 0.052 ) ( 0.053 ) Population Density 0.016∗∗ 0.016∗∗ − 0.030 − 0.039 − 0.034 ( 0.007 ) ( 0.007 ) ( 0.055 ) ( 0.071 ) ( 0.068 ) Post Office and Post Roads Committee 0.023 0.019 0.018 ( 0.018 ) ( 0.017 ) ( 0.018 ) Appropriations Committee − 0.019 − 0.020 − 0.019 ( 0.019 ) ( 0.017 ) ( 0.017 ) Ways and Means Committee 0.001 0.003 0.003 ( 0.012 ) ( 0.012 ) ( 0.012 ) Committee Chair or Ranking Member − 0.006 − 0.010 − 0.009 ( 0.005 ) ( 0.007 ) ( 0.007 ) Democrat 0.027∗ 0.021 0.013 ( 0.015 ) ( 0.013 ) ( 0.012 ) Close Presidential Election − 0.048∗∗ − 0.047∗∗ ( 0.018 ) ( 0.018 ) Marginal District − 0.016 − 0.015 ( 0.009 ) ( 0.009 ) First term − 0.002 − 0.003 ( 0.007 ) ( 0.007 ) President aligned with county 0.085∗∗ ( 0.040 ) MC Aligned with County − 0.067∗∗ ( 0.029 ) ( Intercept ) − 0.823∗∗∗ − 0.912∗∗∗ − 1.325∗∗∗ − 1.313∗∗∗ − 1.252∗∗∗ ( 0.360 ) ( 0.343 ) ( 0.456 ) ( 0.477 ) ( 0.478 ) N ( total ) 26425 26425 22334 21348 21057 N ( unique ) 2531 2531 2388 2318 2311 R2 ( within ) 0.605 0.609 0.636 0.640 0.646 β2 = β3 48.75∗∗∗ 53.08∗∗∗ 52.71∗∗∗ 37.36∗∗∗ β1 = β3 8.41∗∗∗ 5.97∗∗ 6.50∗∗ 5.12∗∗ Notes : Entries are linear regression coefficients and standard errors , clustered by state .
+The dependent variable is the number of post offices per county ( logged ) .
+County and year fixed effects were estimated but not reported .
+The last two rows report F statistics from Wald tests for the equality of the coefficients associated with the partisan affiliation of a county ’ s congressional representative .
+∗∗∗ Indicates p < 0.01 ; ∗∗ indicates p < 0.05 ; ∗ indicates p < 0.10 ( all two-tailed tests ) .
+with county should be positive .
+I construct an analo- gous variable that measures MC aligned with county and uses the county-level congressional election vote share .
+RESULTS Table 2 below shows the results of the fixed effects regression analyses described above .
+I first estimated a reduced version of Equation ( 1 ) , in which I simply regressed the logged number of post offices on an in- dicator for whether counties were represented by a legislator from the president ’ s party , along with county population ( logged ) and population density .
+Column ( 1A ) displays the coefficient estimates and accompa- nying standard errors .
+The results of this rather sim- ple model suggest that being represented by a mem- ber of the president ’ s party conferred clear benefits .
+On average , counties represented by a president ’ s co- partisans received about 6 percent more post offices than counties not represented by a member of the president ’ s party .
+These results provide preliminary evidence , then , that the president ’ s legislative copar- tisans received disproportionate shares of distributive benefits .
+333 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 12 Ju l 2 01 9 at 1 8 : 52 :3 8 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 16 00 01 25 Presidential Influence in an Era of Congressional Dominance May 2016 Column ( 1B ) displays results using the full set of indicators for the partisan alignment of a county ’ s legislator , along with the population and population density variables .
+All three indicators are positive , in- dicating that counties represented by members of the House majority party and/or the president ’ s party re- ceived more post offices than counties represented by minority party members not aligned with the pres- ident , though their magnitudes vary .
+The coefficient for President ’ s party and majority party ( β1 ) indicates that members of the president ’ s party under unified government received 2 to 3 percent more post offices , while the coefficient for President ’ s party only ( β3 ) in- dicates that members of the president ’ s party under divided government received a considerably larger in- crease in post offices ( 13.7 percent ) .
+The coefficient for Majority party only ( β2 ) is positive ( 0.035 ) , but not statistically significant .
+Formal comparisons of β2 and β3 ( shown in the bottom panel of the table ) further reveal that the coefficient for President ’ s party only is statistically distinguishable from the coefficient for Majority party only .
+Moveover , while counties repre- sented by a president ’ s copartisans received additional post offices compared to counties represented by mem- bers of the minority party not aligned with the presi- dent , this increase was significantly larger when the president ’ s copartisans were the minority party in the House .
+The results from more fully specified regression models provide strong and consistent support for the findings from the model shown in column ( 1B ) .
+For instance , in model ( 2 ) , I included indicators for whether legislators served on one of the key appropriations committees ( Post Office and Post Roads , Appropria- tions , or Ways and Means ) , or served as a committee chair or ranking member , and their partisanship .
+Model ( 3 ) contains indicators for whether the margin of vic- tory in the most recent presidential and congressional elections was five percentage points or smaller , and whether the county was represented by a first term legislator .
+Model ( 4 ) includes the measures of con- stituency partisanship in presidential and congressional elections , as suggested by Dynes and Huber ( 2015 ) .
+Across all these additional specifications , being repre- sented by a presidential copartisan is associated with a statistically significant increase ( between 12 and 13 per- cent ) in post offices compared to being represented by a member of the minority party under unified govern- ment .
+Importantly , the coefficient for President ’ s party only is always substantially larger in magnitude than and statistically distinguishable from the coefficient for Majority party only .
+The recovered coefficients for the control variables are also of interest for understanding distributive poli- tics during the late nineteenth century .
+First , the coef- ficient for county population is consistently between 0.35 and 0.41 .
+As the discussion above highlighted , this result implies that the provision of post offices did not perfectly correspond with growing populations , but rather increased at a rate about two-fifths the rate of population increase .
+The coefficient estimates for population density are somewhat inconsistent across the various models .
+In the simple model ( 1B ) , the co- efficient is positive and statistically significant , but is negative and not distinguishable from zero in models 2 through 4 .
+None of the models provides evidence that members of the relevant committees secured greater resources .
+The coefficient for membership on the Post Office and Post Roads Committee is consistently positive , be- tween 0.021 and 0.023 , yet is not statistically different from zero .
+One potential explanation is that the Post Office and Post Roads committee was relatively small , ranging from 9 to 14 members during this time pe- riod , and represented approximately 3 percent of the counties in the data set .
+Thus , there may simply be too few observations to reliably estimate the effect of com- mittee membership .
+The coefficient associated with Appropriations committee membership is consistently negative , while the coefficients for Ways and Means membership include zeroes in the first two places to the right of the decimal .
+Furthermore , I find no evi- dence that serving as a committee chair or a ranking member is associated with increased numbers of post offices .
+In addition , while there is suggestive evidence that counties represented by Democratic members of Congress received more post offices than counties rep- resented by Republicans , the coefficient is statistically significant only for model 2 .
+The results also provide limited evidence that post offices were strategically allocated to more electorally competitive environments .
+The coefficient for Close presidential election is consistently negative and statis- tically significant , indicating that counties in states with close presidential elections actually received fewer post offices .
+Because states tended to be consistently com- petitive ( or not ) during the entire time period stud- ied here , this negative coefficient may result from changes in electoral competitiveness in just a handful of states .
+There also is no evidence that marginal congres- sional districts are associated with increased numbers of post offices ; the coefficient is consistently negative and small in magnitude .
+Additionally , first-term mem- bers of Congress appeared to be no less successful than more experienced legislators in securing post offices for the counties in their districts .
+Finally , as the coefficients in column ( 4 ) show , con- sistent results are obtained when accounting for con- stituency partisanship .
+The coefficient for President aligned with county suggest that counties who sup- ported the president and are represented by a pres- idential copartisan received larger shares of post of- fices .
+However , I find no evidence that majority party members of Congress directed increased numbers of post offices to counties that provided them with higher levels of support ; in fact , the coefficient indicates a negative relationship .
+The results above are suggestive of strategies pres- idents may have used to advantage his congressional copartisans .
+The entries in the bottom row of Table 2 show that the president ’ s copartisans were significantly more advantaged under divided government ( when they were in the minority party ) than under unified government .
+These results are generally consistent with 334 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 12 Ju l 2 01 9 at 1 8 : 52 :3 8 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 16 00 01 25 American Political Science Review Vol .
+110 , No .
+2 insights from a model of presidential influence over distributive policy ( McCarty 2000 ) , in which presidents direct benefits toward favored constituencies such that the benefits accumulate at greater rates as the pres- ident ’ s constituency size reduces .
+As Table 1 shows , overall increases in post offices did not appear to vary with instances of unified and divided government ; given this rather fixed budget , increases in the number of presidential copartisans would decrease the aver- age difference between the benefits received by his constituency and members of the opposite party.25 In supplementary analyses , I test this proposition more directly by interacting the indicators for partisan align- ment with the proportion of House seats held by the legislator ’ s party , and the results provide further sup- port for this explanation.26 Alternative Dependent Variable The analyses above provide strong support for the role of presidential copartisans in securing post offices for their constituents .
+To address the possibility that mem- bers of Congress were more concerned with maximiz- ing increases in resources between one Congress and the next , I estimated models where the dependent vari- able is the change in the number of post offices between Congress t − 1 and Congress t. On average , the number of post offices increased by 1 , though nearly ten percent of counties experienced an increase of 5 or more post offices .
+The results are shown below in Table 3.27 Across all four models , the results again show that being repre- sented by a presidential copartisan conferred signif- icantly larger increases in the provision of post of- fices comapred with being represented by a member of the majority party.28 The other substantive conclu- sions from Table 2 remain unchanged with the excep- tion of counties represented by first term members of Congress , where the increase in post offices was sig- nificantly smaller compared to counties represented by more experienced legislators .
+Thus , in combination with the results from Table 2 , the findings in Table 3 show that not only did counties receive more post offices when they were represented by a presidential 25 The model in McCarty ( 2000 ) focuses on the role of the execu- tive veto in influencing the distribution of government largesse .
+The present applications differs from McCarty ’ s model in that vetoes of congressional legislation were not used to affect the distribution of post offices .
+Instead , the key point is that when distributive goods are relatively capped and presidents seek to advantage their copartisans , each of their copartisans can expect to receive fewer benefits as the size of their legislative caucus increases .
+26 Please see Table A.2 in the Supplementary Materials .
+27 The estimates are from linear regression models .
+Though the de- pendent variable is a count of the increase in post offices , a few counties experienced decreases in post offices , thereby precluding the use of count models .
+However , I have estimated fixed effect poisson models with this dependent variable , excluding the coun- ties that experienced decreases in the number of post offices , and the results are substantively identical .
+Please see Table A.3 in the Supplementary Materials .
+28 For these models , the population variable is characterized as the increase in population ( in thousands ) from one Congress to the next .
+copartisan , but the number of post offices in those counties also increased at higher rates .
+Robustness Checks The results shown in Tables 2 and 3 are robust to several other alternative models and subsets of observations .
+First , all post offices were not the same .
+Some post offices were large , grand facilities that served many thousands of people and offered the opportunity for large numbers of patronage positions .
+The vast ma- jority , however , were simple fourth class post offices stationed in rural locations .
+Thus , to examine the pos- sibility that the results above are confounded by differ- ences in the kinds of post offices awarded to different localities , I estimated the models shown in Table 2 fo- cusing just on the distribution of these fourth class post offices .
+The results are strongly consistent with those shown above.29 Second , the results presented above are also robust to accounting for within-legislator changes in the align- ment of presidential copartisanship and affiliation with the majority party .
+I re-estimated the models shown above using legislator fixed effects in which the coeffi- cients for President ’ s party and majority party , Majority party only , and President ’ s party only are identified using within-member changes in partisan control of the presidency and the House.30 These results once again indicate that counties represented by presidential copartisans , particularly under divided government , received substantially more post offices than other legislators.31 Third , though the differences-in-differences design accounts for time-invariant county characteristics , sev- eral time-varying characteristics may also confound the relationship between political factors and the distri- bution of post offices .
+Because the country changed rapidly over this time period , I included controls for the percentage of the county population that lived in ur- ban areas , and the illiteracy rates in counties.32 Though these county characteristics are significantly associated with the distribution of post offices ( the provision of post offices was lower in counties with higher illiter- acy rates and more urban populations ) , the substantive patterns shown in Table 2 remain unchanged .
+Fourth , the results are not sensitive to the exclu- sion of the South ( defined as the 11 states of the con- federacy ) .
+After Reconstruction , both Republican and Democratic presidents prioritized expanding the ad- ministrative state in the South , thus raising questions about whether these efforts are responsible for the find- ings reported above .
+While I find that the rate of post office expansion was greater in the South than it was in 29 See Table A.4 in the Supplementary Materials .
+30 In doing so , I dropped the indicator for Democrat , as this is a time-invariant legislator characteristic .
+31 See Table A.5 in the Supplementary Materials .
+32 Urban population data were available from the U.S. Census , and is linearly interpolated between Censuses .
+Illiteracy rates , however , were only available for 1870 and 1910 ; I performed a similar lin- ear interpolation , though the results should be interpreted more cautiously .
+335 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 12 Ju l 2 01 9 at 1 8 : 52 :3 8 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 16 00 01 25 Presidential Influence in an Era of Congressional Dominance May 2016 TABLE 3 .
+Explaining Increases in the Distribution of Post Offices , 1876–1896 Independent Variables ( 1 ) ( 2 ) ( 3 ) ( 4 ) President ’ s Party and Majority Party ( β1 ) 0.325∗∗∗ 0.338∗∗∗ 0.328∗∗∗ 0.255∗∗∗ ( 0.070 ) ( 0.074 ) ( 0.075 ) ( 0.094 ) Majority Party Only ( β2 ) 0.435 0.342 0.292 0.231 ( 0.280 ) ( 0.288 ) ( 0.320 ) ( 0.313 ) President ’ s Party Only ( β3 ) 1.001∗∗∗ 0.934∗∗ 0.912∗∗ 0.915∗∗ ( 0.346 ) ( 0.351 ) ( 0.371 ) ( 0.368 ) Lagged Number of Post Offices − 0.199∗∗∗ − 0.202∗∗∗ − 0.211∗∗∗ − 0.212∗∗∗ ( 0.015 ) ( 0.020 ) ( 0.023 ) ( 0.025 ) Increase in County Population ( 1000s ) 0.037 0.168∗∗ 0.105∗ 0.105∗ ( 0.058 ) ( 0.079 ) ( 0.057 ) ( 0.057 ) Population Density 0.874∗∗ 1.295∗∗∗ 1.391∗∗∗ 1.399∗∗∗ ( 0.416 ) ( 0.411 ) ( 0.398 ) ( 0.413 ) Post Office and Post Roads Committee 0.229∗ 0.178 0.171 ( 0.123 ) ( 0.126 ) ( 0.128 ) Appropriations Committee − 0.025 − 0.091 − 0.080 ( 0.134 ) ( 0.134 ) ( 0.134 ) Ways and Means Committee 0.048 − 0.022 − 0.017 ( 0.145 ) ( 0.151 ) ( 0.153 ) Committee Chair or Ranking Member − 0.034 − 0.142∗ − 0.135∗ ( 0.046 ) ( 0.072 ) ( 0.072 ) Democrat − 0.073 − 0.106 − 0.073 ( 0.071 ) ( 0.076 ) ( 0.077 ) Close Presidential Election − 0.269 − 0.271 ( 0.186 ) ( 0.183 ) Marginal District − 0.002 − 0.001 ( 0.086 ) ( 0.087 ) First Term − 0.176∗∗ − 0.166∗∗ ( 0.080 ) ( 0.076 ) President Aligned with County 0.065 ( 0.258 ) MC Aligned with County 0.436 ( 0.310 ) ( Intercept ) 2.834∗∗∗ 2.913∗∗∗ 3.391∗∗∗ 3.439∗∗∗ ( 0.365 ) ( 0.361 ) ( 0.445 ) ( 0.456 ) N ( total ) 23876 20278 19496 19232 N ( unique ) 2527 2386 2316 2311 R2 ( within ) 0.141 0.146 0.151 0.152 β2 = β3 35.35∗∗∗ 32.51∗∗∗ 35.79∗∗∗ 31.49∗∗∗ β1 = β3 4.62∗∗ 3.45∗ 2.80 2.53∗ Notes : Entries are linear regression coefficients and standard errors , clustered by state .
+The dependent variable is the increase in the number of post offices in county i between year t and t−1 .
+County and year fixed effects were estimated but not reported .
+The last two rows report F statistics from Wald tests for the equality of the coefficients associated with the partisan affiliation of a county ’ s congressional representative .
+∗∗∗ Indicates p < 0.01 ; ∗∗ indicates p < 0.05 ; ∗ indicates p < 0.10 ( all two-tailed tests ) .
+other regions of the country , models that exclude the South generate results consistent with those shown in Tables 2 and 3 .
+Finally , the results shown above do not appear to be driven by any particular president or year .
+I re- estimated model ( 4 ) shown in Table 2 one at a time while dropping observations associated with each of the presidential administrations and years .
+The coef- ficient for President ’ s party only is statistically signifi- cant in each of these models , and the magnitude of the coefficient ranges from 0.087 to 0.158 .
+In each instance it is statistically larger in magnitude than the coeffi- cient for Majority party only .
+While the president ’ s copartisans could have benefited more during some presidential administrations than in others , the pat- terns shown here do not appear to be attributable to the idiosyncracies of any particular president or Congress .
+Thus , across a wide range of model specifications , dependent variables , subsets of counties and presi- dential administrations , and modeling strategies , I find strong , consistent , and robust evidence that counties represented by legislators who shared the president ’ s party received substantially more post offices .
+At the same time , the results provide limited or no evidence that counties represented by members of the House 336 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 12 Ju l 2 01 9 at 1 8 : 52 :3 8 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 16 00 01 25 American Political Science Review Vol .
+110 , No .
+2 FIGURE 2 .
+Electoral Context and Presidential Targeting , 1876–1896 Notes : The plotted points show the percentage point advantage in the allocation of post offices for counties represented by presidential copartisans under divided government , compared with majority party legislators under divided government ( Majority party only ) , legislators who shared the president ’ s partisanship and were members of the majority party ( Majority party and president ’ s party ) , and minority party legislators under unified government ( Minority party only ) .
+Hostile states are where the president ’ s party lost by more than 10 percentage points ; Swing states are where the margin of victory was less than 10 perecentage points ; and Core states are where the president ’ s party won by more than 10 percentage points .
+Positive numbers indicate that counties represented by presidential copartisans under divided government were advantaged relative to counties represented by other legislators .
+For instance , in Swing states , counties represented by a presidential copartisan legislator under divided government received 5.9 percent more post offices relative to counties represented by a member of the majority party under divided government .
+The horizontal lines represent the 95 percent confidence intervals .
+The dashed vertical lines are located at zero , and indicate no difference in the number of county-level post offices .
+majority party , key committees , or who served as com- mittee chairs or ranking members received increased numbers of post offices .
+Recipients of Presidential Targeting Presidents may have had incentives to target some con- stituencies more than others , even within their own parties .
+Some of these decisions may have been pred- icated upon electoral goals .
+As the nominal heads of their party , presidents have incentives both to maxi- mize their party ’ s opportunity to win the next presi- dential election as well as reward constituencies that provide reliable bases of support.33 In addition , pres- idents may have targeted resources toward key mem- bers of Congress .
+For instance , post offices ( and the attendant patronage jobs ) could have been used to se- cure votes from or reward support from key members of Congress .
+I investigated how the distribution of post offices interacted with the president ’ s partisan goals by distin- guishing counties based on the electoral context of their states .
+Due to both the Electoral College and the de- centralized nature of the party system in the late nine- teenth century , presidents may have had incentives to 33 For a discussion of presidential incentives during the Republican era , see Rogowski ( forthcoming ) .
+privilege certain states over others in awarding post of- fices .
+Thus , I estimated models in which I interacted the indicator for the partisan alignment between a county ’ s congressional representative and the president based on the state ’ s electoral context .
+Following Kriner and Reeves ( 2015 ) , I characterized swing states as those where the previous presidential election was decided by 10 percentage points or less , and core states as those where the president won by more than 10 percentage points .
+The omitted category , hostile states , indicates counties in states where the president lost by more than 10 percentage points .
+I re-estimated the model shown in column ( 4 ) of Table 2 , and interacted the indicators for the partisan alignment of a county ’ s congressional representative with the indicators for state electoral context .
+Figure 2 below graphically displays the results.34 Each plot depicts the relative advantages in the distri- bution of post offices enjoyed by counties represented by the president ’ s copartisans under divided govern- ment .
+The plotted points shows the percentage point difference between the number of post offices awarded to counties represented by a presidential copartisan in divided government , and the number of post offices awarded to counties represented by legislators with different partisan alignments .
+Counties in hostile states 34 The coefficient estimates can be found in Table A.6 in the Supple- mentary Materials .
+337 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 12 Ju l 2 01 9 at 1 8 : 52 :3 8 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 16 00 01 25 Presidential Influence in an Era of Congressional Dominance May 2016 do not stand to receive systematically larger numbers of post offices based on the partisan alignment of their congressional representative .
+Under divided govern- ment , presidential copartisans appear to receive fewer post offices than members of the majority party , yet this coefficient estimate is not distinguishable from zero .
+None of the other coefficient estimates are dis- tinguishable from zero , either .
+Thus , counties in states that strongly opposed the president do not stand to gain additional post offices on the basis of the parti- san alignment of the legislator who represents them .
+Counties in both Swing and Core states , however , ben- efitted substantially when represented by a member of the president ’ s party .
+For instance , in swing states , counties represented by the president ’ s party under divided government received 5.9 percent more post offices than counties represented by the minority party under divided government .
+In core states , the advan- tage was even larger , at 10.7 percentage points.35 Coun- ties represented by presidential copartisans in divided government also fared considerably better than coun- ties in both swing and core states under unified govern- ment when those counties were represented by either majority or minority party members .
+On the whole , therefore , presidential influence in the distribution of federal post offices was felt most strongly in states that were most important to the president and his party .
+I also explored whether post offices were targeted to particular members of Congress .
+For instance , pres- idents may have used resources such as post offices to enhance the electoral prospects of their copartisans , in which they would have had the strongest incentives to direct post offices toward their copartisans in marginal districts .
+Presidents could also used vote-buying strate- gies in which they used post offices to secure legislative support from members of the opposite party , in which case presidents may have targeted more moderate leg- islators from the other party whose support would be “ cheapest ” to obtain .
+The results of these supplemen- tary analyses do not provide convincing evidence in support of either of these potential explanations ; in fact , somewhat surprisingly , the results indicate that presidential copartisans in marginal districts received fewer post offices compared to the president ’ s coparti- sans who won election by larger margins.36 It is possi- ble , however , that the relatively short time span and small number of congresses studied here limits the ability to more systematically study how these political characteristics interacted with the partisan alignment between legislators and the president .
+Evaluating the Patronage Mechanism : Senate Results Though prior research on distributive politics has fo- cused almost exclusively on the role of the House , the 35 The difference between these figures , however , falls short of con- ventional levels of statistical significance ( p < 0.227 ) .
+36 The full table of results can be found in Table A.7 in the Supple- mentary Materials .
+account offered here regarding the president ’ s role in directing resources to his copartisans applies just as well to the Senate .
+Here I extend the empirical results offered above to the U.S. Senate over the same time period .
+Beyond offering a robustness check on the House results , analyzing the Senate allows me to study the patronage mechanism more directly .
+In comparison with members of the House , who may have desired post office locations for electoral purposes , Senators were chosen by state legislatures during this time period to serve the interests of the state parties .
+Thus , Senators would have strong incentives to procure post offices during this time period specifically for the purposes of securing valuable patronage positions .
+To conduct this analysis , I aggregate post office and population data at the state level .
+At the outset , though , I acknowledge that analyz- ing the Senate introduces several empirical challenges .
+Most critically , because each state is served by two sen- ators , I can not isolate the effect of partisan alignments between an individual senator , the majority party , and the president .
+Instead , I estimate models with two indicators that reflect the partisan composition of a state ’ s Senate delegation with respect to the president .
+Specifically , I include an indicator for whether both senators from state i in congress t were members of the president ’ s party , and an additional indicator for whether neither senator belonged to the president ’ s party .
+Thus , split delegations are the omitted category .
+As in Table 2 , the dependent variable is the logged number of post offices and standard errors are clus- tered on states .
+I also include state and year fixed effects .
+The results are shown below in Table 4 .
+Column ( 1 ) displays the estimates from a simple model with the indicators for the state ’ s Senate partisan alignment and population .
+The coefficient for Both president ’ s party is positive and indicates that states served by two members of the president ’ s party received a 6.6 percent increase in post offices relative to states with split dele- gations , though the coefficient falls shy of conventional levels of statistical significance ( p = 0.13 ) .
+The coeffi- cient for Neither president ’ s party , however , is negative ( though also not distinguishable from zero ) , suggesting that states represented by two senators from the party opposite the president fared worse than states with split delegations .
+Importantly , this coefficient is statis- tically distinguishable ( p < 0.001 ) from the coefficient for Both president ’ s party .
+In column ( 2 ) , however , I include indicators for whether at least one senator served on the Post Office and Post Roads and Appro- priations committees .
+Column ( 3 ) adds an indicator for whether the previous presidential election was de- cided by 5 percentage points or less .
+Across these latter two models , the coefficient for Both president ’ s party is positive , larger in magnitude , and statistically signifi- cant .
+The coefficient for Neither president ’ s party , how- ever , is extremely small and not distinguishable from zero .
+On the whole , the results provide evidence that the partisan alignment between the president and a state ’ s senate delegation had importance consequences for 338 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 12 Ju l 2 01 9 at 1 8 : 52 :3 8 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 16 00 01 25 American Political Science Review Vol .
+110 , No .
+2 TABLE 4 .
+Senate Delegations and the Distribution of Post Offices , 1876–1896 Independent Variables ( 1 ) ( 2 ) ( 3 ) Both President ’ s Party ( β1 ) 0.066 0.082∗ 0.073∗ ( 0.043 ) ( 0.042 ) ( 0.040 ) Neither President ’ s Party ( β2 ) − 0.011 0.005 0.000 ( 0.037 ) ( 0.038 ) ( 0.037 ) State Population ( ln ) 0.503∗ 0.492∗∗ 0.480∗∗ ( 0.262 ) ( 0.236 ) ( 0.232 ) Post Office and Post Roads Committee − 0.014 − 0.014 ( 0.027 ) ( 0.026 ) Appropriations Committee 0.066 0.064 ( 0.039 ) ( 0.039 ) Close Presidential Election − 0.048∗ ( 0.026 ) ( Intercept ) − 0.198 − 0.095 0.080 ( 3.645 ) ( 3.297 ) ( 3.246 ) N ( total ) 309 309 309 N ( unique ) 36 36 36 R2 ( within ) 0.808 0.818 0.824 β1 = β2 26.36∗∗∗ 28.78∗∗∗ 21.05∗∗∗ Notes : Entries are linear regression coefficients and standard errors .
+The dependent variable is the number of post offices per state ( logged ) .
+State and year fixed effects were estimated but not reported .
+The last row reports F statistics from Wald tests for the equality of the coefficients associated with the partisan affiliation of a state ’ s Senate delegation .
+∗∗∗ Indicates p < 0.01 ; ∗∗ indicates p < 0.05 ; ∗ indicates p < 0.10 ( all two-tailed tests ) .
+the distribution of post office locations .
+Consistent with the results from the House analysis , states that were represented by a unified bloc of the president ’ s co- partisans received more post offices than either states represented by a split delegation or whose senators both were members of the opposition party .
+I continue to find no evidence that committee membership was a significant predictor of the distribution of post offices , while states with close presidential elections received fewer post offices .
+Finally , the Senate analysis offers a useful check to ensure that the county-level analyses for the U.S. House were not an artifact of a particular level of analysis or aggregation .
+CONCLUSION Conventional wisdom dictates that modern presidents exercise a measure of influence over the goings-on of government that eluded presidents in earlier eras .
+Though Andrew Jackson , James K. Polk , and Abra- ham Lincoln are often acknowledged as exceptionally strong nineteenth-century presidents , policymaking in the nineteenth century is said to have been marked by congressional dominance .
+The subservience of both presidents and bureaucratic officials to Congress led Woodrow Wilson ( 1885 , 177 ) to declare that “ In so far as the President is an executive officer he is the servant of Congress ; and the members of the Cabinet , being confined to executive functions , are altogether the servants of Congress. ” This article provides clear evidence that bureaucratic policymaking in the Gilded Age systematically advan- taged the president ’ s congressional copartisans .
+Coun- ties represented by members of the president ’ s party received substantially more post offices , and the advan- tages conferred to presidential copartisans were signif- icantly greater under divided government .
+The findings reported here suggest that presidents played substan- tially greater roles during this period in directing the activities of the federal government than scholars have typically acknowledged .
+The results revise common understandings about the roles of presidents and Congress in expanding the federal administrative state .
+In contrast with ac- counts that emphasize congressional leadership over initiatives such as rural free delivery ( Kernell and McDonald 1999 ) , this article documents the influ- ence of the president over the expansion of the post office .
+This conclusion nicely extends Carpenter ’ s ( 2000 , 2001 ) argument that bureaucratic innovation was spurred by executive branch politics , and comple- ments James ’ s ( 2006 , 59 ) contention that “ patronage discipline [ was ] systematically applied to service the electoral welfare of the president ’ s party ” during the post-Reconstruction era .
+Identifying the incentives for political officials to engage in such behavior—such as how and when members of Congress and the presi- dent received electoral benefits from federal resources such as post offices—is an important topic for future research .
+This article provides systematic empirical evidence in support of a growing chorus of research that raises 339 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 12 Ju l 2 01 9 at 1 8 : 52 :3 8 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 16 00 01 25 Presidential Influence in an Era of Congressional Dominance May 2016 questions about the utility of the modern presidency paradigm ( Adler 2013 ; Cohen 2012 ; Ellis and Walker 2007 ; Galvin and Shogan 2004 ; Klinghard 2010 ; Ko- rzi 2004 ; Laracey 2002 ; Skowronek 1992 ; 1993 ; 2002 ; Young 2011 ) .
+While the challenges facing the coun- try in the wake of two world wars and the Great De- pression may have indeed exalted presidential power , the evidence suggests that the divide between pre- modern and modern presidencies may not be as dra- matic or as deep as scholarship on the presidency indicates .
+Indeed , many of the key institutional ad- vantages afforded modern presidents—including the ability to influence agency behavior—were also avail- able to presidents in earlier eras , though perhaps to different degrees .
+Several central theoretical implications follow .
+First , research on the presidency and the separation of pow- ers should make more explicit the institutional changes that facilitated greater presidential influence during the modern presidency .
+Though recent work by Co- hen ( 2012 ) takes an important step in this direction , additional theoretical and empirical work is needed to trace and explain the development of presidential in- fluence within the separation of powers .
+Second , pres- idents may have played a greater role in the construc- tion of the bureaucracy than generally acknowledged ; for instance , in directing where the federal postal sys- tem expanded , presidents helped shape the trajectory of this key bureaucratic institution .
+As Moe ( 1987 ) ar- gued , explaining bureaucratic activity requires looking beyond the halls of Congress and instead focusing on the larger institutional environment .
+A few important caveats apply .
+First , though the the- oretical discussion posited that the president ’ s coparti- sans were likely advantaged due to congressional def- erence to Post Office Department expertise , the data do not allow me to evaluate this mechanism system- atically .
+Gailmard and Patty ( 2012 ) highlight several examples of variation in expertise across nineteenth- century bureaucracies , and future research could fur- ther explore the implications of this variation for pres- idential influence over policy .
+Second , and related to this point , while the findings in this article indicate that presidents played a significant role in directing the lo- cations of post offices , the theoretical logic outlined in this article suggests that appointment prerogatives and expertise served as key levers of presidential influence more generally in periods that preceded what scholars have termed the modern presidency .
+Indeed , owner- ship of property rights over appointments and bureau- cratic expertise was not confined simply to the Post Office Department , and thus presidents were likely able to exert substantial influence in the conduct of government affairs in other domains as well , includ- ing matters related to war , military pensions , and the Departments of Agriculture and Interior .
+However , identifying the degree of ( and limits to ) presidential in- fluence over other forms of policymaking and govern- mental activity , across historical periods and through various mechanisms , remains an important task in the study of political institutions and American political development .
+SUPPLEMENTARY MATERIAL To view supplementary material for this article , please visit http : //dx.doi.org/10.1017/S0003055416000125 REFERENCES Adler , William D. 2013 .
+“ Generalissimo of the Nation ” : War Making and the Presidency in the Early Republic. ” Presidential Studies Quarterly 43 ( 2 ) : 412–26 .
+Alger , Russell Alexander .
+1901 .
+The Spanish American War .
+New York : Harper and Brothers .
+Bailey , Jeremy D. 2007 .
+Thomas Jefferson and Executive Power .
+New York : Cambridge University Press .
+Berry , Christopher R. , Barry Burden , and William G. Howell .
+2010 .
+“ The President and the Distribution of Federal Spending. ” Amer- ican Political Science Review 104 ( 4 ) : 783–99 .
+Blevins , Cameron .
+2014 .
+“ The Post Office Window. ” Stanford Uni- versity Typescript .
+Bryce , James .
+1995 ( 1888 ) .
+The American Commonwealth .
+Indi- anapolis , IN : Liberty Fund .
+Carpenter , Daniel P. 2000 .
+“ State Building through Reputation Building : Policy Innovation and Coalitions of Esteem at the Post Office , 1883–1912. ” Studies in American Political Development 14 ( 2 ) : 121–55 .
+Carpenter , Daniel P. 2001 .
+The Forging of Bureaucratic Autonomy : Networks , Reputations and Policy Innovation in Executive Agen- cies , 1862–1928 .
+Princeton , NJ : Princeton University Press .
+Christenson , Dino , Douglas L. Kriner , and Andrew Reeves .
+2014 .
+“ Presidential Politics and the Influence of Federal Spending on Senate Elections. ” Presented at the Annual Meeting of the Amer- ican Political Science Association , Washington , DC , August 28–31 .
+Cohen , Jeffrey .
+1982 .
+“ The Impact of the Modern Presidency on Presidential Success in the U.S. Congress. ” Legislative Studies Quarterly 7 ( 4 ) : 515–32 .
+Cohen , Jeffrey E. 2012 .
+The President ’ s Legislative Policy Agenda , 1789–2002 .
+New York : Cambridge University Press .
+Cox , Gary W. , and Mathew D. McCubbins .
+2005 .
+Setting the Agenda .
+Cambridge , UK : Cambridge University Press .
+Cushing , Marshall .
+1893 .
+The Story of Our Post Office : The Greatest Government Department in All Its Phases .
+Boston : A.M. Thayer and Company .
+Deering , Christopher J. , and Steven S. Smith .
+1997 .
+Committees in Congress .
+Washington , DC : CQ Press .
+de Santis , Vincent .
+1963 .
+“ American Politics in the Gilded Age. ” The Review of Politics 25 ( 4 ) : 551–61 .
+Dynes , Adam , and Gregory A. Huber .
+2015 .
+“ Partisanship and the Allocation of Federal Spending : Do Same-Party Legislators or Voters Benefit from Shared Party Affiliation ? ” American Political Science Review 109 ( 1 ) : 172–86 .
+Ellis , Richard J. , and Alexis Walker .
+2007 .
+“ Policy Speech in the Nineteenth Century Rhetorical Presidency : The Case of Zachary Taylor ’ s 1849 Tour. ” Presidential Studies Quarterly 37 ( 2 ) : 248– 69 .
+Ferejohn , John A .
+1974 .
+Pork Barrel Politics : Rivers and Harbors Legislation , 1947–1968 .
+Palo Alto , CA : Stanford University Press .
+Fowler , Dorothy G. 1945 .
+“ Congressional Dictation of Local Ap- pointments. ” Journal of Politics 7 ( 1 ) : 25–57 .
+Fuller , Wayne E. 2003 .
+Morality and the Mail in Nineteenth-Century America .
+Champaign , IL : University of Illinois Press .
+Gailmard , Sean , and John W. Patty .
+2012 .
+Learning While Governing : Expertise and Accountability in the Executive Branch .
+Chicago : University of Chicago Press .
+Galvin , Daniel J .
+2014 .
+“ Presidents as Agents of Change. ” Presiden- tial Studies Quarterly 44 ( 1 ) : 95–119 .
+Galvin , Daniel J. , and Colleen Shogan .
+2004 .
+“ Presidential Politiciza- tion and Centralization Across the Modern-Traditional Divide. ” Polity 36 ( 3 ) : 477–504 .
+Greenstein , Fred I .
+1982 .
+The Hidden-Hand Presidency : Eisenhower as Leader .
+New York : Basic Books .
+Howell , William G. , Saul P. Jackman , and Jon C. Rogowski .
+2013 .
+The Wartime President .
+Chicago : University of Chicago Press .
+340 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 12 Ju l 2 01 9 at 1 8 : 52 :3 8 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 16 00 01 25 American Political Science Review Vol .
+110 , No .
+2 James , Scott C. 2000 .
+Presidents , Parties , and the State : A Party System Perspective on Democratic Regulatory Choice , 1884–1936 .
+New York : Cambridge University Press .
+James , Scott C. 2005 .
+The Evolution of the Presidency : Between the Promise and the Fear .
+In Institutions of American Democracy : The Executive Branch , eds .
+Joel D. Aberbach and Mark A. Peterson .
+New York : Oxford University Press .
+James , Scott C. 2006 .
+“ Patronage Regimes and American Party De- velopment from ‘ The Age of Jackson ’ to the Progressive Era. ” British Journal of Political Science 36 ( 1 ) : 39–60 .
+John , Richard R. 1995 .
+Spreading the News : The American Postal Sys- tem from Franklin to Morse .
+Cambridge , MA : Harvard University Press .
+Katznelson , Ira , and John S. Lapinski .
+2006 .
+“ At the Crossroads : Congress and American Political Development. ” Perspectives on Politics 4 ( 2 ) : 243–60 .
+Keller , Morton .
+1977 .
+Affairs of State : Public Life in Late Nineteenth- Century America .
+Cambridge , MA : Harvard University Press .
+Kernell , Samuel , and Michael P. McDonald .
+1999 .
+“ Congress and America ’ s Political Development : The Transformation of the Post Office from Patronage to Service. ” American Journal of Political Science 43 ( 3 ) : 792–811 .
+Klinghard , Daniel P. 2005 .
+“ Grover Cleveland , William McKinley , and the Emergence of the President as Party Leader. ” Presidential Studies Quarterly 35 ( 4 ) : 736–60 .
+Klinghard , Daniel P. 2010 .
+The Nationalization of American Political Parties , 1880–1896 .
+New York : Cambridge University Press .
+Korzi , Michael J .
+2004 .
+A Seat of Popular Leadership : The Presidency , Political Parties , and Democratic Government .
+Amherst , MA : Uni- versity of Massachusetts Press .
+Kriner , Douglas L. , and Andrew Reeves .
+2015 .
+“ Presidential Particu- larism and Divide-the-Dollar Politics. ” American Political Science Review 109 ( 1 ) : 155–71 .
+Lapinski , John S. 2008 .
+“ Policy Substance and Performance in Amer- ican Lawmaking , 1877–1994. ” American Journal of Political Sci- ence 52 ( 2 ) : 235–51 .
+Laracey , Mel .
+2002 .
+Presidents and the People : The Partisan Story of Going Public .
+College Station , TX : Texas A & M University Press .
+Letters and Messages of Rutherford B. Hayes , President of the United States .
+1881 .
+Washington , DC : U.S. Government Printing Office .
+Levitt , Steven D. , and James M. Snyder Jr. 1995 .
+“ Political Parties and the Distribution of Federal Outlays. ” American Journal of Political Science 39 ( 4 ) : 958–80 .
+Lowi , Theodore J .
+1972 .
+“ Four Systems of Policy , Politics , and Choice. ” Public Administration Review 32 ( 4 ) : 298–310 .
+Lowi , Theodore J .
+1986 .
+The Personal President : Power Invested , Promise Unfulfilled .
+Ithaca : Cornell University Press .
+Mashaw , Jerry L. 2010 .
+“ Federal Administration and Administrative Law in the Gilded Age. ” Yale Law Journal 119 ( 7 ) : 1362–472 .
+Mayo , Laurence , ed .
+1923 .
+America of Yesterday as Reflected in the Journal of John Davis Long .
+Boston : The Atlantic Monthly Press .
+McCarty , Nolan M. 2000 .
+“ Presidential Pork : Executive Veto Power and Distributive Politics. ” American Political Science Review 84 ( 1 ) : 117–29 .
+Mebane , Walter R. , and Gregory J. Wawro .
+2002 .
+“ Presidential Pork Barrel Politics. ” Cornell University .
+Moe , Terry .
+1985 .
+“ The Politicized Presidency. ” In The New Direc- tion in American Politics , ed .
+John Chubb and Paul G. Peterson .
+Washington , DC : Brookings Institution Press .
+Moe , Terry M. 1987 .
+“ An Assessment of the Positive Theory of ‘ Con- gressional Dominance ’ . ” Legislative Studies Quarterly 12 ( 4 ) : 475– 520 .
+Moe , Terry , and William Howell .
+1999 .
+“ The Presidential Power of Unilateral Action. ” Journal of Law , Economics , and Organization 15 ( 1 ) : 132–79 .
+Neustadt , Richard E. 1990 .
+Presidential Power and the Modern Pres- idents : The Politics of Leadership from Roosevelt to Reagan .
+New York : John Wiley and Sons .
+Parker , George F. 1909 .
+Recollections of Grover Cleveland .
+New York : The Century Company .
+Polsby , Nelson W. 1968 .
+“ The Institutionalization of the U.S. House of Representatives. ” American Political Science Review 62 ( 1 ) : 144–68 .
+Polsby , Nelson W. 1983 .
+Consequences of Party Reform .
+New York : Oxford University Press .
+Rogowski , Jon C. 2015 .
+“ Presidential Incentives , Bureaucratic Con- trol , and Party Building in the Republican Era. ” Presidential Stud- ies Quarterly 45 ( 4 ) : 796–811 .
+Shepsle , Kenneth A. , and Barry R. Weingast .
+1987 .
+“ The Institu- tional Foundations of Committee Power. ” American Political Sci- ence Review 81 ( 1 ) : 85–104 .
+Skocpol , Theda .
+1993 .
+“ America ’ s First Social Security System : The Expansion of Benefits for Civil War Veterans. ” Political Science Quarterly 108 ( 1 ) : 85–116 .
+Skowronek , Stephen .
+1982 .
+Building a New American State : The Ex- pansion of National Administrative Capacities , 1877–1920 .
+New York : Cambridge University Press .
+Skowronek , Stephen .
+1992 .
+“ Franklin Roosevelt and the Modern Presidency. ” Studies in American Political Development 6 ( 2 ) : 322– 58 .
+Skowronek , Stephen .
+1993 .
+The Politics Presidents Make : Leader- ship from John Adams to George Bush .
+Cambridge , MA : Harvard University Press .
+Skowronek , Stephen .
+2002 .
+“ Presidency and American Political De- velopment : A Third Look. ” Presidential Studies Quarterly 32 ( 4 ) : 743–52 .
+Stein , Robert M. , and Kenneth N. Bickers .
+1995 .
+Perpetuating the Pork Barrel : Policy Subsystems and American Democracy .
+New York : Cambridge University Press .
+Stewart , Charles H. 1989 .
+Budget Reform Politics : The Design of the Appropriations Process .
+New York : Cambridge University Press .
+Taylor , William A .
+1899 .
+Ohio In Congress From 1803 To 1901 .
+Columbus , OH : The 20th Century Publishing Company .
+Wawro , Gregory J. , and Ira Katznelson .
+2014 .
+“ Designing Histori- cal Social Scientific Inquiry : How Parameter Heterogeneity Can Bridge the Methodological Divide between Quantitative and Qualitative Approaches. ” American Journal of Political Science 58 ( 2 ) : 526–46 .
+Weingast , Barry R. 1979 .
+“ A Rational Choice Perspective on Con- gressional Norms. ” American Journal of Political Science 23 ( 2 ) : 245–62 .
+White , Leonard D. 1958 .
+The Republican Era : 1869–1901 .
+New York : Macmillan .
+Whittington , Keith E. , and Daniel P. Carpenter .
+2003 .
+“ Executive Power in American Institutional Development. ” Perspectives on Politics 1 ( 3 ) : 495–513 .
+Wilson , Rick K. 1986 .
+“ An Empirical Test of Preferences for the Political Pork Barrel : District Level Appropriations for River and Harbor Legislation , 1889–1913. ” American Journal of Political Sci- ence 30 ( 4 ) : 729–54 .
+Wilson , Woodrow .
+1885 .
+Congressional Government : A Study in American Politics .
+Boston : Houghton Mifflin .
+Wilson , Woodrow .
+1908 .
+Constitutional Government in the United States .
+New York : Columbia University Press .
+Young , Christopher J .
+2011 .
+“ Connecting the President and the Peo- ple : Washington ’ s Neutrality , Genet ’ s Challenge , and Hamilton ’ s Fight for Public Support. ” Journal of the Early Republic 31 ( 3 ) : 435–66 .
+341 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 12 Ju l 2 01 9 at 1 8 : 52 :3 8 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 16 00 01 25

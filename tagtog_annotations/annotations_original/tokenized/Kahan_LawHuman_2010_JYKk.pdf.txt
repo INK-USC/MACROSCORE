@@ -1,0 +1,953 @@
+Kahan_LawHuman_2010_JYKk.pdf
+aaBv3Qzq4DQfGrG7XFwa1YoPtUp4-Kahan_LawHuman_2010_JYKk.pdf.plain.html
+
+ORIGINAL ARTICLE Cultural Cognition and Public Policy : The Case of Outpatient Commitment Laws Dan M. Kahan Æ Donald Braman Æ John Monahan Æ Lisa Callahan Æ Ellen Peters Published online : 24 January 2009 American Psychology-Law Society/Division 41 of the American Psychological Association 2009 Abstract What explains controversy over outpatient commitment laws ( OCLs ) , which authorize courts to order persons with mental illness to accept outpatient treatment ?
+We hypothesized that attitudes toward OCLs reflect ‘ ‘ cul- tural cognition ’ ’ ( DiMaggio , P. Annl Rev Sociol 23:263– 287 , 1997 ) , which motivates individuals to conform their beliefs about policy-relevant facts to their cultural values .
+In a study involving a diverse sample of Americans ( N = 1,496 ) , we found that individuals who are hierar- chical and communitarian tend to support OCLs , while those who are egalitarian and individualistic tend to oppose them .
+These relationships , moreover , fit the cultural cognition hypothesis : that is , rather than directly influenc- ing OCL support , cultural values , mediated by affect , shaped individuals ’ perceptions of how effectively OCLs promote public health and safety .
+We discuss the impli- cations for informed public deliberation over OCLs .
+Keywords Cultural cognition Outpateint commitment Affect Values This paper identifies a puzzle for public policy analysis and explores a solution .
+The puzzle is how to explain—and enlighten—popular opinion on a novel but increasingly common , and already highly controversial , public health policy : outpatient commitment laws ( OCLs ) .
+The expla- nation and the solution reside in the theory of cultural cognition .
+Outpatient commitment laws authorize a court to order a person with a mental illness to adhere to a prescribed program of treatment in the community .
+In the event that a person subject to such an order fails to comply with it , a court can initiate proceedings that result in involuntary commitment .
+OCLs have emerged in response to the drastic reduction in the rate of inpatient mental hospital- ization that has occurred in recent decades ( Monahan , Swartz , & Bonnie , 2003 ) .
+A recent survey of persons in public-sector outpatient mental health treatment in five sites across the United States found that between 12 % and 20 % of all outpatients report having been subject to out- patient commitment at some point in their lives ( Swartz , Swanson , Kim , & Petrila , 2006 ) .
+At this point , policy deliberations over OCLs are marked by two characteristics .
+One is the paucity of definitive empirical data on their effectiveness .
+Researchers have carried out only a small number of studies , the results of which seem inconclusive .
+The other is the acrimony of the debate over whether OCLs are a good idea .
+Energized and fractious disputes among patient-advocacy groups have D. M. Kahan ( & ) Yale Law School , PO Box 208215 , New Haven , CT 06520 , USA e-mail : dan.kahan @ yale.edu D. Braman George Washington University Law School , Washington , DC , USA J. Monahan University of Virginia School of Law , Charlottesville , VA , USA L. Callahan Policy Research Associates , Delmar , NY , USA E. Peters Decision Research , Eugene , OR , USA E. Peters University of Oregon , Eugene , OR , USA 123 Law Hum Behav ( 2010 ) 34:118–140 DOI 10.1007/s10979-008-9174-4 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+created an atmosphere of controversy in nearly every jurisdiction that has attempted to implement an OCL .
+It might be thought that these two phenomena—absence of definitive data and political conflict—are causally con- nected .
+That is , the controversy that surrounds OCLs grows out of uncertainty about their efficacy .
+As researchers develop more conclusive evidence on how OCLs work , the debate should wind down and consensus should emerge .
+This prognosis , however , fails to take account of the role of public values .
+Although designed as a less invasive alternative to involuntary hospitalization , OCLs neverthe- less contemplate coercive state intervention into the health decision making of individuals .
+Some citizens—perhaps a substantial number of them—could find this interference with individual liberty sufficient grounds to resist OCLs no matter what their impact is on the well-being of individuals or the safety of the community ( Perlin , 2003 ; Schwartz & Constanzo , 1987 ) .
+Others might object to OCLs out of general resistance to public welfare legislation : even if OCLs do improve the situation of individuals who are mentally ill , why should other persons be forced to pay the costs of identifying who those persons might be , for diagnosing and formulating appropriate treatment pro- grams for them , and for monitoring their compliance thereafter ?
+If the debate over OCLs turns on more than ‘ ‘ whether legally coerced treatment in the community is able to produce positive outcomes ’ ’ —if it also requires taking a moral position on the proper ‘ ‘ role of the state in exercising its power and in protecting the weak ’ ’ —then one might surmise that even the advent of ‘ ‘ methodologically strong empirical studies…will not end ’ ’ the controversy ( Hiday , 2003 , p. 25 ) .
+In addition , even if the instrumental impact of OCLs is of potentially decisive importance , ordinary citizens ’ val- ues might well shape their perceptions of what that impact is .
+To avoid dissonance , and to protect their connection to groups to whom they are emotionally committed , people tend to adopt views about the efficacy of public policies that cohere with their defining values ( Giner-Sorolla & Chaiken , 1997 ; Sherman & Cohen , 2002 ) .
+They thereafter cling to these beliefs—indeed , sometimes becoming more extreme in their views—in the face of ample empirical data that seems to undercut them .
+Even when they agree that some issue of policy turns on empirically testable issues of fact , then , citizens of diverse values are likely to polarize ( Lord , Ross , & Lepper , 1979 ) .
+The significance of values creates a quandary for policy analysts interested in assessing the effectiveness of OCLs .
+To put it simply , does their work even matter ?
+Will a substantial—perhaps a decisive fraction—of citizens regard whatever they find out about the efficacy of such laws as simply beside the point ?
+And even if citizens do genuinely care about the effectiveness of OCLs in promoting individual and community well-being , will they accept data that fail to match their views of how the world does and should work ?
+Or will they selectively interpret the data in a manner that fits their preexisting values ?
+The study of cultural cognition ( DiMaggio , 1997 ; Ka- han & Braman , 2006 ) , we believe , furnishes three forms of guidance for answering these troubling questions .
+First , it offers a reasonably parsimonious theory about how values and empirical beliefs relate to one another in the formation of policy positions .
+Second , it supplies a tractable empirical method for testing the extent to which such positions rest on values or empirical beliefs and to which the former shape the latter .
+And third , the study of cultural cognition suggests a practical strategy for presenting sound scientific information in a way that makes it accessible to citizens of diverse values who do in fact share a desire for the adop- tion of policies geared to improving their common welfare .
+We therefore conducted an empirical study of how cultural cognition affects public opinion toward OCLs .
+After a brief discussion of the practical and theoretical background of the study , we describe its design and then report its results .
+We conclude with a discussion of its implications , both for the future of the OCL debate and for future work using cultural cognition and related theories to improve public comprehension of sound empirical data on OCLs and other complex policy issues .
+BACKGROUND Outpatient Commitment Laws : The Unfolding Debate In 1999 , New York enacted ‘ ‘ Kendra ’ s Law , ’ ’ named after a young woman who was killed when a man with untreated schizophrenia shoved her off a subway platform into the path of an oncoming train .
+That law ( New York Mental Hygiene Law §9.60 ) authorizes a court to order an adult ‘ ‘ to receive assisted outpatient treatment ’ ’ when certain conditions are satisfied .
+These include that the person is ‘ ‘ suffering from…mental illness ’ ’ and ‘ ‘ is unlikely to sur- vive safely in the community without supervision ’ ’ ; that his or her illness has resulted either in the need for repeated confinement or in ‘ ‘ one or more acts [ or threats ] of serious violent behavior toward self or others ’ ’ ; and that ‘ ‘ as a result of his or her mental illness , [ the person is ] unlikely to voluntarily participate in outpatient treatment. ’ ’ As part of the ordered treatment , the court may require ‘ ‘ the patient to self-administer psychotropic drugs or accept the adminis- tration of such drugs by authorized personnel ’ ’ and to submit to ‘ ‘ periodic blood tests or urinalysis to determine compliance with prescribed medications. ’ ’ The court also may order ‘ ‘ educational and vocational training or Law Hum Behav ( 2010 ) 34:118–140 119 123 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+activities , ’ ’ along with ‘ ‘ alcohol or substance abuse treat- ment , ’ ’ which , like any required treatment , is provided at state expense .
+If a person is found to have violated the treatment order , the court has the power to order his or her ‘ ‘ removal…to an appropriate hospital for an examination to determine if such person has a mental illness for which ’ ’ involuntary confinement is necessary .
+Although many states already provided for some form of outpatient commitment ( typically in laws that were rarely enforced ) , Kendra ’ s Law initiated a nationwide surge of interest in this policy .
+OCLs were enacted in California in 2003 , and in Florida , Michigan , and West Virginia in 2005 .
+Illinois , Idaho , and Virginia ’ s existing OCLs were strengthened in 2008 , in the latter case following the killing of 32 students and faculty at Virginia Tech University by a student perpetrator who was subject to an unenforced outpatient commitment order .
+Those states with weak or nonexistent statutes are now experiencing a take-no-pris- oners political battle between advocates for ‘ ‘ assisted treatment , ’ ’ the more benign term preferred by the propo- nents of outpatient commitment , and advocates against ‘ ‘ leash laws , ’ ’ the more pejorative term used by its opponents.1 As heated as it has been , however , the debate over OCLs lacks an obvious ideological structure .
+This is true in part because OCLs admit of multiple characterizations .
+Swan- son et al .
+( 2008 ) note the ‘ ‘ ambiguity ’ ’ of OCLs : ‘ ‘ Does outpatient commitment represent access to a scarce resource , i.e. , community-based mental health care as a less-restrictive alternative to inpatient hospitalization , or does it represent a coercive deprivation of personal liberty more akin to a criminal sanction ? ’ ’ In addition , the main protagonists in the national debate—including the Treat- ment Advocacy Center , which supports OCLs , and the Bazelon Center for Mental Health Law , which opposes them—are all associated with increased public support for persons with mental illness .
+Given this lack of a clear political nexus , it is not sur- prising that existing research shows that ideology does not explain people ’ s reactions to OCLs .
+One large and repre- sentative survey of attitudes toward outpatient commitment found the American public to be evenly split in their views—with 49.1 % agreeing that people with schizophre- nia ‘ ‘ should be forced by law to…get treatment at a clinic or from a doctor ’ ’ and 50.9 % disagreeing ( Pescosolido , Monahan , Link , Stueve , & Kikuzawa , 1999 ) .
+But the authors also found that respondents ’ support of or opposi- tion to OCLs bore no significant relationship to self-rated political liberalism–conservatism .
+Indeed , to date , the controversy over OCLs has fea- tured not primarily ideology but competing claims about the instrumental efficacy of OCLs ( Bazelon Center , 2000 ; Treatment Advocacy Center , 2005 , 2006a , b ) .
+Whereas early on , the public dispute focused on the threat to public safety associated with OCLs as a form of community- based treatment , the debate today is largely between community-based treatment advocates , who are divided about the relative effectiveness of OCLs and wholly voluntary treatment programs ( Hiday , 2003 ) .
+Supporters argue that OCLs guide persons into treatment who otherwise would be too ill to recognize that they need it ; opponents counter that psychiatrists and psychologists furnishing treatment at behest of the state lack sufficient familiarity with the patient to make sensible treatment decisions .
+The threat of involuntary commitment , sup- porters argue , can help to offset the debilitating effect of illness on patients ’ will to follow prescribed treatments ; on the contrary , opponents claim that patients refuse to comply with ordered treatment programs because the threat of commitment undermines their trust in their doctors .
+Thus , the issue for these groups , at least , is not so much whether the coercive element of OCLs is appro- priate or not on normative grounds , but whether that degree of coercion contributes or frustrates patient well- being as an empirical matter.2 At least for now , however , neither side can point to conclusive empirical evidence in support of its claims .
+Only two randomized clinical trials of outpatient commit- ment exist ( Steadman et al. , 2001 ; Swartz et al. , 2001 ) , and these studies reached opposite conclusions .
+One recent review of 72 studies undertaken in six countries concluded that ‘ ‘ it is not possible to state whether [ outpatient com- mitment ] orders are beneficial or harmful to patients ’ ’ ( Churchill , Owen , Singh , & Hotopf , 2007 , p. 7 ) .
+Another observed that ‘ ‘ it is striking how reviews of the same studies can come to markedly different conclusions. ’ ’ ( Kisely , Campbell , Scott , Preston , & Xiao , 2007 , p. 12 ; see also Hotopf , Dunn , Owen , & Churchill , 2007 , and Swanson & Swartz , 2007 ) .
+1 Outpatient commitment laws have been enacted in many countries other than the United States , including Australia ( 1986 ) , Israel ( 1991 ) , New Zealand ( 1992 ) , Ontario , Canada ( 2000 ) , Scotland ( 2005 ) , England and Wales ( 2008 ) , and Taiwan ( 2008 ) .
+Laws authorizing what are often called ‘ ‘ community treatment orders ’ ’ appear to have occasioned similar controversies wherever they have been introduced ( Dawson , 2005 ) .
+2 One important study of mental health professionals in Great Britain ( Pinfold et al. , 2002 ) found that although resistance to outpatient- commitment orders reflected a mix of ‘ ‘ philosophical objections and practical concerns ’ ’ ( p. 186 ) most respondents reported viewing the orders as ‘ ‘ acceptable in principle ’ ’ yet likely to be inefficacious ( p. 182 and Fig .
+1 ) .
+Indeed , psychiatrists who opposed outpatient commitment were more likely to argue that professionals would be unable to enforce patient compliance than that the procedures would interfere unduly with patient liberty ( p. 187 ) .
+120 Law Hum Behav ( 2010 ) 34:118–140 123 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+The apparent indeterminacy of the existing data makes the political controversy over OCLs seem even more confusing .
+If neither side is basing its positions on con- ventional ideological values , yet the empirical evidence on the instrumental efficacy of OCLs is uncertain , why do mental health advocacy groups disagree so intensely ?
+Part of the explanation is that those groups do not themselves acknowledge that the empirical evidence is ambiguous ; in fact , each construes the existing data as furnishing com- pelling support for its position ( Table 1 ) .
+But this answer just begs another question : why are the two sides drawing such strong and diametrically opposing inferences from evidence that so many social scientists have concluded supports no conclusive judgments ?
+An even more disturbing question is whether , under these circumstances , we should ever expect the opposing groups—or anyone else—to agree on the efficacy of OCLs .
+Something apparently unrelated to the strength of the evidence , yet also apparently unconnected to con- ventional ideology ( i.e. , liberal versus conservative ) , is motivating the opposing groups to insist that equivocal research unequivocally supports their views .
+Why not expect that influence to persist once conclusive research does emerge , motivating each side to refuse to recognize the validity of any data at odds with its claims ?
+And if the competing mental health advocacy groups continue to disagree even as better evidence emerges , why should we expect members of the public , who understandably must rely on experts , to be guided decisively by that evidence ?
+Cultural Cognition and Public Policy The ‘ ‘ cultural cognition thesis ’ ’ holds that culture is prior to fact in debates over public policy .
+Culture is prior to fact not merely in the normative sense that people sometimes understand moral concerns as trumping the utilitarian efficacy of controversial policies .
+Rather culture is prior to fact in the cognitive sense that people ’ s values shape what they understand the empirical consequences of such poli- cies to be .
+Through mutually reinforcing social and psychological dynamics , individuals conform their factual beliefs about the efficacy of policies to the cultural meanings that various policies convey ( DiMaggio , 1997 ) .
+Because facts are thus cognitively derivative from culture , the need to choose between moral principle and utilitarian efficacy , for most people , simply never arises ( Kahan & Braman , 2006 ) .
+The cultural cognition thesis rests on a framework developed by the late anthropologist Mary Douglas ( 1970 ) .
+Douglas characterized ‘ ‘ cultural worldviews , ’ ’ or prefer- ences about how society should be organized , along two , cross-cutting dimensions , which she called ‘ ‘ group ’ ’ and ‘ ‘ grid. ’ ’ A ‘ ‘ high group ’ ’ worldview supports a communi- tarian society , in which the interests of the individual are subordinated to the interests of the collective , which is deemed responsible for securing the conditions of indi- vidual flourishing .
+A ‘ ‘ low group ’ ’ worldview , in contrast , supports an individualistic society in which individuals are expected to secure the conditions of their own flourishing without collective interference or support .
+A ‘ ‘ high grid ’ ’ Table 1 Advocacy groups ’ opposing views of existing data Issue Bazelon center Treatment advocacy center Overall research findings ‘ ‘ The studies , relatively few in number , clearly show that [ OPC ] confers no benefit beyond access to effective community services—access that is too often nonexistent on a voluntary basis. ’ ’ ‘ ‘ Studies and experiences in Arizona , Hawaii , Iowa , New York , North Carolina , and other states have definitively proven AOT works… [ OCLs ] reduce [ ] homelessness… , reduce [ ] arrests… , reduces violence… , reduce [ ] victimization… , [ and ] improve [ ] substance abuse treatment. ’ ’ Bellevue outcome study ‘ ‘ The findings are conclusive… .
+The study provides strong evidence that outpatient commitment has no intrinsic value. ’ ’ ‘ ‘ [ T ] he authors [ of the study ] acknowledged that a ‘ ‘ limit on [ the study ’ s ] ability to draw wide-ranging conclusions is the modest size of [ the ] study group. ’ ’ Additionally , …nonadherence to a treatment order had no consequences. ’ ’ Duke outcome study ‘ ‘ [ T ] the Bazelon Center ’ s analysis…find [ s ] weaknesses in the North Carolina study. ’ ’ ‘ ‘ Authoritative studies on the effectiveness of [ OCLs have been ] published by Duke University. ’ ’ Effect on hospital admissions ‘ ‘ Statements that outpatient commitment reduces hospital admissions or hospital stays are often based on data from four published studies , all flawed. ’ ’ ‘ ‘ Several studies have clearly established the effectiveness of AOT decreasing hospital admission. ’ ’ Effect on treatment adherence ‘ ‘ Statements that increased compliance with psychiatric treatment can be attributed solely to the effect of outpatient commitment are normally based on data from two studies—both flawed. ’ ’ ‘ ‘ Assisted outpatient treatment has…been shown to be extremely effective in increasing treatment compliance. ’ ’ Sources : Bazelon Center ( 2001 ) ; Treatment Advocacy Center ( 2005 , 2006a , b ) Law Hum Behav ( 2010 ) 34:118–140 121 123 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+worldview supports a hierarchical society , in which right and duties , opportunities and offices , are distributed on the basis of highly salient and durable characteristics ( gender , race , age , wealth , and so forth ) .
+A ‘ ‘ low grid ’ ’ worldview , on the other hand , supports an egalitarian society , in which such characteristics are deemed irrelevant to the allocation of those goods .
+Douglas maintained that individuals are psychologically disposed to credit and dismiss factual claims about societal harms in selective patterns that reflect and reinforce their commitment to these idealized visions of society ( Douglas & Wildavsky , 1982 ; Rayner , 1992 ) .
+Empirical investigation has supported Douglas ’ s view in a variety of policy domains .
+For example , persons sub- scribing to an individualistic worldview , which prizes markets and other forms of private ordering , have been shown to be highly skeptical of environmental risks , while those subscribing to an egalitarian worldview , which sees commerce and industry as sources of unjustly disparity , are highly receptive to the claim that such activities threaten the environment ( e.g. , Poortinga , Steg , & Vlek , 2002 ; Peters & Slovic , 1996 ; Jenkins-Smith , 2001 ) .
+Hierarchical white males tend to be very dismissive of the risks asso- ciated with private gun ownership .
+This correlation , too , is what one would expect if culture is influencing cognition because of the symbolic association of guns with hierar- chical male virtues , such as honor and courage , and with male social roles such as father , protector , and provider ( Kahan , Braman , Gastil , Slovic , & Mertz , 2007 ) .
+Individ- ualists , consistent with their resentment of the displacement of private decision making , and hierarchists , consistent with their resentment of behavior that contravenes tradi- tional sexual mores , are more likely to perceive that vaccination of school girls against the human papilloma virus ( the leading cause of cervical cancer ) will induce teens to engage in unprotected intercourse , and thus increase their risk of contracting HIV-AIDS ( Kahan , Bra- man , Cohen , Slovic , & Gastil , 2008 ) .3 To be sure , these policy debates are all ‘ ‘ culture con- flicts , ’ ’ but they feature disputes over facts , not values .
+Hierarchs and egalitarians , individualists and communi- tarians , all purport to agree that the aim of public policy should be to make citizens secure , prosperous , and healthy .
+They systematically disagree about how to achieve those ends , however , because of the heuristic function of cultural values in belief formation .
+Unable to resolve competing claims about risk based on personal experience , individuals go with their gut , which inclines them to attribute harm to behavior that evokes anger or disgust and benefit to behavior that evokes admiration ( Peters , 2006 ; Gutierrez & Giner-Sorolla , 2007 ; Haidt & Hersh , 2001 ) .
+Confronted with technical data they lack the expertise , time , or moti- vation to interpret , individuals naturally turn to their affect and emotions as information to guide their judgments and trust those who share their values—and who are similarly disposed to a particular view—to tell them which empirical claims about the environment or about public health to believe and which to reject ( Kahan & Braman , 2006 ; Slovic & Peters , 2006 ) .
+These dynamics help to explain the logic of mass opinion .
+Political scientists have long recognized that persons of moderate or low levels of political sophistica- tion—the vast majority of citizens—are not ideological in their thinking ( Sniderman , Brody , & Tetlock , 1991 ; Con- verse , 2006 ) .
+Not surprisingly , people who do not spend a substantial portion of their time immersed in news of public affairs can not reliably use abstractions such as ‘ ‘ liberty , ’ ’ ‘ ‘ equality , ’ ’ ‘ ‘ order , ’ ’ and the like to derive positions on complex policies , most of which will admit of diverse characterizations .
+But if the theoretical tenets of ‘ ‘ liberalism ’ ’ and ‘ ‘ conservativism ’ ’ do not explain most people ’ s views , something else must , for positions on disputed policies are obviously not randomly distributed across the population .
+Aaron Wildavsky , a political scientist who collaborated with Douglas , proposed that the missing orienting force in mass political opinion consists of the cultural worldviews featured in Douglas ’ s group-grid scheme .
+Those outlooks supply cues—such as affective social meanings , and the opinions of like-minded peers and authority figures—that are readily accessible to persons who pay only passing attention to public policy debates .
+Through the heuristic force of culture on belief formation , then , even individuals who accept that the only legitimate aim of public policy is to secure the common welfare—and who lack any ambition to use law to impose a cultural orthodoxy—find themselves splintered into opposing cultural factions over the means to achieving their common political ends ( Wildavsky , 1987 ) .
+This account would seem to have implications for public opinion on OCLs .
+It suggests , in particular , why previous studies failed to identify an ideological basis for such opinion .
+If liberal-conservative ideology is a poor expla- nation for mass opinion on even familiar issues , it is all the more likely to be inadequate for OCLs , which are too novel to have acquired a clear liberal-conservative valence .
+In these circumstances , in particular , then , we should expect 3 Following these sources , we use ‘ ‘ cultural cognition ’ ’ to refer to the psychological mechanisms through which opposing values generate competing factual beliefs about risk , harm , and other policy-related matters among persons within a single society .
+The relationship between ‘ ‘ culture and cognition ’ ’ also figures conspicuously in the growing psychological literature on differences in perception gener- ally among persons who belong to different societies , such as Asians and Europeans or North Americans ( Nisbett , 2003 ) .
+One reason to believe that the two lines of work might be closely related is evidence of cross-cultural differences in the attribution of causal agency ( Chiu , Morris , Hong , & Menon , 2000 ) , a form of motivated cognition that figures in moral and policy judgments ( Alicke , 2000 ) .
+122 Law Hum Behav ( 2010 ) 34:118–140 123 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+most people to be conforming their judgments of the effi- cacy of such laws to the affective , cultural resonances that the laws viscerally evoke .
+We thus decided to conduct a public opinion study to test our conjectures about the potential relevance of cul- tural cognition to the emerging OCL debate .
+As described more completely in the next sections , the study investi- gated a set of hypotheses concerning the impact of cultural worldviews and other individual characteristics on support for OCLs .
+It also attempted to assess the relative impor- tance of , and interrelationships between , cultural and other values , on the one hand , and perceptions of the utilitarian efficacy of OCLs .
+As should be apparent , our decision to focus on cultural cognition in this study reflects a reciprocal mix of practical and scholarly motivations .
+We do not believe that cultural cognition alone offers insight into public opinion on OCLs .
+Indeed , it seems likely to us that theories such as the Five Factor Model ( John & Srivastava , 1999 ) , Social Domi- nance Orientation ( Sidanius & Pratto , 1999 ) , and Terror Management Theory ( Greenberg , Solomon , & Pyszczyn- ski , 1997 ) would likely generate insights into individual attitudes toward societal responses to persons who are mentally ill .
+The attraction of cultural cognition is its intimate connection to policy and science communication .
+Exploring the applicability of cultural cognition to the OCL debate presents an opportunity both to test a framework designed for understanding group-conflict over policy- related facts generally , and to acquire insights that might lead to amelioration of one such conflict in particular .
+HYPOTHESES Cultural Worldviews and Ideology Our core hypotheses related to the influence of cultural worldviews on support for OCLs .
+The primary hypothesis , of course , was that the worldviews featured in group-grid would in fact exert such an influence .
+We also hypothe- sized that the effect cultural worldviews would exert would be stronger than liberal-conservative ideology and party affiliation .
+The basis of this prediction was the superior explanatory power of cultural worldviews relative to con- ventional political outlooks and affiliations generally , as well as the failure of liberal-conservative ideology to explain variation in public attitudes toward OCLs in pre- vious studies .
+We also formed predictions about how the worldviews associated with Douglas ’ s group-grid scheme would affect attitudes toward OCLs .
+Specifically , we hypothesized that individualists , because of their resentment of collective interference with personal health decisions , would form relatively negative views of OCLs , whereas communitari- ans , because of their support for collective attention to individual needs , would form relatively positive ones .
+We predicted that hierarchs would also form a positive view of OCLs , both because of their general trust in authority ( including that of professional elites and government authorities ) and because of the symbolic association of mental illness with deviancy .
+Because hierarchy and indi- vidualism tend in general to correlate with political conservativism , the expected division of hierarchs and individualists on OCLs , we conjectured , might be an additional reason that liberalism–conservativism had failed previously to explain variation in public attitudes toward OCLs .
+Other Individual Characteristics We also hypothesized that other individual characteris- tics—including principally race and gender but also possibly education , income , and religious affiliation— would likely influence support for OCLs .
+We predicted this effect in part because there tends to be a correlation between these characteristics and the cultural worldviews featured in group-grid : males tend to be modestly more hierarchical and individualistic than women , whereas African-Americans tend to be substantially more egalitar- ian than whites .
+Indeed , although we see explanatory value in the parsimony of the group-grid framework , we believe that the sorts of group identities that result in cultural cognition surely consist not just in shared values but also in collections of interrelated attributes and experiences that cohere with these values ( Kahan , Hoffman , & Braman , 2009 ) .
+In addition , such characteristics interact with cul- tural worldviews .
+White hierarchical males , in particular , are prone to form distinctive views because of the special prominence that a hierarchical way of life assigns to race and gender differences in social roles ( Flynn , Slovic , & Mertz , 1994 ; Kahan et al. , 2007 ) .
+We therefore expected , specifically , that white hierarchical males , being most closely aligned with the professional and governmental elites responsible for administering OCLs , would likely have the most favorable views of those laws .
+Knowledge of Laws , Connection to Persons with Mental Illness We also hypothesized that two individual characteristics more closely linked to OCLs would influence attitudes .
+One was the extent of individuals ’ knowledge of such laws prior to the study .
+The influence of knowledge on attitudes might be causal : that is , the process of learning about OCLs might be expected to exert a dominant effect , pro- or con- , on attitudes .
+But just as plausibly , the correlation might be Law Hum Behav ( 2010 ) 34:118–140 123 123 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+spurious .
+If , as we expected , most people are unfamiliar with OCLs , then there is presumably something distinctive in the circumstances of the few who are familiar with OCLs that motivates them to acquire such information .
+Those same distinctive circumstances , it stands to reason , might exert an influence on such persons to react in a particular way—either favorably or unfavorably—to what they are learning .
+Controlling for other influences ( including cultural worldviews ) that might influence OCL attitudes can help to show whether any observed effect between knowledge of and positions on OCLs is indeed spurious ( Kahan , Braman , Slovic , Gastil , & Cohen , in press ) .
+One characteristic that could both influence individuals to learn about OCLs and to form a particular view of their desirability is a close relationship—familial or social— with someone who has a serious mental illness .
+Indeed , one might suppose that such individuals , because they have an inordinately large stake in how persons with mental illness are treated , would be the most motivated to determine whether such laws do indeed improve the welfare of such persons .
+We therefore hypothesized that this circumstance , too , would explain some portion of the variance in attitudes toward OCLs .
+Nevertheless , we also predicted that the influence of both knowledge about OCLs and having a relationship with a person with a serious mental illness would be less important than cultural influences because the theory of cultural cognition holds that what inferences people draw from information is shaped by their worldviews .
+Relationship between Cultural Values , Perceived Efficacy , and Affect The theory of cultural cognition implies that individuals ’ cultural worldviews will influence their attitudes toward OCLs indirectly rather than directly .
+That is , rather than supplying individuals with a source of guidance that sup- plements or competes with their perceptions of such laws ’ instrumental efficacy , cultural worldviews will shape such perceptions .
+These perceptions , in turn , would then deter- mine support for ( or opposition to ) such laws .
+The distinction can be sharpened by considering the two attitudinal models depicted in Figs .
+1 and 2 .
+In the Utili- tarian Aggregation model , cultural worldviews and perceptions of efficacy operate independently .
+Individuals make an empirical judgment about how well OCLs will work ( their efficacy ) for individuals with mental illness and for society at large .
+They also morally appraise such laws to determine if they cohere with their view of the ideal society generally , and whether they offend more particular moral values ( respect for individual liberty , say ) , which are themselves likely to be influenced by their cultural worldviews .
+They then aggregate these influences to determine how supportive they are of such laws .
+Under the Cultural Cognition model , individuals also make an empirical judgment of the likely efficacy of OCLs .
+But far from being independent of their cultural world- views , that judgment is itself shaped by their values , including both their view of the ideal society generally and their more particular or proximate moral appraisals of OCLs.4 Indeed , because their perceptions of the efficacy derive from values , the latter won ’ t appear to add much of anything to the position supported by the former .
+It will certainly not be the case that individuals have to make any sort of trade off between their moral evaluations and their consequential judgments .
+Affect ( defined in the present paper as the overall positive or negative feelings one has about OCLs ) will also operate distinctly in these models .
+In the Utilitarian Aggregation Model , affect is essentially a byproduct : one feels either good or bad about such laws based on the judgment one arrives at after aggregating one ’ s judgment of OCLs ’ likely efficacy with one ’ s moral appraisals of them .
+Under the Cultural Cognition Model , in contrast , Culture OCL Support Perceived Efficacy Proximate Values Affect Relatively strong effect Relatively modest effect Fig .
+1 Utilitarian Aggregation Model of OCL attitudes Culture OCL Support Perceived Efficacy Proximate Values Affect Relatively strong effect Relatively modest effect Fig .
+2 Cultural Cognition Model of OCL attitudes 4 For example , media depictions have been found to reinforce stereotypical associations between mental disorder and violent behavior conditional on individuals ’ ‘ ‘ personal value orientations ’ ’ ( Angermeyer & Schulze , 2001 , p. 485 ; Bruck & Stocker , 1996 ) .
+124 Law Hum Behav ( 2010 ) 34:118–140 123 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+affect mediates the effect that values have on perceptions of efficacy : one experiences the emotion—fear or relief , anger or gratitude—that embodies one ’ s moral appraisal of such laws ; that emotion in turn determines—usually in a rapid , intuitive fashion—the perceived efficacy of such laws ; and that perception of efficacy largely dictates one ’ s conclusion about whether to support such laws ( Peters , Burraston , & Mertz , 2004 ; Kahan , 2008 ) .
+This account is suggested by a growing body of work documenting the contribution affect makes to the formation of risk percep- tions and related facts ( e.g. , Slovic , Finucane , Peters , & MacGregor , 2004 ; Gutierrez & Giner-Sorolla , 2007 ; Haidt & Hersh , 2001 ; Loewenstein , Weber , Hsee , & Welch , 2001 ) .
+We therefore hypothesized that the relationship between cultural worldviews , affect , perceptions of efficacy , and support for OCLs would more closely conform to the Cultural Cognition Model than the Utilitarian Aggregation Model .
+The design we selected for the study was aimed at enabling the testing of this and our other hypotheses .
+METHOD Sample The study used a diverse , national sample of 1,496 persons aged 18 years or older .
+The sample was assembled by Polimetrix , a leading on-line public opinion firm , and participated in the study using Polimetrix ’ s internet testing facilities .
+Matching methodology was used to assure the sample was representative of the general American popu- lation .
+The sample was 54 % female , 75 % white , and 11 % African-American .
+The average income level was between $ 40,000 and $ 40,999 , and the average education level was ‘ ‘ some college. ’ ’ The average age of study subjects was 48 ( Appendix A ) .
+Measures Demographic Characteristics We collected data relating to the individual characteristics of the subjects .
+These included conventional socio- demographic characteristics , such as gender , race , age , household income , religious affiliation , and education .
+Political Ideology and Party Affiliation Subjects indicated their party affiliation—either Republi- can , Democrat , Independent , ‘ ‘ other ’ ’ or ‘ ‘ unsure. ’ ’ They also indicated their political ideology on 7-point scale that ran from extremely liberal to extremely conservative .
+Cultural Worldviews We also collected data on our subjects ’ cultural orienta- tions and worldviews .
+The two dimensions of worldview contemplated by Douglas ’ s ‘ ‘ group-grid ’ ’ scheme were measured with two scales , ‘ ‘ Hierarchy–Egalitarianism ’ ’ ( or simply , ‘ ‘ Hierarchy ’ ’ ) and ‘ ‘ Individualism–Communitari- anism ’ ’ ( ‘ ‘ Individualism ’ ’ ) , used in previous studies of cultural cognition ( Kahan et al. , 2007 , 2009 , in press ) .
+As in previous studies , the scales ( reproduced in Appendix B ) were highly reliable measures of the latent disposition of subjects toward those respective sets of worldviews ( Individualism , a = .88 ; Hierarchy , a = .89 ) .
+To facilitate summary comparisons of subjects identified by their worldviews , we classified subjects as either ‘ ‘ Hierarchs ’ ’ or ‘ ‘ Egalitarians ’ ’ and as either ‘ ‘ Individualists ’ ’ or ‘ ‘ Com- munitarians ’ ’ based on the relationship between their scores and the median scores for those scales .
+Family Member or Friend with Mental Illness Subjects were asked to indicate ‘ ‘ yes ’ ’ or ‘ ‘ no ’ ’ to the question , ‘ ‘ Have you personally ever had a family member or a close friend who had a psychiatric condition like schizophrenia ? ’ ’ OCL Items Subjects read the following introductory statement : We would now like to know what you think about a policy issue people disagree about .
+Some states have adopted , and others are considering adopting , ‘ ‘ out- patient commitment ’ ’ laws .
+Such laws give courts the power to order people diagnosed with certain mental illnesses , including schizophrenia , to receive treat- ment from a doctor and to follow prescribed treatment procedures , which usually include taking medication .
+The prescribed treatment does not require hospitalization .
+However , if someone refuses an order to see a doctor and to follow treatment procedures , the person can be brought to a mental health facility against their will for an evaluation and , if necessary , involuntarily hospitalized for treatment .
+This description was designed to be spare and non- argumentative in order to minimize the possibility that the stimulus would itself influence subjects ’ views .
+Subjects were then asked to indicate their level of agreement on a six-point scale ( ‘ ‘ strongly disagree , mod- erately disagree , mildly disagree , mildly agree , moderately agree , strongly agree ’ ’ ) to several statements designed to measure attitudes toward OCLs : Law Hum Behav ( 2010 ) 34:118–140 125 123 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+SUPPORT .
+People with psychiatric conditions like schizophrenia should be forced by law to get outpa- tient treatment from a doctor .
+EFFECTIVE .
+Outpatient commitment laws are likely to improve the mental health of people with condi- tions like schizophrenia .
+EVADE .
+Outpatient commitment laws won ’ t work because people with conditions like schizophrenia will not follow the court-ordered treatment procedures .
+SAFETY .
+Outpatient commitment laws will make society safer by assuring that people with conditions like schizophrenia get appropriate treatment .
+LIBERTY .
+Legally requiring people with conditions like schizophrenia to get outpatient treatment from a doctor is an unacceptable interference with personal liberty .
+The order of these items was randomized .
+‘ ‘ EFFECTIVE , ’ ’ ‘ ‘ EVADE , ’ ’ and ‘ ‘ SAFETY ’ ’ were designed to assess perceptions of the efficacy of OCLs .
+Analysis revealed , however , that the three items together formed only a marginally reliable scale ( a = .58 ) .
+A two- item scale consisting of ‘ ‘ EFFECTIVE ’ ’ and ‘ ‘ SAFETY ’ ’ proved highly reliable ( a = .77 ) .
+Accordingly , a separate variable , ‘ ‘ PERCEIVED EFFICACY , ’ ’ was created as a single latent measure of subjects ’ perceptions of the utili- tarian efficacy of OCLs .
+The item EVADE was dropped from further analysis .
+Another item ( ‘ ‘ POSITIVE AFFECT ’ ’ ) measured sub- jects ’ affective orientation toward OCLs .
+Using a ‘ ‘ bipolar ’ ’ scale previously found to be a reliable and robust measure of affective attitudes ( Peters & Slovic , 2007 ) , this item asked ‘ ‘ How good or bad do outpatient commitment laws make you feel ? ’ ’ and permitted responses of ‘ ‘ very bad , ’ ’ ‘ ‘ bad , ’ ’ ‘ ‘ neither good nor bad , ’ ’ ‘ ‘ good , ’ ’ and ‘ ‘ very good. ’ ’ Finally , we measured self-reported knowledge of OCLs ( ‘ ‘ OCLKNOW ’ ’ ) .
+Subjects were asked , How much did you know about outpatient commitment laws before today ?
+( 1 ) nothing at all ( 2 ) just a little ( 3 ) some ( 4 ) a lot .
+Statistical Methods , Power , and Missing Data We planned to analyze results with a variety of statistical methods .
+These included preliminary analyses of response frequencies and means overall and across groups ( using SPSS ) .
+Multivariate analyses , including ordered logistical regression and statistical simulations using Clarify in Stata ( King , Tomz , & Wittenberg , 2000 ) , were to be used to assess the relative influence of cultural worldviews and other characteristics on support for OCLs .
+The size of the sample furnished adequate power to detect even small effect sizes ( e.g. , r = .10 ) with a probability well over .80 at p B .05 ( Cohen , 1988 ) .
+As a result , findings of nonsig- nificance could be equated with lack of effect with low risk of Type II error ( Streiner , 2003 ) .
+Finally , we planned to use structural equation modeling to test the relationship between cultural and other values and the perceived efficacy of OCLs .
+These analyses were performed with the Amos SEM module of SPSS .
+To facilitate multivariate regression , missing data were replaced by multiple imputation using the ICE module in Stata ( Royston , 2004 , 2005 ) .
+Five imputed data sets were used , more than ample for the observed rate of missing data ( 2.1 % ) ( von Hippel , 2005 ) .
+The data were combined and analyzed according to the formulae presented in King , Honaker , Joseph , and Scheve ( 2001 ) and Little and Rubin ( 2002 ) .
+RESULTS We now turn to the study results .
+We start with preliminary analyses , then move on to multivariate regression and simulations , and finally consider structural equation models .
+Preliminary Analyses As expected , the subject of OCLs proved fairly novel among our subjects .
+Sixty percent reported knowing ‘ ‘ nothing at all ’ ’ before the study , and 26 % only ‘ ‘ a little. ’ ’ Another 12 % reported knowing ‘ ‘ some. ’ ’ Only 3 % descri- bed themselves as knowing ‘ ‘ a lot. ’ ’ Also as expected , knowledge of OCLs was higher among subjects who reported having a family member or close friend who has a serious mental illness , but were still relatively low overall .
+Just under 30 % of the subjects who answered this question indicated having a relationship with a person with mental illness .
+Some 24 % of those subjects , as opposed to 11 % of those not connected to a person with mental illness , reported knowing either ‘ ‘ some ’ ’ or ‘ ‘ a lot ’ ’ about OCLs .
+Whereas 89 % of the subjects who reported no connection indicated they knew either ‘ ‘ a little ’ ’ or ‘ ‘ noth- ing at all ’ ’ about OCLs , only 76 % of those who were connected to persons with mental illness gave these same responses .
+Responses to SUPPORT indicated ambivalence but modest support over all ( Fig .
+3 ) .
+More than 60 % of the 126 Law Hum Behav ( 2010 ) 34:118–140 123 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+subjects indicated that they agreed , and some 38 % that they disagreed , that ‘ ‘ people with psychiatric conditions like schizophrenia should be forced by law to get outpatient treatment from a doctor. ’ ’ Nevertheless , 48 % of the sub- jects reported only ‘ ‘ mildly ’ ’ feeling one way or the other .
+The more particular attitudinal measures reflected an even greater degree of ambivalence .
+Fairly strong majori- ties reported some level of agreement with the efficacy items : 67 % agreed that ‘ ‘ outpatient commitment laws are likely to improve the mental health of people with condi- tions like schizophrenia ’ ’ ( EFFECTIVE ) and 70 % agreed that ‘ ‘ outpatient commitment laws will make society safer by assuring that people with conditions like schizophrenia get appropriate treatment ’ ’ ( SAFETY ) .
+However , 38 % reported agreeing that ‘ ‘ legally requiring people with con- ditions like schizophrenia to get outpatient treatment from a doctor is an unacceptable interference with personal liberty ’ ’ ( LIBERTY ) and another 26 % only ‘ ‘ mildly ’ ’ dis- agreed with that statement .
+There were also significant individual differences in attitudes toward OCLs ( Table 2 ) .
+Men were more likely than women , and whites more likely than African-Ameri- cans , to support OCLs .
+There were also significant differences among sub- jects subscribing to different cultural worldviews .
+As expected , individualists were substantially less supportive of OCLs than were communitarians .
+Surprisingly , how- ever , egalitarians were overall more supportive than hierarchs .
+In line with previous studies , liberals and conservatives did not significantly differ in their level of support for OCLs .
+However , Democrats reported being more sup- portive of such laws than did Republicans .
+Subjects who reported knowing more ( either ‘ ‘ some ’ ’ or ‘ ‘ a lot ’ ’ ) were significantly more supportive of OCLs than subjects who reported knowing less ( either ‘ ‘ a little ’ ’ or 14 % 10 % 15 % 9 % 18 % 17 % 22 % 10 % 29 % 40 % 33 % 19 % 19 % 17 % 15 % 26 % 9 % 8 % 8 % 10 % 7 % 8 % 18 % 16 % 0 % 25 % 50 % 75 % 100 % SUPPORT EFFECTIVE SAFETY LIBERTY Strongly Disagree Moderately Disagree Mildly Disagree Mildly Agree Moderately Agree Strongly Agree Fig .
+3 Responses to OCL items Table 2 Comparison of group attitudes toward OCLs Means are scores on 6-pt scale for Support .
+‘ ‘ Diff ’ ’ refers to difference in means of opposing groups .
+Bolded text indicates statistical signifi- cance in means of compared groups at p B .05 Law Hum Behav ( 2010 ) 34:118–140 127 123 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+‘ ‘ nothing at all ’ ’ ) .
+Catholics were also significantly more supportive than non-Catholics.5 But interestingly , support did not significantly differ among subjects who reported being related to or a close friend of a person with a serious mental illness , on the one hand , and those who reported no such connection , on the other .
+Multivariate Analyses Regression Ordered logistical regression was performed to disentangle the effect of various influences from one another ( Table 3 ) .
+The dependent variable was SUPPORT , the item that measured the level of agreement with the statement ‘ ‘ people with psychiatric conditions like schizophrenia should be forced by law to get outpatient treatment from a doctor. ’ ’ Independent variables were entered in steps in order to identify the relative explanatory power of , and the relationships between , different sets of influences .
+Model 1 assesses the impact of various demographic characteristics plus political party affiliation and ideology .
+It revealed that , all else equal , being female significantly predicted greater support for OCLs , as did being Catholic .
+In contrast , being white as opposed to African-American sig- nificantly predicted less support , as did level of education .
+The political variables—ideology and party affiliation ( Democrat versus Republican ) —had no significant effect .
+This result suggests that the observed overall difference between Democrats and Republican in the sample was an artifact of the correlation between party affiliation and other characteristics that explained variation in support for OCLs .
+Model 2 added level of self-reported knowledge of OCLs and family relationship or friendship with someone who has a serious mental illness .
+Consistent with observed group differences overall , level of knowledge predicted greater support for OCLs while connection to a person with mental illness had no significant effect .
+Model 3 added the cultural worldview variables .
+Both were significant and had the predicted sign .
+That is , all else equal , the more individualistic subjects were the more they Table 3 Ordered logistic regression analysis of support for OCLs N = 1,496 .
+DV is SUPPORT .
+Ordered log-odds ( logit ) regression coefficients .
+Standard errors in parentheses .
+Bolded coefficients are significant at p B .05 5 Mean responses of subjects of other particular religious affilia- tions—including Protestant , other Christian , Jewish , Muslim , and other non-Christian—were not significantly different from individuals of other or no affiliations .
+128 Law Hum Behav ( 2010 ) 34:118–140 123 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+opposed OCLs , while the more hierarchical they were the more they supported such laws .
+The positive effect of Hierarchy in the multivariate analysis was thus the opposite of its effect in the pre- liminary analysis of mean differences across groups ( Table 2 ) .
+Because a disposition toward egalitarianism predicts greater opposition to OCLs holding all else equal , the greater degree of support for OCLs observed in egali- tarians relative to hierarchs overall must be an artifact of a positive correlation between egalitarianism and a particular character that predicts support .
+The most likely seemed to be race , insofar as being African-American correlated with egalitarianism ( r = -.26 , p B .01 ) and predicted support for OCLs relative to being white all else being equal .
+This conjecture was confirmed by Model 4 , which added variables to measure the interaction between race and cultural worldview .
+In the resulting analysis , the coeffi- cients for Hierarchy 9 White and Individualism 9 White reflect the respective impact of those two worldviews on the attitudes of whites .
+The coefficients for Hierarchy versus Egalitarianism and Individualism versus Commu- nitarianism , in turn , reflect the impact of those worldviews , respectively , on the attitudes on nonwhites ( Jaccard & Turrisi , 2003 ) .
+As can be seen , Hierarchy had a signifi- cantly positive effect on SUPPORT for OCLs among whites , and a significantly negative effect on SUPPORT among nonwhites , including African-Americans .
+Individ- ualism had a negative impact on the attitudes of both whites and nonwhites , but was larger in magnitude for the former .
+The positive effect of OCL knowledge on OCL support remained significant and was not diminished in size across the models .
+This result suggests that the influence of OCL knowledge is not an artifact of its correlation with other influences on OCL support .
+Monte Carlo Simulations We performed a series of statistical simulations to facilitate assessment of the practical impact of the influences iden- tified as significant in the multivariate regression analysis .
+The simulations were generated with Clarify .
+In Clarify , an analyst specifies values for the independent variables that form a multivariate regression model .
+The application then generates a predicted value based on an algorithm that incorporates a degree of variability corresponding to the standard errors associated with the model coefficients .
+The application then repeats that process as many times as directed by the analyst—typically 1,000 times , or enough to approximate the entire probability distribution for the dependent variable .
+The resulting array of values for that dependent variable can then be analyzed with techniques that are statistically equivalent to those used in survey sampling to determine an average predicted value , plus a precisely calculated margin of error ( King et al. , 2000 ) .
+Table 4 reflects the results of simulations based on Model 4 of our multivariate regression analysis ( Table 3 ) .
+The simulations were designed to illustrate the practical effect of significant independent variables , including gen- der , race , education , religion ( Catholic versus non- Catholic ) , cultural worldviews , and knowledge of OCLs .
+In each case , the results reflect the probability of one or another response to SUPPORT when the independent variables associated with the indicated characteristic or combination of characteristics are assigned the specified value and all other independent variables are set at the sample mean.6 For example , when all other independent variables are set at their mean , setting knowledge at a value corresponding to knowing ‘ ‘ a lot ’ ’ generates a likelihood of agreeing with SUPPORT of 77 % ( ±3 % ) , whereas setting it at a value corresponding to knowing ‘ ‘ nothing ’ ’ generates a likelihood of 58 % ( ±2 % ) .
+Table 4 also illustrates the practical impact of the interaction between race and Hierarchy–Egalitarianism .
+The difference between being white and African-American ( all else equal ) is modest : 59 % ( ±2 % ) support versus 65 % ( ±3 % ) , respectively .
+The race gap among egalitarians , however , is substantial : whereas all else equal , being white and egalitarian predicts a 44 % ( ±4 % ) likelihood of support for OCLs , whereas being African-American and egalitarian predicts a 71 % ( ±3 % ) likelihood of support .
+Figure 4 arrays the results of the simulations based on the level of predicted support .
+Thus , whereas likelihood of agreeing with SUPPORT to some degree when all inde- pendent variables are set to their mean is 62 % ( ±2 % ) ( Table 5 ) , the likelihood of agreeing when the worldview variables are set to hierarchical and communitarian ( and all other independent variables are set to their mean ) is 89 % ( ±3 % ) .
+The likelihood of ‘ ‘ strongly agreeing ’ ’ when the worldview variables are set to hierarchical communitarian are approximately twice as high as the likelihood of ‘ ‘ strongly agreeing ’ ’ when the worldview variables are set to their mean ( 24 % , ±5 % , vs. 12 % , ±2 % ) .
+At the other 6 The worldview value for ‘ ‘ hierarchical communitarian ’ ’ were set at one standard deviation from the mean toward the ‘ ‘ hierarchy ’ ’ end of Hierarchy–Egalitarianism scale and one standard deviation from the mean toward ‘ ‘ communitarian ’ ’ end of the Individualism-Communi- tarianism scale .
+Likewise , the worldview values for ‘ ‘ egalitarian individualist ’ ’ were set one standard deviation from the means toward egalitarianism and individualism on these two scales .
+Whereas all but the specified values are set to the mean in the simulation , in the sample demographic and other individual characteristics correlate with each other .
+Accordingly , these likelihoods should not be interpreted as percentages of individuals of the specified character- istics who would give the indicated responses .
+Rather they are illustrations of the practical impact associated with the specified characteristics when others are held constant .
+Law Hum Behav ( 2010 ) 34:118–140 129 123 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+extreme , when the relevant independent variables reflect the values associated with being white , being both egali- tarian and individualistic , and having a graduate degree ( all other independent variables set to their mean ) , the likeli- hood of agreeing with SUPPORT to some degree is only 27 % ( ±2 % ) .
+The likelihood of ‘ ‘ strongly disagreeing ’ ’ associated with those values is approximately three times as high as it is when all independent variables are set at their mean ( 30 % , ±7 % vs. 9 % , ±1 % ) .
+Structural Equation Models Structural equation modeling ( SEM ) was used to test hypotheses relating to the relationship of values and per- ceived instrumental efficacy in determining support for OCLs .
+Multivariate regression assesses the unique effect that each independent or explanatory variable has on the dependent variable by measuring its impact after taking account of the aggregate effect of all remaining variables .
+25 % 22 % 18 % 15 % 11 % 9 % 7 % 6 % 4 % 26 % 25 % 22 % 21 % 17 % 14 % 12 % 11 % 8 % 29 % 29 % 31 % 32 % 31 % 29 % 27 % 27 % 21 % 12 % 14 % 16 % 18 % 22 % 23 % 25 % 25 % 25 % 4 % 5 % 6 % 7 % 9 % 11 % 13 % 13 % 16 % 4 % 5 % 6 % 7 % 11 % 13 % 17 % 17 % 26 % 0 % 25 % 50 % 75 % 100 % Co m m un ita ria n Hi ea rc his t Kn ow s a L ot Bl ac k E ga lita ria n Hi gh S ch oo l Kn ow s N ot hin g Gr ad E du ca tio n In div idu ali st Eg ali ta ria n W hit e Eg ali ta ria n W hit e In d- Eg al Gr ad E d Strongly Disagree Moderately Disagree Mildly Disagree Mildly Agree Moderately Agree Strongly Agree Fig .
+4 Simulated response probabilities for OCL support ( ‘ ‘ People with psychiatric conditions like schizophrenia should be forced by law to get outpatient treatment from a doctor ’ ’ ) Table 4 Simulated response probabilities for SUPPORT N = 1,496 .
+Probabilities of response based on order logistic regression and Monte Carlo simulations .
+Simulations reflect likelihoods of response when all individual characteristics except specified ones are set at sample mean .
+Margins of error reflect 95 % confidence intervals 130 Law Hum Behav ( 2010 ) 34:118–140 123 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+SEM , in contrast , permits testing of hypothesized indirect effects , in which an explanatory variable influences the dependent variable through its effect on one more explanatory variables , as well as the direct or independent or independent effects of such variables ( Weston & Gore , 2006 ) .
+In the SEM models we tested , the dependent vari- able was SUPPORT .
+The explanatory variables , arranged in relationships that corresponded to the Utilitarian Aggregation Model and the Cultural Cognition Model , respectively , included the cultural worldview measures ; PERCEIVED EFFICACY , the scale that combined responses to items on the instrumental effectiveness of OCLs ; LIBERTY , which measured subject agreement with the statement ‘ ‘ legally requiring people with conditions like schizophrenia to get outpatient treatment from a doctor is an unacceptable interference with personal liberty ’ ’ ; POSITIVE AFFECT , the measure of the affective orien- tation of subjects toward OCLs ; and level of subject knowledge of OCLs .
+We initially tested two models .
+The first ( Fig .
+5 ) treated values—the cultural worldview measures as well as the more proximate concern over abridgment of patient lib- erty—and perceived instrumental efficacy as influencing SUPPORT .
+But consistent with the Utilitarian Aggregation Model , values and perceived efficacy were treated as independent of one another .
+Knowledge of OCLs was treated as influencing both perceived efficacy and concern over abridgment of patient liberty .
+Positive Affect was treated a byproduct of the various assessments of OCLs and overall support for OCLs .
+The second SEM ( Fig .
+6 ) reflected the premises of the Cultural Cognition Model .
+Both cultural worldview mea- sures , along with concern for patient liberty , were posited as influencing perceived OCL efficacy either directly or through the mediating influence of affect , which was thus viewed as a determinant of instrumental efficacy rather than as a byproduct of it .
+Knowledge of OCLs was again treated as influencing perceived efficacy and concern for patient liberty , but also as influencing positive affect directly .
+It was also posited , however , that knowledge would be influenced by the cultural worldview measures ; this supposition permitted assessment of whether the cor- relation between knowledge and perceived efficacy might be spurious—that is , a result of the effect of worldviews on both level of knowledge and perceived efficacy .
+It was also posited that the cultural worldview measures would influ- ence OCL support both directly and indirectly through their effects on positive affect and liberty concern .
+In both models , Hierarchy and Individualism were posited as covarying .
+This relationship was posited as a result of previous work showing that these two worldviews are modestly correlated with one another ( although , as hypothesized , they in fact exerted opposing influences on OCL support in this study ) .
+The two models were tested for goodness of fit .
+The primary goodness-of-fit measure used in SEM is the v2 or ‘ ‘ absolute fit ’ ’ test , which assesses whether the observed error in the model is significantly larger than one would expect to see by chance if the model were true .
+Because the null hypothesis is that the model is true , a significant p value for v2 indicates that the degree of discrepancy Hierarchy v. Egalitarianism Individualism vs. Communitarianism .28 -.05 -.41 .50 .09 .22 -.20 .39 OCL Support R 2= .43 Perceived Efficacy R 2= .01 Positive Affect R 2= .37 Liberty Concern R2 = .08 -.06 OCLKNOW -.14 .08 Fig .
+5 Utilitarian aggregation SEM .
+Note .
+N = 1496 .
+Model fit : v2 = 647.9 , p \ .01 ; SRMR = .15 ; RMSEA = .22 ; .
+Path coefficients are standardized beta weights , calculated by maximum likelihood estimation .
+Bolded coefficients are significant at p B .05 , underlined at p B .10 .
+Error terms omitted Table 5 Decomposition of effects on OCL support in cultural cog- nition SEM Direct effects Indirect effects Total effects Hierarchy versus Egalitarianism .05 .05 .10 Individualism versus Communitarianism – -.25 -.25 Liberty concern -.32 -.30 -.62 Knowledge – .10 .10 Positive affect .19 .16 .35 Perceived efficacy .37 – .37 N = 1,496 .
+Effects , measured in standardized beta regression weights , are on SUPPORT .
+Bolded indicates significant at p B .05 ( total effects only ) Law Hum Behav ( 2010 ) 34:118–140 131 123 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+exceeds what would be expected to occur by chance , and that the model should therefore be rejected ( Byrne , 2001 ) .
+It is well established , however , that v2 tends toward excessive Type II error—the conclusion that the model does not fit when it in fact does—because , among other things , the significance of v2 necessarily increases as sample size becomes large ( Lee , 2007 ) .
+Accordingly , analysts have developed a range of alternative ‘ ‘ pragmatic fit ’ ’ measures .
+Although an uncomfortable degree of dis- sensus exists over these measures , it is generally accepted that a standardized root mean square residual ( SRMR ) B.08 and a root mean square error of approximation ( RMSEA ) B.08 together constitute an acceptable fit , one that minimizes both Type I error ( a false finding of fit ) and Type II error ( Hu & Bentler , 1999 ) .
+As reflected in Fig .
+5 , the specified representation of the Utilitarian Aggregation Model did not display adequate fitness .
+The p value for v2 was \.00 .
+In addition , both SRMR ( .15 ) and RMSEA ( .22 ) exceeded .08 .
+Post hoc testing was performed to determine whether any alternative representation of the Utilitarian Aggrega- tion Model fit the data .
+In this analysis , the only posited relationships were the influence of perceived efficacy and patient liberty concern on OCL support , and between OCL support and affect .
+Models involving these relationships and every possible combination of additional influences ( or lack of the same ) of knowledge on perceived efficacy ; of knowledge and cultural worldviews on liberty concern ; and of cultural worldview , liberty concern , and perceived effi- cacy on affect were then tested for fit .
+Consistent with the core premise of the Utilitarian Aggregation Model , in none of the tested alternatives was either of the cultural world- views or concern with liberty treated as influencing perceived efficacy .
+Of the 256 resulting models , none displayed adequate fit under the v2 or the pragmatic fit measures .
+As reflected in Fig .
+6 , the hypothesized representation of the Cultural Cognition Model did adequately fit the data .
+The p value for v2 was .78 .
+Both SRMR ( \.01 ) and RMSEA ( \.01 ) were under .08 .
+Post hoc testing was also performed to determine whe- ther any model related to the hypothesized representation of the Cultural Cognition Model but not consistent with that Model ’ s key premise ( the influence of values , medi- ated by affect , on perceived efficacy ) fit the data .
+In the analysis , models positing the influence of knowledge of OCLs on perceived efficacy , affect , and liberty concern , and also the influence of perceived efficacy and liberty concern on support , were tested with models that posited cultural worldviews , liberty , and affect influencing or not influencing perceived efficacy , either directly or indirectly .
+Of the 2,048 models tested none adequately fit the data under the absolute or pragmatic tests without positing that one or both cultural worldviews influenced perceived efficacy , that liberty influenced perceived efficacy , that affect influenced perceived efficacy , and that one or both cultural worldviews and liberty all affected affect .
+This finding suggests no model that fails to treat perceived efficacy as endogenous to both affect and cultural world- views fits the data .
+The path coefficients in the Cultural Cognition SEM ( Fig .
+6 ) shed further light on the Cultural Cognition Model hypothesis .
+First , the small and nonsignificant effects of the cultural worldview measures on knowledge of OCLs failed to support the possibility that the apparent influence of knowledge and OCL support is a spurious artifact of the impact of cultural worldviews on both knowledge and support .
+Second , the influence of knowledge of OCL laws appeared to be primarily a result of its negative impact ( b = -.14 , p B .01 ) on concern about patient liberty .
+The positive impact of knowledge on perceived efficacy ( b = .08 , p B .01 ) was relatively small compared to the effect of positive affect , the direct effect of liberty , and combined direct effects of cultural worldviews .
+The effect of knowledge on positive affect was nonsignificant .
+The Hierarchy v. Egalitarianism Individualism vs. Communitarianism .28 .07 -.51 -.06 -.33 .43 -.05 .37 .05 -.32 .19-.06 OCL Support R2 = .56 Perceived Efficacy R2 = .48 Positive Affect R2 = .31 Liberty Concern R 2= .08 OCLKNOW R 2 = .00 .01 -.01 -.14 -.14 .03 .08 -.03 Fig .
+6 Cultural cognition SEM .
+Note .
+N = 1496 .
+Model fit : v2 = .5 , p = .78 ; SRMR \ .01 ; RMSEA \ .01 .
+Path coefficients are standardized beta regression weights , calculated by maximum likelihood estimation .
+Bolded coefficients are significant at p B .05 , underlined are significant at p B .10 .
+Error terms omitted 132 Law Hum Behav ( 2010 ) 34:118–140 123 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+total effect of knowledge on support ( Table 5 ) was also relatively modest compared to other influences .
+Third , values influenced OCL support both directly and indirectly .
+The indirect effect is reflected in the significant effects of Individualism ( b = -.14 , p B .01 ) , Hierarchy ( b = .07 , p B .01 ) , and liberty concern ( b = -.51 , p B .01 ) on affect , which in turn directly affected support ( b = -.33 , p B .01 ) ; and the significant effects of Indi- vidualism ( b = -.06 , B .01 ) and liberty concern ( b = -.33 , p B .01 ) on perceived efficacy , which also directly affected support ( b = -.37 , p B .01 ) .
+Nevertheless , both Hierarchy ( b = .05 , p B .01 ) and liberty concern ( b = -.32 , p B .01 ) also directly affected support as well .
+Finally , the largest total effect on support was exerted by concern for patient liberty ( Table 5 ) .
+A modest amount of the variance in liberty concern ( R2 = .08 ) was explained by both Individualism and to a lesser extent knowledge of OCLs .
+DISCUSSION AND CONCLUSIONS Summary and Interpretation of Results We hypothesized that opinion on OCLs would be influ- enced by cultural cognition .
+That is , we predicted that individuals ’ assessments of OCLs would be shaped by their worldviews , which would exert their effect primarily through their impact on subjects ’ assessments of the instrumental efficacy of OCLs .
+The study largely con- firmed this prediction .
+Outpatient commitment laws present a complex issue of political dispute .
+Because they are readily amenable to a plurality of framings , it is not obvious how they fit con- ventional political ideologies ; advocacy groups who contest them do not bear any obvious partisan affiliation .
+Consistent with previous studies , ours found that members of the public are divided over OCLs but not along clear ideological or partisan lines .
+Still , we did find that there is a logic to public opinion on OCLs—a logic that is essentially cultural in nature .
+By and large , OCLs appeal to individuals who are hierarchical and communitarian—that is , persons who value authority , who trust experts , and who believe that securing conditions of societal well-being is a duty of the collective that takes priority over individual interests .
+Persons who are egali- tarian and individualistic—who resent stratification , who distrust authority , and who place the prerogatives of indi- viduals ahead of those of the collective—are more likely to oppose OCLs .
+That people with these combinations of outlooks would take such positions on OCLs is hardly a shock .
+But because on many issues egalitarian and com- munitarian orientations converge on liberal policy stances , and hierarchical and individualistic orientations on ‘ ‘ con- servative ’ ’ ones , it is also not surprising that the shape of opinion on OCLs appears blurry and indistinct when viewed through conventional ideological lenses .
+More important , subjects ’ positions on OCLs , while consistent with what we might expect for persons of their values , are best seen as reflecting the influence of culture on their perception of policy relevant facts .
+The pattern of opinion we observed in our study suggests that individuals for the most part made a straightforward practical judg- ment : if they perceived that OCLs would be effective in making individuals healthier and communities safer , study subjects supported OCLs , and if not , then not .
+But whether subjects perceived OCLs as likely to be efficacious or not depended on their values .
+The proposition that individuals ’ practical judgments were formed independently of , and then combined in some way with , their direct cultural appraisals of OCLs could not be reconciled with our data .
+There was a strong correlation between subjects ’ views about OCLs and their affective responses—that is , whether OCLs provoked positive or negative feelings .
+The data , however , did not support the inference that subjects ’ per- ception of the efficacy of OCLs caused such feelings .
+Instead , consistent with other studies ( Peters et al. , 2004 ) , affect was best understood as a psychological mechanism that mediated the influence that subjects ’ cultural world- views and other values had on their perceptions of OCLs ’ instrumental efficacy .
+The guiding influence of affect is the likely explanation of how subjects formed positions in line with their cultural values despite knowing little about OCLs and being furnished with only spare information ( Slovic et al. , 2004 ) .
+The influence of other individual characteristics was also largely consistent with the hypothesized influence of cul- tural cognition .
+Neither liberal-conservative ideology nor party affiliation had a significant influence on support for OCLs , once other individual characteristics were controlled for .
+The influence of gender , too , disappeared once cultural worldviews were taken into account .
+The influence of Catholicism persisted even controlling for cultural world- views , but the effect it had in predicting support for OCLs reinforces the conclusion that such laws are congenial to persons of a hierarchical and communitarian orientation .
+We also found that knowledge of OCLs exerts a positive effect on support for OCLs , even after cultural worldviews ( and other influences ) are controlled for .
+However , for the most part , knowledge did not appear to influence support through its effect on judgments of the perceived efficacy of OCLs .
+Instead , the impact of knowledge was associated primarily with the effect that it had in dissipating concern about the adverse impact of OCLs on liberty .
+Somewhat surprisingly , having a friend or a family member with a serious mental illness did not influence our Law Hum Behav ( 2010 ) 34:118–140 133 123 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+subjects ’ attitudes .
+This finding could reflect the low degree of knowledge about OCLs that even subjects in this situation had .
+Alternatively , the finding is consistent with the straightforward conclusion that persons connected to indi- viduals with a mental illness resort to cultural cognition to gauge the effects of OCLs , just as everyone else does .
+There were a couple of findings that qualify the con- clusion that public opinion toward OCLs is a product of cultural cognition .
+One was the influence of the moral judgment that OCLs are ‘ ‘ an unacceptable interference with personal liberty. ’ ’ The impact of liberty concern was , not surprisingly , influenced by how culturally individual- istic subjects ’ cultural worldviews were .
+In addition , concern with liberty , like both Hierarchy–Egalitarianism and Individualism–Communitarianism , exerted an influ- ence on support for OCLs through its impact on perceptions of instrumental efficacy ; that is , concern for liberty was one of the values ( one more proximate to OCLs than are cultural outlooks ) that exerted a cognitive influ- ence on subjects ’ beliefs about how well OCLs would work .
+But unlike cultural worldviews , liberty concern also exerted a direct influence on support for ( or opposition to ) OCLs , unmediated by perceptions of instrumental efficacy .
+This finding , then , suggests that although public opinion toward OCLs is largely shaped by the influence of values on perceptions of such law ’ s instrumental efficacy , there is a component of noninstrumental evaluation , too , one partly explained by cultural individualism .
+Finally and most intriguingly , our study showed that race is a genuine wild-card in public conflict over OCLs .
+African-Americans more strongly support OCLs than do whites .
+This remains the case , moreover , even after cultural worldviews and other influences are controlled for .
+Indeed , cultural worldviews interact with race : egalitarianism and individualism move whites to oppose OCLs in a fashion that African-Americans are largely ( although in the case of individualism , not entirely ) impervious to .
+Indeed , the negative impact of egalitarianism on attitudes toward OCLs is so heavily conditional on being white that egali- tarianism—a characteristic that tends to correlate with being African-American—actually predicts being sup- portive of OCLs unless race is controlled for .
+Thus , whereas Catholics can be seen as supporting OCLs because of an affinity between Catholicism and the hierarchical and communitarian style to which OCLs are congenial , Afri- can-Americans seem to support OCLs despite the general antagonism between OCLs and the egalitarian cultural style to which most African-Americans adhere .
+Why ?
+Perhaps African-Americans , because of the dis- proportionate incidence of imprisonment in their communities , are more likely to infer that OCLs are lib- erty-conserving than are white egalitarians .
+African- Americans may be more likely to perceive that persons of color with mental illness will end up incarcerated without OCLs .
+But this is just a guess .
+It is a staple of public opinion research that on certain types of issues political outlooks influence African-Amer- icans differently from how they influence whites ( Dawson , 2001 ) .
+The same has been shown in work examining cul- tural worldviews ( Kahan et al. , 2007 ) .
+This study ’ s findings of the uniqueness of African-American positions on OCLs does not do anything to solve this puzzle , but it does add another intriguing piece to it .
+Implications for Evolution and Education of Public Attitudes The future of public opinion on OCLs obviously can not be predicted with confidence on the basis of a single study such as the present one .
+But our findings do suggest certain practical conclusions for those interested in promoting the enlightened evolution of public attitudes toward these laws .
+One is that it would likely be a mistake to conclude that the debate over OCLs will necessarily turn on ‘ ‘ moral and political ’ ’ questions that ‘ ‘ can not be settled with data ’ ’ ( Hiday , 2003 , p. 25 ) .
+On the contrary , our study suggests that the perceived impact of such laws on the well-being of per- sons with mental illness and the safety of the communities they live in is indeed likely to play a large and possibly even decisive role in popular judgments .
+It is reasonable , then , to anticipate that such citizens will be very keen to learn what empirical data show on whether such laws really work .
+Nevertheless , it would also likely be a mistake to assume that the public will simply conform its assessment of OCLs to whatever such data reveal .
+The reason is that ordinary people ’ s values are likely to shape their under- standing of what such investigation proves .
+That is the upshot of our finding that attitudes toward OCLs reflect the signature of cultural cognition .
+As a general matter , the same psychological dynamics that motivate individuals to form factual beliefs congenial to their cultural predisposi- tions in the first place thereafter tend to make individuals selectively credit information in a manner that reinforces their culturally grounded priors ( Kahan et al. , in press ; Lord et al. , 1979 ) .
+Accordingly , individuals disposed by their values to adopt opposing positions on OCLs are less likely to converge than to polarize .
+If this happens , the future of public opinion on OCLs will look very much like the present state of public opinion on a host of other pol- icies—from global warming to domestic terrorism , from school shootings to vaccination of school girls for HPV— that feature public disagreement about facts .
+But again , nothing in our study suggests that future is certain .
+This is so not only because the findings of this study , like any on a novel and complicated matter of public opin- ion , stand in need of further exploration .
+It is so because , 134 Law Hum Behav ( 2010 ) 34:118–140 123 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+even on their own terms , our conclusions do not dictate that OCLs will become mired in cultural political conflict .
+An emerging body of research suggests that the dynamics of cultural cognition , while not likely susceptible to being counteracted in any strong sense , can be managed in a fashion that neutralizes the distortions they pose to enlightened public deliberation .
+This research , which will be described in more detail below , has identified techniques for communicating sound empirical information in a manner that makes it possible for persons of diverse values to accurately absorb its import .
+The most important practical implication of this study , then , is certainly not that empirical study of the efficacy of OCLs is futile .
+Rather , it is that such study must be supple- mented with additional empirical research—relating to the effective communication of OCL data to persons of diverse cultural outlooks—in order for its value to be fully realized .
+Issues for Future Research Outlooks of OCL Advocates Future studies should be undertaken to assess the impact of cultural cognition and other influences on representatives of the mental-health groups most centrally involved the OCL debate .
+Because those advocates tend to emphasize instru- mental arguments based on conflicting interpretations of apparently inconclusive data , one might surmise that they , too , are motivated to form beliefs that fit their cultural val- ues .
+If they are genuinely interested in basing policy on the best empirical data , it would seem reasonable to assume that they , too , would be both amenable to persuasion by , and interested in employing , information–communication strategies that seek to counteract cultural cognition .
+Alter- natively , these advocates could be basing their positions directly on ideological or noninstrumental values , ones they might be failing to disclose in their arguments for strategic or other reasons .
+In that case , not only would these advocates be unlikely to be influenced by communication techniques that seek to mitigate the effect of cultural cognition on information processing ; they would also be unlikely to use such techniques in their own public advocacy .
+As a result , those who are interested in promoting public receptivity to the best available empirical information that might become available would have to take steps to assure that additional modes of public education genuinely sensitive to counter- acting , rather than exploiting , cultural cognition play a significant role in deliberations over OCLs .
+Information Processing One of the central reasons for testing the power of cul- tural cognition theory to explain public attitudes toward OCLs was to assess the utility of using it to study tech- niques for communicating empirical information about these laws .
+Based on results of our study , we would propose follow-up experiments that examine dynamics already understood alternately to accentuate and to mod- erate the polarizing impact of cultural cognition on information processing .
+One such dynamic is identity-protective cognition .
+Individuals conform their factual perceptions to their values in part to avoid the psychic costs of believing that societal well-being depends on either restricting practices essential to their identities or promoting activities inimi- cal to them ( Sherman & Cohen , 2002 ; Kahan et al. , 2007 ) .
+This dynamic suggests two predictions that can be experimentally tested .
+One is that individuals will attend to information about OCLs in a biased way that reinforces their cultural predispositions toward them ( Chen , Duck- worth , & Chaiken , 1999 ; Cohen , 2003 ) .
+If so , there should be a greater degree of cultural polarization among persons who are exposed to balanced information ( that is , infor- mation that does not have a significant main effect on beliefs ) than among our study subjects , many of whom knew little about OCLs and who received only spare information in our study ( Kahan , et al. , in press ; Lord et al. , 1979 ) .
+Second , acceptance of information on OCLs is likely to be conditional on whether the information is framed in a way that threatens or affirms their cultural identities .
+Assertions of environmental and technological risk , for example , ordinarily threaten the identity of indi- vidualists because such claims imply that market behavior—an activity essential the individualist way of life—should be curtailed .
+Market-based solutions to envi- ronmental and technological risks—e.g. , tradable emission permits to promote clean air ; or nuclear power develop- ment to reduce reliance on greenhouse-gas emitting fossil fuels—affirm the identities of individualists by showing how their preferred form of social interaction promotes the general welfare .
+Because identity-affirming information is easier to accept than identity-threatening information , persons of an individualist worldview are more likely to credit empirical data relating to environmental risks when that information is framed in a way that makes market- based solutions more salient ( Kahan , Slovic , Braman , & Gastil , 2006 ; Cultural Cognition Project , 2007 ) .
+As discussed , OCLs admit of multiple characterizations : as liberty constraining or liberty preserving ; as a form of regimented social control or a form of subsidized social welfare , and so forth .
+Accordingly , by making one or another of these characterizations more prominent , it should be possible to determine experimentally the relative impact of information framings that alternately threaten and affirm the cultural identities of diverse subjects .
+Ones Law Hum Behav ( 2010 ) 34:118–140 135 123 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+that have the latter quality should generate a state of maximum open-mindedness toward the information being conveyed ( Cohen et al. , 2007 ) .
+Such an approach is not intended to persuade , but rather to educate in such a way that information is best understood .
+The information can then be evaluated and weighted in accordance with the individual ’ s own values and preferences .
+Another dynamic that affects the magnitude of cultural cognition is the cultural credibility heuristic .
+Because individuals often lack the time and expertise to evaluate competing forms of empirical data , they rely on those whose judgment they trust to tell them what claims to accept .
+The people they trust , in turns out , are ones who share their defining group commitments ( Mackie & Quel- lar , 2000 ) .
+As a result , on a novel policy issue like nanotechnology regulation ( Kahan et al. , 2008 ) or the vaccination of school girls for HPV ( Kahan et al. , 2008 ) , individuals will tend to adopt the position of a policy expert whose perceived cultural values they share regardless of the position that expert is advocating .
+The impact of cultural credibility on beliefs about OCLs should also be amenable to straightforward study .
+Precisely because OCLs permit competing characteriza- tions , subjects are unlikely to be surprised to see advocates of any particular cultural persuasion on either side of the issue .
+If cultural cognition is at work in assessments of OCLs , however , subjects should be drawn to the positions advocated by policy experts whose cul- tural outlooks are perceived to be most like the subjects ’ own .
+Moreover , if subjects are made to see that advocates who share their outlooks are as likely to be found on one side of the issue as the other , subjects should again attend to the information being presented in a maximally open- minded way .
+A series of studies such as these , in our view , should have a dual aim .
+One , which is scholarly in nature , is to assess further the apparent link between cultural cognition and OCLs .
+The other is more practical : to begin to identify techniques for ameliorating the potential impediments that cultural cognition creates to dissemination of sound infor- mation on OCLs , if in fact ordinary citizens are disposed toward cultural polarization over these laws .
+Here the aim would not be to promote the acceptance of any particular position on whether OCLs are a good idea .
+Rather it would be to help secure a deliberative environment in which citizens could decide that for themselves through deliber- ations predicated on the best empirical data that are likely to emerge .
+Acknowledgments Research for this paper was funded by the National Science Foundation , Grant SES 0621840 , the Oscar M. Ruebhausen Fund at Yale Law School , and the Research Network on Mandated Community Treatment of the John D. and Catherine T. MacArthur Foundation .
+We owe thanks to Taylor Nesbit for research assistance ; and to Jeffrey Rachliniski , Paul Appelbaum , Henry Steadman , Marvin Swartz , and three anonymous referees for helpful comments on an earlier draft .
+APPENDIX A : INFORMATION ON ON-LINE SAMPLE Polimetrix Polimetrix ( http : //www.poimetrix.com/ ) is a public opinion research firm that conducts on-line surveys and experi- ments on behalf of academic and governmental researchers and commercial customers ( including political campaigns ) .
+It maintains a panel of over 1 million Americans that is uses to construct representative study samples through a population-matching algorithm .
+For more information , see http : //www.polimetrix.com/documents/YGPolimetrix SampleMatching.pdf .
+Demographic Composition of Sample for this Study ( a ) Total number of subjects : 1,496 .
+( b ) Gender : 54 % female , 46 % male .
+( c ) Race : 75 % white , 11 % African-American .
+( d ) Average age : 48 years .
+( e ) Median household income : $ 40,000 to $ 49,000 .
+( f ) Median education level : Some college .
+Date of Survey Dec. 13 , 2007 to Jan. 7 , 2008 .
+APPENDIX B : SURVEY INSTRUMENT Cultural Worldview Scales Six-point response scale for all items : Strongly Disagree , Moderately Disagree , Mildly Disagree , Mildly Agree , Moderately Agree , and Strongly Agree .
+Individualism–Communitarianism Scale 1 .
+IINTRSTS .
+The government interferes far too much in our everyday lives .
+2 .
+SHARM .
+Sometimes government needs to make laws that keep people from hurting themselves .
+3 .
+IPROTECT .
+It ’ s not the government ’ s business to try to protect people from themselves .
+4 .
+IPRIVACY .
+The government should stop telling people how to live their lives .
+5 .
+SPROTECT .
+The government should do more to advance society ’ s goals , even if that means limiting the freedom and choices of individuals .
+136 Law Hum Behav ( 2010 ) 34:118–140 123 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+6 .
+SLIMCHOI .
+Government should put limits on the choices individuals can make so they don ’ t get in the way of what ’ s good for society .
+7 .
+SNEEDS .
+It ’ s society ’ s responsibility to make sure everyone ’ s basic needs are met .
+8 .
+INEEDY .
+It ’ s a mistake to ask society to help every person in need .
+9 .
+SRELY .
+People should be able to rely on the government for help when they need it .
+10 .
+IRESPON .
+Society works best when it lets individ- uals take responsibility for their own lives without telling them what to do .
+11 .
+ITRIES .
+Our government tries to do too many things for too many people .
+We should just let people take care of themselves .
+12 .
+IFIX .
+If the government spent less time trying to fix everyone ’ s problems , we ’ d all be a lot better off .
+13 .
+IENJOY .
+People who are successful in business have a right to enjoy their wealth as they see fit .
+14 .
+IMKT .
+Free markets—not government programs— are the best way to supply people with the things they need .
+15 .
+IPROFIT .
+Private profit is the main motive for hard work .
+16 .
+IGOVWAST .
+Government regulations are almost always a waste of everyone ’ s time and money .
+Hierarchy–Egalitarianism Scale 1 .
+HEQUAL .
+We have gone too far in pushing equal rights in this country .
+2 .
+HREVDIS1 .
+Nowadays it seems like there is just as much discrimination against whites as there is against blacks .
+3 .
+EWEALTH .
+Our society would be better off if the distribution of wealth was more equal .
+4 .
+ERADEQ .
+We need to dramatically reduce inequal- ities between the rich and the poor , whites and people of color , and men and women .
+5 .
+EDISCRIM .
+Discrimination against minorities is still a very serious problem in our society .
+6 .
+HREVDIS2 .
+It seems like blacks , women , homosex- uals and other groups don ’ t want equal rights , they want special rights just for them .
+7 .
+HCHEATS .
+It seems like the criminals and welfare cheats get all the breaks , while the average citizen picks up the tab .
+8 .
+EDIVERS .
+It ’ s old-fashioned and wrong to think that one culture ’ s set of values is better than any other culture ’ s way of seeing the world .
+9 .
+HWMNRTS .
+The women ’ s rights movement has gone too far .
+10 .
+ESEXIST .
+We live in a sexist society that that is fundamentally set up to discriminate against women .
+11 .
+HTRADFAM .
+A lot of problems in our society today come from the decline in the traditional family , where the man works and the woman stays home .
+12 .
+HFEMININ .
+Society as a whole has become too soft and feminine .
+13 .
+EROUGH .
+Parents should encourage young boys to be more sensitive and less rough and tough .
+OCL Items We would now like to know what you think about a policy issue people disagree about .
+Some states have adopted , and others are considering adopting , ‘ ‘ outpatient commitment ’ ’ laws .
+Such laws give courts the power to order people diagnosed with certain mental illnesses , including schizo- phrenia , to receive treatment from a doctor and to follow prescribed treatment procedures , which usually include taking medication .
+The prescribed treatment does not require hospitalization .
+However , if someone refuses an order to see a doctor and to follow treatment procedures , the person can be brought to a mental health facility against their will for an evaluation and , if necessary , involuntarily hospitalized for treatment .
+OCKNOW .
+How much did you know about outpatient commitment laws before today ?
+[ ( 1 ) nothing at all ( 2 ) just a little ( 3 ) some ( 4 ) a lot ] MENTALILLNESS .
+Have you personally ever had a family member or a close friend who had a psychiatric condition like schizophrenia ?
+[ ( 1 ) Yes ( 2 ) No ] People disagree about whether outpatient commitment laws are a good idea .
+How strongly do you agree or dis- agree with these statements ?
+[ Strongly Disagree , Moderately Disagree , Mildly Disagree , Mildly Agree , Moderately Agree , Strongly Agree ] SUPPORT .
+People with psychiatric conditions like schizophrenia should be forced by law to get outpatient treatment from a doctor .
+EFFECTIVE .
+Outpatient commitment laws are likely to improve the mental health of people with conditions like schizophrenia .
+EVADE .
+Outpatient commitment laws won ’ t work because people with conditions like schizophrenia will not follow the court-ordered treatment procedures .
+SAFETY .
+Outpatient commitment laws will make society safer by assuring that people with conditions like schizophrenia get appropriate treatment .
+LIBERTY .
+Legally requiring people with conditions like schizophrenia to get outpatient treatment from a doctor Law Hum Behav ( 2010 ) 34:118–140 137 123 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+is an unacceptable interference with personal liberty .
+Now we ’ d like to know how outpatient commitment laws make you feel .
+POSITIVE AFFECT .
+How good or bad do outpatient commitment laws make you feel ?
+[ very bad , bad , neither good nor bad , good , very good ] REFERENCES Alicke , M. D. ( 2000 ) .
+Culpable control and the psychology of blame .
+Psychological Bulletin , 126 ( 4 ) , 556–574 .
+doi:10.1037/0033- 2909.126.4.556 .
+Angermeyer , M. C. , & Schulze , B .
+( 2001 ) .
+Reinforcing stereotypes : How the focus on forensic cases in news reporting may influence public attitudes towards the mentally ill. International Journal of Law and Psychiatry , 24 ( 4–5 ) , 469–486 .
+doi:10.1016/S0160- 2527 ( 01 ) 00079-6 .
+Bazelon Center .
+( 2000 ) .
+Position statement on involuntary commit- ment ( 2000 ) .
+Available at http : //www.bazelon.org/issues/ commitment/positionstatement.html .
+Accessed 6 Jan 2009 .
+Bazelon Center .
+( 2001 ) .
+Studies of outpatient commitment are misused ( 2001 ) .
+Available at http : //www.bazelon.org/issues/ commitment/moreresources/studies.htm .
+Accessed 6 Jan 2009 .
+Bruck , P. A. , & Stocker , G. ( 1996 ) .
+Die ganz normale Vielfältigkeit des Lesens : Zur Rezeption von Boulevardzeitungen .
+Münster : Lit .
+Byrne , B. M. ( 2001 ) .
+Structural equation modeling with AMOS : Basic concepts , applications , and programming .
+Mahwah , NJ : Law- rence Erlbaum Associates .
+Chen , S. , Duckworth , K. , & Chaiken , S. ( 1999 ) .
+Motivated heuristic and systematic processing .
+Psychological Inquiry , 10 ( 1 ) , 44–49 .
+doi:10.1207/s15327965pli1001_6 .
+Chiu , C. Y. , Morris , M. W. , Hong , Y. Y. , & Menon , T. ( 2000 ) .
+Motivated cultural cognition : The impact of implicit cultural theories on dispositional attribution varies as a function of need for closure .
+Journal of Personality and Social Psychology , 78 ( 2 ) , 247–259 .
+doi:10.1037/0022-3514.78.2.247 .
+Churchill , R. , Owen , G. , Singh , S. , & Hotopf , M. ( 2007 ) .
+Interna- tional experiences of using community treatment orders .
+UK : Department of Health .
+Cohen , G. L. ( 2003 ) .
+Party over policy : The dominating impact of group influence on political beliefs .
+Journal of Personality and Social Psychology , 85 ( 5 ) , 808–822 .
+doi:10.1037/0022-3514.85 .
+5.808 .
+Cohen , G. L. , Bastardi , A. , Sherman , D. K. , Hsu , L. , McGoey , M. , & Ross , L. ( 2007 ) .
+Bridging the partisan divide : Self-affirmation reduces ideological closed-mindedness and inflexibility in negotiation .
+Journal of Personality and Social Psychology , 93 , 415–430 .
+doi:10.1037/0022-3514.93.3.415 .
+Cohen , J .
+( 1988 ) .
+Statistical power analysis for the behavioral sciences .
+Hillsdale , NJ : Lawrence Earlbaum Assocs .
+Converse , P. E. ( 2006 ) .
+The nature of belief systems in mass publics .
+Critical Review , 18 , 1–74 .
+Cultural Cognition Project .
+( 2007 ) .
+The second national risk and culture study : Making sense of—and making progress in—the American culture war of fact .
+Available at http : //papers.ssrn.com/ sol3/papers.cfm ? abstract_id=1017189 .
+Accessed 6 Jan 2009 .
+Dawson , J .
+( 2005 ) .
+Community treatment orders : International comparisons .
+Otago , NZ : The Law Foundation New Zealand .
+Dawson , M. C. ( 2001 ) .
+Black visions : The roots of contemporary African-American political ideologies .
+Chicago : University of Chicago Press .
+DiMaggio , P. ( 1997 ) .
+Culture and cognition .
+Annual Review of Sociology , 23 , 263–287 .
+doi:10.1146/annurev.soc.23.1.263 .
+Douglas , M. ( 1970 ) .
+Natural symbols : Explorations in cosmology .
+London : Barrie & Rockliff .
+Douglas , M. , & Wildavsky , A .
+B .
+( 1982 ) .
+Risk and culture : An essay on the selection of technical and environmental dangers .
+Berkeley : University of California Press .
+Flynn , J. , Slovic , P. , & Mertz , C. K. ( 1994 ) .
+Gender , race , and perception of environmental health risk .
+Risk Analysis , 14 , 1101– 1108. doi:10.1111/j.1539-6924.1994.tb00082.x .
+Giner-Sorolla , R. , & Chaiken , S. ( 1997 ) .
+Selective use of heuristic and systematic processing under defense motivation .
+Personality and Social Psychology Bulletin , 23 ( 1 ) , 84–97 .
+Greenberg , J. , Solomon , S. , & Pyszczynski , T. ( 1997 ) .
+Terror management theory of self-esteem and cultural worldviews : empirical assessments and conceptual refinements .
+Advances in Experimental Social Psychology , 39 , 61–139 .
+doi:10.1016/ S0065-2601 ( 08 ) 60016-7 .
+Gutierrez , R. , & Giner-Sorolla , R. ( 2007 ) .
+Anger , disgust , and presump- tion of harm as reactions to taboo-breaking behaviors .
+Emotion ( Washington , DC ) , 7 , 853–868 .
+doi:10.1037/1528-3542.7.4.853 .
+Haidt , J. , & Hersh , M. A .
+( 2001 ) .
+Sexual morality : The cultures and emotions of conservatives and liberals .
+Journal of Applied Social Psychology , 31 , 191–221 .
+doi:10.1111/j.1559-1816.2001.tb02489.x .
+Hiday , V. A .
+( 2003 ) .
+Outpatient commitment : The state of empirical research on its outcomes .
+Psychology , Public Policy , and Law , 9 ( 1–2 ) , 8–32 .
+doi:10.1037/1076-8971.9.1-2.8 .
+Hotopf , M. , Dunn , G. , Owen , G. , & Churchill , R. ( 2007 ) .
+Involuntary community treatment .
+The British Journal of Psychiatry , 191 , 358. doi:10.1192/bjp.191.4.358 .
+Hu , L.-T. , & Bentler , P. M. ( 1999 ) .
+Cutoff criteria for fit indexes in covariance structure analysis : Conventional criteria versus new alternatives .
+Structural Equation Modeling , 6 , 1–55 .
+Jaccard , J. , & Turrisi , R. ( 2003 ) .
+Interaction effects in multiple regression ( 2nd ed . ) .
+Thousand Oaks , CA : Sage Publications .
+Jenkins-Smith , H. ( 2001 ) .
+Modeling stigma : An empirical analysis of nuclear waste images of Nevada .
+In J. Flynn , P. Slovic , & H. Kunreuther ( Eds .
+) , Risk , media , and stigma : Understanding public challenges to modern science and technology ( pp .
+107– 132 ) .
+London : Sterling .
+John , O. P. , & Srivastava , S. ( 1999 ) .
+The Big Five trait taxonomy : History , measurement , and theoretical perspectives .
+In L. A. Pervin & O. P. John ( Eds .
+) , Handbook of personality : Theory and research ( Vol .
+2 , pp .
+102–138 ) .
+New York : Guilford .
+Kahan , D. M. ( 2008 ) .
+Two conceptions of emotion in risk regulation .
+University of Pennsylvania Law Review , 156 , 741–766 .
+Kahan , D. M. , & Braman , D. ( 2006 ) .
+Cultural cognition and public policy .
+Yale Journal of Law and Public Policy , 24 , 147–170 .
+Kahan , D. M. , Braman , D. , Cohen , G. L. , Slovic , P. , & Gastil , J .
+( 2008 ) .
+Who fears the HPV vaccine , who doesn ’ t , and why ?
+An experimental study of the mechanisms of cultural cognition .
+Available at http : //papers.ssrn.com/sol3/papers.cfm ? abstract_id= 1160654 .
+Accessed 6 Jan 2009 .
+Kahan , D. M. , Braman , D. , Gastil , J. , Slovic , P. , & Mertz , C. K. ( 2007 ) .
+Culture and identity-protective cognition : Explaining the white-male effect in risk perception .
+Journal of Empirical Legal Studies , 4 , 465–505 .
+doi:10.1111/j.1740-1461.2007.00097.x .
+Kahan , D. M. , Braman , D. , Slovic , P. , Gastil , J. , & Cohen , G. L. ( in press ) .
+Cultural cognition of the risks and benefits of nanotechnology .
+Nature Nanotechnology , 4 ( 2 ) .
+Advance on-line publication available at http : //dx.doi.org/10.1038/nnano.2008 .
+341 .
+Accessed 6 Jan 2009 .
+Kahan , D. M. , Hoffman , D. A. , & Braman , D. ( 2009 ) .
+Whose eyes are you going to believe ?
+Scott v Harris and the perils of cognitive illiberalism .
+Harvard Law Review , 122 , 838–906 .
+Kahan , D. M. , Slovic , P. , Braman , D. , & Gastil , J .
+( 2006 ) .
+Fear of democracy : A cultural critique of Sunstein on risk .
+Harvard Law Review , 119 , 1071–1109 .
+138 Law Hum Behav ( 2010 ) 34:118–140 123 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+Kahan , D. M. , Slovic , P. , Braman , D. , Gastil , J. , Cohen , G. L. , & Kysar , D. A .
+( 2008 ) .
+Biased assimilation , polarization , and cultural credibility : An experimental study of nanotechnology risk perceptions .
+Available at http : //ssrn.com/paper=1090044 .
+Accessed 6 Jan 2009 .
+King , G. , Honaker , J. , Joseph , A. , & Scheve , K. ( 2001 ) .
+Analyzing incomplete political science data : An alternative algorithm for multiple imputation .
+The American Political Science Review , 95 , 49–69 .
+King , G. , Tomz , M. , & Wittenberg , J .
+( 2000 ) .
+Making the most of statistical analyses : Improving interpretation and presentation .
+American Journal of Political Science , 44 , 347–361 .
+doi:10.2307/2669316 .
+Kisely , S. , Campbell , L. , Scott , A. , Preston , N. , & Xiao , J .
+( 2007 ) .
+Randomized and non-randomized evidence for the effect of compulsory community and involuntary out-patient treatment on health service use : Systematic review and meta-analysis .
+Psychological Medicine , 37 , 3–14 .
+doi:10.1017/S0033291706008592 .
+Lee , S.-Y .
+( 2007 ) .
+Structural equation modeling : A Bayesian approach .
+Chichester , England : Wiley .
+Little , R. J .
+A. , & Rubin , D. B .
+( 2002 ) .
+Statistical analysis with missing data ( 2nd ed . ) .
+Hoboken , NJ : Wiley .
+Loewenstein , G. F. , Weber , E. U. , Hsee , C. K. , & Welch , N. ( 2001 ) .
+Risk as feelings .
+Psychological Bulletin , 127 ( 2 ) , 267–287 .
+doi:10.1037/0033-2909.127.2.267 .
+Lord , C. G. , Ross , L. , & Lepper , M. R. ( 1979 ) .
+Biased assimilation and attitude polarization—Effects of prior theories on subse- quently considered evidence .
+Journal of Personality and Social Psychology , 37 , 2098–2109 .
+doi:10.1037/0022-3514.37.11.2098 .
+Mackie , D. M. , & Quellar , S. ( 2000 ) .
+The impact of group membership on persuasion : Revisiting ‘ ‘ Who says what to whom with what effect ?
+In D. J. Terry & M. A. Hogg ( Eds .
+) , Attitudes , behavior , and social context : The role of norms and group membership ( pp .
+135–155 ) .
+Mahwah , NJ : Lawrence Erlbaum Associate Publishers .
+Monahan , J. , Swartz , M. , & Bonnie , R. ( 2003 ) .
+Mandated treatment in the community for people with mental disorders .
+Health Affairs , 22 , 28–38 .
+doi:10.1377/hlthaff.22.5.28 .
+Nisbett , R. E. ( 2003 ) .
+The geography of thought : How Asians and Westerners think differently—And why .
+New York : Free Press .
+Perlin , M. L. ( 2003 ) .
+Therapeutic jurisprudence and outpatient commit- ment law : Kendra ’ s law as case study .
+Psychology , Public Policy , and Law , 9 ( 1–2 ) , 183–208 .
+doi:10.1037/1076-8971.9.1-2.183 .
+Pescosolido , B. , Monahan , J. , Link , B. , Stueve , A. , & Kikuzawa , S. ( 1999 ) .
+The public ’ s view of the competence , dangerousness and need for legal coercion among persons with mental health problems .
+American Journal of Public Health , 89 , 1339–1345 .
+doi:10.2105/AJPH.89.9.1339 .
+Peters , E. ( 2006 ) .
+The functions of affect in the construction of preferences .
+In S. Lichtenstein & P. Slovic ( Eds .
+) , The construc- tion of preference ( pp .
+454–463 ) .
+New York : Cambridge University Press .
+Peters , E. M. , Burraston , B. , & Mertz , C. K. ( 2004 ) .
+An emotion- based model of risk perception and stigma susceptibility : Cognitive appraisals of emotion , affective reactivity , world- views , and risk perceptions in the generation of technological stigma .
+Risk Analysis , 24 , 1349–1367 .
+doi:10.1111/j.0272-4332 .
+2004.00531.x .
+Peters , E. , & Slovic , P. ( 1996 ) .
+The role of affect and worldviews as orienting dispositions in the perception and acceptance of nuclear power .
+Journal of Applied Social Psychology , 26 , 1427–1453 .
+doi:10.1111/j.1559-1816.1996.tb00079.x .
+Peters , E. , & Slovic , P. ( 2007 ) .
+Affective asynchrony and the measurement of the affective attitude component .
+Cognition and Emotion , 21 , 300–329 .
+doi:10.1080/02699930600911440 .
+Pinfold , V. , Rowe , A. , Hatfield , B. , Bindman , J. , Huxley , P. , Thornicroft , G. , et al .
+( 2002 ) .
+Lines of resistance : exploring professionals ’ views of compulsory community supervision .
+Journal of Mental Health , 11 ( 2 ) , 177–190 .
+Poortinga , W. , Steg , L. , & Vlek , C. ( 2002 ) .
+Environmental risk concern and preferences for energy-saving measures .
+Environ- ment and Behavior , 34 , 455–478 .
+doi:10.1177/00116502034 004003 .
+Rayner , S. ( 1992 ) .
+Cultural theory and risk analysis .
+In S. Krimsky & D. Goldin ( Eds .
+) , Social theories of risk ( p. 83 ) .
+Westport , CT : Praeger .
+Royston , P. ( 2004 ) .
+Multiple imputation of missing values .
+Stata Journal , 4 ( 3 ) , 227–241 .
+Royston , P. ( 2005 ) .
+Multiple imputation of missing values : Update .
+Stata Journal , 5 ( 2 ) , 188–201 .
+Schwartz , S. , & Costanzo , C. ( 1987 ) .
+Compelling treatment in the community : Distorted doctrines and violated values .
+Loyola of Los Angeles Law Review , 20 , 1329–1429 .
+Sherman , D. K. , & Cohen , G. L. ( 2002 ) .
+Accepting threatening information : Self-affirmation and the reduction of defensive biases .
+Current Directions in Psychological Science , 11 ( 4 ) , 119– 123. doi:10.1111/1467-8721.00182 .
+Sidanius , J. , & Pratto , F. ( 1999 ) .
+Social dominance : An intergroup theory of social hierarchy and oppression .
+Cambridge , UK , New York : Cambridge University Press .
+Slovic , P. , Finucane , M. L. , Peters , E. , & MacGregor , D. G. ( 2004 ) .
+Risk as analysis and risk as feelings : Some thoughts about affect , reason , risk , and rationality .
+Risk Analysis , 24 ( 2 ) , 311–322 .
+doi:10.1111/j.0272-4332.2004.00433.x .
+Slovic , P. , & Peters , E. ( 2006 ) .
+Risk perception and affect .
+Current Directions in Psychological Science , 15 ( 6 ) , 322–325 .
+doi:10.1111/ j.1467-8721.2006.00461.x .
+Sniderman , P. M. , Brody , R. A. , & Tetlock , P. E. ( 1991 ) .
+Reasoning and choice : Explorations in political psychology .
+New York : Cambridge University Press .
+Steadman , H. , Gounis , K. , Dennis , D. , Hopper , K. , Roche , B. , Swartz , M. , et al .
+( 2001 ) .
+Assessing the New York City involuntary outpatient commitment pilot program .
+Psychiatric Services ( Washington , DC ) , 52 , 330–336 .
+doi:10.1176/appi.ps .
+52.3.330 .
+Streiner , D. L. ( 2003 ) .
+Unicorns do exist : A tutorial on ‘ ‘ proving ’ ’ the null hypothesis .
+Canadian Journal of Psychiatry , 48 , 756–761 .
+Swanson , J. , & Swartz , M. ( 2007 ) .
+Authors ’ reply .
+The British Journal of Psychiatry , 191 , 358–359 .
+doi:10.1192/bjp.191.4 .
+358a .
+Swanson , J. , Swartz , M. , Monahan , J. , McGuire , T. , Steadman , H. , & Robbins , P. ( 2008 ) .
+Is involuntary outpatient commitment racially biased ?
+Re-conceptualizing racial disparities at the interface of the legal and mental health services systems .
+Paper presented to the annual meeting of the American Psychology- Law Society , St. Petersburg , FL .
+Swartz , M. , Swanson , J. , Hiday , V. , Wagner , H. , Burns , B. , & Borum , R. ( 2001 ) .
+A randomized controlled trial of outpatient commit- ment in North Carolina .
+Psychiatric Services ( Washington , DC ) , 52 , 325–329 .
+doi:10.1176/appi.ps.52.3.325 .
+Swartz , M. , Swanson , J. , Kim , M. , & Petrila , J .
+( 2006 ) .
+Use of outpatient commitment or related civil court treatment orders in five U.S. communities .
+Psychiatric Services ( Washington , DC ) , 57 , 343–349 .
+doi:10.1176/appi.ps.57.3.343 .
+Treatment Advocacy Center .
+( 2005 ) .
+TAC Briefing paper : Assisted outpatient treatment .
+Available at http : //www.psychlaws.org/ .
+Treatment Advocacy Center .
+( 2006a ) .
+Frequently asked questions on AOT .
+Available at http : //www.psychlaws.org/ .
+Treatment Advocacy Center .
+( 2006b ) .
+Available at http : //www .
+psychlaws.org/ .
+Law Hum Behav ( 2010 ) 34:118–140 139 123 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+von Hippel , P. T. ( 2005 ) .
+How many imputations are needed ?
+A comment on Hershberger and Fisher ( 2003 ) .
+Structural Equation Modeling , 12 , 334–335 .
+doi:10.1207/s15328007sem1202_8 .
+Weston , R. , & Gore , P. ( 2006 ) .
+A brief guide to structural equation modeling .
+The Counseling Psychologist , 34 , 719–751 .
+doi : 10.1177/0011000006286345 .
+Wildavsky , A .
+( 1987 ) .
+Choosing preferences by constructing institu- tions : A cultural theory of preference formation .
+The American Political Science Review , 81 , 3–22 .
+doi:10.2307/1960776 .
+140 Law Hum Behav ( 2010 ) 34:118–140 123 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .

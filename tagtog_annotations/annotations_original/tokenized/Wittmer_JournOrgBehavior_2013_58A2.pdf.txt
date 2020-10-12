@@ -1,0 +1,697 @@
+Wittmer_JournOrgBehavior_2013_58A2.pdf
+aYIBKkVDChooyrggcI8iyHNzJR2K-Wittmer_JournOrgBehavior_2013_58A2.pdf.plain.html
+
+Shared aggression concerns and organizational outcomes : The moderating role of resource constraints† JENELL L. S. WITTMER1* , ROBERT R. SINCLAIR2 , JAMES E. MARTIN3 , JENNIFER S. TUCKER4 AND JESSICA LANG5 1Department of Management , College of Business and Innovation , University of Toledo , Toledo , Ohio , U.S.A. 2Department of Psychology , Clemson University , Clemson , South Carolina , U.S.A. 3Department of Management and Information Systems , School of Business Administration , Wayne State University , Detroit , Michigan , U.S.A. 4Air Force Culture and Language Center , Air University , Maxwell , Air Force Base , Alabama , U.S.A. 5Institute for Occupational Medicine , RWTH Aachen University , Aachen , Germany Summary Most research on workplace aggression focuses on the antecedents and consequences of aggression for individual workers .
+The current study examines how shared workplace aggression concerns relate to internal and external organizational outcomes .
+Drawing on the work stress , social identity , and social contagion literatures , we propose relationships between unit-level aggression concerns and unit-level measures of performance and employee attitudes in a public school sample ( 2989 employees ; 163 schools ) .
+We also propose that these relationships differ depending on the resource context of the school .
+Consistent with our expectations , schools in which teachers had strong shared concerns about aggression also had poorer shared job attitudes and poorer student outcomes , as indicated by average standardized test scores at the school .
+The impact of shared concerns about aggression on school-level standardized test scores was stronger for resource-rich schools than for schools with fewer resources .
+The current study contributes to organizational research as it establishes that workplace aggression concerns have adverse consequences for the whole organization , not only for the individuals experiencing the events .
+Our findings demonstrate that employees ’ shared concerns about aggression have an impact on organizational outcomes and suggest a prevention-focused approach to workplace aggression .
+Copyright © 2012 John Wiley & Sons , Ltd. Keywords : safety ; workplace aggression ; organizational outcomes ; resource constraints ; stress In the U.S.A. and in Europe , researchers estimate workplace aggression to cost organizations billions of dollars a year ( Albrecht , 1997 ; Bryant , 2010 ; Hoel , Sparks , & Cooper , 2001 ) , including both direct costs , such as workers ’ compensation , and indirect costs , such as employee withdrawal behaviors or decreased shareholder value .
+Moreover , a fairly large body of literature has established the human costs of aggression ; workers exposed to aggression report poor job attitudes , stronger intent to turnover , and poorer mental and physical health ( cf. , Bowling & Beehr , 2006 ; Hershcovis & Barling , 2009 ) .
+Thus , many private and public sector employers have launched costly initiatives to prevent workplace aggression ( Bryant , 2010 ; Nicoletti & Spooner , 1996 ) .
+In response to these concerns , a steadily growing body of literature has investigated the antecedents and outcomes of aggression ( e.g. , Albrecht , 1997 ; Bowling & Beehr , 2006 ) .
+Defining workplace aggression as behavior performed with *Correspondence to : Jenell L. S. Wittmer , Department of Management , College of Business and Innovation , University of Toledo , 2801W Bancroft Avenue , MS103 , Toledo , Ohio 43606 , U.S.A. E-mail : Jenell.Wittmer @ UToledo.edu †The first and second author contributed equally to this manuscript .
+A previous version of this study was presented at Work Stress and Health , New Challenges for a Changing Workplace .
+Conference sponsored by the American Psychological Association and the National Institute for Occupational Safety and Health ( March , 2003 ) .
+Copyright © 2012 John Wiley & Sons , Ltd .
+Received 22 June 2011 Revised 21 April 2012 , Accepted 3 May 2012 Journal of Organizational Behavior , J. Organiz .
+Behav .
+34 , 370–388 ( 2013 ) Published online 4 July 2012 in Wiley Online Library ( wileyonlinelibrary.com ) DOI : 10.1002/job.1807Research A rticle the intent to cause harm to another party ( cf. , Baron & Richardson , 1994 ) , much of this research treats it as a chronic work- place stressor and assumes that exposure to aggression creates stress-related coping demands , psychological strain , and deleterious health and performance consequences ( e.g. , LeBlanc & Kelloway , 2002 ; Rogers & Kelloway , 1997 ; Sinclair , Martin , & Croll , 2002 ) .
+Most research on workplace aggression focuses on micro-level issues , such as the individual-level antecedents and outcomes of workplace aggression ( e.g. , Barling , 1996 ; Hershcovis & Barling , 2009 ) .
+However , organi- zations also need research on the potential relationship between workplace aggression and organizational-level outcomes .
+Such research may provide a basis for estimating the costs and benefits of workplace-aggression-prevention programs .
+In order to fill this gap , the current study examines workplace aggression and organizational outcomes within a U.S. public school context .
+Researchers have noted the relative absence of theoretically based research on issues related to school aggression ( Verdugo & Schneider , 1999 ) .
+This suggests the need for theory-driven research to inform public policy with respect to school aggression .
+Such research might , for example , identify benefits for employees from creating safer schools or could challenge the notion that aggression negatively impacts school effectiveness .
+Therefore , the current study examines workplace aggression by using the social identity and social contagion theoretical perspectives .
+Specifically , this study examines public school employees ’ perceptions of aggression within their workplace ( in general , from students or other sources and against themselves , other colleagues , or students ) and organiza- tional-level outcomes related to the effectiveness of schools , including standardized test scores and aggregated teacher assessments of their working conditions .
+Thus far , the literature on workplace aggression has paid rela- tively little attention to aggression in public schools and how it affects public school employees ( Galand , Lecocq , & Philippot , 2007 ) .
+In fact , most school-related aggression research only mentions teachers to describe their role in the prevention and/or aftermath of school aggression ( cf. , Goldstein , Harootunian , & Conoley , 1994 ) .
+The few studies that have examined teacher experiences of workplace aggression generally focus on extreme violent acts , such as rape or homicide ( e.g. , National Center for Educational Statistics , 2009 ) ; more research is needed on tea- chers ’ experiences with and concerns related to other forms of aggression , including those that are less harmful but more common .
+Additionally , in the current fiscal climate , many organizations are facing extremely constrained resources .
+Thus , organizations may question the amount of money spent on workplace aggression prevention or may be unable to devote sufficient funds toward aggression prevention .
+Accordingly , we test the hypothesized moderating effects of resource constraints on the relationship between shared concerns about aggression and the outcomes of interest .
+Drawing on the social identity and social contagion literatures , the current study develops hypotheses concerning the associations between concerns about aggression and school-level outcomes and makes several important contributions to the workplace and school aggression literatures .
+First , we address employees ’ perceptions , rather than students ’ perceptions , of aggression .
+Second , we examine the linkage of these perceptions with organization-level , rather than individual-level , outcomes .
+Third , we examine the role of resource constraints in the relationship between aggression and organizational-level performance and attitudinal outcomes .
+Theory and Hypotheses Social identity and common stressors Researchers have suggested that the workplace serves as a part of a functional community that may help ameliorate ( or presumably intensify ) the effects of aggression ( e.g. , Schwarz & Kowalski , 1993 ) .
+Similarly , Barling ( 1996 ) distinguished between primary and secondary victims of aggression .
+Primary victims are those directly affected by a particular incident ( e.g. , one who is physically harmed by an assault ) , whereas secondary victims are those who simply witness or are aware of the event .
+The concept of secondary victimization implies that employees in the same workplace unit are likely to experience some shared effects of aggression , whether they are primary or secondary victims .
+AGGRESSION AND ORGANIZATIONAL OUTCOMES 371 Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 370–388 ( 2013 ) DOI : 10.1002/job Integrating the concept of secondary victimization with the multilevel stressor literature leads to the conclusion that employees of intact units who share similar work environments , and thus similar hazards and resources , are also likely to share aggression concerns .
+Thus , concerns about aggression are likely to spread through intact organizational units such as schools .
+Some past stress literature described this phenomenon as a crossover effect , proposing that stressors experienced by one individual influence the experience of others .
+Schools are a particularly relevant context for such research .
+Schools are discrete units within a larger school systemwith a social and organizational environment that is likely to be similar for members .
+Within a school , teachers share the same leadership and support staff , a similar resource context and neighborhood setting , and the same students , who often interact with many different teachers during their time in a school ( e.g. , as they move from class to class and from grade to grade ) .
+Thus , within a school , teachers share many common aspects of their work experience , and at least to some degree can be regarded as a discrete unit .
+As such , it is prob- ably not surprising that multilevel research on schools can be traced back at least to the 1970s ( school-level climate factors , Seilström & Bremberg , 2006 ) , although none of this research directly deals with employees ’ responses to aggression .
+Westman and Etzion ( 1999 ) found that principals ’ perceived stressors affect teachers ’ shared reports of work stress , and teachers ’ shared stress perceptions influence levels of burnout in the school .
+Crossover effects have been found in a variety of occupations ( e.g. , Bakker , LeBlanc , & Schaufeli , 2005 ; Bakker , Schaufeli , Sixma , & Bosveld , 2001 ) .
+Several explanations have been offered for such effects ( cf. , Westman , 2001 ; Westman , Vinokur , Hamilton , & Roziner , 2004 ) ; two of which are particularly pertinent to our study : empathetic concern and common stressors .
+The common stressors explanation proposes that shared reactions to the workplace are the byproduct of shared experiences , that people have similar reactions to outcomes because they experience similar stressors .
+In crossover effects research , the stressor explanation assumes that crossover effects are spurious , rather than as a true crossover effect .
+That is , the reason that people have similar levels of strain is that they have similar experiences , not that any process of transmission has occurred ( cf. , Westman et al. , 2004 ) .
+However , social identity theory ( SIT ) implies that intact groups develop a collective response to stressors specifically because people share similar experiences at work .
+SIT regards the self-concept as being composed of both a personal identity ( individual characteristics such as physical appearance , personality traits , interests , and skills ) and a social identity which refers to group memberships that form the social context of one ’ s self-definition ( Ashforth & Mael , 1989 ) .
+Social identities emerge through social interactions in which role expectations and situational pressures drive development of the self-concept ( Deaux & Major , 1987 ) .
+Some researchers have proposed that social identities contribute to collective perceptions of and outcomes of stressors .
+For example , when people identify with a specific group , they absorb the perspectives associated with that group ’ s identity into their self-concepts ( Aron & McLaughlin-Volpe , 2001 ) , and as a result , they personally experience the successes and failures of the group ( Ashforth & Mael , 1989 ) .
+Tucker , Sinclair , and Thomas ( 2005 ) drew from SIT to argue that group-level stressors at the platoon-level affect military service members ’ stress responses at the individual level , even after controlling for individual-level stressors .
+Consistent with their expectations , Tucker et al .
+found both main and moderating cross-level effects of group-level stressors on military service member job attitudes and well-being .
+Although these literatures suggest the utility of SIT for studying group-level stressors , past studies have not focused on aggression and have not addressed how group-level processes affect group-level outcomes .
+Given the importance of aggression to public school employees ’ work lives , as well as the relevance of social identification processes to school employees ( Bizumic , Reynolds , Turner , Bromhead , & Subasic , 2009 ) , group-level outcomes of concerns about aggression seem to be a particularly important way to extend these literatures .
+Social contagion , empathetic concern , and stressor transmission In crossover research , the concept of empathic concern provides a second explanation of how concerns about aggression can be transmitted through an organization , even when people have not shared the same direct experience .
+Westman ( 2001 , p. 730 ) described empathetic concern as a crossover process in which “ strain in one partner produces an empathetic reaction in the other that increases his or her level of strain. ” This research represents a specific case of the broad phenomenon of social contagion , which focuses on how subjective experiences , such as emotions , may be 372 J. L. S. WITTMER ET AL .
+Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 370–388 ( 2013 ) DOI : 10.1002/job transmitted from person to person , spreading through social networks in ways that resemble disease transmission ( cf. , Hatfield , Cacioppo , & Rapson , 1994 ) .
+Some research has begun to use contagion models to explain organizational behav- ior in areas such as burnout ( e.g. , Bakker et al. , 2001 , 2005 ; González-Morales , Peiró , Rodríguez , & Bliese , 2012 ) and leadership ( Sy , Côté , & Saavedra , 2005 ) .
+Extending this idea to aggression research suggests that people ’ s worries about aggression spread to their coworkers , particularly those in intact groups , such as peers within an organizational subunit or work teams .
+Together , the social contagion and social identity models help explain how a stressful work context ( such as one where aggression is a frequent event ) might develop into shared concerns and might affect subsequent outcomes of the group .
+Social identity models imply that groups develop collective responses to common stressors and thus , that group-level stressors can influence group-level outcomes .
+Social contagion and crossover literatures suggest that concerns about aggression spread through an organization through contagion processes .
+Although the common stressor and empathic concern models represent different explanations for the occurrence of group-level stressors , they both suggest the possibility of a group-level component to concerns about workplace aggression .
+Our focus in this research was less on the antecedents of this group-level component and more on how group-level variation in concerns about aggression related to important organizational outcomes .
+We examined these effects by studying shared concerns about aggression among public school employees .
+Shared aggression concerns in public schools Aggression is among the most significant concerns faced by schools in the U.S.A. ( Robers , Zhang , & Truman , 2010 ; Rose & Gallup , 2002 ) .
+According to the National Center for Education Statistics ( 2011 ) , the percentage of public school teachers who reported feeling threatened at work increased from 6.8 percent in 2004 to 8.6 percent in 2010 .
+The percentage of public school teachers who reported being physically attacked also increased from 3.4 to 4 percent during those same years .
+According to the most recent Indicators of School Crime and Safety Report , during the 2009–2010 school year , 75 percent of U.S. schools recorded experiencing one or more violent incidents of crime , with an additional 10 percent having nonviolent incidents of crime , totaling over 2 million nonfatal crimes ( Robers et al. , 2010 ) .
+Further , violent attacks against teachers increased over time for both elementary and secondary schools .
+These data do not include verbal threats or issues related to teachers ’ concerns for their safety .
+Moreover , given that workers do not report every incident ( National School Safety and Security Services , 2010 ) , available data probably underestimate the scope of non-lethal aggression in schools .
+Organizational outcomes of workplace aggression Many studies have demonstrated the negative effects of school aggression on individual teachers .
+Teachers experiencing aggression are more likely to be dissatisfied , absent , leave , or change careers ( Pierce & Molloy , 1990 ; van Dick & Wagner , 2001 ) .
+Galand et al .
+( 2007 ) described these effects as “ disengagement ” and outlined their potential impact : reducing students ’ opportunities to learn , lowering student engagement and motivation , and increasing student misconduct .
+A group-stress perspective suggests that such effects should extend to group-level outcomes .
+Thus , shared perceptions of aggression are likely to negatively relate to organizational-level outcomes concerning the quality of employees ’ work lives and the success of educating students .
+Aggregated job attitudes capture employees ’ collective perceptions of the quality of work life in a work unit .
+Previous research demonstrates that aggregated job attitude measures are related to several important organizational outcomes .
+For instance , Harter , Schmidt , and Hayes ( 2002 ) demonstrated that business unit-level satisfaction is associated with customer satisfaction , productivity , profit , turnover , and accidents .
+Other researchers report similar relationships between school-level job attitudes and perceived school effectiveness ( e.g. , Tarter , Sabo , & Hoy , 1995 ) , as well as between school-level satisfaction and objective measures of educational performance AGGRESSION AND ORGANIZATIONAL OUTCOMES 373 Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 370–388 ( 2013 ) DOI : 10.1002/job ( Ostroff , 1992 ) .
+Our study integrates these literatures with studies of teachers ’ concerns about aggression ( e.g. , Sinclair et al. , 2002 ) by examining the relationship between shared concerns about aggression and school-level job attitudes toward working conditions .
+Perhaps the most important outcome for schools is the ability of the school to achieve its mission of educating students .
+In the U.S.A. , educational success is often defined in terms of students ’ performance on standardized achievement tests .
+For example , the No Child Left Behind Act ( NCLB ) of 2002 created an intense focus on standardized educational testing by mandating testing , specifying consequences for schools that fail to meet perfor- mance standards , and requiring publicly accessible report cards containing schools ’ test results .
+President Obama proposed major changes to NCLB in March 2010 , but students ’ scores on reading and mathematics remain an important indicator of overall school effectiveness .
+Thus , several external constituencies ( e.g. , parents , local , state , and federal government ) routinely examine students ’ achievement test scores when evaluating school quality .
+Moreover , popular media sources often discuss yearly changes in standardized test scores as indicative of progress or decline in the quality of public education systems .
+Although NCLB testing standards are far from universally appreciated ( cf. , Mathews & Helderman , 2004 ) , many external constituencies view standardized test scores as an important indicator of school effectiveness .
+Following the social identity and social contagion frameworks , we expect that school employees will share a common concern about aggression , and given the negative effects of school aggression on both teachers and students as outlined earlier , we hypothesize the following : Hypothesis 1 : Shared employee aggression concerns will be negatively associated with student performance ( H1a ) and unit-level attitudes toward working conditions ( H1b ) .
+Moderating role of resource constraints Aggression-prevention initiatives require investments of an organization ’ s limited financial , material , and human resources .
+According to open-systems theory ( Katz & Kahn , 1978 ) , organizations that acquire or use resources more productively should have better outcomes .
+Similarly , resource limitations are one example of situational constraints thought to influence work behavior .
+Examples of such constraints include lack of available time , lack of supplies , and excessive workload ( Peters , O ’ Connor , & Eulberg , 1985 ) .
+Most situational constraint research has explored the influence of constraints on job or task performance ( e.g. , Klein & Kim , 1998 ; McCloy , Campbell , & Cudeck , 1994 ; Peters et al. , 1985 ) .
+These literatures show that the situational context influences an individual ’ s ability to translate his or her personality , ability , and motivation into successful performance .
+Moreover , perceived situational constraints are associated with increased work strain , role demands , anxiety , and frustration ( Spector & Jex , 1998 ) .
+Thus , the effects of shared concerns about aggression on organizational outcomes may be attenuated or intensified depending on the situational resource context .
+Although educational researchers lack consensus on the direct effects of resources on school performance ( cf. , Condron & Roscigno , 2003 ) , resource limitations should constrain teacher job performance and hinder administrators ’ efforts to prevent or respond to student aggression .
+Further , extending workplace stress research to shared concerns about aggression suggests two important points about the relationship between aggression and school resources .
+First , resource constraints represent an alternative explanation for the hypoth- esized effects of aggression concerns on organizational outcomes .
+That is , researchers should control for resource differences among schools ( or other work units ) when examining school-level differences in the effects of concerns about aggression .
+Second , the effects of aggression concerns may differ for schools facing different levels of resource demands .
+Schools operating with limited resources are less likely to be equipped to prevent or respond to aggression .
+Thus , resource demands may interact with shared concerns about aggression , such that employees ’ concerns are associated with poorer organizational outcomes for schools with tighter resource constraints .
+374 J. L. S. WITTMER ET AL .
+Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 370–388 ( 2013 ) DOI : 10.1002/job For this study , we examined three resource constraints : ( i ) financial resource levels in the form of spending per student ; ( ii ) employees ’ perceived resource constraints ; and ( iii ) student poverty .
+The financial resources and perceived resource constraint measures represent internal resource constraints .
+That is , they are objective and subjective measures of the resource environment in the school .
+Student poverty is an important external constraint on school effectiveness .
+Balfanz ( 2000 ) reviewed research showing that schools with higher student poverty rates also typically have ( i ) increased social distance between teachers and students ; ( ii ) increased logistical challenges to administrators ; and ( iii ) decreased community stability ( i.e. , students frequently enroll and quit school ) .
+Moreover , student poverty may be a proxy for parental educational level , an important predictor of student performance .
+Balfanz ’ s review also suggests that the effects of poverty on performance may be stronger at the school than at the individual level , so that the school-level effects of concern about aggression may be stronger in schools with higher student poverty .
+Thus , we propose the following hypotheses : Hypothesis 2 : Situational constraints , including lower perceived resource constraints , higher levels of student poverty , and lower spending per student , will be negatively associated with student performance ( H2a ) and unit-level attitudes toward working conditions ( H2b ) .
+Hypothesis 3 : Situational constraints will moderate the relationship between shared employee aggression con- cerns and outcomes , such that there will be a stronger relationship of shared concerns with student performance ( H3a ) and unit-level attitudes toward working conditions ( H3b ) in schools with greater situational constraints .
+Student performance is expected to be lower and unit-level attitudes poorer when situational constraints are higher .
+Method Data and sample The objective data used for this study come from the Department of Education ( DOE ) of the state where we conducted the research ; the subjective data come from a survey of the school district staff .
+Participants completed an anonymous survey conducted by the third author in collaboration with a coalition of AFL-CIO unions representing employees in a large urban school district in the Midwestern U.S.A. At the time of the survey , the district enrolled over 125 000 students .
+There were 171 separate schools , 93 elementary schools , 25 high schools , and 33 middle schools .
+The remainder were combined schools , such as combined elementary/middle schools , or atypical schools or school district offices .
+The survey focused on 12 534 employees who were teachers ( N=9644 ) , support staff ( N=1690 ) , or adminis- trators ( N=1200 ) .
+The union building representatives , stewards , and business agents distributed the surveys to the different unions ’ members .
+The coalition provided publicity for the surveys and information about them .
+Unions ’ members returned the completed surveys to the building representatives and dropped off the surveys at the various union offices in sealed envelopes , which were then given to the third author .
+A total of 4339 employees returned surveys for an approximate response rate of 35 percent , including 3271 teachers ( response rate = 34 percent ) , 134 administrators ( response rate = 11 percent ) , and 725 support staff ( response rate = 43 percent ) .
+We did not include the administrators in our study for reasons discussed below .
+The response rates for the teachers and the support staff fit the normative baseline of 35–40 percent for survey response rates suggested by Baruch and Holtom ( 2008 ) .
+Moreover , although not specifically on workplace aggression , a meta-analytic review conducted by Schalm and Kelloway ( 2001 ) concluded that there was no correlation between response rate and effect size for several occupational health-related outcomes .
+Further , discussions with the various participating unions when they received the study technical reports led us to conclude that the respondents were generally representative of each union ’ s members .
+AGGRESSION AND ORGANIZATIONAL OUTCOMES 375 Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 370–388 ( 2013 ) DOI : 10.1002/job One of the central risk factors for occupational aggression concerns the extent to which jobs involve working directly with the public ( Castillo & Jenkins , 1994 ) .
+Therefore , prior to conducting our data analyses , we removed 473 employees classified as having little direct contact with students ( including all administrators ) , as these employees have a very different employment context .
+We also removed six employees who reported belonging to a school characterized as “ other ” ( i.e. , not categorized as a typical elementary , middle , or high school ) and one person who was the only respondent from a school .
+We also removed 662 employees whom we could not match to a school for the school-level analyses .
+Thus , the final sample included 2988 employees who had high levels of direct contact with students .
+These employees were mostly women ( 86.9 percent ) , averaged 13.2 years of seniority in their current positions ; 17.8 percent were younger than 35 years , 44.2 percent were between 35 and 49 years , and 32.4 percent were older than over 50 years .
+There were no significant differences on any of the study measures between men and women .
+Participants came from 163 different schools with an average of 18.1 participating employees per school ( range = 5 to 91 ) .
+We describe below the aggregation of the measures from individual to group level .
+Measures Given the applied nature of the project and the specific concerns of the unions sponsoring it , the third author , working with the union officials , developed many items to reflect their concerns .
+We took other items from scales used in previous research .
+Shared aggression concerns We measured shared aggression concerns using a 5-item threat appraisal scale ( group-level alpha = .91 ) based on Borovsky et al .
+( 1996 ) and Dedobbeleer and Beland ( 1991 ) .
+Participants rated ( i ) how safe they felt in the school , office building , or other location in which they worked ; ( ii ) how safe they felt on the grounds of the school , office building , or other location in which they worked ; ( iii ) how safe they believed students were while at their school , office building , or other location ; ( iv ) how safe they believed students felt at their school , office building , or other location ; and ( v ) how safe they believed students felt while on the grounds of their school , office building , or other location .
+Participants rated each item using a 5-point scale with anchors of very safe ( 1 ) to very unsafe ( 5 ) .
+A possible concern with these items is that they refer to safety rather than specifically to aggression .
+However , student aggression is a top concern in public schools , and in the survey , these items immediately followed a series of questions about property crime , threats , assaults and verbal aggression .
+We removed 36 individuals who chose a sixth scale response option of not applicable ( an ANOVA revealed no significant differences across schools in the proportion of people who chose this option ) .
+We then calculated the mean level for each school to represent that school ’ s shared level of concern about aggression .
+This method assumes low intergroup variability in individual responses , an assumption that was supported and is discussed further in the Analyses section .
+Shared attitudes toward working conditions We assessed shared attitudes toward working conditions with five items ( group-level alpha = .86 ) , with responses ranging from strongly disagree ( 1 ) to strongly agree ( 7 ) .
+We constructed these items in collaboration with the spon- soring unions .
+They reflected general perceptions of employees ’ working conditions ( e.g. , “ I am satisfied with the physical conditions of my workplace ” ) .
+An exploratory principal components analysis revealed that these items loaded on a single factor with loadings ranging from 0.33 to 0.85 .
+We also eliminated 23 individuals who chose an eighth scale response option of not applicable ( with an ANOVA revealing no significant association of school and choice of this eighth option ) .
+We then calculated the mean level for each school to represent that school ’ s shared job attitudes .
+376 J. L. S. WITTMER ET AL .
+Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 370–388 ( 2013 ) DOI : 10.1002/job Situational constraints We used three measures of situational constraints .
+First , from the self-report data , we used a 19-item perceived resource constraints scale developed with the sponsors ; these items are mostly unique to the educational setting .
+Participants used a 5-point scale ( 1 = not at all ; 5 = to a very large extent ) to indicate the extent to which they had been able to obtain enough of several different supplies ( chalk , paper , teachers ’ manuals , computers , etc . )
+to do their job well .
+An exploratory factor analysis ( principal axis extraction ; oblique rotation ) of the 19 items revealed four factors with eigenvalues greater than 1.0 , which together explained 70 percent of the inter-item variability .
+However , one factor contained several items with large amounts of missing data .
+These items referred to supplies which high-contact employees are less likely to use ( e.g. , hardware , tools , cleaning supplies ) , and we included these in the survey because of their applicability to custodial and maintenance employees .
+Therefore , we eliminated the seven items corresponding to this factor and reanalyzed the remaining 12 items .
+This analysis explained 67 percent of the inter-item variability with each item loading on one of three factors .
+The first factor accounted for 46 percent of the variance ( factor loadings ranging from 0.52 to 0.87 ) and included items reflecting curriculum supplies ( e.g. , manuals , textbooks , and other curriculum material ) .
+The second factor accounted for 8 percent of the variance ( loadings ranging from 0.56 to 0.89 ) and included items reflecting teaching supplies ( e.g. , pens , chalk , paper ) .
+The third factor accounted for 7 percent of the variance ( loadings ranging from 0.55 to 0.99 ) and included items reflecting ordering supplies ( e.g. , “ How often did you get the supplies you ordered ? ” ) .
+Because we were interested in general perceptions of resource adequacy at the school level , we formed a composite scale from the mean of the three factors ( treating the three factors as indicators , the group-level alpha was .76 with correlations among the factors ranging from .55 to .58 ) .
+The second constraint measure was an objective measure of financial resources at the time of the survey .
+We used a ratio of the school ’ s total financial budget for basic instruction ( supplies and materials ) in relation to the reported enrollment of the school , thus creating an objective measure of financial resources per student .
+We obtained these data from the state DOE website .
+Although the relationship between educational spending and educational attainment is both complex and controversial ( and not the primary goal of our study ) , at least some research suggests a relationship between spending per student on instructional resources and student achievement among schools within the same urban school districts ( Condron & Roscigno , 2003 ) .
+Thus , we judged this to be a reasonable measure of financial resources for the goals of our study .
+The third constraint measure captured student poverty , using the percentage of students receiving free or reduced-cost lunches at each school from the state DOE website .
+Free lunch measures provide good proxy measures of student poverty rates as schools with a greater percentage of students from impoverished environments provide more free lunches to their students .
+This variable has been used as a measure of students ’ economic status in both organizational ( e.g. , Ostroff , 1992 ) and educational ( e.g. , Bowen & Bowen , 1999 ) research .
+To ensure the discriminant validity of our measures , we conducted confirmatory factor analyses , which included the items from the shared concern of aggression measure , the shared attitudes toward working conditions measure , and the situations constraints measures .
+We compared the hypothesized five-factor model with models composed of one , two , three , and four factors that represented theoretically plausible alternate structures for the items ( the full set of these results is available from the first author ) .
+The five-factor model fit the data better than any of the other mod- els and was the only model with acceptable fit indices ( w2 = 2358.48 , df= 199 , p < .01 , CFI = 0.92 , SRMR= 0.04 RMSEA = 0.07 ) .
+These confirmatory factor analyses provide support for the distinctiveness of our three measures , with situational constraints being composed of three factors .
+Standardized test scores We obtained scores for each participating school on four standardized measures of student performance from the state DOE website .
+These measures consisted of age appropriate tests of mathematics , reading , writing , and science administered statewide at the elementary ( i.e. , fourth/fifth grade ) , middle ( i.e. , seventh grade ) and high school ( i.e. , 11th grade ) levels .
+We reported scores as the proportion of students in each school who scored satisfactory or above on each AGGRESSION AND ORGANIZATIONAL OUTCOMES 377 Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 370–388 ( 2013 ) DOI : 10.1002/job test .
+Compared with the school ’ s actual mean performance ( i.e. , the mean of each individual student ) , this measure is likely to be somewhat range restricted , but the overall passing rate is the measure typically used to assess school performance .
+We had no theoretical rationale to expect differences in test scores across areas ( e.g. , between mathematics and reading proficiency ) in relation to aggression concerns , so we formed a composite score reflecting the average percentage of proficient students in the school across the four tests .
+An ANOVA indicated that there were no mean or variance–covariance differences across school levels ( i.e. , elementary , middle , and high school ) on the combined test score , giving support to our decision to conduct a single analysis across school levels .
+This approach greatly increased the statistical power of our analyses , particularly for testing the hypothesized interactions .
+Correlations among the four test scores ranged from .16 to .66 ( all but one exceeded .30 ) , and the school-level internal consistency reliability of the 4-test composite score was .71 .
+Control variables To reduce the likelihood that our findings could be explained by other unmeasured variables , we included three controls .
+First , because larger schools may experience more aggression and crime ( e.g. , DeVoe et al. , 2003 ) , we controlled for the schools ’ total reported enrollment in the year we gathered the survey data ( using state DOE data ) .
+Second , we controlled for average teacher salary ( also from the state DOE ) .
+Because the sample is unionized , pay is strongly influenced by seniority and more senior teachers have opportunities to bid for jobs in more desirable schools .
+Further , teachers at the top of the salary scale with master ’ s degrees receive approximately $ 10 000 more annual pay than teachers with bachelor ’ s degrees and similar levels of experience .
+Thus , controlling for teacher salaries helps rule out an alternate explanation for job attitudes as well as helping to adjust for potential school differences in teacher quality .
+Finally , some forms of aggression are substantially more likely among middle and high school students than among elementary school students ( cf. , Kaufman et al. , 2000 ; Sinclair et al. , 2002 ; Warchol , 1998 ) .
+Therefore , we controlled for school grade level using a variable from the school mailing list reflecting the highest grade level of students at the school .
+Analyses Within-group agreement on predictors As our theoretical rationale for aggregating called for a composition model ( individual-level data are basically equivalent to the higher level construct ) , it was necessary to establish sufficient agreement at the individual level in order to aggregate ( Bliese , 2000 ; LeBreton & Senter , 2008 ) .
+Because we were assessing multiple targets ( i.e. , schools ) , it was necessary to calculate measures of inter-rater agreement and reliability for each predictor .
+ICC ( 1 ) values estimate the agreement and reliability of group members ’ ratings ( Bliese , 2000 ; Bliese & Halverson , 1996 ) .
+In organizational research , ICC ( 1 ) is typically interpreted as a measure of effect size , the extent to which individual ratings are attributable to groupmembership ( LeBreton & Senter , 2008 ) .
+We also calculated estimates of rWG ( J ) in order to ensure agreement , or equivalence of ratings between judges , a necessary prerequisite for aggregation .
+Our calculated ICC ( 1 ) was 0.20 for concerns about aggression ( a moderate to large effect size ) , 0.26 for shared job attitudes toward working conditions ( a large effect size ) , and 0.19 for perceived resource constraints ( a moderate to large effect size ) .
+Our calculated rWG ( J ) was .71 for concerns about aggression ( moderate to strong agreement ) , 0.84 for shared job attitudes toward working conditions ( strong agreement ) , and 0.70 for perceived resource constraints ( moderate to strong agreement ) .
+As noted , our sample included 163 different schools with an average of 18.1 participating workers per school ( range = 5 to 91 ) .
+LeBreton and Senter ( 2008 ) discussed the number of judges ( i.e. , employees in a school ) needed to calculate agreement statistics .
+When the number of judges is low , agreement estimates are likely to be attenuated , and they suggest adding judges when agreement is low .
+However , our ICC ( 1 ) and rWG ( J ) estimates were appropriate , making the number of judges within each school less of a concern .
+378 J. L. S. WITTMER ET AL .
+Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 370–388 ( 2013 ) DOI : 10.1002/job These findings give prima facie support of a group effect and suggest sufficient within-group agreement to go with analyses of school-level means of these variables .
+The standardized test scores reflect the school as a whole and thus are both statistically and conceptually appropriate for school-level analyses ; agreement analyses were neither possible nor necessary .
+Hierarchical regression analyses We performed two hierarchical moderated regression analyses to test Hypotheses 1 through 3 , one with each criterion measure , school performance on the standardized test composite score and school-level job attitudes .
+For each criterion , we entered the variables into the regression equations in the following order : Step 1 ( control variables : school grade level , teacher salary , enrollment ) , Step 2 ( resource measures : student poverty , financial resources , perceived resource constraints and shared concerns about aggression ) , and Step 3 ( shared concerns constraints interactions ) .
+We calculated interaction terms for each of the situational constraint measures ( perceived resource constraints , higher levels of student poverty , and lower spending per student ) with shared concerns for aggression and added these terms at Step 3 .
+To adjust for the effects of correlations among the predictor variables in the tests of the hypothesized interactions , we centered all of the variables .
+Results Table 1 displays the descriptive statistics and intercorrelations for each variable .
+Table 2 shows the hierarchical regression results concerning Hypotheses 1 through 3 .
+Overall , the predictors ( controls , shared concerns of aggres- sion , resource measures , and the interaction of aggression concerns and resources ) accounted for significant variance for each outcome variable , student performance ( adjusted R2 = .16 , p < .01 ) , and shared job attitudes toward working conditions ( adjusted R2 = .42 , p < .01 ) .
+We found support for Hypotheses 1a and 1b , that concerns about aggression relate negatively to student performance ( b=.26 , p < .05 ) and shared attitudes toward working conditions ( b=.50 , p < .01 ) .
+Specifically , after adjusting for school grade level , school size , and teacher salaries , we found that schools in which employees reported stronger concerns about aggression had lower standardized test composite scores and reported lower satisfaction with working conditions.We found support for Hypotheses 2a and 2b , that situational constraints ( including higher perceived resource constraints , higher levels of student poverty , and lower spending per student ) relate negatively to student performance Table 1 .
+Means , standard deviations , and intercorrelations among study variables .
+Scale Mean SD 1 2 3 4 5 6 7 8 Controls 1 .
+Enrollment 781.30 439.20 2 .
+Average teacher salary 39 682.08 7927.98 .20 3 .
+School grade level ( highest grade ) 7.01 2.43 .52 .14 Situational constraints 4 .
+Perceived resource constraints 0.04 0.37 .34 .09 .48 5 .
+Financial resources ( dollars/student ) 52.51 24.24 .10 .08 .05 .15 6 .
+Student poverty rate 74.05 15.80 .23 .28 .36 .07 .08 Aggression 7 .
+Shared aggression concerns 2.58 0.47 .47 .25 .38 .53 .13 .18 Outcomes 8 .
+Student performance 0.01 0.71 .04 .05 .03 .10 .17 .22 .22 9 .
+Attitudes toward working conditions 3.98 0.91 .34 .15 .20 .45 .12 .01 .58 .09 Notes : Pairwise N= 159 to 163 ; correlations greater than |.16| significant at p < .05 ; correlations greater than |.21| significant at p < .01 .
+AGGRESSION AND ORGANIZATIONAL OUTCOMES 379 Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 370–388 ( 2013 ) DOI : 10.1002/job and shared attitudes toward working conditions ( see Table 2 for betas ) .
+After adjusting for school grade level , school size , and teacher salaries , we found that schools with higher levels of perceived and objective resources and less student poverty also had more favorable employee attitudes and more students at satisfactory levels on the stan- dardized test composite score .
+Together , the two main effects of shared aggression concerns and resource constraints accounted for a significant proportion of variance in both student performance ( ΔR2 = .09 , p < .01 ) and shared attitudes toward working conditions ( ΔR2 = .28 , p < .01 ) .
+Hypothesis 3 addressed the moderating effects of resource constraints on the relationship between shared aggression concerns and the outcomes of school-level student performance and job attitudes toward working conditions after adjusting for the individual predictors , school level , school enrollment , and teacher salaries .
+For Hypothesis 3b , the inter- actions of resource constraints and shared aggression concerns accounted for significant variance in student performance ( ΔR2 = .06 , p < .01 ) .
+However , there was no significant interaction with job attitudes toward working conditions .
+Thus , Hypothesis 3a was not supported.When examining the contribution of each of the interactions on student performance , we found that the interaction of perceived resource constraints and shared concerns ( b=.30 , p < .01 ) and the Figure 1 .
+Interaction between concerns about aggression and perceived resource constraints Table 2 .
+Hierarchical regression analyses predicting student performance and teacher attitudes .
+Student performancea Attitudes toward working conditions ΔR2 b ΔR2 b Step 1 : Control variables .01 .12** Enrollment .05 .02 Teacher salary .06 .08 School level .02 .32** Step 2 : Situational constraints and aggression .09** .28** Financial resources .11 .09 Perceived resource constraints .23* .44** Student poverty .24* .01 Shared aggression concerns .26* .50** Step 3 : Interactions .06** .02 Aggression Financial resources .10 .07 Aggression Perceived resource constraints .30** .07 Aggression Student poverty .20* .13 Total variance explained ( adjusted R2 ) .16** .42** aPercentage of students obtaining satisfactory scores in the school .
+*p < .05 ; **p < .01 .
+380 J. L. S. WITTMER ET AL .
+Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 370–388 ( 2013 ) DOI : 10.1002/job interaction of student poverty and shared concerns ( b= .20 , p < .01 ) each contributed a significant proportion of variance , whereas the interaction of spending per student and shared concerns did not .
+To examine the form of the significant interaction effects , we computed the simple slopes associated with high and low ( above and below the median ) levels of resource constraints ( cf. , Aiken & West , 1991 ) .
+Figures 1 and 2 present these effects for perceived resource constraints and student poverty , respectively .
+Both interactions are similar .
+When situational resources were less constrained ( i.e. , higher financial resources per student or lower student poverty ) , there was a negative relationship between shared aggression concerns and standardized test results .
+In contrast , when resources were more constrained ( i.e. , fewer financial resources per student and higher student poverty ) , there was no effect of resources on standardized test results .
+Thus , although we found significant interactions between concerns about aggression and resource constraints , the form of the interactions was not consistent with our expectations .
+Discussion The purpose of the current study was to examine how shared concerns of aggression related to organizational outcomes , as well as to determine the impact resource constraints have as a moderator of this relationship .
+We make several important contributions .
+We aimed to address the need for theoretically based research on issues related to school aggression ( Verdugo & Schneider , 1999 ) by drawing on social identity and social contagion literatures to propose school-level linkages between shared concerns about aggression and organizational level outcomes , both for employees ( e.g. , shared attitudes ) and for the organization ( e.g. , aggregate performance ) .
+Consistent with our model , we demonstrated that stronger shared concerns about aggression are associated with poorer outcomes , even after adjusting for resource differences between schools , school grade levels , employees ’ perceptions about the adequacy of their budgets , and the size of the school .
+Few , if any , studies have investigated these relationships at the school level .
+As such , this study provides a conceptual and empirical foundation for future research on such organizational-level issues related to workplace aggression .
+Another important contribution the current study makes is to examine aggression from a group-stress perspective .
+Researchers also have noted that the adverse effects of aggression are not confined to those who experience it directly ( e.g. , Barling , 1996 ; Tucker et al. , 2005 ; Westman & Etzion , 1999 ) .
+People may suffer adverse outcomes ( stress , anxiety , etc . )
+from witnessing aggression or learning about aggressive events from coworkers .
+These literatures assume that an employee ’ s experience of stress not only influences the focal individual but also becomes part of the work context of other individuals .
+Although these contextual effects have been studied as predictors or moderators Figure 2 .
+Interaction between concerns about aggression and student poverty AGGRESSION AND ORGANIZATIONAL OUTCOMES 381 Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 370–388 ( 2013 ) DOI : 10.1002/job of individual-level variables and processes , they also may influence group-level outcomes such as collective well-being or performance .
+Such effects generally have not been examined in workplace aggression literatures .
+Some studies have discussed the idea of aggression climate—which concerns employees ’ perceptions about workplace aggression policies and practices ( e.g. , Kessler , Spector , Chang , & Parra , 2008 ; Spector , Coulter , Stockwell , & Matz , 2007 ) .
+However , the research testing this concept has still been conducted at the individual level , and the aggression climate concept does not address group stress-related processes .
+Thus , our examination of shared concerns for aggres- sion and group-level attitudes and performance fills this gap , showing that group-level processes need to be included in future workplace aggression research .
+Lastly , our study contributes to the literatures by looking at the role of resource constraints in the aggression– organizational outcomes relationship .
+One interesting issue concerns the expected relationship between school resources and school performance .
+Both individual-level research on performance constraints and open-systems theory at the organizational level suggest that schools would be more effective when they have more resources .
+On the other hand , there is a considerable debate among educational researchers about the nature of the relationship between school funding and school performance ( e.g. , Condron & Roscigno , 2003 ) .
+We found that objective school-level spending per student did not predict student performance .
+However , school-level measures of perceived resource adequacy were related to performance .
+Implications Our findings show that aggression is a shared concern among employees and is likely to impact both employee attitudes and outcomes , as well as performance criteria .
+Thus , the current study can aid administrators in demonstrating the need for aggression-prevention programs in schools .
+It may also provide a basis for estimating the costs and benefits of workplace-aggression-prevention programs .
+Open-systems theory , performance constraints research , and school-performance literatures use quite different effectiveness criteria to study outcomes ( e.g. , organizational survival , employee performance , student performance ) .
+Perhaps the critical issue is how each school uses its resources—an idea that might be better captured by the perceptual measures than by the objective measures in our study .
+Consistent with this perspective , Condron and Roscigno ( 2003 ) found that a within-district per-student financial resources measure predicted standardized test achievement after that financial measure was adjusted for the amount of Title I funding ( i.e. , U.S. Federal Funding for low income students ) .
+Although the specific educational issues may be of less interest to organizational researchers , our findings and other research illustrate some of the complexities of integrating financial and effectiveness data with employees ’ shared perceptions , and they highlight the need of researchers to be aware of the strengths and limitations of the particular measures they choose .
+Although we found significant moderating effects of resource constraints on the relationship between shared concerns for aggression and the student performance measure , the pattern of the interaction effects was not consistent with our expectations .
+We predicted that resource constraints would exacerbate the effects of aggression concerns on school-level performance .
+In contrast , concerns about aggression appeared to affect performance only when resources were less constrained ; resource constraints appeared to neutralize the effects of shared concerns about aggression on organizational outcomes .
+Such findings indicate the importance of considering the situational context in studies of workplace aggression , both as an alternate explanation for aggression effects and as a potential moderator of the effects of aggression-related variables on organizational effectiveness outcomes .
+One interpretation of our findings is that concerns about aggression become more salient to employees when resources are more plentiful .
+Public schools coping with intense resource constraints or high student poverty face so many challenges that the impact of aggression concerns may be limited or less distinct .
+For example , student poverty affects educational outcomes through several pathways .
+Such effects may overwhelm any potential effects of shared concerns about aggression in impoverished schools .
+Extending this to the private sector , we might 382 J. L. S. WITTMER ET AL .
+Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 370–388 ( 2013 ) DOI : 10.1002/job speculate that employees in a company experiencing financial difficulties or a pending merger may be so worried about retaining their jobs that effects of concerns about aggression are neutralized .
+Some resource-based studies of organiza- tions draw on the idea of bricolage ( cf. , Lévi-Strauss , 1967 ) , which Baker and Nelson ( 2005 ) characterized as “ doing more with less ” —getting the most out of available resources , combining resources to generate solutions , and finding satisfactory solutions , rather than optimal solutions to problems .
+Thus , when under strict resource constraints , some schools may be able to find creative , yet parsimonious , ways to solve problems such as those associated with student aggression .
+Additionally , in schools where there is more poverty and budgets are tighter , employees may expect more aggression , thus lessening its impact on organizational outcomes .
+Länsisalmi , Peiró , and Kivimäki ( 2000 ) offered a similar “ normalization ” explanation , describing how organizational culture can shape the collective response to collective stressors , such that in some kinds of cultural contexts , stressors may come to be seen as a normal part of the work environment .
+Similar effects may occur for aggression , as concerns may be more salient to those who face fewer situational constraints .
+Limitations and future research While we controlled for average teacher salary at the school , other systematic differences in the composition of the teaching staff at each school may influence their shared aggression concerns , as well as the relationship between those concerns and organizational effectiveness outcomes .
+For example , teachers with more seniority can more easily move to another school .
+However , the findings suggest that widespread concerns about aggression have stronger effects when other demands are limited .
+Future research could examine several issues related to the potential generalizability of our findings or the limitations of our methodological strategy .
+First , ANOVA-based agreement statistics may underestimate within-group agreement when unaccounted factors restrict between group variance ( cf. , George & James , 1993 ) .
+Such factors might imply that our findings underestimate the effects of shared concerns about aggression .
+Studies that include multiple , diverse school systems ( e.g. , including urban , suburban , and rural schools ) might produce larger between-school variance and potentially show stronger effects .
+Second , the urban public school setting is a unique context for the study of workplace aggression , highlighting the need for research to establish the generalizability of our findings to public , private , and not-for-profit organizations .
+However , there is no particular reason to assume that the underlying theoretical mechanisms explaining group perceptions concerning aggression would be different in public schools compared with that of other settings .
+Further , given the number of educational employees—an estimated 13.5 million in the U.S.A. in 2010–2011 ( Bureau of Labor Statistics , 2012 ) —this sector is important by itself .
+Regardless , as Johns ( 2006 ) noted , organizational researchers should , when possible , consider the context where they conducted their research .
+One reason our context is important is that public school employees face different kinds of concerns about aggression than do those in other occupations , including student-on-student aggression and potential assaults from students .
+Unlike many employees who interact with the public , school employees may be exposed to the same aggressive individuals on a daily basis , often several times a day , and in long-lasting interactions .
+In addition to worrying about their own personal safety , they have to deal with aggression among students .
+Because they have long-lasting relationships with their students , they may have both much stronger bonds with some students and much greater concerns about others .
+Although such relationships are rare in other settings , they are not limited to schools .
+Other occupations with similar concerns include the staff at resident mental health facilities , law enforcement personnel , and prison guards .
+Moreover , most literature has focused on outcomes related to supervisor-initiated and coworker-initiated aggression .
+In their meta-analysis , Hershcovis and Barling ( 2009 ) found that aggression initiated by outsiders ( e.g. , customers and clients ) had similar or smaller ( but still often significant ) effects on employees than aggression from other sources .
+Although we assume students were the perpetrators of the aggression , the current study did not differentiate between multiple types of aggression or the various perpetrators of aggression ( e.g. , Baron & Richardson , 1994 ) , as these have potentially different consequences .
+We recognize that this is a limitation of our study .
+AGGRESSION AND ORGANIZATIONAL OUTCOMES 383 Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 370–388 ( 2013 ) DOI : 10.1002/job Third , there are a wide array of criticisms directed at the use of standardized test scores as student performance measures , mostly concerning whether they effectively capture the desired content domain of student performance and whether various biases undermine their construct validity .
+However , if one accepts the proposition that standardized tests capture some aspect of school performance , then our findings show that concerns about aggression likely influence the ability of a school to accomplish its educational mission .
+Nonetheless , we would encourage further research directed at other educational outcomes such as graduation rates and success in college .
+Moreover , organizational research should investigate whether concerns about aggression influence traditional outcome measures such as turnover , customer service , and productivity .
+Future research could extend our findings by examining the underlying theoretical mechanisms that link concerns about aggression to effectiveness .
+There are several mechanisms through which such concerns might influence student performance or employee attitudes .
+First , exposure to workplace aggression involves a loss of control ( Barling , 1996 ) .
+This may carry over to students , who , when exposed to aggression , feel less in control at school and , as a result , perform poorly .
+A second possibility would be that when teachers devote attention , motivational resources , coping efforts , and so on to contend with aggression , it detracts from their ability to teach effectively .
+Third , concerns about aggression may affect students ’ performance through the same psychological mechanisms that we investigated for employees ( i.e. , shared stress ) .
+Thus , research aimed at further articulation of the theoretical mechanisms underlying our observed relationships would clearly contribute to both theory and practice .
+A related , important theoretical issue concerns the relationship between safety climate and aggression concerns .
+One could argue that the concept of shared aggression concerns shares some conceptual overlap with an already well- established safety climate literature , suggesting the need for future construct validation work .
+There are several possible relationships among these constructs .
+For example , safety climate may be a causal antecedent of shared aggression con- cerns , such that groups are less likely to have strong concerns about aggression when they perceive a general concern for aggression among supervisors , top management , and so on .
+Safety climate might also moderate the effects of aggression concerns on outcomes , such that shared aggression concerns have stronger effects in organizational units with a weaker safety climate .
+The relative effects of shared aggression concerns and safety climate on individual behavior also would be interesting to examine , given that shared aggression concerns reflect how groups feel about safety issues , whereas safety climate reflects group members ’ perceptions of how organizational decision makers feel about safety issues .
+Previous literature has established the individual-level consequences of concerns about aggression ( e.g. , Barling , 1996 ; Sinclair et al. , 2002 ) , and previous stress research demonstrates the cross-level effects of shared stressors ( e.g. , Tucker et al. , 2005 ) .
+Together , this research suggests the possibility of cross-level effects of concerns about aggression on individual stress–outcome relationships .
+We did not analyze these effects because our theoretical interest was primarily at the school level in relation to organizational outcomes and because some of our variables were not appropriate for individual-level analyses .
+However , multilevel analyses of these relationships would clearly contribute to the workplace aggression literature .
+Just as individual-level studies miss the possibility of unit-level effects , studies at the unit-level do not address processes that operate at lower levels of analysis ( Dansereau & Alutto , 1990 ) .
+In the school aggression context , these effects might include both individual and subculture differences .
+For example , individuals who have learned to effectively cope with their concerns about aggression may be less affected by shared stressors than are those who have ineffective coping strategies .
+Similarly , multiple subunits within an organization may face different kinds of exposures and have different kinds of concerns .
+In our case , we assessed both teachers ’ concerns for their own safety and that of their students .
+Future studies might attempt to differentiate these two dimensions ( i.e. , concerns for self and concerns for clients ) , both in terms of measuring aggression concerns and in linking concerns to outcomes .
+Similar unit-level variability may be found in other kinds of organizational settings , such as health care ( e.g. , emergency room versus neonatal ) or in the military ( e.g. , combat versus support units ) .
+Finally , future research should address the conditions under which social identification and/or social contagion effects are likely to have stronger/weaker effects .
+For example , Hogg ( 2001 ) proposed a SIT of leadership in which he outlined factors that influence the way social identity processes affect people in organizations .
+Examples of issues that could be studied in future research include the salience of group membership to the individual ’ s identification 384 J. L. S. WITTMER ET AL .
+Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 370–388 ( 2013 ) DOI : 10.1002/job and the prototypicality of both focal individuals and other group members .
+For example , one might propose that concerns about shared stressors are more likely to be impactful on groups , when employees in those groups more strongly identify with the organization .
+As this example suggests , SIT offers much to researchers interested in how group composition and group influence collective responses to aggression .
+Conclusions Our findings address an important gap in the literature by showing that workplace aggression concerns have adverse consequences , not only for individuals who experience or witness specific events , but also for the organization as a whole .
+Workplace aggression is likely to affect how employees view their workplace and is likely to lead to costly personnel outcomes .
+Much of the current aggression research focuses on a public health model ( cf. , Quick , 1999 ) , which encourages attention on prevention of workplace hazards to preclude health problems .
+In the general case of occupational stress , this orientation assumes that interventions should be directed at changing the nature of the workplace ( e.g. , the level of employees ’ exposure to aggression ) , rather than focusing on adverse reactions to the work environments , as is implicit in many stress management programs .
+This model has many implications for human resource professionals as they seek to proactively prevent workplace aggression through training initiatives , wellness programs , andmore thorough background screenings ( Bryant , 2010 ) .We advise human resource professionals to conduct thorough training with managers and supervisors not only on how to address aggression but also on how to avoid it in the first place through communication initiatives ( Mirza , 2010 ) .
+Acknowledgements We would like to thank Ariel Levi and the anonymous reviewers for their thoughtful comments and suggestions on this manuscript and Crystal Burnette for her assistance with data analyses related to this study .
+This work was supported by funding from a coalition of AFL-CIO public school unions and a Wayne State University School of Business Administration Summer Faculty Development grant .
+Author biographies Jenell Lynn-Senter Wittmer is an assistant professor of management in the College of Business Administration at the University of Toledo .
+She holds a PhD and an MA in Industrial/Organizational Psychology from Wayne State University .
+Her program of research focuses on nonstandard employment ( including part-time work , shift work , and nonstandard schedules ) , the successful employment of people with disabilities , leadership and managerial devel- opment , applied statistics and measurement , and strategic human resource management .
+Robert R. Sinclair is an associate professor of industrial-organizational psychology at Clemson University in Clemson , SC .
+His research focuses on occupational health psychology in three occupational settings : health care , military personnel , and retail employees .
+His specific research interests include work schedules , economic stress , resilience , leadership effects on employee health , and the employment relationship .
+James E. Martin is a professor of management and industrial relations at Wayne State University .
+His research applies behavioral science techniques to unions and human resource issues , including nonstandard schedules , shift work , and part-time workers .
+He has recently had articles published in Journal of Business and Psychology , Journal of Vocational AGGRESSION AND ORGANIZATIONAL OUTCOMES 385 Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 370–388 ( 2013 ) DOI : 10.1002/job Behavior , Journal of Occupational and Organizational Psychology , Journal of Organizational Behavior , and Human Relations .
+Jennifer Tucker is a professor of assessment with the Air Force Culture and Language Center at Air University , Maxwell Air Force Base , AL , specializing in the assessment of cross-cultural competence and in the measurement and evaluation of educational programs .
+She holds a PhD in Industrial/Organizational Psychology from Portland State University , Portland , OR .
+Jessica Lang is a psychologist and working as an assistant professor for occupational health psychology at the Institute for Occupational Medicine at RWTH Aachen University in Germany .
+Her research focuses on the impact of psychosocial risk factors on the development of musculoskeletal disorders as well as on the impact of hazardous substance exposure on psychological strain .
+References Aiken , L. S. , & West , S. G. ( 1991 ) .
+Multiple regression : Testing and interpreting interactions .
+Newbury Park , CA : Sage .
+Albrecht , S. ( 1997 ) .
+Fear and violence on the job : Prevention solutions for the dangerous workplace .
+Durham , NC : Carolina Academic Press .
+Aron , A. , & McLaughlin-Volpe , T. ( 2001 ) .
+Including others in the self : Extensions to own and partner ’ s group memberships .
+In C. Sedikides , & M. B .
+Brewer ( Eds .
+) , Individual self , relational self , collective self ( pp .
+89–108 ) .
+Ann Arbor , MI : Psychology Press .
+Ashforth , B. E. , & Mael , F. ( 1989 ) .
+Social identity theory and the organization .
+Academy of Management Review , 14 , 20–39 .
+Baker , T. , & Nelson , R. E. ( 2005 ) .
+Making do with what ’ s at hand : Entrepreneurial bricolage .
+Administrative Science Quarterly , 50 , 329–366 .
+Bakker , A .
+B. , LeBlanc , P. M. , & Schaufeli , W. B .
+( 2005 ) .
+Burnout contagion among nurses who work at intensive care units .
+Journal of Advanced Nursing , 51 , 276–287 .
+Bakker , A .
+B. , Schaufeli , W. B. , Sixma , H. , & Bosveld , W. ( 2001 ) .
+Burnout contagion among general practitioners .
+Journal of Social and Clinical Psychology , 20 , 82–98 .
+Balfanz , R. ( 2000 ) .
+Why do so many urban public school students demonstrate so little academic achievement ?
+In M. G. Saunders ( Ed .
+) , Schooling students placed at risk : Research , policy , and practice in the education of poor andminority adolescents ( pp .
+37–62 ) .
+Mahwah , NJ : Lawrence Erlbaum .
+Barling , J .
+( 1996 ) .
+The prediction , experience , and consequences of workplace violence .
+In G. VandenBos , & E. Bulatao ( Eds .
+) , Violence on the job ( pp .
+29–49 ) .
+Washington , DC : American Psychological Association .
+Baron , R. A. , & Richardson , D. R. ( 1994 ) .
+Human aggression ( 2nd edn ) .
+New York , NY : Plenum .
+Baruch , Y. , & Holtom , B .
+( 2008 ) .
+Survey response rate levels and trends in organizational research .
+Human Relations , 61 , 1139–1160 .
+Bizumic , B. , Reynolds , K. J. , Turner , J. C. , Bromhead , D. , & Subasic , E. ( 2009 ) .
+The role of the group in individual functioning : School identification and the psychological well-being of staff and students .
+Applied Psychology : An International Review , 58 , 171–192 .
+Bliese , P. D. ( 2000 ) .
+Within-group agreement , non-independence , and reliability : Implications for data aggregation and analysis .
+In .
+K. J. Klein , & S. W. J. Kozlowski ( Eds .
+) , Multilevel theory , research , and methods in organizations ( pp .
+349–381 ) .
+San Francisco , CA : Jossey Bass .
+Bliese , P. D. , & Halverson , R. R. ( 1996 ) .
+Individual and nomothetic models of job stress : An examination of work hours , cohesion , and well-being .
+Journal of Applied Social Psychology , 26 , 1171–1189 .
+Borovsky , D. M. , DaSilva , N. , Grosch , J. , Hipley , L. , Sinclair , R. R. , & Tetrick , L. E. ( 1996 , April ) .
+Fear of victimization in the work- place : An exploratory analysis .
+Paper presented at the 11th Annual Conference of the Society for Industrial/Organizational Psychology .
+Bowen , N. K. , & Bowen , G. L. ( 1999 ) .
+Effects of crime and violence in neighborhoods and schools on the school behavior and performance of adolescents .
+Journal of Adolescent Research , 14 , 319–342 .
+Bowling , N. A. , & Beehr , T. A .
+( 2006 ) .
+Workplace harassment from the victim ’ s perspective : A theoretical model and meta-analysis .
+Journal of Applied Psychology , 91 ( 5 ) , 998–1012 .
+Bryant , M. R. ( 2010 ) .
+Dealing with violence in the workplace .
+Society for Human Resource Management .
+Castillo , D. N. , & Jenkins , E. L. ( 1994 ) .
+Industries and occupations at high risk for workplace homicide .
+Journal of Occupational Medicine , 36 , 125–132 .
+Condron , D. J. , & Roscigno , V. J .
+( 2003 ) .
+Disparities within : Unequal spending and achievement in an urban school district .
+Sociology of Education , 76 , 18–36 .
+Dansereau , F. , Jr. , & Alutto , J .
+A .
+( 1990 ) .
+Level of analysis issues in climate and culture research .
+In B. Schneider ( Ed .
+) , Organizational climate and culture ( pp .
+193–236 ) .
+San Francisco , CA : Jossey-Bass .
+386 J. L. S. WITTMER ET AL .
+Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 370–388 ( 2013 ) DOI : 10.1002/job Deaux , K. , & Major , B .
+( 1987 ) .
+Putting gender into context : An interactive model of gender-related behavior .
+Psychological Review , 94 , 369–389 .
+Dedobbeleer , N. , & Beland , F. ( 1991 ) .
+A safety climate measure for construction sites .
+Journal of Safety Research , 22 , 97–103 .
+DeVoe , J. F. , Peter , K. , Kaufman , P. , Ruddy , S. A. , Miller , A. K. , Planty , M. , .
+.
+.
+Rand , M. R. ( 2003 ) .
+Indicators of school crime and safety , 2003 .
+NCJ 201257/NCES 2004-004 .
+Washington , DC : U.S .
+Departments of Education and Justice .
+van Dick , R. , & Wagner , U .
+( 2001 ) .
+Stress and strain in teaching : A structural equation approach .
+British Journal of Educational Psychology , 71 , 243–259 .
+Galand , B. , Lecocq , C. & Philippot , P. ( 2007 ) .
+School violence and teacher professional disengagement .
+British Journal of Educational Psychology , 77 ( 2 ) , 465–477 .
+George , J. , & James , L. R. ( 1993 ) .
+Personality , affect , and behavior in groups revisited : Comment on aggregation , levels of analysis , and a recent application of within and between analysis .
+Journal of Applied Psychology , 78 , 798–804 .
+Goldstein , A. P. , Harootunian , B. , & Conoley , J. C. ( 1994 ) .
+Student aggression : Prevention , management , and replacement training .
+New York , NY : Guilford .
+González-Morales , M. G. , Peiró , J. M. , Rodríguez , I. , & Bliese , P. D. ( 2012 ) .
+Perceived collective burnout : A multilevel explanation of burnout .
+Anxiety , Stress , and Coping , 25 , 43–61 .
+Harter , J. K. , Schmidt , F. L. , & Hayes , T. L. ( 2002 ) .
+Business-unit-level relationship between employee satisfaction , engagement , and business outcomes : A meta-analysis .
+Journal of Applied Psychology , 87 , 268–279 .
+Hatfield , E. , Cacioppo , J. T. , & Rapson , R. L. ( 1994 ) .
+Emotional contagion .
+New York , NY : Cambridge University Press .
+Hershcovis , M. S. , & Barling , J .
+( 2009 ) .
+Toward a multi-foci approach to workplace aggression : A meta-analytic review of outcomes from different perpetrators .
+Journal of Organizational Behavior , 31 , 24–44 .
+Hoel , H. , Sparks , K. , & Cooper , C. L. ( 2001 ) .
+The cost of violence/stress at work and the benefits of a violence/stress-free working environment .
+Report Commissioned by the International Labour Organization ( ILO ) , Geneva .
+Hogg , M. A .
+( 2001 ) .
+A social identity theory of leadership .
+Personality and Social Psychology Review , 5 , 184–200 .
+Johns , G. ( 2006 ) .
+The essential impact of context on organizational behavior .
+Academy of Management Review , 31 ( 2 ) , 386–408 .
+Katz , D. , & Kahn , R. L. ( 1978 ) .
+The social psychology of organizations .
+New York , NY : Wiley .
+Kaufman , P. , Chen , X. , Choy , S. P. , Miller , A. K. , Fleury , J. K. , Chandler , K. A. , .
+.
+.
+Planty , M. G. ( 2000 ) .
+Indicators of school crime and safety , 2000 .
+NCES 2001-017/NCJ-184176 .
+Washington , DC : U.S .
+Departments of Education and Justice .
+Kessler , S. R. , Spector , P. E. , Chang , C.-H. , & Parra , A. D. ( 2008 ) .
+Organizational violence and aggression : Development of the three-factor Violence Climate Survey .
+Work and Stress , 22 , 108–124 .
+Klein , H. J. , & Kim , J. S. ( 1998 ) .
+A field study of the influence of situational constraints , leader–member exchange , and goal commitment on performance .
+Academy of Management Journal , 41 , 88–95 .
+Länsisalmi , H. , Peiró , J. M. , & Kivimäki , M. ( 2000 ) .
+Collective stress and coping in the context of organizational culture .
+European Journal of Work and Organizational Psychology , 9 , 527–559 .
+LeBlanc , M. M. , & Kelloway , E. K. ( 2002 ) .
+Predictors and outcomes of workplace violence and aggression .
+Journal of Applied Psychology , 87 , 444–453 .
+LeBreton , J. M. , & Senter , J. L. ( 2008 ) .
+Answers to questions about interrater reliability and agreement .
+Organizational Research Methods , 11 , 815–852 .
+Lévi-Strauss , C. ( 1967 ) .
+The savage mind .
+Chicago , IL : University of Chicago Press .
+Mathews , J. , & Helderman , R. S. ( 2004 , February 9 ) .
+Educators decry law ’ s intrusion , not its cost : ‘ No Child ’ rules rile VA Officials .
+Washington Post [ on-line ] , B01 .
+McCloy , R. A. , Campbell , J. P. , & Cudeck , R. ( 1994 ) .
+A confirmatory test of a model of performance determinants .
+Journal of Applied Psychology , 79 , 493–505 .
+Mirza , B .
+( 2010 ) .
+Attorneys ’ advice action to prevent bullying , workplace violence .
+Society for Human Resource Management .
+National Center for Education Statistics .
+( 2011 ) .
+Crime , Violence , Discipline , and Safety in U.S. Public Schools Findings from the School Survey on Crime and Safety : 2009–2010 .
+National School Safety and Security Services .
+( 2010 ) .
+School crime reporting and school crime underreporting .
+Retrieved from http : //www.schoolsecurity.org/trends/school_crime_reporting.html Nicoletti , J. , & Spooner , K. ( 1996 ) .
+Violence in the workplace : Response and intervention strategies .
+In G. R. VandenBos , & E. Q. Bulatao ( Eds . ) .
+Violence on the job : Identifying risks and developing solutions ( pp .
+267–282 ) .
+Washington , DC : APA .
+No Child Left Behind Act of 2001 .
+( 2002 ) .
+Pub .
+L. No .
+107–110 , 115 Stat .
+1425 .
+Ostroff , C. ( 1992 ) .
+The relationship between satisfaction , attitudes , and performance : An organizational level analysis .
+Journal of Applied Psychology , 77 , 963–974 .
+Peters , L. H. , O ’ Connor , E. J. , & Eulberg , J. R. ( 1985 ) .
+Situational constraints : Sources , consequences , and future considerations .
+In K. Rowland , & G. Ferris ( Eds .
+) , Research in personnel and human resources management ( Vol .
+3 , pp .
+79–113 ) .
+Greenwich , CT : JAI Press .
+AGGRESSION AND ORGANIZATIONAL OUTCOMES 387 Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 370–388 ( 2013 ) DOI : 10.1002/job Pierce , C. M. B. , & Molloy , G. N. ( 1990 ) .
+Relations between school type , occupational stress , role perceptions and social support .
+Australian Journal of Education , 34 ( 3 ) , 330–338 .
+Quick , J. C. ( 1999 ) .
+Occupational health psychology : The convergence of health and clinical psychology with public health and preventative medicine in an organizational context .
+Professional Psychology : Research and Practice , 30 , 123–128 .
+Robers , S. , Zhang , J. , & Truman , J .
+( 2010 ) .
+Indicators of School Crime and Safety : 2010 ( NCES 2011-002/NCJ 230812 ) .
+Washington , DC : National Center for Education Statistics , U.S. Department of Education , and Bureau of Justice Statistics , Office of Justice Programs , U.S. Department of Justice .
+Rogers , K. A. , & Kelloway , E. K. ( 1997 ) .
+Violence at work : Personal and organizational outcomes .
+Journal of Occupational Health Psychology , 2 , 63–71 .
+Rose , L. C. , & Gallup , A. M. 2002 .
+The 34th Annual Phi Delta Kappa/Gallup Poll of the Public ’ s Attitudes Toward the Public Schools .
+Phi Delta Kappan , 84 ( 1 ) , 41–56 .
+Schalm , R. L. , & Kelloway , E. K. ( 2001 ) .
+The relationship between response rate and effect size in occupational health psychology research .
+Journal of Occupational Health Psychology , 6 , 160–163 .
+Schwarz , E. D. , & Kowalski , J. M. ( 1993 ) .
+Malignant memories : Effects of shooting in the workplace on school personnel ’ s attitudes .
+Journal of Interpersonal Violence , 8 ( 4 ) , 468–485 .
+Seilström , E. , & Bremberg , S. ( 2006 ) .
+Is there a “ school effect ” on pupil outcomes ?
+A review of multilevel studies .
+Journal of Epidemiology and Community Health , 60 , 149–155 .
+Sinclair , R. R. , Martin , J. E. , & Croll , L. W. ( 2002 ) .
+A threat appraisal model of employee reactions to antisocial workplace behavior .
+Journal of Occupational Health Psychology , 7 , 37–56 .
+Spector , P. E. , & Jex , S. M. ( 1998 ) .
+Development of four self-report measures of job stressors and strain : Interpersonal conflict at work scale , organizational constraints scale , quantitative workload inventory , and physical symptoms inventory .
+Journal of Occupational Health Psychology , 3 , 356–367 .
+Spector , P. E. , Coulter , M. L. , Stockwell , H. G. , & Matz , M. W. ( 2007 ) .
+Perceived violence climate : A new construct and its relation- ship to workplace physical violence and verbal aggression , and their potential consequences .
+Work and Stress , 12 , 117–130 .
+Sy , T. , Côté , S. , & Saavedra , R. ( 2005 ) .
+The contagious leader : Impact of the leader ’ s mood on the mood of group members , group affective tone , and group processes .
+Journal of Applied Psychology , 90 , 295–305 .
+Tarter , C. J. , Sabo , D. , & Hoy , W. K. ( 1995 ) .
+Middle school climate , faculty trust , and effectiveness : A path analysis .
+Journal of Research and Development in Education , 29 , 41–49 .
+Bureau of Labor Statistics .
+( 2012 ) .
+The employment situation—December 2011 , News Release .
+Accessed 13 January 2012 .
+Retrieved from http : //www.bls.gov/news.release/pdf/empsit.pdf Tucker , J. S. , Sinclair , R. R. , & Thomas , J. L. ( 2005 ) .
+The multilevel effects of occupational stressors on soldiers ’ well-being , organizational attachment , and readiness .
+Journal of Occupational Health Psychology , 10 , 276–299 .
+Verdugo , R. R. , & Schneider , J. M. ( 1999 ) .
+Quality schools , safe schools .
+Education and Urban Society , 31 , 286–308 .
+Warchol , G. ( 1998 ) .
+National Crime Victimization Survey : Workplace violence , 1992–1996 .
+U.S. Department of Justice , Office of Justice Programs ( NCJ 168634 ) .
+Washington , DC : U.S. Department of Justice .
+Westman , M. ( 2001 ) .
+Stress and strain crossover .
+Human Relations , 54 , 717–751 .
+Westman , M. , & Etzion , D. ( 1999 ) .
+The crossover of strain from school principals to teachers and vice versa .
+Journal of Occupational Health Psychology , 4 , 269–278 .
+Westman , M. , Vinokur , A. D. , Hamilton , V. L. , & Roziner , I .
+( 2004 ) .
+Crossover of marital dissatisfaction during military downsizing among Russian army officers and their spouses .
+Journal of Applied Psychology , 89 , 769–779 .
+388 J. L. S. WITTMER ET AL .
+Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 370–388 ( 2013 ) DOI : 10.1002/job

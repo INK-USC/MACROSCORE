@@ -1,0 +1,384 @@
+McAuliff_LawHuman_2010_0RL8.pdf
+aLddvZ3xQHspmJIr.bC.Jb0YftI4-McAuliff_LawHuman_2010_0RL8.pdf.plain.html
+
+ORIGINAL ARTICLE All Anchors Are Not Created Equal : The Effects of Per Diem versus Lump Sum Requests on Pain and Suffering Awards Bradley D. McAuliff Æ Brian H. Bornstein Published online : 22 May 2009 American Psychology-Law Society/Division 41 of the American Psychological Association 2009 Abstract This experiment examined whether different quantifications of the same damage award request ( $ 175,000 lump sum , $ 10/hour , $ 240/day , $ 7300/month for 2 years ) influenced pain and suffering awards compared to no damage award request .
+Jury-eligible community mem- bers ( N = 180 ) read a simulated personal injury case in which defendant liability already had been determined .
+Awards were : ( 1 ) larger for the $ 10/hour and $ 175,000 conditions than the $ 7300/month and control conditions and ( 2 ) more variable for the $ 10/hour condition than the $ 7300/month and control conditions .
+No differences emerged on ratings of the parties , their attorneys , or the difficulty of picking a compensation figure .
+We discuss the theoretical implications of our data for the anchoring and adjustment literature and the practical implications for legal professionals .
+Keywords Per diem arguments Anchoring and adjustment Juror pain and suffering awards Civil litigation Jurors in personal injury cases must determine the eco- nomic and noneconomic damages necessary to compensate victims .
+Experts often provide testimony to help jurors determine economic losses such as medical expenses and lost wages , but little guidance is offered for noneconomic losses like pain and suffering ( Greene & Bornstein , 2000 ; Wissler , Kuehn , & Saks , 2000 ) .
+One well-studied excep- tion is the plaintiff ’ s ad damnum or lump sum request for damages ( Chapman & Bornstein , 1996 ; Hinsz & Indahl , 1995 ; Marti & Wissler , 2000 ) .
+A second potential reference point for jurors that has received virtually no empirical attention is the use of per diem arguments .
+The standard or ‘ ‘ pure ’ ’ per diem argument involves an attorney ( typically the plaintiff ’ s ) suggesting a small unit of time and then assigning it a small monetary value ( e.g. , $ 240/day ) that represents its worth for the plaintiff .
+Although the name ‘ ‘ per diem ’ ’ implies that one day is the uniform time unit in these arguments , attorneys have used a variety of time units ( hour , week , month , year ) to quantify damage awards for jurors ( King , 2003 ) .
+LEGAL STATUS OF PER DIEM ARGUMENTS Attorneys usually have considerable leeway in making oral arguments , but efforts to use per diem arguments have met with mixed success in U.S. courts ( Pearson , 2002 ) .
+Some judges have ruled that per diem arguments are improper because they are based on speculation and can not be sup- ported by the evidence ( Parker v. Artery , 1995 ; Ramstad v. Lear Siegler Diversified Holdings Corp. , 1993 ) or that they mislead juries and result in excessive verdicts ( Carchidi v. Rodenhiser , 1989 ; Johnson v. Colglazier , 1965 ) .
+In con- trast , other judges have held that per diem arguments are permissible inferences drawn from the evidence Portions of this research were presented at the 2007 meeting of the American Society of Trial Consultants , Long Beach , CA and the 2008 meeting of the American Psychology-Law Society in Jacksonville , FL .
+B. D. McAuliff ( & ) Department of Psychology , California State University , Northridge , 18111 Nordhoff Street , Northridge , CA 91330-8255 , USA e-mail : bradley.mcauliff @ csun.edu B. H. Bornstein Department of Psychology , University of Nebraska-Lincoln , Lincoln , NE , USA e-mail : bbornstein2 @ unl.edu 123 Law Hum Behav ( 2010 ) 34:164–174 DOI 10.1007/s10979-009-9178-8 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+( Cafferty v. Monson , 1985 ; Streeter v. Sears Roebuck & Co. , 1988 ) and that it is logically inconsistent to allow a lump sum request without permitting attorneys to present how that amount might be broken down to represent dif- ferent periods of time ( Beagle v. Vasold , 1966 ) .
+These legal decisions involving per diem arguments and their underlying assumptions raise intriguing questions worthy of empirical investigation : Do per diem arguments affect jurors ’ noneconomic damage awards ?
+If so , are these effects larger compared to when lump sums or no per diem arguments are used ?
+We designed the present study to provide preliminary answers to these questions and to stimulate future research on attorneys ’ use of per diem arguments in civil litigation .
+PREVIOUS RESEARCH ON PER DIEM ARGUMENTS Empirical research on per diem arguments is surprisingly scant .
+We are aware of only one other study that has exam- ined the effect of per diem arguments on jurors ’ pain and suffering awards .
+In that study , researchers included seven variations of a per diem argument presented by the plaintiff ’ s attorney in a series of personal injury cases ( Laughery , Paige , Bean , & Wogalter , 2001 ) .
+College students read one of five per diem amounts suggested to compensate the victim for his/her life expectancy ( $ 1 , $ 50 , $ 100 , $ 200 , or $ 1000 per day ) , a multiple-rate condition consisting of a table that presented the first four rates , or a no per diem control .
+Even though participants ’ damage awards in the control , $ 1 , $ 50 , $ 100 , and multiple-rate arguments were not significantly different from each other , they were smaller than those in the $ 200 condition , and all six versions led to smaller awards than the $ 1000/day argument condition .
+The Laughery et al .
+( 2001 ) experiment is important because it was the first to investigate the effects of different per diem arguments on jurors ’ noneconomic damage awards .
+At the same time , however , the study ’ s main finding that larger per diem arguments led to larger awards seems to be more indicative of jurors ’ general tendency to anchor on amounts provided by attorneys ( making larger awards in response to larger requests ) than it is an investigation of how different dollar/time quantifications of the same absolute amount for the plaintiff ’ s pain and suffering ( e.g. , $ 10/hour versus $ 240/day ) would influence jurors ’ awards .
+ANCHORING AND JURORS ’ NONECONOMIC DAMAGE AWARDS Social scientists have discovered that people rely on vari- ous heuristic principles to reduce the complexity of different judgment tasks , especially those involving uncertainty ( Tversky & Kahneman , 1974 ) .
+Although these heuristics are quite useful , they sometimes lead to trou- blesome and systematic errors .
+One common heuristic involves an ‘ ‘ anchoring and adjustment ’ ’ process in which people make estimates by starting at an initial value that eventually is adjusted to yield a final answer .
+Sources of the initial value or starting point may be external ( sug- gested by another person ) or internal ( based on a partially performed computation ) and both exert an influence on the final judgment rendered .
+In short , ‘ ‘ different starting points yield different estimates , which are biased toward the ini- tial values ’ ’ ( Tversky & Kahneman , 1974 , p. 1128 ) .
+Effects of Anchors on Award Size and Variability Researchers have documented anchoring and adjustment effects in various civil trial simulations ( Chapman & Bornstein , 1996 ; Hinsz & Indahl , 1995 ; Marti & Wissler , 2000 ) .
+These effects generally take one of two forms : assimilation ( movement of the response toward the anchor ) or contrast ( movement of the response away from the anchor ) .
+College students in an experiment by Chapman and Bornstein ( 1996 ) awarded more money to the plaintiff as the size of her attorney ’ s lump sum request ( $ 100 , $ 20,000 , $ 5 million , or $ 1 billion ) increased .
+Yet more recent research by Marti and Wissler ( 2000 ) suggests that there are limits to how much plaintiff attorneys should ask for and that too large a request may backfire .
+In that experiment , the plaintiff requested either $ 1.5 million , $ 15 million , or $ 25 million for his pain and suffering after a workplace accident that was the defendant ’ s fault .
+College students awarded the least amount of money in the $ 1.5 million condition ; however , the average award was greater in the $ 15 million condition than in the $ 25 million con- dition .
+Based on those findings , Marti and Wissler echoed the earlier sentiments of Chapman and Bornstein by agreeing that ‘ ‘ the more you ask for , the more you get ’ ’ but also cautioned ‘ ‘ be careful what you ask for. ’ ’ Anchors appear to affect the variability of mock jurors ’ pain and suffering awards similarly to how they affect award size .
+In general , award variability increases as the size of the award request increases ( Malouff & Schutte , 1989 ) , although the data on this point are somewhat inconsistent ( Marti & Wissler , 2000 ) .
+Psychological Processes Underlying the Effects of Anchors on Awards Whether examining the effects of anchors on award size or variability , it is crucial to consider the underlying psy- chological processes .
+Marti and Wissler ( 2000 ) suggested three possible factors that determine whether a particular Law Hum Behav ( 2010 ) 34:164–174 165 123 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+anchor produces assimilation or contrast .
+The first two factors involve the perceived discrepancy between the anchor and either the target stimulus or the individual ’ s initial position .
+Essentially , more moderate anchors tend to produce assimilation whereas more extreme anchors tend to produce contrast .
+Hence , an attorney ’ s suggested dam- age award ( anchor ) that is extremely discrepant from the plaintiff ’ s perceived pain and suffering ( target stimulus ) or a juror ’ s internal sense of appropriate compensation for the harm suffered ( individual ’ s initial position ) is more likely to result in contrast than a more moderate , better-matching award .
+The third factor involves whether an individual believes his or her judgment is being influenced by the suggested anchor .
+Anchors that are perceived as deliberate attempts to bias an individual ’ s judgment are likely to result in contrast or no movement toward the anchor rather than assimilation .
+Anchors in the form of per diem arguments or lump sum requests also may affect certain trial-related attitudes and beliefs , which in turn could influence the size and vari- ability of jurors ’ awards .
+Past research has shown that lump sum anchors have little effect on the plaintiff ’ s perceived pain and suffering ( Chapman & Bornstein , 1996 ; Marti & Wissler , 2000 ) , but they can increase jurors ’ perceptions of the plaintiff ’ s selfishness when the lump sum is charac- terized as being larger than the average request in similar cases ( Chapman & Bornstein , 1996 ) .
+Less is known about whether lump sums influence jurors ’ evaluations of the attorneys ’ closing arguments or the perceived difficulty of picking an exact figure to compensate the plaintiff for her injuries , and no research has addressed the effects of per diem arguments on these attitudes .
+OVERVIEW We designed the present experiment to examine the effects of different dollar/time per diem arguments , a lump sum , or no award recommendation on jurors ’ noneconomic damage awards in a simulated personal injury case in which lia- bility already had been established .
+In addition to this novel anchor manipulation , we sought to improve the ecological validity of research on jurors ’ damage awards by sampling jury-eligible community members instead of college students .
+To determine the specific amount requested in the per diem argument and lump sum conditions , we first presented 35 jury-eligible community members the written trial stimulus ( see ‘ ‘ Method ’ ’ for a detailed description ) and asked how much money the plaintiff should receive for the 2 years of pain and suffering she experienced as a result of the defendant ’ s negligence .
+We did not include any award recommendation in this version of the trial .
+Participants ’ pain and suffering awards ranged from $ 2,000 to $ 500,000 with a mean award of $ 61,992 ( Mdn = $ 24,000 , SD = $ 118,033 ) .
+Consistent with earlier experiments in this area ( e.g. , Chapman & Bornstein , 1996 ; Hinsz & Indahl , 1995 ; Marti & Wissler , 2000 ) , we wanted the total amount requested by the plaintiff ’ s attorney to represent a moderately high anchor that should produce assimilation compared to when no damage award recommendation was included .
+We used a lump sum amount of $ 175,000 because it was nearly three times the average award of our pilot participants , fell one standard deviation above that mean value , and could be divided evenly into whole dollar amounts and time units ( $ 10/hour , $ 240/day , and $ 7300/month ) .
+HYPOTHESES We developed four specific hypotheses regarding the effects of the damage award recommendation variable on mock jurors ’ decisions .
+Our first two hypotheses focused on the size and variability of participants ’ pain and suf- fering awards .
+Consistent with previous anchoring research , we predicted that a moderately high anchor pre- sented to participants in the form of either a per diem argument or lump sum would increase the size and vari- ability of pain and suffering awards ( assimilation ) compared to when no damage award recommendation was presented .
+We did not anticipate that a combined Per Diem Argument-versus-Lump Sum contrast , or individual com- parisons among the three levels of per diem argument and the lump sum amount , would reveal any differences because the anchors in these conditions were all function- ally equivalent ; however , we conducted these analyses to empirically test the assumption made by some courts that per diem arguments lead to larger awards and therefore are prejudicial .
+Our third hypothesis addressed the question of whether per diem argument or lump sum anchors would affect mock jurors ’ beliefs about damage awards and their per- ceptions of the parties .
+Specifically , we predicted that participants who received the lump sum amount would find it easiest to pick a compensation figure , followed by par- ticipants who received the per diem arguments , and followed lastly by participants who received no damage award recommendation .
+This hypothesis was largely exploratory in nature ; however , we reasoned that partici- pants would find the compensation task to be more difficult in the per diem argument anchor conditions compared to the lump sum amount condition because the per diem arguments required participants to perform the dollar/time calculation to arrive at a final damage award .
+In contrast , the lump sum condition simply provided this amount for 166 Law Hum Behav ( 2010 ) 34:164–174 123 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+participants without requiring any additional calculations .
+With respect to the no award recommendation condition , we anticipated that participants would perceive any help ( per diem argument or lump sum ) provided by the plain- tiff ’ s attorney as simplifying the compensation task compared to when no information was provided .
+By pro- viding guidance , any recommendation should likewise make the plaintiff attorney ’ s closing argument ( which contained the manipulation ) more influential than when no recommendation was provided .
+Previous research has shown that different lump sum requests generally did not change mock jurors ’ perceptions of the plaintiff ’ s pain and suffering ( Chapman & Bornstein , 1996 ; Marti & Wissler , 2000 ) .
+Based on those findings , the equivalence of the total request across conditions , and the fact that we deliberately included a moderately high anchor designed to produce assimilation and not contrast , we did not expect the manipulation to influence participants ’ perceptions of the plaintiff ’ s pain and suffering or impressions of the plaintiff and defendant .
+Our fourth and final hypothesis predicted that partici- pants ’ damage awards would be positively related to the plaintiff perception variables and negatively related to the defendant perception variables .
+METHOD Participants One hundred-eighty community members residing in Southern California volunteered for our study or partici- pated in exchange for $ 10.00 .
+We recruited community members by distributing a flyer that described the research participation opportunity in our local community and by offering students extra-credit for referring extended family members to participate in the research .
+All participants met the California requirements for jury eligibility : a U.S. cit- izen who is at least 18 years of age , able to understand English , and who has not been convicted of a felony ( California Code of Civil Procedure , §203 ) .
+Community members averaged 36 years in age and most were females ( 58 % ) and had been in at least one automobile accident ( 64 % ) in which they were at fault ( 60 % ) .
+Most participants had served on a jury before ( 85 % ) but had not been a party in actual legal proceedings ( 83 % ) .
+Of those with prior legal involvement , 54 % were plaintiffs in civil cases and 46 % were defendants in either civil or criminal proceedings .
+Community members came from a variety of racial and ethnic backgrounds including : Cau- casians ( 37 % ) , Hispanics , Central/South Americans , Mexicans ( 24 % ) , African Americans ( 4 % ) , Middle East- erners ( 9 % ) , and Asians ( 26 % ) .
+Trial Stimulus Participants read a 5-page summary of an automobile negligence case that was based on Abbinante v. O ’ Connell ( 1996 ) and included introductory remarks from the judge , opening statements/closing arguments from both attorneys , summarized testimony from four witnesses ( plaintiff , defendant , treating physician , and physical therapist ) , and the standard judicial instructions used in California civil cases .
+The basic fact pattern of the case was that an inattentive driver ( defendant ) accidentally struck an 18-year-old female pedestrian ( plaintiff ) when swerving to avoid a rear- end collision with the car in front of him .
+The plaintiff suffered compression fractures to her lumbar vertebrae and spent two nights in intensive care .
+After being discharged from the hospital , she continued to experience intense back pain , as well as limited physical mobility , weakness and numbness in her legs , and severe headaches .
+The plaintiff took daily doses of prescription painkillers for her back injuries and was forced to wear a hyperextension back brace .
+The plaintiff ’ s injuries prevented her from partici- pating in many activities she had previously enjoyed on a regular basis , including sports and other recreational activities .
+Two years passed before the plaintiff fully recovered from her injuries .
+At trial , the plaintiff ’ s treating physician testified on her behalf as an expert witness .
+He explained that the plain- tiff ’ s injuries were the common result of compression fractures .
+The symptoms of numbness and weakness in her legs were caused by swelling at the fracture site and increased pressure on her spinal cord .
+He also testified that frequent , severe headaches were typical symptoms of similar back injuries and that the medication he prescribed was necessary for the plaintiff to cope with the tremen- dous amount of pain she was experiencing during her recovery .
+The physical therapist who cared for the plaintiff also testified as an expert witness .
+She testified that hyperex- tension back braces are common in cases of compression fractures in order to keep the spine stable and to protect the spinal column during recovery .
+She explained that for the types of injuries sustained by the plaintiff , treatment can involve years of therapy and that patients often are not able to work or participate in any vigorous physical activity for an extended period of time .
+She concluded by noting that the nature and duration of the plaintiff ’ s physical therapy was typical and not out of the ordinary .
+Design and Dependent Measures The study consisted of a 5 Damage Award Recommenda- tion ( $ 10/hour , $ 240/day , $ 7300/month , $ 175,000 lump Law Hum Behav ( 2010 ) 34:164–174 167 123 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+sum , No Award Recommendation ) between-groups facto- rial design .
+This variable was manipulated in the plaintiff attorney ’ s closing argument .
+For example , in the $ 10/hour condition he concluded by stating : When deciding how much money to award Rebecca [ plaintiff ] , we ask that you keep in mind one simple question : How much money is Rebecca ’ s two years of physical pain and mental suffering worth ?
+We argue that $ 10.00 for every hour of pain and suffering would reasonably compensate Rebecca for her inju- ries .
+Please ensure that justice is served today by awarding Rebecca the compensation she deserves for the pain and suffering she endured due to Mr. Rum- son ’ s [ defendant ] negligence .
+The other conditions substituted different amounts ( $ 240/day , $ 7300/month , or $ 175,000 ) and the control condition included the same language above minus the sentence containing the specific monetary recommenda- tion .
+The defense attorney ’ s closing argument did not address the specific amount requested by the plaintiff ’ s attorney ; however , he concluded by stating ‘ ‘ Justice is not served by awarding the plaintiff the excessive amount of money she is seeking in this action ’ ’ in every condition .
+We included a series of dependent measures to deter- mine the effects of our experimental manipulation on mock jurors ’ decisions .
+The first item was an open-ended question asking participants how much money they thought the plaintiff should receive to compensate for her pain and suffering only .
+Next , participants used 7-point , Likert-type scales to indicate the severity of the plaintiff ’ s pain and suffering ( 1 = Not at all , 7 = Extremely ) , overall evaluations of the plaintiff and defendant ( 1 = Extremely Negative , 7 = Extremely Positive ) , how influential each of the attorneys ’ closing arguments was ( 1 = Not at all Influential , 7 = Extremely Influential ) , and the difficulty of picking an exact figure to compensate the plaintiff for her injuries ( 1 = Extremely Easy , 7 = Extremely Difficult ) .
+Finally , participants completed a multiple-choice manipulation check to ensure that they were able to identify the appropriate damage award request provided by the plaintiff ’ s attorney in each of their respective conditions and rated their level of moti- vation when reading the trial stimulus and determining damages ( 1 = Not at all Motivated , 7 = Extremely Motivated ) .
+After completing those dependent measures , participants provided demographic information about their gender , age , jury eligibility , racial/ethnic identity , automobile accident history ( number of accidents and fault ) , and previous involvement in legal proceedings ( civil or criminal , plain- tiff or defendant ) .
+Procedure We collected data in groups of 5–20 participants .
+After providing informed consent , participants were instructed that the defendant already had been found liable and that their task was to determine how much money the plaintiff should receive for her pain and suffering .
+Participants then read the trial summary and completed the dependent measures .
+Participants were randomly assigned to condi- tion and did not deliberate or confer with one another at any point during the study .
+Once participants completed the study , they were debriefed and thanked for their participation .
+RESULTS Manipulation Check Mock jurors noticed the variations in the plaintiff attor- ney ’ s damage award recommendation .
+The percentage of participants in each condition who reported the correct damage award recommendation was : 95 % ( $ 10/hour ) , 80 % ( $ 240/day ) , 100 % ( $ 7300/month ) , 93 % ( $ 175,000 ) , and 100 % ( none ) .
+All participants were included in the main analyses to ensure adequate statistical power.1 We also conducted a one-way ANOVA with five levels of the Damage Award Recommendation variable to ensure that there were no systematic differences in participants ’ self-reported levels of motivation while reading the trial and determining damages .
+Random assignment was suc- cessful , with no differences emerging across conditions , F ( 4 , 175 ) = 0.13 , p = .97 , partial g2 = .01 , Grand M = 4.65 , SD = 1.59 .
+Data Analytic Strategy The amount of dollars awarded for the plaintiff ’ s pain and suffering was the major dependent variable in this experi- ment .
+Preliminary analyses revealed that participants ’ raw dollar awards were highly variable and positively skewed .
+Following procedures recommended by Tabachnick and Fidell ( 2007 ) , awards that were greater than two standard deviations above the mean in each condition were recoded to the award amount at two standard deviations .
+This transformation has been used in other damage award research ( e.g. , Saks , Hollinger , Wissler , Evans , & Hart , 1 We reran all the analyses excluding the 12 participants who did not answer the manipulation check question correctly and the pattern of effects across the dependent measures was identical to when these participants were included .
+168 Law Hum Behav ( 2010 ) 34:164–174 123 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+1997 ) and is preferred over other methods such as loga- rithmically transforming or truncating the data for several reasons .
+A logarithmic transformation of damage awards recodes all of the data ( not just the outliers ) and the resulting values are difficult to interpret in a meaningful way .
+This type of transformation would have been partic- ularly problematic in our study because we were interested in examining differences in the variability of damage awards as a function of experimental condition .
+Truncation or the elimination of extreme values is less desirable than the transformation we performed because it results in the loss of data .
+In total , two awards were recoded in each of the $ 10/hour , $ 7300/month , and $ 175,000 conditions and one award was recoded in each of the $ 240/day and no award recommendation conditions .
+After this transformation , the distribution of our pain and suffering award data showed no serious departures from normality .
+We subjected participants ’ pain and suffering awards , impressions of the plaintiff and defendant , evaluations of the attorneys ’ closing arguments , and perceived difficulty of picking an exact figure to compensate the plaintiff for her injuries to a multivariate analysis of variance ( MA- NOVA ) to explore whether the composite of these six dependent measures differed as a function of the Damage Award Recommendation variable .
+The Pillai ’ s Trace cri- terion revealed a statistically significant effect , Mult .
+F ( 28 , 676 ) = 1.99 , p = .002 , partial g2 = .09 .
+We followed up the significant multivariate main effect for the Damage Award Recommendation variable using univariate F tests for each of the six dependent measures .
+Hypothesis 1 : Size of pain and suffering awards .
+The test for the pain and suffering award measure was statis- tically significant ( see Table 1 ) .
+Tukey ’ s post hoc comparisons revealed that participants ’ pain and suffering awards were larger for the $ 10/hour per diem argument and $ 175,000 lump sum conditions compared to the $ 7300/ month per diem argument and no award recommendation conditions .
+The difference between participants ’ awards in the $ 240/day condition and all other conditions was not statistically significant .
+We also conducted two contrasts that combined partic- ipants ’ damage awards across all three per diem argument levels ( M = $ 107,771 ; SD = $ 130,036 ) and compared them to damage awards in the lump sum only condition and the control condition .
+Neither contrast reached traditional levels of statistical significance , F ( 1 , 146 ) = 3.62 , p = .059 , partial g2 = .02 and F ( 1 , 146 ) = 3.37 , p = .069 , partial g2 = .03 , respectively .
+A final contrast testing the effect of a linear trend across the three per diem argument levels was statistically significant , F ( 1 , 105 ) = 7.84 , p = .006 , partial g2 = .07 .
+As the dollar amount in each per diem argument increased , participants ’ damage awards decreased in a linear fashion ( see Table 1 ) .2 Hypothesis 2 : Variability in pain and suffering awards .
+We examined the effect of our Damage Award Recom- mendation manipulation on the variability of participants ’ pain and suffering awards using a procedure described by Levene ( 1960 ) and used by other civil jury researchers ( Marti & Wissler , 2000 ; Saks et al. , 1997 ) .
+We calculated deviation scores by taking the absolute value of the dis- tance between each participant ’ s award and the mean award for his/her experimental condition .
+We then sub- jected these deviation scores to a one-way between- subjects ANOVA with five levels of the Damage Award Recommendation variable .
+This analysis revealed a statis- tically significant effect , F ( 4 , 175 ) = 4.33 , p = .002 , partial g2 = .09 .
+Tukey ’ s post hoc comparisons revealed that the $ 10/hour per diem argument increased the vari- ability in participants ’ pain and suffering awards compared to the $ 7300/month and no award recommendation con- ditions ( see Table 1 ) .3 No other comparisons reached traditional levels of statistical significance .
+We also conducted two contrasts that combined partic- ipants ’ deviation scores across all three per diem argument levels ( M = $ 79,562 ; SD = $ 96,493,036 ) and compared them to the deviation scores in the lump sum only condi- tion and the control condition .
+The Per Diem Argument- versus-Lump Sum contrast was nonsignificant , F ( 1 , 146 ) = 1.16 , p = .28 , partial g2 = .01 ; however , the Per Diem Argument-versus-Control was statistically significant , F ( 1 , 134 ) = 4.67 , p = .03 , partial g2 = .03 .
+A final contrast testing the effect of a linear trend across the three per diem argument levels was statistically significant , F ( 1 , 105 ) = 8.67 , p = .004 , partial g2 = .08 .
+As the dollar amount in each per diem argument increased , the variability in par- ticipants ’ damage awards decreased in a linear fashion ( see Table 1 ) .
+2 We acknowledge that this final contrast did not test an a priori hypothesis .
+It was recommended by a reviewer to test what appeared to be a linear trend in the size of participants ’ damage awards as a function of per diem argument in the univariate follow-up test for the statistically significant Damage Award Recommendation effect in the overall MANOVA .
+3 One additional insight that we gained from the Levene ’ s test was that our univariate F test on the size of participants ’ pain and suffering awards violated the homogeneity of variance assumption of ANOVA because the variability in awards was not constant across experimen- tal conditions .
+To ensure that this heterogeneity of variance did not affect our results in any way , we performed a logarithmic transfor- mation on the pain and suffering award variable and reran the univariate F test .
+Without exception , the pattern of results was identical to when the nontransformed awards were used .
+Law Hum Behav ( 2010 ) 34:164–174 169 123 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+Hypothesis 3 : Attitudinal and belief measures .
+The other univariate tests for the effects of per diem argument on participants ’ perceptions of the plaintiff ’ s pain and suffer- ing , overall impressions of the plaintiff and defendant , evaluations of the attorneys ’ closing arguments , and the difficulty of picking an exact figure to compensate the plaintiff for her perceived injuries were not statistically significant ( see Table 1 ) .
+Hypothesis 4 : Correlations among measures .
+Partici- pants ’ damage awards were positively related to their perceptions of the plaintiff ’ s pain and suffering , impres- sions of the plaintiff , and evaluations of the plaintiff attorney ’ s closing argument at a statistically significant level ( see Table 2 ) .
+Damage awards were negatively rela- ted to participants ’ evaluations of the defense attorney ’ s closing argument .
+All three plaintiff measures were posi- tively correlated .
+For the defendant measures , only participants ’ impression of the defendant and the defense attorney ’ s closing argument were positively correlated .
+Finally , participants ’ ratings of the plaintiff and defense attorney closing arguments were negatively related .
+DISCUSSION Previous research on jurors ’ noneconomic damage awards has presented participants with lump sum requests that vary in size only and found that moderate anchors produce assimilation whereas extreme anchors produce contrast ( Chapman & Bornstein , 1996 ; Marti & Wissler , 2000 ) .
+What remained to be seen until now is how mock jurors respond to the same damage award recommendation bro- ken down into different dollar/time units .
+Major Findings Award Size Depending on the exact dollar/time quantification used , participants ’ pain and suffering awards were similar to or different from the amounts awarded when a lump sum or no damage award recommendation was provided .
+The per diem argument containing the smallest dollar/time quanti- fication ( $ 10/hour ) or the $ 175,000 lump sum request both Table 1 Means , standard deviations , and univariate effects of damage award recommendation on dependent measures Dependent measure Means ( SD ) Univariate effect of damage award recommendation $ 10/hour $ 240/day $ 7300/month $ 175,000 None F df p partial g2 Award in dollars 149,614a ( 186,369 ) 99,037a , b ( 73,580 ) 66,316b ( 66,434 ) 151,758a ( 154,611 ) 61,257b ( 60,701 ) 4.34 4 , 175 0.002 0.09 Award deviation score in dollars 117,645a ( 143,312 ) 60,688a , b ( 40,281 ) 53,417b ( 38,353 ) 97,031a , b ( 119,415 ) 39,446b ( 44,708 ) 4.33 4 , 175 0.002 0.09 Pain and suffering severity 5.70 ( 1.22 ) 5.57 ( 1.17 ) 5.91 ( 0.95 ) 5.36 ( 1.25 ) 5.30 ( 1.24 ) 1.55 4 , 175 0.19 0.03 Plaintiff 4.90 ( 1.43 ) 4.86 ( 1.38 ) 4.85 ( 1.15 ) 4.95 ( 1.32 ) 5.20 ( 1.16 ) 0.39 4 , 175 0.82 0.01 Plaintiff closing 3.95 ( 1.58 ) 3.97 ( 1.67 ) 4.12 ( 1.85 ) 4.64 ( 1.30 ) 4.50 ( 1.20 ) 1.61 4 , 175 0.17 0.04 Defendant 4.08 ( 0.89 ) 3.69 ( 1.11 ) 4.00 ( 1.25 ) 3.50 ( 1.25 ) 4.03 ( 0.77 ) 2.12 4 , 175 0.08 0.05 Defendant closing 3.78 ( 1.49 ) 4.06 ( 1.78 ) 3.82 ( 1.78 ) 3.86 ( 1.48 ) 4.10 ( 1.63 ) 0.28 4 , 175 0.89 0.01 Compensate difficulty 4.74 ( 1.55 ) 4.26 ( 1.38 ) 4.63 ( 1.64 ) 4.79 ( 1.57 ) 3.90 ( 1.73 ) 1.91 4 , 175 0.11 0.04 Note : Within each row , means with different superscripts were significantly different at p B .05 Table 2 Means , standard deviations , and correlations among dependent measures M SD 1 2 3 4 5 6 7 1 .
+Award in dollars 126,083 214,282 – 0.22** 0.22** 0.16* -0.11 -0.16* 0.31 2 .
+Pain and suffering severity 5.57 1.18 – 0.39** 0.29** -0.13 -0.09 0.03 3 .
+Plaintiff 4.94 1.29 – 0.31** -0.12 -0.07 0.01 4 .
+Plaintiff closing 4.24 1.55 – -0.07 -0.20** 0.12 5 .
+Defendant 3.84 1.09 – 0.15* -0.05 6 .
+Defendant closing 3.91 1.61 – 0.04 7 .
+Compensate difficulty 4.50 1.59 – * Correlation significant at p B .05 ** Correlation significant at p B .01 170 Law Hum Behav ( 2010 ) 34:164–174 123 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+increased participants ’ awards relative to control partici- pants whereas the per diem argument containing the largest dollar/time quantification ( $ 7300/month ) did not .
+These findings suggest that assimilation effects may be moderated by the format in which the damage award recommendation is presented to jurors in addition to its size .
+Moreover , even though damage awards increased in the $ 10/hour and $ 175,000 lump sum conditions , participants did not simply accept the plaintiff attorney ’ s damage award recommen- dation outright : on average , they awarded approximately $ 25,000 less than what was requested .
+The assimilation effects in the $ 10/hour and $ 175,000 lump sum conditions are not particularly surprising .
+Recall that we deliberately chose an award amount that was moderately high relative to participants ’ awards when no damage award recommendation was provided .
+As such , our anchor was more likely to produce assimilation than con- trast because it was not extremely discrepant from the target stimulus or participants ’ initial judgments and it should not have been perceived as being overly biased ( Marti & Wissler , 2000 ) .
+However , the same can be said about the other per diem argument conditions because they were functionally equivalent in size , and yet neither the $ 240/day nor $ 7300/month anchor produced the assimila- tion effects observed in the $ 10/hour and $ 175,000 conditions .
+Perhaps the most straightforward conclusion we can draw from this result is that mock jurors did not perform the calculations suggested by the plaintiff ’ s attorney in all of the per diem argument conditions .
+Had they relied on the per diem arguments , their damage awards would not have differed because all three dollar/time quantifications resulted in the same amount as the lump sum request ( $ 175,000 ) .
+Yet it does not appear that participants disre- garded the per diem arguments altogether either .
+The fact that pain and suffering awards were virtually identical in the $ 10/hour and lump sum conditions suggests that par- ticipants in this condition performed the calculations contained in the per diem argument .
+Why then did partic- ipants respond differently to the $ 10/hour and $ 7300/month per diem arguments ?
+We can begin by ruling out the possibility that participants simply did not attend to our experimental manipulation because the overwhelming majority of participants passed the manipulation check .
+In addition , no differences emerged for participants ’ self- reported motivation across the experimental conditions .
+Instead , what seems more plausible is that participants attended to the damage award recommendations but per- ceived the $ 7300/month per diem argument to be excessive compared to the actual worth of the plaintiff ’ s pain and suffering or their intuitive , gut-level sense of an appropriate award amount ( e.g. , ‘ ‘ It ’ s only $ 10/hour. ’ ’ versus ‘ ‘ Wow , that ’ s $ 7300/month ! ’ ’ ) .
+They also may have viewed the larger dollar/time quantification as an unfair or biased attempt to persuade them .
+Any one of these factors would result in no movement toward the anchor or contrast effects ( Marti & Wissler , 2000 ) .
+To determine whether participants viewed the $ 7300/ month per diem argument as a larger , more extreme request than the other per diem arguments in our study , we conducted a short follow-up survey in which we presented 30 jury-eligible college students a sheet of paper with one question on each side .
+On the front , we listed the three per diem arguments ( $ 10/hour , $ 240/day , or $ 7300/month ) and asked participants to circle the per diem argument that they thought would result in the largest damage award for a 2-year period .
+Once they answered the first question , we asked participants to turn the paper over and indicate whether they focused more on the dollar amount or time unit when answering the first question .
+Twenty-two participants ( 73 % ) circled the $ 7300/month per diem argument , eight ( 27 % ) circled the $ 240/day per diem argument , and none chose the $ 10/hour per diem argument in response to the first question .
+For the second question , 21 participants ( 70 % ) reported that they focused more on the dollar amount compared to nine participants ( 30 % ) who reported focusing more on the time unit .
+These data offer some additional insight into jurors ’ reactions to per diem arguments .
+When asked to determine noneconomic damages and presented per diem arguments containing different dollar/time quantifications of the same amount , mock jurors appear to ( 1 ) focus more on the dollar amounts contained in those arguments rather than the time units , and ( 2 ) perceive larger dollar amounts as yielding larger awards even though they are accompanied by cor- respondingly larger time units .
+Why does this occur ?
+Perhaps the overlap between what the compensation task requires and what the attorney ’ s per diem argument pro- vides causes people to focus almost exclusively on the specific dollar amount included in the attorney ’ s per diem argument .
+This explanation is also consistent with previous research indicating that anchors exert the strongest influ- ence on people ’ s decisions when the anchor and response item are presented on compatible scales ( Markovsky , 1988 ; Chapman & Johnson , 1994 ) .
+Finally , it is important to note that our Per Diem Argument-versus-Lump Sum and Per Diem Argument- versus-Control contrasts revealed that the combined effects of per diem arguments on damage award size were no different from those of the lump sum or control conditions .
+What appears to matter is not the use of a per diem argu- ment per se , but instead the size of the dollar/time quantification contained therein .
+Law Hum Behav ( 2010 ) 34:164–174 171 123 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+Award Variability Similar to previous research ( Malouff & Schutte , 1989 ; Marti & Wissler , 2000 ) , participants ’ damage awards became increasingly variable when presented a moderately high anchor compared to no damage award recommenda- tion .
+However , this only occurred for the $ 10/hour per diem argument condition .
+These findings bear a strong resemblance to the award size data and can be best understood in a similar fashion .
+By knowing in advance that participants in our pilot study awarded on average $ 62,000 for the plaintiff ’ s injuries , we were able to select a damage award recommendation that was moderately higher than what control participants would award .
+Thus , receiving the moderate anchor increased the variability of jurors ’ awards compared to when they received no damage award recommendation and tended to award around $ 62,000 .
+This explanation accounts for the increased variability in the $ 10/hour per diem argument condition , but what about the lack of effects for the other conditions that contained different quantifications of the same damage award rec- ommendation ?
+The fact that the variability in participants ’ damage awards for the $ 7300/month per diem argument was significantly smaller than for the $ 10/hour per diem argument and no different from the control condition sug- gests once again that participants perceived this amount to be extremely ( as opposed to moderately ) discrepant from what was appropriate based on the plaintiff ’ s pain and suffering or their initial award judgments .
+These conditions have been shown to produce contrast effects or a lack of assimilation effects consistent with our findings ( Marti & Wissler , 2000 ) .
+With respect to the $ 175,000 lump sum amount , the two previous experiments that examined award variability used multiple requests that varied in size ( as opposed to different quantifications of the same amount ) and those awards were much larger in size relative to pilot study control awards than our recommendation was .
+Anchors that are more extreme , by definition , are less restrictive and provide more opportunity for variability than moderate anchors .
+Perhaps if we had included a larger lump sum ( and larger per diem arguments , for that matter ) , we would have observed more differences in award variability .
+That said , however , anchor size alone can not explain why we observed increased award variability in some conditions ( $ 10/hour ) and not others ( $ 175,000 ) .
+After all , the damage award recommendations in these conditions were functionally equivalent when calculated for the plaintiff ’ s recovery period .
+It may be the case that per diem arguments lead to more variable awards than lump sums because they provide more opportunity for adjustment : there is simply more to tinker with .
+Lump sum requests can be adjusted in terms of dollar amount only whereas per diem arguments can be adjusted in terms of dollar amount or time units .
+Attitudinal Measures Results did not reveal statistically significant differences on any of the attitudinal measures as a function of the Damage Award Recommendation variable .
+Several characteristics of the present study increase our confidence that the null effects associated with the Damage Award Recommenda- tion variable were not statistical artifacts .
+First , participants ’ responses to the manipulation check question indicated that they attended to the experimental manipu- lation when reading the trial stimulus .
+Second , post hoc power analyses confirmed that our study had sufficient power to detect differences should they have existed .
+Power was equal to .85 to detect a medium-sized effect given the number of participants in our sample and a = .05 ( Faul , Erdfelder , Lang , & Buchner , 2007 ) .
+Third , as further evidence supporting the statistical power of the tests , dif- ferences relatively small in size ( partial g2 = .09 ; Cohen , 1988 ) reached traditional levels of statistical significance in several of the analyses used to examine our data .
+Finally , there was no evidence that the null effects were the result of a restricted response range .
+Participants ’ responses varied greatly within and among the various dependent measures , and there was no evidence of a floor or ceiling effect .
+For these reasons , we are confident that the null effects associated with the damage award request variable reflect a true lack of differences in participants ’ responses rather than a statistical artifact .
+The fact that different quantifications of the same damage award request did not affect participants ’ percep- tions of the parties or their attorneys is reassuring because these requests are designed primarily to simplify jurors ’ task of compensating the plaintiff .
+If the Damage Award Recommendation variable had influenced participants ’ attitudes toward the parties or their attorneys , this would have supported legal arguments and court rulings that these types of arguments are prejudicial ; however , that was not the case .
+We were surprised by the lack of differences in partic- ipants ’ perceived difficulty of the damage determination task and do not have a sound explanation for this finding .
+Perhaps a self-presentation bias influenced participants such that they reported finding the compensation task easier than it really was or that they were not influenced by the plaintiff attorney ’ s closing argument in order to be perceived more favorably by the experimenter ( Baumei- ster , 1982 ) .
+Other research by Nisbett and Wilson ( 1977 ) has shown that participants have limited awareness of their cognitive processes and that their reports concerning these are often incorrect .
+172 Law Hum Behav ( 2010 ) 34:164–174 123 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+The correlational analyses revealed that damage awards increased as participants evaluated the plaintiff , her attorney , and the degree of pain and suffering more positively .
+This finding makes sense , given that percep- tions of the plaintiff ( and especially the plaintiff ’ s pain and suffering ) are the yardstick by which jurors are asked to measure noneconomic damages .
+Participants ’ overall impressions of the defendant were unrelated to the size of their damage awards—only a small but statistically sig- nificant negative relationship between damage awards and perceptions of the defense attorney ’ s closing argument was detected .
+This outcome is legally appropriate because noneconomic damages should be based on the plaintiff ’ s perceived pain and suffering and not perceptions of the defendant .
+Limitations and Implications for Legal Professionals Before discussing the implications of our research , we must acknowledge certain methodological features that may limit the generalizability of our findings .
+The written trial summary we developed , although based on an actual case , constituted a relatively impoverished stimulus compared to the courtroom experience of jurors in a real case .
+Partici- pants rendered judgments independently of one another without any tangible consequences for the plaintiff or defendant .
+Previous research has shown , however , that the verisimilitude of jury simulation research does not sub- stantially affect its results ( Bornstein , 1999 ; Kramer & Kerr , 1989 ) and that jurors ’ pre- and post-deliberation verdicts typically do not differ ( Hastie , Penrod , & Pen- nington , 1983 ) .
+It is also important to keep in mind that we informed mock jurors in our study that defendant liability had already been established and asked them to determine the plaintiff ’ s noneconomic damages only for a fixed period of time ( past pain and suffering ) .
+This was done in order to simplify the task and avoid dealing with ambiguous pro- jections about the probable duration of future pain and suffering .
+Consequently , our data do not address the pos- sibility that per diem arguments could influence jurors ’ liability decisions , economic damage awards , or future pain and suffering awards .
+It is possible that per diem arguments would exert a stronger influence in cases involving both past and future pain and suffering for extended periods of time .
+With respect to the use of per diem arguments by attorneys in actual cases , we do not know how often per diem arguments contain specific dollar amounts or whether they are presented to jurors in lieu of or in addition to a lump sum amount .
+Our experiment pitted different per diem arguments against an equivalent lump sum amount .
+As such , we do not know whether the reduced damage awards we observed for the larger dollar/time quantifica- tion would emerge when the per diem argument is accompanied by a lump sum amount .
+Finally , we openly acknowledge that we did not expect mock jurors ’ damage awards to vary across the three dif- ferent per diem argument conditions .
+Consequently , all of the explanations we have discussed , although consistent with previous theory and research , were generated post hoc .
+Future studies will benefit by including dependent measures that specifically tap participants ’ perceptions of whether the attorney ’ s award recommendation is excessive , discrepant from participants ’ initial award judgments , or an overly biased attempt to influence their judgments .
+Although it is too early to draw definitive conclusions , we would like to close by considering some potential implications of our results for the legal community .
+First , attorneys using per diem arguments would be well advised to choose dollar/time quantifications that are smaller in size and thus appear more modest to jurors who may be eval- uating the per diem argument using a more superficial type of processing rather than performing the calculation sug- gested by the attorney in the per diem argument .
+Attorneys who would rather avoid the Goldilocks-like guesswork inherent in determining whether a dollar/time quantifica- tion is ‘ ‘ too large , too small , or just right ’ ’ may wish simply to avoid the use of per diem arguments altogether and stick with a lump sum amount .
+Recall that when differences between per diem arguments and lump sums emerged , they were in the negative direction with per diem arguments reducing ( not increasing ) participants ’ damage awards for the plaintiff .
+With respect to judges , some jurisdictions do not allow per diem arguments based on the assumption that these arguments artificially and excessively inflate jurors ’ dam- age awards .
+Our findings regarding different dollar/time quantifications of the same amount indicate that this is not the case .
+In fact , when larger dollar/time quantifications are used , per diem arguments may result in smaller damage awards for plaintiffs compared to lump sums or smaller dollar/time quantifications .
+Per diem arguments also do not lead to a perception of a more effective closing argument .
+Our data do , however , indicate that some per diem argu- ments may increase the variability in jurors ’ damage awards compared to a lump sum amount or no recom- mendation .
+This of course is less desirable because it suggests that per diem arguments may lead to different awards for the same injury .
+Public perceptions of injustice are bound to increase if like cases are not treated alike by our legal system .
+Future research using different dollar amounts and time units in different types of cases will help us better understand how the variability , as well as size , of jurors ’ pain and suffering awards is influenced by attor- neys ’ use of per diem arguments .
+Law Hum Behav ( 2010 ) 34:164–174 173 123 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+Acknowledgments We would like to thank Karla Gonzalez , Alicia Samis , Jose Vargas , and Yoshino Zenta for their dedicated assistance with data collection and entry .
+REFERENCES Abbinante v. O ’ Connell , 277 Ill.App.3d 1046 , 662 N.E.2d 126 ( 1996 ) .
+Baumeister , R. F. ( 1982 ) .
+A self-presentational view of social phenomena .
+Psychological Bulletin , 91 , 3–26 .
+doi:10.1037/0033- 2909.91.1.3 .
+Beagle v. Vasold , 65 Cal.2d 166 , 417 P.2d 673 ( 1966 ) .
+Bornstein , B. H. ( 1999 ) .
+The ecological validity of jury simulations : Is the jury still out ?
+Law and Human Behavior , 23 , 75–91 .
+doi : 10.1023/A:1022326807441 .
+Cafferty v. Monson , 360 N.W.2d 414 ( Minn.App .
+1985 ) .
+Carchidi v. Rodenhiser , 209 Conn. 526 , 551 A.2d 1249 ( 1989 ) .
+Chapman , G. B. , & Bornstein , B. H. ( 1996 ) .
+The more you ask for , the more you get : Anchoring in personal injury verdicts .
+Applied Cognitive Psychology , 10 , 519–540 .
+doi:10.1002/ ( SICI ) 1099- 0720 ( 199612 ) 10:6\519 : :AID-ACP417 [ 3.0.CO ; 2-5 .
+Chapman , G. B. , & Johnson , E. J .
+( 1994 ) .
+The limits of anchoring .
+Journal of Behavioral Decision Making , 7 , 223–242 .
+doi : 10.1002/bdm.3960070402 .
+Cohen , J .
+( 1988 ) .
+Statistical power analysis for the behavioral sciences ( 2nd ed . ) .
+Hillsdale , NJ : Lawrence Erlbaum .
+Faul , F. , Erdfelder , E. , Lang , A.-G. , & Buchner , A .
+( 2007 ) .
+G*Power 3 : A flexible statistical power analysis program for the social , behavioral , and biomedical sciences .
+Behavior Research Meth- ods , 39 , 175–191 .
+Greene , E. , & Bornstein , B. H. ( 2000 ) .
+Previous little guidance : Jury instruction on damage awards .
+Psychology , Public Policy , and Law , 6 , 743–768 .
+doi:10.1037/1076-8971.6.3.743 .
+Hastie , R. , Penrod , S. D. , & Pennington , N. ( 1983 ) .
+Inside the jury .
+Cambridge , MA : Harvard University Press .
+Hinsz , V. B. , & Indahl , K. E. ( 1995 ) .
+Assimilation to anchors for damage awards in a mock civil trial .
+Journal of Applied Social Psychology , 25 , 991–1026 .
+doi:10.1111/j.1559-1816.1995.tb02 386.x .
+Johnson v. Colglazier , 348 F.2d 420 ( 5th Cir .
+1965 ) .
+King , J. H. ( 2003 ) .
+Counting angels and weighing anchors : Per diem arguments for noneconomic personal injury tort damages .
+Tennessee Law Review , 71 , 1–50 .
+Kramer , G. P. , & Kerr , N. L. ( 1989 ) .
+Laboratory simulation and bias in the study of juror behavior : A methodological note .
+Law and Human Behavior , 13 , 89–99 .
+doi:10.1007/BF01056165 .
+Laughery , K. R. , Paige , D. , Bean , R. N. , & Wogalter , M. S. ( 2001 ) .
+Pain and suffering awards for consumer product accidents : Effects of suggesting day-rate information .
+In Proceedings of the human factors and ergonomics society 45th Annual Meeting ( pp .
+843–847 ) .
+Levene , H. ( 1960 ) .
+Robust tests for equality of variances .
+In I. Olkin ( Ed .
+) , Contributions to probability and statistics ( pp .
+278–292 ) .
+Stanford , CA : Stanford University Press .
+Malouff , J. , & Schutte , N. S. ( 1989 ) .
+Shaping juror attitudes : Effects of requesting different damage amounts in personal injury trials .
+Journal of Social Psychology , 129 , 491–497 .
+Markovsky , B .
+( 1988 ) .
+Anchoring justice .
+Social Psychology Quar- terly , 51 , 213–224 .
+doi:10.2307/2786920 .
+Marti , M. W. , & Wissler , R. L. ( 2000 ) .
+Be careful what you ask for : The effect of anchors on personal injury damages awards .
+Journal of Experimental Psychology : Applied , 6 , 91–103 .
+doi : 10.1037/1076-898X.6.2.91 .
+Nisbett , R. E. , & Wilson , T. D. ( 1977 ) .
+Telling more than we can know : Verbal reports on mental processes .
+Psychological Review , 84 , 231–259 .
+doi:10.1037/0033-295X.84.3.231 .
+Parker v. Artery , 889 P.2d 520 ( 1995 , Wyo ) .
+Pearson , J. O .
+( 2002 ) .
+Per diem or similar mathematical basis for fixing damages for pain and suffering .
+American Law Reports : Cases and Annotations , 3 , 940–986 .
+Ramstad v. Lear Siegler Diversified Holdings Corp. , 836 F. Supp .
+1511 ( 1993 , DC Minn ) .
+Saks , M. J. , Hollinger , L. A. , Wissler , R. L. , Evans , D. L. , & Hart , A. J .
+( 1997 ) .
+Reducing variability in civil jury awards .
+Law and Human Behavior , 21 , 243–256 .
+doi:10.1023/A:1024834614312 .
+Streeter v. Sears Roebuck & Co. , 533 So.2d 54 ( La.App .
+1988 ) cert .
+denied , 536 So.2d 1255 ( La .
+1989 ) .
+Tabachnick , B. G. , & Fidell , L. S. ( 2007 ) .
+Using multivariate statistics ( 5th ed . ) .
+Boston , MA : Pearson .
+Tversky , A. , & Kahneman , D. ( 1974 ) .
+Judgments under uncertainty : Heuristics and biases .
+Science , 185 , 1124–1131 .
+doi:10.1126/ science.185.4157.1124 .
+Wissler , R. L. , Kuehn , P. , & Saks , M. J .
+( 2000 ) .
+Instructing jurors on general damages in personal injury cases : Problems and possibilities .
+Psychology , Public Policy , and Law , 6 , 712–742 .
+doi:10.1037/1076-8971.6.3.712 .
+174 Law Hum Behav ( 2010 ) 34:164–174 123 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .

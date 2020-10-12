@@ -1,0 +1,773 @@
+Mishra_JournMarket_2016_48bB.pdf
+afU3J1c.Qzj_cQJKHdYTMG7JhiWC-Mishra_JournMarket_2016_48bB.pdf.plain.html
+
+Saurabh Mishra & Sachin B. Modi Corporate Social Responsibility and Shareholder Wealth : The Role of Marketing Capability Despite the positive societal implications of corporate social responsibility ( CSR ) , there remains an extensive debate regarding its consequences for firm shareholders .
+This study posits that marketing capability plays a complementary role in the CSR–shareholder wealth relationship .
+It further argues that the influence of marketing capability will be higher for CSR types with verifiable benefits to firm stakeholders ( i.e. , consumers , employees , channel partners , and regulators ) .
+An analysis utilizing secondary information for a large sample of 1,725 firms for the years 2000–2009 indicates that the effects of overall CSRefforts on stock returns and idiosyncratic risk are not significant on their ownbut only becomeso in the presence ofmarketing capability .
+Furthermore , the results reveal that althoughmarketing capability has positive interactioneffectswith verifiable CSR efforts—environment ( e.g. , using clean energy ) , products ( e.g. , providing to economically disadvantaged ) , diversity ( e.g. , pursuing diversity in top management ) , corporate governance ( e.g. , limiting board compensation ) , and employees ( e.g. , supporting unions ) —on stock returns ( and negative interaction effects with these CSR efforts on idiosyncratic risk ) , it has no significant interaction effect with community-based efforts ( e.g. , charitable giving ) .
+Keywords : corporate social responsibility , marketing capability , stock returns , idiosyncratic risk Online Supplement : http : //dx.doi.org/10.1509/jm.15.0013 Corporate social responsibility ( CSR ) represents firms ’ discretionary business practices that are intended toimprove societal well-being ( Korschun , Bhattacharya , and Swain 2014 ) .
+Responding to consumers ’ and other stakeholders ’ ( e.g. , employees , channel partners , regulators ) increasing expectations that organizations should behave in socially responsible ways , many firms have embraced CSR as a key component of their overall strategy ( Kotler and Lee 2005 ) .
+A large number of firms include CSR details in annual reports and on corporate websites , underscoring CSR ’ s importance ( Servaes and Tamayo 2013 ) .
+Although interest in CSR seems to be strong , an extensive body of research on the financial implications of CSR has produced mixed evidence ( e.g. , Luo and Bhattacharya 2009 ) , with a recent meta-analysis revealing an overall positive , but small , financial effect ( Margolis , Elfenbein , andWalsh 2009 ) .
+Consistent with the equivocal findings , extant literature has offered two opposing theoretical perspectives for under- standing CSR .
+On the one hand , neoclassical economists have employed agency theory ( Jensen andMeckling 1976 ) to argue that CSR represents an agency problem , in which managers divert scarce organizational resources toward social causes that do not have a direct link with firm performance and reduce shareholder wealth ( Friedman 1970 ) .
+On the other hand , marketing scholars have called on stakeholder theory ( Freeman 1984 ) to highlight that CSR generates positive associations among stakeholders ( e.g. , Sen , Bhattacharya , and Korschun 2006 ) , which can enhance prospective firm cash flows ( e.g. , Luo and Bhattacharya 2006 ) .
+Taking this view , investors are expected to react positively to CSR if they anticipate that the positive stakeholder associations resulting from CSR cause ( 1 ) firms to benefit from more customers buying their offerings , ( 2 ) existing customers to buy more from these firms , and/or ( 3 ) customers to pay premium prices for these firms ’ products and services in future years .
+Similarly , investors are likely to reward firms for CSR if they believe that employees and channel partners will be more willing and motivated to work toward helping firms meet their strategic objectives , and regulators will be more likely to hold a favorable view of the firms ( Shankar 2012 ) .
+The strong interest in CSR , combined with the uncertain outlook toward its shareholder implications , represents an interesting paradox , and continuing investigations into this puzzle provide important guidance to theory and practice .
+We contend that the conflicting findings on CSR may be attributed to three characteristics of prior research .
+First , much attention has been devoted to supporting an unambiguous direct link between CSR and financial value ( McWilliams and Siegel 2000 ) .
+It may be that a more nuanced perspective is required that builds on the role of complementary factors in the CSR–shareholder wealth Saurabh Mishra is Associate Professor , Desautels Faculty of Management , McGill University ( e-mail : saurabh.mishra @ mcgill.ca ) .
+Sachin B. Modi is Associate Professor , College of Business , Iowa State University ( e-mail : smodi @ iastate.edu ) .
+The authors acknowledge the financial assistance provided by the Social Sciences and Research Council of Canada for conducting this research .
+The authors also appreciate the constructive comments from the JM review team on previous versions of this manuscript .
+Both authors contributed equally to the article and are listed alphabetically .
+Venkatesh Shankar served as area editor for this article .
+© 2016 , American Marketing Association Journal of Marketing ISSN : 0022-2429 ( print ) Vol .
+80 ( January 2016 ) , 26–46 1547-7185 ( electronic ) DOI : 10.1509/jm.15.001326 relationship ( Luo and Bhattacharya 2009 ) .
+Second , CSR is a multifaceted construct , with certain CSR types—such as environment- , product- , diversity- , corporate governance– , and employee-based socially responsible efforts—having a more verifiable effect on key stakeholders than community- based philanthropic efforts .
+However , research has not placed much attention on distinguishing CSR types ( Jayachandran , Kalaignanam , and Eilert 2013 ) .
+Third , themetrics used to assess CSR ’ s financial value have been observed to influence findings ( Margolis , Elfenbein , andWalsh 2009 ) .
+Yet no study has taken a comprehensive view of shareholder wealth .
+Given these considerations , in this research we build on stakeholder theory ( Freeman 1984 ) , the resource-based view ( RBV ) of the firm ( e.g. , Barney 1991 ) , dynamic capabilities theory ( e.g. , Teece , Pisano , and Shuen 1997 ) , and agency theory ( Jensen and Meckling 1976 ) to focus on three central inquiries .
+First , we investigate the complementary role of marketing capability—defined as the efficiency with which firms convert marketing resources into sales ( Narasimhan , Dutta , and Rajiv 2006 ) —in leveraging CSR for shareholder wealth .
+The dynamic capabilities perspective states that firms need complementary capabilities to appropriate value from TABLE 1 Representative Research on CSR , Financial Performance , and Marketing Factors Using Objective Data Research Article Central Research Issue Independent and Dependent Variables Results Luo and Bhattacharya ( 2006 ) The mediating role of customer satisfaction in the relationship of CSR and firm financial value DVs : Tobin ’ s q and stock returns ( measures of firm value ) Customer satisfaction as a marketing resource partially mediates the relationship between CSR and firm value , and innovativeness and product quality positively moderate this relationship .
+IVs : CSR , customer satisfaction , innovativeness and product quality Luo and Bhattacharya ( 2009 ) The relationship between firms ’ corporate social performance ( CSP ) and idiosyncratic risk and the role of advertising and R & D as strategic levers DV : Idiosyncratic risk Corporate social performance lowers firms ’ idiosyncratic risk , with even greater reduction in risk in the presence of higher advertising resources .
+However , simultaneous increases in both advertising and R & D resources in the presence of CSP lead to higher idiosyncratic risk .
+IVs : CSP , advertising spending , R & D intensity Hull and Rothenberg ( 2008 ) The relationship between CSP and financial performance , and whether this relationship is moderated by innovation and the level of differentiation in the industry DV : Return on assets Corporate social responsibility has a marginal direct effect on financial performance .
+The impact is higher in relatively undifferentiated industries .
+In addition , CSP benefits firms with low innovation .
+IVs : CSR , average advertising spending in industry ( as measure of industry differentiation ) , R & D spending ( as measure of innovation ) Servaes and Tamayo ( 2013 ) The moderating role of customer awareness in the financial value of CSR DV : Tobin ’ s q ( firm value ) Corporate social responsibility does not influence firm value on its own but does so only in the presence of high customer awareness ( i.e. , advertising resources ) .
+IVs : CSR and advertising intensity ( as a measure of customer awareness ) This study The moderating role of marketing capability in the CSR–shareholder wealth relationship , considering both overall CSR and CSR types DVs : Stock returns and idiosyncratic risk ( measures of shareholder wealth ) Corporate social responsibility does not directly affect firms ’ shareholder wealth but does so in the presence ofmarketing capability .
+However , marketing capability also complements only CSR types with verifiable benefits to key firm stakeholders and does not influence relatively general community-based CSR .
+IVs : CSR , six types of CSR , and marketing capability Notes : IV = independent variable ; DV = dependent variable .
+Corporate Social Responsibility and Shareholder Wealth / 27 resources ( Day 1994 ; Morgan , Slotegraaf , and Vorhies 2009 ) .
+Given marketing ’ s pivotal role in firm relationships with stakeholders ( Kumar et al .
+2011 ) , marketing capability is likely to be a key explanatory factor in governing shareholder wealth from CSR .
+This is because investors are likely to assess a firm ’ s ability to generate positive stakeholder-based associations toward the firm by examining its marketing capability .
+If the marketing capability is high , investors would expect the firm to be successful in translating the value of CSR to its stakeholders , resulting in higher magnitude of cash flows , accelerated cash flows , and/or less volatile cash flows for the firm .
+Second , we consider six CSR types : environment ( e.g. , recycling ) , products ( e.g. , ensuring quality ) , diversity ( e.g. , employing the disabled ) , corporate governance ( e.g. , enhancing transparency ) , employees ( e.g. , providing retirement benefits ) , and community ( e.g. , giving to charity ) .
+Given that these CSR types are expected to differ with respect to agency costs and verifiable stakeholder benefits , we assesswhethermarketing capability differentially complements them .
+Third , we focus on both stock returns and idiosyncratic risk in our analysis because these form two important com- ponents of shareholderwealth ( Srinivasan andHanssens 2009 ) .
+Our empirical assessment , based on secondary information for a large sample of firms over ten years , confirms the com- plementary role of marketing capability .
+Specifically , we find that although unanticipated changes in overall CSR do not have significant direct effects on stock returns and idiosyncratic risk , these effects become significant in the presence of unanticipated changes in marketing capability .
+Furthermore , when we focus on CSR types , a mixed pattern of results emerges .
+An analysis reveals that unanticipated changes in CSR types with verifiable benefits to key stakeholders—environment , products , diversity , corporate governance , and employees—enhance shareholder wealth in the presence of unanticipated changes in marketing capability ; however , unanticipated changes in community- based initiatives do not .
+Together , we provide new insights by investigating the joint effect of marketing capability and CSR on shareholder wealth .
+To the best of our knowledge , ours is the first study to consider firms ’ marketing capability , overall CSR , six CSR types , stock returns , and idiosyncratic risk in a common framework .
+Furthermore , by centering onmarketing capability , we add to the limited body of research on marketing factors in the context of CSR and financial value using objective data .
+In particular , extant research has singularly focused on marketing resources such as customer satisfaction ( Luo and Bhattacharya 2006 ) , customer awareness ( Servaes and Tamayo 2013 ) , advertising ( e.g. , Hull and Rothenberg 2008 ) , and research and development ( R & D ; Luo andBhattacharya 2009 ) , overlooking marketing capability ( see Table 1 ) .
+Because capabilities are essential for leveraging resources , it becomes important to investigate marketing capability .
+In addition , considering marketing capability ’ s role in the shareholder value of CSR types enables us to take a step toward reconciling the CSR debate between neoclassical economists and marketing scholars .
+Our results show that , in line with the economists , when we take a narrow view of CSR as community-based charity , CSR does not benefit shareholders .
+However , in tune with marketing scholars , CSR types with verifiable benefits to stakeholders enhance shareholder wealth in the presence of marketing capability .
+Our study thus uncovers the net effect of competing the- ories to deliver a unique perspective on CSR , which would not be available with a singular focus on overall CSR .
+Finally , by showcasing the value of marketing capability in a hitherto uninvestigated context of CSR , we add to the marketing–finance interface literature , providing addi- tional evidence to marketers to increase their legitimacy in the C-suite and maintain marketing ’ s status in their firms .
+Our study is also aimed to motivate marketers to focus on CSR , which they often leave to other functions ( Peloza and Shang 2011 ) .
+Conceptual Development Corporate social responsibility has been a subject of exten- sive investigation , and extant research has provided many definitions of the term ( Peloza and Shang 2011 ) .
+We adopt the definition of CSR taken by the majority of marketing scholars , which states that CSR comprises discretionary firm activities aimed toward enhancing societal well-being ( Korschun , Bhattacharya , and Swain 2014 ; Kotler and Lee 2005 ) .
+This conceptualization draws from some of the original work on CSR , which frames it as an organizational commitment to maximizing stakeholder welfare ( Carroll 1979 ) .
+Operationally , scholars have interpreted CSR as pro- social efforts across multiple domains such as environment , products , diversity , corporate governance , employees , and communities ( Kashmiri and Mahajan 2014 ) .1 Consistent with the many definitions of CSR , multiple theories have been utilized to understand its relationship with firm performance .
+Neoclassical economists have viewed CSR from an agency theory lens ( Jensen and Meckling 1976 ) .
+Agency theory contends that managers as agents enjoy certain informational advantages over their princi- pals ( i.e. , shareholders ) , which they can use for their own personal gains .
+This leads to goal conflict between managers and shareholders that must be minimized through effective contracts and monitoring ( Bergen , Dutta , and Walker 1992 ) .
+Contract design and monitoring are costly for shareholders , and their effectiveness is not guaranteed .
+This places downward pressure on the level and certainty of future cash flows—two determinants of shareholder wealth ( Srinivasan andHanssens 2009 ) .
+Given the largely discretionary nature of CSR , neoclassical economists have argued that the potential costs of agency hazards from CSR are likely to be high and lead to lower shareholder wealth ( Friedman 1970 ) .
+1Corporate social responsibility can include more types than those outlined here .
+However , because of data availability constraints , we are restricted to these six types in this study .
+For example , Kinder , Lydenberg , and Domini Research and Analytics Inc. ( KLD ) also provides ratings for Human Rights records of firms with operations in politically unstable countries ( e.g. , Myanmar ) .
+Similarly , ratings for firm efforts toward protecting labor rights ( e.g. , nonuse of child labor ) are available .
+Investors and customers would likely be influenced by these CSR activities as well .
+However , these activities are not relevant for most firms in our sample and have very sparse data .
+As such , we do not consider them .
+28 / Journal of Marketing , January 2016 Contrary to this view , the majority of marketing scholars have followed stakeholder theory ( Freeman 1984 ) and the RBV ( e.g. , Barney 1991 ) to study CSR .
+According to these theories , CSR is financially valuable for shareholders because of its positive effect on consumers and other key stakeholders ( Luo and Bhattacharya 2006 ) .
+Stakeholder theory under- scores the notion that firms should balance the needs and aspirations of all stakeholders , not just shareholders , to create competitive advantage .
+The key tenet here is that by catering to different stakeholders , firms improve their overall per- formance , which translates into higher shareholder wealth .
+Because CSR provides organizations with the means to address stakeholder expectations of social responsibility ( Sen , Bhattacharya , and Korschun 2006 ) , research has shown that it generates favorable corporate images and associations among stakeholders ( Bhattacharya and Sen 2003 ) .
+The positioning advantages thus created allow for valuable resources that are inimitable , nonsubstitutable , and hetero- geneously distributed across firms ( Sen , Bhattacharya , and Korschun 2006 ) .
+The RBV indicates that resources with these properties are a source of competitive advantage ( e.g. , Hall 1992 ) and lead to higher stock returns and lower stock risk ( Srivastava , Shervani , and Fahey 1998 ) .
+This suggests a positive effect of CSR on shareholder wealth .
+Combining the two opposing viewpoints , we can infer that CSR ’ s relationship with shareholder wealth depends on the net effect of the agency costs incurred in monitoring managers ’ social activities and the value of the stakeholder- based resources generated from CSR .
+Moreover , it is likely that the agency costs would vary across CSR types , which in turn would affect stakeholders differently ( Campbell 2007 ) .
+We posit that comparing CSR types that have ver- ifiable benefits to key firm stakeholders ( i.e. , environment- , product- , diversity- , corporate governance– , and employee- based efforts ) with community-based efforts , whose tangible effect on stakeholders may be difficult to ascertain ( Wang , Choi , and Li 2008 ) , can be one framework through which to study CSR ’ s shareholder implications .
+Indeed , we can expect CSR activities that are more verifiably directed toward firm stakeholders to influence these stakeholders to a greater degree and to have lower agency costs ( Barnett 2007 ; Hillman and Keim 2001 ) .
+Next , we argue the effects of CSR and its types on shareholder wealth .
+CSR and Shareholder Wealth As discussed previously , agency theory suggests that CSR involves high costs for shareholders .
+Viewed through this lens , managers are perceived as inefficient and incapable of en- abling social change ( Friedman 1970 ) , and CSR is argued to be a diversion of scarce firm resources by managers as agents toward unproductive activities .
+Furthermore , because CSR ’ s outcomes can be potentially difficult for shareholders to verify and evaluate , CSR has been suggested to be prone tomisuse by managers because of heightened information asymmetries between them and their principals ( i.e. , shareholders ; Barnett 2007 ) .
+This affords managers opportunities to engage in philanthropic and charitable activities that may elevate their own personal status in communities rather than add to the firm ’ s financial bottom line ( Aupperle , Carroll , and Hatfield 1985 ; McWilliams and Siegel 1997 ) .
+In addition , investments in CSR may also indicate that managers have slack resources at their disposal but are not able to find an economically productive use for them .
+This can also lower investor assessments of firms ( Wang , Choi , and Li 2008 ) .
+Together , the agency arguments indicate a negative effect of CSR on prospective cash flows and firm variability , implying lower shareholder wealth .
+However , viewed through stakeholder theory and RBV lenses , CSR is perceived to financially benefit shareholders through its positive impact onfirm stakeholders ( i.e. , consumers , employees , channel partners , and regulators ) .
+In line with this notion , studies have shown that consumers identify more readily with firms with a good record of social responsibility ( Bhattacharya and Sen 2003 ; Brown and Dacin 1997 ) .
+Evidence has also indicated that consumers positively evaluate offerings of firms that are engaged in CSR ( Berens , Van Riel , and Van Bruggen 2005 ; Gurhan-Canli and Batra 2004 ) and derive greater satisfaction from them ( Luo and Bhattacharya 2006 ) .
+Similarly , research has shown that an employer ’ s rep- utation of social fairness improves frontline employee behavior ( Korschun , Bhattacharya , and Swain 2014 ) , which has positive consequences for customer service ( e.g. , Bitner 1990 ) and positions the firm for faster recovery from neg- ative events ( Modi , Wiles , and Mishra 2015 ) .
+In addition , CSR also potentially increases trust among channel members ( Carter 2000 ) , enabling firms to work together with their partners toward long-term performance ( Ganesan 1994 ) .
+Indeed , trust serves as an effective governance mechanism that can lower opportunistic behaviors in the value chain and reduce firms ’ performance variability ( Carter 2000 ) .
+Finally , it is expected that “ moral capital ” generated by CSR invites lower regulatory penalties following egregious actions by firms and can ensure future cash flows for firms ( Wiles et al .
+2010 ) .
+Together , these arguments indicate that CSR can elevate prospective cash flows level and reduce cash flow volatility , implying higher shareholder wealth .
+In summary , theory has suggested both positive and negative effects of CSR on shareholder wealth .
+Furthermore , because extant empirical research has also indicated weak financial value ofCSR ( Margolis , Elfenbein , andWalsh 2009 ) , we approach this relationship as an empirical question .
+CSR Types and Shareholder Wealth Given the agency costs associated with CSR , the stake- holder benefits afforded by different CSR types provide a key to their potential effects on shareholder wealth .
+We focus on six CSR types in this research : environment ( strengths in pollution prevention , recycling , clean energy practices , etc .
+) , products ( strengths in quality , R & D inno- vation , provision of products to the economically dis- advantaged , etc .
+) , diversity ( strengths in top management diversity , work/life benefits , provision of contracts to women- and minority-owned businesses , employment of the disabled , gay and lesbian–inclusive policies , etc .
+) , corporate gover- nance ( strengths in compensation to top management and Corporate Social Responsibility and Shareholder Wealth / 29 board members , transparent reporting , disclosure of political involvement , policy development , etc .
+) , employees ( strengths in union relationships , profit sharing , employee involvement , retirement benefits , health and safety records , etc .
+) , and com- munity ( strengths in charitable giving , support for housing and education , volunteer programs , etc . ) .
+In particular , environment-based CSR has the capacity to positively affect consumers , channel partners , and regulators .
+There is increasing evidence that these three stakeholder groups are placing pressure on firms to reduce their envi- ronmental footprints through pollution prevention , recycling , and adoption of clean energy ( Kotler 2011 ) .
+In support of this notion , research has shown “ green ” attributes to elicit positive consumer brand attitudes ( Olsen , Slotegraaf , and Chandukala 2014 ) .
+Similarly , environment-based efforts have been suggested to lead to positive associations for firms among channel partners ( e.g. , Schoenherr et al .
+2015 ) .
+Moreover , regulators set many well-defined standards for measuring environmental performance , which are then available to stakeholders to verify the legitimacy of firms ’ pro-environmental claims ( Berrone and Gomez-Mejia 2009 ) .
+Environment-based CSR is thus likely to improve firm positioning with consumers , channel partners , and regulators and to lead to shareholder gains .
+Similar to environment-based CSR , firms can cater to consumers by focusing on high-quality innovative products with “ social ” benefits .
+It has been suggested that consumers account for societal needs , in addition to their own , when determining their relationship with firms ( Handelman and Arnold 1999 ) .
+By catering to the economically disadvantaged , “ social ” products offer firms better positioningwith consumers ( Du , Bhattacharya , and Sen 2007 ) .
+Furthermore , diagnosticity of products-based CSR is expected to be high , which can increase consumer confidence in product-based claims , ele- vating firm value ( Jayachandran , Kalaignanam , and Eilert 2013 ) .
+Firms may also indicate social responsibility by in- creasing diversity in their ranks and by improving corporate governance .
+Greater diversity in top management , board members , and employees , along with better corporate gov- ernance reflected in limited compensation to the C-suite and transparency in corporate affairs , are hot-button issues that invite high levels of employee and regulatory scrutiny ( Johnson , Porter , and Shackell-Dowell 1997 ; Perry and Zenner 2001 ) .
+Moreover , diversity and corporate governance efforts are verifiable because many firms report these on their corporate websites and in annual reports .
+Therefore , we also expect these two CSR types to increase firm shareholder value ( Godfrey 2005 ) .
+In addition , employee-based CSR , reflected in firm support to unions and recognition of employee needs , seems to be financially valuable when viewed through the lens of stakeholder theory ( Hillman and Keim 2001 ) .
+For example , by signaling to employees that a firm intends to look after their welfare through better wages and retirement benefits , CSR can help attract talented workers and keep existing workers satisfied ( e.g. , Turban and Greening 1997 ) .
+Talented and satisfied employees allow for better productivity and help deliver superior customer service ( Korschun , Bhattacharya , and Swain 2014 ) , elevating firm financial value ( Edmans 2011 ) .
+Finally , firms can exhibit social responsibility through community-based philanthropy , charitable giving , and sup- port to volunteer programs .
+These initiatives can create a favorable image in the broader community to allow for better firm performance ( File and Prince 1998 ) .
+Firms can also benefit from tax breaks that often accompany community- based initiatives to elevate future cash flows ( Wang , Choi , and Li 2008 ) .
+Furthermore , some investors have been ob- served to invest in firms that have strong philanthropic records ( Barnett and Salomon 2006 ) .
+These observations suggest that shareholders can benefit from community-based CSR as well .
+In summary , all CSR types are expected to create favorable associations among firm stakeholders ( Sen , Bhattacharya , and Korschun 2006 ) , which can enable val- uable stakeholder-based resources to have a positive effect on shareholder wealth ( Luo and Bhattacharya 2006 , 2009 ) .
+However , the overall financial effects of different CSR types are also contingent on the level of agency costs associated with them .
+Although we expect all CSR types to entail some agency-related costs , it is likely that community-based CSR may be relatively more prone to agency hazards for two reasons .
+First , although other CSR types seem to be directed toward specific stakeholder groups , community-based CSR in general is less focused .
+Second , we also expect diag- nosticity of stakeholder benefits from community-based efforts to be lower because the benefits from philan- thropy and charity remain relatively less verifiable ( Wang , Choi , and Li 2008 ) .
+This renders community-based CSR at a higher risk of misuse by managers .
+Indeed , philanthropy has been the focus of much criticism from neoclassical econ- omists , who tend to take a narrow view of CSR ( Friedman 1970 ) .
+We expect all CSR types to have a positive effect on shareholder wealth but expect community-based CSR to have a weak effect .
+Complementary Role of Marketing Capability In determining the role of marketing capability in the CSR–shareholder wealth relationship , the RBV again pro- vides useful insights .
+Whereas the original RBV stressed the value of resource possession , recent extensions of the theory in the form of dynamic capabilities theory highlight the role of firm capabilities in unlocking the value residing in resources ( e.g. , Morgan , Slotegraaf , and Vorhies 2009 ) .
+Building on this notion , scholars have emphasized the complementary potential of marketing capability in firm performance ( Moorman and Slotegraaf 1999 ) .
+Indeed , given the important role of marketing in an organization , many marketing activities and processes have the potential to serve as key competencies for firms ( Day 1994 ) .
+In support of the multifaceted role of marketing in firms , scholars have offered numerous conceptualizations of mar- keting capability .
+Some have focused on outlining specific aspects of marketing capability , including ( but not limited to ) communications , marketing information management , and marketing strategy implementation ( e.g. , Morgan , Slotegraaf , 30 / Journal of Marketing , January 2016 and Vorhies 2009 ) .
+Others have taken a broader view , conceptualizing marketing capability as an overarching firm ability to more efficiently convert available marketing re- sources into outputs , relative to the competition ( Bahadir , Bharadwaj , and Srivastava 2008 ; Dutta , Narasimhan , and Rajiv 1999 ; Narasimhan , Dutta , and Rajiv 2006 ; Wiles , Morgan , and Rego 2012 ; Xiong and Bharadwaj 2013 ) .
+When working with objective information available from secondary sources , researchers often take the latter broader view of marketing capability because it enables them to overcome data availability constraints in measuring the construct at a more granular level .
+In this research , we follow the broader conceptualization of marketing capability to suggest its complementary role in the CSR–shareholder wealth link .
+First , marketing capability embodies firms ’ ability to better manage communications because this translates into effective utilization of marketing resources in generating valuable outputs ( Wiles , Morgan , and Rego 2012 ) .
+Superior communication can enable firms to generate greater aware- ness about their CSR efforts among consumers and other stakeholders ( McWilliams and Siegel 2000 ) .
+Research has argued that stakeholders often remain unaware of CSR ini- tiatives , which restricts CSR ’ s potential to create stakeholder- based resources ( Servaes and Tamayo 2013 ) .
+Marketing capability would therefore likely enhance the stakeholder- based benefits of CSR to improve shareholder wealth .
+Second , marketing capability also reflects an organization ’ s ability to better manage market information because it pre- supposes the efficient conversion of key marketing resources into outputs ( Menon and Varadarajan 1992 ) .
+Indeed , the marketing function plays a critical role in enabling firms to sense and respond to markets and align organizational resources with stakeholder expectations ( Bahadir , Bharadwaj , and Srivastava 2008 ; Day 1994 ) .
+Superior market sensing can provide firms with marketing intelligence on stakeholders and competition ( Morgan , Slotegraaf , and Vorhies 2009 ) , which can help in the design of CSR activities that are in line with the needs and aspirations of consumers and other stakeholders .
+This would enhance the ability of stakeholder-based advan- tages stemming from CSR to elevate stock returns .
+Fur- thermore , high marketing capability can enable firms to more effectively respond to potential competitive countermoves to their CSR efforts and reduce the volatility of prospective cash flows , lowering their stock market risk .
+This would serve as another mechanism through which marketing capability would complement CSR in elevating stock returns and reducing idiosyncratic risk .
+Finally , marketing capability also represents better mar- keting strategy implementation by firms than competition ( Noble and Mokwa 1999 ) .
+This would translate into more effective implementation of CSR activities by firms with superior marketing capability .
+As such , we would expect marketing capability to lower the resource-related costs associated with CSR and positively inform the returns from socially responsible investments .
+This again implies a complementary role of marketing capability in the CSR– shareholder wealth relationship .
+In summary , we expect marketing capability to pos- itively inform the CSR–shareholder wealth relationship .
+Indeed , investors are likely to reward the CSR efforts of firms that possess a greater ability to influence stake- holders .
+If a firm ’ s marketing capability is high , investors would expect it to be more successful in leveraging the stakeholder-based value of CSR toward a higher magnitude of cash flows , accelerated cash flows , and/or less volatile cash flows for the firm .
+This would translate to gains in firm shareholder wealth ( Shankar 2012 ) .
+With respect to its role in specific CSR types , the effect of marketing capability should again be positive .
+However , we argued previously that community-based CSR would likely have a weak positive effect on shareholder wealth owing to higher agency costs .
+Ceteris paribus , this would indicate that marketing capability ’ s joint effect with community-based CSR on shareholder wealth would be weak as well .
+Data and Variable Operationalization Empirical examination of the relationships between CSR , marketing capability , and shareholder wealth requires us to collect data from multiple secondary sources .
+An advantage of relying on multiple sources is that it helps in avoiding issues related to commonmethod bias ( Dotzel , Shankar , and Berry 2013 ) .
+We first accessed the database provided by Kinder , Lydenberg , and Domini Research and Analytics Inc. ( KLD ) to obtain information on firm CSR activities ( e.g. , Jayachandran , Kalaignanam , and Eilert 2013 ; Servaes and Tamayo 2013 ) .
+This CSR database has been widely used in prior research , given its long history of tracking and rating firms on their social responsibility ( e.g. , Jayachandran , Kalaignanam , and Eilert 2013 ; Servaes and Tamayo 2013 ) .
+Second , we extracted information from the University of Chicago ’ s Center for Research in Security Prices ( CRSP ) and Compustat databases to develop stock returns and idiosyncratic risk metrics and calculate other variables of interest .
+Overall , our criteria led to a sample of 1,725 firms for the years 2000–2009 .
+Because information was not available for all firms across the databases for all years , we have an unbalanced panel of 8,017 observations .
+Dependent Variables Stock returns ( StkRetit ) .
+We use stock response modeling to assess unanticipated stock returns ( e.g. , Srinivasan and Hanssens 2009 ) .
+Specifically , stock response modeling builds on the following four-factor model used in the finance literature ( Carhart 1997 ) : SRim = aim + biRM RFRM RFm + biHMLHMLm + biSMBSMBm + biUMDUMDm + eim , ( 1 ) where SRim = Stock return in excess of the U.S. Treasury bill risk- free rate for firm i in month m ; RM_RFm =Value-weighted return on all stocks listed in the NewYork Stock Exchange , NYSEMKT ( formerly the American Stock Exchange ) , and NASDAQ minus the U.S. Treasury bill rate for month m , thus representing the excess market returns ; HMLm =Book-to-market-based risk premium factor ( i.e. , the return on the value-weighted portfolio of high book- Corporate Social Responsibility and Shareholder Wealth / 31 to-market stocks minus the returns on a value- weighted portfolio of low book-to-market stocks in month m ) ; SMBm =Size-based risk premium factor ( i.e. , the return on the value-weighted portfolio of small stocks minus the return on big stocks in month m ) ; UMDm =Returns momentum factor ( i.e. , the average returns on the two prior high-returns portfolios minus the average returns on the two prior low-returns port- folios in month m ) ; and eim =Residual for firm i in month m. Using monthly data , this model helps establish the expected stock returns ( ESRim ) of firm i in month m. As recom- mended by Carhart ( 1997 ) , we estimate this model for each firm for every year with information from the CRSP database .
+Following previous research ( e.g. , Bharadwaj , Tuli , and Bonfrer 2011 ; Luo and Bhattacharya 2009 ) , we use the compounded monthly unanticipated returns for the year in our stock response model .
+We calculate these as StkRetit = log∏12m=1 ( 1 + rim ) , where rim represents the monthly unanticipated returns ( SR - ESR ) im , and StkRetit represents the annualized unanticipated returns ( SR - ESR ) it of firm i in year t. Idiosyncratic risk ( IDRiskit ) .
+In line with standard prac- tice in the marketing literature , we use the standard deviation of the residual ( eim ) estimated for each firm i in year t as a measure of its idiosyncratic risk ( e.g. , Luo and Bhattacharya 2009 ) .
+We calculate this measure as IDRiskit = 2 4 1 12 12 m=1 ( eim - eim ) 2 3 5 1 2 .
+( 2 ) Independent Variables Relative marketing capability ( RelMktgCapbit ) .
+We determine the marketing capability measure on the basis of the input-output stochastic frontier analysis ( SFA ) of annual data utilized in the marketing literature ( e.g. , Dutta , Narasimhan , and Rajiv 1999 ; Xiong and Bharadwaj 2013 ) .
+This approach estimates a firm ’ s marketing capa- bility by measuring how close its realized sales are to the sales frontier given a certain level of input resources , and it has been used in research investigating marketing capa- bility in the context of firm financial value ( e.g. , Bahadir , Bharadwaj , and Srivastava 2008 ) .
+We follow Narasimhan , Dutta , and Rajiv ( 2006 ) and Xiong and Bharadwaj ( 2013 ) by including input resources such as selling , general , and administrative expenses ; accounts receivable ; and techno- logical know-how reflected in patent stock .
+Furthermore , we utilize the Koyck lag function on firm patent count to estimate patent stock.2 Specifically , we estimate the following : Salesit = fðXit , WÞeeit e-hit , ( 3 ) where Xit represents the aforementioned resource inputs for firm i in year t , eit captures random shocks beyond the firm ’ s control ( e.g. , luck ) , and hit represents the firm ’ s inefficiency in converting the resource inputs into sales ( for more details , see Web Appendix W.1 ) .
+We derive the maximum likelihood estimates of the inefficiency term ( hit ) and use its inverse to capture firm marketing capa- bility ( MktgCapbit ) .
+We then normalize this measure using the average efficiency of firms in an industry to measure the relative marketing capability of firm i in industry j in year t as3 RelMktgCapbit = MktgCapbijt - 1 Nj Nj i=1 MktgCapbijt .
+( 4 ) CSR ( CSRit ) .
+We form an index for CSR using the KLD ratings ( e.g. , Servaes and Tamayo 2013 ) .
+Kinder , Lydenberg , and Domini Research and Analytics Inc. compiles annual ratings for CSR and is recognized as a leading authority in social research , providing information on multiple dimensions of CSR for institutional investors .
+In 1990 , KLD created the first socially screened , value- weighted index of 400 common stocks ( i.e. , the Domini 400 SocialSM Index [ DS 400 Index ] ) .
+Over the years , KLD broadened the scope and increased the number of firms tracked for CSR to include firms in the Russell 3000 Index .
+As such , it provides one of the most comprehensive databases for CSR ratings ( Hull and Rothenberg 2008 ; Jayachandran , Kalaignanam , and Eilert 2013 ) .
+It includes ratings on six main criteria that reflect a firm ’ s overall CSR activities .
+These ratings are widely used in academic research , and portfolio managers and institutional investors incorporate them when assessing firm social initiatives for their investment decisions ( McWilliams and Siegel 2000 ) .
+The CSR measure used in our analysis is calculated as the aggregate mean score on six types of CSR strengths .
+Within each category , KLD provides a [ 0 , 1 ] rating on multiple criteria .
+We first calculate an average score for each category for a firm and then develop an aggregate index of the averages across the six categories as an indicator of the firm ’ s overall CSR .
+Our approach is in line with existing research that uses the KLD database ( e.g. , Hull and Rothenberg 2008 ; Servaes and Tamayo 2013 ) .
+In addition to the overall indicator of CSR , we utilize the average score for each category to measure CSR types .
+Control Variables We account for multiple firm-level and industry-specific variables in our analysis .
+For stock returns ( Equation 5a ) , we include levels in variables using annual data .
+Because idiosyncratic risk is likely to be affected by variations , we 2Note that because a Koyck lag function is utilized to measure patent stock , the SFA model is not strictly a current-period model .
+3We performed a Chow ( 1960 ) test of slope homogeneity across the industries in our SFA and observe that a few industries had differential slope coefficients .
+We conducted a robustness check by introducing interaction variables for industries with differential slopes with the relevant variables in our SFA and then use the marketing capability measure derived from this estimation as the predictor in Equations 5a–5d .
+We observe consistent results , which gives us confidence that our assumption of slope homogeneity across industries in the SFA does not bias our findings .
+32 / Journal of Marketing , January 2016 include volatility in controls as annual standard deviations based on quarterly data ( Equation 5b ) .4 In particular , we account for the following : • Leverage ( Leverageit ) and leverage volatility ( LeverageVoltit ) : Financial leverage may negatively affect stock returns ( see , e.g. , Jayachandran , Kalaignanam , and Eilert 2013 ) .
+Similarly , leverage volatility may increase idiosyncratic risk .
+• Earnings ( Earningsit ) and earnings volatility ( EarningsVoltit ) : Research has found earnings surprises to negatively influence current-period stock performance ( Kothari , Lewellen , and Warner 2006 ) .
+In line with thisfinding , we expect earnings and earnings volatility to negatively affect current-period share- holder wealth .
+• Cost of goods sold ( COGSit ) and volatility of cost of goods sold ( COGSVoltit ) : Cost of goods sold and its volatility indicate higher cost structure , which implies reduced shareholder wealth ( Srivastava , Shervani , and Fahey 1998 ) .
+We normalize cost of goods sold by using firms ’ total assets .
+• Cash flow ( CshFlit ) : Stock prices are the discounted sum of investors ’ future cash flow expectations ( Srivastava , Shervani , and Fahey 1998 ) , which are likely to be a function of current cash flow ( Krasnikov , Mishra , and Orozco 2009 ) .
+We normalize cash by using total assets .
+• Profit ( Profitit ) and profit volatility ( ProfitVoltit ) : Profitable firms are likely to generate higher stock returns , and volatility in profits can increase risk ( Srinivasan and Hanssens 2009 ) .
+Furthermore , we expect profitable firms to have excess resources to divert toward CSR ( Equation 5c ; see also Luo and Bhattacharya 2009 ) .5 • Fortune magazine Most Admired Company ( MACit ) : The most admired companies are expected to display higher levels of CSR ( Luo and Bhattacharya 2009 ) .
+We therefore include a dummy variable set to 1 for firms that were on the list of Fortune magazine ’ s Most Admired Companies in estimating CSR ( Equation 5c ) .
+• Market share ( MSrit ) : Firms with larger market share are likely to experience economies of scale , which would influence how readily they are able to convert resources into sales compared with the competition ( Srivastava , Shervani , and Fahey 1998 ) .
+As such , we include market share in estimating marketing capability ( Equation 5d ) .
+• Industry ( Ij ) and time ( Tt ) fixed effects : We include industry and time indicator variables for unobserved time-invariant industry effects ( with industry defined at the two-digit Standard Industry Classification [ SIC ] level6 ) and time fixed effects .
+Table 2 provides a list of variables used in this study .
+We present the descriptives in Table 3 and provide information on the six CSR types in Table 4 .
+Model Model Formulation Our conceptual framework calls for a system of equations with stock returns , idiosyncratic risk , CSR , and marketing capability being predicted together ( e.g. , Morgan and Rego 2009 ) .
+In addition , it is critical to note that we integrate information from multiple data sources for our analysis .
+Whereas the CRSP and Compustat databases provide an almost complete sampling frame for public firms in the United States , the use of the KLD database restricts our sample .
+Such restrictions can lead to selec- tion bias that we must account for in estimating the relationships of interest .
+We therefore rely on the two- stage Heckman ( 1979 ) procedure to account for potential selection bias in our sample .
+The Heckman procedure estimates a probit model in the first stage utilizing a large sample of firms that does not suffer from selection issues .
+We use the resulting parameters to calculate the inverse Mills ratio ( MillsLambda ) , which we include as an additional regressor in the second stage ( Equations 5a–5d ) .
+The inclusion of the inverse Mills ratio accounts for potential selection bias in the restricted sample .
+In our analysis , a complete sample would comprise all firms in the same four-digit SIC industries ( selection = 0 ) as the 1,725 firms represented in the selected sample ( selection = 1 ) .
+Web Appendix W.2 presents details of the first-stage estimation .
+Specifically , we model the following system of equations7 : StkRetit = a0 + a1UDCSRit + a2UDRelMktgCapbit + a3ðUDCSRit · UDRelMktgCapbitÞ + a4UDLeverageit + a5UDProfitit + a6UDEarningsit + a7UDCOGSit + a8UDCshFlit + a9MillsLambdait + jInd=1qStkRetInd + T t=1q StkRet t + eit , ( 5a ) UDIDRiskit = g0 + g1UDCSRit + g2UDRelMktgCapbit + g3ðUDCSRit · UDRelMktgCapbitÞ + g4UDLeverageVoltit + g5UDProfitVoltit + g6UDEarningsVoltit + g7UDCOGSVoltit + g8MillsLambdait + j Ind=1q IDRisk Ind + Tt=1qIDRiskt + eit , ( 5b ) UDCSRit = d0 + d1UDProfitit + d2UDProfitVoltit + d3MACit + d4UDRelMktgCapbit + d5MillsLambdait + jInd=1qCSRInd + Tt=1qCSRt + xit , and ( 5c ) 4We continue to use levels for our focal predictors of idiosyncratic risk in Equation 5b because quarterly data for these are not available .
+5Because we are missing cash flow data for a large proportion of our sample of firms at the quarterly level , we are not able to control for cash flow volatility .
+We also include both profits and earnings , along with their volatilities , as controls because these represent top- line and bottom-line components of firm performance , respectively , which can influence stock price ( Srinivasan and Hanssens 2009 ) .
+Moreover , our focal findings remain robust to the exclusion of profit and profit volatility as controls in the estimation .
+6We assign conglomerates to SIC code 99 , following the Oc- cupational Safety & Health Administration ( https : //www.osha.gov/ pls/imis/sic_manual.html ) and Compustat ’ s classification .
+7We checked the order and rank conditions and observe the model to be identified .
+Corporate Social Responsibility and Shareholder Wealth / 33 ( 5d ) UDRelMktgCapbit = z0 + z1UDCSRit + z2UDMSrit + z3MillsLambdait + j Ind=1q RelMktgCapb Ind + Tt=1qRelMktgCapbt + wit , where a , g , d , and z represent the parameter estimates ; eit , eit , xit , and wit represent the error components ; and qInd and qt represent dummy variables to account for industry and time fixed effects .
+As noted previously , in addition to our focal predictors , we expect leverage , earnings , cost of goods sold , cash flow , and profit to affect stock returns , so we include them in Equation 5a .
+Similarly , we anticipate volatility in leverage , earnings , cost of goods sold , and profit to affect idiosyncratic risk and thus specify them as controls in Equation 5b .
+Fur- thermore , because firms ’ profitability can affect CSR and because the most admired companies are known to have high CSR ( Luo and Bhattacharya 2006 ) , we include these as predictors in Equation 5c .
+We also include marketing capa- bility in Equation 5c .
+In addition , Equation 5d models market share as a predictor for firm marketing capability .
+Finally , we account for potential reciprocal effects of marketing capa- bility and CSR by including them in Equations 5c and 5d , respectively .
+Because stock markets react only to unexpected informa- tion , in line with recent literature ( Srinivasan and Hanssens 2009 ) , we utilize unanticipated changes in CSR , marketing capability , and control variables in Equations 5a–5d .
+We rely on a first-order autoregressive model with robust standard errors ( Equation 6 ) and use the residuals as our measures of unanticipated changes ( e.g. , Bharadwaj , Tuli , and Bonfrer 2011 ) : yit = g0 + q1yiðt-1Þ + eit .
+( 6 ) Furthermore , we mean-center the CSR and relative marketing capability measures in creating the interaction term TABLE 2 Variables , Measures , and Data Sources Variable Notation Operational Measure Data Source Stock returns StkRet Firm excess returns after market- wide factors based on Carhart ( 1997 ) are accounted for CRSP Idiosyncratic risk IDRisk Standard deviation of the residuals of the Carhart ( 1997 ) four-factor model for firms CRSP Relative marketing capability RelMktgCapb Marketing capability for firms calculated using SFA Compustat/ National Bureau of Economic Research/U.S .
+Patent and Trademark Office Corporate social responsibility CSR Aggregate score on six dimensions of CSR strengths ( environment , product , diversity , corporate governance , employee relations , and community ) for firms KLD database Leverage and leverage volatility Leverage and LeverageVolt Ratio of long-term debt of firms to book value of equity Compustat Earnings and earnings volatility Earnings and EarningsVolt Net income before extraordinary items ( in $ millions ) for firms Compustat Cost of goods sold and cost of goods sold volatility COGS and COGSVolt Cost of goods sold , normalized by total assets of firms Compustat Cash flow CshFl Cash flow from operations ( in $ million ) , normalized by total assets for firms Compustat Profit and profit volatility Profit and ProfitVolt Gross profit calculated as the difference between sales and cost of goods sold of firms Compustat Most admired company MAC Dummy variable set to 1 for firms listed in the Fortune Most Admired Company ranking ; 0 otherwise Fortune magazine Market share MSr Calculated as firm sales/industry sales Compustat Notes : Volatility is calculated as the standard deviation of quarterly values of the respective measure in a given year .
+34 / Journal of Marketing , January 2016 T A B L E 3 D es cr ip ti ve S ta ti st ic s M ea n M ed ia n S D 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 1 .
+S tk R et - .
+04 23 97 6 - .
+02 44 81 7 .0 60 13 48 1 2 .
+U DI D R is k - .
+00 02 8 - .
+03 20 74 4 .1 57 12 45 - .
+91 20 1 3 .
+U DC S R - .
+00 04 20 4 - .
+01 66 62 5 .1 22 94 65 .0 18 7 - .
+02 13 1 4 .
+U DR el M kt gC ap b - .
+00 00 00 03 - .
+00 00 01 6 .0 00 03 4 .0 53 5 - .
+04 02 .0 09 8 1 5 .
+U DL ev er ag e - .
+09 70 17 4 - .
+65 16 41 5 22 .7 58 9 - .
+00 33 .0 09 3 - .
+00 05 .0 08 0 1 6 .
+U DE ar ni ng s - .
+79 78 66 4 -4 7 .
+02 04 9 10 14 .1 09 .0 38 - .
+04 99 .0 01 7 .0 11 0 .0 06 3 1 7 .
+U DC O G S .0 00 07 21 - .
+02 55 92 4 .2 35 22 97 .0 20 0 .0 01 0 .0 06 .1 69 5 - .
+00 67 - .
+03 03 1 8 .
+U DC sh F l .0 00 02 69 - .
+01 34 94 5 .0 74 03 58 - .
+09 30 .0 91 0 .0 00 7 - .
+02 49 - .
+00 09 .0 06 1 - .
+05 07 1 9 .
+U DP ro fi t - .
+61 45 46 6 -2 0 .
+03 37 1 10 17 .2 79 .0 44 0 - .
+04 52 - .
+00 61 .0 07 8 .0 05 9 .4 23 9 .0 26 7 - .
+01 23 1 10 .
+U DL ev er ag eV ol t - .
+38 40 47 3 -1 .9 05 01 1 22 .9 16 62 - .
+06 27 .0 47 1 .0 03 7 .0 10 6 .3 99 3 .0 01 9 - .
+00 23 .0 04 2 - .
+00 19 1 11 .
+U DE ar ni ng sV ol t - .
+31 02 66 -4 2 .
+66 10 8 34 5 .
+45 94 - .
+01 26 .0 21 1 .0 33 5 .0 28 2 - .
+00 41 - .
+58 03 .0 44 8 - .
+00 47 - .
+02 07 .0 02 1 12 .
+U DC O G S V ol t - .
+00 00 13 1 - .
+00 52 07 1 .0 26 61 65 - .
+04 00 .0 51 5 - .
+00 04 .0 10 1 - .
+00 62 - .
+05 44 .2 02 2 - .
+01 42 - .
+03 92 - .
+00 29 .0 62 3 1 13 .
+U DP ro fi tV ol t - .
+22 57 32 9 -4 1 .
+89 03 8 41 2 .
+26 7 .0 28 8 - .
+02 52 .0 24 5 .0 20 4 - .
+00 22 .0 35 .0 22 3 - .
+01 18 .0 37 0 - .
+00 09 .1 88 9 .2 20 5 1 14 .
+M A C .0 37 79 47 .0 00 00 0 .1 90 71 13 .0 80 4 - .
+08 39 .1 16 4 .0 22 5 - .
+00 30 .1 53 1 - .
+00 86 - .
+01 37 .0 67 5 - .
+00 62 .1 41 5 - .
+01 44 .1 94 8 1 15 .
+U DM S r .0 00 06 72 - .
+00 13 12 4 .0 24 57 21 .0 29 1 - .
+02 87 .0 03 8 - .
+04 38 .0 09 4 .0 24 8 .0 51 5 - .
+02 38 .1 11 9 - .
+00 43 - .
+01 03 .0 03 8 - .
+01 35 - .
+00 09 1 N ot es : N = 8 , 01 7 .
+C or re la tio ns in ita lic s ar e no t si gn ifi ca nt .
+A ll ot he r co rr el at io ns ar e si gn ifi ca nt at p < .0 5 .
+Corporate Social Responsibility and Shareholder Wealth / 35 because the correlation between marketing capability and interaction term without mean centering is high ( .5561 ) .
+The variance inflation factors following this procedure are all less than 10 , indicating that multicollinearity may not affect our results .
+Finally , in keeping with the risk-return modeling tradition in the finance literature , and following previous research and guidelines in marketing ( e.g. , Shankar 2012 ; Sorescu and Spanjol 2008 ) , we specify stock returns and idiosyncratic risk as separate equations.8 Model Estimation An analysis of cross-correlations of error terms indicates that the errors across the stock returns and unanticipated idio- syncratic risk equations are significantly correlated with one another ( -.90 , p < .01 ) .
+Therefore , we analyze our system of equations using the seemingly unrelated regression ( SUR ) estimation ( Zellner 1962 ) .
+Our use of the SUR estimation procedure allows for a statistically flexible , robust , yet easily interpretable methodological framework , which is recom- mended for analyses that are focused on firm financial per- formance ( e.g. , Dotzel , Shankar , and Berry 2013 ) .
+Furthermore , to mitigate concerns regarding endoge- neity that may result from reverse causality , we rely on the residuals approach recommended by Roberts and Dowling ( 2002 ) .
+In line with Luo and Bhattacharya ( 2009 , 2006 ) , we regress the unanticipated measures of CSR , marketing capa- bility , and their interaction on stock returns and unanticipated idiosyncratic risk and use the residuals as predictors in our estimations .
+These residuals represent the variance in the measures of CSR , marketing capability , and their interaction that remains unexplained by stock returns and unanticipated idiosyncratic risk .
+We checked the correlations in error terms of the two focal dependent variable equations ( stock returns [ Equation 5a ] and idiosyncratic risk [ Equation 5b ] ) and the two main predictor variable equations ( CSR [ Equation 5c ] andmarketing capability [ Equation 5d ] ) , and we find these to be nonsignificant .
+This provides confidence that endogeneity does not affect our findings.9 Finally , we conduct robustness checks utilizing different estimation and modeling approaches , evaluate models with systematic risk as an additional shareholder wealth metric , and consider whether other organizational capabilities also play a complementary role in the CSR– shareholder wealth relationship .
+We provide details of these additional analyses in the “ Robustness Checks ” subsection .
+Results Main Results We analyze two models to assess the predictive contribution of our focal variables .
+First , we estimate the system of equations with the main effects and controls and refer to this TABLE 4 CSR Types : Descriptive Statistics CSR Type Definition Mean Median SD UDEnvironment Organizational efforts toward managing the firm ’ s environmental impact through pollution prevention , recycling , clean energy , etc .
+-.00005 -.00371 .04126 UDProduct Organizational efforts toward maintaining quality , R & D innovation , providing products to the economically disadvantaged , etc .
+.00008 -.00203 .03015 UDDiversity Organizational efforts toward improving diversity of top management ( chief executive officer and the board of directors ) , work/life benefits , women and minority contracting , employment of the disabled , gay and lesbian–inclusive policies , etc .
+-.00008 -.00866 .04929 UDCorpGov Organizational efforts toward limiting compensation to top management and board members , transparent reporting , disclosure of political involvement , leadership in policy development , etc .
+-.00004 -.01097 .06312 UDEmployee Organizational efforts toward improving union relationships , profit sharing , generating employee involvement , providing retirement benefits , improving health and safety records , etc .
+-.00014 -.00786 .05412 UDCommunity Organizational efforts toward charitable giving , support for housing and education , volunteer programs , etc .
+-.00006 -.00167 .02970 8We thank the area editor for providing us with useful guidance toward our model formulation .
+9Correlations of residuals for Equation 5a with Equations 5c ( -.0035 , p > .1 ) and 5d ( -.0001 , p > .1 ) are not significant .
+Similarly , correlations of residuals for Equation 5b with Equations 5c ( .0039 , p > .1 ) and 5d ( -.0004 , p > .1 ) are also not significant .
+36 / Journal of Marketing , January 2016 T A B L E 5 S U R E st im at io n R es u lt s M ai n E ff ec ts M o d el F u ll M o d el S tk R et U D ID R is k U D C S R U D R el M kt g C ap b S tk R et U D ID R is k U D C S R U D R el M kt g C ap b In te rc ep t .7 43 78 2* ** - .
+88 67 20 ** * .0 00 00 0 .0 00 03 0* .7 25 65 6* ** - .
+84 48 41 ** * .0 00 00 0 .0 00 03 0* U DC S R - .
+00 03 17 .0 02 98 .0 00 00 1 .0 01 43 9 - .
+00 28 93 .0 00 00 1 U DR el M kt gC ap b 10 1 .
+83 17 ** * -1 40 .7 23 4* ** 4 .
+51 97 68 98 .8 18 38 ** * -1 30 .9 54 3* * 4 .
+51 97 68 U DC S R · U DR el M kt gC ap b 71 .0 77 56 ** * -2 33 .4 54 5* ** U DL ev er ag e - .
+00 00 06 - .
+00 00 06 U DE ar ni ng s - .
+00 00 11 ** * - .
+00 00 11 ** * U DC O G S - .
+00 30 96 - .
+00 32 11 U DC sh F l .0 45 07 0* ** .0 43 41 3* ** U DP ro fi t .0 00 00 1 - .
+00 00 02 * - .
+00 00 01 - .
+00 00 02 * U DL ev er ag eV ol t .0 00 27 7* ** .0 00 27 2* ** U DE ar ni ng sV ol t - .
+00 00 16 ** * - .
+00 00 14 ** * U DC O G S V ol t .3 19 79 0* ** .3 16 06 7* ** U DP ro fi tV ol t - .
+00 00 06 .0 00 00 1 - .
+00 00 05 .0 00 00 1 M A C .0 77 49 0* ** .0 77 49 0* ** U DM S r - .
+00 00 43 ** * - .
+00 00 43 ** * M ill s la m bd a - .
+44 73 09 ** * .4 94 88 5* ** - .
+01 95 21 - .
+00 00 26 ** * - .
+43 62 58 ** * .4 70 66 2* ** - .
+01 95 21 - .
+00 00 26 ** * R 2 .1 59 6 .1 81 0 .0 24 4 .1 81 5 .1 62 2 .1 85 0 .0 24 4 .1 81 5 c2 1 , 52 2 .
+26 ** * 1 , 77 1 .
+42 ** * 20 0 .
+18 ** * 1 , 77 7 .
+93 ** * 1 , 55 1 .
+61 ** * 1 , 82 0 .
+17 ** * 20 0 .
+18 ** * 1 , 77 7 .
+93 ** * d. f. 31 5 31 7 *p < .1 .
+** p < .0 5 .
+** *p < .0 1 .
+N ot es : N = 8 , 01 7 .
+In du st ry an d tim e fi xe d ef fe ct s ar e in cl ud ed in al le qu at io ns an d su pp re ss ed in th e ta bl e fo r br ev ity .
+Corporate Social Responsibility and Shareholder Wealth / 37 T A B L E 6 S U R E st im at io n R es u lt s fo r In d iv id u al C S R T yp es E n vi ro n m en t D im en si o n P ro d u ct D im en si o n D iv er si ty D im en si o n S tk R et U D ID R is k S tk R et U D ID R is k S tk R et U D ID R is k U DE nv iro nm en t .0 01 79 1 - .
+02 39 57 U DP ro du ct .0 01 60 6 - .
+01 00 78 U DD iv er si ty - .
+00 62 61 .0 26 73 9 U DR el M kt gC ap b 10 0 .
+25 15 ** * -1 35 .4 25 2* ** U DR el M kt gC ap b 10 1 .
+72 41 ** * -1 40 .3 01 5* ** U DR el M kt gC ap b 99 .4 56 96 ** * -1 31 .1 36 6* * U DE nv iro nm en t · U DR el M kt gC ap b 14 7 .
+80 88 ** * -5 05 .6 94 5* ** U DP ro du ct · U DR el M kt gC ap b 45 .3 62 75 -1 66 .7 37 8 U DD iv er si ty · U DR el M kt gC ap b 11 3 .
+16 72 ** * -4 55 .3 10 5* ** R 2 .1 60 8 .1 83 0 R 2 .1 59 7 .1 81 1 R 2 .1 60 8 .1 83 9 c2 1 , 53 5 .
+65 ** * 1 , 79 6 .
+29 ** * c2 1 , 52 3 .
+09 ** * 1 , 77 3 .
+15 ** * c2 1 , 53 6 .
+43 ** * 1 , 80 6 .
+87 ** * d. f. 31 7 d. f. 31 7 d. f. 31 7 C o rp o ra te G o ve rn an ce D im en si o n E m p lo ye e D im en si o n C o m m u n it y D im en si o n S tk R et U D ID R is k S tk R et U D ID R is k S tk R et U D ID R is k U DC or pG ov .0 03 84 8 - .
+00 52 69 U DE m pl oy ee - .
+00 16 81 - .
+00 77 72 U DC om m un ity .0 21 06 5 - .
+03 59 13 U DR el M kt gC ap b 10 1 .
+55 21 ** * -1 39 .2 89 2* ** U DR el M kt gC ap b 10 1 .
+11 42 ** * -1 38 .8 96 ** * U DR el M kt gC ap b 10 1 .
+84 57 ** * -1 40 .8 18 3* ** U DC or pG ov x U DR el M kt gC ap b 92 .3 93 99 ** -2 67 .5 05 6* ** U DE m pl oy ee · U DR el M kt gC ap b 83 .5 71 68 ** * -2 27 .1 44 8* ** U DC om m un ity · U DR el M kt gC ap b 51 .2 05 12 -3 5 .
+37 74 8 R 2 .1 60 2 .1 81 7 R 2 .1 60 3 .1 81 8 R 2 .1 59 8 .1 81 0 c2 1 , 52 9 .
+34 ** * 1 , 78 0 .
+67 ** * c2 1 , 53 0 .
+93 ** * 1 , 78 1 .
+55 ** * c2 1 , 52 4 .
+44 1 , 77 1 .
+95 d. f. 31 7 d. f. 31 7 d. f. 31 7 ** p < .0 5 .
+** *p < .0 1 .
+N ot es : N = 8 , 01 7 .
+W e es tim at e al lm od el s w ith th e sy st em of E qu at io ns 5a – 5d us in g S U R .T he ta bl e do es no ts ho w re su lts fo rE qu at io ns 5c an d 5d .A ll co nt ro lv ar ia bl es , i nd us tr y , an d tim e fi xe d ef fe ct s ar e in cl ud ed in al le qu at io ns an d no t sh ow n in th e ta bl e fo r br ev ity .
+38 / Journal of Marketing , January 2016 as the “ main-effects model. ” Second , we include the mar- keting capability · CSR interaction in the system and refer to this as the “ full model. ” Overall , the models demonstrate good predictive power with significant chi-square values .
+Chi-square difference tests between the main-effects model and the full model indicate that the interaction effect in Equation 5a ( Dc2d : f : =1 = 29.35 , p < .01 ) and Equation 5b ( Dc2d : f : =1 = 48.75 , p < .01 ) significantly improves explanatory power .
+We interpret the results from the main-effects and full models in discussing our findings .
+With regard to firms ’ overall CSR initiatives ( see Table 5 ) , we find the direct effect of CSR on stock returns ( main-effects model : a1 = -.0003 , p > .1 ; full model : a1 = .0014 , p > .1 ) and idiosyncratic risk ( main-effects model : g1 = .0029 , p > .1 ; full model : g1 = -.0028 , p > .1 ) to be not significant .
+This finding aligns with a recent meta-analysis indicating an overall marginal effect of CSR on financial performance ( Margolis et al .
+2009 ) .
+Our analysis indicates that marketing capability has a direct significant positive effect on stock returns ( main-effects model : a2 = 101.83 , p < .01 ; full model : a2 = 98.81 , p < .01 ) and a direct significant negative effect on firms ’ idiosyncratic risk ( main-effects model : g2 = -140.72 , p < .01 ; full model : g2 = -130.95 , p < .01 ) .
+These results provide support to the notion that marketing capability is an important driver of shareholder wealth .
+More importantly , with respect to the comple- mentary role of marketing capability and CSR , the results indicate a significant positive effect on stock returns ( full model : a3 = 71.07 , p < .01 ) and a significant negative effect on idiosyncratic risk ( full model : g3 = -233.45 , p < .01 ) .
+Furthermore , we observe the results to be robust to any outliers ( Table 8 , Panel A ) .
+These results underscore the notion that marketing capability is a critical factor that helps firms leverage their CSR efforts .
+Indeed , within the limits of our sample , we observe that a one-standard-deviation improvement in CSR and marketing capability can pro- vide shareholders gains of 3.54 % in stock returns and a reduction in idiosyncratic risk of 4.45 % , on average ( see Web Appendix W.3 ) .
+Given the average market capital- ization of firms , this translates to a $ 242.34 million gain in stock value .
+With respect to individual CSR types ( see Tables 6 and 7 ) , we again observe that none of the CSR types directly affect stock returns and idiosyncratic risk .
+However , the results reveal that marketing capability positively com- plements the relationship between environment-based CSR TABLE 7 Moderating Effects of Marketing Capability on Shareholder Wealth CSR Dimension Stock Returns Idiosyncratic Risk Brief Rationale Overall CSR + - A firm ’ s marketing capability is likely to enhance CSR ’ s potential for generating positive stakeholder associations with the firm .
+Environment-based CSR + - A firm ’ s marketing capability is likely to enhance environment-based CSR ’ s potential for generating positive associations among consumers , channel partners , and regulators with the firm .
+Product-based CSR n.s .
+( + with 5 % trim and Winsorized ) n.s .
+( - with 5 % trim and Winsorized ) A firm ’ s marketing capability is likely to enhance product-based CSR ’ s potential for generating positive associations among consumers with the firm .
+Diversity-based CSR + - A firm ’ s marketing capability is likely to enhance diversity-based CSR ’ s potential for generating positive associations among employees and regulators with the firm .
+Corporate governance–based CSR + - A firm ’ s marketing capability is likely to enhance corporate governance–based CSR ’ s potential for generating positive associations among employees and regulators with the firm .
+Employee-based CSR + - A firm ’ s marketing capability is likely to enhance employee-based CSR ’ s potential for generating positive associations among employees with the firm .
+Community-based CSR n.s .
+n.s .
+A firm ’ s marketing capability is likely to enhance community-based CSR ’ s potential for generating positive associations with the firms , but the expected gains are attenuated because of low diagnosticity and low verifiability of such efforts .
+Notes : n.s .
+= not significant .
+Corporate Social Responsibility and Shareholder Wealth / 39 T A B L E 8 R o b u st n es s C h ec ks A : R es u lt s fo r 5 % W in so ri ze d , T ri m m ed , an d S ys te m at ic R is k M o d el s 5 % W in so ri ze d 5 % T ri m m ed S ys te m at ic R is k In cl u d ed S tk R et U D ID R is k S tk R et U D ID R is k S tk R et U D ID R is k U D S ys R is k U DC S R .0 01 17 6 - .
+00 44 93 U DC S R .0 01 72 0 - .
+00 06 13 U DC S R .0 01 43 9 - .
+00 28 93 .2 55 79 3 U DR el M kt gC ap b 92 .1 04 65 ** * -1 19 .4 93 5* ** U DR el M kt gC ap b 76 .2 29 65 ** * -1 01 .8 55 1* ** U DR el M kt gC ap b 98 .8 18 38 ** * -1 30 .9 54 3* * -2 75 .9 76 4 U DC S R · U DR el M kt gC ap b 66 .9 33 55 ** * -1 95 .7 60 9* ** U DC S R · U DR el M kt gC ap b 48 .0 49 03 ** * -1 80 .7 40 4* ** U DC S R · U DR el M kt gC ap b 71 .0 77 56 ** * -2 33 .4 54 5* ** -3 11 .2 90 5 R 2 .1 90 9 .2 17 0 R 2 .1 62 0 .1 80 4 R 2 .1 62 2 .1 85 0 .0 32 4 c2 1 , 89 1 .
+53 ** * 2 , 22 2 .
+21 ** * c2 1 , 48 4 .
+16 ** * 1 , 68 9 .
+83 ** * c2 1 , 55 1 .
+61 ** * 1 , 82 0 .
+17 ** * 26 8 .
+76 ** * d. f. 31 7 d. f. 31 7 d. f. 39 8 B : R es u lt s fo r 5 % W in so ri ze d M o d el s fo r In d iv id u al C S R T yp es ( N 5 8 , 01 7 ) E n vi ro n m en t D im en si o n P ro d u ct D im en si o n D iv er si ty D im en si o n S tk R et U D ID R is k S tk R et U D ID R is k S tk R et U D ID R is k U DE nv iro nm en t .0 04 64 8 - .
+03 28 03 U DP ro du ct - .
+00 23 83 - .
+00 23 28 U DD iv er si ty - .
+00 22 32 .0 12 90 2 U DR el M kt gC ap b 93 .5 05 1* ** -1 23 .5 03 2* ** U DR el M kt gC ap b 94 .7 33 44 ** * -1 27 .0 08 8* ** U DR el M kt gC ap b 92 .4 94 87 ** * -1 18 .9 19 4* ** U DE nv iro nm en t · U DR el M kt gC ap b 13 0 .
+35 29 ** * -3 76 .1 64 5* ** U DP ro du ct · U DR el M kt gC ap b 79 .1 46 77 * -2 39 .7 91 9* * U DD iv er si ty · U DR el M kt gC ap b 11 7 .
+62 38 ** * -4 19 .6 29 1* ** R 2 .1 88 9 .2 14 4 R 2 .1 87 9 .2 12 9 R 2 .1 89 5 .2 16 4 c2 1 , 86 7 .
+61 ** * 2 , 18 7 .
+99 ** * c2 1 , 85 4 .
+94 ** * 2 , 16 8 .
+69 ** * c2 1 , 87 4 .
+03 ** * 2 , 21 3 .
+44 ** * d. f. 31 7 d. f. 31 7 d. f. 31 7 C o rp o ra te G o ve rn an ce D im en si o n E m p lo ye e D im en si o n C o m m u n it y D im en si o n S tk R et U D ID R is k S tk R et U D ID R is k S tk R et U D ID R is k U DC or pG ov .0 00 81 2 - .
+00 09 68 U DE m pl oy ee - .
+00 24 40 - .
+00 48 88 U DC om m un ity .0 20 03 1 - .
+03 62 97 U DR el M kt gC ap b 94 .6 21 72 ** * -1 26 .4 90 9* ** U DR el M kt gC ap b 94 .3 62 12 ** * -1 26 .3 55 8* ** U DR el M kt gC ap b 94 .9 58 0* ** -1 27 .7 69 9* ** U DC or pG ov · U DR el M kt gC ap b 83 .1 95 29 ** * -2 13 .9 09 8* ** U DE m pl oy ee · U DR el M kt gC ap b 68 .3 21 7* ** -1 65 .8 60 2* ** U DC om m un ity · U DR el M kt gC ap b 35 .3 44 65 -2 .4 00 42 7 R 2 .1 88 3 .2 13 3 R 2 .1 88 3 .2 13 2 R 2 .1 87 8 .2 12 5 c2 1 , 86 0 .
+26 ** * 2 , 17 3 .
+10 ** * c2 1 , 86 0 .
+13 ** * 2 , 17 1 .
+99 ** * c2 1 , 85 3 .
+54 ** * 2 , 16 3 .
+54 ** * d. f. 31 7 d. f. 31 7 d. f. 31 7 40 / Journal of Marketing , January 2016 T A B L E 8 C o n ti n u ed C : R es u lt s fo r 5 % T ri m m ed M o d el s fo r In d iv id u al C S R T yp es ( N 5 7 , 67 8 ) E n vi ro n m en t D im en si o n P ro d u ct D im en si o n D iv er si ty D im en si o n S tk R et U D ID R is k S tk R et U D ID R is k S tk R et U D ID R is k U DE nv iro nm en t .0 08 54 1 - .
+02 24 90 U DP ro du ct - .
+01 17 76 .0 30 43 9 U DD iv er si ty .0 04 72 0 .0 09 17 68 U DR el M kt gC ap b 77 .0 43 63 ** * -1 04 .7 94 5* ** U DR el M kt gC ap b 78 .0 18 71 ** * -1 08 .4 40 ** * U DR el M kt gC ap b 76 .4 39 43 ** * -1 01 .4 89 4* ** U DE nv iro nm en t · U DR el M kt gC ap b 90 .9 43 08 ** * -3 78 .6 32 8* ** U DP ro du ct · U DR el M kt gC ap b 85 .8 27 25 ** -3 23 .0 36 1* ** U DD iv er si ty · U DR el M kt gC ap b 97 .9 21 91 ** * -4 01 .9 36 7* ** R 2 .1 60 0 .1 77 9 R 2 .1 59 3 .1 76 6 R 2 .1 61 1 .1 79 9 c2 1 , 46 2 .
+18 ** * 1 , 66 1 .
+35 ** * c2 1 , 45 5 .
+02 ** * 1 , 64 6 .
+93 ** * c2 1 , 47 4 .
+44 ** * 1 , 68 4 .
+63 ** * d. f. 31 7 d. f. 31 7 d. f. 31 7 C o rp o ra te G o ve rn an ce D im en si o n E m p lo ye e D im en si o n C o m m u n it y D im en si o n S tk R et U D ID R is k S tk R et U D ID R is k S tk R et U D ID R is k U DC or pG ov .0 00 95 0 - .
+00 05 06 U DE m pl oy ee - .
+00 12 43 .0 00 26 4 U DC om m un ity .0 13 74 7 - .
+02 24 05 U DR el M kt gC ap b 78 .0 52 82 ** * -1 08 .5 09 6* ** U DR el M kt gC ap b 77 .9 45 57 ** * -1 08 .7 04 6* ** U DR el M kt gC ap b 78 .3 63 38 ** * -1 09 .7 58 6* ** U DC or pG ov · U DR el M kt gC ap b 60 .6 50 34 ** * -1 86 .9 75 1* ** U DE m pl oy ee · U DR el M kt gC ap b 41 .9 21 35 ** -1 26 .4 86 3* ** U DC om m un ity · U DR el M kt gC ap b 8 .
+84 36 44 25 .4 40 7 R 2 .1 59 3 .1 76 3 R 2 .1 59 1 .1 76 1 R 2 .1 58 7 .1 75 6 c2 1 , 45 5 .
+26 1 , 64 3 .
+78 c2 1 , 45 2 .
+68 ** * 1 , 64 0 .
+88 ** * c2 1 , 44 8 .
+13 ** * 1 , 63 5 .
+68 ** * d. f. 31 7 d. f. 31 7 d. f. 31 7 ** p < .0 5 .
+** *p < .0 1 .
+N ot es : W e es tim at e al lm od el s w ith th e sy st em of E qu at io ns 5a – 5d us in g S U R .T he ta bl e do es no ts ho w re su lts fo r E qu at io ns 5c an d 5d .A ll co nt ro lv ar ia bl es , i nd us tr y , an d tim e fi xe d ef fe ct s ar e in cl ud ed in al le qu at io ns an d no t sh ow n in th e ta bl e fo r br ev ity .
+Corporate Social Responsibility and Shareholder Wealth / 41 and stock returns ( a3 = 147.80 , p < .01 ) and negatively affects the relationship between environment-based CSR and idiosyncratic risk ( g3 = -505.69 , p < .01 ) .
+The results also indicate that the complementary effect of marketing capability on stock returns ( a3 = 45.36 , p > .1 ) and idio- syncratic risk ( g3 = -166.73 , p > .1 ) for product-based CSR is nonsignificant .
+However , after accounting for outliers , we find that the positive role of marketing capability for product-based CSR on stock returns ( 5 % Winsorized in Table 8 , Panel B : 79.14 , p < .1 ; 5 % trimmed in Table 8 , Panel C : 85.82 , p < .05 ) and idiosyncratic risk ( 5 % Win- sorized in Table 8 , Panel B : -239.79 , p < .05 ; 5 % trimmed in Table 8 , Panel C : -323.03 , p < .01 ) is significant , providing partial support for this relationship .
+Similarly , marketing capability also positively affects the relationship between diversity-based CSR and stock returns ( a3 = 113.16 , p < .01 ) and negatively affects the relationship between diversity- based CSR and idiosyncratic risk ( g3 = -455.31 , p < .01 ) .
+With respect to corporate governance–based CSR , we find the moderating role of marketing capability on stock returns ( a3 = 92.39 , p < .05 ) and idiosyncratic risk ( g3 = -267.50 , p < .01 ) to be significant as well .
+For employee-based CSR , results again support the governing role of marketing capability for stock returns ( a3 = 83.57 , p < .01 ) and idiosyncratic risk ( g3 = -227.14 , p < .01 ) .
+However , with respect to community- based CSR , the interaction with marketing capability is non- significant for both stock returns ( a3 = 51.20 , p > .1 ) and idiosyncratic risk ( g3 = -35.37 , p > .1 ) .
+This finding aligns with our expectation that the joint shareholder effect of marketing capability and community-based CSR is weak .
+Robustness Checks Sensitivity to outliers .
+To determine whether our results are sensitive to outliers , we assess the robustness of all models by Winsorizing and trimming our sample at –2.5 % .
+As we illustrate in Table 8 , Panels A–C , with the exception of product- based CSR , our conclusions do not change when outliers are removed from the data set for overall CSR and CSR types .
+Different estimation approaches .
+We assess the robust- ness of our findings through four additional estimation and modeling approaches .
+First , although we minimized endogeneity concerns through the use of unanticipated changes in our variables and the use of Roberts and Dowling ’ s ( 2002 ) procedure , we also evaluate our equa- tions using the three-stage least squares method ( Greene 2008 ) .
+Previous research has recommended the three-stage least squares procedure to account for endogeneity ( e.g. , Bharadwaj , Tuli , and Bonfrer 2011 ) .
+We observe results consistent with our findings .
+Second , as noted previously , we model contemporaneous relationships in Equations 5a–5d ( e.g. , Morgan and Rego 2009 ) .
+However , following previous research in marketing that has argued for contemporaneous effects for stock market–related dependent variables and lagged effects for other dependent variables in a system of equations ( e.g. , Bharadwaj , Tuli , and Bonfrer 2011 ) , we lag the inde- pendent variables in Equations 5c–5d by one time period and again observe consistent results .
+Third , as we report in footnote 9 , after utilizing the Roberts and Dowling procedure , the error correlations betweenEquations 5a and 5bwith Equations 5c and 5d become nonsignificant .
+As such , we also estimate SUR models with only Equations 5a and 5b ( not including Equations 5c and 5d ) as the systemof equations .
+An analysis again reveals similar results .
+Finally , our results are also robust if we specify levels in controls , rather than volatility , for the idiosyncratic risk in Equation 5b ( e.g. , Luo and Bhattacharya 2009 ) and include cash flow as a control .
+Together , these checks give us greater confidence in our overall findings .
+Systematic risk .
+Although we do not expect firm-specific CSR and marketing capability to affect systematic risk , we conduct an analysis to empirically assess this prediction .
+Following previous research ( e.g. , Bharadwaj , Tuli , and Bonfrer 2011 ) , we measure systematic risk using the beta for the market return factor in Equation 1 .
+We re-estimate our system of equations by adding an equation for unanticipated systematic risk .
+The results indicate that the variables of interest did not influence systematic risk ( Table 8 , Panel A ) .
+Furthermore , including systematic risk in the system does not change our main findings .
+Firm employee and operations capabilities .
+To deter- mine whether firm capabilities other than marketing capa- bility interact with CSR to influence shareholder wealth , we estimate a system of equations that include the main and interaction effects of employee capability and operations capability.10 We calculate employee and operations capa- bilities using the input-output SFA approach , similar to the one we used to capture marketing capability .
+We do not find the interaction terms for these capabilities to be significant , further underscoring the positive role of marketing in CSR ’ s effect on shareholder wealth ( see Web Appendix WA.3 ) .
+Discussion Our results provide evidence that CSR is not likely to affect firm shareholder wealth directly but is more likely do so in the presence of marketing capability .
+In particular , we observe that when unanticipated changes in CSR are complemented with unanticipated changes in marketing capability , share- holders benefit from a significant increase in stock returns and a reduction in idiosyncratic risk .
+These results are in line with marketing theory , in which two opposing perspectives—one based on agency theory and the other on stakeholder theory and the RBV of the firm—indicate that both positive and negative forces influence the CSR– shareholder wealth relationship .
+However , in line with the dynamic capabilities theory , our results also highlight the notion that the positive forces can potentially play a stronger role in realizing shareholder value from CSR if their efficacy is enhanced through superior marketing capability .
+In addition , our findings also reveal that the comple- mentary role of marketing capability is not guaranteed but rather depends on the CSR type .
+The results show that CSR types with verifiable benefits to key firm stakeholders financially reward shareholders in the presence of marketing 10We thank an anonymous reviewer and the area editor for suggesting this robustness check .
+42 / Journal of Marketing , January 2016 capability ( see Table 7 ) .
+For example , diversity in top man- agement , board members , and employees invites significant stakeholder attention .
+As such , stakeholder theory and the RBV indicate that firm efforts toward fostering diversity would allow for improved relationships with stakeholders , leading to higher shareholder wealth .
+However , ceteris par- ibus , if firms do not implement and communicate such efforts correctly , stakeholders can remain skeptical about these ef- forts and may suspect agency problems , which can diminish the financial potential of diversity-based CSR initiatives .
+In line with these opposing forces , we do not find a significant main effect of diversity-based CSR on shareholder wealth .
+However , because firms with superior marketing capability will be more aligned with stakeholders , they can poten- tially identify diversity-based initiatives that better appeal to stakeholders and then implement and communicate these initiatives effectively to alleviate some of the agency-related concerns .
+Consistent with this argument , our results reveal that when complementedwithmarketing capability , diversity- based CSR improves shareholder wealth .
+We find similar effects for other stakeholder-based CSR efforts that offer verifiable benefits to key firm stakeholders , particularly those related to environment , products , cor- porate governance , and employees .
+Furthermore , consistent with the arguments raised by neoclassical economists ( e.g. , Friedman 1970 ) , we also find that relatively broad and less verifiable community-based CSR efforts do not seem to benefit shareholders either directly or in combination with marketing capability .
+Our findings are derived from information collected from multiple secondary sources for a relatively large set of firms across the years 2000–2009 , and they account for endoge- neity and selection bias .
+In addition , the results are largely robust to the effects of outliers and different modeling and estimation approaches .
+Together , this gives us confidence in the validity of our conclusions and enables us to offer several implications for theory and practice .
+Theory Implications This is the first study to articulate marketing capability as a complementary force in the CSR–shareholder wealth rela- tionship and to establish it using objective , longitudinal information .
+In response to the debate on doing good ( e.g. , Friedman 1970 ; Hull and Rothenberg 2008 ) , our research shows that marketing scholarship can provide novel insights into the issue .
+Indeed , whereas scholars in other fields have given attention to the shareholder value of CSR , marketing research , with the exception of a few notable studies ( Luo and Bhattacharya 2006 , 2009 ) , has remained silent on the topic .
+This is surprising for two reasons .
+First , the growing con- sensus is that the relationship of CSRwith shareholder wealth is contingent on firms ’ key stakeholders .
+Because marketing plays an important role in maintaining stakeholder rela- tionships , marketing scholars have the potential to inform this area .
+Second , recent research has highlighted the role of marketing capability in leveraging firm resources ( e.g. , Morgan , Slotegraaf , and Vorhies 2009 ) .
+However , extant research focused on marketing factors in CSR has singularly examined marketing resources ( see Table 1 ) ; the one study that does consider marketing capability in the context of CSR does not focus on shareholder wealth ( Kemper et al .
+2013 ) .
+We contribute to the literature by outlining the pathways through which marketing capability complements CSR in elevating shareholder wealth and by empirically evaluating the resulting effects .
+Furthermore , we consider both overall CSR and six specific CSR types .
+In general , scholars offer a multifaceted conceptualization of CSR but then tend to consider only an overall measure of CSR ( e.g. , Luo and Bhattacharya 2009 ; Servaes and Tamayo 2013 ) .
+The few studies that offer a more granular operationalization of the construct focus on only one or two types .
+For example , some have considered pro-environment and product-based efforts ( Jayachandran , Kalaignanam , and Eilert 2013 ) , whereas others have in- vestigated corporate governance ( e.g. , Johnson and Greening 1999 ) .
+Although these studies have provided many rich insights by taking a narrow focus , this has also been one of the potentially limiting factors driving the varied findings on the financial effects of CSR in extant literature ( Margolis , Elfenbein , and Walsh 2009 ) .
+By taking a comprehensive view of CSR , as well as parceling out the effects of different CSR types , our results provide insight into the boundary conditions for the role of marketing capability .
+Indeed , this insight would not have been available if we had focused only on overall CSR .
+Finally , by centering on shareholder wealth , our study adds to the area of marketing–finance interface ( e.g. , Srinivasan and Hanssens 2009 ; Srivastava , Shervani , and Fahey 1998 ) .
+Specifically , it draws attention to the role of marketing capability in elevating stock returns and reducing idiosyncratic risk through CSR .
+Research relating marketing capability to shareholder wealth is still in a nascent stage , with much attention directed toward the role of marketing capability in brands ’ financial value ( Bahadir , Bharadwaj , and Srivastava 2008 ; Wiles , Morgan , and Rego 2012 ) .
+Our study takes a step toward extending this body of work and highlights the posi- tive influence of marketing capability in elevating other stakeholder-based advantages of firms , particularly those related to CSR .
+Furthermore , by documenting significant main and complementary effects of marketing capability on shareholder wealth , and by identifying CSR types for which marketing capability may help , our results affirm that investors should account for marketing capability when forming their evaluations .
+This should also provide additional evidence in support of elevating marketing ’ s position in organizations ’ functional hierarchies .
+Practice Implications Our research provides a fresh perspective on CSR to C-level executives , corporate boards , and marketing managers .
+First , despite firms ’ increasing interest in CSR , there remain sig- nificant doubts among C-level executives regarding the financial returns of socially responsible investments ( Blair and Chernev 2012 ) .
+Indeed , in one global survey of senior executives , the majority of the respondents considered CSR to be important and expected social investments by their firms to increase in the future ( The Economist 2008 ) , whereas a Corporate Social Responsibility and Shareholder Wealth / 43 survey conducted by McKinsey & Company indicated that close to half of the chief financial officers surveyed expressed skepticism about the shareholder value of CSR ( Bonini , Brun , and Rosenthal 2009 ) .
+Our findings provide support for some of this skepticism because we do not find a significant main effect of CSR and its different types on stock returns and idiosyncratic risk .
+However , we also show that the situation is not downright grim : rather , stakeholder-based CSR efforts do have the potential to positively inform shareholder wealth when they are complemented with marketing capability .
+This should give confidence to senior executives to support CSR initiatives in their organizations .
+Second , by documenting the complementary relation- ship between CSR and marketing capability , our research highlights the need for greater involvement by marketing managers in their firms ’ CSR activities .
+In particular , our findings are in line with the global senior executives ’ survey findings underscoring marketing as significant for CSR ( The Economist 2008 ) .
+However , CSR is often considered out- side the domain of marketing in many firms and receives limited attention from marketing managers ( Peloza and Shang 2011 ) .
+This misplaced view can lead to CSR efforts that are not well aligned with the firms ’ marketing capability and thus can result in suboptimal shareholder outcomes .
+Third , our findings also provide specific guidance to C-level executives and marketing managers regarding the relative value of different CSR types .
+Within the limits of our sample , we observe that firms are best able to benefit their shareholders through environment-based CSR efforts in the presence of high marketing capability .
+Following this , we find that improvements in diversity- , corporate governance– , and employee-based CSR efforts benefit shareholders of firms with high marketing capability .
+Finally , publicly owned firms that are relatively moderate performers in terms of shareholder wealth can also po- tentially provide value to their owners through product- based CSR efforts in conjunction with superior marketing capability .
+In an era of shrinking marketing budgets , in which so many firms are facing challenging financial situations , chief financial officers and marketing managers should take note of these results and direct attention toward CSR initiatives that have greater potential to positively inform shareholder wealth .
+Finally , our findings show that only CSR efforts that have clear and verifiable benefits to key firm stakeholders pos- itively influence shareholder value , whereas investments in corporate philanthropy and other forms of community-based efforts have no significant effect .
+This finding is aligned with the concern among neoclassical economists that community- based CSR can be prone to elevated agency problems , in which managers divert scarce organizational resources toward their personally favored initiatives and not toward efforts that benefit their shareholders .
+Corporate boards can use this insight to design appropriate compensation schemes and contracts that incentivize managers to focus on CSR efforts with verifiable benefits to key stakeholders and restrict managers from investing too much in community-based charity .
+Limitations and Further Research Our study suffers from some limitations that suggest avenues for further research .
+First , owing to data limi- tations , we focused on firms based in the United States .
+Although we controlled for selection bias in our study , this accounted for only potential sample selection issues rela- tive to U.S.-based firms .
+It is possible that stakeholders in the United States are more sensitive to social responsibility issues .
+Further research might expand the sample to other countries , particularly developing countries where social conditions require serious and immediate attention .
+Sec- ond , we found that our results relating to product-based CSR were sensitive to outliers .
+It may be that other factors govern the financial value of these CSR efforts .
+In-depth case studies could potentially reveal such factors .
+Third , in documenting the importance of marketing capability , we were restricted to an aggregate measure of the construct .
+Further research could focus on evaluating different aspects of marketing capability in the context of CSR through surveys to add to the capabilities-based literature in mar- keting .
+Fourth , firms skilled in public relations might be able to misrepresent their CSR efforts .
+Given that firms typically do not disclose their public relations spending publicly , it was not possible for us to control for this factor .
+Further research could account for this through primary data collection methods .
+Finally , we were restricted to analyzing the short-term effects of CSR and marketing capability on shareholder wealth .
+Corporate social responsibility efforts are likely to have long-term effects on firm stakeholders .
+Similarly , we also expect marketing capability to have long-term direct and indirect con- sequences for firm financial performance .
+Further research could utilize techniques such as the calendar time portfolio analysis ( e.g. , Sorescu , Shankar , and Kushwaha 2007 ) to uncover the long-term shareholder implications of CSR and marketing capability .
+REFERENCES Aupperle , Kenneth E. , Archie B. Carroll , and John D. Hatfield ( 1985 ) , “ An Empirical Examination of the Relationship Between Corporate Social Responsibility and Profitability , ” Academy of Management Journal , 28 ( 2 ) , 446–63 .
+Bahadir , S. Cem , Sundar G. Bharadwaj , and Rajendra K. Srivastava ( 2008 ) , “ Financial Value of Brands in Mergers and Acquisitions : Is Value in the Eye of the Beholder ? ” Journal of Marketing , 72 ( November ) , 49–64 .
+Barnett , Michael L. ( 2007 ) , “ Stakeholder Influence Capacity and the Variability of Financial Returns to Corporate Social Responsibility , ” Academy of Management Review , 32 ( 3 ) , 794–816 .
+——— and Robert M. Salomon ( 2006 ) , “ Beyond Dichotomy : The Curvilinear Relationship Between Social Responsibility and Financial Performance , ” Strategic Management Journal , 27 ( 11 ) , 1101–22 .
+44 / Journal of Marketing , January 2016 Barney , Jay ( 1991 ) , “ Firm Resources and Sustained Competitive Advantage , ” Journal of Management , 17 ( 1 ) , 771–92 .
+Berens , Guido , Cees B.M .
+van Riel , and Gerrit H. van Bruggen ( 2005 ) , “ Corporate Associations and Consumer Product Responses : The Moderating Role of Corporate Brand Dom- inance , ” Journal of Marketing , 69 ( July ) , 35–48 .
+Bergen , Mark , Shantanu Dutta , and Orville C. Walker Jr. ( 1992 ) , “ Agency Relationships in Marketing : A Review of the Impli- cations and Applications of Agency and Related Theories , ” Journal of Marketing , 56 ( July ) , 1–24 .
+Berrone , Pascual and Luis R. Gomez-Mejia ( 2009 ) , “ Environmental Performance and Executive Compensation : An Integrated Agency-Institutional Perspective , ” Academy of Management Journal , 52 ( 1 ) , 103–26 .
+Bharadwaj , Sundar G. , Kapil R. Tuli , and Andre Bonfrer ( 2011 ) , “ The Impact of Brand Quality on Shareholder Wealth , ” Journal of Marketing , 75 ( September ) , 88–104 .
+Bhattacharya , C.B .
+and Sankar Sen ( 2003 ) , “ Consumer–Company Identification : A Framework for Understanding Consumers ’ Rela- tionshipswith Companies , ” Journal ofMarketing , 67 ( April ) , 76–88 .
+Bitner , Mary J .
+( 1990 ) , “ Evaluating Service Encounters : The Effects of Physical Surroundings and Employee Responses , ” Journal of Marketing , 54 ( April ) , 69–82 .
+Blair , Sean and AlexanderChernev ( 2012 ) , “ Doing Well by Doing Good : The Benevolent Halo of Social Goodwill , ” Marketing Science Institute Working Paper Series , Report 12-103 .
+Bonini , Sheila , Noëmie Brun , and Michelle Rosenthal ( 2009 ) , “ Valuing Corporate Social Responsibility : McKinsey Global Survey Results , ” research report , McKinsey & Company , ( February ) , ( accessed October 26 , 2015 ) , [ available at http : // www.mckinsey.com/insights/corporate_finance/valuing_corporate_ social_responsibility_mckinsey_global_survey_results ] .
+Brown , Tom J. and Peter A. Dacin ( 1997 ) , “ The Company and the Product : Corporate Associations and Consumer Product Responses , ” Journal of Marketing , 61 ( January ) , 68–84 .
+Campbell , John L. ( 2007 ) , “ Why Would Corporations Behave in Socially Responsible Ways ?
+An Institutional Theory of Cor- porate Social Responsibility , ” Academy of Management Review , 40 ( 2 ) , 946–67 .
+Carhart , Mark M. ( 1997 ) , “ On Persistence of Mutual Fund Per- formance , ” Journal of Finance , 52 ( 1 ) , 57–82 .
+Carroll , Archie B .
+( 1979 ) , “ A Three-Dimensional Conceptual Model of Corporate Performance , ” Academy of Management Review , 4 ( 4 ) , 497–505 .
+Carter , Craig R. ( 2000 ) , “ Ethical Issues in International Buyer– Supplier Relationships : A Dyadic Examination , ” Journal of Operations Management , 18 ( 2 ) , 191–208 .
+Chow , Gregory C. ( 1960 ) , “ Tests of Equality Between Sets of Coef- ficients in TwoLinear Regressions , ” Econometrica , 28 ( 3 ) , 591–605 .
+Day , George S. ( 1994 ) , “ The Capabilities of Market-Driven Organizations , ” Journal of Marketing , 58 ( October ) , 37–52 .
+Dotzel , Thomas , Venkatesh Shankar , and Leonard L. Berry ( 2013 ) , “ Service Innovativeness and Firm Value , ” Journal of Marketing Research , 50 ( April ) , 259–76 .
+Du , Shuili , C.B .
+Bhattacharya , and Sankar Sen ( 2007 ) , “ Reaping Relational Rewards from Corporate Social Responsibility : The Role of Competitive Positioning , ” International Journal of Research in Marketing , 24 ( 3 ) , 224–41 .
+Dutta , Shantanu , Om Narasimhan , and Surendra Rajiv ( 1999 ) , “ Success in High-Technology Markets : Is Marketing Capability Critical ? ” Marketing Science , 18 ( 4 ) , 547–68 .
+The Economist ( 2008 ) , “ Global Business Barometer : A Survey Conducted by the Economist Intelligence Unit , ” research report , ( accessed October 26 , 2015 ) , [ available at : www.economist .
+com/media/pdf/20080116CSRResults.pdf ] .
+Edmans , Alex ( 2011 ) , “ Does the Stock Market Fully Value Intangibles ?
+Employee Satisfaction and Equity Prices , ” Journal of Financial Economics , 101 ( 3 ) , 621–40 .
+File , Karen M. and Russ A .
+Prince ( 1998 ) , “ Cause Related Marketing and Corporate Philanthropy in the Privately Held Enterprise , ” Journal of Business Ethics , 17 ( 14 ) , 1529–39 .
+Freeman , R. Edward ( 1984 ) , Strategic Management : A Stakeholder Perspective .
+Boston : Piman .
+Friedman , Milton ( 1970 ) , “ The Social Responsibility of Business Is to Increase Its Profits , ” The New York Times Magazine , ( September 13 ) , 32–33 .
+Ganesan , Shankar ( 1994 ) , “ Determinants of Long-Term Orientation in Buyer-Seller Relationships , ” Journal of Marketing , 58 ( April ) , 1–19 .
+Godfrey , Paul C. ( 2005 ) , “ The Relationship Between Corporate Philanthropy and Shareholder Wealth : A Risk Management Perspective , ” Academy of Management Review , 30 ( 4 ) , 777–98 .
+Greene , William H. ( 2008 ) , Econometric Analysis , 6th ed .
+Boston : Pearson Education .
+Gurhan-Canli , Zeynep and Rajeev Batra ( 2004 ) , “ When Corporate Image Affects Product Evaluations : The Moderating Role of Perceived Risk , ” Journal of Marketing Research , 41 ( May ) , 197–205 .
+Hall , Richard ( 1992 ) , “ The Strategic Analysis of Intangible Resources , ” Strategic Management Journal , 13 ( 2 ) , 135–44 .
+Handelman , Jay M. and Stephen J. Arnold ( 1999 ) , “ The Role of Marketing Actions with a Social Dimension : Appeals to the Institutional Environment , ” Journal of Marketing , 63 ( July ) , 33–48 .
+Heckman , James J .
+( 1979 ) , “ Sample Selection Bias as a Specifi- cation Error , ” Econometrica , 47 ( 1 ) , 153–61 .
+Hillman , Amy J. and Gerald D. Keim ( 2001 ) , “ Shareholder Value , Stakeholder Management , and Social Issues : What ’ s the Bottom Line ? ” Strategic Management Journal , 22 ( 2 ) , 125–39 .
+Hull , Clyde E. and Sandra Rothenberg ( 2008 ) , “ Firm Performance : The Interactions of Corporate Social Performance with Inno- vation and Industry Differentiation , ” Strategic Management Journal , 29 ( 7 ) , 781–89 .
+Jayachandran , Satish , Kartik Kalaignanam , andMeike Eilert ( 2013 ) , “ Product and Environmental Social Performance : Varying Effect on Firm Performance , ” Strategic Management Journal , 34 ( 10 ) , 1255–64 .
+Jensen , Michael and William H. Meckling ( 1976 ) , “ Theory of the Firm : Managerial Behavior , Agency Costs , & Ownership Structure , ” Journal of Financial Economics , 3 ( 4 ) , 305–60 .
+Johnson , Marilyn F. , Susan L. Porter , and Margaret B. Shackell-Dowell ( 1997 ) , “ Stakeholder Pressure and the Structure of Executive Compensation , ” ( accessed October 26 , 2015 ) , [ available at http : //papers.ssrn.com/sol3/papers .
+cfm ? abstract_id=41780 ] .
+Johnson , Richard A. and Daniel W. Greening ( 1999 ) , “ The Effects of Corporate Governance and Institutional Ownership Types on Corporate Social Performance , ” Academy of Management Journal , 42 ( 5 ) , 564–76 .
+Kashmiri , Saim and Vijay Mahajan ( 2014 ) , “ Beating the Recession Blues : Exploring the Link Between Family Ownership , Strategic Marketing Behavior and Firm Performance During Recessions , ” International Journal of Research in Marketing , 31 ( 1 ) , 78–93 .
+Kemper , Jan , Oliver Schilke , Martin Reimann , Xuyi Wang , and Malte Brettel ( 2013 ) , “ Competition-Motivated Corporate Social Responsibility , ” Journal of Business Research , 66 , 1954–63 .
+Korschun , Daniel , C.B .
+Bhattacharya , and Scott D. Swain ( 2014 ) , “ Corporate Social Responsibility , Customer Orientation , and the Corporate Social Responsibility and Shareholder Wealth / 45 Job Performance of Frontline Employees , ” Journal of Market- ing , 78 ( May ) , 20–37 .
+Kothari , S.P. , Jonathan Lewellen , and Jerold B. Warner ( 2006 ) , “ Stock Returns , Aggregate Earnings Surprises , and Behavioral Finance , ” Journal of Financial Economics , 79 ( 3 ) , 537–68 .
+Kotler , Philip ( 2011 ) , “ Reinventing Marketing to Manage the Envi- ronmental Imperative , ” Journal of Marketing , 75 ( July ) , 132–35 .
+——— and Nancy Lee ( 2005 ) , Corporate Social Responsibility : Doing the Most Good for Your Company and Your Cause .
+New York : John Wiley & Sons .
+Krasnikov , Alexander , Saurabh Mishra , and David Orozco ( 2009 ) , “ Evaluating the Financial Impact of Branding Using Trademarks : A Framework and Empirical Evidence , ” Journal of Marketing , 73 ( November ) , 154–66 .
+Kumar , V. , Eli Jones , Rajkumar Venkatesan , and Robert P. Leone ( 2011 ) , “ Is Market Orientation a Source of Sustainable Com- petitive Advantage or Simply the Cost of Competing ? ” Journal of Marketing , 75 ( January ) , 16–30 .
+Luo , Xueming and C.B .
+Bhattacharya ( 2006 ) , “ Corporate Social Responsibility , Customer Satisfaction , and Market Value , ” Journal of Marketing , 70 ( October ) , 1–18 .
+——— and——— ( 2009 ) , “ The Debate over Doing Good : Corporate Social Performance , Strategic Marketing Levers , and Firm- Idiosyncratic Risk , ” Journal ofMarketing , 73 ( November ) , 198–213 .
+Margolis , Joshua D. , Hillary A. Elfenbein , and James P. Walsh ( 2009 ) , “ Does It Pay to Be Good… and Does It Matter ?
+AMeta- Analysis of the Relationship Between Corporate Social and Financial Performance , ” ( accessed October 26 , 2015 ) , [ available at http : //ssrn.com/abstract=1866371 ] .
+McWilliams , Abagail and Donald Siegel ( 1997 ) , “ Event Studies in Management Research : Theoretical and Empirical Issues , ” Academy of Management Journal , 40 ( 3 ) , 626–57 .
+——— and ——— ( 2000 ) , “ Corporate Social Responsibility and Financial Performance : Correlation or Misspecification ? ” Stra- tegic Management Journal , 21 ( 5 ) , 603–09 .
+Menon , Anil and P. Rajan Varadarajan ( 1992 ) , “ A Model of Marketing Knowledge Use Within Firms , ” Journal of Market- ing , 56 ( October ) , 53–71 .
+Modi , Sachin B. , Michael A. Wiles , and Saurabh Mishra ( 2015 ) , “ Shareholder Value Implications of Service Failures in Triads : The Case of Customer Information Security Breaches , ” Journal of Operations Management , 35 , 21–39 .
+Moorman , Christine and Rebecca J. Slotegraaf ( 1999 ) , “ The Con- tingency Value of Complementary Capabilities in Product Development , ” Journal of Marketing Research , 36 ( May ) , 239–57 .
+Morgan , Neil A. and Lopo L. Rego ( 2009 ) , “ Brand Portfolio Strategy and Firm Performance , ” Journal of Marketing , 73 ( January ) , 59–74 .
+——— , Rebecca J. Slotegraaf , and Douglas W. Vorhies ( 2009 ) , “ Linking Marketing Capabilities with Profit Growth , ” Interna- tional Journal of Research in Marketing , 26 ( 4 ) , 284–93 .
+Narasimhan , Om , Shantanu Dutta , and Surendra Rajiv ( 2006 ) , “ Absorptive Capacity of Firms in High-Technology Markets : The Competitive Advantage of the Haves , ” Marketing Science , 25 ( 5 ) , 510–24 .
+Noble , Charles H. and Michael P. Mokwa ( 1999 ) , “ Implementing Marketing Strategies : Developing and Testing a Managerial Theory , ” Journal of Marketing , 63 ( October ) , 57–73 .
+Olsen , Mitchell C. , Rebecca J. Slotegraaf , and Sandeep R. Chandukala ( 2014 ) , “ Green Claims and Message Frames : How Green New Products Change Brand Attitude , ” Journal of Marketing , 78 ( September ) , 119–37 .
+Peloza , John and Jingzhi Shang ( 2011 ) , “ How Can Corporate Social Responsibility Activities Create Value for Stakeholders ?
+A Systematic Review , ” Journal of the Academy of Marketing Science , 39 ( 1 ) , 117–35 .
+Perry , Tod and Marc Zenner ( 2001 ) , “ Pay for Performance ?
+Government Regulation and the Structure of Compensation Contracts , ” Journal of Financial Economics , 62 ( 3 ) , 453–88 .
+Roberts , Peter and Grahame Dowling ( 2002 ) , “ Corporate Repu- tation and Sustained Financial Performance , ” Strategic Man- agement Journal , 23 ( 12 ) , 1077–93 .
+Schoenherr , Tobias , Sachin B.Modi , Srinivas Talluri , and G. Tomas M. Hult ( 2014 ) , “ Antecedents and Performance Outcomes of Strategic Environmental Sourcing : An Investigation of Resource-Based Process & Contingency Effects , ” Journal of Business Logistics , 35 ( 3 ) , 172–90 .
+Sen , Sankar , C.B .
+Bhattacharya , and Daniel Korschun ( 2006 ) , “ The Role of Corporate Social Responsibility in Strengthening Multiple Stakeholder Relationships : A Field Experiment , ” Journal of the Academy of Marketing Science , 34 ( 2 ) , 158–66 .
+Servaes , Henri and Ane Tamayo ( 2013 ) , “ The Impact of Corporate Social Responsibility on Firm Value : The Role of Customer Awareness , ” Management Science , 59 , 1045–61 .
+Shankar , Venkatesh ( 2012 ) , “ Marketing Strategy and Firm Value , ” in Handbook of Marketing Strategy , Venkatesh Shankar and Gregory S. Carpenter , eds .
+Cheltenham , UK : Edward Elgar .
+Sorescu , Alina , Venkatesh Shankar , and Tarun Kushwaha ( 2007 ) , “ New Product Preannouncements and Shareholder Value : Don ’ t Make Promises You Can ’ t Keep , ” Journal of Marketing Research , 44 ( August ) , 468–89 .
+——— and Jelena Spanjol ( 2008 ) , “ Innovation ’ s Effect on Firm Value and Risk : Insights from Consumer Packaged Goods , ” Journal of Marketing , 72 ( March ) , 114–32 .
+Srinivasan , Shuba and Dominique M. Hanssens ( 2009 ) , “ Marketing and Firm Value : Metrics , Methods , Findings , and Future Direc- tions , ” Journal of Marketing Research , 46 ( June ) , 293–312 .
+Srivastava , Rajendra K. , Tasadduq A. Shervani , and Liam Fahey ( 1998 ) , “ Market-Based Assets and Shareholder Value : A Frame- work of Analysis , ” Journal of Marketing , 62 ( January ) , 2–18 .
+Teece , David J. , Gary Pisano , and Amy Shuen ( 1997 ) , “ Dynamic Capabilities and Strategic Management , ” Strategic Management Journal , 18 ( 7 ) , 509–33 .
+Turban , Daniel B. and Daniel W. Greening ( 1997 ) , “ Corporate Social Performance and Organizational Attractiveness to Pro- spective Employees , ” Academy of Management Journal , 40 ( 3 ) , 658–72 .
+Wang , Heli , Jaepil Choi , and Jiatao Li ( 2008 ) , “ Too Little or Too Much ?
+Untangling the Relationship Between Corporate Phi- lanthropy and Firm Financial Performance , ” Organization Sci- ence , 19 ( 1 ) , 143–59 .
+Wiles , Michael A. , Shailendra P. Jain , Saurabh Mishra , and Charles Lindsey ( 2010 ) , “ Stock Market Response to Regulatory Reports of Deceptive Advertising : The Moderating Effect of Omission Bias and Firm Reputation , ” Marketing Science , 29 ( 5 ) , 828–45 .
+——— , Neil A. Morgan , and Lopo L. Rego ( 2012 ) , “ The Effect of Brand Acquisition and Disposal on Stock Returns , ” Journal of Marketing , 76 ( January ) , 38–58 .
+Xiong , Guiyang and Sundar Bharadwaj ( 2013 ) , “ Asymmetric Roles of Advertising and Marketing Capability in Financial Returns to News : Turning Bad into Good and Good into Great , ” Journal of Marketing Research , 50 ( December ) , 706–24 .
+Zellner , Arnold ( 1962 ) , “ An Efficient Method of Estimating Seemingly Unrelated Regression Equations and Tests for Aggregation Bias , ” Journal of the American Statistical Asso- ciation , 57 ( 298 ) , 348–68 .
+46 / Journal of Marketing , January 2016 1 WEB APPENDIX CORPORATE SOCIAL RESPONSIBILITY AND SHAREHOLDER WEALTH : THE ROLE OF MARKETING CAPABILITY Saurabh Mishra & Sachin B. Modi W.1 : Estimation of Marketing Capability ( Adapted from Xiong and Bharadwaj 2013 ) We follow Xiong and Bharadwaj ( 2013 ) to estimate marketing capability .
+In line with Dutta , Narasimhan , and Rajiv ( 1999 ) and Narasimhan , Dutta , and Rajiv ( 2006 ) , stochastic frontier analysis ( SFA ) is used for estimating the inefficiency term , the inverse of which is utilized to capture firm marketing capability ( MktgCapbit ) ( Xiong and Bharadwaj 2013 ) .
+Substituting the input variables and taking natural logarithms on both sides of equation 3 in the paper , we estimate the following equation : ln ( 𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖 ) = 𝛺𝛺0 + 𝛺𝛺1ln ( 𝑆𝑆𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖 ) + 𝛺𝛺2ln ( 𝑅𝑅𝑅𝑅𝑅𝑅𝑖𝑖𝑖𝑖 ) + 𝛺𝛺3ln ( 𝑃𝑃𝑃𝑃𝑆𝑆𝑃𝑃𝑃𝑃𝑖𝑖𝑖𝑖 ) + 𝛺𝛺4 𝑀𝑀𝑅𝑅𝑖𝑖 + 𝜀𝜀𝑖𝑖𝑖𝑖 − 𝜂𝜂𝑖𝑖𝑖𝑖 Where , Salesit = Revenues of firm i in year t ; SGAit = SG & A stock for firm i in year t ; RECit = Receivable stock of firm i in year t ; and PTStkit = Patent stock of firm i in year t ; MCi = Industry and market conditions ( dummy variables based on the two-digit SIC code of firm i ) .
+Patent stock is calculated using a Koyck lag function as : 𝑃𝑃𝑃𝑃𝑆𝑆𝑃𝑃𝑃𝑃 = ∑ 𝛹𝛹𝑖𝑖−𝑘𝑘𝑖𝑖𝑘𝑘=1 ( 𝑃𝑃𝑆𝑆𝑃𝑃𝑆𝑆𝑃𝑃𝑃𝑃 𝑅𝑅𝐶𝐶𝐶𝐶𝑃𝑃𝑃𝑃 ) 𝑘𝑘 .
+Where 𝛹𝛹 represents the weight attached to past values of innovation output .
+Consistent with existing research ( Griliches 1984 ; Narasimhan , Dutta , and Rajiv 2006 ) , we use a value of .4 for 𝛹𝛹 in our estimation of patent stock .
+Patent information was obtained from the NBER database ( https : //sites.google.com/site/patentdataproject/Home ; Hall , Jaffe , and Trajtenberg 2001 ) and 2 supplemented with data from USPTO ’ s patent database .
+The firms in our sample have an average patent count of 22.89 , with a standard deviation of 152.81 .
+This translates to an average patent stock of 41.26 , with a standard deviation of 260.42 for our sample .
+Following Battese and Coelli ( 1992 ) , a consistent estimate for the inefficiency term ηit can be derived under the assumption that the error components are distributed independently of the inputs , εi ~ N ( 0 , σ𝜀𝜀2 ) , ηit~ N ( μ , σ𝜂𝜂2 ) with μ > 0 , E [ εit ηit ] = 0 , and based on the maximum likelihood estimates ( MLE ) of the parameters μ ( mean of ηit ) , σε ( variance of εit ) , and ση ( variance of ηit ) .
+Table W.1 below provides the parameter estimates for the input variables .
+Estimate Intercept 5.5927*** Ln ( SGAit ) .8028*** Ln ( RECit ) .1518*** Ln ( PTStkit ) .0013 Chi-square 21269.47*** *** p < .01 , ** p < .05 , * p < .1 Note : two-digit SIC dummy variables are included but suppressed for conciseness .
+As we note in the paper , we also conduct robustness checks to see if employee and operations capabilities affect CSR ’ s relationship with stock returns and idiosyncratic risk .
+For calculating employee capability , we use sales as outputs and number of employees as inputs in the stochastic frontier .
+For calculating operations capability , we use a cost frontier model in estimating the stochastic frontier and specified Cost of Goods Sold as output and inventories and gross plant , property & equipment ( PPE ) as inputs .
+Additional References in W.1 : Battese , G.E .
+and T.J. Coelli ( 1992 ) , “ Frontier Production Functions , Technical Efficiency and Panel Data , ” Journal of Productivity Analysis , 3 ( 1/2 ) , 153–69 .
+3 Griliches , Zvi eds .
+( 1984 ) .
+R & D , Patents , and Productivity .
+University of Chicago Press , Chicago , IL .
+Hall , Bronwyn H. , Adam B. Jaffe , and Manuel Trajtenberg ( 2001 ) .
+The NBER Patent Citation Data File : Lessons , Insights and Methodological Tools .
+No .
+w8498 .
+National Bureau of Economic Research .
+W.2 : Heckman Selection Equation and Results Heckman Selection Equation ( Final sample firm vs. not ) it = α + β1 ( UΔLeverageit ) + β2 ( UΔEarningsit ) + β3 ( UΔCashit ) + β4 ( UΔSizeit ) + β4 ( UΔCOGSit ) + εit Table W.2 Selection equation results Final Sample vs. nott Estimate Intercept -1.3029*** UΔLeverage -.052 UΔSize .0785*** UΔEarnings .334*** UΔCOGS .2620 UΔCash -.2402*** Chi-square 128.600*** *** p < .01 , ** p < .05 , * p < .1 Note : Estimates for earnings , COGS and Leverage are multiplied by 104 4 W.3 : Calculation of Shareholder Gains from CSR and Marketing Capability Using the sample statistics ( standard deviations ( std dev ) of marketing capability , stock returns , and idiosyncratic risk are .00003 , .0601 and .1571 respectively ) and parameter estimates from the full model , we calculate shareholder gains as follows : For the main effect of marketing capability , one std dev ( .00003 ) change in relative marketing capability changes firm value by .00296 ( 98.81 x .00003 ) and idiosyncratic risk by -.00392 ( -130.95 x .00003 ) .
+Relative to the variability in stock returns ( .0601 ) and unanticipated changes in idiosyncratic risk ( .1571 ) , these represent approximately 4.92 % ( .00296/.0601 ) and 2.7 % ( .004392/.1571 ) changes respectively .
+With respect to the complementary effect , one std dev change in marketing capability will amplify the effect of CSR on stock returns by .00213 ( 71.077 x .00003 ) and attenuate the effect on idiosyncratic risk by - .00700 ( -233.454 x .00003 ) .
+These represent changes of approximately 3.54 % ( .00213 /.0601 ) and 4.45 % ( .00700 /.1571 ) respectively .
+As such , based on the average market capitalization in our sample , one std dev change in marketing capability will lead to an estimated change of 242.34 million ( 3.54 % of 6845.798 ) in stock value as a result of the complementary effect of marketing capability , which is in excess of the change of 336.81 ( 4.92 % of 6845.798 ) due to the main ( direct ) effect of marketing capability .
+Copyright of Journal of Marketing is the property of American Marketing Association and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder 's express written permission .
+However , users may print , download , or email articles for individual use .

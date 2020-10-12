@@ -1,0 +1,597 @@
+Goerg_JournLabEco_2010_WLpV.pdf
+aydQDcqeAfkhb6GkI0me_dk75TF0-Goerg_JournLabEco_2010_WLpV.pdf.plain.html
+
+747 [ Journal of Labor Economics , 2010 , vol .
+28 , no .
+4 ] 2010 by The University of Chicago .
+All rights reserved .
+0734-306X/2010/2804-0002 $ 10.00 Treating Equals Unequally : Incentives in Teams , Workers ’ Motivation , and Production Technology Sebastian J. Goerg , Max Planck Institute for Research on Collective Goods Sebastian Kube , University of Bonn Ro ’ i Zultan , Max Planck Institute for Economics The importance of fair and equal treatment of workers is at the heart of the debate in organizational management .
+In this regard , we study how reward schemes and production technologies affect effort provision in teams .
+Our experimental results demonstrate that unequal rewards can potentially increase productivity by fa- cilitating coordination and that the effect strongly interacts with the exact shape of the production function .
+Taken together , our data highlight the relevance of the production function for orga- nization construction and suggest that equal treatment of equals is neither a necessary nor a sufficient prerequisite for eliciting high performance in teams .
+I .
+Introduction A general feature of incentive schemes in organizations is a nonuniform distribution of benefits among its agents , which usually accounts for the We thank seminar participants at the University of Bonn , Mannheim , and Co- logne and in particular Gary Charness , Christoph Engel , Oliver Guertler , Bernd Irlenbusch , Matthias Kraekel , Stefanie Aniela Lehmann , Sandra Maximiano , Reinhard Selten , and Eyal Winter for helpful discussions .
+We also thank Darius Wieczorek for programming parts of the experiment and Brian Cooper for proof- This content downloaded from 128.250.144.144 on July 02 , 2019 12:55:35 PM All use subject to University of Chicago Press Terms and Conditions ( http : //www.journals.uchicago.edu/t-and-c ) .
+748 Goerg et al .
+heterogeneity in agents ’ ability and performance .
+As long as the discrim- ination is based on individual differences , that is , as long as unequal agents are rewarded unequally , there should be little room for fairness consid- erations to induce dissonance among the agents.1 However , a recent the- oretical model developed by Eyal Winter ( 2004 ) shows that it might even be optimal to treat equal agents unequally , depending on externalities given by the production function .
+This surprising result , derived under the standard assumptions of fully rational , self-centered , and money-max- imizing behavior , seems to stand in sharp contrast to the implications from research on fairness and equity preferences , whose bottom line is that “ even a small intrinsic concern for justice .
+.
+.
+may have significant effects on .
+.
+.
+wage structure ” ( Konow 2000 , 1089 ; see also Selten 1978 ; Mowday 1991 ; Young 1994 ; Fehr and Schmidt 1999 ; Bolton and Ockenfels 2000 ) .
+In this article , we experimentally explore the interaction in teams and test within the framework of Winter ’ s model whether the psycho- logical cost of the inequality induced by a discriminating mechanism de- ters from the efficiency of the theoretical optimal mechanism .
+Thus , to the best of our knowledge , we report the first empirical evidence on the interplay among equity , coordination , and production functions within teams.2 The general model as described in Winter ( 2004 ) features n risk-neutral agents who work on a project .
+Each agent i decides simultaneously whether to work ( ) or to shirk ( ) .
+Exerting effort is connectede p 1 e p 0i i with costs c , with c being constant across all agents .
+Individual effort is assumed to be nonobservable and noncontractible .
+Instead , agents ’ re- wards are contingent on the success of the project ; that is , agents receive individual rewards if the project succeeds and none oth-b p ( b , … , b ) 1 n erwise .
+The probability of the project ’ s success is specified as a func-p ( k ) tion of k agents exerting effort , mapping the effort profiles to .
+In [ 0 , 1 ] reading .
+Financial support from the Fritz Thyssen Foundation ( Az .
+10.06.1.118 ) and from the Minerva Foundation is gratefully acknowledged .
+Contact the cor- responding author , Sebastian Kube , at kube @ coll.mpg.de .
+1 A necessary assumption for this statement is that agents are aware of the individual differences and do not misperceive the direction of the differences , which might , e.g. , not hold true if agents are overconfident about their own performance ( see Ross and Sicoly [ 1979 ] for early evidence on overconfidence about contribution to a joint project ) .
+2 The existing literature on team production and teamwork ( e.g. , Alchian and Demsetz 1972 ; Nalbantian and Schotter 1997 ; Irlenbusch and Ruchala 2008 ) usu- ally focuses on the problem of free riders and provides means to organize and discipline selfish workers .
+Complementing this line of research , our article points to the difficulties that can arise if incentive schemes originally designed for selfish agents are applied to other-regarding agents ; thus , interestingly , in our setup it is the absence of selfish agents , and not their presence , that constitutes a potential source of inefficiency for work teams .
+This content downloaded from 128.250.144.144 on July 02 , 2019 12:55:35 PM All use subject to University of Chicago Press Terms and Conditions ( http : //www.journals.uchicago.edu/t-and-c ) .
+Treating Equals Unequally 749 this sense , can be interpreted as the project ’ s technology or productionp ( k ) function .
+We assume to be strictly increasing in k. Depending on thep ( k ) exact specification of , the production function can be modeled top ( k ) have increasing or decreasing returns to scale .
+By increasing returns to scale , we mean that the production function is one of complementarity ( i.e. , that increases in k ) , whereas a production functionp ( k 1 ) p ( k ) of substitutability has decreasing returns to scale ; that is , p ( k 1 ) is decreasing in k ( ) .3p ( k ) k [ 0 , … , n 1 ] A reward vector b ( i.e. , a reward mechanism ) is said to be strongly incentive inducing if it induces all agents to exert effort as a unique Nash equilibrium , and it is optimal if it does so at a minimal cost of rewards .
+The mechanism is symmetrical if rewards are constant across all agents .
+It can be shown that such a symmetrical , optimal , strongly incentive- inducing mechanism exists if and only if the production function is one of substitutability .
+Conversely , a production function of complementarity implies the optimal , strongly incentive-inducing mechanism to be fully discriminating , even if all agents are perfectly symmetrical .
+Consider that a technology of increasing returns to scale is a sufficient , but not necessary , condition for full discrimination .
+In fact , it is only necessary that an agent ’ s incentive to exert effort increases with the num- ber of other agents who do so , which , for example , might also be caused by some psychological effect such as peer pressure ( see Kandel and Lazear 1992 ; Barron and Gjerde 1997 ; Falk and Ichino 2006 ; Mas and Moretti 2009 , and the references therein ) .
+The purpose of our study is to experimentally test the key findings of Winter ’ s model , namely , whether subjects ’ behavior is indeed sensitive to the externalities given by the production technology and whether a major incentive advantage really exists when discriminating among perfectly identical agents or whether the psychological cost of the unequal treatment of equals drives a wedge between the initially predicted and the actually observed efficiency .
+Ideally , these questions would be examined with “ cloned ” workers acting in “ cloned ” work environments that differ only with respect to the production function and the reward schemes .
+To come close to this ideal world , we introduce a simple and parsimonious labo- ratory experiment that allows us to analyze the interactions among pro- duction function , equity considerations , and reward scheme , while at the same time ensuring that agents are perfectly identical .
+In the experiment , three players work on a joint project and exert costly efforts .
+Their total sum of effort determines the number of some goods produced by the 3 For the sake of simplicity , we only consider the two extreme cases of in- creasing or decreasing returns to scale here .
+In general , the production function could take any form , as long as it satisfies the assumption of being strictlyp ( k ) increasing in k. This content downloaded from 128.250.144.144 on July 02 , 2019 12:55:35 PM All use subject to University of Chicago Press Terms and Conditions ( http : //www.journals.uchicago.edu/t-and-c ) .
+750 Goerg et al .
+joint project for a given production function .
+The payoff of a player is given by productivity ( i.e. , the number of produced goods ) multiplied by an individual reward , minus the cost of effort .
+We create four different treatments by manipulating the characteristics of the production function ( either a function of complementarity or of substitutability ) as well as of the reward scheme ( either a symmetrical or a discriminating mechanism ) .
+We find that , as predicted by Winter ’ s model , the subjects in our ex- periment respond to the shape of the production function .
+The discrim- inating reward scheme under the production function of complementarity achieves almost maximum efficiency , whereas it leads to significantly lower efficiency rates under the production function of substitutability .
+Moreover , our data suggest that subjects ’ effort choices are highly sensitive to their own reward but largely unresponsive to the rewards of the other two subjects in their group .
+The disadvantaged player ( receiving the low reward ) regularly exerts effort under the production function of com- plementarity , notwithstanding the unequal treatment of equals .
+Con- versely , the symmetrical reward scheme significantly hampers efficiency , demonstrating that equal treatment of equals is not necessarily a prereq- uisite for eliciting high performance in teams and that unequal treatment can facilitate coordination within the workforce .
+The insights gained from our experiment are important for research on optimal mechanism design in general but especially in the context of work contracts and organizations .
+As Winter puts it , “ A large number of models in personnel economics establishes that unequal treatment of unequal agents may have major incentive advantages .
+The particular importance of demonstrating the optimality of treating equals unequally is that it potentially implies an additional gain for inequality in each of these mod- els ” ( 2004 , 765–66 ) .
+We complement this assertion by ascertaining it in an empirical way .
+In this regard , we contribute to the question of equality versus in- equality , which is at the heart of the debate in organizational management .
+Internal inequity is thought to have a tendency to lead to morale problems and to interfere with teamwork ( see Akerlof and Yellen 1990 ; Milgrom and Roberts 1992 ; Bewley 1999 , chap .
+6 ) , whereas equal wages are usually associated with positive effects ( e.g. , increased peer monitoring or lower transaction costs ; see Prendergast 1999 or Knez and Simester 2001 ) .
+How- ever , as Lazear ( 1989 , 561 ) puts it , “ it is far from obvious that pay equality has these effects. ” For example , equal wages do not account for hetero- geneity in agents ’ ability and performance , and payment is not linked to the individual ’ s marginal product , which in turn can lead to free riding among selfish agents ( see Holmström 1982 ) .
+Moreover , as we demonstrate in our setup , equal rewards make it hard to form exact beliefs about the other ’ s effort .
+In contrast , the asymmetry that is created by unequal re- This content downloaded from 128.250.144.144 on July 02 , 2019 12:55:35 PM All use subject to University of Chicago Press Terms and Conditions ( http : //www.journals.uchicago.edu/t-and-c ) .
+Treating Equals Unequally 751 wards has the potential to facilitate coordination within the workforce because it reduces strategic uncertainty about each other ’ s actions .
+In real-life organizations , this discrimination is often implemented through nonmonetary rewards ( e.g. , prestige ) or by using artificial class- ifications or ( job ) titles for seemingly similar tasks ( e.g. , project head or team captain ) .4 It is often hidden to avoid negative reactions of inequality- averse workers or fixed by an internal ( pay ) structure .
+For example , law- yers , consultants , and accountants are paid according to seniority .
+This special form of hidden discrimination creates common knowledge about the stakes that everyone has in the project ’ s success and thus fosters cooperation and coordination , while at the same time it does not invoke equity concerns because everyone knows that his turn will come to be senior partner .
+Our experimental results show that under a production function of complementarity , even transparent discrimination contributes to efficiency , yet hidden discrimination is effective .
+Our study differs from existing experimental studies that analyze the interaction between social preferences and reward schemes .
+First , the evi- dence up to now mainly stems from bilateral gift-exchange games between a principal and a single agent ( e.g. , Fehr , Kirchsteiger , and Riedl 1993 ; Fehr , Gächter , and Kirchsteiger 1997 ) .
+What is usually observed in this setup is a positive wage-effort relationship ; if the principal shares a large part of the total output with the worker , the worker feels fairly treated and reciprocates by exerting a high effort .
+While this suggests that most workers care about fairness along a vertical dimension , our question about possible horizontal comparisons within the workforce is usually not ad- dressed.5 Second , the existing studies are mainly conducted in an incom- plete-contract framework in which effort or wage is noncontractible , while we allow for complete contracts.6 Third , the usual experimental setup features a principal who can set wages anew in each round , but this introduces uncontrolled elements of intentionality and reputation .
+Agents 4 The team captain , as the one carrying the responsibility and possible blame for unsuccessful results , is highly motivated to exert effort .
+Therefore , he functions to incentivize the other team members in the same way as the high-reward agent in our model induces cooperation and high productivity .
+See also Winter ( 2004 , 769 ) .
+5 Two exceptions are notable and feature a multiagents setup .
+In Charness and Kuhn ( 2007 ) , two workers differ in productivity .
+The authors find that coworkers ’ wages do not matter much for agents ’ decisions .
+Conversely , Abeler et al .
+( forth- coming ) demonstrate that paying equal wages to workers exerting different efforts leads to a strong decline in efficiency over time .
+6 In Keser and Willinger ( 2000 ) , agents ’ actions are hidden , but wage payments can be made contingent on the observed output .
+However , again the focus is on the vertical comparison between a principal and a single agent .
+Fehr , Klein , and Schmidt ( 2007 ) provide a direct comparison on the efficiency of incomplete and complete contracts in a bilateral setup .
+This content downloaded from 128.250.144.144 on July 02 , 2019 12:55:35 PM All use subject to University of Chicago Press Terms and Conditions ( http : //www.journals.uchicago.edu/t-and-c ) .
+752 Goerg et al .
+Table 1 Production Function Units Produced Production Function e p 0ii e p 1ii e p 2ii e p 3ii Complementarity ( COM ) 20 40 65 100 Substitutability ( SUB ) 20 55 80 100 can withhold effort to punish and enforce principals to pay higher wages in the future , which to us not only seems difficult to reconcile with real- world work relationships but additionally is outside the scope of Winter ’ s model .
+Fourth , to the best of our knowledge , we are the first to pay attention to the important role of the production function in a labor market setting.7 Our finding that agents ’ behavior is sensitive to the shape of the production function should be taken into account in future em- pirical research on the interaction between social preferences and reward schemes .
+The remainder of this article is organized as follows : in the next section , we describe the experimental design and derive theoretical predictions .
+Subsequently , the experimental results are presented and discussed in Sec- tion III , and Section IV concludes .
+II .
+The Experiment A .
+Experimental Design Exact control over players ’ risk preferences and over the underlying cost and production functions is crucial for testing Winter ’ s theoretical model .
+We therefore use a deterministic representation of his model for the ex- periment.8 In our game , we have three agents working on a joint project .
+Each agent i individually decides whether to work ( effort level ) e p 1i or to shirk ( effort level ) , and the individual cost of exerting efforte p 0i is 90 talers ( our experimental currency ) .
+The individual payoff of agent i is given by the total number of goods produced multiplied by the agent ’ s individual reward per unit produced , minus his effort costs .
+The output of the project , that is , the number of produced units , depends on the number of agents choosing to work and on our treatment variable eii production function ( see table 1 ) .
+The first case ( COM ) describes a production function of complemen- 7 Normann , Ruffle , and Snyder ( 2007 ) examine the relation between production function and the existence of large-buyers ’ discounts .
+8 The following game can easily be rewritten in a probabilistic way , which is the interpretation used by Winter ( 2004 ) .
+We instead opt for the deterministic representation to impose risk neutrality over the final outcome of the project ; i.e. , we pay the expected value of a lottery rather than actually implement the lottery .
+This allows us to abstract from subjects ’ individual risk preferences .
+This content downloaded from 128.250.144.144 on July 02 , 2019 12:55:35 PM All use subject to University of Chicago Press Terms and Conditions ( http : //www.journals.uchicago.edu/t-and-c ) .
+Treating Equals Unequally 753 tarity .
+The technology has increasing returns to scale since the number of produced units ( the output of the project ) is if all agentsP ( 0 ) p 20 shirk , if two agents shirk , if only one agent shirks , P ( 1 ) p 40 P ( 2 ) p 65 and if all agents work ; thus , P ( 3 ) p 100 P ( 3 ) P ( 2 ) 1 P ( 2 ) P ( 1 ) 1 .
+In the second case ( SUB ) , we have a production function ofP ( 1 ) P ( 0 ) substitutability .
+The technology has decreasing returns to scale since .P ( 3 ) P ( 2 ) !
+P ( 2 ) P ( 1 ) !
+P ( 1 ) P ( 0 ) Agents ’ rewards are made contingent on the output of the project and the reward scheme or remuneration scheme , which we vary across treat- ments .
+The reward scheme in treatments 444COM and 444SUB is sym- metrical .
+Each agent in the group receives a reward of 4 talers per produced unit .
+Conversely , the mechanism implemented in treatments 345COM and 345SUB is a discriminating one : agents ’ reward per produced unit is either 3 , 4 , or 5 talers ( with each possibility occurring exactly once ) .
+At the same time , the sum of the individual rewards does not differ across the reward mechanisms .
+For example , the total reward costs when all agents shirk equals under the symmetrical reward scheme3 ( 4 # 20 ) p 240 and under the discriminating reward3 # 20 4 # 20 5 # 20 p 240 scheme .
+B .
+Implementation Our experiment was conducted in a labor market framework , avoiding loaded terms ( e.g. , “ shirk ” or “ success ” ) .
+We used the same procedure in each treatment condition .
+On arrival , participants were randomly divided into groups of three .
+In the treatments with a discriminating reward scheme , the three possible rewards were randomly assigned within each group .
+The written instructions were distributed and read out aloud .
+Af- terward , subjects could pose questions in private and had to answer a set of computerized control questions to ensure that everybody had under- stood the game and to make subjects familiar with the operation of the program .
+Then subjects were told their own reward and the other players ’ rewards and simultaneously had to decide between working or shirking .
+Afterward , it was announced that we were additionally interested in their beliefs about the other subjects ’ behavior , and each subject had to state what they expected the first and the second other players in their group to choose.9 If their belief fully matched the actual behavior , subjects were paid an additional 20 talers .
+At this point , we announced that five ad- ditional rounds of the game would follow in which everything was kept constant ( individual rewards , costs , production function , and group com- 9 For example , a player receiving a reward of 3 talers per unit had to choose among 4 and 5 shirk , 4 and 5 work , 4 works and 5 shirks , or 4 shirks and 5 works .
+To keep the procedure constant , in 444COM and 444SUB we also asked separately for the behavior of the two other players in the group .
+This content downloaded from 128.250.144.144 on July 02 , 2019 12:55:35 PM All use subject to University of Chicago Press Terms and Conditions ( http : //www.journals.uchicago.edu/t-and-c ) .
+754 Goerg et al .
+position ) .
+This was done to allow for possible learning to take place.10 After our experiment , subjects had to complete a social-value orientation test and a socioeconomic questionnaire.11 The computerized experiments were run in 2007 and 2009 at the Uni- versity of Bonn .
+Participants were randomly recruited via e-mail invitation out of approximately 3,000 persons from the BonnEconLab ’ s subject pool ( including mostly undergraduate students from a large variety of fields ) .
+For each treatment , we ran two sessions with 18 subjects each , totaling 12 independent matching groups ( all rounds ) or 36 independent decisions ( first round only ) per treatment.12 A session lasted approximately 70 minutes .
+Subjects were paid for their decision and their belief in the first round and additionally for one randomly selected round ( which was con- stant across all subjects within a session ) out of the subsequent five rounds .
+Talers earned in the experiment were converted at a rate of 80 talers p i1 .
+Subjects received a show-up fee of i4 and earned on average ap- proximately i7 in the main experiment .
+C. Behavioral Predictions Figure 1 shows a player ’ s payoffs as a function of his reward type and his decision .
+As can be seen , the reward per unit produced that is needed to make an agent just indifferent between working and shirking depends on the ( belief about the ) decisions of the other two players in the group .
+Let denote the reward that is needed if an agent believes that both theX0 other two agents in the group will shirk , and let and be the cor-X X1 2 responding values when expecting one and none , respectively , of the oth- ers to shirk .
+Under a production function of complementarity , is givenX0 as ; that is , the payoff from working must40X 90 p 20X ⇔ X p 4.50 0 0 equal the payoff from shirking under the belief that both the others shirk .
+Analogously , we find that and .X p 3.6 X p 90/35 ≈ 2.61 2 This implies that the high-reward player in 345COM , receiving a re- ward of 5 per unit produced , will always work , irrespective of his beliefs ( since ) .
+Anticipating this , the feasible beliefs for the me-5 1 X 1 X 1 X0 1 2 10 We acknowledge that repeated play may have promoted reciprocal strategies , so that the results might have been different under random rematching .
+However , as will be shown in the next section , the results do not support this conjecture , as they are qualitatively in line with the baseline model and remain stable after the announcement of the additional rounds .
+11 The “ ring test ” is described , e.g. , in Griesinger and Livingston ( 1973 ) or Liebrand ( 1984 ) ; see also Beckenkamp ( 1995 ) for an early application in economics .
+12 Subjects were recruited using ORSEE by Greiner ( 2003 ) .
+The experiment was programmed in Pascal using RATimage by Abbink and Sadrieh ( 1995 ) .
+The questionnaire and the ring test were conducted using zTree by Fischbacher ( 2007 ) .
+Sessions for treatment 444SUB were added during the revision process in 2009 .
+Unfortunately , in one session of treatment 444COM , only 15 subjects showed up , so we are missing one of the 12 independent observations in this treatment .
+This content downloaded from 128.250.144.144 on July 02 , 2019 12:55:35 PM All use subject to University of Chicago Press Terms and Conditions ( http : //www.journals.uchicago.edu/t-and-c ) .
+Treating Equals Unequally 755 Fig .
+1.—Player ’ s payoff function by type and decision .
+In both treatments , the payoffs for the 5-type players from working dominate the payoffs from shirking , and so the possibility of zero matched agents working can be eliminated for the other players .
+Now working dominates shirking for the 4-type players under complementarity , while the opposite is true for the 3-type players under substi- tutability .
+The remaining player in both treatments now maximizes his payoff by working .
+Thus , the equilibria are derived through repeated elimination of dom- inated strategies .
+The multiple pure equilibria of the egalitarian treatments are revealed by the crossover of the payoff functions of the 4-type player under the corresponding production function .
+Note that the gain from working can be seen to increase ( diminish ) under complementarity ( substitutability ) .
+dium-reward player are such that he also has an optimal strategy to work ( since ) .
+The only feasible belief of the low-reward player is4 1 X 1 X1 2 thus to expect both the others to work , in which case his reward induces him to work as well ( since ) .
+Hence , the discriminating scheme3 1 X2 enables players to form exact beliefs about the other players ’ decisions , although they move simultaneously , and repeated elimination of strongly dominated strategies leads to the unique Nash equilibrium of all players exerting effort .
+Conversely , this line of reasoning is not applicable when using the symmetrical reward scheme .
+Each player works only if he has the belief that at least one other player exerts effort as well ( since X 1 4 1 X 10 1 ) .
+This implies that in 444COM we have two equilibria in pure strat-X2 egies : either all agents work or all agents shirk ( with all work being the This content downloaded from 128.250.144.144 on July 02 , 2019 12:55:35 PM All use subject to University of Chicago Press Terms and Conditions ( http : //www.journals.uchicago.edu/t-and-c ) .
+756 Goerg et al .
+payoff- and risk-dominant equilibrium ) .
+Apart from that , an equilibrium in mixed strategies exists in which the probability of shirking is approx- imately 0.77 ( and all players know that each of the other players will shirk with this probability ) .
+If we switch to the production function of substitutability , first consider that a naive principal might be tempted to prefer this technology over the previous one .
+For any given effort sum , the number of units produced is always equal or higher under substitutability than under complemen- tarity .
+However , in 345SUB the discriminating reward scheme is not op- timal anymore because the threshold order is reversed under a production function of substitutability ( i.e. , , , and ) .
+Thus , X ≈ 2.6 X p 3.6 X p 4.50 1 2 the low-reward player shirks in equilibrium , while the other two players work , and all players hold corresponding beliefs .
+In 444SUB , an agent receives a higher payoff from exerting effort if no more than two of the other agents exert effort ( since ) .X 1 4 1 X 1 X2 1 0 Hence , there are three asymmetrical equilibria in pure strategies in which one of the agents shirks while the other two agents exert effort .
+As in 444COM , an additional ( symmetrical ) mixed-strategies equilibrium exists , in which the probability of shirking is approximately 0.22 .
+The predictions above crucially depend on the assumption of subjects being self-centered money maximizers .
+By contrast , part of the literature ( not only ) in behavioral and experimental economics suggests that , apart from pure money maximization , a nonnegligible fraction of subjects is strongly motivated by other-regarding considerations .
+In particular , sub- jects exhibit a basic desire for equity , including a preference for equal treatment of equals ( see Selten 1978 ; Mowday 1991 ; Roemer 1996 ) and a preference for equal payoff distributions ( see Fehr and Schmidt 1999 ; Bolton and Ockenfels 2000 ) .
+In the presence of equity considerations , any discriminating reward scheme comes at some hidden costs that incentivize agents to shirk , even under an initially incentive-inducing mechanism .
+Slight equity preferences are already enough to let the superiority of the discriminating rewards vanish in 345COM.13 If agents ’ loss of utility from another agent receiving a higher payoff than their own is as low as one-sixth of the loss of utility of reducing their own payoff by the same amount , all shirk becomes the unique equilibrium in 345COM.14 Even worse , because of the recursive 13 Throughout the article , equity preferences are defined over payoffs rather than effort levels ( see Mohnen , Pokorny , and Sliwka 2008 ) .
+14 The intuition behind this hypothesis can easily be seen if we reconceive above-equilibrium derivations using an extended utility function that incorporates equality preferences , e.g. , the function described in Fehr and Schmidt ( 1999 ) .
+Using their model , all shirk is a possible equilibrium in 345COM if anda ≥ 1/3 b p , which is a very conservative estimate in comparison with empirical estimations.0 Since the exact calculations are rather tedious and lengthy , they are available from the authors on request only .
+This content downloaded from 128.250.144.144 on July 02 , 2019 12:55:35 PM All use subject to University of Chicago Press Terms and Conditions ( http : //www.journals.uchicago.edu/t-and-c ) .
+Treating Equals Unequally 757 Table 2 Treatment Variations and Equilibria Equilibrium Treatment Production Function Reward Scheme Self-Centered Inequality Averse 345COM Complementarity Discriminating ( 1,1,1 ) ( 0,0,0 ) , ( 0,0,1 ) , ( 0,1,1 ) 345SUB Substitutability Discriminating ( 0,1,1 ) ( 0,0,1 ) 444COM Complementarity Symmetrical ( 1,1,1 ) , ( 0,0,0 ) No additional equili- bria 444SUB Substitutability Symmetrical ( 0,1,1 ) , ( 1,0,1 ) , ( 1,1,0 ) ( 0,0,0 ) , ( 0,0,1 ) , ( 0,1,0 ) , ( 1,0,0 ) , ( 1,1,1 ) Note.—Shirk p 0 ; work p 1. nature of the equilibrium in Winter ’ s model , the sheer belief that one or both of the other agents might have equity preferences can alone lead to a loss of efficiency , even if all agents themselves are strictly self-centered money maximizers .
+By contrast in 444COM , equity preferences provide additional incentives not to shirk .
+If a subject expects the other two players in his group to work , shirking will reduce his payoff and lead to a less equitable payoff distribution ( 260 , 170 , 170 instead of 310 , 310 , 310 ) , which is something that ( not only ) an inequality-averse subject would never prefer .
+Under substitutability , the effect of discrimination is rather robust to equity preferences .
+In 345SUB , a smaller number of agents are exerting effort in equilibrium as common envy increases .
+By contrast , in 444SUB , the predictions crucially hinge on the exact shape of the assumed equity preferences .
+The behavioral predictions are summarized in table 2 .
+It lists the possible equilibria in pure strategies for self-centered subjects and the equilibria that might additionally emerge in the presence of equity considerations .
+III .
+Experimental Results In this section , first we show that workers ’ behavior is indeed sensitive to the type of production function they face in their joint project .
+The unequal treatment of equals does not necessarily hamper full effort pro- vision .
+We then present data on a change in the reward scheme from a discriminating to an egalitarian one , which suggests that equal treatment of equals does not necessarily promote full effort provision within a team of agents .
+Nevertheless , as we finally show , signs of equity concerns are present in our data .
+A .
+Sensitivity to the Production Function Figure 2 shows mean effort levels over all rounds , conditional on players ’ reward type and treatment .
+Table 3 provides summary statistics and test results .
+Focusing on the discriminating reward scheme , overall effort levels are significantly higher under a production function of complementarity than This content downloaded from 128.250.144.144 on July 02 , 2019 12:55:35 PM All use subject to University of Chicago Press Terms and Conditions ( http : //www.journals.uchicago.edu/t-and-c ) .
+758 Goerg et al .
+Fig .
+2.—Mean effort per treatment under a production function of substitutability : 91.7 % of all effort de- cisions in 345COM are to work , compared to only 65.3 % in treatment 345SUB .
+In 345COM , six out of 12 groups exert full effort in all rounds ( nine out of 12 in all but one round ) , whereas the same is never observed in 345SUB .
+The difference in efficiency between 345COM and 345SUB is predicted to stem from a difference in the behavior of the low-reward type in equilibrium .
+The average effort level of the low-reward type in 345SUB is significantly lower than that of the other two reward types ( 22.2 % vs. 81.9 % and 91.7 % ) .
+It is also significantly lower than the effort level of the same type in 345COM ( 22.2 % vs. 88.9 % ) .
+Also , in the first round , the number of low-reward players exerting effort is significantly higher in 345COM than in 345SUB ( 16.7 % vs. 75 % ) .15 The effort levels of the medium- and high-reward types in 345COM ( 88.9 % and 97.2 % , respectively ) do not differ significantly from the cor- responding levels in 345SUB .
+Overall , when standard equilibrium predicts 15 Fisher ’ s exact test .
+Comparing the sums of effort per matchingp p .012 group in the first round and in the last round , we find no indication of a significant time trend ( two-sided sign-rank test in 345COM , and in 345SUBp p .75 p p ) .
+For further details , compare the corresponding time-series data of figs .
+B1.37 and B2 .
+This content downloaded from 128.250.144.144 on July 02 , 2019 12:55:35 PM All use subject to University of Chicago Press Terms and Conditions ( http : //www.journals.uchicago.edu/t-and-c ) .
+Treating Equals Unequally 759 Table 3 Summary Statistics and Results of Statistical Comparisons Treatment Treatment 345COM 345SUB 444COM 444SUB Summary statistic : * Mean effort level round 1 ( % ) 88.9 66.7 78.8 66.7 Mean effort level rounds 1–5 ( % ) 91.7 65.3 72.2 73.6 SD round 1 .1641 .1421 .1681 .3482 SD rounds 1–5 .1580 .1421 .1681 .3482 Statistical comparison round 1 ( p-values Fisher ’ s exact ) : † 345COM .0230 .2080 .0230 345SUB .1960 .5990 444COM .1960 Statistical comparison rounds 1–5 ( p-values , rank-sum test ) : ‡ 345COM .0004 .0649 .0309 345SUB .6850 .4410 444COM 1 Mean effort level per reward type : Low-reward type ( 3 ; % ) 88.9 22.2 Medium-reward type ( 4 ; % ) 88.9 81.9 72.2 73.6 High-reward type ( 5 ; % ) 97.2 91.7 Comparison across treatments within reward type ( p-values , rank-sum test ) : § Low-reward type ( 3 ) : 345COM .001 Medium-reward type ( 4 ) : 345COM .2058 .0260 .0127 345SUB .2526 .2508 444COM 1 High-reward type ( 5 ) : 345COM .3202 Comparison within treatment across reward types ( p-values , sign- rank test ) : k Low versus medium ( 3 vs. 4 ) .3930 .0074 Low versus high ( 3 vs. 5 ) .0261 .0039 Medium versus high ( 4 vs. 5 ) .1577 .1248 Note.—All reported p-values are two sided .
+* SD is given over the mean frequencies of work per matching group .
+† Effort level of each subject is one independent observation .
+‡ Mean effort level of each matching group is one independent observation .
+§ Mean effort level of each player is one independent observation .
+k Players with different reward types in one matching group are treated as dependent observations .
+effort exertion , more than 80 % do so .
+In the one case ( low-reward type in 345SUB ) in which the equilibrium strategy is to shirk , almost 80 % of the decisions are to shirk ( table 3 ) .
+Subjects ’ individual beliefs are in line with these findings .
+In 345COM , medium- and high-reward players believe that the low-reward player will work in 85 % of all cases , while in 345SUB the low-reward player is expected to work in only 33 % of all instances.16 Ninety-three percent of 16 Two-sided rank-sum test : medium reward ; high reward .p p .0004 p p .0007 This content downloaded from 128.250.144.144 on July 02 , 2019 12:55:35 PM All use subject to University of Chicago Press Terms and Conditions ( http : //www.journals.uchicago.edu/t-and-c ) .
+760 Goerg et al .
+the decisions in 345COM and 77 % of the decisions in 345SUB are best responses to stated beliefs .
+Result 1 .
+In line with Winter ’ s model , treating equals unequally by using a discriminating reward scheme leads to almost full efficiency under a production function of complementarity , whereas the same reward scheme does not perform well under a production function of substitut- ability .
+B .
+Sensitivity to the Reward Scheme Given a production function of complementarity and keeping the total cost of the reward scheme constant , the mean efficiency in round 1 is lower under the symmetrical reward scheme ( 78.9 % ) than under the dis- criminating one ( 88.9 % ) .
+Over the course of the experiment , the difference grows larger and becomes significant ( 72.2 % vs. 91.7 % ) .17 On average , every reward type exerts more effort in the discriminating than in the symmetrical treatment .
+Only three out of 11 groups exert full effort in all rounds , compared to six out of 12 groups in 345COM ( four out of 11 vs. nine out of 12 in all but one round ) .
+Moreover , the standard de- viation ( SD ) of group efficiencies is significantly higher in 444COM than in 345COM.18 Our result suggests that equal treatment of equals does not necessarily promote full effort provision within a team of agents .
+A potential reason for the observed difference in efficiency between the symmetrical and the discriminating scheme under complementarity might be the introduction of the additional all-shirk equilibrium in treatment 444COM .
+Even though it is payoff- and risk-dominated by the all-work equilibrium , the multiplicity of equilibria introduces strategic uncertainty ( see Van Huyck , Battalio , and Beil 1990 ) .
+Players formulating beliefs are uncertain whether the other players in their group will work or shirk , which is visible in our data : 83 % expect both other players to work in 345COM , whereas only 62 % do so in 444COM ( two-sided rank-sum test ) .
+Inp p .0979 444COM , this translates into low efficiency rates and a high variance of group efficiencies , suggesting that strategic considerations shaped by the 17 Note that although the difference becomes significant over time , we find no significant time trend in 444COM .
+Comparing the mean effort level of work per matching group between the first and the last round reveals no significant dif- ference ( two-sided sign-rank test ; see also the time-series data in fig .
+B3 ) .p p .53 18 SD in 444COM is 0.233 ; SD in 345COM is 0.158 ; Conover ’ s squared-ranks test .
+Notice that the difference is not an artifact resulting from the highp p .0145 degree of efficiency in 345COM ( which puts a bound on the variance ) , as the group efficiencies in 345SUB—in which the overall efficiency is similar to that in 444COM—show an even lower SD of 0.068 ( see fig .
+B5 ) .
+This content downloaded from 128.250.144.144 on July 02 , 2019 12:55:35 PM All use subject to University of Chicago Press Terms and Conditions ( http : //www.journals.uchicago.edu/t-and-c ) .
+Treating Equals Unequally 761 reward scheme are crucial and outweigh possible equity preferences of the subjects.19 The asymmetry of the reward scheme facilitates coordination among the agents under a production of complementarity .
+In the discriminating reward scheme , subjects can anticipate that the high-reward player will exert effort , which in turn incentivizes the medium- and low-reward play- ers to do so as well .
+However , the identical rewards under the symmetrical scheme make it hard for the subjects to form beliefs about the action of the other players , so that they are all in the dark .
+Also , under a production function of substitutability , the symmetrical reward scheme yields a higher degree of strategic uncertainty than does the discriminating reward scheme .
+This is reflected by our data .
+In 40 % of the rounds , at least one team member changes his effort level in 444SUB ( 32 % in 345SUB ) .
+The observed SD of group efficiencies is significantly higher in 444SUB than in 345SUB ( 0.215 vs. 0.068 , respectively ; Conover ’ s squared-ranks test ) .
+However , all of the pure equilibria inp p .0011 444SUB require exactly two out of three agents to exert effort , which is the same as in the unique equilibrium in 345SUB .
+Therefore , the lack of coordination should not decrease efficiency .
+In fact , in both treatments we observe exactly two-thirds of the subjects exerting effort in the first round .
+The proportion remains fairly stable in 345SUB throughout the experiment ( 65.3 % ) and increases slightly in 444SUB ( 73.6 % ) .20 Result 2 .
+Treating equals equally is neither a necessary nor a sufficient prerequisite for eliciting high performance in teams .
+Asymmetry facilitates coordination and increases efficiency under a production function of com- plementarity .
+The possible benefit of a discriminating reward scheme on efficiency levels strongly interacts with the production function , which is again in line with Winter ’ s model .
+19 Note that strategic uncertainty might also be present in 345COM because all work and all shirk are potential equilibria once we allow for equity consid- erations .
+Yet , we observe almost full efficiency in this treatment .
+One might consider that the result may be driven by a difference in the subject population between treatments .
+However , a comparison of the corresponding results of the social-value orientation test reveals no significant differences between treatments ( Kruskal-Wallis test ) .p p .19 20 The slight increase may be due to subjects trying to coordinate on one of the pure equilibria in the first round but later approaching the symmetrical mixed equilibrium through learning .
+Nevertheless , no significant time trend is observed in 444SUB .
+Comparing the mean effort level per matching group between the first and the last round reveals no significant difference ( two-sided sign-rank test ; see also the time-series data in fig .
+B4 ) .
+As noted earlier , the same holdsp p .87 true for 345SUB .
+This content downloaded from 128.250.144.144 on July 02 , 2019 12:55:35 PM All use subject to University of Chicago Press Terms and Conditions ( http : //www.journals.uchicago.edu/t-and-c ) .
+762 Goerg et al .
+C. Equity Concerns Although we saw above that unequal rewards can potentially increase pro- ductivity , let us point out that this is not to say that equity considerations are absent in our experiment .
+For example , the average rate of effort pro- vision over all rounds in 345COM is significantly different between the low- and the high-reward type ( 88.9 % vs. 97.2 % ) .
+This might reflect a slight reluctance of the low-reward players to work because the others then earn more than them .
+Yet , in five of eight instances in which the low-reward player shirks , the behavior might also be explained by self-centered pref- erences because subjects play a best response given their individual belief ( in total , 93 % of the decisions in 345COM are best responses to the stated beliefs ) .
+Also , in 345COM , the beliefs of medium- and high-reward players about the low-reward player ’ s decision in the first round reveal some in- fluence of equity concerns because 42 % ( wrongly ) expect him to shirk .
+In 444COM , we observe signs of equity concerns .
+Players are very likely to exert effort if they expect both other players to work as well ( in this situation , 89 % of the decisions were to work ) .
+This might just be playing the best reply on their stated belief ( in total , 79 % of the decisions in 444COM are best responses to the stated beliefs ) .
+But it might also be because they do not want to increase the payoff inequality in their group by shirking .
+Exploring the same situation in 444SUB , we can actually distinguish between the two reasons because now they do not coincide .
+Here , if a player expects both of the others to work , the best reply would be to shirk .
+Nonetheless , equity concerns might make him want to work so that players ’ payoffs are equitable .
+What we observe is that in this case only 18 % of the decisions are a best reply to the stated beliefs ( in the other cases in 444SUB , the rate is actually 55 % ) , which again is indicative of equity concerns .
+However , it is important to note that the discrepancy between beliefs and behavior could also result from rational selfish money-maximizing preferences .
+In the mixed equilibrium , agents exert effort with high probability .
+Thus , when asked for a point belief , expecting others to exert effort becomes optimal , which leads to behavior similar to what we observe .
+Finally , the data from the social-value orientation test indicate that subjects have a general preference for equitable outcomes because in all treatments the value orientations do differ significantly from being strictly self-centered ( two-sided rank-sum test forp ≤ .001 345COM , 345SUB , 444COM , and 444SUB ) .
+IV .
+Conclusion In this article , we studied the interaction in teams .
+More specifically , we experimentally explored whether workers ’ behavior is sensitive to the externalities given by the production technology and whether a major This content downloaded from 128.250.144.144 on July 02 , 2019 12:55:35 PM All use subject to University of Chicago Press Terms and Conditions ( http : //www.journals.uchicago.edu/t-and-c ) .
+Treating Equals Unequally 763 incentive advantage exists when discriminating among perfectly identical agents .
+In our experiment , three workers simultaneously decide on their individual provision of costly effort to a joint project .
+Treatments differ in the shape of the project ’ s production technology and of the reward scheme .
+Under a production technology of complementarity , the use of a symmetrical reward scheme elicits substantially lower efforts and effi- ciency than a cost-equivalent discriminating reward scheme .
+The same discriminating reward scheme underperforms when it is used under a production function of substitutability .
+Our findings have important implications for the design of organiza- tions in practice .
+First , they clearly point to the relevance of the production function for organization construction—a factor that has so far received little attention in the literature.21 Designing ( production ) tasks in a way that makes workers ’ efforts complements rather than substitutes may lead to a major cost advantage .
+Insofar as peer pressure constitutes a comple- mentarity in effort exertion , the strengthening of social ties among the workforce alone might have a strong impact on productivity .
+Second , and closely related , is our finding that unequal treatment of equals does not necessarily hamper efficiency .
+Whenever the organiza- tional technology is one of complementarity , that is , whenever the impact of a worker ’ s input increases in the size of the others ’ input , the usage of a discriminating reward scheme might be potentially efficiency en- hancing .
+The main reason for this is that asymmetrical rewards facilitate coordination because workers can anticipate that those who have high stakes at hand will certainly exert effort , which in turn incentivizes the other workers to exert effort as well .
+Consider that discrimination must not necessarily be in monetary terms but might also take the form of hierarchies .
+While a vast body of literature in personnel economics already promotes the implementation of hierarchies ( e.g. , Lazear and Rosen 1981 ) , our results suggest that hierarchies might enhance performance despite the absence of the existing literature ’ s usual assumptions of monitoring or authority relations .
+In this regard , we more generally contribute to the ongoing research on behavioral phenomena in organizations .
+As James Konow puts it , “ Many of the successes of economics can probably be attributed to its pushing the assumption of self-interest to the extreme .
+To proceed further , however , it may be necessary to incorporate richer behavioral assumptions that include fairness and other moral standards ” ( 2000 , 1089 ) .
+While we agree in principle , it should be added that it is additionally necessary to identify the situations in which behavior is in line with the classical model , 21 The role of externalities between coworkers was studied by Gould and Win- ter ( 2009 ) , who show that professional baseball players react to the technology in a way consistent with a related model to the one we study .
+This content downloaded from 128.250.144.144 on July 02 , 2019 12:55:35 PM All use subject to University of Chicago Press Terms and Conditions ( http : //www.journals.uchicago.edu/t-and-c ) .
+764 Goerg et al .
+which is ultimately an empirical question .
+Only then can we really un- derstand how to model the richer behavioral assumptions in a way to advance economics .
+The implications of our results can be extended beyond the labor con- text to additional environments in which unequal treatment of equals is shown to be efficient .
+Relevant applications include differential tax rates ( Atkinson and Stiglitz 1976 ) and various trade contexts in which a divide- and-conquer strategy maximizes gains ( see Segal 2003 , and references therein ) .
+Thus , equity preferences may hinder the dynamics assumed in different domains .
+Our article presents a step forward in understanding the boundaries of equity considerations and their potential implications .
+The results in this article should not be taken as arguments against the importance of fairness considerations in general .
+For instance , they might be partially explainable by models incorporating social efficiency ( e.g. , Charness and Rabin 2002 ) .
+Still , our findings suggest that equal treatment of equals is neither a necessary nor a sufficient prerequisite for eliciting high performance in teams .
+Yet the relative importance of equity consid- erations is likely to depend on the exact details of the organizational setting and framework .
+In this article , we presented experimental evidence for some of these settings and stressed the interaction between production technologies and reward schemes .
+Future research could try to exacerbate the differences in payoffs in order to estimate some kind of metric for the strength of inequity preferences in our setting ( we thank an anony- mous referee for making this suggestion ) .
+Other interesting variations of the organizational settings include a change in the timing of effort choices , the introduction of heterogeneity among the workforce , or the use of symbolic instead of monetary differentiation .
+Extending our simple design allows for studying these and other interesting aspects in the future .
+Appendix A Instructions [ What follows is the English translation of the instructions used in treatments 345COM and 444COM .
+In treatments 345SUB and 444SUB , the table and examples were adjusted to fit the production function . ]
+Welcome to this decision-making experiment .
+Please read the following instructions carefully .
+The experiment will be conducted anonymously ; that is to say , you will not learn with whom of the other participants you are interacting .
+Please keep in mind that from now on and throughout the experiment you are not allowed to talk to the other participants .
+If you have any questions , please raise your hand , and we will come to you .
+During the experiment , you can earn talers .
+How much you earn depends on your decisions and the decisions of the other participants in your group .
+At the end of the experiment , these talers will be converted This content downloaded from 128.250.144.144 on July 02 , 2019 12:55:35 PM All use subject to University of Chicago Press Terms and Conditions ( http : //www.journals.uchicago.edu/t-and-c ) .
+Treating Equals Unequally 765 to euros at an exchange rate of 80 talers p i1 .
+The euro amount will be paid out to you .
+You will be called to collect your earnings .
+Please turn in all instruction sheets when you collect your earnings .
+In this experiment , you will be randomly divided into groups of three persons .
+Together with two other participants , you form a group .
+Each participant decides whether he wants to work normally or hard .
+The more participants choose to work hard , the more units of goods will be produced .
+Number of hard-working participants 0 1 2 3 Units of goods produced 20 40 65 100 Examples : If all participants of the group work normally , 20 units will be produced altogether in your group .
+If you work hard and another participant in your group works hard as well , 65 units will be produced altogether in your group , etc .
+For each unit of goods produced , you receive a certain amount of talers .
+At the beginning of the experiment , you are informed how many talers you earn per unit produced .
+Additionally , you learn how many talers per unit the other two participants in your group earn .
+Examples : In the beginning of the experiment , you are told that you receive 5 talers for each unit produced .
+If all participants in your group work hard , 100 units will be produced , and you receive 500 talers .
+If 40 units are produced , you receive talers , etc.40 # 5 p 200 Costs : If you decide to work hard , the amount you receive is reduced by 90 talers .
+If you work normally , no additional costs arise .
+Examples : You and another participant in your group work hard , so 65 units are produced .
+Accordingly , you receive talers .
+Since you65 # 5 p 325 worked hard , 90 talers are taken away .
+Hence , your final payment is talers .
+If instead you worked normally , 40 units would325 90 p 235 be produced .
+You would receive talers .
+Since you worked40 # 5 p 200 normally , no talers are subtracted from this amount .
+Hence , your final payment would be 200 talers , etc .
+In order to facilitate the decision-making process , each participant is informed in detail about his own possible payoffs and the payoffs of the other two participants in his group .
+The corresponding information is given in table form .
+For every participant , a table lists all possible pay- ments dependent on his own decision ( to work normally or hard ) and the decisions of the other two participants in the group ( none , one , or both work hard ) .
+In these tables , the corresponding costs for working hard have already been subtracted .
+Below , you see an example with fic- tional data : This content downloaded from 128.250.144.144 on July 02 , 2019 12:55:35 PM All use subject to University of Chicago Press Terms and Conditions ( http : //www.journals.uchicago.edu/t-and-c ) .
+766 Goerg et al .
+In the lower right part of the screen , you can see another table .
+At the beginning , the table is empty .
+In order to display data , you first have to create a hypothetical situation : in the table of participant number 2 , click on the button corresponding to what you think he will decide ( to work normally or hard ) .
+Furthermore , in the table of participant number 3 , click on the button corresponding to what you think about his decision ( to work normally or hard ) .
+In the lower table , you will then be shown in the first row what the payment for you and the other two participants would be , in case your chosen situation actually occurs and you decide to work normally .
+The second row lists the possible payments that you and the other two participants would receive , in case your chosen situation actually occurs and you decide to work hard .
+At any time , you can display data for a different situation .
+Simply change the situation by clicking on a different button underneath the payment tables of participants number 2 and 3 .
+Below , you see another example with fictional data : This content downloaded from 128.250.144.144 on July 02 , 2019 12:55:35 PM All use subject to University of Chicago Press Terms and Conditions ( http : //www.journals.uchicago.edu/t-and-c ) .
+Treating Equals Unequally 767 Your decision : As soon as you have decided on whether you want to work hard or normally , please click on the corresponding button in the lower-right table ( on the left-hand side ) .
+The program will ask you to confirm your decision .
+Afterward , your decision will be transferred .
+Please remain in your cubicle and wait until all participants have reached a decision .
+Afterward , you will be informed about the number of units produced in your group and about your payoff .
+This amount will be paid to you in cash anonymously at an exchange rate of 80 talers p i1 .
+If you have any questions , please raise your hand .
+[ The following instructions were distributed and read out aloud only after the first round . ]
+In what follows , the previous procedure will be repeated five times within the same group of persons and with the same numerical values for production function and effort costs .
+In each of these five rounds , you again have to choose between working normally or working hard .
+In the end , we will randomly select one of these five rounds .
+You will receive the payoff for the randomly selected round in addition to your present payoff .
+If you have any questions please raise your hand .
+Otherwise , please click to continue .
+Appendix B Supplementary Data Fig .
+B1.—Effort per reward type over time in 345COM This content downloaded from 128.250.144.144 on July 02 , 2019 12:55:35 PM All use subject to University of Chicago Press Terms and Conditions ( http : //www.journals.uchicago.edu/t-and-c ) .
+768 Fig .
+B2.—Effort per reward type over time in 345SUB Fig .
+B3.—Effort per agent over time in 444COM This content downloaded from 128.250.144.144 on July 02 , 2019 12:55:35 PM All use subject to University of Chicago Press Terms and Conditions ( http : //www.journals.uchicago.edu/t-and-c ) .
+769 Fig .
+B4.—Effort per agent over time in 444SUB Fig .
+B5.—Boxplots of average group efficiency rates This content downloaded from 128.250.144.144 on July 02 , 2019 12:55:35 PM All use subject to University of Chicago Press Terms and Conditions ( http : //www.journals.uchicago.edu/t-and-c ) .
+770 Goerg et al .
+References Abbink , Klaus , and Karim Sadrieh .
+1995 .
+RATImage : Research assistance toolbox for computer-aided human behavior experiments .
+SFB Dis- cussion Paper B-325 , University of Bonn .
+Abeler , Johannes , Steffen Altmann , Sebastian Kube , and Matthias Wibral .
+Forthcoming .
+When equality is unfair .
+Journal of the European Eco- nomic Association .
+Akerlof , George A. , and Janet L. Yellen .
+1990 .
+The fair wage-effort hy- pothesis and unemployment .
+Quarterly Journal of Economics 105:255– 83 .
+Alchian , Armen A. , and Harold Demsetz .
+1972 .
+Production , information costs , and economic organization .
+American Economic Review 62 , no .
+5:777–95 .
+Atkinson , Anthony B. , and Joseph E. Stiglitz .
+1976 .
+The design of tax structure : Direct versus indirect taxation .
+Journal of Public Economics 6:55–75 .
+Barron , John E. , and Kathy Paulson Gjerde .
+1997 .
+Peer pressure in an agency relationship .
+Journal of Labor Economics 15 , no .
+2:234–54 .
+Beckenkamp , Martin .
+1995 .
+Wissenspsychologie : Zur Methodologie kog- nitionswissenschaftlicher Ansätze .
+Heidelberg : Asanger .
+Bewley , Truman .
+1999 .
+Why wages don ’ t fall during a recession .
+Cam- bridge , MA : Harvard University Press .
+Bolton , Gary E. , and Axel Ockenfels .
+2000 .
+ERC : A theory of equity , reciprocity and competition .
+American Economic Review 90 , no .
+1:269– 99 .
+Charness , Gary , and Peter J. Kuhn .
+2007 .
+Does pay inequality affect worker effort ?
+Experimental evidence .
+Journal of Labor Economics 25 : 693–723 .
+Charness , Gary , and Matthew Rabin .
+2002 .
+Understanding social pref- erences with simple tests .
+Quarterly Journal of Economics 117 , no .
+3 : 817–69 .
+Falk , Armin , and Andrea Ichino .
+2006 .
+Clean evidence on peer effects .
+Journal of Labor Economics 24 , no .
+1:39–57 .
+Fehr , Ernst , Simon Gächter , and Georg Kirchsteiger .
+1997 .
+Reciprocity as a contract enforcement device : Experimental evidence .
+Econometrica 65:833–60 .
+Fehr , Ernst , Georg Kirchsteiger , and Arno Riedl .
+1993 .
+Does fairness prevent market clearing ?
+An experimental investigation .
+Quarterly Journal of Economics 108:437–59 .
+Fehr , Ernst , Alexander Klein , and Klaus M. Schmidt .
+2007 .
+Fairness and contract design .
+Econometrica 75 , no .
+1:121–54 .
+Fehr , Ernst , and Klaus M. Schmidt .
+1999 .
+A theory of fairness , competition and cooperation .
+Quarterly Journal of Economics 114:817–68 .
+This content downloaded from 128.250.144.144 on July 02 , 2019 12:55:35 PM All use subject to University of Chicago Press Terms and Conditions ( http : //www.journals.uchicago.edu/t-and-c ) .
+Treating Equals Unequally 771 Fischbacher , Urs .
+2007 .
+Zurich toolbox for ready-made economic exper- iments .
+Experimental Economics 10 , no .
+2:171–78 .
+Gould , Eric D. , and Eyal Winter .
+2009 .
+Interactions between workers and the technology of production : Evidence from professional baseball .
+Re- view of Economics and Statistics 91 , no .
+1:188–200 .
+Greiner , Ben .
+2003 .
+An online recruitment system for economic experi- ments .
+In Forschung und wissenschaftliches Rechnen 2003 , ed .
+Kurt Kremer and Volker Macho , 79–93 .
+GWDG Bericht 63 .
+Göttingen : Ges .
+fuer Wiss .
+Datenverarbeitung .
+Griesinger , Donald W. , and James W. Livingston .
+1973 .
+Toward a model of interpersonal motivation in experimental games .
+Behavioral Science 18:173–88 .
+Holmström , Bengt .
+1982 .
+Moral hazard in teams .
+Bell Journal of Eco- nomics 13:324–40 .
+Irlenbusch , Bernd , and Gabriele Ruchala .
+2008 .
+Relative rewards within team-based compensation .
+Labour Economics 15:141–67 .
+Kandel , Eugene , and Edward Lazear .
+1992 .
+Peer pressure and partnerships .
+Journal of Political Economy 100 , no .
+4:801–17 .
+Keser , Claudia , and Marc Willinger .
+2000 .
+Principal ’ s principles when agents ’ actions are hidden .
+International Journal of Industrial Organ- isation 18:163–85 .
+Knez , Marc , and Duncan Simester .
+2001 .
+Firm-wide incentives and mutual monitoring at Continental Airlines .
+Journal of Labor Economics 19 : 743–72 .
+Konow , James .
+2000 .
+Fair shares : Accountability and cognitive dissonance in allocation decisions .
+American Economic Review 90 , no .
+4:1072–91 .
+Lazear , Edward P. 1989 .
+Pay equality and industrial politics .
+Journal of Political Economy 97:561–80 .
+Lazear , Edward W. , and Sherwin Rosen .
+1981 .
+Rank-order tournaments as optimum labor contracts .
+Journal of Political Economy 89 , no .
+5 : 841–64 .
+Liebrand , Wim .
+1984 .
+The effect of social motives , communication and group size on behavior in an n-person multi-stage mixed-motive game .
+European Journal of Social Psychology 14:239–64 .
+Mas , Alexander , and Enrico Moretti .
+2009 .
+Peers at work .
+American Eco- nomic Review 99 , no .
+1:112–45 .
+Milgrom , Paul , and John Roberts .
+1992 .
+Economics , organization and management .
+1st ed .
+Englewood Cliffs , NJ : Prentice Hall .
+Mohnen , Alvine , Kathrin Pokorny , and Dirk Sliwka .
+2008 .
+Transparency , inequity aversion , and the dynamics of peer pressure in teams : Theory and evidence .
+Journal of Labor Economics 26 , no .
+4:693–720 .
+Mowday , Richard T. 1991 .
+Equity theory predictions of behavior in or- ganizations .
+In Motivation and work behavior , ed .
+Richard M. Steers and Lyman W. Porter .
+5th ed .
+New York : McGraw-Hill .
+This content downloaded from 128.250.144.144 on July 02 , 2019 12:55:35 PM All use subject to University of Chicago Press Terms and Conditions ( http : //www.journals.uchicago.edu/t-and-c ) .
+772 Goerg et al .
+Nalbantian , Haig R. , and Andrew Schotter .
+1997 .
+Productivity under group incentives : An experimental study .
+American Economic Review 87 , no .
+3:314–41 .
+Normann , Hans-Theo , Bradley Ruffle , and Chris Snyder .
+2007 .
+Do buyer- size discounts depend on the curvature of the surplus function ?
+Ex- perimental tests of bargaining models .
+Rand Journal of Economics 38 , no .
+3:747–67 .
+Prendergast , Canice .
+1999 .
+The provision of incentives in firms .
+Journal of Economic Perspectives 37:7–63 .
+Roemer , John E. 1996 .
+Theories of distributive justice .
+Cambridge , MA : Harvard University Press .
+Ross , Michael , and Fiore Sicoly .
+1979 .
+Egocentric biases in availability and attribution .
+Journal of Personality and Social Psychology 37:322– 36 .
+Segal , Ilya R. 2003 .
+Coordination and discrimination in contracting with externalities : Divide and conquer ?
+Journal of Economic Theory 113 : 147–81 .
+Selten , Reinhard .
+1978 .
+The equity principle in economic behavior .
+In Decision theory and social ethics : Issues in social choice , ed .
+Hans-Werner Gottinger and Werner Leinfellner , 289–301 .
+Dordrecht : Reifel .
+Van Huyck , John B. , Raymond C. Battalio , and Richard O. Beil .
+1990 .
+Tacit coordination games , strategic uncertainty , and coordination fail- ure .
+American Economic Review 80 , no .
+1:234–48 .
+Winter , Eyal .
+2004 .
+Incentives and discrimination .
+American Economic Review 94 , no .
+3:764–73 .
+Young , Peyton .
+1994 .
+Equity in theory and practice .
+Princeton , NJ : Prince- ton University Press .
+This content downloaded from 128.250.144.144 on July 02 , 2019 12:55:35 PM All use subject to University of Chicago Press Terms and Conditions ( http : //www.journals.uchicago.edu/t-and-c ) .

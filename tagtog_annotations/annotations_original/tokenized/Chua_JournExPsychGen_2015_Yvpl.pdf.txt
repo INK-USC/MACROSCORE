@@ -1,0 +1,347 @@
+Chua_JournExPsychGen_2015_Yvpl.pdf
+aaQpWYA1GqtpmaBTI_fFjDWUmVaG-Chua_JournExPsychGen_2015_Yvpl.pdf.plain.html
+
+BRIEF REPORT Holistic Processing From Learned Attention to Parts Kao-Wei Chua , Jennifer J. Richler , and Isabel Gauthier Vanderbilt University Attention helps us focus on what is most relevant to our goals , and prior work has shown that aspects of attention can be learned .
+Learned inattention to parts can abolish holistic processing of faces , but it is unknown whether learned attention to parts is sufficient to cause a change from part-based to holistic processing with objects .
+We trained subjects to individuate nonface objects ( Greebles ) from 2 categories : Ploks and Glips .
+Diagnostic information was in complementary halves for the 2 categories .
+Holistic processing was then tested with PlokGlip composites that combined the kind of part that was diagnostic or nondiagnostic during training .
+Exposure to Greeble parts resulted in general failures of selective attention for nondiagnostic composites , but face-like holistic processing was only observed for diagnostic composites .
+These results demonstrated a novel link between learned attentional control and the acquisition of holistic processing .
+Keywords : holistic processing , learning , attention , perceptual expertise Attention allows us to react to salient or surprising events ( Theeuwes , 1991 , 1994 ) and find information relevant to current goals ( Folk et al. , 1992 ; Bacon & Egeth , 1994 ) .
+Attention can facilitate learning ( Shiu & Pashler , 1992 ; Ahissar & Hochstein , 1993 ) , but some learning effects are best characterized as changes in how we attend , or learned attention .
+Attention can be guided by statistical learning ( Zhao , Al-Aidroos , & Turk-Brown , 2013 ) , or reward and past selection history ( Awh , Belopolsky , & Theeuwes , 2012 ) .
+When task parameters correlate with item properties , map- pings between items and the relevant attentional set may be learned ( Jacoby , Lindsay , & Hessels , 2003 ; Bugg & Crump , 2012 ) .
+Learned attentional settings can transfer to novel members of a category ( Bugg , Jacoby , & Chanani , 2011 ) .
+Similarly , learned attention could account for phenomena related to perceptual learn- ing ( Nosofsky , 1986 ; Goldstone , 1994 ) .
+For example , eye move- ments reveal that subjects shift from attending to all stimulus dimensions equally to dimensions most diagnostic for categoriza- tion ( Blair , Watson , Walshe , & Maj , 2009 ) .
+Although most studies of learned attention use simple stim- uli , complex objects like faces can also trigger attentional sets .
+For instance , in a study of cognitive control , subjects learned associations between face sex and proportions of congruent responses ( Cañadas , Rodríguez-Bailón , Milliken , & Lupiáñez , 2013 ) .
+Similarly , learned attention to dimensions of complex objects such as faces may account for expert visual object processing phenomena such as holistic processing , the tendency to process objects as unified wholes rather than parts ( Young , Hellawell , & Hay , 1987 ) .
+In Chua , Richler , and Gauthier ( 2014 ) , subjects learned to individuate faces from two novel face categories : Lunaris and Taiyos .
+Diagnostic information for identifying each face was found in complementary halves of the two categories .
+For example , the top halves of Taiyos and the bottom halves of Lunaris provided diagnostic information for individuation .
+After training , subjects saw composites made of diagnostic and nondiagnostic face parts in the composite para- digm , a common measure of holistic processing ( Farah , Wilson , Drain , & Tanaka , 1998 ; Richler & Gauthier , 2014 ) .
+In this task , subjects judge whether the target half ( e.g. , top ) of two sequen- tially presented composite faces ( made of top and bottom halves from different faces ) is the same or different while ignoring the other part ( e.g. , bottom ) .
+Holistic processing is inferred when subjects can not ignore information in the task-irrelevant half , which is typically only obtained for aligned face halves .
+In Chua et al .
+( 2014 ) , holistic processing was only found for face parts that were diagnostic at training , suggesting that learned attention to face parts may be responsible for holistic process- ing .
+This is inconsistent with the prevalent idea that holistic processing is strictly a perceptual phenomenon ( Rossion , 2013 ) , Editor ’ s Note .
+Michael Dodd served as the action editor for this manu- script .
+The manuscript was handled completely outside of the normal JEP : General system , such that IG and JR have no access to any informa- tion associated with the review process .
+This article was published Online First March 16 , 2015 .
+Kao-Wei Chua , Jennifer J. Richler , and Isabel Gauthier , Department of Psychology , Vanderbilt University .
+Supported by the National Science Foundation ( Grant SBE-0542013 ) , Vanderbilt Vision Research Center ( Grant P30-EY008126 ) , and National Eye Institute ( Grant R01 EY013441-06A2 ) .
+Riaun Floyd , Amit Khand- hadia , and Nicole Goren aided with data collection .
+We thank Matt Crump for his comments on the article .
+We also thank Dr. Chu Chang Chua for continued guidance .
+Correspondence concerning this article should be addressed to Kao-Wei Chua , Department of Psychology , Vanderbilt University , Vanderbilt Uni- versity , PMB 407817 , 2301 Vanderbilt Place , Nashville , TN 37240-7817 .
+E-mail : kao-wei.chua @ vanderbilt.edu T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+Journal of Experimental Psychology : General © 2015 American Psychological Association 2015 , Vol .
+144 , No .
+4 , 723–729 0096-3445/15/ $ 12.00 http : //dx.doi.org/10.1037/xge0000063 723 for instance , due to face representations where parts are not differentiated ( Tanaka & Farah , 1993 ) .
+The LunariTaiyo study challenged this sort of explanation , pointing to a role for learned attention in holistic processing .
+This conclusion was also supported by the finding that sub- jects showed no holistic processing for face composites made of parts that were nondiagnostic during training .
+Face parts with a history of not being attended did not trigger obligatory atten- tion .
+However , while processing diagnostic and nondiagnostic composites differed , novices who had never seen Taiyo or Lunari faces processed them holistically .
+Thus , because the stimuli were faces , this experiment could not track the acqui- sition of holistic processing for diagnostic composites with learned attention , although it did show how learned inattention can abolish holistic processing for faces made of parts with a nondiagnostic history .
+In this study , we addressed the acquisition of holistic pro- cessing with novel objects .
+We trained participants to individ- uate Greebles , objects that novices do not process holistically .
+We used two kinds of Greebles that contained diagnostic infor- mation in different parts and then tested holistic processing for Greebles combining parts never presented together before .
+In the TayioLunari study , congruency effects that did not vary as a function of alignment were observed in the nondiagnostic condition ( see Richler , Bukach , & Gauthier , 2009 , for evidence that this is not face-like holistic processing ) , whereas in the diagnostic condition , the effect was abolished in the misaligned condition .
+The misaligned baseline should be more easily in- terpreted with novel objects because no congruency effect should be found in novices .
+We also included an additional phase-scrambled baseline not expected to be sensitive to train- ing effects .
+Method Subjects Eighty subjects were randomly assigned to either the Glip- Top/PlokBottom ( 18 men , 22 women ; Mage 21.6 years ) or the GlipBottom/PlokTop ( 16 men , 24 women ; Mage 21.9 years ) training condition .
+Group assignment dictated which part was diagnostic for each Greeble category during individuation train- ing .
+A control group ( n 40 ) received no training ( 16 men , 24 women ; Mage 20.5 years ) .
+Subjects received $ 15 per hour for participation .
+The study was approved by the Vanderbilt Uni- versity institutional review board .
+Sample size was predeter- mined based on the Group Congruency Alignment inter- action in Chua et al .
+( 2014 ) ( p2 .04 ) , and on our expectation that using fewer parts in the composite task would improve its reliability ( see Ross , Richler , & Gauthier , 2014 ) .
+With 80 subjects and an alpha of .05 , power for the critical interaction should reach .90 .
+Stimuli Stimuli were asymmetrical Greebles ( Gauthier & Tarr , 1997 ; Rossion , Kung , & Tarr , 2004 ) .
+Ploks and Glips had distinct body shapes , textures ( see Figure 1 ) , and parts that pointed in different directions ( up vs. down ) .
+All Greebles were presented in grayscale and tilted 40° clockwise to facilitate making composites without cutting any parts .
+During individuation training , different stimulus sets were used depending on condition .
+For example , in the GlipTop/ PlokBottom condition , three Glip bottom halves were combined with 10 unique top halves each , and three Plok tops halves were combined with 10 unique Plok bottoms each , to create 30 Glips that varied 10 times more in the top than in the bottom and 30 Ploks that varied 10 times more in the bottom than in the top .
+A separate set of 60 Greebles was created for the GlipBottom/ PlokTop condition , with the reverse assignment of part vari- ability .
+For the composite task , two sets of five unique top and bottom halves from the two categories that were not seen during training were used .
+Composite Greebles varied on the top and bottom .
+Therefore , all subjects were tested on Greebles with the same amount of variation ; any differences in composite task performance could only be attributed to training .
+The top and bottom Greeble halves were randomly combined to form Plok- Glip composites ( 400 400 pixels ) .
+A white line 6 pixels thick separated Greeble halves .
+Misaligned composites were made by shifting the top and bottom halves 35 pixels to the left and right , respectively .
+An advantage of the Greebles being tilted is that the misaligned object remains inscribed within a box approximately the same width as the aligned object , elim- inating a potential confound with the standard misalignment manipulation in which misaligned trials are wider .
+Another baseline condition was added wherein task-irrelevant parts were phased-scrambled ( 83 % ; see Figure 2 ) while luminance , con- trast , and spatial frequency were preserved ( Sadr & Sinha , 2004 ) .
+With faces , performance does not differ between phase- Figure 1 .
+Example Glips and Ploks for a subject who saw Glips with diagnostic top halves and Ploks with diagnostic bottom halves .
+The part that was diagnostic for each family was counterbalanced between two groups .
+Note that the nondiagnostic half did vary ( there were three parts for each category , only one is shown ) , but there was 10 times more variation for the diagnostic half .
+T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+724 CHUA , RICHLER , AND GAUTHIER scrambled and misaligned baselines ( Richler , Floyd , & Gau- thier , 2014 ) .
+Experimental Procedures Subjects completed three sessions of individuation training ( about 60 min each ) over the course of a week , followed by the composite task at the end of Session 3 .
+Individuation Training Subjects learned unique names for 16 Greebles , eight from each category .
+During training trials , subjects were shown Greebles with one syllable names ( e.g. , Awg , Dak ) .
+Names were randomly assigned to objects for each subject .
+In all trials , subjects pressed the first letter of the Greeble ’ s name .
+Training trials were followed by test trials where Greebles were presented without names .
+If a Greeble appeared that had no learned name association , subjects pressed “ n ” to indicate “ no name. ” Of the 30 Greebles for a given category , eight were assigned names for participants to learn , while the remaining 22 required a “ no name ” response .
+Incorrect responses were followed by feedback showing the correct name ( including “ no name ” ) .
+There were three phases on each training day ( see Table 1 ) .
+All trained Greebles were introduced by the end of Day 1 .
+Composite Task Stimuli in the composite task were PlokGlip or GlipPlok composites made of parts not seen during training ( see Figure 3 ) .
+Five tops and five bottoms from each category , and their phase-scrambled versions , were used across all trials .
+For each subject , half of the composites were made of parts similar to parts that were diagnostic during training , and the other half were made of parts similar to parts that were nondiagnostic during training .
+Each trial started with a fixation cross ( 200 ms ) , followed by a study Greeble ( 200 ms ) , a blank screen ( 500 ms ) , and a test Greeble ( 200 ms ) .
+Subjects were instructed to judge if the cued halves of the study and test composites were the same or different , while ignoring the other , irrelevant half .
+On congruent trials , the cued and irrelevant halves were associated with the same response ( e.g. , both parts same , or both parts different ) ; on incongruent trials , the irrelevant and cued halves were associated with different responses ( e.g. , one part same , the other part different ) .
+A congruency effect ( better perfor- mance on congruent vs. incongruent trials ) indicates an inability to selectively attend : the irrelevant object half influenced per- formance , despite instructions to ignore it .
+On misaligned trials , only the test Greeble was misaligned to prevent pseudoholistic effects that are not sensitive to configuration ( see Richler et al. , 2009 ; Richler , Wong , & Gauthier , 2011 ) .
+The signature of holistic processing is a Congruency Alignment interaction , with larger congruency effects on aligned than misaligned trials ( Richler & Gauthier , 2014 ) .
+Likewise , congruency can be de- fined on phase-scrambled trials ( see Figure 2 ) , depending on whether the task-irrelevant phase-scrambled half is the same or different between study and test .
+Therefore , holistic processing using the phase-scrambled baseline is also defined as an inter- action , with larger congruency effects on aligned than phase- scrambled trials .
+There were 15 trials for each combination of composite condi- tion ( diagnostic/nondiagnostic ) , congruency ( congruent/incongru- ent ) , alignment ( aligned/misaligned/phase-scrambled ) , cued part ( top/bottom ) and correct response ( same/different ) , for a total of 720 trials .
+Cued part was blocked ( order counterbalanced across subjects ) .
+All other factors were randomized .
+Results Individuation Training From Day 13 , subjects become more accurate ( Day 1 : M .92 ; Day 3 : M .96 ) , F ( 2 , 79 ) 110.6 , p .001 , p2 .58 , and faster ( Day 1 : M 946.8 ms ; Day 3 : M 709.0 ms ) , F ( 2 , 79 ) 246.2 , p .001 , p2 .75 .
+Table 1 Training Structure for Individuation Training for One Greeble Category Phase Greebles Training trials/block Test trials/ block Day 1 Day 2 Day 3 1 4 named 8 21 2 blocks — 2 blocks 6 unnamed 2 6 named 12 42 2 blocks — 2 blocks 14 unnamed 3 8 named 24 63 6 blocks 10 blocks 6 blocks 22 unnamed Total trials 1,008 1,260 1,008 Note .
+Both Ploks and Glips were trained in the same way .
+Figure 2 .
+Example of an incongruent phase-scrambled trial in the com- posite task , where the top half was cued and the correct answer is “ same. ” In this condition , the task-irrelevant half is phase-scrambled .
+The cued halves are the same and the phase-scrambled halves are different , so this is an example of an incongruent phase-scrambled trial .
+T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+725HOLISTIC PROCESSING FROM LEARNED ATTENTION Composite Task Data from two trained subjects and two control subjects were removed for below-chance performance , leaving 78 trained subjects and 38 untrained control subjects .
+Trials with reaction times less than 100 ms or greater than 2,000 ms were discarded ( 1.62 % of trials ) .
+Sensitivity ( d= ) for control and trained subjects ( separated into diagnostic and nondiagnostic composites ) for aligned , misaligned , and phase-scrambled trials is presented in Figure 4 .
+We found no evidence of holistic processing in control subjects , that is , there was no significant Congruency ( congruent/incongruent ) Trial Type ( aligned/misaligned/phase-scrambled ) interaction , F ( 2 , 74 ) .32 , p .73 , p2 .009 .
+To assess training effects , all analyses were conducted twice , once comparing aligned trials with misaligned trials as the baseline , and once comparing aligned trials with phase- scrambled trials as the baseline .
+In all cases , holistic processing was indexed by a Congruency ( congruent/incongruent ) Trial Type ( aligned/misaligned or aligned/phase-scrambled ) interaction .
+With each baseline , we first conducted a Condition ( control/diagnos- tic/nondiagnostic ) Congruency ( congruent/incongruent ) Trial Type ( aligned/misaligned , or aligned/phase-scrambled ) analysis of variance ( ANOVA ) , treating condition as a between-subjects vari- able even though diagnostic and nondiagnostic conditions were from the same individuals .
+The correlation between holistic pro- cessing across conditions was expected to be small ( Ross et al. , 2014 ) , so there should have been a negligible cost in power for this strategy.1 To unpack any interaction with condition , we ran within- subject ANOVAs comparing the diagnostic and nondiagnostic conditions in the trained subjects , and between-subjects ANOVAs comparing each trained condition with the control group .
+Misaligned baseline .
+The three-way Condition ( control/diag- nostic/nondiagnostic ) Trial Type ( aligned/misaligned ) and Congruency interaction was significant , F ( 2 , 191 ) 3.16 , p .04 , p2 .03 .
+With trained subjects only , the Condition Congru- ency Trial Type interaction was only marginally significant , F ( 1 , 77 ) 3.06 , p .084 , p2 .04 , with significant holistic processing ( Congruency Trial Type interaction ) for diagnostic 1 As expected , there was no significant correlation between holistic processing in the diagnostic and nondiagnostic conditions using the mis- aligned baseline ( r .10 , p .37 ) and that using the phase-scrambled baseline was significant but modest in size ( r .36 , p .001 ) .
+This could represent an advantage of the phase-scrambled baseline for future work .
+2.2 2.3 2.4 2.5 2.6 2.7 2.8 2.9 3 3.1 3.2 A li g n e d M is a li g n e d P h a se -s cr a m b le d A li g n e d M is a li g n e d P h a se -s cr a m b le d A li g n e d M is a li g n e d P h a se -s cr a m b le d Control Nondiagnostic Diagnostic Se ns iti vi ty ( d ' ) Congruent Incongruent Figure 4 .
+Sensitivity ( d= ) as a function of trial type ( aligned/misaligned/ phase-scrambled ) and congruency for the control group , and nondiagnostic and diagnostic composites for the trained group .
+The aligned and mis- aligned conditions are connected to highlight the Typical Congruency Alignment interaction that is only observed in the diagnostic condition .
+Error bars are 95 % confidence intervals .
+Figure 3 .
+Example stimuli for the Glip top/Plok bottom group .
+For this group , the tops of Glips and the bottom of Ploks were diagnostic during individuation training ( top panel ) .
+During the composite task , stimuli were created from diagnostic and nondiagnostic Greeble parts ( bottom panel ) .
+Composite task stimuli were either aligned , misaligned , or the task-irrelevant part was phase-scrambled .
+T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+726 CHUA , RICHLER , AND GAUTHIER composites , F ( 1 , 77 ) 6.67 , p .01 , p2 .08 , but not for nondiagnostic composites , F ( 1 , 77 ) 0.12 , p .73 , p2 .002 .
+As expected , the Condition Congruency Trial Type interaction was not significant when the control group was compared with trained nondiagnostic , F ( 1 , 114 ) 0.59 , p .44 , p2 .001 , indicating that exposure to nondiagnostic parts during training did not result in holistic processing .
+In contrast , the same three-way interaction was significant when the control group was compared with trained diagnostic , F ( 1 , 114 ) 4.50 , p .036 , p2 .038 .
+This revealed more holistic processing for trained subjects judging diagnostic composites than for the untrained control group .
+In summary , with the misaligned baseline , the within-subject training effect was marginal , but only diagnostic composites were pro- cessed holistically by trained subjects and not untrained control subjects .
+Phase-scrambled baseline .
+The three-way Condition Trial Type Congruency interaction was significant , F ( 2 , 191 ) 6.24 , p .002 , p2 .06 .
+With trained subjects only , the Condition Congruency Trial Type interaction was also significant , F ( 1 , 77 ) 9.85 , p .002 , p2 .11 , with significant holistic processing ( Congruency Trial Type interaction ) for diagnostic composites , F ( 1 , 77 ) 8.62 , p .001 , p2 0.20 , but not for nondiagnostic composites , F ( 1 , 77 ) 1.38 , p .24 , p2 .02 .
+As expected , the Condition Congruency Trial Type interaction was not sig- nificant when the control group was compared with trained non- diagnostic , F ( 1 , 114 ) 1.31 , p .25 , p2 .001 .
+However , this same interaction was significant when the control group was compared with trained diagnostic , F ( 1 , 114 ) 9.97 , p .002 , p2 .08 , with greater holistic processing for diagnostic com- posites than for the control group .
+In summary , there was more holistic processing in the diagnostic condition than in the non- diagnostic condition for trained subjects , and untrained control subjects did not process these objects holistically .
+Discussion Novel objects like the Greebles used in our study are not processed holistically by novices .
+We demonstrated that a his- tory of learned attention to diagnostic Greeble parts was suffi- cient for the acquisition of holistic processing .
+This reveals a link between learned attentional strategies and visual object processing .
+Accounts of item-specific attentional strategies sug- gest that stimulus features and responses are jointly encoded in memory so that attentional filters are later cued by the percep- tion of features with which they were previously associated ( Crump , Vaquero , & Milliken , 2008 ) .
+Here , novices did not process Greebles holistically at all , and trained subjects only exhibited holistic processing for diagnostic Greeble parts .
+We propose that when trained subjects were shown Greebles made of diagnostic parts in the composite task , they retrieved an attentional filter related to their past history of devoting atten- tion to those parts .
+When both Greeble parts in the composite task are diagnostic , subjects can not selectively attend to one Greeble part , producing face-like holistic processing .
+In contrast , no holistic processing was acquired for nondiag- nostic Greeble parts .
+However , training did have an impact because there was a main effect of congruency in the trained group not found in Greeble novices , F ( 1 , 114 ) 4.10 , p .05 , p2 .044 .
+Nondiagnostic parts may have become associated with an attentional routine to look for more useful information in a different part of the object , consistent with accounts of learned inattention and blocking during learning ( Kruschke & Blair , 2000 ; Kruschke , 2003 ) , whereby people learn to ignore irrelevant cues .
+In contrast , the attentional routines that our subjects acquired for diagnostic parts were specific to the aligned configuration , as typically observed for faces ( Richler & Gauthier , 2014 ) .
+The configural specificity of these congru- ency effects may be akin to learned attention that is specific to the encoding context ( e.g. , Chun & Jiang , 1998 ) .
+However , the composites our subjects were tested with represent a new con- text in many ways : new exemplars were shown in a new task , parts were combined with parts from a different category with which they were never paired during training , and Greebles varied equally in both parts during the composite task , unlike during training .
+Despite these changes , the task-irrelevant di- agnostic parts were difficult to ignore when they were aligned with a task-relevant diagnostic part .
+This points to spatial configuration as particularly critical for holistic processing , but not because of a special representational status for aligned objects .
+Rather , configuration may influence the allocation of attention during composite task judgments , perhaps through object-based attention for parts that are grouped perceptually ( Vecera & Farah , 1994 ; Baker et al. , 2004 ) .
+Other work has suggested a role of grouping in the composite task , based on evidence that misaligned colored backgrounds behind aligned face parts reduce holistic processing ( Curby , Goldstein , & Blacker , 2013 ) .
+Our effects are similar to those obtained in a number of other paradigms where attention is biased toward information with a history of being attended .
+Because our effects are measured as reduced selective attention in a congruency task , they are similar to item-specific control during Stroop tasks ( Cañadas et al. , 2013 ; Bugg et al. , 2011 ) .
+Because our effects lead to spatial bias attached to a specific visual context , they evoke contextual cueing in which subjects implicitly learn spatial invariants in visual scenes ( Chun & Jiang , 1998 ) .
+However , in contrast to contextual cueing and item-specific control paradigms , our subjects carried attentional settings from a naming task to the composite task .
+This renders explanations based on conflict ( which did not exist during naming ) or learned response associations ( because naming responses do not predict congruency ) improbable .
+In category learning , attention can shift to a dimension that was useful in a previous categoriza- tion task , and , like our effects , this can occur with transfer objects and a new task ( Goldstone , 1994 ) , and sometimes last for days ( Folstein , Newton , Van Gulick , Palmeri , & Gauthier , 2012 ) .
+As in item-specific control , the effects can be stimulus-specific ( Aha & Goldstone , 1992 ; Van Gulick & Gauthier , 2014 ) and may become category specific after multiple exemplars are encoded ( Nosofsky , 1986 ) .
+Category-specific ( or context-specific ) control has also been described within Stroop paradigms ( e.g. , Bugg , Jacoby , & Toth , 2008 ) .
+Finally , our results are also similar to effects obtained in the task-switching literature , where task-stimulus associations have long-term effects , primarily on trials when there is conflict , as in the composite task ( Waszak , Hommel , & Allport , 2003 ) .
+Which of these effects is most similar to holistic processing remains to be determined .
+Critically , these attentional accounts do not require encoding of unitary representations , a common account of holistic processing ( Tanaka & Farah , 1993 ) .
+T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+727HOLISTIC PROCESSING FROM LEARNED ATTENTION Together with our previous finding that holistic processing was only evident when both parts of a test face benefitted from a history of attention ( Chua et al. , 2014 ) , the present results suggest that failures of selective attention to diagnostic parts are qualita- tively different from those to nondiagnostic parts .
+Face-like holis- tic effects appear to require that both the task-relevant and task- irrelevant parts have a history of being attended and that the parts be perceptually grouped , allowing this attentional effect to apply to the entire object .
+More work is required to account for this con- figurally specific learned attention in computational models of attention , but our results provide clear answers to the questions that motivated this work : holistic processing can be acquired for non- face objects , and all that is required is a history of attention to parts .
+References Aha , D. W. , & Goldstone , R. L. ( 1992 ) .
+Concept learning and flexible weighting .
+In Proceedings of the Fourteenth Annual Conference of the Cognitive Science Society ( pp .
+534–539 ) .
+Hillsdale , NJ : Lawrence Erl- baum .
+Ahissar , M. , & Hochstein , S. ( 1993 ) .
+Attentional control of early percep- tual learning .
+PNAS : Proceedings of the National Academy of Sciences of the United States of America , 90 , 5718–5722 .
+http : //dx.doi.org/ 10.1073/pnas.90.12.5718 Awh , E. , Belopolsky , A. V. , & Theeuwes , J .
+( 2012 ) .
+Top-down versus bottom-up attentional control : A failed theoretical dichotomy .
+Trends in Cognitive Sciences , 16 , 437–443 .
+http : //dx.doi.org/10.1016/j.tics.2012 .06.010 Bacon , W. F. , & Egeth , H. E. ( 1994 ) .
+Overriding stimulus-driven atten- tional capture .
+Perception & psychophysics , 55 ( 5 ) , 485–496 .
+Baker , C. I. , Olson , C. R. , & Behrmann , M. ( 2004 ) .
+Role of attention and perceptual grouping in visual statistical learning .
+Psychological Science , 15 ( 7 ) , 460–466 .
+Blair , M. R. , Watson , M. R. , Walshe , R. C. , & Maj , F. ( 2009 ) .
+Extremely selective attention : Eye-tracking studies of the dynamic allocation of attention to stimulus features in categorization .
+Journal of Experimental Psychology : Learning , Memory , and Cognition , 35 , 1196–1206 .
+http : // dx.doi.org/10.1037/a0016272 Bugg , J. M. , & Crump , M. J .
+( 2012 ) .
+In support of a distinction between voluntary and stimulus-driven control : A review of the literature on proportion congruent effects .
+Frontiers in Psychology , 3 , 367. http : //dx .doi.org/10.3389/fpsyg.2012.00367 Bugg , J. M. , Jacoby , L. L. , & Chanani , S. ( 2011 ) .
+Why it is too early to lose control in accounts of item-specific proportion congruency effects .
+Jour- nal of Experimental Psychology : Human Perception and Performance , 37 , 844–859 .
+http : //dx.doi.org/10.1037/a0019957 Bugg , J. M. , Jacoby , L. L. , & Toth , J. P. ( 2008 ) .
+Multiple levels of control in the Stroop task .
+Memory & Cognition , 36 , 1484–1494 .
+http : //dx.doi .org/10.3758/MC.36.8.1484 Cañadas , E. , Rodríguez-Bailón , R. , Milliken , B. , & Lupiáñez , J .
+( 2013 ) .
+Social categories as a context for the allocation of attentional control .
+Journal of Experimental Psychology : General , 142 , 934–943 .
+http : //dx .doi.org/10.1037/a0029794 Chua , K.-W. , Richler , J. J. , & Gauthier , I .
+( 2014 ) .
+Becoming a Lunari or Taiyo expert : Learned attention to parts drives holistic processing of faces .
+Journal of Experimental Psychology : Human Perception and Performance , 40 , 1174–1182 .
+http : //dx.doi.org/10.1037/a0035895 Chun , M. M. , & Jiang , Y .
+( 1998 ) .
+Contextual cueing : Implicit learning and memory of visual context guides spatial attention .
+Cognitive psychology , 36 ( 1 ) , 28–71 .
+Crump , M. J. C. , Vaquero , J. M. M. , & Milliken , B .
+( 2008 ) .
+Context- specific learning and control : The roles of awareness , task relevance , and relative salience .
+Consciousness and Cognition : An International Jour- nal , 17 , 22–36 .
+http : //dx.doi.org/10.1016/j.concog.2007.01.004 Curby , K. M. , Goldstein , R. R. , & Blacker , K. ( 2013 ) .
+Disrupting percep- tual grouping of face parts impairs holistic face processing .
+Attention , Perception , & Psychophysics , 75 , 83–91 .
+http : //dx.doi.org/10.3758/ s13414-012-0386-9 Farah , M. J. , Wilson , K. D. , Drain , M. , & Tanaka , J. N. ( 1998 ) .
+What is “ special ” about face perception ?
+Psychological Review , 105 , 482–498 .
+http : //dx.doi.org/10.1037/0033-295X.105.3.482 Folk , C. L. , Remington , R. W. , & Johnston , J. C. ( 1992 ) .
+Involuntary covert orienting is contingent on attentional control settings .
+Journal of Experimental Psychology : Human perception and performance , 18 ( 4 ) , 1030 .
+Folstein , J. , Newton , A. , Van Gulick , A .
+B. , Palmeri , T. , & Gauthier , I .
+( 2012 ) .
+Category learning causes long-term changes to similarity gradi- ents in the ventral stream : A multivoxel pattern analysis at 7T .
+Journal of Vision , 12 , 1106. http : //dx.doi.org/10.1167/12.9.1106 Gauthier , I. , & Tarr , M. J .
+( 1997 ) .
+Becoming a “ Greeble ” expert : Exploring mechanisms for face recognition .
+Vision Research , 37 , 1673–1682 .
+http : //dx.doi.org/10.1016/S0042-6989 ( 96 ) 00286-6 Goldstone , R. ( 1994 ) .
+Influences of categorization on perceptual discrim- ination .
+Journal of Experimental Psychology : General , 123 , 178–200 .
+http : //dx.doi.org/10.1037/0096-3445.123.2.178 Jacoby , L. L. , Lindsay , D. S. , & Hessels , S. ( 2003 ) .
+Item-specific control of automatic processes : Stroop process dissociations .
+Psychonomic Bul- letin & Review , 10 , 638–644 .
+http : //dx.doi.org/10.3758/BF03196526 Kruschke , J. K. ( 2003 ) .
+Attention in learning .
+Current Directions in Psy- chological Science , 12 , 171–175 .
+http : //dx.doi.org/10.1111/1467-8721 .01254 Kruschke , J. K. , & Blair , N. J .
+( 2000 ) .
+Blocking and backward blocking involve learned inattention .
+Psychonomic Bulletin & Review , 7 , 636– 645. http : //dx.doi.org/10.3758/BF03213001 Nosofsky , R. M. ( 1986 ) .
+Attention , similarity , and the identification- categorization relationship .
+Journal of Experimental Psychology : Gen- eral , 115 , 39–57 .
+http : //dx.doi.org/10.1037/0096-3445.115.1.39 Richler , J. J. , Bukach , C. M. , & Gauthier , I .
+( 2009 ) .
+Context influences holistic processing of nonface objects in the composite task .
+Attention , Perception , & Psychophysics , 71 , 530–540 .
+http : //dx.doi.org/10.3758/ APP.71.3.530 Richler , J. J. , Floyd , R. J. , & Gauthier , I .
+( 2014 ) .
+The Vanderbilt Holistic Face Processing Test : A short and reliable measure of holistic face processing .
+Journal of Vision , 14 , 10. http : //dx.doi.org/10.1167/14.11.10 Richler , J. J. , & Gauthier , I .
+( 2014 ) .
+A meta-analysis and review of holistic face processing .
+Psychological Bulletin , 140 , 1281–1302 .
+http : //dx.doi .org/10.1037/a0037004 Richler , J. J. , Wong , Y. K. , & Gauthier , I .
+( 2011 ) .
+Perceptual expertise as a shift from strategic interference to automatic holistic processing .
+Current Directions in Psychological Science , 20 , 129–134 .
+http : //dx.doi .org/10.1177/0963721411402472 Ross , D. A. , Richler , J. J. , & Gauthier , I .
+( 2014 ) .
+Reliability of composite- task measurements of holistic face processing .
+Behavior Research Meth- ods .
+Advance online publication .
+http : //dx.doi.org/10.3758/s13428-014- 0497-4 Rossion , B .
+( 2013 ) .
+The composite face illusion : A whole window into our understanding of holistic face perception .
+Visual Cognition , 21 , 139– 253. http : //dx.doi.org/10.1080/13506285.2013.772929 Rossion , B. , Kung , C. C. , & Tarr , M. J .
+( 2004 ) .
+Visual expertise with nonface objects leads to competition with the early perceptual process- ing of faces in the human occipitotemporal cortex .
+PNAS : Proceedings of the National Academy of Sciences of the United States of America , 101 , 14521–14526 .
+http : //dx.doi.org/10.1073/pnas.0405613101 Sadr , J. , & Sinha , P. ( 2004 ) .
+Object recognition and random image struc- ture evolution .
+Cognitive Science , 28 , 259 –287 .
+http : //dx.doi.org/ 10.1207/s15516709cog2802_7 T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+728 CHUA , RICHLER , AND GAUTHIER Shiu , L. P. , & Pashler , H. ( 1992 ) .
+Improvement in line orientation discrim- ination is retinally local but dependent on cognitive set .
+Perception & Psychophysics , 52 , 582–588 .
+http : //dx.doi.org/10.3758/BF03206720 Tanaka , J. W. , & Farah , M. J .
+( 1993 ) .
+Parts and wholes in face recogni- tion .
+The Quarterly Journal of Experimental Psychology A : Human Experimental Psychology , 46 , 225–245 .
+http : //dx.doi.org/10.1080/ 14640749308401045 Theeuwes , J .
+( 1991 ) .
+Exogenous and endogenous control of attention : The effect of visual onsets and offsets .
+Perception & Psychophysics , 49 , 83–90 .
+http : //dx.doi.org/10.3758/BF03211619 Theeuwes , J .
+( 1994 ) .
+Stimulus-driven capture and attentional set : Selective search for color and visual abrupt onsets .
+Journal of Experimental Psychology : Human Perception and Performance , 20 , 799–806 .
+http : // dx.doi.org/10.1037/0096-1523.20.4.799 Van Gulick , A. E. , & Gauthier , I .
+( 2014 ) .
+The perceptual effects of learning object categories that predict perceptual goals .
+Journal of Experimental Psychology : Learning , Memory , and Cognition , 40 , 1307–1320 .
+http : // dx.doi.org/10.1037/a0036822 Vecera , S. P. , & Farah , M. J .
+( 1994 ) .
+Does visual attention select objects or locations ?
+Journal of Experimental Psychology : General , 123 , 146–160 .
+http : //dx.doi.org/10.1037/0096-3445.123.2.146 Waszak , F. , Hommel , B. , & Allport , A .
+( 2003 ) .
+Task-switching and long- term priming : Role of episodic stimulus-task bindings in task-shift costs .
+Cognitive Psychology , 46 , 361–413 .
+http : //dx.doi.org/10.1016/S0010- 0285 ( 02 ) 00520-0 Young , A. W. , Hellawell , D. , & Hay , D. C. ( 1987 ) .
+Configurational information in face perception .
+Perception , 16 , 747–759 .
+http : //dx.doi .org/10.1068/p160747 Zhao , J. , Al-Aidroos , N. , & Turk-Browne , N. B .
+( 2013 ) .
+Attention is spontaneously biased toward regularities .
+Psychological Science , 24 , 667–677 .
+http : //dx.doi.org/10.1177/0956797612460407 Received September 18 , 2014 Revision received December 15 , 2014 Accepted January 29 , 2015 Members of Underrepresented Groups : Reviewers for Journal Manuscripts Wanted If you are interested in reviewing manuscripts for APA journals , the APA Publications and Communications Board would like to invite your participation .
+Manuscript reviewers are vital to the publications process .
+As a reviewer , you would gain valuable experience in publishing .
+The P & C Board is particularly interested in encouraging members of underrepresented groups to participate more in this process .
+If you are interested in reviewing manuscripts , please write APA Journals at Reviewers @ apa.org .
+Please note the following important points : • To be selected as a reviewer , you must have published articles in peer-reviewed journals .
+The experience of publishing provides a reviewer with the basis for preparing a thorough , objective review .
+• To be selected , it is critical to be a regular reader of the five to six empirical journals that are most central to the area or journal for which you would like to review .
+Current knowledge of recently published research provides a reviewer with the knowledge base to evaluate a new submission within the context of existing research .
+• To select the appropriate reviewers for each manuscript , the editor needs detailed information .
+Please include with your letter your vita .
+In the letter , please identify which APA journal ( s ) you are interested in , and describe your area of expertise .
+Be as specific as possible .
+For example , “ social psychology ” is not sufficient—you would need to specify “ social cognition ” or “ attitude change ” as well .
+• Reviewing a manuscript takes time ( 1–4 hours per manuscript reviewed ) .
+If you are selected to review a manuscript , be prepared to invest the necessary time to evaluate the manuscript thoroughly .
+APA now has an online video course that provides guidance in reviewing manuscripts .
+To learn more about the course and to access the video , visit http : //www.apa.org/pubs/authors/review- manuscript-ce-video.aspx .
+T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+729HOLISTIC PROCESSING FROM LEARNED ATTENTION

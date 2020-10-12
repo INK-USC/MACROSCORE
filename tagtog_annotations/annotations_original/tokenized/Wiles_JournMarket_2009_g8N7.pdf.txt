@@ -1,0 +1,573 @@
+Wiles_JournMarket_2009_g8N7.pdf
+aZCpYFpG6Ib0At7aIwo_2YQoCUTm-Wiles_JournMarket_2009_g8N7.pdf.plain.html
+
+44 Journal of Marketing Vol .
+73 ( July 2009 ) , 44–63 © 2009 , American Marketing Association ISSN : 0022-2429 ( print ) , 1547-7185 ( electronic ) Michael A. Wiles & Anna Danielova The Worth of Product Placement in Successful Films : An Event Study Analysis As a result of the diminishing effectiveness of broadcast advertising , firms are increasingly turning to product placements in films and television to promote their products .
+A growing stream of product placement research has conducted surveys of consumer and practitioner views on the practice and experiments to gauge product placement ’ s impact on brand awareness , attitudes , and purchase intent .
+However , there is no evidence of whether firms ’ investments in film product placements are worthwhile .
+The event study of 126 product placements in successful films during 2002 reveals a mean cumulative abnormal return of .89 % during the film ’ s opening , indicating that product placement in a successful film is associated with positive movements in firm stock prices .
+Cross-sectional analysis of the returns offers new insight into how product , film , and execution factors influence the placement ’ s worth .
+The authors find that placement abnormal returns are enhanced by tie-in advertising and brand equity but are inhibited by audience absorption , critical acclaim , and violent film content .
+Placement modality , character associations , and blatancy also significantly affect the placement ’ s value .
+Keywords : product placement , brand integration , event study , movies , abnormal returns Michael A. Wiles is Assistant Professor of Marketing , W.P .
+Carey School of Business , Arizona State University ( e-mail : michael.wiles @ asu.edu ) .
+Anna Danielova is Assistant Professor of Finance , DeGroote School of Business , McMaster University ( e-mail : adaniel @ mcmaster.ca ) .
+The authors thank Neil Morgan , Rebecca Slotegraaf , Rosann Spiro , and the four anonymous JM reviewers for their thoughtful comments .
+The authors also greatly appreciate the suggestions of Mark Houston , Neal Galpin , Jennifer Klett , Adam Duhachek , Alina Sorescu , and Daniel Smith on prior versions of the article , as well as the generous support of Jonlee Andrews and the Center for Brand Leadership at the Kelley School of Business at Indiana University .
+The shareholder returns to marketing actions andresource deployments are a primary concern of schol-ars and firms ( Rust et al .
+2004 ) .
+As one of the most visible areas of marketing activity and the largest item of marketing spending in most firms , advertising has been an area of particular interest to researchers and managers .
+Sev- eral empirical studies of the advertising–performance rela- tionship have provided strong evidence that firms ’ tradi- tional advertising communications generate positive wealth for shareholders ( Conchar , Crask , and Zinkhan 2005 ) .
+However , because of growing consumer resistance to tradi- tional broadcast advertising , firms are increasingly turning to alternative ways to reach consumers and enhance the value of their brands ( Elliot 2008 ; Keller 2001 ) .
+An alterna- tive that has received particular interest among many firms is product placement in television and films .
+Product placement ( also sometimes referred to as “ brand integration ” ) is the inclusion of branded products or identifiers through audio or visual means within mass- media programming ( Balasubramanian 1994 ) .
+Film product placement originated in the 1940s , but only in the past decade have firms employed it as a key marketing tactic ( Karrh , McKee , and Pardun 2003 ) .
+Firms paid $ 722 million in fees , free products , and promotional support for film product placement in 2005 , and by 2010 , spending on film placement is predicted to surge to $ 1.8 billion ( PQ Media 2006 ) .
+In general , fees for individual placements are not disclosed , but firms are known to have contributed $ 25 mil- lion toward the production cost of Minority Report to show- case their products and services ( Grossberg 2002 ) .
+Cadbury Schweppes and Mitsubishi have each spent tens of millions of dollars promoting film placements , and Volkswagen will spend $ 200 million on fees and promotion to be integrated into NBC Universal ’ s films and television programs ( Finni- gan 2002 ; Ives 2005 ; Linnet and Halliday 2003 ) .
+However , in contrast to traditional broadcast advertising activities , the literature reveals little evidence on whether these investments pay off ( Balasubramanian , Karrh , and Patwardhan 2006 ) , and firms are either unable or unwilling to make such assessments ( Russell and Belch 2005 ) .
+Given the increasing pressures to hold marketing expenditures accountable ( Day and Fahey 1988 ; Luo and Donthu 2006 ; Rust et al .
+2004 ) and managers ’ evident uncertainty about the legitimacy and role of film product placement in their marketing strategies , objective assessments that calibrate the contribution of film placement to firms ’ expected cash flows and profits are urgently needed .
+To address this important knowledge gap , this article addresses the funda- mental question of the economic worth of placement in films .
+Product Placement in Successful Films / 45 We investigate the worth of product placements in films through an event study .
+Event studies are commonly used to assess the returns to a marketing action because it is extremely difficult to control for all the other concomitant factors that influence firm revenue and profits ( Geyskens , Gielens , and Dekimpe 2002 ) .
+Event studies allow the event ’ s unique contribution to the firm ’ s future profit per- formance to be isolated and measured ( Hyman and Mathur 2005 ) .
+Examining the highest-grossing movies in 2002 , we show that product placements in successful films are associ- ated with abnormal returns for shareholders .
+This provides the first empirical evidence to support the value of film product placement .
+In addition , we advance theoretical understanding by constructing a comprehensive model of the product and program factors that affect film placement worth , and we test this model using a cross-sectional analy- sis of the abnormal returns .
+This provides important new insights into which placement strategies maximize share- holder value .
+We organize the remainder of the article as follows : After reviewing the gaps that hinder our understanding of the returns to product placements in successful films , we integrate theory on the marketing–finance interface with insights from the advertising response and media effects lit- erature streams to develop hypotheses on how product and film factors affect placement worth .
+We then review our data collection , and after presenting the results of the event study and the cross-sectional analysis , we discuss our find- ings .
+Finally , we discuss the theoretical and managerial implications of the study .
+Literature Review Considerable research indicates that firms ’ advertising and marketing communication decisions have strong influences on firms ’ stock prices .
+One perspective holds that advertis- ing indicates the availability of discretionary firm resources and firm financial solvency ( Erickson and Jacobson 1992 ) , but spending on advertising is more commonly viewed as an investment in intangible firm assets , shaping the prospective size and vulnerability of the firm ’ s future cash flows ( Srivastava , Shervani , and Fahey 1998 ) .
+Advertising is also believed to raise the firm ’ s capital market visibility , which can broaden the firm ’ s investor base , improve liquid- ity , and lower the firm ’ s systematic risk and cost of capital ( Grullon , Kanatas , and Weston 2004 ; McAlister , Srinivasan , and Kim 2007 ) .
+Studies of firms ’ aggregate advertising expenditures have found that increased levels of advertising and related brand-building activities are associated with enhanced cash flows and market values ( Conchar , Crask , and Zinkhan 2005 ) .
+However , the returns to individual ad campaigns are more variable ( Agrawal and Kamakura 1995 ; Tellis et al .
+2005 ; Wiles 2007 ) .
+Evidence that alternative ways of enhancing product exposure are worthwhile is still emerging .
+The results from event studies suggest that major-league sports and Olympic sponsorships enhance firms ’ stock prices ( e.g. , Cornwell , Pruitt , and Clark 2005 ) , but the wisdom of less salient com- munication alternatives , such as product placement , remains unclear .
+Investors ’ judgments of the worth of a firm ’ s mar- keting action are conditioned by the action ’ s perceived con- sumer impact ( Lane and Jacobson 1995 ) .
+Therefore , the economic return to product placement in successful films is inextricably connected to the placement ’ s expected effects on consumers .
+Scholars have primarily pointed to McCracken ’ s ( 1989 ) meaning-transfer model as a mechanism that can explain consumers ’ response to placements .
+McCracken suggests that the use of celebrity endorsers is effective because celebrities are endowed with symbolic meaning that is passed on to the product through its association with the celebrity .
+In much the same way , popular entertainment has rich symbolic meaning that can be transferred to the placed product ( Russell 2002 ) .
+Consumers connect the film world to their own , mapping their aspirations onto the products placed in the film ( DeLorme and Reid 1999 ) , which in turn influences attitudes and consumption norms ( Pechmann and Shih 1999 ) .
+For these reasons , film and television product placements have been found to enhance brand awareness , attitudes , and purchase intent ( e.g. , D ’ Astous and Chartier 2000 ; Russell 2002 ) .
+Prominent placements capture atten- tion and enhance these intermediate consumer outcomes ( e.g. , Gupta and Lord 1998 ) , but the enhancing effects of other execution factors , such as modality and plot connec- tion , have received less consistent support ( Law and Braun 2000 ; Russell 2002 ) , clouding knowledge of which place- ments are valuable .
+Therefore , our review suggests that several gaps remain in the understanding of film product placement .
+Because there is no direct evidence connecting film placement to increases in firm cash flows and stock price performance , it remains unclear whether film placement is indeed a wise practice .
+Prior placement research has also paid little atten- tion to how film characteristics affect placement outcomes .
+This oversight is surprising , given the substantial literature on how program factors affect ad effectiveness ( Feltham and Arnold 1994 ) .
+Because it is also not apparent how product-level factors affect placement value and because prior research has not simultaneously controlled for each of the different execution dimensions , firms have little knowl- edge about which placement opportunities to pursue .
+Thus , there is a need for research that can discern the worth of film placement and that considers simultaneously the effects of product , film , and execution factors .
+Our event study approach is uniquely suited to filling this gap .
+Conceptual Framework Film placement worth is derived from the placement ’ s abil- ity to influence shareholder value positively , and there are several hypotheses that can offer a credible mechanism by which product placement information affects investor deci- sions .
+First , the price pressure hypothesis states that public attention ( Barber and Odean 2008 ; Meschke 2004 ) or public mood and enthusiasm ( Fehle , Tsyplakov , and Zdorovtsov 2005 ; Huberman and Regev 2001 ) alone can move stock trading volume and prices .
+Second , the investor recognition hypothesis , originally developed by Merton ( 1987 ) , highlights the role of increased publicity and firm awareness on investor trading behavior .
+According to this 46 / Journal of Marketing , July 2009 view , increased visibility for a firm can draw investor atten- tion , induce some of these investors to follow the firm , and motivate these investors to become new shareholders , thus leading to a greater ownership base of the stock and greater liquidity ( Grullon , Kanatas , and Weston 2004 ) .
+Similarly , scholars have found that increased publicity for initial pub- lic offerings attracts additional retail investors to such offer- ings and enhances offer price valuations ( Cook , Kieschnick , and Van Vess 2007 ) .
+Third , the investor sentiment hypothe- sis posits that sentimental investors may drive up the rela- tive demand for shares of the firms that have the vector of principal characteristics that is compatible with their senti- ment ( Baker and Wurgler 2006 ) .
+Perhaps more important , however , film placement infor- mation can also be expected to affect stock prices by directly changing investor expectations regarding the firm ’ s future financial performance , and thus there would also likely be information-based trading in response to the film placement event .
+Because the firm ’ s stock price reflects the discounted value of the firm ’ s expected cash flows , market- ing activities that accelerate and enhance future cash flows have the ability to affect shareholder value positively ( i.e. , the stock price effect ) ( Anderson , Fornell , and Mazvan- cheryl 2004 ; Gruca and Rego 2005 ; Rao and Bharadwaj 2008 ) .
+Financial markets are forward looking ; thus , if the film placement has positive implications for the firm ’ s prospects , the firm ’ s market value will shift to reflect these anticipated changes in the firm ’ s financial performance before these changes actually occur .
+By building intangible market-based assets , firm marketing actions have the poten- tial to shape prospective cash flows and , thus , the firm ’ s market value by ( 1 ) increasing cash flow levels , ( 2 ) acceler- ating cash flow timing , ( 3 ) reducing cash flow vulnerability , and ( 4 ) increasing the firm ’ s residual value ( Fornell et al .
+2006 ; Srivastava , Shervani , and Fahey 1998 ) .
+Evidence sug- gests that film product placement can facilitate firm perfor- mance in each of these ways .
+How Film Product Placement Positively Shapes Expected Future Cash Flows First , there are strong reasons for investors to expect that film product placement enhances future cash flow levels .
+Ample evidence indicates that product placements increase consumer awareness and enhance brand attitudes ( e.g. , D ’ Astous and Chartier 2000 ; Gupta and Lord 1998 ) .
+Thus , film product placement has the potential to improve brand equity , and improvements in brand equity have long been associated with increased consumer demand and increases in cash flow levels ( Aaker and Day 1974 ; Conchar , Crask , and Zinkhan 2005 ) .
+Enhanced brand associations can also increase the perceived value of the firm ’ s offering and improve customer satisfaction , further facilitating cash flows ( e.g. , Gruca and Rego 2005 ; Rust , Zahorik , and Kein- ingham 1995 ) .
+For these reasons , strong links between brand enhancement and improvements in firm market value have often been observed ( Aaker and Jacobson 2001 ; Lane and Jacobson 1995 ) .
+Second , film placements can enhance firm market val- ues by accelerating the expected timing of the firm ’ s cash flows .
+Placements have been found to increase purchase intent ( Gould , Gupta , and Grabner-Krauter 2000 ) ; thus , placements can lead to impulse purchases , which can accel- erate the receipt of cash flows .
+A placement ’ s ability to stimulate new product uses and applications may also fur- ther facilitate investors ’ expectations of firm cash flow tim- ing .
+Placements are especially effective in encouraging new types of product consumption because placements are aspi- rational and can set consumption norms ( Russell 1998 ) .
+Third , film product placement has the potential to enhance firm market value by reducing the expected vulner- ability of the firm ’ s cash flows .
+Consumers ’ connections with films can create strong loyalty for the products in the film , creating substantial switching costs .
+Placements can also affect consumption trends and styles for years after the film ’ s release ( Yorks 1989 ) .
+Ford ’ s use of Steve McQueen in a 2005 Mustang commercial further suggests that film placements can be an enduring source of positive brand associations and equity .
+Finally , film product placement can be expected to expand the firm ’ s customer base , increasing the firm ’ s residual value .
+The significant increase in sales of Red Stripe after The Firm and the Mini Cooper after The Italian Job is testament to the potential of film placement to attract new customers to brands .
+Moreover , film placements are an attractive way to target specific audiences , such as teenagers , and they allow firms to expose their products to consumers who would not normally pay attention to the brand .
+For example , Cadillac placed its cars in The Matrix Reloaded to reach a younger audience .
+In summary , extensive theory and evidence suggest that investors should react positively to film placement .
+Place- ments should lead investors to develop positive expectations for future financial performance because placements can lead to improvements in brand associations and loyalty that can accelerate and enhance the firm ’ s cash flows .
+For these reasons , we posit the following : H1 : Film product placement is positively associated with a change in firm market value .
+Following advertising response models ( MacInnis and Jaworski 1989 ) , we assert that the worth of a film product placement is related to product , film , and execution factors ( see Figure 1 ) , which affect the likely consumer and investor response to the placement .
+Because of the ample research on the execution factors , we incorporate these fac- tors into our framework as controls .
+Product and Film Determinants of Placement Worth Tie-in advertising .
+Tie-in advertising occurs when the firm promotes a product ’ s appearance in a film before the film ’ s release .
+First , a reason cash flow levels due to the placement are enhanced is that tie-in advertisements facili- tate consumer processing of the placement .
+Prior exposure to a concept increases the concept ’ s accessibility ( i.e. , Hig- gins and King 1981 ) , improving people ’ s ability to identify the concept in visually complex environments .
+Therefore , tie-in advertisements increase the likelihood that consumers will notice the placement in the film .
+Product Placement in Successful Films / 47 FIGURE 1 A Conceptual Model for the Worth of Product Placements in Successful Films Firm Market Value H1+ Product Placement in Successful Films Execution Factors Controls Film FactorsFirm/Product Factors H4 : Audience absorption ( – ) H5 : Critical acclaim ( – ) H6 : Film violence ( – ) Controls •Opening box office Level of profanity Level of sexuality Level of drug use Number of other placements in film • • • • •Modality •Plot connection •Associated with star •Recurrent character association •Visual prominence •Audio valence •Placement blatancy •Number of brands •Market value H2 : Tie-in advertising ( + ) H3 : Brand equity ( + ) Controls Second , placements supported by tie-in advertising campaigns are worth more because the tie-in campaign strengthens consumers ’ meaning transfer from the film to the product .
+Consumers are more likely to draw film– product connections because the advertising and its cost highlight the placement ’ s significance to the firm .
+The expense and publicity of the tie-in campaign increase the placement ’ s diagnosticity ( Kirmani 1990 ) , elevating the importance of the placement in consumers ’ network of brand associations .
+Tie-in advertising may also create con- textual priming effects ( Yi 1993 ) , which further facilitate meaning transfer .
+Third , the expenditure of financial and organizational resources on the tie-in advertising also signals the place- ment ’ s strategic importance to the firm .
+The tie-in campaign indicates the priority that the firm places on leveraging its involvement with the film , suggesting that the firm consid- ers the film ’ s associations vital additions to the brand .
+Investors may also respond more favorably because of the potential communication synergies of the tie-in campaign .
+In summary , tie-in advertising directs consumer atten- tion to the placement and thus enhances film–product meaning transfer and bolsters film–product connections .
+For these reasons , we expect the following : H2 : The worth of product placement in successful films is pos- itively related to the presence of tie-in advertising .
+Brand equity .
+Familiar , favorably regarded brands have high brand equity ( Keller 1993 ) , and the returns from film product placement should be positively related to brand equity for three primary reasons .
+First , consumers ’ motiva- tion and ability to process the placement increase when the placement is for a strong , familiar brand rather than a weak , unfamiliar brand .
+Attention in cluttered visual environments focuses on objects with easily accessible attitudes , and con- sumers are more motivated to pay attention to advertise- ments for well-known brands ( Tellis 1988 ) .
+As a result , advertisements for well-known brands enjoy higher levels of recall , and well-known brands are less affected by competitive inference ( Kent and Allen 1994 ) .
+Thus , place- ments for high-equity brands are worth more because these brands draw attention , lengthening the opportunity for meaning transfer .
+Second , evidence also indicates that brand equity may enhance the mapping process .
+Because of consistency con- cerns , positive information is weighed more heavily when the brand is familiar and well regarded ( Ahluwalia 2002 ) .
+Thus , the mapping of the film onto the product occurs more easily for high-equity brands , enhancing the increases in demand and cash flows from the placement .
+Third , placements for high-equity brands may convey more strategic information to financial markets .
+The high- equity brand ’ s high familiarity suggests that the primary intent of the placement is not merely to increase brand exposure but also to deepen and enhance brand associa- tions .
+Therefore , investors are likely to infer greater strate- gic significance to these brand placements .
+For example , the placement of Mercedes in Men in Black II signified new emphasis on the fun of driving a Mercedes , a shift to enhance the brand ’ s appeal with younger consumers .
+Thus , brand equity expands the returns from film placement because it leads to favorable consumer processing and to 48 / Journal of Marketing , July 2009 positive inferences about the brand ’ s future strategic direction .
+H3 : The worth of product placement in successful films is pos- itively related to brand equity .
+Audience absorption .
+Theories from multiple research streams suggest that the level of audience absorption affects consumers ’ motivation and ability to attend to placements .
+Media processing models from psychology contend that people process the narratives in books and films by becom- ing absorbed in and transported into the story ( Dal Cin , Zanna , and Fong 2004 ) .
+Absorption is a convergent process in which attention is focused on understanding the events in the narrative , leaving little motivation and ability for other tasks .
+People who are absorbed lose themselves in the story , thus limiting placement awareness .
+The relationship between advertising effectiveness and program involvement suggests additional evidence for the inhibiting effect of absorption .
+Most of this research has examined the effects of program involvement in situations , such as radio and television commercials , in which the pro- gram and the advertisement are presented sequentially ( Lord and Burnkrant 1993 ) .
+With placements , however , the entertainment and commercial messages are presented con- currently .
+When the advertisement is presented at the same time as the entertaining content , program involvement inhibits attention to the advertisements ( Norris and Colman 1992 ; Wang and Calder 2006 ) , thus limiting the opportunity for meaning transfer .
+In summary , these streams converge on the idea that placements in absorbing films receive less favorable con- sumer processing .
+Therefore , investors should react less positively to placements in absorbing films .
+H4 : The worth of product placement in successful films is negatively related to film absorption .
+Critical acclaim .
+Though counterintuitive , three argu- ments suggest that placements in critically acclaimed films are less valuable to the firm .
+First , evidence suggests that consumers become irritated when advertisements impede consumption goals ( Edwards , Li , and Lee 2002 ) .
+Product placements in critically acclaimed films hinder consumers ’ attainment of their artistic consumption goals ( Holbrook and Hirschman 1982 ) because the placements are commer- cial messages that disrupt their experience of the film .
+Thus , consumers become upset and angry when they encounter placements in critically praised films ( DeLorme and Reid 1999 ) , which dampens brand evaluations .
+Second , because consumers expect the high art experi- ence to be free from advertising persuasion tactics ( Charters 2006 ) , the appearance of placements in acclaimed films may also disconfirm expectations .
+Disconfirmation leads to increased elaboration and lower evaluations of the dis- crepant product when the novelty is not appreciated ( Camp- bell and Goodstein 2001 ) .
+These negative reactions to the placement may be exacerbated if the artistic processing goals increase the irrelevance of the discrepancy , further lowering the placement ’ s worth .
+Third , there is growing consumer consciousness that certain public artistic goods need to be protected from advertising messages ( Klein 1999 ; Meenaghan and Shipley 1999 ) .
+Thus , consumers may react negatively to placements in acclaimed films because they believe that these films should be a protected area , free from marketing persuasion tactics .
+As such , consumers may perceive placements in acclaimed films as inappropriate , thus reducing their worth .
+In summary , research streams on goal impediment , information expectancy , and marketing tactic appropriate- ness converge on the idea that consumers react less posi- tively to placements in critically acclaimed films .
+Because consumer anger and annoyance with an advertising tactic are believed to reduce advertising effectiveness ( Aaker and Bruzzone 1985 ) , we predict that investors consider place- ments in critically acclaimed films less valuable .
+H5 : The worth of product placement in successful films is negatively related to film critical acclaim .
+Association with violence .
+There are two main reasons to suspect that violence in films diminishes placement worth .
+First , the literature on media violence contends that consumers react to violence in television and films with feelings of hostility , aggression , and anger ( Bushman 2005 ) .
+These negative emotions and associations may be transferred to the placed product ( McCracken 1989 ) , thus attenuating placement value .
+For example , recent studies have found that advertisements embedded in violent televi- sion programs generate lower purchase intentions ( Bush- man 2005 ) .
+The second reason film violence may diminish place- ment worth is related to the inferences consumers draw from the firm ’ s involvement with the violent film .
+A product placement functions as an endorsement ( Russell 1998 ) , so a placement suggests that the firm approves of the film ’ s sub- ject matter .
+If the firm disapproved of the film ’ s content , it would not have placed the product in the film .
+For example , airlines refuse placements in films that depict flying in a negative manner .
+A product placement sends the message that the firm is not bothered by the film ’ s violence , and thus consumers may lower their opinions of products placed in violent films because of their concerns about film violence and its negative impact on society ( Brown and Dacin 1997 ; Salwen and Dupagne 1999 ) .
+In summary , we hypothesize that placement worth is negatively related to the level of violence in films .
+However , young men are less bothered by media violence ( Hamilton 1998 ) .
+This suggests that products that are primarily tar- geted toward consumer segments that do not judge film vio- lence negatively are less harmed by violent content .
+Although we make no formal prediction , we examine whether product type moderates the impact of violence .
+H6 .
+The worth of product placement in successful films is neg- atively related to film violence .
+Method Event Study Methodology We use the event study methodology to assess the impact of the event ’ s unexpected information on the firm ’ s stock price .
+The efficient market hypothesis asserts that a stock Product Placement in Successful Films / 49 price reflects all public information about the firm , so only unexpected information can change the price of a stock ( Fama et al .
+1969 ) .
+If the new information indicates that the firm will garner higher ( lower ) future cash flows , the firm ’ s stock price rises ( drops ) in reaction to the new information .
+The stock ’ s abnormal return—the difference between the expected returns based on general market movement and the actual returns—provides an unbiased estimate of the economic worth of the event ( Brown and Warner 1980 ) .
+Excellent reviews of the market model approach for esti- mating abnormal returns have appeared recently in the lit- erature ( e.g. , Srinivasan and Bharadwaj 2004 ) .
+We use the portfolio method to construct our test statistic due to our event date clustering ( Jaffe 1974 ) , and we present details about this test in the Appendix .
+Information about the company ’ s film placement is dis- seminated to the market when the film is released , as well as before the event , through firm promotional efforts .
+This firm publicity can cue investors to the placement—drawing attention to the film—but we assume that the information needed to change investors ’ beliefs about the firm ’ s prospects is not available to investors until the film is shown .
+We validate this assumption in our results .
+Data Because Hollywood studios release approximately 200 films each year , we limited our analysis to the most popular films , or the 31 movies in 2002 that made $ 20 million in the United States during their first weekend , according to Boxofficemojo.com .
+Seven movies had no product place- ments , so our final sample included 24 films .
+Variable Operationalization Our event is the appearance of a product in the released film and the circumstances of its appearance because informa- tion about how the product appears ( placement execution ) and the film context in which it appears ( e.g. , film violence , audience size ) is not available until the film ’ s release .
+A visual placement occurs if the product ’ s name or logo is legibly shown on the screen , and an audio placement occurs if the product is mentioned ( Russell 2002 ) .
+We summarize our measurement of the product , film , and execution factors in Table 1 , and we present descriptive statistics and correla- tions in Tables 2 and 3 .
+Firm/product factors .
+We operationalized tie-in adver- tising as whether the firm supported its placement with a promotional advertising campaign , which we identified through a Factiva search .
+We measured brand equity as the brand ’ s value in billions of dollars from BusinessWeek ’ s top 100 global brands in 2002 , a valid measure of brand equity ( Madden , Fehle , and Fornier 2006 ) .
+We also controlled for the market value of the firm on the event day , which we determined by multiplying the closing stock price on the event day by the number of shares outstanding .
+Film factors .
+To proxy audience absorption , we used the decimal equivalent of the film ’ s grade from CinemaScore , a market research firm that surveys opening-night audiences about how much they enjoyed the film .
+Enjoyment is a good proxy for absorption for two reasons .
+First , theorists assert that one key element of an enjoyable book , or film , is that it is absorbing ; it transports people from their mundane reality into a story world ( Green , Brock , and Kaufman 2004 ) .
+Sec- ond , it has been empirically determined that enjoyment is highly correlated with absorption levels ( ρ = .77 ) ( Green et al .
+2004 ) .
+We measured critical acclaim as the film ’ s META- SCORE , which we obtained from Metacritic.com , a Web site that aggregates the ratings of approximately 40 film critics .
+Using this score , we developed an index ( 0–100 ) of critical sentiment toward the film .
+We determined the film ’ s level of violence , profanity , and sexuality using data from Kids-In-Mind , one of the oldest and most popular film content advisory services .
+Kids-In-Mind employs trained reviewers who screen for objectionable material and then rate the film ’ s amount of violence , profanity , and sexuality on a scale ranging from 0 to 10 .
+The organization has no political or religious affiliation ; it aims to provide an “ objective ” account of the level of violence , sex , and pro- fanity in the film , without making value judgments about the age appropriateness of the content ( Thompson and Yokota 2004 ) .
+Kids-In-Mind does not provide a rating for drug content , so we had two independent coders review the films and record the instances of drug use .
+We included the film ’ s opening three-day gross in the model to control for the placement ’ s potential reach .
+We also included the num- ber of placements in the film for other firms to control for competitive interference from other placements .
+Execution factors .
+To account for the idiosyncrasies in placement execution , we captured measures for all execu- tion factors previously found to affect consumers ’ place- ment processing .
+The placement ’ s “ plot connection ” reflected whether the placement advanced the plot or increased the audience ’ s understanding of a main character ( Russell 2002 ) .
+To control for placement “ modality , ” we captured the number of audiovisual placements for the firm in the film .
+We incorporated the “ prominence of the visual placement ” by capturing the placement ’ s time on screen , the time in the background , and the time that the product was the only placement on screen ( Gupta and Lord 1998 ) .
+We captured the “ valence of the audio placement ” to con- trol for differences in endorsement ( Russell and Stern 2006 ) .
+An audio mention was positive ( negative ) if it was a favorable ( critical ) comment about the product .
+Comments that were neither positive nor negative were considered neutral .
+However , perfect multicollinearity with plot con- nection prevented positive valence from being included in the analysis .
+Because of their high correlation with plot connection , we did not include time in background and neutral valence to minimize the potential problems of multicollinearity .
+We controlled for “ star association ” because celebrities increase attention , recall , and purchase intent ( Agrawal and Kamakura 1995 ) .
+Actors credited before the film ’ s title were considered stars ( Lippman 2005 ) , and star association was recorded as a binary variable , representing whether the product was touched , held , consumed , or mentioned by the star .
+We also controlled for “ association with a recurrent character , ” a character established in a previous film or tele- 50 / Journal of Marketing , July 2009 TABLE 1 Variable Operationalization Firm/product factors Tie-in advertising A binary variable representing whether the firm ran a tie-in promotional campaign in conjunction with the film , as identified by a Factiva search .
+Brand equity The brand ’ s value according to the 2002 BusinessWeek list of the top 100 global brands ( in billions ) .
+Market value The closing market price times the number of shares outstanding from the Center for Research in Security Prices .
+Film factors Audience absorption Average CinemaScore grade from opening-night audiences converted to its decimal equivalent ( e.g. , A = 4.00 ) .
+Critical acclaim The METASCORE index from Metacritic.com , which represents the weighted average grade of approximately 40 film critics , converted to a 0–100 scale .
+Level of violence The violence/gore rating for the film ( 0–10 ) from Kids-In-Mind , an independent , objective film advisory service .
+Level of profanity The profanity rating for the film ( 0–10 ) from Kids-In-Mind .
+Level of sexuality The sex/nudity rating for the film ( 0–10 ) from Kids-In-Mind .
+Level of drug use The number of instances of drug use in the film , as identified by independent coders .
+Opening box office ( audience size ) The opening three-day box office revenue in tens of millions of dollars from Boxofficemojo.com .
+For most films , this was the Friday–Sunday gross .
+For two films , this was the Wednesday–Friday gross .
+Number of other placements in film The number of placements for other firms ’ products in the film .
+Execution factors Modality : number of audiovisual placements The number of times the product ’ s appearance on screen is paired with a verbal mention .
+Visual : low plot connection The time the product appears on screen unconnected to the plot ( in seconds ) .
+Visual : high plot connection The time the product appears on screen connected to the plot ( in seconds ) .
+Visual : no other products visible The percentage of time the product appears on screen by itself .
+Audio : low plot connection Product mentions that do not advance the plot or provide meaningful information about the character ( number of mentions ) .
+Audio : high plot connection Product mentions that advance the plot or provide meaningful information about the character ( number of mentions ) .
+Audio : negative valence The number of times the product is referred to unfavorably .
+Star association If the product is used or mentioned by an actor with above-the-title credits .
+Recurrent character association If the product is used or mentioned by an established screen character .
+Ten films contained established screen characters ( Blade II , Die Another Day , Austin Powers in Goldmember , Jackass : The Movie , Men in Black II , Red Dragon , The Santa Clause 2 , Scooby-Doo , Spider-Man , and The Sum of All Fears ) .
+A blatant placement If multiple film critics ’ reviews complained about shamelessness or the excessiveness of the placement .
+These film reviews were published only on the –1 and 0 trading days .
+Number of brands The number of the firm ’ s brands appearing in the film .
+Product Placement in Successful Films / 51 TABLE 2 Descriptive Statistics Minimum Maximum M SD [ –2 , 0 ] abnormal return in percent –4.75 13.95 .89 2.83 Product Factors Tie-in advertising .00 1.00 .09 .28 Brand equity .00 69.64 6.58 15.46 Market value .01 374.32 30.12 52.95 Film Factors Audience absorption 2.33 4.00 3.51 .28 Critical acclaim 24.00 80.00 55.91 16.61 Level of violence 2.00 10.00 5.06 1.66 Level of profanity 2.00 10.00 5.12 2.12 Level of sexuality 1.00 7.00 3.43 1.48 Level of drug use .00 8.00 .28 1.14 Opening box office ( in tens of millions of dollars ) 2.02 11.48 4.48 2.55 Number of other placements in film .00 32.00 14.77 8.90 Execution Factors Modality Number of audiovisual placements .00 1.00 .08 .27 Visual Placement Execution Low plot connection ( time ) .00 60.00 5.98 9.92 High plot connection ( time ) .00 133.00 5.06 19.32 No other products visible ( % ) .00 1.00 .56 .49 Audio Placement Execution Low plot connection ( number ) .00 4.00 .34 .63 High plot connection ( number ) .00 4.00 .14 .53 Negative valence ( number ) .00 2.00 .02 .20 Other Execution Factors Star association .00 1.00 .39 .49 Recurrent character .00 1.00 .16 .37 Commercially intrusive .00 1.00 .05 .21 Number of brands 1.00 4.00 1.16 .51 vision show ( e.g. , Austin Powers , Scooby-Doo ) , because consumers have richer associations for known screen char- acters than for newer characters .
+A placement was consid- ered “ blatant ” if two or more film critics ’ reviews ( from those accessible through Factiva ) complained about the shamelessness or the excessiveness of the placement , and placement blatancy was recorded as a binary variable .
+Finally , we controlled for the number of brands because a firm is likely to obtain greater returns if more of its products are connected to the film .
+Data Collection Procedure To identify the placements and how they appeared in the film , an author and a graduate student independently watched DVDs of the films and recorded the features of the placement ’ s execution .
+These two coders recorded the placement ’ s modality , plot connection , visual prominence , and valence .
+Only placements for products for firms traded on the major U.S. stock exchanges were recorded .
+The appearance of a product during a scene was considered a placement .
+If a product appeared multiple times in one scene , this was recorded as a single placement , but place- ments in multiple scenes were recorded separately .
+The coders identified 283 visual and audio placements of products of companies publicly listed in the United States , with an interrater reliability index of .79 ( Perreault and Leigh 1989 ) .
+Interrater reliabilities for the placement ’ s modality , plot connection , prominence , and valence vari- ables were all greater than .80 , and all discrepant codings were resolved through discussion .
+These 283 placements represented 177 events because some firms had multiple placements in a film .
+We used aggregated totals of a firm ’ s placements in a film in the cross-sectional analysis .
+To measure the placement ’ s blatancy , we conducted a Factiva database search to identify whether a film critic mentioned the product in the review .
+Two independent stu- dent coders then read the 163 film reviews that mentioned a product and recorded whether the critic complained about the shamelessness or the excessiveness of the placement .
+Interrater reliability ( see Perreault and Leigh 1989 ) was high ( .95 ) , and the coders independently resolved their dis- crepant coding .
+Independent coder ratings of film drug use also displayed high interrater reliability ( .87 ) .
+Analysis , Results , and Discussion Event Analysis The event date was the day the film opened in theaters .
+Fol- lowing McWilliams and Siegal ’ s ( 1997 ) recommendations , we used a Factiva database search to remove firms with 52 / Journal of M arketing , July 2009 TABLE 3 Correlations Placement worth [ – , 0 ] abnormal return 1.00 Product/firm factors Tie-in advertising .30 1.00 Brand equity .10 –.02 1.00 Market value .02 .01 .37 1.00 Film factors Audience absorption –.13 –.07 .01 –.09 1.00 Critical acclaim –.05 .11 –.07 –.11 –.21 1.00 Level of violence –.03 .16 –.08 –.06 –.34 .22 1.00 Level of profanity –.23 –.12 –.07 .05 –.34 .15 .45 1.00 Level of sexuality –.03 .06 –.14 –.23 .00 .32 .08 .22 1.00 Level of drug use –.18 –.00 –.06 –.10 –.10 .15 .19 .33 .16 1.00 Opening box office .18 .20 –.08 –.04 .02 .26 .08 –.33 .03 –.06 1.00 Number of other placements in film –.08 –.02 –.08 .06 .09 –.30 –.44 –.13 .14 –.25 .23 1.00 Execution factors Number of audiovisual placements .11 .12 –.09 –.07 .02 .03 –.01 –.04 .17 –.07 –.05 .14 1.00 Visual : low plot connection .16 .37 –.00 .07 .00 –.17 .10 –.01 –.01 .02 –.03 .04 .10 1.00 Visual : high plot connection .10 .13 .02 –.07 –.08 –.05 .06 .07 –.08 –.06 –.03 –.02 .05 –.13 1.00 Visual : no other products visible .12 .11 .11 –.10 –.03 –.03 .01 –.03 .05 –.08 –.16 .00 .27 .25 .23 1.00 Audio : low plot connection –.16 –.08 –.11 –.09 .04 .19 –.25 –.02 .12 .11 –.16 –.04 .17 –.17 –.09 –.20 1.00 Audio : high plot connection –.05 –.03 –.07 –.05 .16 –.14 –.20 –.10 .00 –.07 –.11 .12 .36 –.01 –.01 –.03 –.07 1.00 Audio : negative valence –.12 –.04 –.06 .03 .06 –.01 –.13 –.01 –.04 .04 –.09 .07 –.04 –.08 –.03 –.14 .38 –.03 1.00 Star association –.06 –.02 –.00 –.14 .12 .04 –.18 .03 .20 –.03 –.12 .06 .25 –.12 .17 .22 .16 .28 .07 1.00 Recurrent character .24 .17 –.09 –.12 .00 –.03 –.05 –.08 .17 –.11 .19 .02 .03 –.07 .13 .03 –.03 –.04 –.05 .37 1.00 Commercially intrusive .00 .33 –.03 –.01 –.06 –.07 –.01 –.05 –.01 –.05 –.02 .17 .21 .16 .19 .10 –.06 .15 –.03 .05 .00 1.00 Number of brands .21 .07 .06 .08 .11 –.14 –.15 –.06 .00 –.04 –.09 .12 .14 .24 .00 .17 –.12 .24 –.04 .17 –.01 .22 1.00 Notes : Correlations with an absolute value ≥.18 are significant at the .05 level .
+Those with an absolute value ≥.23 are significant at the .01 level .
+Product Placement in Successful Films / 53 information related to earnings , earnings guidance , mergers and acquisitions , spin-offs , stock splits , changes in key executives , layoffs , restructurings , joint ventures , lawsuits , major new product announcements , regulatory announce- ments , stock buybacks , and unexpected changes in the divi- dend during a period extending from four days before to two days after the film ’ s opening .
+After we eliminated these confounding events , 126 events remained in our sample ( see Table 4 ) .
+We gathered daily stock returns from the University of Chicago ’ s Center for Research in Security Prices .
+Follow- ing recommended guidelines ( Cowan 2003 ) , we estimated parameters of the market model for each firm over an esti- mation window of 255 trading days , ending 46 days before the event , using the Center for Research in Security Prices equal-weighted index to model the market portfolio .
+In the event study and the cross-sectional analysis , all statistical tests are two-tailed .
+Event Results and Discussion : The Worth of Product Placement in Successful Films To allow for any uncertainty regarding when the informa- tion was available to investors , common event study prac- tice is to determine the event window empirically ( Agrawal and Kamakura 1995 ; Brown and Warner 1985 ) .
+Because the final print arrives in theaters two days before the release date ( Thomas 1998 ) and the film is screened for critics and promotional audiences before release , the most plausible days to observe investor reaction are –2 , –1 , 0 , and 1 .
+How- ever , we also include the results for –5 , –4 , and –3 days to investigate possible leakage .
+The sample cumulative aver- age abnormal returns ( CAARs ) and test statistics over the possible event windows appear in Table 5 .
+Using the portfolio test statistic ( Jaffe 1974 ) , we docu- ment a significant , positive CAAR for the [ –2 , –1 ] and [ –2 , 0 ] event windows .
+Because the print arrives in theaters two days before release and the film is shown in advance of its opening for critics and promotional audiences , these win- dows fit our expectations .
+Although not all investors will be aware of the placements in these initial screenings , the mar- ket can become aware of this information because markets can aggregate information in a rational manner ( Ball 1995 ) .
+The results are qualitatively and quantitatively similar for the two windows , but we focus on the [ –2 , 0 ] window because certain film-level information , such as the film ’ s critical acclaim and the weekend box office , is not known with precision until the day the film opens ( Coyle 2006 ) .
+Thus , placement in a successful film is associated with an average increase in firm stock prices of .89 % over the film ’ s opening , in support of H1 .
+The significant associated binomial proportionality test statistic ( Z ) provides addi- tional support for the robustness of the film product place- ment ’ s positive abnormal return ( 74 of 126 abnormal returns are positive ; Z = 2.18 , p < .05 ) .
+Furthermore , the Wilcoxon rank test is significant ( Z = 1297.50 , p < .05 ) , indicating that our result is not due to outliers ( McWilliams and Siegel 1997 ) .
+Figure 2 shows the plot of the CAARs from –2 to 10 days after the event , which reveals nontransi- tory effects for film placement , suggesting that the market value boost is not short lived .
+On a per day basis , these 1We also investigated the long-horizon abnormal returns associ- ated with product placement in successful films , using calendar- time Fama–French three-factor model portfolio regressions ( e.g. , Sorescu , Shankar , and Kushwaha 2007 ) .
+These results for one-year and two-year postevent periods are not significant , suggesting that the effect of the film placement is completely impounded into the stock at the time of the event .
+abnormal returns are similar to the .54 % two-day CAAR found for celebrity endorsements and the .87 % three-day CAAR for television documentary featurettes ( Agrawal and Kamakura 1995 ; Takeda and Yamazaki 2006 ) .
+The .89 % abnormal return corresponds to an average $ 296.5 million gain in market value for firms in our sample and a gain of approximately $ 18.5 million for the average NYSE-/ NASDAQ-traded firm.1 We note that event studies in marketing traditionally use the press announcement as the event .
+However , we believe that the initial press announcement does not provide suffi- cient information for investors , because investors can not gauge how consumers will respond to the placement until they know how the product appears in the film , and this information is not known until the film is shown .
+Further- more , film-level characteristics are difficult to judge before the film ’ s release ( Liu 2006 ) .
+To confirm that we appropri- ately specified our event , we examined investor reaction to the press announcements of film product placements .
+A Factiva database search identified 25 press announcements of a product placement before the [ –2 , 0 ] event window .
+After we removed the 9 announcements with confound- ing information , a model employing the same estimation parameters documented no significant abnormal return for the remaining 16 announcements : CAAR [ –1 , 0 ] = –.48 % , t-statistic = –.53 ; AR [ 0 , 0 ] = –.42 % , t-statistic = –.67 ; CAAR [ 0 , 1 ] = –.47 % , t-statistic = –.52 .
+This suggests that there is no stock price movement associated with the announcement of a film placement in the press , which sup- ports our view that the press report does not provide suffi- cient information for investors to evaluate the placement .
+However , two additional analyses suggest that this pub- licity encourages investor attention to the film and provides clues as to how the market is informed of placement infor- mation .
+First , we conducted interviews with managers from eight firms that had engaged in product placement activities in our sample and with six investment analysts .
+These firms indicated that their placement publicity is primarily designed to build consumer awareness for the placement , but they also sometimes communicate placement informa- tion directly to the financial community by discussing placements during quarterly analyst calls and by distribut- ing press releases .
+In general , analysts appeared cognizant of film product placement ’ s positive effects and noted that the market is keyed to film placement by these press releases and the trade press , through the firm ’ s consumer promotions , and also by firm earnings calls .
+Second , we compared the abnormal returns between announced and unannounced placements to test the idea that this publicity draws additional attention to the film ’ s release , as the investor recognition hypothesis would suggest ( Merton 54 / Journal of Marketing , July 2009 Movie Firma ( Productb ) 8 Mile Energizer , Heinz Austin Powers in Goldmember Apple , eBay , Ford ( Jaguar ) , FedEx , General Motors ( Cadillac ) , Mandalay Bay ( Circus Circus ) , Pepsi , Playboy Barbershop Darden ( Red Lobster ) , Gillette , General Motors ( Cadillac ) , Kraft ( Planters , Grape Nuts ) , Pepsi , Toyota ( Camry ) , Tribune ( Chicago Tribune ) , Blade II Ducati , Krispy Kreme , Olin ( Winchester ) , TDK Catch Me If You Can American Airlines , Continental , General Motors ( Cadillac ) , JPMorgan Chase ( Chase Manhattan ) , Coca-Cola , Sara Lee , United Airlines , Unilever ( Good Humor ) Die Another Day British Airways , Ford ( Aston Martin , Jaguar ) , Phillips , Sony Insomnia Tribune ( Los Angeles Times ) Jackass : The Movie Danone ( Evian ) , Matsushita Electric ( Panasonic ) , Pioneer , Vans John Q Coca-Cola , AB Volvo ( Mack ) Men in Black II Coca-Cola , DaimlerChrysler ( Mercedes ) , eBay , Hasbro ( Twister ) , Honeywell , Limited Brands ( Victoria ’ s Secret ) , Sony , Pepsi , Sprint Minority Report American Express , Diageo ( Guinness ) , Gap , Luxottica ( Bvlgari , Revo ) , Nokia , Pepsi ( Pepsi , Aquafina ) , RadioShack , Toyota ( Lexus ) , Unilever ( Ben & Jerry ’ s ) Mr .
+Deeds Anheuser-Busch ( Budweiser ) , Disney , Kodak , General Electric ( NBC ) , General Motors ( Corvette ) , Hershey ( Bubble Yum ) , Kellogg ( Special K ) , Kraft ( Cocoa Pebbles ) , Krispy Kreme , Pepsi , Procter & Gamble ( Old Spice ) , Wendy ’ s , Wrigley Panic Room Anheuser-Busch ( Budweiser ) , Danone ( Evian ) , Energizer , General Electric ( NBC ) , Matsushita Electric ( Panasonic ) , Nokia , Procter & Gamble ( Nyquil ) , Sony Red Dragon FedEx , Starwood ( Sheraton ) Scooby-Doo Worldwide Restaurant Concepts ( Sizzler ) Signs Coca-Cola , Johnson & Johnson ( Tylenol ) Spider-Man Cadbury Schweppes ( Dr. Pepper ) , Ford ( Jaguar ) , Federated Department Stores ( Macy ’ s ) , General Motors ( Cadillac ) , Liz Claiborne , Prudential , SBC ( Cingular ) , Sara Lee ( Chock Full o ’ Nuts ) , Sony , TDK , VF ( Jansport ) Sweet Home Alabama Anheuser-Busch ( Bud Light ) , Capitol One , Disney ( W magazine ) , Fairmont ( Plaza ) , Coca-Cola , Neiman Marcus ( Bergdorf ) , Tiffany , Winn-Dixie The Bourne Identity British Petroleum , Estée Lauder , Matsushita Electric ( Panasonic ) The Santa Clause 2 eBay , Ford ( Mustang ) , Pepsi The Sum of All Fears Brown & Williamson ( Kool ) , Anheuser-Busch ( Budweiser ) , Hilton , Phillip Morris ( Marlboro ) , Reebok , R.J. Reynolds ( Camel ) , Time Warner ( CNN ) The Time Machine Federated Department Stores ( Macy ’ s ) , Tiffany XXX Kodak , General Motors ( Corvette ) , IBM , Motorola , Pearson ( Financial Times ) , Sony , Vans We Were Soldiers Amerco ( U-Haul ) aFirms with placements that had earnings announcements are not listed .
+bIf different from name of firm .
+Some firms had additional products in the film .
+TABLE 4 List of the Film Product Placement Events in the Sample Product Placement in Successful Films / 55 TABLE 5 CAARs for Product Placements in Successful Films Number with Jaffe ( 1974 ) Positive Wilcoxon Event CAAR Portfolio Sample Abnormal Signed Binomial Window ( % ) t-Statistic Size ( n ) Returns ( % ) Rank Test Z-Statistic –5 , –1 .34 .93 126 71 ( 56 ) 448.50 1.65* –5 , 0 .42 .93 126 63 ( 50 ) 215.50 .22 –5 , 1 .24 .23 126 60 ( 48 ) –4.50 –.31 –4 , –1 .55 1.41 126 71 ( 56 ) 887.50** 1.65* –4 , 0 .63 1.36 126 70 ( 56 ) 727.50* 1.47 –4 , 1 .45 .52 126 65 ( 52 ) 298.50 .58 –3 , –1 .70 1.59 126 79 ( 63 ) 1152.50** 3.07** –3 , 0 .78 1.62 126 75 ( 60 ) 995.50** 2.36** –3 , 1 .60 .58 126 66 ( 52 ) 445.50 .76 –2 , –1 .81 2.29** 126 78 ( 62 ) 1412.50** 2.90** –2 , 0 .89 2.23** 126 74 ( 59 ) 1297.50** 2.18** –2 , 1 .71 1.09 126 70 ( 56 ) 769.50* 1.47 –1 , –1 .17 .95 126 68 ( 54 ) 351.50 1.11 –1 , 0 .25 .89 126 59 ( 47 ) –86.50 –.49 –1 , 1 .07 –.46 126 60 ( 48 ) –392.50 –.31 0 , 0 .08 .29 126 60 ( 48 ) –275.50 –.31 0 , 1 –.10 –1.09 126 47 ( 37 ) –891.50** –2.63** *p ≤ .10 .
+**p ≤ .05 .
+FIGURE 2 Aggregated CAARs Over Time 0 .5 1 1.5 2 2.5 3 –2 –1 0 1 2 3 4 5 6 7 8 9 10 Days A g g re g at ed C A A R S ( % ) 2The six analysts did not attend film screenings , but they thought that some investors would , and they believed that the mar- ket reacts positively to film placements because placements can create buzz and top-line consumer demand .
+1987 ) .
+The results suggest that there is a positive relation- ship between film placement announcement and the magni- tude of the [ –2 , 0 ] abnormal return ( MAnnounced = 1.84 , n = 25 ; MUnannounced = .65 , n = 101 ; F1 , 124 = 3.64 , p = .06 ) .
+This supports the idea that prerelease publicity strengthens the market ’ s attention to the film and the placement and draws investors to investigate the film.2 Cross-Sectional Regression Results and Discussion We tested our remaining hypotheses by regressing the stan- dardized abnormal return from the event window [ –2 , 0 ] on our independent variables and controls .
+Following Agrawal and Kamakura ( 1995 ) , we used the firm ’ s standardized abnormal return as the dependent variable to reduce the problem of heteroskedasticity .
+Cross-sectional results appear in Table 6 .
+Results from the firm , film , and execution controls .
+The control model is significant ( F18 , 107 = 4.08 , p < .01 ) .
+Our findings indicate that the standardized abnormal return is positively associated with audience size ( bOpening = .19 , p = .06 ) , but the number of competing placements in the film has a deleterious effect ( b # of other placements in film = –.08 , p < .01 ) .
+The abnormal return is unrelated to the film ’ s profan- ity , sexuality , and drug use .
+Furthermore , we find that the worth of product placement in successful films is largely unrelated to the execution factors of plot connection , promi- nence , and valence .
+Association with a star has no effect on placement worth , but pairings with recurrent characters are valuable ( bRecurrent character = 2.52 , p < .01 ) .
+Placing multiple brands in the film enhances the firm ’ s abnormal return ( b # of brands = 1.53 , p < .01 ) , but our evidence suggests that bla- tancy has a dampening effect ( bBlatant placement = –1.74 , p = .08 ) .
+The firm ’ s standardized abnormal return is unrelated to the firm ’ s market value .
+Results including the independent variables .
+The full model is significant ( F22 , 103 = 4.91 , p < .01 ) , with a higher adjusted R-square .
+The superiority of the full model is fur- ther supported by its lower Bayesian information criteria value ( BICfull model = 1090.52 , BICcontrols only = 1104.10 ) , despite its additional parameters .
+56 / Journal of Marketing , July 2009 TABLE 6 Cross-Sectional Regression Results : Dependent Variable : CAAR in Percentage ( Over Days t = –2 to 0 ) Independent Variable Model 1 : Firm , Film , and Execution Controls Model 2 : Independent Variables + Controls ( Full Model ) Parameter Estimate t-Value Parameter Estimate t-Value Intercept –.47 –.38 12.82*** 3.14 Hypotheses H2 : Tie-in advertising ( + ) 2.19*** 2.70 H3 : Brand equity ( + ) .02** 2.01 H4 : Audience absorption ( – ) –2.69*** –2.98 H5 : Critical acclaim ( – ) –.04** –2.12 H6 : Film violence ( – ) –.53** –2.42 Firm Controls Market value .00 1.04 –.00 –.71 Film Controls Opening ( in tens of millions of dollars ) .19* 1.87 .31** 2.56 Profanity –.15 –1.10 –.01 –.03 Sexuality .09 .50 .32* 1.72 Drug use –.18 –.92 –.36* –1.82 Number of other placements in film –.08*** –3.22 –.14*** –3.88 Execution Controls Modality Number of audiovisual placements for firm in film 1.48 1.61 1.93** 2.23 Visual Placement Execution Low plot connection .02 1.13 .01 .55 High plot connection .02 1.19 .01 .88 No other products visible –.03 –.06 –.23 –.44 Audio Placement Execution Low plot connection –.48 –1.18 –.68* –1.75 High plot connection –.51 –1.10 –.56 –1.29 Negative valence .34 .30 .75 .72 Other Execution Factors Star association –.58 –1.04 –.67 –1.30 Recurrent character 2.52*** 3.32 1.50** 2.01 Blatant placement –1.74* –1.79 –1.91** –2.04 Number of brands 1.53*** 3.92 1.45*** 4.01 Observations 126 126 R2 .39 .51 Adjusted R2 .30 .41 F-value 4.08 4.91 F-probability < .01 < .01 Bayesian information criteria 1104.10 1090.52 *p < .10 .
+**p ≤ .05 .
+***p < .01 .
+We find strong support for the idea that placement worth is contingent on the product and film factors affecting consumers ’ response to placements .
+The abnormal return from the placement is enhanced by the presence of a tie-in advertising campaign ( bTie-in advertising = 2.19 , p < .01 ) , in support of H2 .
+We also find that placement worth is posi- tively related to the product ’ s brand equity ( bBrand equity = .02 , p < .05 ) , in support of H3 .
+These results suggest that though firms can not control how products appear in the film ( Cowlett 2000 ) , firms ’ brand and promotional decisions can bolster placement value .
+3Following the suggestion of a reviewer , we also considered that absorption ’ s effect might be nonlinear .
+To test this , we entered the square of the mean-centered variable into our final model to reduce multicollinearity ( Aiken and West 1991 ) .
+However , the quadratic CinemaScore term is not significant ( bCinemaScore^2 = –3.10 , p = .15 ; bCinemaScore = –4.01 , p < .01 ) , and the low variance The results also indicate that film factors explain a sig- nificant amount of the variance in investor reaction .
+We find that audience absorption has a dampening effect on place- ment worth ( bAbsorption = –2.69 , p < .01 ) , in support of H4.3 Product Placement in Successful Films / 57 inflation factors for the CinemaScore terms ( 3.07 ) suggest that multicollinearity did not influence these results .
+4We also examined an alternative measure of critical acclaim— the average critics ’ grade from Entertainment Weekly .
+The results are similar using this measure ( bEW ’ s average critics ’ grade = –.85 , p = .06 ) , and the significance of the other hypothesized factors does not change .
+5Interactions between violence and male-centered product cate- gories are not significant ( bFilm violence × motorcycle = .05 , p = .95 ; bFilm violence × beer = .04 , p = .94 ) .
+We also find no interaction between violence and brand equity ( bFilm violence × brand equity = .00 , p = .70 ) , suggesting that brand equity does not mitigate violence ’ s effects .
+6If we remove these variables , plot connection and prominence- related factors display stronger effects .
+Low-plot visual screen time has a positive impact ( blow-plot visual time = .04 , p = .06 ) , and low-plot audio placement has a negative association with place- ment worth ( blow-plot audio placement = –.96 , p = .03 ) , consistent with prior consumer-related findings ( Russell 2002 ) .
+This strengthens our argument that these factors are subordinate to program-level ( i.e. , film-level ) effects .
+The predicted attenuating effect of critical acclaim ( H5 ) receives support ( bCritical acclaim = –.04 , p = .04 ) .4 We also find that the worth of the film product placement is dimin- ished by the film ’ s violence ( bFilm violence = –.53 , p = .02 ) , in support of H6 .
+Furthermore , our results do not suggest that product type moderates violence ’ s attenuating effect.5 With regard to the other types of offensive subject matter , we find weak evidence that drug use in the film dampens returns ( bDrug use = –.36 , p = .07 ) and sexuality enhances returns ( bSexuality = .32 , p = .09 ) , but film profanity has no effect .
+Regarding our result for film sexuality , studio films rarely display the kind of graphic sexuality and nudity that may negatively impact placement worth ( Epstein 2005 ) .
+Finally , we find evidence for saturation effects in that many place- ments in the film tend to dampen placement value .
+We find that the effects of the control variables are largely consistent between the two models .
+We continue to find positive relationships between opening weekend gross , recurrent character associations , and the number of brands in the film and the firm ’ s standardized abnormal return .
+The attenuating effects for blatancy and competitive interference continue to hold as well .
+Furthermore , we find strong evi- dence that audiovisual placement enhances the placement ’ s return , and we find weak evidence that low-plot audio placements are less valuable .
+Although prior studies have found support for the role of plot connection and promi- nence , our results suggest that these factors are subordinate to the effects of other execution factors and the effects of the program.6 Placement worth is also enhanced when the product is associated with an established screen character but not when the product is associated with a star .
+We continue to find no effect for star association even when we consider only major stars , namely , the actors appearing on Entertain- ment Weekly ’ s list of the 50 most powerful entertainers in 2002 ( bMajor star = –.65 , p = .31 ) .
+These results suggest that the symbolic meaning is carried more by the character and the film than by the actor ’ s celebrity .
+Prior research has shown that consumer response to placements is enhanced by parasocial character attachments ( Russell and Stern 2006 ) , but our study is the first attempt to disentangle the relative worth of star versus character associations .
+Results using robust regression .
+As a robustness check , we reestimated our model by employing a robust regression procedure .
+Following Venables and Ripley ( 2002 ) , we use the MM-estimator , developed by Yohai ( 1987 ) , which is an M-estimator with initial coefficients given by a bisquare S-estimate and with scale given by the S-estimator .
+Thus , MM-estimation combines the high breakdown property of the S-estimator ( .25 ) and high efficiency ( .95 ) ( see Yohai 1987 ) .
+The results remain largely the same under the robust regression ( see Table 7 ) .
+We continue to find significant effects for all the hypothesized product and film factors , which suggests that these findings are robust .
+The robust regression estimates for the number of brands , the number of other placements in the film , audience size , and audio- visual placement are also significant , thus strengthening confidence in these results .
+However , the robust estimates provide weaker evidence for the effects of placement bla- tancy and recurrent characters .
+In summary , by simultaneously considering the effects of product , film , and execution factors , we present a more comprehensive picture of the factors driving placement worth .
+This study expands the product placement literature by providing new insights into the effect of program fac- tors—the film ’ s absorption , critical acclaim , and violence— on placement outcomes .
+The study also provides the first evidence for the importance of tie-in advertising and brand equity , and it provides evidence for the value of recurrent character associations and the pernicious effects of place- ment blatancy .
+The multiplicity of factors shown to affect placement worth highlights the importance of complement- ing experimental and intercept studies of placement execu- tion with comparisons of outcomes across brands and programs .
+Limitations Our conclusions are subject to several limitations , which should be addressed in further research .
+First , we restricted our examination of film product placement worth to the films with the largest opening audiences in 2002 .
+Our sig- nificant result for the film ’ s opening strongly suggests that there could be a critical audience size threshold before investors consider a placement worthwhile .
+Research on a random sample of films across multiple years is needed to determine whether placements in smaller films produce similar effects on firm market value .
+However , the substan- tial increase in customer traffic to the Internet dating site featured in Must Love Dogs ( Turnquist 2005 ) provides some evidence that placements in less popular films may be worthwhile as well .
+Furthermore , care should be taken when generalizing our cross-sectional findings because our sample primarily comprises absorbing , successful films .
+Second , our sample is limited to films released in 2002 , and we can not eliminate the possibility that there is some- thing idiosyncratic to this year .
+However , because con- sumers ’ resistance to traditional television advertising and 58 / Journal of Marketing , July 2009 Full Model Independent Variable Parameter Estimate Chi-Square Intercept 12.46*** 8.47 Hypotheses H2 : Tie-in advertising ( + ) 1.81** 5.54 H3 : Brand equity ( + ) .03** 5.73 H4 : Audience absorption ( – ) –2.60*** 7.66 H5 : Critical acclaim ( – ) –.04** 5.10 H6 : Film violence ( – ) –.55** 5.40 Firm Controls Market value –.00 .48 Film Controls Opening ( in tens of millions of dollars ) .33*** 7.00 Profanity .04 .04 Sexuality .29 2.28 Drug use –.37* 3.72 Number of other placements in film –.13*** 17.47 Execution Controls Modality Number of audiovisual placements for firm in film 1.61** 4.07 Visual Placement Execution Low plot connection .01 .37 High plot connection .01 .42 No other products visible –.12 .06 Audio Placement Execution Low plot connection –.59* 2.82 High plot connection –.50 1.48 Negative valence .63 .39 Other Execution Factors Star association –.69 2.14 Recurrent character 1.33 2.44 Blatant placement –1.58* 3.55 Number of brands 1.30*** 17.44 Observations 126 Robust R2 .34 *p ≤ .10 .
+**p ≤ .05 .
+***p < .01 .
+TABLE 7 Robust Regression Results : Dependent Variable : CAAR in Percentage ( Over Days t = –2 to 0 ) the fragmentation of television audiences continue to increase ( The Economist 2007 ) , investors may now be more enthusiastic about product placements in successful films .
+However , film placement ’ s worth may become attenuated if the increasing prevalence of placements increases saturation effects .
+Research needs to assess how the shifting commu- nications landscape affects film placement ’ s worth over time .
+Third , our research rests on the assumption that the abnormal return we observe is driven by the appearance of the product in the film .
+We assume that investors draw con- clusions about the firm ’ s future profitability as a result of film placement and that this information is reflected in the movement of the firm ’ s stock price .
+Therefore , an additional caveat is that the event study methodology does not identify the precise mechanism for explaining why the abnormal return occurs ( Bayus , Erickson , and Jacobson 2003 ) .
+Given the prior research documenting consumers ’ attitudinal and behavioral responses to placements , we assumed that investors react to the placement according to how they believe the placement will affect consumers ( and the result- ing earning impact ) , and we provided some evidence to support this view ; additional data from the investment com- munity are needed to validate this assumption more fully .
+Furthermore , additional research is needed to tie film prod- uct placement more directly to firm revenues and profits , enabling return-on-investment comparisons between place- ments and other types of marketing communications .
+Finally , two limitations associated with our event study procedure may also have an impact on our findings .
+First , many events can cause changes in both stocks ’ return and volatility , and this event-induced heteroskedasticity , if pre- sent , can inflate associated test statistics .
+Currently , finance scholars ( e.g. , Battalio , Ellul , and Jennings 2007 ) compen- sate for this by using a standardized cross-sectional test , as suggested by Boehmer , Musumeci , and Poulsen ( 1991 ) .
+However , this method stipulates that securities ’ residuals be cross-sectionally uncorrelated ; thus , it does not seem to be possible to control for both event-induced heteroskedastic- ity and cross-sectional dependence in the securities ’ residu- als simultaneously .
+The results from Breusch and Pagan ’ s ( 1980 ) test indicate that there is cross-sectional dependence in the residuals in our sample , and therefore we are unable to control for possible event-induced heteroskedasticity , and this is a limitation of our study .
+Second , thin security trad- ing can introduce bias into the estimates of the market model .
+Following recent finance literature ( Avramov , Chor- dia , and Goyal 2006 ; McNally and Smith 2007 ) , we implic- itly controlled for illiquid penny stocks by excluding from our sample all the shares trading at prices below $ 1 .
+Note that other authors employ a stricter $ 5 cutoff criterion to minimize this bias ( e.g. , Zhang 2006 ) .
+However , the three firms in our sample with stocks priced below $ 5 are regu- larly traded , with more than a million shares traded per day ; therefore , the more inclusive criterion seems to be more appropriate for our sample .
+Implications Implications for Further Research Our theoretical framework explains a substantial amount of the variance in the worth of placements in successful films , but the inclusion of additional factors might yield a more comprehensive understanding .
+Scholars have suggested that the value of an endorsement depends on the match between the celebrity and the product ( McCracken 1989 ) .
+Extending this logic , we suggest that the worth of film product place- ment could depend on the match of the product , the film , and the film ’ s audience .
+Although we can point to examples Product Placement in Successful Films / 59 in which fit likely contributed to the placement ’ s positive abnormal returns ( e.g. , Vans in XXX ) , a more comprehen- sive examination is needed of how placement worth is enhanced by the congruence of the film ’ s thematic elements and the brand ’ s overall strategy and how this is moderated by the degree of overlap in the brand ’ s and the film ’ s target audiences .
+Evidence also suggests that products with the right fit can transcend the negative effects of other film fac- tors .
+For example , the motorcycle manufacturer Ducati had positive abnormal returns from placement in the violent Blade II , and the soaring sales of pinot after Sideways sug- gest that product placements in acclaimed films can succeed when product–film–audience fit is organic .
+For certain product categories , however , we expect fit to be a secondary concern .
+Logic suggests that tobacco firms disproportionately benefit when their brands appear on film because of the restrictions on tobacco advertising .
+We find that investors react positively when cigarette brands appear in films ( bTobacco = 2.57 , p = .04 ) , a result that may be trou- bling to regulators .
+Another element that has not been specifically addressed is the worth of placements in period films .
+Cul- tural consumption meanings and associations may be altered when the film depicts characters and situations occurring in the past , dampening placement worth .
+In Catch Me if You Can , Leonardo DiCaprio ’ s purchase of a Cadillac for his father may have harmed the brand by reinforcing the perception that Cadillac is the choice of an older generation .
+Also warranting further investigation is why investors do not reward placements with stars .
+One reason could be that the star ’ s involvement with the product is attributed to external causes , such as studio demands , which limits the transfer of the celebrity ’ s associations .
+A second reason could be that investors ’ reactions are tempered by the char- acter the star plays on-screen .
+Research is needed to exam- ine the impact of character associations when consumers hold either negative or ambivalent associations with the character .
+Finally , as research on product placement continues to accumulate , it is necessary to investigate the extent to which placement findings do not generalize across mediums .
+For example , consumers may be more tolerant of blatant place- ments in television because broadcast television is a free , advertising-supported medium .
+Thus , differences in televi- sion and film viewing habits ( Russell and Stern 2006 ) may also alter the factors that drive placement worth .
+Implications for Practice : Managing Film Placements For firms , this research provides the first evidence that investors consider film placement a wise marketing prac- tice .
+Furthermore , the results provide new guidance for firms as they consider product placement opportunities , encouraging firms to consider audience absorption , the film ’ s violence , and the film ’ s critical acclaim in their placement decisions .
+Firms can use cues such as the script , the director , and the studio to make informed judgments about how the film will perform on these dimensions , but firms should be cautious when the script suggests exposure that would disrupt the film .
+However , the results also highlight the difficulties involved in choosing which film placement opportunities to pursue .
+For example , critical acclaim and violence increase the size of the film ’ s audience ( Basuroy , Chatterjee , and Ravid 2003 ; Eliashberg and Shugan 1997 ) , which enhances placement worth , but these film factors also lead to negative consumer responses , which inhibit placement value .
+Star association has no direct effect on placement worth , but stars increase the number of consumers who see the film ( e.g. , Elberse 2007 ) .
+Therefore , this suggests that firms can face trade-offs between the number of consumers exposed to the placement and the quality of consumer response , and thus firms should consider a multiplicity of factors when selecting films for placement .
+It would not necessarily be wise to avoid enjoyable , absorbing films or violent films— because these films tend to perform well at the box office— but when firms are confident that a film will be a block- buster , they should not be inattentive to absorption and violence and their deleterious effects .
+A further challenge then for firms is predicting the film ’ s box office success .
+Although there are a few guide- posts for which films are likely to perform well ( i.e. , sequels , prediction markets ) , it can be difficult to predict whether a particular firm will be successful .
+This challenge is most acute when a firm makes a substantial investment in a film , only to have it disappoint at the box office .
+To miti- gate their risk , firms could negotiate “ make-good ” place- ments , as in traditional advertising , if the film ’ s audience fails to meet expectations .
+Firms could also encourage the development of a “ scatter ” market—for placements that could be inserted during postproduction—because forecasts of a film ’ s box office success are more accurate after initial test screenings .
+A portfolio strategy could also diversify the risk associated with film performance .
+Implications for Practice : Measuring and Pricing Placements For practice , this research offers three clear recommenda- tions for placement measurement and pricing .
+First , although there is no one accepted measure for valuing prod- uct placements , the current services compare the film place- ment ’ s exposure with the cost and effectiveness of an equiv- alent 30-second television commercial ( Shiller 2004 , 2008 ) .
+The event study approach complements these other efforts because the event study captures the worth of product placements , such as James Bond ’ s car , in which the place- ment ’ s value far exceeds the costs of an equivalent televi- sion exposure .
+Second , this research offers the potential to improve other product placement valuation methods .
+The current models account for the differences in placements due to the placement ’ s modality , prominence , plot connection , and star association ( The Economist 2007 ; Shiller 2004 ) .
+What these models fail to capture , however , is how the audience ’ s response to the program affects placement value .
+Our research indicates that program effects , such as absorption and violence , significantly influence placement worth .
+Third , studios price each film product placement on a case-by-case basis based on what firms are willing to pay ( Schiller 2004 ) .
+Thus , our findings offer guidance to studios 60 / Journal of Marketing , July 2009 in setting their product placement rates by identifying the relative benefits of specific film and execution factors .
+Although firms are concerned about the costs of placements in top movies , the results indicate that placements in suc- cessful films generate positive stock returns on average .
+Our results also indicate that firms ’ beliefs about the worth of high plot connection and star association ( Karrh , McKee , and Pardun 2003 ; Russell and Belch 2005 ) may need to be reconsidered .
+Appendix Several studies in the finance and accounting literature have pointed out the potential effect of the cross-sectional corre- lation problem of residual returns in hypothesis testing when events share a common date ( e.g. , MacKinley 1997 ) .
+Cross-sectional dependence in the returns biases the stan- dard deviation estimate downward , inflating the associated test statistics .
+Jaffe ( 1974 ) and Mandelker ( 1974 ) introduce the portfolio method to correct for this bias .
+Adopting their methodology , we form a portfolio for every day in calendar time by including all securities that experience an event at that time—for example , if there are several firms that have product placements in the same movie or if there are several movie openings on the same day .
+For each portfolio , the securities and their return measures are equally weighted .
+We begin by calculating the average abnormal returns AARPt for all portfolios : where S is the number of securities in portfolio P and ARi is the abnormal return for stock i in portfolio P. Next , for every portfolio P , we calculate a time-series estimate of σ ( AARPt ) for the preceding k days , assuming that the ( ) , A AAR AR SPt i i S 1 1= = ∑ AARPt are independent over time .
+Then , we standardize each portfolio ’ s average abnormal return by dividing by the estimated standard deviation : Then , we calculate the average standardized residual across all portfolios in calendar time : where Dt = 1 when there is at least one security in portfolio t and Dt = 0 when there are no securities in portfolio t ; n is the number of days in which the portfolios have at least one security : Finally , we estimate the cumulative average standardized average abnormal returns : If the ASAAR are independent over time , the standard devi- ation of the CASAARS1 , S2 is as follows : Then , the test statistic is as follows : ( ) .
+, A t CASAAR S S S S 7 1 1 2 2 1 = − + ( ) ( ) . , A CASAAR S SS S6 1 11 2 2 1σ = − + × ( ) . , A CASAAR ASAARS S t S S 5 1 2 1 2 = = ∑ ( ) .A n Dt t 4 1 255 = = ∑ ( ) , A ASAAR n SAAR DPt t t 3 1 1 255 = × = ∑ ( ) ( ) .A SAAR AAR SD AARPt Pt Pt 2 = REFERENCES Aaker , David A. and Donald E. Bruzzone ( 1985 ) , “ Causes of Irri- tation in Advertising , ” Journal of Marketing , 49 ( Spring ) , 47–57 .
+——— and George S. Day ( 1974 ) , “ A Dynamic Model of Rela- tionships Among Advertising , Consumer Awareness , Attitudes , and Behavior , ” Journal of Applied Psychology , 39 ( 3 ) , 281–86 .
+——— and Robert Jacobson ( 2001 ) , “ The Value Relevance of Brand Attitude in High-Technology Markets , ” Journal of Mar- keting Research , 38 ( November ) , 485–93 .
+Agrawal , Jagdish and Wagner A. Kamakura ( 1995 ) , “ The Eco- nomic Worth of Celebrity Endorsers : An Event Study Analy- sis , ” Journal of Marketing , 59 ( July ) , 56–62 .
+Ahluwalia , Rohini ( 2002 ) , “ How Prevalent Is the Negativity Effect in Consumer Environments ? ” Journal of Consumer Research , 29 ( September ) , 270–79 .
+Aiken , Leona S. and Stephen G. West ( 1991 ) , Multiple Regres- sion : Testing and Interpreting Interactions .
+Newbury Park , CA : Sage Publications .
+Anderson , Eugene W. , Claes Fornell , and Sanal K. Mazvancheryl ( 2004 ) , “ Customer Satisfaction and Shareholder Value , ” Jour- nal of Marketing , 68 ( October ) , 172–85 .
+Avramov , Doron , Tarun Chordia , and Amit Goyal ( 2006 ) , “ Liquid- ity and Autocorrelations in Individual Stock Returns , ” Journal of Finance , 61 ( 5 ) , 2365–94 .
+Baker , Malcolm and Jeffrey Wurgler ( 2006 ) , “ Investor Sentiment and the Cross-Section of Stock Returns , ” Journal of Finance , 61 ( 4 ) , 1645–80 .
+Balasubramanian , Siva K. ( 1994 ) , “ Beyond Advertising and Pub- licity : Hybrid Messages and Public Policy Issues , ” Journal of Advertising , 23 ( December ) , 29–46 .
+——— , James A. Karrh , and Hemant Patwardhan ( 2006 ) , “ Audi- ence Response to Product Placements : An Integrative Frame- work and Future Research Agenda , ” Journal of Advertising , 35 ( 3 ) , 115–41 .
+Ball , Ray ( 1995 ) , “ The Theory of Stock Market Efficiency : Accomplishments and Limitations , ” Journal of Applied Corpo- rate Finance , 8 ( 1 ) , 4–17 .
+Barber , Brad M. and Terrance Odean ( 2008 ) , “ All That Glitters : The Effect of Attention and News on the Buying Behavior of Individual and Institutional Investors , ” Review of Financial Studies , 21 ( 2 ) , 785–818 .
+Product Placement in Successful Films / 61 Basuroy , Suman , Subimal Chatterjee , and S. Abraham Ravid ( 2003 ) , “ How Critical Are Critical Reviews ?
+The Box Office Effects of Film Critics , Star Power , and Budgets , ” Journal of Marketing , 67 ( October ) , 103–117 .
+Battalio , Robert , Andrew Ellul , and Robert Jennings ( 2007 ) , “ Rep- utation Effects in Trading on the New York Stock Exchange , ” Journal of Finance , 62 ( 3 ) , 1243–71 .
+Bayus , Barry L. , Gary Erickson , and Robert Jacobson ( 2003 ) , “ The Financial Rewards of New Product Introductions in the Personal Computer Industry , ” Management Science , 49 ( Febru- ary ) , 197–210 .
+Boehmer , Ekkehart , Jim Musumeci , and Annette B. Poulsen ( 1991 ) , “ Event-Study Methodology Under Conditions of Event-Induced Variance , ” Journal of Financial Economics , 30 ( 2 ) , 253–72 .
+Breusch , T.S .
+and A.R .
+Pagan ( 1980 ) , “ The Lagrange Multiplier Test and Its Applications to Model Specification in Economet- rics , ” Review of Economic Studies , 47 ( 1 ) , 239–54 .
+Brown , Stephen J. and Jerold B. Warner ( 1980 ) , “ Measuring Secu- rity Price Performance , ” Journal of Financial Economics , 8 ( September ) , 205–258 .
+——— and ——— ( 1985 ) , “ Using Daily Stock Returns : The Case of Event Studies , ” Journal of Financial Economics , 14 ( March ) , 3–31 .
+Brown , Tom J. and Peter A. Dacin ( 1997 ) , “ The Company and the Product : Corporate Associations and Consumer Product Responses , ” Journal of Marketing , 61 ( January ) , 68–84 .
+Bushman , Brad J .
+( 2005 ) , “ Violence and Sex in Television Pro- grams Do Not Sell Products in Advertisements , ” Psychological Science , 16 ( 9 ) , 702–708 .
+Campbell , Margaret C. and Ronald C. Goodstein ( 2001 ) , “ The Moderating Effect of Perceived Risk on Consumers ’ Evalua- tions of Product Incongruity : Preference for the Norm , ” Jour- nal of Consumer Research , 28 ( December ) , 439–49 .
+Charters , Steve ( 2006 ) , “ Aesthetic Products and Aesthetic Con- sumption , ” Consumption , Markets and Culture , 9 ( September ) , 235–55 .
+Conchar , Margy P. , Melvin R. Crask , and George M. Zinkhan ( 2005 ) , “ Market Valuation Models of the Effect of Advertising and Promotional Spending : A Review and Meta-Analysis , ” Journal of the Academy of Marketing Science , 33 ( 4 ) , 445–60 .
+Cook , Douglas O. , Robert Kieschnick , and Robert A .
+Van Ness ( 2007 ) , “ On the Marketing of IPOs , ” Journal of Financial Eco- nomics , 82 ( 1 ) , 35–61 .
+Cornwell , T. Bettina , Stephen W. Pruitt , and John M. Clark ( 2005 ) , “ The Relationship Between Major-League Sports ’ Official Sponsorship Announcements and the Stock Prices of Sponsor- ing Firms , ” Journal of the Academy of Marketing Science , 33 ( Fall ) , 401–412 .
+Cowan , Arnold R. ( 2003 ) , Eventus 7.6 User ’ s Guide .
+Ames , IA : Cowan Research .
+Cowlett , Mary ( 2000 ) , “ Make It into the Movies , ” Marketing , ( August 17 ) , 29 .
+Coyle , Jake ( 2006 ) , “ The Tracking of Movie Openings , ” Associ- ated Press newswire , ( August 2 ) .
+Dal Cin , Sonya , Mark P. Zanna , and Geoffrey T. Fong ( 2004 ) , “ Narrative Persuasion and Overcoming Resistance , ” in Resis- tance and Persuasion , E.S .
+Knowles and J.A .
+Linn , eds .
+Mah- wah , NJ : Lawrence Erlbaum Associates , 175–92 .
+D ’ Astous , Alain and Francis Chartier ( 2000 ) , “ A Study of the Fac- tors Affecting Consumer Evaluations and Memory of Product Placement in Movies , ” Journal of Current Issues and Research in Advertising , 22 ( Fall ) , 31–40 .
+Day , George S. and Liam Fahey ( 1988 ) , “ Valuing Market Strate- gies , ” Journal of Marketing , 52 ( 3 ) , 45–57 .
+DeLorme , Denise E. and Leonard N. Reid ( 1999 ) , “ Moviegoers Experiences and Interpretations of Brands in Films Revisited , ” Journal of Advertising , 28 ( Summer ) , 71–90 .
+The Economist ( 2007 ) , “ In the Picture : Product Placement , ” ( November 3 ) , 86 .
+Edwards , Steven M. , Hairong Li , and Joo-Hyun Lee ( 2002 ) , “ Forced Exposure and Psychological Reactance : Antecedents and Consequences of the Perceived Intrusiveness of Pop-Up Ads , ” Journal of Advertising , 31 ( 3 ) , 83–95 .
+Elberse , Anita ( 2007 ) , “ The Power of Stars : Do Star Actors Drive the Success of Movies ? ” Journal of Marketing , 71 ( October ) , 102–120 .
+Eliashberg , Jehoshua and Steven M. Shugan ( 1997 ) , “ Film Critics : Influencers or Predictors ? ” Journal of Marketing , 61 ( April ) , 68–78 .
+Elliott , Stuart ( 2008 ) , “ The Supporting Actor Wore Radials , ” The New York Times , ( March 26 ) , C4 .
+Epstein , Edward Jay ( 2005 ) , “ Sex and the Cinema : In the New Hollywood , It ’ s a Liability , ” ( accessed December 1 , 2006 ) , [ available at http : //www.slate.com/id/2124498/ ] .
+Erickson , Gary and Robert Jacobson ( 1992 ) , “ Gaining Compara- tive Advantage Through Discretionary Expenditures : The Returns to R & D and Advertising , ” Management Science , 38 ( September ) , 1264–79 .
+Fama , Eugene F. , Lawrence Fisher , Michael C. Jensen , and Richard Roll ( 1969 ) , “ The Adjustment of Stock Prices to New Information , ” International Economic Review , 10 ( 1 ) , 1–21 .
+Fehle , Frank , Sergey Tsyplakov , and Vladimir Zdorovtsov ( 2005 ) , “ Can Companies Influence Investor Behavior Through Adver- tising ?
+Super Bowl Commercials and Stock Returns , ” Euro- pean Financial Management , 11 ( 5 ) , 625–47 .
+Feltham , Tammi S. and Stephen J. Arnold ( 1994 ) , “ Program Involvement and Ad/Program Consistency as Moderators of Program Context Effects , ” Journal of Consumer Psychology , 3 ( 1 ) , 51–77 .
+Finnigan , David ( 2002 ) , “ X Marks the Spot for Dr. Pepper , ” Brandweek , ( September 23 ) , 4 .
+Fornell , Claes , Sunil Mithas , Forrest V. Morgenson III , and M.S .
+Krishnan ( 2006 ) , “ Customer Satisfaction and Stock Prices : High Returns , Low Risk , ” Journal of Marketing , 70 ( January ) , 3–14 .
+Geyskens , Inge , Katrijn Gielens , and Marnik G. Dekimpe ( 2002 ) , “ The Market Valuation of Internet Channel Additions , ” Journal of Marketing , 66 ( April ) , 102–119 .
+Gould , Stephen J. , Pola B. Gupta , and Sonja Grabner-Krauter ( 2000 ) , “ Product Placement in Movies : A Cross-Cultural Analysis of Austrian , French , and American Consumers ’ Atti- tudes Toward This Emerging , International Promotional Medium , ” Journal of Advertising , 29 ( Winter ) , 41–58 .
+Green , Melanie C. , Timothy C. Brock , and Geoff F. Kaufman ( 2004 ) , “ Understanding Media Enjoyment : The Role of Trans- portation into Narrative Worlds , ” Communication Theory , 14 ( November ) , 311–27 .
+——— , Paul Rozin , Amelia Aldao , Beth Pollack , and Adam Small ( 2004 ) , “ Effect of Story Detail on Transportation and Identifi- cation with Characters , ” working paper , Department of Psy- chology , University of North Carolina .
+Grossberg , Joss ( 2002 ) , “ ‘ Minority ’ Reports Product Placement , ” ( accessed June 21 , 2004 ) , [ available at http : //www.eonline .
+com/News/Items/0,1,10138,00.html ] .
+Gruca , Thomas S. and Lopo L. Rego ( 2005 ) , “ Customer Satisfac- tion , Cash Flow , and Shareholder Value , ” Journal of Marketing , 69 ( July ) , 115–30 .
+Grullon , Gustavo , George Kanatas , and James P. Weston ( 2004 ) , “ Advertising , Breadth of Ownership and Liquidity , ” The Review of Financial Studies , 17 ( 2 ) , 439–61 .
+Gupta , Pola B. and Kenneth R. Lord ( 1998 ) , “ Product Placement in Movies : The Effect of Prominence and Mode on Audience Recall , ” Journal of Current Issues and Research in Advertising , 20 ( Spring ) , 47–59 .
+62 / Journal of Marketing , July 2009 Hamilton , James T. ( 1998 ) , Channeling Violence : The Economic Market for Violent Television Programming .
+Princeton , NJ : Princeton University Press .
+Higgins , E. Tory and Gillian A .
+King ( 1981 ) , “ Accessibility of Social Constructs : Information Processing Consequences of Individual and Contextual Variability , ” in Personality , Cogni- tion , and Social Interaction , Nancy Cantor and John Kihlstrom , eds .
+Hillsdale , NJ : Lawrence Erlbaum Associates , 69–122 .
+Holbrook , Morris B. and Elizabeth C. Hirschman ( 1982 ) , “ The Experiential Aspects of Consumption : Consumer Fantasies , Feelings , and Fun , ” Journal of Consumer Research , 9 ( Septem- ber ) , 132–40 .
+Huberman , Gur and Tomer Regev ( 2001 ) , “ Contagious Specula- tion and a Cure for Cancer : A Nonevent that Made Stock Prices Soar , ” Journal of Finance , 56 ( 1 ) , 387–96 .
+Hyman , Michael R. and Ike Mathur ( 2005 ) , “ Retrospective and Prospective Views on the Marketing/Finance Interface , ” Jour- nal of the Academy of Marketing Science , 33 ( 4 ) , 390–400 .
+Ives , Nat ( 2005 ) , “ That Abundance of Volkswagens on TV Shows Will Be Product Placement , Not Coincidence , ” The New York Times , ( January 13 ) , C9 .
+Jaffe , Jeffrey F. ( 1974 ) , “ Special Information and Insider Trading , ” Journal of Business , 47 ( 3 ) , 410–28 .
+Karrh , James A. , Kathy Brittain McKee , and Carol J. Pardun ( 2003 ) , “ Practitioner ’ s Evolving Views on Product Placement Effectiveness , ” Journal of Advertising Research , 43 ( June ) , 138–49 .
+Keller , Kevin Lane ( 1993 ) , “ Conceptualizing , Measuring , and Managing Customer-Based Brand Equity , ” Journal of Market- ing , 57 ( January ) , 1–22 .
+——— ( 2001 ) , “ Mastering the Marketing Communications Mix : Micro and Macro Perspectives on Integrated Marketing Com- munications , ” Journal of Marketing Management , 17 ( 7–8 ) , 819–47 .
+Kent , Robert J. and Chris T. Allen ( 1994 ) , “ Competitive Interfer- ence Effects in Consumer Memory for Advertising : The Role of Brand Familiarity , ” Journal of Marketing , 58 ( July ) , 97–105 .
+Kirmani , Amna ( 1990 ) , “ The Effect of Perceived Advertising Costs on Brand Perceptions , ” Journal of Consumer Research , 17 ( September ) , 160–71 .
+Klein , Naomi ( 1999 ) , No Logo .
+New York : Picador .
+Lane , Vicki and Robert Jacobson ( 1995 ) , “ Stock Market Reactions to Brand Extension Announcements : The Effects of Brand Atti- tude and Familiarity , ” Journal of Marketing , 59 ( January ) , 63–77 .
+Law , Sharmistha and Kathryn A. Braun ( 2000 ) , “ I ’ ll Have What She ’ s Having : Gauging the Impact of Product Placements on Viewers , ” Psychology & Marketing , 17 ( December ) , 1059–1075 .
+Linnet , Richard and Jean Halliday ( 2003 ) , “ Mitsubishi Closes In , ” Advertising Age , 74 ( 40 ) , 3 .
+Lippman , John ( 2005 ) , “ The 10 Year Old Grown-Up , ” The Wall Street Journal , ( February 4 ) , W8 .
+Liu , Yong ( 2006 ) , “ Word of Mouth for Movies : Its Dynamics and Impact on Box Office Revenue , ” Journal of Marketing , 70 ( July ) , 74–89 .
+Lord , Kenneth R. and Robert E. Burnkrant ( 1993 ) , “ Attention Ver- sus Distraction : The Interactive Effect of Program Involvement and Attentional Devices on Commercial Processing , ” Journal of Advertising , 22 ( 1 ) , 47–60 .
+Luo , Xueming and Naveen Donthu ( 2006 ) , “ Marketing ’ s Credibil- ity : A Longitudinal Investigation of Marketing Communication Productivity and Shareholder Value , ” Journal of Marketing , 70 ( October ) , 70–91 .
+MacInnis , Deborah J. and Bernard J. Jaworski ( 1989 ) , “ Informa- tion Processing from Advertisements : Toward an Integrative Framework , ” Journal of Marketing , 53 ( October ) , 1–23 .
+MacKinlay , A. Craig ( 1997 ) , “ Event Studies in Economics and Finance , ” Journal of Economic Literature , 35 ( March ) , 13–39 .
+Madden , Thomas J. , Frank Fehle , and Susan Fournier ( 2006 ) , “ Brands Matter : An Empirical Demonstration of the Creation of Shareholder Value Through Branding , ” Journal of the Acad- emy of Marketing Science , 34 ( 2 ) , 224–35 .
+Mandelker , Gershon ( 1974 ) , “ Risk and Return : The Case of Merg- ing Firms , ” Journal of Financial Economics , 1 ( 4 ) , 303–335 .
+McAlister , Leigh , Raji Srinivasan , and MinChung Kim ( 2007 ) , “ Advertising , Research and Development , and Systematic Risk of the Firm , ” Journal of Marketing , 71 ( January ) , 35–48 .
+McCracken , Grant ( 1989 ) , “ Who Is the Celebrity Endorser ?
+Cul- tural Foundations of the Endorsement Process , ” Journal of Consumer Research , 16 ( December ) , 310–21 .
+McNally , William J. and Brian F. Smith ( 2007 ) , “ Long-Run Returns Following Open Market Share Repurchases , ” Journal of Banking & Finance , 31 ( 3 ) , 703–717 .
+McWilliams , Abragail and Donald Siegal ( 1997 ) , “ Event Studies in Management Research : Theoretical and Empirical Issues , ” Academy of Management Journal , 40 ( June ) , 626–57 .
+Meenaghan , Tony and David Shipley ( 1999 ) , “ Media Effect in Commercial Sponsorship , ” European Journal of Marketing , 33 ( 3–4 ) , 328–47 .
+Merton , Robert C. ( 1987 ) , “ A Simple Model of Capital Market Equilibrium with Incomplete Information , ” Journal of Finance , 42 ( 3 ) , 483–510 .
+Meschke , Felix ( 2004 ) , “ CEO Interviews on CNBC , ” working paper , Carlson School of Management , University of Minnesota .
+Norris , Claire E. and Andrew M. Colman ( 1992 ) , “ Context Effects on Recall and Recognition of Magazine Advertisements , ” Jour- nal of Advertising , 21 ( September ) , 37–46 .
+Pechman , Cornelia and Chuan-Fong Shih ( 1999 ) , “ Smoking Scenes in Movies and Antismoking Advertisements Before Movies : Effects on Youth , ” Journal of Marketing , 63 ( July ) , 1–13 .
+Perreault , William D. , Jr. , and Laurence E. Leigh ( 1989 ) , “ Relia- bility of Nominal Data Based on Qualitative Judgments , ” Jour- nal of Marketing Research , 26 ( May ) , 135–48 .
+PQ Media ( 2006 ) , Global Product Placement Forecast 2006 .
+Stamford , CT : PQ Media .
+Rao , Ramesh K.S .
+and Neeraj Bharadwaj ( 2008 ) , “ Marketing Ini- tiatives , Expected Cash Flows , and Shareholders ’ Wealth , ” Journal of Marketing , 72 ( January ) , 16–26 .
+Russell , Cristel Antonia ( 1998 ) , “ Toward a Framework of Product Placement , ” in Advances in Consumer Research , Joseph W. Alba and J. Wesley Hutchinson , eds .
+Provo , UT : Association for Consumer Research , 357–62 .
+——— ( 2002 ) , “ Investigating the Effectiveness of Product Place- ments in Television Shows : The Role of Modality and Plot Connection Congruence on Brand Memory and Attitude , ” Journal of Consumer Research , 29 ( December ) , 306–318 .
+——— and Michael Belch ( 2005 ) , “ A Managerial Investigation into the Product Placement Industry , ” Journal of Advertising Research , 45 ( March ) , 73–92 .
+——— and Barbara B. Stern ( 2006 ) , “ Consumers , Characters , and Products : A Balance Model of Sitcom Product Placement Effects , ” Journal of Advertising , 35 ( Spring ) , 7–21 .
+Rust , Roland T. , Tim Ambler , Gregory S. Carpenter , V. Kumar , and Rajendra K. Srivastava ( 2004 ) , “ Measuring Marketing Pro- ductivity : Current Knowledge and Future Directions , ” Journal of Marketing , 68 ( October ) , 76–89 .
+——— , Anthony J. Zahorik , and Timothy L. Keiningham ( 1995 ) , “ Return on Quality ( ROQ ) : Making Service Quality Finan- cially Accountable , ” Journal of Marketing , 59 ( April ) , 58–70 .
+Salwen , Michael B. and Michel Dupagne ( 1999 ) , “ The Third Per- son Effect : Perceptions of the Media ’ s Influence and Immoral Consequences , ” Communication Research , 26 ( 5 ) , 523–49 .
+Product Placement in Successful Films / 63 Shiller , Gail ( 2004 ) , “ Integrated Plugs Difficult to Value , ” Holly- wood Reporter , ( December 30 ) , ( accessed March 27 , 2009 ) , [ available at http : //www.allbusiness.com/services/motion- pictures/4901891-1.html ] .
+——— ( 2008 ) , “ ITVX Unveils Evaluation Tool to Gauge Product Placement , ” Brandweek , ( February 4 ) , 8 .
+Sorescu , Alina , Venkatesh Shankar , and Tarun Kushwaha ( 2007 ) , “ New Product Preannouncements and Shareholder Value : Don ’ t Make Promises You Can ’ t Keep , ” Journal of Marketing Research , 44 ( August ) , 468–89 .
+Srinivasan , Raji and Sundar Bharadwaj ( 2004 ) , “ Event Studies in Marketing Strategy Research , ” in Assessing Marketing Strategy Performance , Christine Moorman and Donald R. Lehmann , eds .
+Cambridge , MA : Marketing Science Institute , 9–28 .
+Srivastava , Rajendra K. , Tasadduq A. Shervani , and Liam Fahey ( 1998 ) , “ Market-Based Assets and Shareholder Value : A Framework for Analysis , ” Journal of Marketing , 62 ( January ) , 2–18 .
+Takeda , Fumiko and Hiroaki Yamazaki ( 2006 ) , “ Stock Price Reac- tions to Public TV Programs on Listed Japanese Companies , ” Economics Bulletin , 13 ( 7 ) , 1–7 .
+Tellis , Gerald J .
+( 1988 ) , “ Advertising Exposure , Loyalty , and Brand Purchase : A Two-Stage Model of Choice , ” Journal of Marketing Research , 25 ( May ) , 154–65 .
+——— , Rajesh K. Chandy , Deborah MacInnis , and Pattana Thaivanich ( 2005 ) , “ Modeling the Microeffects of Television Advertising : Which Ad Works , When , Where , for How Long , and Why ? ” Marketing Science , 24 ( 3 ) , 351–66 .
+Thomas , Bob ( 1998 ) , “ High Tech and Old Ways Get Movies to Theaters On Time—Usually , ” Associated Press newswire , ( August 8 ) .
+Thompson , Kimberly M. and Fumie Yokota ( 2004 ) , “ Violence , Sex , and Profanity in Films : Correlation of Movie Ratings and Content , ” MedGenMed , 6 ( 3 ) , ( accessed March 27 , 2009 ) , [ available at http : //www.medscape.com/viewarticle/480900 ] .
+Turnquist , Kristi ( 2005 ) , “ Modern Match Makers , ” The Oregon- ian , ( August 8 ) , D1 .
+Venables , W. and B. Ripley ( 2002 ) , Modern Applied Statistics with S. New York : Springer .
+Wang , Alice and Bobby J. Calder ( 2006 ) , “ Media Transportation and Advertising , ” Journal of Consumer Research , 33 ( Septem- ber ) , 151–62 .
+Wiles , Michael A .
+( 2007 ) , “ The Effect of Customer Service on Retailers ’ Shareholder Wealth : The Role of Availability and Reputation Cues , ” Journal of Retailing , 83 ( 1 ) , 19–31 .
+Yi , Youjae ( 1993 ) , “ Contextual Priming Effects in Print Advertise- ments : The Moderating Role of Prior Knowledge , ” Journal of Advertising , 22 ( 1 ) , 1–10 .
+Yohai , Victor J .
+( 1987 ) , “ High Breakdown-Point and High Effi- ciency Robust Estimates for Regression , ” The Annals of Statis- tics , 15 ( 20 ) , 642–56 .
+Yorks , Cindy LaFavre ( 1989 ) , “ Film Stars : Movies Have Influ- enced Fashion for Decades , ” St. Louis Post-Dispatch , ( March 12 ) , 3S .
+Zhang , X. Frank ( 2006 ) , “ Information Uncertainty and Stock Returns , ” Journal of Finance , 61 ( 1 ) , 105–137 .

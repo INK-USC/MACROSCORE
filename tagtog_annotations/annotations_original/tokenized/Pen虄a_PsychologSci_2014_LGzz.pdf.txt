@@ -1,0 +1,354 @@
+Pen虄a_PsychologSci_2014_LGzz.pdf
+a8qjmBcE56VoD3Bi8Kkd3dA0kxkK-Pen_a_PsychologSci_2014_LGzz.pdf.plain.html
+
+Psychological Science 2014 , Vol .
+25 ( 10 ) 1884 –1892 © The Author ( s ) 2014 Reprints and permissions : sagepub.com/journalsPermissions.nav DOI : 10.1177/0956797614544307 pss.sagepub.com Research Article Shortly after birth , human infants learn to recognize and communicate with their caregivers .
+How neural matura- tion and exposure to a rich social environment interact to build these human-specific social communication skills remains to be elucidated .
+Studying healthy preterm infants ( i.e. , those with no risk factors for neurological impairments except prematurity itself ) offers unique opportunities to disentangle the roles of neural matura- tion and exposure to a rich social environment .
+On the one hand , the richer environment to which preterm infants are exposed , relative to the uterine environment , might accelerate their development .
+On the other hand , establishment of minimal neural circuitry and sufficient neural maturation might need to occur before the brain is able to process and learn from such an environment .
+Most of the studies in which this issue has been exam- ined have been performed in the language-acquisition domain , and their results have been mixed .
+The loss of response to nonnative features at both segmental levels ( i.e. , foreign contrast discrimination ; Peña , Werker , & Dehaene-Lambertz , 2012 ) and suprasegmental levels ( i.e. , discrimination of a language ’ s rhythmic class ; Peña , Pittaluga , & Mehler , 2010 ) has shown greater dependence on postmenstrual age ( i.e. , the time elapsed since the mother ’ s last menstrual period before the birth date ) than on exposure to ex utero speech .
+However , Gonzalez- Gomez and Nazzi ( 2012 ) showed that preterm infants ’ responses to native-language phonotactic regularities depend on the duration of their ex utero speech expo- sure , although the quality of their productions does not .
+Similarly , Caskey , Stephens , Tucker , and Vohr ( 2011 ) reported that preterm infants produced more vocaliza- tions when their parents practiced regular face-to-face interactions with them .
+544307 PSSXXX10.1177/0956797614544307Peña et al.Preterm Infants ’ Gaze Following research-article2014 Corresponding Author : Marcela Peña , Laboratorio de Neurociencias Cognitivas , Pontificia Universidad Católica de Chile , Avenida Vicuña Mackenna 4860 , Macul , Santiago de Chile , Chile E-mail : mpenag @ uc.cl ; marcella.pena.g @ gmail.com Gaze Following Is Accelerated in Healthy Preterm Infants Marcela Peña1 , Diana Arias1 , and Ghislaine Dehaene-Lambertz2,3,4 1Laboratorio de Neurociencias Cognitivas , Escuela de Psicología , Pontificia Universidad Católica de Chile ; 2Cognitive Neuroimaging Unit , INSERM U992 , Gif-sur-Yvette , France ; 3NeuroSpin Center , DSV/I2BM , Commissariat à l'Energie Atomique , Gif-sur-Yvette , France ; and 4Cognitive Neuroimaging Unit , Université Paris-Sud Abstract Gaze following is an essential human communication cue that orients the attention of two interacting people to the same external object .
+This capability is robustly observed after 7 months of age in full-term infants .
+Do healthy preterm infants benefit from their early exposure to face-to-face interactions with other humans to acquire this capacity sooner than full-term infants of the same chronological age , despite their immature brains ?
+In two different experiments , we demonstrated that 7-month-old preterm infants performed like 7-month-old full-term infants ( with whom they shared the same chronological age ) and not like 4-month-old full-term infants ( with whom they shared the same postmenstrual age ) .
+The duration of exposure to visual experience thus appears to have a greater impact on the development of early gaze following than does postmenstrual age .
+Keywords gaze following , facial expression , emotion , premature , experience , social ability Received 2/23/14 ; Revision accepted 6/23/14 Preterm Infants ’ Gaze Following 1885 There is also little consensus with regard to visual- system development .
+A slight acceleration in visual acuity estimated using behavioral methods was observed in preterm infants compared with full-term infants evalu- ated at similar postmenstrual age ( Van Hof-Van Duin & Mohn , 1986 ) .
+Using visual evoked responses , Jandó et al .
+( 2012 ) found earlier development of binocularity in pre- term compared with full-term infants , although no accel- eration in the reduction of P1 latency was observed in the same preterm infants .
+Thus , even though the matura- tion of the early stages of visual perception may follow a fixed timing , binocularity can be accelerated in preterm infants .
+This conclusion is concordant with the lack of effect of early visual stimulation on synaptic overproduc- tion and pruning in the visual cortex of preterm monkeys ( Bourgeois , Jastreboff , & Rakic , 1989 ) .
+Neural maturation and exposure to the ex utero envi- ronment differentially influence various capacities .
+Such diversity might be related to the heterogeneous matura- tional calendar of the human brain , which could allow critical periods for learning at different times ( Hensch , 2004 ) .
+Subtle differences in the neural machinery involved in specific types of learning could exist even within the same neural tissue .
+For example , during infants ’ acquisi- tion of the native-language phonetic inventory , the loss of sensitivity to foreign phonetic contrasts and the learn- ing of native phonotactic regularities are differentially dependent on biological timing and environmental expo- sure , as we have found previously ( Peña et al. , 2012 ; cf .
+Gonzalez-Gomez & Nazzi , 2012 ) .
+Therefore , estimating the influence of these two factors in the different domains of early learning should help to better elucidate the neu- ral mechanisms that underlie human cognitive functions .
+In the present study , we focused on preterm infants ’ ability to follow gaze direction .
+Only 20 % of 3-month- olds follow a caregiver ’ s gaze when the caregiver shifts his or her head and eyes ( Scaife & Bruner , 1975 ) .
+By contrast , 4-month-olds follow the gaze of another person more consistently , but only when the person makes direct eye contact with them before moving his or her eyes ( Farroni , Mansfield , Lai , & Johnson , 2003 ) .
+By 7 months of age , infants tend to show a robust ability to follow the gaze of another person , even when the per- son ’ s head remains stationary , only eye movement occurs , and the targets are hidden ( e.g. , Corkum & Moore , 1995 ; Flom , Deák , Phill , & Pick , 2004 ) .
+Gaze following is an important first step in social cog- nition : It has been conceptualized as a primitive orienting response and a precursor of joint attention ( e.g. , Baron- Cohen , Campbell , Karmiloff-Smith , Grant , & Walker , 1995 ) , and it is predictive of communication skills later in life ( Charman et al. , 2001 ) .
+Gaze cues provided by adults have been shown to facilitate learning in infants .
+Indeed , infants at 4 and 9 months of age have demonstrated better memory ( Reid , Striano , Kaufman , & Johnson , 2004 ) and improvements in their attention for an object ’ s loca- tion and identity ( Senju , Csibra , & Johnson , 2008 ) when provided with gaze cues by experimenters .
+Adult gaze also facilitates word learning in infants younger than 1 year old by directing the infants ’ attention to the referent ( e.g. , Baldwin & Moses , 2001 ; Morales et al. , 2000 ) .
+Finally , gaze following has been found to be positively correlated with vocabulary in 18-month-olds ( Morales , Mundy , & Rojas , 1998 ) .
+Because preterm infants are exposed to face-to-face interactions earlier ( in terms of postmenstrual age ) than infants who are born at term , they may become sensitive to gaze direction sooner as well .
+To the best of our knowledge , early development of gaze following has not been compared in healthy preterm and full-term infants , although a higher rate of difficulties in social cognition is often reported in preterm infants compared with control populations ( e.g. , Limperopoulos et al. , 2008 ) .
+Low birth weight and younger gestational age are considered risk factors for social difficulties , hyperactivity , and attentional deficits .
+However , in most studies , it has been difficult to disentangle the effects of these factors from the effects of other factors that may delay or compromise early parent- infant interactions ( e.g. , brain lesions or several other nonneurological comorbid conditions that commonly affect preterm infants at birth ) .
+In our study , we thus focused on groups of healthy preterm infants who had received rich stimulation very similar to that received by full-term neonates ; the preterm and full-term infants dif- fered only in that this stimulation began when the pre- term infants ’ brains were at a more immature stage .
+We evaluated how well full-term and preterm infants followed an adult ’ s gaze when cued by head and eye movements ( Experiment 1 ) and by eye movement alone ( Experiment 2 ) .
+We expected that 4-month-old full-term infants would orient to one of two toys targeted by a woman ’ s lateralized gaze when it involved both head and eye movement , and that 7-month-old full-term infants would orient to one of two toys when cued by eye move- ment alone .
+We thus predicted that if postmenstrual age is the key factor in gaze following , 7-month-old infants born 3 months prematurely and 4-month-old full-term infants ( whose postmenstrual ages are equivalent ) should perform similarly .
+However , if exposure to the ex utero world is essential for gaze following , such 7-month-old preterm infants and 7-month-old full-term infants should perform similarly , given their similar time ex utero .
+Experiment 1 We compared full-term and preterm infants ’ orientation to one of two similar toys ( presented side by side and symmetrically on a screen ) when one side was cued by a 1886 Peña et al .
+woman ’ s head and eye movement ( Fig .
+1a ) .
+We mea- sured gaze with an infant-adapted eye-tracking system that recorded gaze every 20 ms .
+Method Participants .
+We tested four groups of healthy infants ( see Fig .
+2 ) : full-term 4-month-olds ( FT4 ) , full-term 7-month-olds ( FT7 ) , preterm 7-month-olds ( PT4 ) , and preterm 10-month-olds ( PT7 ) .
+The preterm infants were born 2.5 to 3 months ( 8 to 10 weeks ) early .
+Thus , the FT4 and PT4 infants had different chronological ages ( 4 and 7 months , respectively ) but equivalent postmenstrual ages ( ~13 months ) ; the FT7 and PT7 infants also had different chronological ages ( 7 and 10 months , respectively ) but equivalent postmenstrual ages ( ~16 months ) .
+To facilitate comparison between the preterm and full-term groups , we designate the preterm infants according to the chronological age of the corresponding full-term groups , rather than according to the preterm infants ’ own chron- ological age .
+In other words , PT4 infants had more visual experience than FT4 infants , and PT7 infants had more visual experience than FT7 infants .
+Twenty-one infants ( 7 PT4 , 4 PT7 , 6 FT4 , and 4 FT7 ) were excluded from the analysis because they did not complete the experimental protocol .
+Twelve infants ( 5 preterm , 7 full-term ) were excluded because of fussiness , sleepiness , or nonspecific discomfort .
+Six infants ( 4 pre- term , 2 full-term ) were excluded because of insufficient eye signal quality ( i.e. , the iris color was too light or an eyelid opening was too small ) .
+Finally , 3 infants ( 2 pre- term , 1 full-term ) were excluded because of technical fail- ure during the experiments .
+Our final sample included 20 FT4 infants ( 10 boys , 10 girls ) , 23 FT7 infants ( 10 boys , 13 girls ) , 19 PT4 infants ( 12 boys , 7 girls ) , and 19 PT7 infants ( 10 boys , 9 girls ) .
+We used the number of participants in Direct Gaze 1,500 ms Lateral Gaze + Objects 4,000 ms Lateral Gaze 1,500 ms Direct Gaze 1,500 ms Lateral Gaze + Objects 4,000 ms Lateral Gaze 1,500 ms a b Fig .
+1 .
+Examples of stimuli used in Experiments 1 and 2 .
+In Experiment 1 ( a ) , a video of a woman directing her gaze toward the infant was presented for 1,500 ms .
+The woman then made a peek-a-boo-like gesture , while making vocalizations , and directed her gaze to the infant again for 1,000 ms. Then , a still picture of the same woman was shown for 1,500 ms .
+In this picture , her gaze and her head were directed toward one of two empty white panels .
+Next , videos of moving toys were projected simultaneously on the left and right white panels for 4,000 ms .
+Experiment 2 ( b ) was similar , but in this experiment , the still picture showed only the woman ’ s gaze ( and not her head ) as being directed toward one of the empty white panels .
+To make the conjunctiva clearly visible when only the eyes moved , the woman directed her gaze to the left or the right region by following a horizontal movement parallel to the floor .
+The empty white panels were therefore displayed near the regions where the woman ’ s eyes indicated that her gaze was directed .
+Preterm Infants ’ Gaze Following 1887 previous similar studies to determine our desired sample size ( Peña , Mehler , & Nespor , 2011 ; Peña et al. , 2012 ) .
+The preterm infants were born between 29 and 31 weeks of gestational age ( wGA ; M = 29.2 wGA , SD = 1.2 ) , and the full-term infants were born between 38 and 42 wGA ( M = 39 wGA , SD = 1.2 ) .
+At birth , all infants ( a ) had Apgar scores of 7 or higher at 1 and 5 min ; ( b ) had normal weight , size , and cranial perimeter for their gesta- tional age ; ( c ) demonstrated normal otoacoustic emis- sions ; and ( d ) had neuropediatric scores corresponding to their gestational ages .
+The preterm infants had retinal development , auditory brainstem-evoked responses , and brain ultrasonography results that were normal for their gestational age .
+( In both experiments reported here , all infants lived in households where Spanish was the only language spoken , were of lower-middle socioeconomic class , and exhibited normal clinical outcomes at assess- ments during their first 2 years of after birth . )
+Because the preterm infants in our study were not ill , they were able to benefit from a rich and complex experi- ence from birth onward .
+During the neonatal period before the study , they were clinically examined at least six times a day outside the incubator and were fed and stimu- lated by parents through a kangaroo procedure , a medical protocol that involves skin-to-skin contact between the mother or father and their newborn .
+These infants were discharged from the hospital at around 34 wGA with clini- cal recommendations for feeding and care at home .
+Ethical approval for this experiment was obtained from the Sótero del Río Hospital Ethics Committee .
+All parents provided informed written consent .
+Stimuli and apparatus .
+All visual stimuli were dis- played on a 17-in .
+eye-tracker monitor ( Tobii 1750 ; Tobii Technology , Stockholm , Sweden ) with a screen size of 1,024 × 768 pixels and 16-bit color depth .
+The tracker automatically recorded each infant ’ s binocular eye fixa- tions at a sampling rate of 50 Hz .
+Videos and pictures of two adult women were the stimuli for this experiment .
+On each trial , videos and pictures of one of the women , chosen randomly , were displayed over a central region .
+To the lower left and lower right of the face stimuli , pic- tures of toys were presented symmetrically in regions delimited by white areas that remained visible FT7 Group Postmenstrual Age : 16 months Chronological Age : 7 months FT4 Group Postmenstrual Age : 13 months Chronological Age : 4 months PT7 Group Postmenstrual Age : 16 months Chronological Age : 10 months PT4 Group Postmenstrual Age : 13 months Chronological Age : 7 months 6 months 3 months 3 months4 months Intrauterine Life Extrauterine Life Fig .
+2 .
+Postmenstrual and chronological ages of the full-term ( FT ) and preterm ( PT ) groups in this study .
+The horizontal rectangles indicate the duration of intra- and extrauterine life .
+The time of testing is indicated by a red vertical line placed at the right extreme of each horizontal bar .
+Note that infants in the FT7 group had a postmenstrual age similar to that of infants in the PT7 group ( 16 months ) and simultaneously a chronological age similar to that of infants in the PT4 group ( 7 months ) .
+1888 Peña et al .
+throughout each trial .
+All images used in the study were in color .
+Infants were positioned at a distance of 60 cm from the monitor .
+At this distance , the central region for facial stimuli subtended a 13.0° × 12.2° area , and the left and right regions for toys each subtended an 8.9° × 9.7° area .
+The toy regions were located 6.74° away from the midpoint of the horizontal axis ( see Fig .
+1a ) .
+Any differ- ences in expression or other features in the left-facing and right-facing versions of the women in the pictures and videos were eliminated by digital manipulation to create mirror images .
+Procedure .
+Testing occurred in a soundproof booth .
+Infants sat on their parent ’ s laps in front of the eye-tracker monitor .
+Parents wore a mask so they could not see the stimuli .
+First , binocular gaze calibration was performed by using fixations of longer than 100 ms on five centered points and on the four corners of the monitor , where visual attractors were successively presented .
+The experiment consisted of 20 trials .
+The start of each trial was signaled by the simultaneous presentation of a sound and a visual attention grabber in the central panel for 1,000 to 2,000 ms. Once the infant ’ s gaze was centered , a video of a woman directing her gaze toward the infant was presented in the center of the monitor for 1,500 ms .
+The woman then made a peek-a-boo-like gesture and directed her gaze to the infant again for 1,000 ms. Then , a still picture of the same woman was shown for 1,500 ms .
+In this picture , her gaze and her head were directed toward one of the empty white panels .
+In half of the trials , the woman in the video directed her gaze to the left side ; in the other half , she gazed to the right .
+The direction was chosen at random for each trial .
+Next , videos of moving toys were projected simultaneously on the left and right white panels for 4,000 ms , and the woman ’ s face contin- ued to be displayed .
+Across the 20 trials , each woman dis- played 10 different peek-a-boo-like gestures .
+The test was stopped any time infants manifested discomfort .
+Data acquisition and analysis .
+Infants ’ binocular gaze was recorded every 20 ms throughout the experi- ment .
+The gaze analysis was focused on square areas of interest specifically covering the female face and toys ( i.e. , the center area and lateralized white areas ) .
+We use the term first gaze to refer to the first fixation after the lateralized gaze cue .
+We expected that our analysis would reveal a preference by infants to direct their first gaze to the cued white panel , because their attention to it should have been enhanced if they were able to use this gaze cue ( McCall , 1971 ; Rigato , Menon , Farroni , & Johnson , 2013 ) .
+We also measured the latency of the first gaze and the total looking time on the targeted side .
+We predicted that analysis of these variables might reveal faster and prolonged visual exploration of the stimuli cued by the adult ’ s gaze ( Gredebäck , Johnson , & von Hofsten , 2010 ) .
+We thus analyzed five gaze variables over the regions of interest : •• Frequency of first-gaze direction : the numbers of times that the first fixation exceeding 100 ms fell on the left and right white regions after the woman lateralized her gaze ; •• First-gaze latency : the time between the onset of the woman ’ s lateralized gaze and the onset of the infant ’ s first fixation over one of the lateralized regions ; •• Total looking time : the total duration of the infant ’ s gazes toward each of the lateralized panels ; •• Number of fixations : the number of fixations last- ing longer than 100 ms that were directed to the left and right panels ; •• First-gaze duration : the duration of the first gaze over one of the lateralized panels .
+For a trial to be considered valid , the infant ’ s first gaze had to have been preceded by a central gaze fixation that exceeded 200 ms in duration .
+The mean of each gaze variable for correct and incorrect responses was com- puted separately for the left and right panels .
+A response was coded as correct when the infant followed the adult ’ s gaze direction and his or her gaze fell on the cued region of interest .
+To account for individual differences in visual behavior , we normalized the values for all five variables before statistical analysis .
+That is , each variable related to one side was divided by the sum of the same variable for both sides .
+For instance , the proportion of correct first- gaze direction was calculated by taking the number of trials in which the first gaze was directed toward the cor- rect side and dividing that number by the total number of trials in which the first gaze was directed toward either the correct or the incorrect side .
+The normalized values for all five variables were subjected to multivariate analy- ses of variance with group ( PT4 , PT7 , FT4 , or FT7 ) as a between-subjects factor .
+In post hoc pairwise compari- sons , we used the Bonferroni test to compare every com- bination of groups .
+Results Each preterm and full-term infant contributed between 14 and 20 trials , and an average of 14.7 trials per infant ( between 6 and 8 per side ) was used to compute mean variable values .
+A significant group effect was observed in the proportion of correct first-gaze direction , F ( 3 , 77 ) = 4.08 , p < .010 , η2 = .137 ( see Fig .
+3a ; FT4 : M = .501 , SD = .127 ; FT7 : M = .607 , SD = .134 ; PT4 : M = .615 , SD = .174 ; PT7 : M = .655 , SD = .145 ) .
+Post hoc analysis showed that Preterm Infants ’ Gaze Following 1889 both PT4 and PT7 infants behaved like FT7 infants , fol- lowing gaze direction significantly more often than the FT4 infants .
+This difference was significant for each of those three groups ( p < .010 for FT4 vs. PT7 , and ps < .05 for FT4 vs. PT4 and FT4 vs. FT7 ) .
+There were no signifi- cant group differences for the other variables , and no gender differences were found .
+Experiment 2 The results of Experiment 1 suggested that preterm infants , even those at the chronological age of 7 months , were able to follow an adult ’ s gaze when it involved simultaneous movement of the head and eyes .
+In Experiment 2 , we explored whether eye movement alone was sufficient to evoke the same behavior .
+Method Participants .
+We tested healthy infants in age groups identical to those described for Experiment 1 .
+Seventeen infants ( 6 PT4 , 4 PT7 , 5 FT4 , and 2 FT7 ) were excluded because they did not complete the experimental proto- col .
+Eight infants ( 5 preterm , 3 full-term ) were excluded because of fussiness , sleepiness , or nonspecific discom- fort .
+Seven infants ( 4 preterm , 3 full-term ) were excluded because of difficulties with continuous recording of the eye signal .
+Finally , 2 infants ( 1 preterm , 1 full-term ) were excluded because of technical failures .
+Our final sample included 21 FT4 infants ( 9 boys , 12 girls ) , 22 FT7 infants ( 11 boys , 11 girls ) , 18 PT4 infants ( 9 boys , 9 girls ) , and 20 PT7 infants ( 9 boys , 11 girls ) .
+The preterm infants were born between 29 and 31 wGA .
+The full-term infants were born between 38 and 42 wGA .
+Sample-size criteria and infants ’ clinical and epidemiological profiles were similar to those in Experiment 1 .
+Stimuli and procedure .
+Figure 1b displays some still images from a trial .
+The same apparatus , stimuli , and pro- cedure from Experiment 1 were used ; however , in the still pictures , only the direction of the eyes was lateral- ized ; the head was stationary .
+At a distance of 60 cm , the white squares subtended a 7.5° × 7.7° area , 7.63° away from the midpoint of the horizontal axis .
+Data acquisition and analysis .
+Data acquisition and analysis were the same as in Experiment 1 .
+Results Each infant contributed between 14 and 20 trials , and an average of 14.5 trials per infant ( between 6 and 8 per side ) was used to compute mean variable values .
+Analysis of the proportion of correct first-gaze direction again revealed a significant group difference , F ( 3 , 77 ) = 4.61 , p < .005 ; η2 = .135 ( see Fig .
+3b ; FT4 : M = .485 , SD = .159 ; FT7 : M = .584 , SD = .174 ; PT4 : M = .634 , SD = .197 ; PT7 : M = .635 , SD = .085 ) .
+A significant group difference .00 .25 .50 .75 1.00 FT4 FT7 PT4 PT7 Group b .00 .25 .50 .75 1.00 FT4 FT7 PT4 PT7 M ea n No rm al iz ed L at en cy o f Co rr ec t F irs t- Ga ze D ire ct io n Group c .00 .25 .50 .75 1.00 FT4 FT7 PT4 PT7 M ea n Pr op or tio n of C or re ct Fi rs t- Ga ze D ire ct io n M ea n Pr op or tio n of C or re ct Fi rs t- Ga ze D ire ct io n Group a Fig .
+3 .
+Experimental results .
+The graphs in ( a ) and ( b ) show the mean proportion of correct first-gaze direction as a function of infant group in Experiments 1 and 2 , respectively .
+The graph in ( c ) shows the mean normalized latency of correct first-gaze direction ( normalized by the latency across correct and incorrect trials ) as a function of infant group in Experiment 2 .
+On the y-axes , .5 indicates the chance level of perfor- mance .
+Error bars indicate 1 SEM .
+See Figure 2 for explanation of the group designations .
+1890 Peña et al .
+was also found for first-gaze latency , F ( 3 , 77 ) = 3.77 ; p < .014 ; η2 = .127 ( see Fig .
+3c ; FT4 : M = .406 , SD = .274 ; FT7 : M = .563 , SD = .156 ; PT4 : M = .611 , SD = .285 ; PT7 : M = .676 , SD = .212 ) .
+A crucial observation was that PT4 infants behaved like FT7 and PT7 infants , but not like FT4 infants .
+Pairwise comparisons showed that the propor- tion of correct first-gaze direction was significantly lower in FT4 infants compared with PT4 ( p = .027 ) , PT7 ( p = .020 ) , and FT7 ( p = .044 ) infants .
+Moreover , first-gaze latency was significantly shorter in FT4 infants than in PT4 ( p = .049 ) , PT7 ( p < .001 ) , and FT7 ( p = .031 ) infants .
+Analysis of the other variables revealed no other signifi- cant group or gender differences .
+Longer latencies in the successful groups ( i.e. , those who followed the woman ’ s gaze significantly more often than predicted by chance ) suggest that ( a ) eye direction might have been more dif- ficult to notice in the absence of the head-direction cue and ( b ) the FT4 infants might have disregarded eye movement cues and randomly oriented their gaze to the left or right side .
+Discussion Our results demonstrate that the duration of exposure to visual experience has a significantly greater impact on the development of early gaze following than does post- menstrual age .
+In Experiments 1 and 2 , PT4 infants behaved like FT7 infants ; these two groups had been exposed to the ex utero environment for equivalent amounts of time .
+Both groups tended to first orient their gaze toward the toy indicated by the woman ’ s gaze direc- tion .
+This behavior was not observed in the FT4 infants , who looked randomly to either side , and so there were significant differences between PT4 and FT4 infants , despite the fact that they shared the same postmenstrual age .
+The acceleration of gaze following observed in pre- term infants in the current study is consistent with results reported for development of binocularity ( Jandó et al. , 2012 ) , learning of phonotactic regularities ( Gonzalez- Gomez & Nazzi , 2012 ) , and early vocalizations ( Caskey et al. , 2011 ) .
+However , our findings contrast with prior findings regarding language-discrimination capacities ( analysis of the rhythmic properties of the native lan- guage—Peña et al. , 2010 ; acquisition of the native pho- netic repertoire—Peña et al. , 2012 ) and neonatal memory for the mother ’ s voice ( deRegnier , Wewerka , Georgieff , Mattia , & Nelson , 2002 ) .
+They also contrast with numer- ous clinical observations indicating that neurocognitive development of healthy preterm infants is guided mainly by neural maturation ( deRegnier , 2008 ) .
+These discrepancies highlight the developmental asynchronies in the human brain that affect learning .
+A particular cognitive system must be able to respond to external stimulation if a learned pattern of response is to be established .
+Previous studies have shown that when preterm infants are as young as 29 weeks of gestation , they can discriminate external stimuli , such as phonemes ( Draganova et al. , 2005 ; Mahmoudzadeh et al. , 2013 ) , demonstrating that perceptual mechanisms are functional as early as this age .
+However , other stimulus-dependent learning may require the development of other neural circuitry , such as circuits involving γ-aminobutyric acid ( GABA ) interneurons .
+These neurons reach their final location later than pyramidal neurons .
+This delayed development may postpone any type of learning , as is proposed by window-of-opportunities , or critical- periods , hypotheses .
+Gaze perception in adults engages occipitotemporal areas along the dorsal visual stream from visual area V5/ MT ( middle-temporal ) to the posterior temporal region ( Pelphrey , Morris , Michelich , Allison , & McCarthy , 2005 ) .
+The visual dorsal pathway is known to be particularly vulnerable in preterm infants ( Atkinson & Braddick , 2007 ) .
+It is therefore surprising to find an acceleration of gaze following in preterm infants , especially considering that preterm infants are typically delayed in detecting reversal of dot motion compared with full-term control infants ( Birtles , Braddick , Wattam-Bell , Wilkinson , & Atkinson , 2007 ) .
+Biological motion perception might rely on specific circuits of the V5/MT area that favor face motion processing , as suggested by neuropsychological dissociations ( Vaina , Lemay , Bienfang , Choi , & Nakayama , 1990 ) and the early development of biological motion perception in neonates of several species ( Simion , Regolin , & Bulf , 2008 ; Vallortigara , Regolin , & Marconato , 2005 ) .
+To some extent , vulnerability to lesions and sensitivity to the environment might be two sides of the same coin , in that both are dependent on the maturational state reached at around term ( Taylor , Jakobson , Maurer , & Lewis , 2009 ) .
+Area V5/MT myelination matures quickly around the time of full-term birth ( Flechsig , 1920 ) and receives direct retinothalamic projections that bypass V1 ( Warner , Kwan , & Bourne , 2012 ) .
+As maturation pro- gresses , the balance between the direct route to the MT area and the V1-MT pathway is shifted such that the latter becomes favored ( Warner et al. , 2012 ) .
+Additional studies that test infants ’ perception of biological motion and of reversal of dot motion using the same method are neces- sary to further clarify these points .
+Longitudinal studies would also be needed to deter- mine whether earlier gaze-following capacity in preterm infants is in any way predictive of later social communica- tion abilities , given their higher risk of autism ( Mahoney , Minter , Burch , & Stapel-Wax , 2013 ) .
+The study of healthy Preterm Infants ’ Gaze Following 1891 preterm infants is essential for understanding human cog- nitive development because it helps to differentiate the effects of environmental sensitivities , neural maturation , and neural vulnerability on closely related cognitive capacities .
+Author Contributions M. Peña developed the study concept .
+M. Peña and G. Dehaene- Lambertz contributed to the study design .
+M. Peña and D. Arias performed the testing and data collection .
+M. Peña performed the data analysis .
+M. Peña and G. Dehaene-Lambertz inter- preted the data .
+M. Peña and G. Dehaene-Lambertz drafted the manuscript .
+All authors approved the final version of the manu- script for submission .
+Acknowledgments We thank Enrica Pittaluga , Margarita Luna , and Elizabeth Pavez for their assistance in recruiting participants .
+Declaration of Conflicting Interests The authors declared that they had no conflicts of interest with respect to their authorship or the publication of this article .
+Funding This work was supported by Fondo Nacional de Desarrollo Científico y Tecnológico Grant 1110928 from La Comisión Nacional de Investigación Científica y Tecnológica , Chile .
+References Atkinson , J. , & Braddick , O .
+( 2007 ) .
+Visual and visuocognitive development in children born very prematurely .
+Progress in Brain Research , 164 , 123–149 .
+Baldwin , D. A. , & Moses , L. J .
+( 2001 ) .
+Links between social understanding and early word learning : Challenges to cur- rent accounts .
+Social Development , 10 , 309–329 .
+Baron-Cohen , S. , Campbell , R. , Karmiloff-Smith , R. , Grant , J. , & Walker , J .
+( 1995 ) .
+Are children with autism blind to the mentalistic significance of the eyes ?
+British Journal of Developmental Psychology , 13 , 379–398 .
+Birtles , D. B. , Braddick , O. J. , Wattam-Bell , J. , Wilkinson , A. R. , & Atkinson , J .
+( 2007 ) .
+Orientation and motion-specific visual cortex responses in infants born preterm .
+NeuroReport , 18 , 1975–1979 .
+Bourgeois , J. P. , Jastreboff , P. J. , & Rakic , P. ( 1989 ) .
+Synaptogenesis in visual cortex of normal and preterm monkeys : Evidence for intrinsic regulation of synaptic overproduction .
+Proceedings of the National Academy of Sciences , USA , 86 , 4297–4301 .
+Caskey , M. , Stephens , B. , Tucker , R. , & Vohr , B .
+( 2011 ) .
+Importance of parent talk on the development of preterm infant vocalizations .
+Pediatrics , 128 , e1–e7 .
+Charman , T. , Baron-Cohen , S. , Swettenham , J. , Baird , G. , Cox , A. , & Drew , A .
+( 2001 ) .
+Testing joint attention , imitation , and play as infancy precursors to language and theory of mind .
+Cognitive Development , 15 , 481–498 .
+Corkum , V. , & Moore , C. ( 1995 ) .
+Development of joint visual attention in infants .
+In C. Moore & P. J. Dunham ( Eds .
+) , Joint attention : Its origins and role in development ( pp .
+61– 83 ) .
+Hillsdale , NJ : Erlbaum .
+deRegnier , R. A .
+( 2008 ) .
+Neurophysiologic evaluation of brain function in extremely premature newborn infants .
+Seminars in Perinatology , 32 , 2–10 .
+deRegnier , R. A. , Wewerka , S. , Georgieff , M. K. , Mattia , F. , & Nelson , C. A .
+( 2002 ) .
+Influences of postconceptional age and postnatal experience on the development of auditory recognition memory in the newborn infant .
+Developmental Psychobiology , 41 , 216–225 .
+Draganova , R. , Eswaran , H. , Murphy , P. , Huotilainen , M. , Lowery , C. , & Preissl , H. ( 2005 ) .
+Sound frequency change detection in fetuses and newborns , a magnetoencephalo- graphic study .
+NeuroImage , 28 , 354–361 .
+Farroni , T. , Mansfield , E. M. , Lai , C. , & Johnson , M. H. ( 2003 ) .
+Infants perceiving and acting on the eyes : Tests of an evolutionary hypothesis .
+Journal of Experimental Child Psychology , 85 , 199–212 .
+Flechsig , P. ( 1920 ) .
+Anatomie des menschlichen Gehirns und Rückenmarks auf myelogenetischer Grundlage [ Anatomy of the human brain and spinal cord at the myelogenetic level ] .
+Leipzig , Germany : Georg Thieme Verlag .
+Flom , R. , Deák , G. O. , Phill , C. G. , & Pick , A. D. ( 2004 ) .
+Nine- month-olds ’ shared visual attention as a function of gesture and object location .
+Infant Behaviour & Development , 27 , 181–194 .
+Gonzalez-Gomez , N. , & Nazzi , T. ( 2012 ) .
+Phonotactic acquisi- tion in healthy preterm infants .
+Developmental Science , 15 , 885–894 .
+Gredebäck , G. , Johnson , S. , & von Hofsten , C. ( 2010 ) .
+Eye track- ing in infancy research .
+Developmental Neuropsychology , 35 , 1–19 .
+Hensch , T. K. ( 2004 ) .
+Critical period regulation .
+Annual Review of Neuroscience , 27 , 549–579 .
+Jandó , G. , Mikó-Baráth , E. , Markó , K. , Hollódy , K. , Török , B. , & Kovacs , I .
+( 2012 ) .
+Early onset binocularity in pre- term infants reveals experience-dependent visual develop- ment in humans .
+Proceedings of the National Academy of Sciences , USA , 109 , 11049–11052 .
+Limperopoulos , C. , Bassan , H. , Sullivan , N. R. , Soul , J. S. , Robertson , R. L. , Jr. , Moore , M. , .
+.
+.
+du Plessis , A. J .
+( 2008 ) .
+Positive screening for autism in ex-preterm infants : Prevalence and risk factors .
+Pediatrics , 121 , 758–765 .
+Mahmoudzadeh , M. , Dehaene-Lambertz , G. , Fournier , M. , Kongolo , G. , Goudjil , S. , Dubois , J. , .
+.
+.
+Wallois , F. ( 2013 ) .
+Syllabic discrimination in premature human infants prior to complete formation of cortical layers .
+Proceedings of the National Academy of Sciences , USA , 110 , 4846–4851 .
+Mahoney , A. D. , Minter , B. , Burch , K. , & Stapel-Wax , J .
+( 2013 ) .
+Autism spectrum disorders and prematurity : A review across gestational age subgroups .
+Advances in Neonatal Care , 13 , 247–251 .
+McCall , R. B .
+( 1971 ) .
+Attention in the infant : Avenue to the study of cognitive development .
+In M. D. Walcher & D. L. Peters ( Eds .
+) , Early childhood : The development of self- regulatory mechanisms ( pp .
+107–137 ) .
+New York , NY : Academic Press .
+1892 Peña et al .
+Morales , M. , Mundy , P. , Delgado , C. E. F. , Yale , M. , Messinger , D. , Neal , R. , & Schwartz , H. K. ( 2000 ) .
+Responding to joint attention across the 6- through 24-month age period and early language acquisition .
+Journal of Applied Developmental Psychology , 21 , 283–298 .
+Morales , M. , Mundy , P. , & Rojas , J .
+( 1998 ) .
+Following the direc- tion of gaze and language development in 6-month-olds .
+Infant Behavior & Development , 21 , 373–377 .
+Pelphrey , K. A. , Morris , J. P. , Michelich , C. R. , Allison , T. , & McCarthy , G. ( 2005 ) .
+Functional anatomy of biological motion perception in posterior temporal cortex : An fMRI study of eye , mouth and hand movements .
+Cerebral Cortex , 15 , 1866–1876 .
+Peña , M. , Mehler , J. , & Nespor , M. ( 2011 ) .
+The role of audiovisual processing in early conceptual development .
+Psychological Science , 22 , 1419–1421 .
+Peña , M. , Pittaluga , E. , & Mehler , J .
+( 2010 ) .
+Language acquisi- tion in premature and full-term infants .
+Proceedings of the National Academy of Sciences , USA , 107 , 3823–3828 .
+Peña , M. , Werker , J. F. , & Dehaene-Lambertz , G. ( 2012 ) .
+Earlier speech exposure does not accelerate speech acquisition .
+Journal of Neuroscience , 32 , 11159–11163 .
+Reid , V. M. , Striano , T. , Kaufman , J. , & Johnson , M. H. ( 2004 ) .
+Eye gaze cueing facilitates neural processing of objects in 4-month-old infants .
+NeuroReport , 15 , 2553–2555 .
+Rigato , S. , Menon , E. , Farroni , T. , & Johnson , M. H. ( 2013 ) .
+The shared signal hypothesis : Effects of emotion-gaze congru- ency in infant and adult visual preferences .
+British Journal of Developmental Psychology , 31 , 15–29 .
+Scaife , M. , & Bruner , J. S. ( 1975 ) .
+The capacity for joint visual attention in the infant .
+Nature , 253 , 265–266 .
+Senju , A. , Csibra , G. , & Johnson , M. H. ( 2008 ) .
+Understanding the referential nature of looking : Infants ’ preference for object-directed gaze .
+Cognition , 108 , 303–319 .
+Simion , F. , Regolin , L. , & Bulf , H. ( 2008 ) .
+A predisposition for biological motion in the newborn baby .
+Proceedings of the National Academy of Sciences , USA , 105 , 809–813 .
+Taylor , N. M. , Jakobson , L. S. , Maurer , D. , & Lewis , T. L. ( 2009 ) .
+Differential vulnerability of global motion , global form , and biological motion processing in full-term and preterm chil- dren .
+Neuropsychologia , 47 , 2766–2778 .
+Vaina , L. M. , Lemay , M. , Bienfang , D. C. , Choi , A. Y. , & Nakayama , K. ( 1990 ) .
+Intact “ biological motion ” and “ struc- ture from motion ” perception in a patient with impaired motion mechanisms : A case study .
+Visual Neuroscience , 5 , 353–369 .
+Vallortigara , G. , Regolin , L. , & Marconato , F. ( 2005 ) .
+Visually inexperienced chicks exhibit spontaneous preference for biological motion patterns .
+PLoS Biology , 3 ( 7 ) , Article e208 .
+Retrieved from http : //www.plosbiology.org/article/ info : doi/10.1371/journal.pbio.0030208 .
+Van Hof-Van Duin , J. , & Mohn , G. ( 1986 ) .
+The development of visual acuity in normal fullterm and preterm infants .
+Vision Research , 26 , 909–916 .
+Warner , C. E. G. , Kwan , W. C. , & Bourne , J .
+A .
+( 2012 ) .
+The early maturation of visual cortical area MT is dependent on input from the retinorecipient medial portion of the inferior pul- vinar .
+Journal of Neuroscience , 32 , 17073–17085 .

@@ -1,0 +1,370 @@
+Rich_JournLabEco_2013_Lekz.pdf
+awtU36zGzN7l7wnOA9nvlMDw_2xa-Rich_JournLabEco_2013_Lekz.pdf.plain.html
+
+Early Contract Renegotiation : An Analysis of US Labor Contracts , 1970–1995 Robert Rich , Federal Reserve Bank of New York Joseph Tracy , Federal Reserve Bank of New York This article examines the ex post flexibility of US labor contracts during the 1970–95 period by investigating whether unanticipated changes in inflation increase the likelihood of a contract being rene- gotiated prior to its expiration .
+We find empirical support for this hypothesis .
+Specifically , our results indicate that renegotiations are triggered principally by large and infrequent price shocks of either sign .
+When combined with evidence that ex ante contract durations are shorter during episodes of increased inflation uncertainty , our results suggest that these contracts are flexible both ex ante and ex post to changes in the evolution of inflation .
+Fischer ð1977Þ and Taylor ð1980Þ show how labor contracts with nom- inal rigidities and fixed durations can provide central banks with leverage to influence and improve the performance of the economy through activ- ist monetary policy .
+This leverage can be limited by a variety of factors , in- cluding the degree to which labor contracts are flexible on an ex ante and ex post basis to changes in the economic environment .
+A theoretical litera- ture has examined the optimal duration of labor contracts in the face of The views expressed in this article do not necessarily reflect the position of the Federal Reserve Bank of New York or the Federal Reserve System .
+We thank Evan LeFlore for excellent research assistance andLeifDanziger and PaulOyer ðthe editorÞ for helpful comments .
+Contact the corresponding author , Joseph Tracy , at joseph.tracy @ ny.frb.org .
+[ Journal of Labor Economics , 2013 , vol .
+31 , no .
+4 ] © 2013 by The University of Chicago .
+All rights reserved .
+0734-306X/2013/3104-0006 $ 10.00 825 both nominal and real uncertainty.1 This is an example of ex ante flexibil- ity .
+While not specific to labor contracts , a theoretical literature has also ex- plored the question of when contracts should be renegotiated prior to their planned expiration date.2 This is an example of ex post flexibility .
+With regard to the ex ante flexibility of contracts , empirical research has examined the degree to which the durations of union labor contracts re- spond to inflation uncertainty , as well as to proxies for nominal and real uncertainty.3 There is a growing consensus that North American labor con- tracts are ex ante shorter during periods of higher inflation uncertainty spe- cifically and increased nominal uncertainty more generally .
+The evidence on the impact of real uncertainty on the ex ante duration of labor contracts is more mixed .
+Rich and Tracy ð2004Þ find that US labor contracts are shorter when negotiated during periods of higher real uncertainty , while Fay and Lavoie ð2002Þ find no relationship between the ex ante duration of Canadian labor contracts and real uncertainty .
+To date , however , no comparable analysis has been conducted to investigate if labor contracts are also flexible on an ex post basis to inflation surprises through early re- negotiation .
+For US union labor contracts , early renegotiations are not an unusual occurrence .
+Over the period from 1970 to 1995 , 7 % of the contracts were renegotiated prior to their planned expiration date .
+For contracts that in- volve an early renegotiation , the renegotiation occurs on average 7 months prior to the expiration date .
+The hazard rate for early renegotiations is given in figure 1.4 Two points are worth noting .
+First , most time periods covered by the data exhibit at least some early renegotiations .
+Second , there is clear evidence that early renegotiations can rise sharply during cer- tain episodes .
+This second feature of the data suggests that changes in the economic environment might contribute to the likelihood that a labor con- tract ends through an early renegotiation .
+In this article , we investigate if unanticipated changes in the evolution of inflation affect the likelihood that a labor contract is renegotiated prior to its planned expiration .
+The empirical evidence from our study provides support for this hypothesis .
+Specifically , we find that contracts are more likely to be renegotiated when inflation deviates significantly from the forecast profile generated at the time the contract was signed .
+Moreover , we find that this feature is evident regardless of whether actual inflation 1 See , e.g. , Gray ð1978Þ , Canzoneri ð1980Þ , and Danziger ð1988Þ .
+2 See , e.g. , Shavell ð1984Þ and Hart and Moore ð1998Þ .
+3 See , e.g. , Christofides and Wilton ð1983Þ , Christofides ð1985 , 1990Þ , Vroman ð1989Þ , Murphy ð1992Þ , Fay and Lavoie ð2002Þ , and Rich and Tracy ð2004Þ .
+4 For each quarter , the hazard rate is computed as the number of contracts that renegotiate early divided by the number of contracts that are ongoing during that quarter .
+826 Rich/Tracy F IG .
+1 .
+— H az ar d ra te fo r ea rl y re n eg o ti at io n b y ca le n d ar q u ar te r. So u rc e : B u re au o f L ab o r St at is ti cs m aj o r co ll ec ti ve b ar ga in in g ag re e- m en ts .
+A u th o rs ’ ca lc u la ti o n s. turns out to be higher or lower than the forecast , which is consistent with efficient renegotiation .
+Taken together , the results of this study and those of Rich and Tracy ð2004Þ suggest that US labor contracts are flexible both ex ante and ex post to changes in the dynamics of inflation .
+The durations of these labor contracts show evidence of downward ex ante flexibility in response to periods of increased inflation uncertainty , as well as downward ex post flexibility in response to inflation shocks .
+These findings also suggest that central banks have less ability to leverage nominal rigidities in labor con- tracts than would be the case if contract durations were fixed both ex ante and ex post .
+Moreover , Rich and Tracy ð2004Þ show that US labor con- tracts are more likely to contain a COLA clause and a scheduled reopen- ing during periods of heightened inflation uncertainty .
+These contract pro- visions reduce the degree of nominal rigidity in the contracts and thereby act to further limit the efficacy of any activist monetary policy pursued by a central bank .
+I .
+Literature Review US labor contracts have the feature that when they are signed,5 the doc- ument containing the specific terms of the contract indicates an explicit expiration date.6 We define the ex ante duration of the contract as the length of time between the negotiation date and the planned expiration date of the contract as stipulated in the written agreement .
+However , at any time during the course of the contract both parties can mutually agree to renegotiate the existing contract and replace it with a new one effec- tive immediately.7 If this occurs , then the ex post duration of the labor con- tract is shorter than the ex ante duration .
+In addition , longer contracts may contain one or more scheduled reopening dates.8 These are more restric- 5 Labor contracts in the United States are in fact agreements and not contracts in the legal sense of being governed by contract law .
+The agreements we analyze are governed by specific statutory law ðWagner Act and its subsequent amend- mentsÞ and case law ðdetermined by the National Labor Relations Board rulings by subsequent court decisionsÞ .
+For convenience , we will refer to these agreements as labor contracts .
+6 There are a few exceptions in the data that the Bureau of Labor Statistics calls “ evergreen ” contracts .
+These agreements have no preset expiration date .
+Rather , there is a notice provision whereby one party indicates to the other party their in- tention to end the agreement .
+7 In contrast , an “ early settlement ” occurs if the union and the firm negotiate the new contract prior to the expiration date of the existing contract but set the effective date of the new contract to immediately follow the expiration date .
+The incidence of early settlements among major US contract negotiations where the ne- gotiation date precedes the expiration date by at least 30 days is 1.9 % for the period from 1970 to 1995 .
+8 In our sample , 4.2 % of contracts have a scheduled reopening date .
+828 Rich/Tracy tive than an early renegotiation because the bargaining is limited to deter- mining the size of the deferred wage increase at the predetermined date .
+Another feature of US labor contracts is that the terms and conditions of the agreement dealing with the relationship between the firm and the union workers can extend beyond the expiration of the contract so long as a bargaining impasse has not taken place.9 As a consequence , the ex post duration of labor contracts can effectively be longer than the ex ante du- ration .
+Cramton and Tracy ð1992Þ report that 47 % of US contract renew- als take place 2 or more days after the expiration date of the prior con- tract and that 63 days is the average time between the expiration of the old contract and the negotiation of the new contract .
+Cramton and Tracy ð1992Þ refer to these contract extensions as holdouts.10 Returning to the issue of the ex ante duration of labor contracts , Gray ð1978Þ posits that the ex ante duration will vary inversely with the degree of nominal uncertainty prevailing at the time the contracts are signed .
+In her model , the optimal ex ante duration involves a trade-off between the benefit of amortizing the fixed costs of negotiating the contract over a longer duration against the cost that the terms of a longer contract will likely depart significantly from their desired level at some point due to un- foreseen nominal shocks .
+These costs arise due to imperfect indexation of the terms of the contract.11 In another study , Danziger ð1988Þ argues that labor contracts can also provide a means of risk sharing between the union and the firm .
+He posits that the ex ante duration of labor contracts will vary positively with the degree of real uncertainty at the time the agreement is signed.12 These earlier papers abstracted from allowing a contract to be renego- tiated ahead of its intended expiration date .
+Danziger ð1995Þ extends these models to incorporate the option to reopen the contract in an economy that is subject to both real and nominal shocks .
+It is assumed that the 9 In contrast , the features of the contract that regulate the relationship between the union and the firm , such as automatic dues withholding , are not extended .
+A strike is the most common example of a bargaining impasse .
+10 There are three views of holdouts in the literature .
+Cramton and Tracy ð1992Þ treat holdouts as a form of labor dispute .
+Gu and Kuhn ð1998Þ model holdouts as a strategic delay where the union and firm are waiting to learn relevant informa- tion from other ongoing negotiations .
+Finally , Danziger and Neuman ð2005Þ and Danziger ð2006Þ incorporate holdouts as an outcome of risk sharing between the union and the firm .
+11 An implicit assumption of the Gray model is that the firm and union can not renegotiate the agreement prior to the planned expiration date if a large nominal shock materializes .
+12 Danziger assumes that firms are risk neutral and union workers are risk averse .
+Firms agree to provide some real wage insurance against adverse produc- tivity shocks .
+Faced with more real uncertainty , firms and unions will extend the insurance provided by signing agreements with longer ex ante durations .
+Early Contract Renegotiation 829 shocks can be of two types : those that are frequent and small in size as well as those that are infrequent and large in size.13 Workers would prefer to have their wage fully indexed with respect to nominal shocks .
+However , the available price index reflects both the impact of real and nominal shocks .
+As a consequence , indexation is incomplete , which exposes work- ers to expected utility losses during the contract.14 Danziger demonstrates that contracts may be reopened in response to a large shock but that they will not be reopened as a result of an accumulation of small shocks .
+He stresses that empirical work should differentiate between the effects of large and small shocks on both the ex ante and the ex post contract du- rations .
+II .
+US Labor Contract Data and Estimation Methodology We now turn to the first empirical examination of the determinants of early renegotiation of US labor agreements.15 We use the Bureau of Labor Statistics ðBLSÞ data on major collective bargaining agreements , which cover bargaining situations involving at least a thousand workers .
+We ex- clude contracts involving public sector bargaining units as well as bargain- ing units covered by the Railway Labor Act.16 Our contracts were nego- tiated between 1970 and 1995 .
+The data provide a unique identifier for each bargaining unit as well as the negotiation , effective , and expiration dates of the contract .
+Information is also provided on the firmðsÞ and unionðsÞ in the bargaining unit , the geographic location of the bargaining unit , the firm ’ s ðfirms ’ Þ major industry , and the number of workers covered by the contract .
+The BLS discontinued collecting these data after 1995 due to budget cuts .
+However , many of the bargaining units continued to send in hardcopies of their contracts even after 1995 .
+We coded the dates from the physical con- tracts that were available at the BLS .
+In addition , the Bureau of National Affairs ðBNAÞ provided data that they gathered from public sources on collective bargaining , which we merged into the BLS data.17 We used these 13 Danziger ð1992Þ shows that fixed-length contracts are preferred to contracts with reopeners in an economy that is only subject to frequent but small price shocks .
+14 For a discussion of the role of incomplete contracts as a motivation for con- tract reopening , see Shavell ð1984Þ , Dye ð1985Þ , Harris andHolmstrom ð1987Þ , and Dewatripont and Maskin ð1990Þ .
+Shavell also examines the use of breach damages .
+For debt contracts , see Hart and Moore ð1998Þ and Garleanu and Zwiebel ð2009Þ .
+15 Matvos ð2010Þ examines renegotiation of individual NFL player agreements within the umbrella of a broad labor agreement with the league .
+16 Public sector labor contracts are governed by state law .
+TheRailway LaborAct covers private bargaining units in the railway and air transportation industries .
+All other private sector contracts are governed by the Wagner Act and the associated case law .
+17 The effective date and the expiration date are clearly identified in the physical contracts .
+We used Nexis searches to verify the negotiation date when this date was unclear from the physical contract or was missing from the BNA data .
+830 Rich/Tracy two data sources to ascertain the subsequent negotiation and effective dates for those contracts that were ongoing as of 1995 , thereby allowing us to determine which of these contracts experienced an early renegotiation.18 Our analysis does not include any of the subsequent contracts negotiated after 1995 .
+We have a total of 6,325 contracts , of which we observe the complete history for 5,459 contracts .
+We define an early renegotiation to be a situation where a bargaining unit negotiates a contract more than 30 days prior to the expiration date of the current contract and makes the new contract effective immediately .
+For those contracts where we observe their complete history , 7 % expe- rienced an early renegotiation .
+The incidence of early renegotiation varies positively with the ex ante duration of the contract , as shown in table 1 .
+As a caution , we only have a small number of 1-year contracts as well as con- tracts that are 4 years or longer .
+However , we do see that the incidence of early renegotiation rises with longer contracts when we compare contracts that are 2 years versus 3 years in length .
+The timing of early renegotiations within the contracts is shown in fig- ure 2 .
+The hazard rate for early renegotiations is roughly flat at a low level over the penultimate year of the contract .
+There is a spike in early renego- tiations roughly a year prior to the planned expiration date .
+This likely re- flects a desire for bargaining units to have their contracts expire in a given quarter of the year .
+A prominent feature of the data is that there is a high percentage of contracts with durations that are multiples of 12 months , with changes in the ex ante contract durations when they occur also being dominated by multiples of 12 months.19 The incidence of early renegotia- tions picks up in the final year of the contract and is significantly higher in the last 6 months .
+The average number of months remaining on a contract that ends in an early renegotiation is 7 months .
+For each labor contract , we divide the ex ante duration into quarterly intervals .
+A contract is “ at risk ” of an early renegotiation if it has not been renegotiated up to that point in the contract .
+We create an indicator 18 For those contracts that were ongoing in 1995 where we could not find the subsequent contract , we treat the information on early renegotiation as censored after the fourth quarter of 1995 when the BLS data ends .
+Table 1 Incidence of Early Renegotiation by Ex Ante Contract Duration 0–18 Months 19–30 Months 31–42 Months 43–54 Months 551 Months Renegotiation rate 3.8 3.9 8.4 21.8 28.2 Number of contracts 341 1,142 3,749 188 39 NOTE.—Bureau of Labor Statistics major collective bargaining agreements , where we observe the complete history from negotiation to expiration .
+19 See Rich and Tracy ð2004Þ for details .
+Early Contract Renegotiation 831 F IG .2 .— H az ar d ra te fo r ea rl y re n eg o ti at io n b y m o n th s re m ai n in g in cu rr en t co n tr ac t. So u rc e : B u re au o f L ab o r St at is ti cs m aj o r co ll ec ti ve b ar ga in in g ag re em en ts .
+A u th o rs ’ ca lc u la ti o n s. variable Iijkt that takes a value of one if that contract was renegotiated early during a specific quarter following the negotiation date and up through the planned expiration date .
+We use these indicator variables to examine the probability of an early renegotiation .
+In particular , we model this prob- ability as a function of observable characteristics using a Probit framework , with the estimated impact of inflation forecast errors central to the analysis .
+For contract i , negotiated in state j , with a firm involved in industry k that is at risk to an early renegotiation at time t , the net benefit to an early rene- gotiation is given by an unobserved index function I*ijkt , which we assume takes the following linear form : I*ijkt 5Xib1 1Xjb2 1Xkb3 1Xtb4 1 εijkt ; where Xi contains bargaining unit specific variables , including the time elapsed and the time remaining in the current contract , Xj industry- specific variables , Xk state-specific variables , and Xt macro variables .
+The bargaining unit agrees to an early renegotiation if this unobserved net gain is positive : Iijkt 5 1 if I*ijkt > 0 ; 0 otherwise : ( The probability that the contract will be renegotiated early in period t is given by Pr Iijkt 5 1 5 F Xib1 1Xjb2 1Xkb3 1Xtb4 : We report the marginal effect of each variable on the probability of a re- negotiation .
+We scale these marginal effects by the sample average prob- ability that a contract is renegotiated in any quarter pð Þ : MEXk 5 yF=yXk p Xb̂ : We evaluate these scaled marginal effects at the sample means of the data .
+III .
+Measuring Inflation Forecast Errors and Other Model Control Variables A .
+The Inflation Forecasting Procedure We measure inflation as the quarterly growth rate in the Consumer Price Index ðCPIÞ and generate forecasts from an estimated autoregressive ðARÞ specification , where we use the Bayesian Information Criterion to choose among lag lengths that can vary from one to four quarters .
+Our strategy is not to impose a single model on the firms but rather to allow Early Contract Renegotiation 833 firms to adjust the lag length of the AR model based on an evaluation of recent forecast performance .
+In an effort to be consistent with the informa- tion set of bargaining units , the model selection process is undertaken in a real-time manner .
+That is , model selection at time t is undertaken only using information available through time t. We also maintain a rolling 40-quarter window for estimation , with the estimates from the selected model used to generate dynamic out-of-sample forecasts over a 20-quarter horizon.20 The most frequently selected model included a single lagged value of inflation , with the ARð1Þ model used for forecasting purposes princi- pally at the beginning and the end of the sample period .
+The model spec- ification , however , initially switched to an ARð4Þ process in early 1981 , followed by a switch to an ARð3Þ process around 1987 , before switching back to an ARð1Þ process around 1991 .
+Last , the persistence of the infla- tion process , as measured by the sum of the estimated AR coefficients , was quite high during most of the sample period before displaying a marked decline around 1991.21 Defining notation , let pt denote the inflation rate between quarters t21 and t , pt1h denote the inflation rate similarly defined between quarters t1 h21 and t1 h , and p̂t1hjt 20 h51 denote the sequence of inflation forecasts over a 20-quarter horizon conditional on information available through quarter t. We can construct the series ∈̂ t1hjt 5 pt1h 2 p̂t1hjt 20 h51 that rep- resents the ex post inflation forecast errors over the 20-quarter horizon associated with a contract signed at time t. We then move the sample for- ward by one quarter , dropping the earliest quarterly observation and in- cluding the latest quarterly observation , and repeat the estimation and forecasting exercises .
+For the analysis , the model is initially estimated over the sample period 1960 : Q1–1969 : Q4 , with the initial forecast profile con- structed for 1970 : Q1–1974 : Q4 .
+We merge these vintage-specific series of inflation forecast errors into the contract data by selecting the specific vintage that corresponds to the information available to the firm and union when the contract was signed , based on the negotiation date .
+Consequently , at a given point in time , dif- ferent bargaining units will experience different inflation forecast errors , depending on the dates that their contracts were negotiated .
+This is illus- 20 It is well documented that inflation forecasting models , including Phillips Curve models , exhibit considerable instability.While theCPI is not subject to revision , this is not the case for auxiliary variables that have been used to explain inflation dy- namics .
+Our use of a univariate model to forecast CPI inflation , with a specifica- tion that can change over time , allows us to address the issue of time variation in in- flation forecasting models as well as circumvent the real-time data considerations that would greatly complicate the extension to a multivariate model .
+See Stock and Watson ð1996 , 1999Þ for further discussion .
+21 The persistence varied from 0.7 to 0.9 through 1990 and then declined to a range between 0.3 and 0.4 .
+834 Rich/Tracy trated in figure 3 , which shows the range of inflation forecast errors from the estimation sample for each quarter covered by our data .
+There is a clus- tering of the large inflation forecast errors during three episodes .
+Not sur- prisingly , the first two episodes of 1973–75 and 1978–81 correspond to the effects of the first and second rounds of food and oil shocks , and these are associated with a marked underprediction of inflation .
+The third episode of 1982–83 corresponds to the Volcker disinflation period , and it is associated with notable overprediction of inflation .
+The empirical literature on ex ante contract durations typically uses the effective date of the contract to denote the beginning of the contract .
+For US labor contracts , Rich and Tracy ð2004Þ show that backdating is quite common , where the effective date is set prior to the negotiation date .
+In these cases , using the contract ’ s effective date would lead to merging in the incorrect vintage of inflation forecast errors .
+The heterogeneity in the inflation forecast errors arising from multi-period forecast horizons and vintage-specific data associated with different contract negotiation dates is a key feature of the empirical analysis .
+B .
+Other Determinants of Early Renegotiation If there are fixed costs associated with an early contract renegotiation , contracts covering a larger number of workers are more likely to be ter- FIG .
+3.—Inflation forecast errors .
+Source : Bureau of Labor Statistics major col- lective bargaining agreements .
+Authors ’ calculations .
+minated early , since the benefits to an early renegotiation are likely to in- Early Contract Renegotiation 835 crease with the size of the bargaining unit ceteris paribus .
+We include the size of the bargaining unit to capture this effect .
+This size variable varies both across bargaining units at a point in time and within bargaining units over time .
+Given the differences in the ex ante contract durations , we can control for both the length of time the current contract has been in force ðthe standard notion of duration dependenceÞ and the remaining duration of the contract if it runs to its planned expiration.Wemeasure the length of time the contract has been in force as the number of quarters between the negotiation date and the current date regardless of whether the contract was backdated .
+We control for both trend and cyclical conditions in the state and the industry where the bargaining unit is located .
+We gauge these conditions using employment as a standard metric .
+We assume that the employment process follows a quadratic time trend , where we allow for seasonal em- ployment effects and up to second-order autocorrelation in the residuals .
+We use BLS state employment and national employment data measured at a quarterly frequency to estimate the parameters .
+Letting Eit denote the employment in state or industry i in period t and Qjt denote quarterly seasonal dummy variables , we estimate the following equation : log Eitð Þ5 bio 1 bi1t1 bi2t2 1 o 3 j51 dijQjt 1 qit ; qit 5 r1qit21 1 r2qit22 1 ∈it ; ∈t ∼Nð0 ; j2i Þ : We proxy long-run employment trends in the state or the industry by the implied employment growth , given by b̂i11 2b̂i2t .
+The composite employ- ment residual , q̂it , provides a proxy for cyclical conditions in the state or the industry , with tight labor market conditions represented by positive re- siduals .
+For the specifications , we also include the quarterly growth rate in real GDP as a macro control .
+To assist in comparing the size of the effects across variables , we standardize all of the continuous control variables to have a zero mean and unit standard deviation .
+To allow for the possibility that early renegotiations can be triggered by both positive and negative inflation forecast errors , we include a variable capturing positive inflation forecast errors ðand set to zero if the forecast error is negativeÞ and a second variable capturing negative inflation fore- cast errors ðagain set to zero if the forecast error is positiveÞ—here mea- sured as the absolute value of the negative forecast error .
+We can test for symmetric effects of positive and negative shocks by testing for equality of the marginal effects from these pairs of variables .
+Symmetry would be 836 Rich/Tracy one indication of efficient renegotiation.22 Following Danziger ð1995Þ , we can also differentiate between large and small shocks , as well as contempo- raneous shocks and shocks that have accumulated to date over the course of the contract .
+IV .
+Determinants of Early Renegotiation The impact of inflation forecast errors on the likelihood of an early contract renegotiation for our full sample of data is given in table 2 .
+De- scriptive statistics are provided in appendix table A1 .
+Three specifications are provided in table 2 .
+Specification 1 controls for positive and negative inflation forecast errors for the prior quarter .
+In specification 2 , we focus on only large values of positive and negative inflation forecast errors .
+In this specification , we zero out any errors that fall between the 10th and the 90th percentiles of the sample distribution of these inflation forecast er- rors .
+Specification 2 is designed to test the prediction from Danziger ð1995Þ that large shocks should trigger renegotiations .
+Finally , specification 3 adds the positive and negative lag cumulative inflation forecast errors .
+When cal- culating the cumulative inflation forecast errors , we zero out the large errors that exceed the 90th percentile or fall below the 10th percentile .
+Specifica- tion 3 is a further test of Danziger ð1995Þ that absent a large contempora- neous price shock , cumulative small price shocks over the course of the contract should not lead to renegotiation .
+Before turning to the results from the inflation forecast errors , we re- view the effects of the other control variables .
+The data indicate that the propensity to renegotiate is not affected by the size of the bargaining unit as measured by the number of workers covered by the contract .
+The like- lihood of an early renegotiation increases with the number of quarters since the contract was effective , and it decreases with the number of quarters left in the planned duration of the contract .
+The relative absolute magnitudes of these two different duration effects are similar , implying that the two duration effects tend to offset each other.23 As reported by Estache et al .
+ð2008Þ for concession contracts , we find that renegotiation is counter- cyclical with respect to overall conditions in the economy as measured by real GDP growth .
+Controlling for overall aggregate economic conditions , the 22 With efficient renegotiations the sign of the shock would only affect the terms of the new contract between the union and the firm as a result of the renegotiation and not the likelihood that the contract is renegotiated .
+23 If we drop the variable measuring the quarters left in the contract and allow the duration dependence to vary by the ex ante contract duration , then we find that the marginal effect of each additional quarter into the contract is to increase the likelihood of a renegotiation by 0.205 % of the average probability for contracts less than 30 months in duration , 0.163 % for contracts between 30 and 42 months in duration , and 0.144 % for contracts in excess of 42 months in duration .
+All three duration effects are statistically significant .
+Early Contract Renegotiation 837 likelihood that a contract will be renegotiated is declining for industries that have higher trend employment growth and when the industry employ- ment is currently above trend .
+While trend employment growth in the state where the bargaining unit is located does not affect renegotiation rates , we Table 2 Early Renegotiation—Inflation Forecast Errors Variable ð1Þ ð2Þ ð3Þ Size of bargaining unit ð100,000Þ .129 ð.080Þ .127 ð.080Þ .130 ð.080Þ Quarters into contract .099** ð.014Þ .102** ð.014Þ .100** ð.014Þ Quarters left in contract 2.074** ð.014Þ 2.071** ð.014Þ 2.073** ð.014Þ Real GDP growth 2.068** ð.025Þ 2.055** ð.026Þ 2.055** ð.027Þ Industry employment trend 2.224** ð.036Þ 2.222** ð.035Þ 2.221** ð.035Þ Industry employment residual 2.100** ð.026Þ 2.098** ð.026Þ 2.096** ð.025Þ State employment trend 2.007 ð.029Þ 2.009 ð.028Þ 2.007 ð.029Þ State employment residual 2.054* ð.028Þ 2.054* ð.028Þ 2.056* ð.028Þ Positive inflation forecast error .199** ð.042Þ Negative inflation forecast error .159** ð.057Þ Large positive inflation forecast errora .182** ð.034Þ .195** ð.036Þ Large negative inflation forecast errora .165** ð.052Þ .159** ð.053Þ Positive cumulative small forecast errorb 2.020 ð.044Þ Negative cumulative small forecast errorb .028 ð.050Þ x2 test for equality of positive and negative inflation forecast error .67 .10 .37 ½.413 ½.753 ½.542 x2 test for equality of large and cumulative small forecast errors 14.68 ½.001 NOTE.—Number of observations5 59,612 .
+Probit marginal effects scaled by the average probability of a renegotiation in a quarter ð0.007Þ with standard errors given in parentheses .
+Standard errors are cal- culated clustering at the bargaining unit .
+In the bottom two rows , p-values are in square brackets .
+Real GDP growth , industry and state employment trends and residuals , and inflation forecast errors are stan- dardized to have mean zero and unit standard deviation .
+Each specification includes three quarterly fixed effects .
+a Top/bottom 10 % of distribution of forecast errors .
+b Excludes large forecast errors .
+* Statistically significant at the 10 % level .
+** Statistically significant at the 5 % level .
+838 Rich/Tracy find that when current employment in the state is above trend a contract is less likely to renegotiate .
+The magnitude of this effect , though , is almost half the magnitude associated with the industry employment residual .
+We now turn to the role that inflation forecast errors may play as a de- terminant of early contract renegotiations .
+In specification 1 we find that both positive and negative inflation forecast errors lead to a higher inci- dence of early renegotiation .
+A one standard deviation change in the pos- itive ðnegativeÞ inflation forecast errors increases the probability of early re- negotiation by 20 % ð16 % Þ of the observed quarterly average ðrespectivelyÞ .
+The data do not reject the restriction that these marginal effects are equal in magnitude .
+This symmetry is consistent with efficient bargaining between the union and the firm over the decision to renegotiate the contract .
+Turning to specification 2 , we can investigate if this result is driven primarily by large inflation forecast errors .
+We take the inflation forecast errors used in specification 1 and separate them into large and small fore- cast errors .
+As previously discussed , we classify a positive/negative fore- cast error as large if it is in the top/bottom 10th percentile of the sample distribution of inflation forecast errors .
+The results from specification 2 indicate that the overall impact of these inflation forecast errors on the likelihood that a contract is renegotiated is driven by large forecast errors .
+The marginal effects for these large errors are similar to those that we reported for the overall forecast errors .
+Not shown in the table is that the small forecast errors have an insignificant effect on the likelihood of a renegotiation .
+The data also can not reject the symmetry hypothesis for these large inflation forecast errors .
+The find- ings in specification 2 provide support for Danziger ’ s prediction that re- negotiation will be triggered by large and infrequent price shocks .
+The final specification in table 2 examines the role of cumulative inflation fore- casts over the course of a contract in helping to explain renegotiation .
+Con- trolling for any large current inflation forecast errors , cumulative small inflation forecast errors over the life of the contract do not provide any additional impetus to renegotiate the contract.24 This supports Danziger ð1988Þ that nonreopenable contracts would be optimal in an environment of only small but frequent price shocks .
+We carried out a number of robustness checks on the specification esti- mated in table 2 .
+First , we used a more restrictive version of an early rene- gotiation , where we required that the negotiation data were at least 3 months prior to the planned expiration date .
+Second , using our original indicator for an early renegotiation , we censored all observations beyond the fourth quarter of 1995 .
+Third , we recalculated our inflation forecast errors , fixing 24 The cumulative small inflation forecast errors are both economically insig- nificant and jointly statistically insignificant , as indicated by the chi-square test reported in the last row of the table .
+Early Contract Renegotiation 839 the lag structure of the AR model for all time periods .
+In particular , we considered an ARð1Þ model and an ARð4Þ model , which represented the two most frequently occurring specifications in the unrestricted case .
+In all three of these cases , the qualitative results reported in table 2 remain .
+V. Conclusion While labor contracts are associated with the notion of fixity or rigidity , their features can and do change over time in response to economic con- ditions .
+With regard to contract duration , theoretical and empirical studies have focused exclusively on the ex ante duration of labor contracts and its relationship to movements in real uncertainty , nominal uncertainty , and inflation uncertainty .
+This study complements previous work by using data on US union labor contracts over the period 1970–95 to analyze the ex post duration of labor contracts .
+In particular , we examine the roles of inflation forecast errors on the decision to renegotiate a labor contract prior to its planned expiration date .
+For the analysis , we construct multi-period inflation forecasts that are consistent with the information sets available to bargaining units when the contract was signed based on the negotiation date .
+The results indicate that the realization of large inflation forecast errors is associated with a greater likelihood that a contract will be renegotiated .
+Moreover , we find that this result holds for large inflation forecast errors of either sign , which is consistent with efficient renegotiation .
+The evidence from this study and others documents variability in the duration of US labor contracts on both an ex ante basis and an ex post basis .
+This finding has several important implications .
+As previously dis- cussed , greater flexibility in ex ante and ex post contract duration would lessen the ability of central banks to leverage nominal rigidities in con- tracts for stabilization policy .
+Given the secular decline in union coverage , however , this would argue for an even more limited capability for central banks .
+In addition , changes in ex ante and ex post flexibility in contract duration would be expected to alter the wage-price dynamics in an econ- omy .
+Consequently , this would raise concerns about the stability of esti- mated relationships in macroeconomic models and the reliability and use- fulness of their predictions .
+840 Rich/Tracy Appendix Table A1 Descriptive Statistics Variable Mean SD Min Max Early renegotiation .007 .084 0 1 Size of bargaining unit ð100,000Þ .619 2.384 .090 5.250 Quarters into contract 7.044 3.483 2 20 Quarters left in contract 5.465 3.717 0 29 Real GDP .315 .878 21.674 3.080 Industry employment trend .001 .005 2.017 .018 Industry employment residual 2.000 .056 2.473 .357 State employment trend .004 .002 .001 .017 State employment residual 2.004 .035 2.143 .172 Inflation forecast error .311 .876 21.674 3.080 References Canzoneri , Matthew B .
+1980 .
+Labor contracts and monetary policy .
+Journal of Monetary Economics 6 , no .
+2:241–55 .
+Christofides , Louis N. 1985 .
+The impact of controls on wage contract durations .
+Economic Journal 95 , no .
+377:161–68 .
+——— .
+1990 .
+The interaction between indexation , contract duration , and non-contingent wage adjustment .
+Economica 57 , no .
+227:395–409 .
+Christofides , Louis N. , and David A. Wilton .
+1983 .
+The determinants of contract length : An empirical analysis based on Canadian micro data .
+Journal of Monetary Economics 12 , no .
+2:309–19 .
+Cramton , Peter C. , and Joseph S. Tracy .
+1992 .
+Strikes and holdouts in wage bargaining : Theory and data .
+American Economic Review 82 , no .
+1:100–121 .
+Danziger , Leif .
+1988 .
+Real shocks , efficient risk sharing , and the duration of labor contracts .
+Quarterly Journal of Economics 103 , no .
+2:435–40 .
+——— .
+1992 .
+On the prevalence of labor contracts with fixed duration .
+American Economic Review 82 , no .
+1:195–206 .
+——— .
+1995 .
+Contract reopeners .
+Journal of Labor Economics 13 , no .
+1 : 62–87 .
+——— .
+2006 .
+Extension of labor contracts and optimal backpay .
+IZA Discussion Paper no .
+2366 , Institute for the Study of Labor , Bonn .
+Danziger , Leif , and Shoshana Neuman .
+2005 .
+Delays in renewal of labor contracts : Theory and evidence .
+Journal of Labor Economics 23 , no .
+2 : 341–71 .
+Dewatripont , Mathias , and Eric Maskin .
+1990 .
+Contract renegotiation in models of asymmetric information .
+European Economic Review 34 : 311–21 .
+Early Contract Renegotiation 841 Dye , Ronald A .
+1985 .
+Optimal length of labor contracts .
+International Economic Review 26 , no .
+1:251–70 .
+Estache , Antonio , Jose-Luis Guash , Atsuhi Imi , and Lourdes Trujillo .
+2008 .
+Multidimensionality and renegotiation : Evidence from the trans- port sector PPP transaction in Latin America .
+Working Paper 21 , Uni- versité Libre de Bruxelles .
+Fay , Robert , and Sebastien Lavoie .
+2002 .
+How certain are we about the role of uncertainty in the labour contract duration decision ?
+Evidence for Canada and implications .
+Paper presented at the Bank of Canada conference Price Adjustment and Monetary Policy , Ottawa , ON , No- vember 14–15 .
+Fischer , Stanley .
+1977 .
+Long-term contracts , rational expectations , and the optimum money supply rule .
+Journal of Political Economy 85 , no .
+1 : 191–206 .
+Garleanu , Nicolae , and Jeffrey Zwiebel .
+2009 .
+Design and renegotiation of debt covenants .
+Review of Financial Studies 22 , no .
+2:749–81 .
+Gray , Jo Anna .
+1978 .
+On indexation and contract length .
+Journal of Po- litical Economy 86 , no .
+1:1–18 .
+Gu , Wulong , and Peter Kuhn .
+1988 .
+A theory of holdouts in wage bar- gaining .
+American Economic Review 88 , no .
+3:426–49 .
+Harris , Milton , and Bengt Holmstrom .
+1987 .
+On the duration of agree- ments .
+International Economic Review 28 , no .
+2:389–406 .
+Hart , Oliver , and John Moore .
+1998 .
+Default and renegotiation : A dy- namic model of debt .
+Quarterly Journal of Economics 113 , no .
+1:1–41 .
+Matvos , Gregor .
+2010 .
+Renegotiation design : Evidence from NFL roster bonuses .
+Working paper , Booth School of Business , University of Chi- cago .
+Murphy , Kevin J .
+1992 .
+Determinants of contract duration in collective bargaining agreements .
+Industrial and Labor Relations Review 45 , no .
+2:352–65 .
+Rich , Robert , and Joseph Tracy .
+2004 .
+Uncertainty and labor contract du- rations .
+Review of Economics and Statistics 86 , no .
+1:270–87 .
+Shavell , Steven .
+1984 .
+The design of contracts and remedies for breach .
+Quarterly Journal of Economics 99 , no .
+1:121–48 .
+Stock , James H. , and Mark W. Watson .
+1996 .
+Evidence on structural instability in macroeconomic time series relations .
+Journal of Business and Economic Statistics 14 , no .
+1:11–30 .
+——— .
+1999 .
+Forecasting inflation .
+Journal of Monetary Economics 44 , no .
+2:293–335 .
+Taylor , John B .
+1980 .
+Aggregate dynamics and staggered contracts .
+Jour- nal of Political Economy 88 , no .
+1:1–23 .
+Vroman , Susan .
+1989 .
+Inflation uncertainty and contract duration .
+Review of Economics and Statistics 71 , no .
+4:677–81 .
+842 Rich/Tracy Copyright of Journal of Labor Economics is the property of University of Chicago Press and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder 's express written permission .
+However , users may print , download , or email articles for individual use .

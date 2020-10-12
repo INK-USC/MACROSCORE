@@ -1,0 +1,364 @@
+Kim_JournBusRes_2012_Weqe.pdf
+aGpfLkv2LW9zgsmSBRt0xFRjKRiW-Kim_JournBusRes_2012_Weqe.pdf.plain.html
+
+Journal of Business Research 65 ( 2012 ) 1189–1194 Contents lists available at ScienceDirect Journal of Business ResearchLearning and innovation : Exploitation and exploration trade-offs☆ Changsu Kim a , ⁎ , Jaeyong Song b , Atul Nerkar c a Sogang Business School , Sogang University , Seoul , Republic of Korea b SNU Business School , Seoul National University , Seoul , Republic of Korea c Kenan-Flagler Business School , University of North Carolina at Chapel Hill , United States☆ The first author thanks Sogang University Research support of this project .
+The authors thank Yoon-suk Bai ( EwhaWomans University , Korea ) , and the anonymous comments on previous drafts of this article .
+⁎ Corresponding author .
+Tel .
+: +82 2 705 8527 .
+E-mail address : cskim @ sogang.ac.kr ( C. Kim ) .
+0148-2963/ $ – see front matter © 2011 Elsevier Inc. Al doi:10.1016/j.jbusres.2011.07.006a b s t r a c ta r t i c l e i n f oArticle history : Received 1 June 2010 Received in revised form 1 February 2011 Accepted 1 July 2011 Available online 3 August 2011 Keywords : Exploitation Exploration Innovation rates Innovation impactThis paper examines the relationship between learning and innovation outcomes , focusing on the trade-off between exploitation and exploration in learning and innovation .
+The study identifies two types of learning and two outcomes of innovation .
+Exploitation and exploration in learning are inversely associated with innovation rates and impact .
+While exploitative , localized learning is positively associated with innovation rates , but negatively associated with impact , exploratory learning-by-experimentation shows the opposite relationship .
+The study examines panel data of 103 companies in the global pharmaceutical industry over a 7-year period in an empirical test of our hypotheses .
+Results support the existence of the exploitation and exploration trade-off.Grant of 2010 for the financial k ( KAIST , Korea ) , Jae-hyun Bae JBR reviewers for many helpful l rights reserved.© 2011 Elsevier Inc. All rights reserved.Innovation is one of the most important organizational processes and outcomes for value creation ( Deeds , DeCarolis , & Coombs , 2000 ) .
+Innovation is a central mechanism for strategic change and growth whereby organizations exploit , explore , and reposition themselves in changing internal and external conditions ( Dittrich & Duysters , 2007 ) .
+Both exploitative and exploratory learning govern innovation ( March , 1991 ) .
+Exploitation increases the efficiency of existing technologies , while exploration is required to produce new technologies of high quality and impact ( Henderson , 1993 ) .
+Thus , there is an inherent tension between exploitation and exploration in organizational learning in terms of outcomes of innovative activities ( Sorensen & Stuart , 2000 ) .
+A few empirical studies differentiate impact from innovation rates as innovation outcomes ( see Gittelman & Kogut , 2003 ; Rosenkopf & Nerkar , 2001 ; Sorensen & Stuart , 2000 ) .
+Key to a firm 's technology strategy is to strike the right balance between the two major types of learning—exploitative vs. exploratory—depending on what innova- tion outcomes—rates vs. impact of innovation—the firm is targeting .
+The study here asks : How do types of organizational learning shape innovation outcomes ?
+Existing literature suggests that exploitative “ localized learning ” improves immediate innovation rates , but it often simultaneously reduces incentives for and competence with high-impact innovation ( Ahuja & Lampert,2001 ) .
+Thus , firms must combine exploitative “ localized learning ” with exploratory “ learning-by-experimentation ” if they also want to enhance the impact of innovation .
+Although exploitation and exploration and their effects on innovation have been intensively examined ( such as in Ahuja & Lampert , 2001 ) , few empirical studies investigate the actual trade-offs between the two .
+Exceptions include Atuahene-Gima ( 2005 ) and Auh and Menguc ( 2005 ) in marketing literature .
+Unlike those studies , which used questionnaire methods , however , this paper employs longitudinal patent data to test empirically the trade-off between exploitation and exploration .
+Moreover , joint consideration of innovation rates and impact in this studywith the inverse relationship between exploitation and exploration enables us to examine the discriminating effects of exploitation and exploration on outcomes of innovation that have not been tested before .
+A cursory look at our database in the global pharmaceutical industry shows an interesting pattern : science-intensive firms such as Genentech and Immunex , which focus on exploratory learning , appear to outperform others in terms of innovation impact ( refer to Table 2 ) .
+On the other hand , the most prolific firms in terms of the number of patents , such as Bayer and E. I. DuPont , are among the few that focus on exploitative learning based on strong technological competence .
+This interesting pattern is consistent with the inherent trade-offs between exploitation and exploration in organizational learning and innovation outcomes that we address in this paper .
+To provide more rigorous empirical findings , we constructed panel data of 103 companies in the global pharmaceutical industry over a 7-year period and then tested our hypotheses on relationships between types of learning and innovation outcomes .
+Results support the existence of the exploitation and exploration trade-off .
+1190 C. Kim et al .
+/ Journal of Business Research 65 ( 2012 ) 1189–11941 .
+Model and hypotheses 1.1 .
+Theoretical model : Learning and innovation The literature on organizational learning ( Cohen & Levinthal , 1990 ; Levitt & March , 1988 ; March , 1991 ) and evolutionary economics ( Nelson & Winter , 1982 ; Stuart & Podolny , 1996 ) distinguishes exploitation from exploration .
+Both exploitative “ localized learning ” and exploratory “ learning-by-experimentation ” shape innovation .
+Innovation occurs in the context of a community , one that is evolving as a whole ( Gittelman & Kogut , 2003 ) .
+Hence , firm-level technological trajectories influence , and are influenced by , trajectories of other firms and the evolution of an industry as awhole .
+At a technology community level , innovations that serve as sources ofmany subsequent innovations by other firms can be regarded as high-impact ( Rosenkopf & Nerkar , 2001 ) .
+Exploitative “ localized learning ” helps a firm to produce more innovations , but hinders high-impact innovation .
+On the other hand , exploratory “ learning-by-experimentation ” enables a firm to develop high-impact innovations , but impedes innovation productivity .
+The trade-off is inevitable because the two types of learning require substantially different orientations , strategies , capabilities , and struc- tures ( Argyres , 1996 ; Auh & Menguc , 2005 ) .
+Fig .
+1 summarizes the theoretical model in this study , which examines the effect of exploitation and exploration on innovation rates and impact .
+The term “ impact ” denotes that a technology has been retained and built upon by other members of the technological community .
+In comparison , the term “ innovation rates ” refers to the frequency or quantity of new technologies produced .
+1.2 .
+Technological competence and innovation The skills and expertise required for the generation and application of technology become embodied in a set of routines within a firm ( Nelson & Winter , 1982 ) .
+Experience with a given set of routines enhances organizational competence , in part by improving the reliability of the routines ( March , 1991 ) .
+Organizational routines and competencies are often configured around a firm 's core technology ( Leonard-Barton , 1992 ) .
+Firm-level variation in competence is a result of the tacit nature andpath-dependentdevelopmentof technology ( Helfat , 1994 ) .
+A firm 's core competence is formed by such path-dependent exploitation of technological knowledge ( Prahalad & Hamel , 1990 ) .
+Technological ( core ) competence refers to the level of efficiency to which a firm carries out its technological routines internally .
+The path-dependent accumulation of new knowledge leading to technological development reflects the areas of a firm 's core competence ( Leonard-Barton , 1992 ) , in which it has conducted a substantial amount of in-house R & D .
+To some extent , each firm is influenced by the trajectory of its technological development in the past , in that the development of new technology requires the internally accumulated technology for firm to have an absorptive capacity ( Cohen & Levinthal , 1990 ) .
+As such , internally accumulatedTechnological competence Self-citation ratio Innovation rates Number of patents Innovation impact Citations per patent Note : Solid ( dotted ) lines indicate positive ( negative ) effect .
+H2 Science intensity Average citations in science journals H1 Fig .
+1 .
+Theoretical model .
+Note : solid ( dotted ) lines indicate positive ( negative ) effect.technological routines and competencies are positively related to a firm 's ability to generate new technology along existing technological trajectories ( Ritter & Gemünden , 2004 ) .
+However , because the behavior is routine-based , technological competence is prone to inertial pressures ( Nelson & Winter , 1982 ) .
+As organizations experience success , their routines and competencies become more standardized and specialized , and integrating superior technologies and practices developed elsewhere may become more difficult and costly for them ( Christensen , 1997 ) .
+Because of the uncertainty that occurs in innovation efforts , the results of past searches become the natural starting points for new searches , and firms thus continue to build on their own established knowledge ( Dosi , 1982 ) .
+Such inertia is especially problematic in fast-changing environments where core capabilities often become core rigidities ( Leonard-Barton , 1992 ) .
+With respect to innovation , technological competence is always both enabling and constraining ( Song et al. , 2003 ) .
+Technological competencies enable firms to exploit innovations more efficiently , but this can substantially constrain the effectiveness of more exploratory innovation ( Ahuja & Lampert , 2001 ) .
+In other words , firms with competence in a particular technology area tend to highly value knowledge that is close to existing successful technological areas , and devalue more distant knowledge that is available outside of the firm .
+Levitt and March ( 1988 ) describe such a situation as a “ competency trap. ” In their study of the relationship between firm aging and innovation , Sorensen and Stuart ( 2000 ) indicate that greater levels of relianceon the firm 's own prior developments leads to more innovation , but that this innovation is less relevant , and is therefore a hallmark of obsolescence .
+In the optical disk industry , Rosenkopf and Nerkar ( 2001 ) examine technological impact and find that technology searching within firm boundaries has a negative effect on technological impact .
+Therefore , we can hypothesize that exploitation of core competence will have a positive effect on innovation rates , but a negative effect on innovation impact due to competency traps .
+H1 .
+The technological competence of a firm associates positively with its innovation rates but relates negatively with its innovation impact .
+1.3 .
+Science intensity and innovation Innovation builds on knowledge gleaned from scientific studies ( Gittelman & Kogut , 2003 ) .
+In particular , the pharmaceutical industry , which is our research setting , is dependent on a complex and always- evolving scientific research base , largely because of an increasing reliance on biotechnology for its R & D activities ( Henderson & Cockburn , 1994 ) .
+As a result , the pharmaceutical industry has become one of the most science-intensive sectors in the economy ( Pisano , 2006 ) .
+The ability to take advantage of scientific advances developed elsewhere has become increasingly important to R & D in pharmaceu- tical firms , and is a major source of competitive advantage ( Gambardella , 1992 ) .
+Although the pharmaceutical industry as a whole is science driven , we still expect to find firm-level variations in terms of science intensity , and for some firms in the industry to conduct more science-driven R & D than others ( Cockburn , Henderson , & Stern , 2000 ) .
+The term “ science intensity ” refers to the degree to which a firm builds upon or relies on scientific knowledge for its technology development .
+Science intensity reflects the tendency forfirms to engage in exploratory research ( Kim & Park , 2010 ) .
+Science-based R & D is uncertain and costly , but the payoffs can be high when it is successful , which is a typical pattern for exploratory search ( Atuahene-Gima , 2005 ) .When a firm is more science driven in its R & D , it is more likely to appreciate the value of exploration and , consequently , be more willing to engage in exploration in R & D .
+1191C .
+Kim et al .
+/ Journal of Business Research 65 ( 2012 ) 1189–1194However , science-based research efforts take many years to come to fruition and often do not lead to a patent ( Gittelman & Kogut , 2003 ) .
+Therefore , firms face the dilemma that although such efforts may be most effective in terms of high-impact innovation , more focused , intensive exploitation efforts are necessary to be productive in the short term ( March , 1991 ) .
+Striking a practical balance between the two is difficult because , besides having limited resources , firms need different types of organizational orientations and strategies for each type of innovation ( Auh & Menguc , 2005 ) .
+Consequently , firms that focus on science-based innovation may incur the costs of exploration without generating immediate output , but , in the long run , may produce valuable technologies which are instrumental to many other subsequent innovations ( Ahuja & Lampert , 2001 ) .
+Therefore , an intensive science focus is more likely to lead to high-impact innovations , even though it may curtail a firm 's opportunity to produce more innovations ( measured in terms of innovation rates in this paper ) .
+H2 .
+The science intensity of a firm associates positively with its innovation impact but relates negatively with its innovation rates .
+2 .
+Research design 2.1 .
+Sample and data This study examines learning and innovation in the global pharmaceutical industry , in which technologies are complex and geographically dispersed .
+In this sector , it is imperative for firms to develop medicines for a global market and exploit economies of scale and scope at the global level ( Pisano , 2006 ) .
+This study traces longitudinal panel data of patents , patent citations and science journal citations for over 100 companies in the pharmaceutical industry over a 13-year interval , 1988–2000 .
+This study also traces panel data of R & D alliances and R & D expenditure , as prior studies have identified both internal and external R & D efforts as important drivers of innovation ( Cohen & Levinthal , 1989 ; Wuyts , Dutta , & Stremersch , 2004 ) .
+The R & D alliance sample in this study was drawn from the Securities Data Company ( SDC ) database .
+The patent data was obtained from CHI Research Inc. , a research organization specializing in the development and analysis of patent indicators .
+As a rule of thumb , CHI Research compiles data for companies whose patenting activity is above a certain threshold — generally , 10 or more patents registered in at least one year during the 1990s .
+The CHI database covers 1,025 companies across manufacturing sectors ( 460 U.S. and 565 non-U.S. companies ) .
+Of the 1,025 companies , 315 belong to Standard Industrial Classification ( SIC ) code 28 .
+All CHI data ( for SIC 28 ) were then combined with SDC data .
+Because it was necessary to have panel data on both R & D alliances and patents , the selection was restricted to the R & D alliance pairs that belonged to the CHI database ; hence the number of firms was reduced to 103 from 315 firms .
+Thus identified , the 103 principal firms were based in three regions—36 firms in the U.S. , 42 in Japan and 25 in Europe .
+Although the source patent data were available for the years 1988 to 2000 , the sample included only up to 1995 to allow for the calculation of the impact index ( i.e. , number of citations received per patent ) , with a five-year “ forward ” window .
+In comparing citations per patent , one must be very careful to do the comparisons in a specific year , because citations accumulate over time .
+For example , within the 13-year interval from 1988 to 2000 , a patent issued in 1988 will have 12 years of citation from subsequent patents , whereas a patent issued in 1998 will only have citations from two subsequent years of patents .
+We chose the five-year time frame based on the observation that citations decline rapidly after five years ( Gittelman & Kogut , 2003 ; Jaffe , Trajtenberg , & Henderson , 1993 ) .
+Thus , with a one- year lag between independent and dependent variables , only sevenyears are usable .
+Because we are interested in firm-level variation in learning patterns and outcomes , patent and citation data were aggregated at the firm level .
+As a result , 721 observations involving 103 firms over seven years were identified for the empirical test .
+2.2 .
+Measurement When filing patents , companies tend to cite , in their patent applications , their own as well as other companies ’ prior work .
+Patent citations are indicators of technological sources and antecedents .
+The citation measure shares some of the limitations of other patent indicators .
+For example , the propensity to patent varies across technologies , firmsand industries .
+Patents representcodifiedknowledge .
+Patent examiners are involved in generating citation lists .
+Despite these usual limitations , it is nevertheless generally accepted that patents and citations provide a useful metric , especially in patent-intensive sectors ( Jaffe et al. , 1993 ) .
+2.3 .
+Dependent variables Innovation rate is computed as the number of patents in the industry that were produced by a firm in each year .
+If one firm produces more patents than another , this suggests ceteris paribus that the firm is better able to develop new products , processes , or services based on this technology ( Griliches , 1990 ) .
+In their studies of the relationship between alliances and innovation , Stuart ( 2000 ) and Ahuja ( 2000 ) used the same measure .
+Innovation impact is the ratio of citations received by a firm 's patents from five subsequent years of other patents divided by the firm 's patents .
+This measure excludes self-citation , i.e. , citations that a firm makes to its own , previously issued patents .
+We measured the innovation impact of firm i in year t by the average number of citations cited by the patents of the other firms in our sample over the subsequent five years ( i.e. , year t+1 to year t+5 ) .
+For example , Genentech issued 22 patents in 1994 , and the 102 other firms in the sample cited those 22 patents 69 times during the next five years ( i.e. , 1995–1999 ) ; thus , we measured the innovation impact of Genentech in 1994 as 3.1364 ( i.e. , 69/22 ) .
+Citations per patent indicate the impact of a firm 's patents .
+This does not guarantee that every highly cited patent is of significance .
+It does argue , however , that a firm with a portfolio of highly cited patents is more likely to generate technology of significant impact than one whose patents are cited less frequently .
+2.4 .
+Independent variables 2.4.1 .
+Technological competence Self-citations provide one indication of a patent 's value to the firm .
+They represent areas of technology that are particularly important to the firm , areas where it has conducted a substantial amount of R & D and built up an accumulation of core technological competence .
+If it has not been self-cited , or at least not for a long time , the patent may no longer be important to the firm 's core domain .
+Rosenkopf and Nerkar ( 2001 ) , Song et al .
+( 2003 ) , and Sorensen and Stuart ( 2000 ) used self-citations in a similar way to evaluate the extent of exploitative learning or competence .
+Thus , we calculated patent self-citations as the ratio of the number of self-citations to the total number of citationsmade by the firm .
+For example , Genentechmade a total of 117 citations in 1994 , 32 of which were self-citations ( i.e. , citations from a firm 's own later patents ) ; thus , we measured the self- citation ratio of Genentech in 1994 as 0.2735 ( i.e. , 32/117 ) .
+2.4.2 .
+Science intensity of a firm 's patents Citations include both prior patents and other publications , which can include any non-patent material such as brochures , books , etc .
+Counting the subset of specific references to scientific articles reveals how closely linked a patent is to cutting-edge scientific research .
+We 1192 C. Kim et al .
+/ Journal of Business Research 65 ( 2012 ) 1189–1194measured the science intensity of firm i in year t using the average number of science references on the front pages of the firm 's patents in that year .
+In our sample , the average is 2.2 per patent , with 21.8 per patent as the highest among Genentech 's patents .
+High science intensity indicates that a firm builds its technology based on advances in science .
+This measure is particularly important in the pharmaceu- tical industry because many cutting-edge and important findings in the industry are reported in scientific journals ( Cockburn et al. , 2000 ) .
+2.5 .
+Control variables This study includes controls for regional and firm-level variances .
+R & D intensity ( i.e. , R & D expense/sales ) was included as a control for unobserved heterogeneity in terms of ability to innovate .
+There were missing observations regarding R & D intensity .
+We filled in missing values by mean substitution .
+This study controls external R & D efforts by capturing the frequency of R & D alliances .
+This study did a count of R & D alliances among firms in the sample for the five years prior to the focal event ( i.e. , patent filing ) .
+Following the classification of the SDC database , this study broadly defines R & D alliances as any alliances involving research and development activities .
+This study used a five- year moving window based on previous research , which suggests that the lifespan for alliances is usually no more than five years ( Gulati , 1995 ) .
+This study also controls for regional origins .
+Since the sample consists of 36 U.S. , 42 Japanese , and 25 European firms , the use of U.S. patent data ( patents granted by the U.S. patent office ) may raise possible biases .
+Thus , the analyses introduced Japanese and European dummies , with the U.S. as a default .
+Lastly , the firm-type dummy was included to see if innovation patterns differ across firm types .
+CHI Research ( where patent data were obtained ) counts patent totals for particular firms and then groups them based on the firm 's primary activity .
+The sample consists of two firm types—specialized pharma- ceutical firms and diversified firms—in SIC 28 .
+The firm-type dummy was coded as 1 for specialized pharmaceutical firms and 0 for diversified firms .
+2.6 .
+Methods Two separate analyses were run for two different kinds of dependent variables .
+In the analyses , two problems were addressed .
+First , innovation rates were represented as a count of patents in each year that takes only discrete , non-negative integer values .
+Under these conditions , Poisson or negative binomial models are appropriate .
+Unlike the Poisson model , the negative binomial model does not assume the mean-variance equality of the count-dependent variable .
+The statistics indicated an over-dispersion problem .
+This study thus employed the negative binomial model .
+Our second dependent variable is a ratio of citations to patents ( i.e. , citations per patent ) .
+There is an estimation problem inherent inTable 1 Descriptive statistics and correlation matrix .
+Mean S.D .
+Min .
+Max .
+( 1 ) ( 2 ) ( 1 ) Innovation rates 60.94 85.37 1 505 1.00 ( 2 ) Innovation impact 0.81 0.59 0 4.0 −0.02 1.0 ( 3 ) Technological competence 0.36 0.15 0 0.88 0.27* −0 ( 4 ) Science intensity 2.19 3.58 0 37.5 −0.11* 0.3 ( 5 ) R & D intensity 0.13 0.34 0.0001 6.12 −0.08 0.1 ( 6 ) R & D alliances 0.76 1.41 0 12 0.22* 0.1 ( 7 ) U.S. firm dummy 0.35 0.47 0 1 0.09* 0.2 ( 8 ) Japanese firm dummy 0.41 0.49 0 1 −0.29* −0 ( 9 ) European firm dummy 0.24 0.42 0 1 0.23* 0.0 ( 10 ) Firm-type dummy 0.54 0.49 0 1 −0.24* 0.2 * Correlation is significant at the 0.05 level ( two-tailed ) .
+All independent variables are laggpanel data .
+A methodological concern is that measurements on the same subjects at different times are a source of autocorrelation in panel data .
+Similarly , panel data are also vulnerable to a problem of heteroscedasticity ( i.e. , non-constant error variances ) .
+To correct for this bias , we used a “ generalized linear regression model ” using Limdep 7.0 ( Greene , 1995 ) .
+The Hausman statistic supports our use of the random effects model.3 .
+Results A Pearson correlation analysis between variables was first performed as a preliminary test .
+The correlation matrix in Table 1 indicates a potential multicollinearity problem .
+Thus , for Models 2 and 4 in Table 3 , we checked VIF , or Variance Inflation Factors , which turned out to show acceptably low values ranging from 1.07 to 1.67 ( Neter , Kutner , Nachtsheim , & Wasserman , 1996 ) .
+The two dependent variables—innovation rates and impact—are not correlated with each other , verifying that the two are distinct constructs .
+Overall , correlation statistics between the dependent and independent variables are consistent with predictions .
+Technological competence is positively correlated with innovation rates , but negatively correlated with innovation impact .
+By contrast , science intensity is negatively correlated with innovation rates , but positively correlated with innovation impact .
+R & D alliances are positively correlated with both innovation rates and impact .
+The statistics also reveal the differences across firm types and across regions .
+The U.S. firm dummy is positively correlated with innovation rates , impact , competence , science intensity , R & D alliances , and R & D intensity .
+By contrast , the Japanese firm dummy is negatively correlated with all those variables .
+The European firm dummy is positively correlated only with innovation rates .
+The firm-type difference is also apparent : specialized pharmaceutical firms are less prominent in terms of innovation rates , but more prominent in terms of innovation impact , science intensity , R & D alliances , and R & D intensity , as opposed to diversified firms .
+Table 2 presents the top 10 companies in the sample in terms of innovation rates and impact , technological competence , and science intensity .
+Our 103 sample firms consist of 36 U.S. , 42 Japanese , and 25 European firms .
+As shown in Table 2 , however , the top 10 lists are mainly occupied by U.S. and European firms .
+Japanese firms are under-represented in the lists .
+Noticeably , U.S. firms are leading in both science intensity and innovation impact , though they lag behind European firms in innovation rates .
+Table 2 shows that the patterns appear to corroborate the correlation results in Table 1 .
+Table 3 presents the two models from the negative binomial regression in the first and second columns , and the two other models from generalized linear regression analysis in the third and fourth columns .
+As a baseline , Models 1 and 3 load only the control variables .
+The coefficient of the R & D intensity variable is negative and significant for innovation rates .
+The negative coefficient of the variable is not so ( 3 ) ( 4 ) ( 5 ) ( 6 ) ( 7 ) ( 8 ) ( 9 ) 0 .11* 1.00 5* −0.13* 1.00 5* −0.07 0.45* 1.00 4* 0.03 0.27* 0.04 1.00 5* 0.12* 0.31* 0.19* 0.12* 1.00 .29* −0.13* −0.30* −0.15* −0.17* −0.61* 1.00 7 0.02 0.00 −0.04 0.05 −0.42* −0.47* 1.00 8* −0.06 0.37* 0.19* 0.15* 0.30* −0.39* 0.11* ed by one year .
+Table 2 Top 10 lists of companies in main variables .
+Rank Innovation rates Innovation impact Technological competence Science intensity Company Value Company Value Company Value Company Value 1 Bayer AG ( Germany ) 461 Genentech Inc. ( US ) 2.66 Alza Corp ( US ) 0.83 Genentech Inc. ( US ) 21.81 2 E. I. DuPont ( US ) 402 Immunex Corp ( US ) 2.13 Perkin-Elmer Corp ( US ) 0.62 Enzon Inc. ( US ) 14.07 3 BASF ( Germany ) 361 G D Searle ( US ) 1.84 Kureha Chemical ( Japan ) 0.61 Immunex Corp ( US ) 13.17 4 Hoechst AG ( Germany ) 345 Monsanto Co ( US ) 1.75 Chisso Corporation ( Japan ) 0.60 Chiron Corp ( US ) 7.82 5 Ciba-Geigy AG ( Switzerland ) 304 Marion Merrell Dow ( US ) 1.66 Wellcome PLC ( UK ) 0.57 Neorx Corp ( US ) 7.31 6 Dow Chemical ( US ) 293 Roussel UCLAF ( France ) 1.64 E. I. DuPont ( US ) 0.56 Research Corp ( US ) 7.18 7 Merck ( US ) 170 Boehringer Mannheim ( Germany ) 1.56 Degussa AG ( Germany ) 0.55 Chugai Co ( Japan ) 7.17 8 Johnson & Johnson ( US ) 159 SmithKline Beecham ( UK ) 1.53 Bayer AG ( Germany ) 0.54 Institut Merieux SA ( France ) 5.65 9 Rhone Poulenc SA ( France ) 133 Warner-Lambert ( US ) 1.47 Mitsubishi Chemical ( Japan ) 0.53 Novo Nordisk A/S ( Denmark ) 5.61 10 Bristol-Myers Squibb ( US ) 130 Wellcome PLC ( UK ) 1.44 Beckman Instruments ( US ) 0.52 Upjohn Inc. ( US ) 5.50 Note : Innovation rates is measured by number of patents per year ; innovation impact by citations per patent ; technological competence by self-citation ratio ; and science intensity by average number of citations in science journals .
+1193C .
+Kim et al .
+/ Journal of Business Research 65 ( 2012 ) 1189–1194surprising , given that R & D intensity is normalized by sales , which is highly ( =0.79 ) correlated with innovation rates .
+The estimated coefficients for the R & D alliance variable are statistically significant in Model 1 , but not in Model 3 .
+This result implies that the effect of R & D alliances is significant for innovation rates , but not for innovation impact .
+The Japanese dummy is negatively associated with both innovation rates and impact .
+The European dummy is insignificant .
+The firm-type dummy is positively associatedwith innovation impact .
+These results for dummy variables are largely consistent with the correlation patterns .
+Explanatory variables were added to Models 2 and 4 for the hypothesis testing .
+The significant improvement of the log-likelihood functions from −3489.42 to −3439.52 in Models 1 and 2 ( χ2=99.8 , pb0.001 ) suggests that a better-fitting model emerges as the explanatory variables are introduced .
+Also , the significant improve- ment of R2 in Models 3 and 4 ( ΔR2=0.052 , ΔF=1.047 , pb0.001 ) suggests that adding the technological competence and science intensity variables results in a better-fitting model .
+H1 predicts a positive effect of technological competence on innovation rates , but a negative effect on innovation impact .
+In H2 , the opposite pattern isTable 3 Estimates of innovation rates and impact .
+Negative binomial estimates of innovation rates GLS estimates of innovation impact Model 1 Model 2 Model 3 Model 4 Explanatory variables Technological competence 1.79*** −0.34* ( 0.24 ) ( 0.15 ) Science intensity −0.06*** 0.03*** ( 0.01 ) ( 0.01 ) Control variables R & D intensity −0.59*** −0.29** −0.06 −0.11 ( 0.09 ) ( 0.11 ) ( 0.07 ) ( 0.07 ) R & D alliances 0.17*** 0.21*** 0.02 0.01 ( 0.02 ) ( 0.02 ) ( 0.02 ) ( 0.01 ) Japanese dummy −1.20*** −1.10*** −0.32*** −0.29*** ( 0.07 ) ( 0.08 ) ( 0.09 ) ( 0.08 ) European dummy 0.02 0.05 −0.11 −0.09 ( 0.08 ) ( 0.08 ) ( 0.09 ) ( 0.09 ) Firm-type dummy −0.92*** −0.74*** 0.22** 0.16* ( 0.06 ) ( 0.06 ) ( 0.08 ) ( 0.07 ) Constant 4.79*** 4.02*** 0.84*** 0.94*** ( 0.07 ) ( 0.13 ) ( 0.08 ) ( 0.10 ) N 721 721 721 721 Over-dispersion parameters 0.69*** 0.61*** n.a .
+n.a .
+Log likelihood −3489.42 −3439.52 n.a .
+n.a .
+R-squared n.a .
+n.a .
+0.136 0.187 Adjusted R-squared n.a .
+n.a .
+0.130 0.179 *pb0.05 , **pb0.01 , ***pb0.001 .
+Standard errors in parentheses .
+Not applicable ( n.a .
+) .predicted for science intensity .
+The results from Models 2 and 4 support both H1 and H2 , suggesting that a firm 's technological competence leads to more innovation but less impact , whereas the science intensity of its technology development leads to greater innovation impact , but less innovation.4 .
+Conclusions and discussion This study advances the evolving research on innovation by considering the duality of any innovation process in terms of two outcomes : rates and impact .
+March ( 1991 ) highlights the inherent tension between exploitation and exploration in organizational learning and innovation processes .
+This tension is the constant focus of subsequent studies in innovation , management , and marketing literature .
+Indeed , there is a rich tradition in marketing of studying diverse aspects of innovation and new product development ( Wuyts et al. , 2004 ) .
+Notwithstanding the merits of this tradition , however , marketing literature tends to rely on the questionnaire method via survey , which suffers from self-report bias in measuring learning and innovation ( Sorescu , Chandy , & Prabhu , 2003 ) .
+The longitudinal investigation here of patent data extends this line of research by providing additional hard evidence on the trade-off between exploitation and exploration .
+This finding implies that if a firm wants to improve its innovative capabilities and output in terms of frequency and impact , then it should strike a balance between exploitative , localized learning and exploratory learning-by-experimentation .
+This idea is , in essence , the popular “ ambidexterity ” premise ( Tushman & O'Reilly , 1996 ) , which says that firms must undergo the paradoxical strategic process of balancing between exploitative and exploratory innovation strategies ( He & Wong , 2004 ) .
+Indeed , seeking ambidexterity by conducting both types of innovation is a reality in the fast-evolving technological and market conditions of today .
+At any given time , firms may have to emphasize either exploration or exploitation , yet over time , a balance should be maintained .
+Incidentally , this remains a fruitful area for further research .
+The result for the R & D alliances variable deserves some explana- tions .
+By controlling for R & D alliances , we emphasize that technology learning occurs not only within a firm boundary , but also across firm boundaries .
+Results imply that R & D alliances contribute to innovation rates , but not to innovation impact .
+If we combine this finding with findings regarding technological competence and science intensity , we could suggest that exploration in the form of strengthening the external linkage to cutting-edge scientific knowledge and technology may be the only way to enhance innovation impact or improve the chances of impactful innovation .
+By juxtaposing internal and external R & D exploitation–exploration , firms may be able to overcome trade- offs in learning and innovation ( Lavie & Rosenkopf , 2006 ) .
+However , 1194 C. Kim et al .
+/ Journal of Business Research 65 ( 2012 ) 1189–1194our data constraints prevented us from distinguishing between exploitation and exploration within the domain of R & D alliances .
+Even if the measure of the intent is elusive , this remains an area for further research , perhaps using more detailed survey-type alliance data .
+Relatedly , due to data constraints , this study could not examine specific environmental circumstances where either exploitation or exploration would be more effective in improving innovation rates and/or impact .
+In general , we predict that exploration efforts may become more value-adding when a firm faces greater complexity and uncertainty in its innovation .
+Indeed , Fleming and Sorenson ( 2004 ) show that science-guided search associates closely with high-impact innova- tions , especially for the highly complex innovations in pharmaceuti- cals .
+Future research along this line may enrich our understanding of how a firm manages innovation in a turbulent technological and market environment .
+Although the findings may be generally applicable to other technology-intensive industries where patenting innovative outputs is important , such a claim is an empirical question .
+Thus , conducting future research is necessary in other industrial settings to corroborate the findings in this study .
+References Ahuja G. Collaboration networks , structural holes , and innovation : a longitudinal study .
+Adm Sci Q 2000 ; 45:425–55 .
+AhujaG , LampertCM.Entrepreneurship in the large corporation : a longitudinal studyofhow established firms create breakthrough inventions .
+Strateg Manage J 2001 ; 22:521–43 .
+Argyres N. Evidence on the role of firm capabilities in vertical integration decisions .
+Strateg Manage J 1996 ; 17:129–50 .
+Atuahene-Gima K. Resolving the capability–rigidity paradox in new product innova- tion .
+J Mark 2005 ; 69:61–83 .
+Auh S , Menguc B .
+Balancing exploration and exploitation : the moderating role of competitive intensity .
+J Bus Res 2005 ; 58:1652–61 .
+Christensen C. The innovator 's dilemma .
+Boston , MA : HarvardBusiness School Press ; 1997 .
+Cockburn IM , Henderson RM , Stern S. Untangling the origins of competitive advantage .
+Strateg Manage J 2000 ; 21:1123–45 .
+Cohen WM , Levinthal DA .
+Innovation and learning : the 2 faces of R-and-D. Econ J 1989 ; 99:569–96 .
+Cohen WM , Levinthal DA .
+Absorptive capacity : a new perspective on learning and innovation .
+Adm Sci Q 1990 ; 35:128–52 .
+Deeds DL , DeCarolis D , Coombs J .
+Dynamic capabilities and new product development in high technology ventures : an empirical analysis of new biotechnology firms .
+J Bus Venturing 2000 ; 15:211–29 .
+Dittrich K , Duysters G. Networking as a means to strategy change : the case of open innovation in mobile telephony .
+J Prod Innov Manage 2007 ; 24:510–21 .
+Dosi G. Technological paradigms and technological trajectories : a suggested interpretation of the determinants and directions of technical change .
+Res Policy 1982 ; 11:147–62 .
+Fleming L , Sorenson O .
+Science as a map in technological search .
+Strateg Manage J 2004 ; 25:909–28.Gambardella A .
+Competitive advantages from in-house scientific research : the United States pharmaceutical industry in the 1980s .
+Res Policy 1992 ; 21:391–407 .
+Gittelman M , Kogut B .
+Does good science lead to valuable knowledge ?
+Biotechnology firms and the evolutionary logic of citation patterns .
+Manage Sci 2003 ; 49:366–82 .
+Greene WH .
+LIMDEP 7.0 .
+Econometric Software Inc ; 1995 .
+Griliches Z .
+Patent statistics as economic indicators : a survey .
+J Econ Lit 1990 ; 28 : 1661–707 .
+Gulati R. Social structure and alliance formation patterns : a longitudinal analysis .
+Adm Sci Q 1995 ; 40:619–52 .
+He J-L , Wong P-K. Exploration vs. exploitation : an empirical test of the ambidexterity hypothesis .
+Organ Sci 2004 ; 15:481–94 .
+Helfat CE .
+Evolutionary trajectories in petroleum firm research and development .
+Manage Sci 1994 ; 40:1720–47 .
+Henderson R. Underinvestment and incompetence as responses to radical innovation : evidence from the photolithographic alignment equipment industry .
+Rand J Econ 1993 ; 24:248–70 .
+Henderson R , Cockburn I .
+Measuring competence : exploring firm effects in pharma- ceutical research .
+Strateg Manage J 1994 ; 15:63–84 .
+Jaffe AB , Trajtenberg M , Henderson R. Geographic localization of knowledge spillovers as evidenced by patent citations .
+Q J Econ 1993 ; 108:577–98 .
+Kim C , Park J-H .
+The global research-and-development network and its effect on innovation .
+J Int Mark 2010 ; 18:43–57 .
+Lavie D , Rosenkopf L. Balancing exploration and exploitation in alliance formation .
+Acad Manage J 2006 ; 49:797–818 .
+Leonard-Barton D. Core capabilities and core rigidities : a paradox in managing new product development .
+Strateg Manage J 1992 ; 13:111–25 .
+Levitt B , March JG .
+Organizational learning .
+Annu Rev Sociol 1988 ; 14:319–40 .
+March JG .
+Exploration and exploitation in organizational learning .
+Organ Sci 1991 ; 2 : 71–87 .
+Nelson RR , Winter SG .
+An evolutionary theory of economic change .
+Cambridge , Mass : Belknap Press of Harvard University Press ; 1982 .
+Neter J , Kutner M , Nachtsheim C , Wasserman W. Applied linear statistical models .
+Homewood , IL : Irwin ; 1996 .
+Pisano GP .
+Science business .
+Boston , Mass : Harvard Business School Press ; 2006 .
+Prahalad CK , Hamel G. The core competence of the corporation .
+Harv Bus Rev 1990 ; 68 : 79–91 .
+Ritter T , Gemünden HG .
+The impact of a company 's business strategy on its technological competence , network competence and innovation success .
+J Bus Res 2004 ; 57:548–56 .
+Rosenkopf L , Nerkar A .
+Beyond local search : boundary-spanning , exploration , and impact in the optical disk industry .
+Strateg Manage J 2001 ; 22:287–306 .
+Song J , Almeida P , Wu G. Learning-by-hiring : when is mobility more likely to facilitate interfirm knowledge transfer ?
+Manage Sci 2003 ; 49:351–65 .
+Sorensen JB , Stuart TE .
+Aging , obsolescence , and organizational innovation .
+Adm Sci Q 2000 ; 45:81–112 .
+Sorescu AB , Chandy RK , Prabhu JC .
+Sources and financial consequences of radical innovation : insights from pharmaceuticals .
+J Mark 2003 ; 67:82–102 .
+Stuart TE .
+Interorganizational alliances and the performance of firms : a study of growth and innovation rates in a high-technology industry .
+Strateg Manage J 2000 ; 21 : 791–811 .
+Stuart TE , Podolny JM .
+Local search and the evolution of technological capabilities .
+Strateg Manage J 1996 ; 17:21–38 .
+Tushman ML , O'Reilly C. Ambidextrous organizations : managing evolutionary and revolutionary change .
+Calif Manage Rev 1996 ; 38:8–30 .
+Wuyts S , Dutta S , Stremersch S. Portfolios of interfirm agreements in technology- intensive markets : consequences for innovation and profitability .
+J Mark 2004 ; 68 : 88–100 .

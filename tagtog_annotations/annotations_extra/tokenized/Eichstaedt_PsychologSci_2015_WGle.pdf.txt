@@ -1,0 +1,215 @@
+Eichstaedt_PsychologSci_2015_WGle.pdf
+a8V9e9Hs813fnc_cM6gsTyCRP26G-Eichstaedt_PsychologSci_2015_WGle.pdf.plain.html
+
+Psychological Science 2015 , Vol .
+26 ( 2 ) 159 –169 © The Author ( s ) 2014 Reprints and permissions : sagepub.com/journalsPermissions.nav DOI : 10.1177/0956797614557867 pss.sagepub.com Research Article Heart disease is the leading cause of death worldwide ( World Health Organization , 2011 ) .
+Identifying and addressing key risk factors , such as smoking , hyperten- sion , obesity , and physical inactivity , have significantly reduced this risk ( Ford & Capewell , 2011 ) .
+Psychological characteristics , such as depression ( Lett et al. , 2004 ) and chronic stress ( Menezes , Lavie , Milani , O ’ Keefe , & Lavie , 2011 ) , have similarly been shown to increase risk through physiological effects ( e.g. , chronic sympathetic arousal ) and deleterious health behaviors ( e.g. , drinking and smoking ) .
+Conversely , positive psychological characteris- tics , such as optimism ( Boehm & Kubzansky , 2012 ) and social support ( Tay , Tan , Diener , & Gonzalez , 2013 ) , seem to decrease risk , most likely through similar pathways .
+In its 2020 Strategic Impact Goal Statement , the American Heart Association suggested that to further reduce the risk for heart disease , “ population-level strate- gies are essential to shift the entire distribution of risk ” ( Lloyd-Jones et al. , 2010 , p. 589 ) .
+Like individuals , commu- nities have characteristics , such as norms , social connect- edness , perceived safety , and environmental stress , that 557867 PSSXXX10.1177/0956797614557867Eichstaedt et al.Twitter and Heart Disease Mortality research-article2014 Corresponding Authors : Johannes C. Eichstaedt , Department of Psychology , University of Pennsylvania , 3701 Market St. , Ste .
+220 , Philadelphia , PA 19104 E-mail : johannes.penn @ gmail.com , jeich @ sas.upenn.edu Hansen Andrew Schwartz , Department of Psychology , University of Pennsylvania , 3701 Market St. , Ste .
+219 , Philadelphia , PA 19104 E-mail : andy.schwartz @ gmail.com Psychological Language on Twitter Predicts County-Level Heart Disease Mortality Johannes C. Eichstaedt1 , Hansen Andrew Schwartz1,2 , Margaret L. Kern1,3 , Gregory Park1 , Darwin R. Labarthe4 , Raina M. Merchant5 , Sneha Jha2 , Megha Agrawal2 , Lukasz A. Dziurzynski1 , Maarten Sap1 , Christopher Weeg1 , Emily E. Larson1 , Lyle H. Ungar1,2 , and Martin E. P. Seligman1 1Department of Psychology , University of Pennsylvania ; 2Department of Computer and Information Science , University of Pennsylvania ; 3Graduate School of Education , University of Melbourne ; 4School of Medicine , Northwestern University ; and 5Department of Emergency Medicine , University of Pennsylvania Abstract Hostility and chronic stress are known risk factors for heart disease , but they are costly to assess on a large scale .
+We used language expressed on Twitter to characterize community-level psychological correlates of age-adjusted mortality from atherosclerotic heart disease ( AHD ) .
+Language patterns reflecting negative social relationships , disengagement , and negative emotions—especially anger—emerged as risk factors ; positive emotions and psychological engagement emerged as protective factors .
+Most correlations remained significant after controlling for income and education .
+A cross-sectional regression model based only on Twitter language predicted AHD mortality significantly better than did a model that combined 10 common demographic , socioeconomic , and health risk factors , including smoking , diabetes , hypertension , and obesity .
+Capturing community psychological characteristics through social media is feasible , and these characteristics are strong markers of cardiovascular mortality at the community level .
+Keywords heart disease , risk factors , well-being , language , big data , emotions , social media , open data , open materials Received 3/30/14 ; Revision accepted 10/10/14 160 Eichstaedt et al .
+contribute to health and disease ( Cohen , Farley , & Mason , 2003 ) .
+One challenge to addressing community-level psy- chological characteristics is the difficulty of assessment ; traditional approaches that use phone surveys and house- hold visits are costly and have limited spatial and temporal precision ( Auchincloss , Gebreab , Mair , & Diez Roux , 2012 ; Chaix , Merlo , Evans , Leal , & Havard , 2009 ) .
+Rich information about the psychological states and behaviors of communities is now available in big social- media data , offering a flexible and significantly cheaper alternative for assessing community-level psychological characteristics .
+Social-media-based digital epidemiology can support faster response and deeper understanding of public-health threats than can traditional methods .
+For example , Google has used search queries to measure trends in influenza , providing earlier indication of disease spread than the Centers for Disease Control and Prevention ( CDC ; Ginsberg et al. , 2009 ) .
+Other studies have used Twitter to track Lyme disease , H1N1 influenza , depression , and other common ailments ( Chew & Eysenbach , 2010 ; De Choudhury , Counts , & Horvitz , 2013 ; de Quincey & Kostkova , 2009 ; Paul & Dredze , 2011a , 2011b ; Salathé , Freifeld , Mekaru , Tomasulo , & Brownstein , 2013 ; Seifter , Schwarzwalder , Geis , & Aucott , 2010 ; St Louis & Zorlu , 2012 ) .
+Methods for inferring psychological states through lan- guage analysis have a rich history ( Pennebaker , Mehl , & Niederhoffer , 2003 ; Stone , Dunphy , Smith , & Ogilvie , 1966 ) .
+Traditional approaches use dictionaries—prede- termined lists of words—associated with different con- structs ( e.g. , sad , glum , and crying are part of a negative-emotion dictionary ; Pennebaker , Chung , Ireland , Gonzales , & Booth , 2007 ) .
+Open-vocabulary approaches identify predictive words statistically and are not based on traditional predetermined dictionaries ( Schwartz , Eichstaedt , Kern , Dziurzynski , Ramones , et al. , 2013 ) , offering a complementary method of language analysis .
+In this study , we analyzed social-media language to identify community-level psychological characteristics associated with mortality from atherosclerotic heart dis- ease ( AHD ) .
+Working with a data set of 10s of millions of Twitter messages ( tweets ) , we used dictionary-based and open-vocabulary analyses to characterize the psychologi- cal language correlates of AHD mortality .
+We also gauged the amount of AHD-relevant information in Twitter lan- guage by building and evaluating predictive models of AHD mortality , and we compared the language models with traditional models that used demographic and socioeconomic risk factors .
+Method We collected tweets from across the United States , deter- mined their counties of origin , and derived values for language variables ( e.g. , the relative frequencies with which people expressed anger or engagement ) for each county .
+We correlated these county-level language mea- sures with county-level age-adjusted AHD mortality rates obtained from the CDC .
+To gauge the amount of informa- tion relevant to heart disease contained in the Twitter language , we compared the performance of prediction models that used Twitter language with the performance of models that contained county-level ( a ) measures of socioeconomic status ( SES ; i.e. , income and education ) , ( b ) demographics ( percentages of Black , Hispanic , mar- ried , and female residents ) , and ( c ) health variables ( inci- dence of diabetes , obesity , smoking , and hypertension ) .
+All procedures were approved by the University of Pennsylvania Institutional Review Board .
+Data sources We used data from <SS> 1,347 </SS> <SS> 1,347 </SS> <SS> 1,347 </SS> U.S. counties for which AHD mortality rates ; county-level socioeconomic , demographic , and health variables ; and at least <SS> 50,000 </SS> tweeted words were available .
+More than 88 % of the U.S. population lives in the included counties ( U.S. Census Bureau , 2010 ) .1 Twitter data .
+Tweets are brief messages ( no more than 140 characters ) containing information about emotions , thoughts , behaviors , and other personally salient infor- mation .
+In 2009 and 2010 , Twitter made a 10 % random sample of tweets ( the “ Garden Hose ” ) available for researchers through direct access to its servers .
+We obtained a sample of <SS> 826 million </SS> tweets collected between June 2009 and March 2010 .
+Many Twitter users self-reported their locations in their user profiles , and we used this information to map tweets to counties ( for details , see the Mapping Tweets to Counties section of the Supplemental Method in the Supplemental Material available online ) .
+This resulted in <SS> 148 million </SS> county- mapped tweets across 1,347 counties .
+Heart disease data .
+Counties are the smallest socio- ecological level for which most CDC health variables and U.S. Census information are available .
+From the Centers for Disease Control and Prevention ( 2010b ) we obtained county-level age-adjusted mortality rates for AHD , which is represented by code I25.1 in the International Classifi- cation of Disease , 10th edition ( ICD 10 ; World Health Organization , 1992 ) .
+This code has the highest overall mortality rate in the United States ( prevalence = 51.5 deaths per 100,000 in 2010 ) .
+We averaged AHD mortality rates across 2009 and 2010 to match the time period of the Twitter-language data set .
+Demographic and health risk factors .
+We obtained county-level median income and the percentage of Twitter and Heart Disease Mortality 161 married residents from the American Community Survey ( U.S. Census Bureau , 2009 ) .
+We also obtained high school and college graduation rates from this survey , which we used to create an index of educational attain- ment .
+We obtained percentages of female , Black , and Hispanic residents from the U.S. Census Bureau ( 2010 ) .
+From the Behavioral Risk Factor Surveillance System of the Centers for Disease Control and Prevention ( 2009 , 2010a ) we obtained prevalence of self-reported diabetes , obesity , smoking , and hypertension ( common cardiovas- cular risk factors ) for which county-level estimates had previously been derived ( see Table S1 in the Supple- mental Tables of the Supplemental Material for detailed source information ) .
+Analytic procedure Language variables from Twitter .
+We used an auto- matic process to extract the relative frequency of words and phrases ( sequences of two to three words ) for every county .
+For example , the relative frequency of the word hate ranged from 0.009 % to 0.139 % across counties ( see the Tokenization section of the Supplemental Method ) .
+We then derived two more types of language-use vari- ables from counties ’ relative word-usage frequencies : variables based on ( a ) dictionaries and ( b ) topics .
+Dictionary-based variables were relative frequencies of psychologically related words from predetermined dic- tionaries ( e.g. , positive-emotion words accounted for 4.6 % of all words in a county on average ) .
+Topic-based variables were the relative usage of 2,000 automatically created topics , which are clusters of semantically related words that can be thought of as latent factors ( words can have loadings on multiple topics ; see the Topic Extraction section of the Supplemental Method ) .
+We used preestablished dictionaries for anger , anxiety , positive and negative emotions , positive and negative social relationships , and engagement and disengagement ( Pennebaker et al. , 2007 ; Schwartz , Eichstaedt , Kern , Dziurzynski , Lucas , et al. , 2013 ) .
+Topics had previously been automatically derived ( Schwartz , Eichstaedt , Kern , Dziurzynski , Ramones , et al. , 2013 ) .
+Because words can have multiple senses , act as mul- tiple parts of speech , and be used in the context of irony or negation , it is important to gauge empirically how well such lists of words measure what is intended ( Grimmer & Stewart , 2013 ) .
+To that end , we had human raters evalu- ate the dictionaries to determine whether each accurately measured the psychological concept intended .
+For each of the eight dictionaries , two independent raters exam- ined 200 tweets containing dictionary words and rated whether each dictionary word in the tweets expressed the associated dictionary concept .
+A third rater was brought in to break ties .
+Judges rated the dictionaries to have accuracy levels between 55 % and 89 % ( see Table S2 in the Supplemental Tables ) .2 Statistical analysis .
+Dictionary and topic language variables were correlated with county AHD mortality rates using ordinary least squares linear regression .
+Each language variable was entered individually into the regression equation and then entered simultaneously with education and income as controls .
+We tested 2,000 topics , so we applied the Bonferroni correction to the significance threshold ( i.e. , for the correlation of 1 of 2,000 topics to be significant , its p value would have to be less than <PV> .05/2,000 </PV> , or <PV> .000025 </PV> ) .
+Predictive models .
+A predictive model of county AHD mortality rates was created using all of the Twitter lan- guage variables .
+That is , we created a single model in which all of the word , phrase , dictionary , and topic fre- quencies were independent variables and the AHD mor- tality rate was the dependent variable .
+We used regularized linear regression ( ridge regression ) to fit the model ( see the Predictive Models section of the Supplemental Method ) .
+We also created predictive models of county AHD mortality rates in which the predictors were differ- ent combinations of sets of variables : Twitter language , county demographics ( percentages of Black , Hispanic , married , and female residents ) , and socioeconomic ( income , education ) and health ( incidence of diabetes , obesity , smoking , and hypertension ) variables .
+We avoided distorted results ( due to model overfit- ting—picking up patterns simply by chance ) by using a 10-fold cross-validation process that compared model predictions with out-of-sample data .
+For this analysis , the counties were first randomly partitioned into 10 parts ( folds ) .
+Then , a predictive model was created by fitting the independent variables to the dependent variable ( AHD mortality ) over 9 of the 10 folds of counties ( the training set ) .
+We then evaluated how well the resulting model pre- dicted the outcomes for the remaining fold ( one 10th of the counties ; the hold-out set ) .
+We evaluated the model by comparing its predicted rates with the actual CDC- reported mortality rates using a Pearson product-moment correlation .
+This procedure was repeated 10 times , allow- ing each fold to be the hold-out set .
+The results were averaged together to determine overall prediction perfor- mance across all counties for a given model .
+To compare predictive performance between two models ( e.g. , a model based only on Twitter language versus a model based on income and education ) , we conducted <TN> paired t tests </TN> comparing the sizes of the stan- dardized residuals of county-level predictions from the models .
+162 Eichstaedt et al .
+Results Dictionaries Greater usage of anger , negative-relationship , negative- emotion , and disengagement words was significantly cor- related with greater age-adjusted AHD mortality ( rs = .10–.17 ; for specific results , including confidence inter- vals , see Table 1 ) .
+After controlling for SES ( income and education ) , all five negative language factors ( including usage of anxiety words ) were significant risk factors for AHD mortality ( partial rs = .06 , 95 % confidence interval , or CI = [ .00 , .11 ] , to .12 , 95 % CI = [ .07 , .17 ] ) .
+This suggests that Twitter language captures information not accounted for by SES .
+Greater use of positive-emotion and engage- ment words was associated with lower AHD mortality ( <ES> r = −.11 </ES> and r = −.16 , respectively ) .
+Use of engagement words remained significantly protective after controlling for SES ( <ES> partial r = −.09 </ES> , 95 % CI = [ −.14 , −.04 ] ) , but use of positive- emotion words became only marginally significant ( partial <ES> r = −.05 </ES> , 95 % CI = [ −.00 , −.11 ] ) .
+Usage of positive-relation- ships words3 showed a nonsignificant association with AHD mortality ( <ES> r = .02 </ES> <ES> r = .02 </ES> , 95 % CI = [ −.04 , .07 ] ; see Table 1 ) .
+Topics We complemented the dictionaries with an open- vocabulary approach , using automatically created topics consisting of semantically coherent groups of words .
+For each county , we calculated the relative use of each topic , and we correlated topic use with AHD .
+Figure 1 shows topic composition and correlations for 18 topics whose use was significantly correlated with AHD mortality.4 The risk factors we observed were themes of hostility and aggression ( shit , asshole , fucking ; rs = .18 , 95 % CI = [ .12 , .23 ] , to .27 , 95 % CI = [ .22 , .32 ] ) , hate and interpersonal ten- sion ( jealous , drama , hate ; <ES> rs = .16 </ES> , 95 % CI = [ .11 , .21 ] , to .21 , 95 % CI = [ .16 , .26 ] ) , and boredom and fatigue ( bored , tired , bed ; rs = .18 , 95 % CI = [ .12 , .23 ] , to .20 , 95 % CI = [ .15 , .25 ] ) .
+After controlling for SES , use of seven of the nine risk topics remained significantly correlated with AHD mortal- ity at Bonferroni-corrected levels ( <ES> partial rs = .12 </ES> , 95 % CI = [ .07 , .17 ] , to .25 , 95 % CI = [ .20 , .30 ] , <PV> p < 7 × 10−6 </PV> ) .
+Other topics were protective factors ( Fig .
+1 , bottom panel ) .
+Use of topics related to positive experiences ( wonderful , friends , great ; <ES> rs = −.14 </ES> <ES> rs = −.14 </ES> , 95 % CI = [ −.19 , −.08 ] , to −.15 , 95 % CI = [ −.21 , −.10 ] ) was associated with lower AHD mortality , a finding that mirrors the dictionary-based results .
+Also associated with lower AHD mortality was use of topics reflecting skilled occupations ( service , skills , conference ; rs = −.14 , 95 % CI = [ −.20 , −.09 ] , to −.17 , 95 % CI = [ −.22 , −.12 ] ) and topics reflecting optimism ( oppor- tunities , goals , overcome ; <ES> rs = −.12 </ES> , 95 % CI = [ −.18 , −.07 ] , to −.13 , 95 % CI = [ −.18 , −.07 ] ) , which has been found to be robustly associated with reduced cardiovascular dis- ease risk at the individual level ( Boehm & Kubzansky , 2012 ; Chida & Steptoe , 2008 ) .
+After controlling for SES , the correlations between protective topics and AHD mor- tality remained significant at the traditional .05 level but were no longer significant at Bonferroni-corrected levels .
+Prediction In Figure 2 , we compare the predictions of AHD mortal- ity from regression models with different independent variables .
+Predictive performance was slightly but signifi- cantly better for a model combining Twitter and the 10 traditional demographic , SES , and health predictors than for a model that included only the 10 traditional predic- tors ( Twitter plus 10 traditional factors : <ES> r = .42 </ES> <ES> r = .42 </ES> , 95 % CI = [ .38 , .46 ] ; 10 traditional factors only : <ES> r = .36 </ES> , 95 % CI = [ .29 , .43 ] ) , t ( 1346 ) = −2.22 , <PV> p = .026 </PV> .
+This suggests that Twitter has incremental predictive validity over and above tradi- tional risk factors .
+A predictive model using only Twitter language ( r = .42 , 95 % CI = [ .38 , .45 ] ) performed slightly better than a model using the 10 traditional factors , t ( 1346 ) = −1.97 , <PV> p = .049 </PV> .
+To explore these associations in greater detail , we compared the performance of prediction models contain- ing stepwise combinations of Twitter and sets of demo- graphic predictors ( percentages of Black , Hispanic , married , and female residents ) , socioeconomic predictors ( income and education ) , and health predictors ( incidence Table 1 .
+County-Level Correlations Between Atherosclerotic Heart Disease ( AHD ) Mortality and Twitter Language Measured by Dictionaries Language variable Correlation with AHD mortality Risk factors Anger .17 [ .11 , .22 ] * * Negative relationships .16 [ .11 , .21 ] * * Negative emotions .10 [ .05 , .16 ] * * Disengagement .14 [ .08 , .19 ] * * Anxiety .05 [ .00 , .11 ] † Protective factors Positive relationshipsa .02 [ −.04 , .07 ] Positive emotions −.11 [ −.17 , −.06 ] * * Engagement −.16 [ −.21 , −.10 ] * * Note : The table presents Pearson rs , with 95 % confidence intervals in square brackets ( n = 1,347 counties ) .
+The anger and anxiety dictionaries come from the Linguistic Inquiry and Word Count software ( Pennebaker , Chung , Ireland , Gonzales , & Booth , 2007 ) ; the other dictionaries are our own ( Schwartz , Eichstaedt , Kern , Dziurzynski , Lucas , et al. , 2013 ) .
+Positive correlations indicate that higher values for the language variables are associated with greater AHD mortality .
+aThis is the correlation without love included in the dictionary .
+See note 3 at the end of the article and the discussion for more information .
+† <PV> p < .10 </PV> .
+* * <PV> p < .001 </PV> <PV> p < .001 </PV> .
+Twitter and Heart Disease Mortality 163 Fig .
+1 .
+Twitter topics most correlated with age-adjusted mortality from atherosclerotic heart disease ( AHD ; signifi- cant at a Bonferroni-corrected significance level of p < 2.5 × 10−5 ) .
+The topics with positive correlations ( top ) and the topics with negative correlations ( bottom ) have each been grouped into sets , which are labeled at the left .
+The size of the word represents its prevalence relative to all words within a given topic ( larger = more frequent ; for details , see the Supplemental Method ) .
+164 Eichstaedt et al .
+of diabetes , obesity , smoking , and hypertension ; see Table S4 in the Supplemental Tables ) .
+For all combina- tions of sets of traditional predictors , adding Twitter language significantly improved predictive performance , t ( 1346 ) > 3.00 , p < .001 .
+Adding traditional sets of predic- tors to Twitter language did not significantly improve predictive performance .
+Taken together , these results suggest that the AHD- relevant variance in the 10 predictors overlaps with the AHD-relevant variance in the Twitter language features .
+Twitter language may therefore be a marker for these vari- ables and in addition may have incremental predictive validity .
+Figure 3 shows CDC-reported AHD mortality aver- aged across 2009 and 2010 and Twitter-predicted mortality for the densely populated counties in the northeastern United States ; a high degree of agreement is evident .
+Discussion Our study had three major findings .
+First , language expressed on Twitter revealed several community-level psychological characteristics that were significantly asso- ciated with heart-disease mortality risk .
+Second , use of negative-emotion ( especially anger ) , disengagement , and negative-relationship language was associated with increased risk , whereas positive-emotion and engagement language was protective .
+Third , our predictive results sug- gest that the information contained in Twitter language fully accounts for—and adds to—the AHD-relevant infor- mation in 10 representatively assessed demographic , socioeconomic , and health variables .
+Taken together , our results suggest that language on Twitter can provide plau- sible indicators of community-level psychosocial health that may complement other methods of studying the impact of place on health used in epidemiology ( cf .
+Auchincloss et al. , 2012 ) and that these indicators are associated with risk for cardiovascular mortality .
+Our findings point to a community-level psychological risk profile similar to risk profiles that have been observed at the individual level .
+County-level associations between AHD mortality and use of negative-emotion words ( rela- tive risk,5 or <ES> RR , = 1.22 </ES> ) , anger words ( <ES> RR = 1.41 </ES> ) , and anxiety words ( <ES> RR = 1.11 </ES> ) were comparable to individ- ual-level meta-analytic effect sizes for the association between AHD mortality and depressed mood ( <ES> RR = 1.49 </ES> ; Rugulies , 2002 ) , anger ( RR = 1.22 ; Chida & Steptoe , 2009 ) , and anxiety ( <ES> RR = 1.48 </ES> ; Roest , Martens , de Jonge , & Denollet , 2010 ) .
+Although less is known at the individual level about the protective effects of positive psychological variables than about the risk associated with negative variables , our find- ings align with a growing body of research supporting the .00 .05 .10 .15 .20 .25 .30 .35 .40 .45 Hispanic ( % ) Married ( % ) Female ( % ) Black ( % ) Obesity Hypertension Diabetes Smoking Income and Education All Predictors Except Twitter Only Twitter Twitter and All Predictors Pearson r * Fig .
+2 .
+Performance of models predicting age-adjusted mortality from atherosclerotic heart disease ( AHD ) .
+For each model , the graph shows the correlation between predicted mortality and actual mortality reported by the Centers for Disease Control and Prevention .
+Predic- tions were based on Twitter language , socioeconomic status , health , and demographic variables singly and in combination .
+Higher values mean better prediction .
+The correlation values are averages obtained in a cross-validation process used to avoid distortion of accuracy due to chance ( overfitting ; for details , see the text ) .
+Error bars show 95 % confidence intervals .
+Asterisks indicate significant differences between models ( * <PV> p < .05 </PV> ) .
+Twitter and Heart Disease Mortality 165 cardiovascular health benefits of psychological well- being ( Boehm & Kubzansky , in press ) .
+Engagement , which has long been considered an important compo- nent of successful aging ( Rowe & Kahn , 1987 ) , emerged as the strongest protective factor in our study .
+Use of positive-emotion words was also protective , which is in line with numerous findings that positive emotions con- vey protection from illness and disease ( e.g. , Howell , Kern , & Lyubomirsky , 2007 ; Pressman & Cohen , 2005 ) .
+Fredrickson , Mancuso , Branigan , and Tugade ( 2000 ) have argued that positive emotions may undo the negative car- diovascular aftereffects of anxiety-induced cardiovascular reactivity .
+Optimism has been shown to have relatively robust association with reduced risk of cardiovascular events at the individual level ( Boehm & Kubzansky , 2012 ; Chida & Steptoe , 2008 ) .
+We did not have a predefined optimism dictionary , but our topic analyses seem to have identified this as a protective factor ( as indicated by results for topics containing opportunities , goals , over- come ; Fig .
+1 , bottom ) .
+This demonstrates the value of data-driven language analyses .
+Overall , our topic findings were similar to and converged with our theory-based dictionary results ( cross-correlations are given in Table S3 in the Supplemental Tables ) .
+Although theory-based analyses can be more easily tied to existing literature , topic analyses provide a richer portrait of spe- cific behaviors and attitudes ( e.g. , cursing , frustration , being tired ) that correspond to broad psychological characteristics ( e.g. , anger or stress ) associated with an increased risk for AHD mortality .
+Data-driven analyses , such as our topic analyses , may help identify novel psy- chological , social , and behavioral correlates of disease .
+When analyses use theory-based dictionaries , results can be driven by a few frequent but ambiguous words .
+For example , greater use of words in the original posi- tive-relationships dictionary ( Schwartz , Eichstaedt , Kern , Dziurzynski , Ramones , et al. , 2013 ) was surprisingly asso- ciated with increased risk , as was the use of its most fre- quent word , love .
+Love accounted for more than a third of the total usage of the positive-relationships dictionary ( 5.3 million occurrences of love compared with 15.0 mil- lion occurrences of all words in the dictionary ) , which means that love drove the results for this dictionary .
+Reading through a random sample of tweets containing love revealed them to be mostly statements about loving things , not people.6 Excluding love from the dictionary reduced the correlation between use of the words in the positive-relationships dictionary and AHD mortality ( <ES> r = .08 </ES> , 95 % CI = [ .03 , .13 ] ) to nonsignificance ( r = .02 , 95 % CI = [ −.04 , .07 ] ) .
+These results demonstrate the pitfalls of interpreting dictionary-based results at face value and underscore the importance of interpreting such results in light of the most frequent words contained in the dictionaries , which can drive the overall dictionary results in unexpected ways .
+For transparency , in Table S6 in the Supplemental CDC-Reported AHD Mortality Twitter-Predicted AHD Mortality 10 20 30 40 50 60 70 80 90 AHD Mortality ( Percentile ) Fig .
+3 .
+Map of counties in the northeastern United States showing age-adjusted mortality from atherosclerotic heart disease ( AHD ) as reported by the Centers for Disease Control and Prevention ( CDC ; left ) and as estimated through the Twitter-language-only prediction model ( right ) .
+The out-of-sample predictions shown were obtained from the cross-validation process described in the text .
+Counties for which reliable CDC or Twitter language data were unavailable are shown in white .
+166 Eichstaedt et al .
+Tables , we have provided the correlations with AHD mortality for the 10 most frequently used words in each of the eight dictionaries .
+These findings also highlight the value of triangulating language analyses across different levels of analysis ( words , topics , and dictionaries ) for arriving at more robust interpretations .
+Given that the typical Twitter user is younger ( median age = 31 years ; Fox , Zickurh , & Smith , 2009 ) than the typi- cal person at risk for AHD , it is not obvious why Twitter language should track heart-disease mortality .
+The people tweeting are not the people dying .
+However , the tweets of younger adults may disclose characteristics of their community , reflecting a shared economic , physical , and psychological environment .
+At the individual level , psy- chological variables and heart-disease risk are connected through multiple pathways , including health behaviors , social relationships , situation selection , and physiological reactivity ( Friedman & Kern , 2014 ) .
+These pathways occur within a broader social context that directly and indirectly influences an individual ’ s life experiences .
+Local commu- nities create physical and social environments that influ- ence the behaviors , stress experiences , and health of their residents ( Diez Roux & Mair , 2010 ; Lochner , Kawachi , Brennan , & Buka , 2003 ) .
+Epidemiological studies have found that the aggregated characteristics of communities , such as social cohesion and social capital , account for a significant portion of variation in health outcomes , inde- pendently of individual-level characteristics ( Leyland , 2005 ; Riva , Gauvin , & Barnett , 2007 ) , such that the com- bined psychological character of the community is more informative for predicting risk than are the self-reports of any one individual .
+The language of Twitter may be a window into the aggregated and powerful effects of the community context .
+Our study has several limitations .
+Tweets constitute a biased sample in two ways .
+First , they may reflect social- desirability biases , because people manage their online identities ( Rost , Barkhuus , Cramer , & Brown , 2013 ) .
+Second , Twitter users are not representative of the gen- eral population .
+The Twitter population tends to be more urban and to have higher levels of education ( Mislove , Lehmann , Ahn , Onnela , & Rosenquist , 2011 ) .
+In 2009 , the median age of Twitter users ( Fox et al. , 2009 ) was 5.8 years below the U.S. median age ( U.S. Census Bureau , 2010 ) .
+Nonetheless , our Twitter-based prediction model outperformed models based on classical risk factors in predicting AHD mortality ; this suggests that , despite the biases , Twitter language captures as much unbiased AHD-relevant information about the general population as do traditional , representatively assessed predictors .
+Another limitation is that our findings are cross- sectional ; future research should address the stability of psychological characteristics of counties across time .
+Also , we relied on AHD mortality rates reported by the CDC , which draws on the underlying cause of death recorded on death certificates ; however , the coding on death certificates may be inconsistent ( Pierce & Denison , 2010 ) .
+Finally , associations between language and mor- tality do not point to causality ; analyses of language on social media may complement other epidemiological methods , but the limits of causal inferences from obser- vational studies have been repeatedly noted ( e.g. , Diez Roux & Mair , 2010 ) .
+Traditional approaches for collecting psychosocial data from large representative samples , such as the Behavioral Risk Factor Surveillance System of the CDC and Gallup polls , tend to be expensive , are based on only thousands of people , and are often limited to a minimal , predefined list of psychological constructs .
+A Twitter-based system to track psychosocial variables is relatively inexpensive and can potentially generate estimates based on 10s of mil- lions of people with much higher resolution in time and space .
+It is comparatively easy to create dictionaries auto- matically for different psychological or social constructs so that novel hypotheses can be tested .
+Our approach opens the door to a new generation of psychological informational epidemiology ( Eysenbach , 2009 ; Labarthe , 2010 ) and could bring researchers closer to understanding the community-level psychological factors that are impor- tant for the cardiovascular health of communities and should become the focus of intervention .
+Author Contributions J. C. Eichstaedt led the project .
+J. C. Eichstaedt and H. A. Schwartz conceived of the study .
+H. A. Schwartz , J. C. Eichstaedt , G. Park , S. Jha , M. Agrawal , L. A. Dziurzynski , and M. Sap handled data acquisition and processing , development of the prediction mod- els , and data analyses .
+J. C. Eichstaedt , M. L. Kern , H. A. Schwartz , and G. Park drafted the manuscript .
+D. R. Labarthe , R. M. Merchant , L. H. Ungar , and M. E. P. Seligman provided critical revisions .
+C. Weeg and E. E. Larson helped acquire , process , and analyze county-level information .
+All authors approved the final version of the manuscript for submission .
+L. H. Ungar and M. E. P. Seligman contributed equally to this article .
+Declaration of Conflicting Interests The authors declared that they had no conflicts of interest with respect to their authorship or the publication of this article .
+Funding This work was supported by the Robert Wood Johnson Foundation ’ s Pioneer Portfolio , through Exploring Concepts of Positive Health Grant 63597 ( to M. E. P. Seligman ) , and by a grant from the Templeton Religion Trust .
+Supplemental Material Additional supporting information can be found at http : //pss .sagepub.com/content/by/supplemental-data Twitter and Heart Disease Mortality 167 Open Practices All data and materials have been made publicly available via the Open Science Framework and can be accessed at https : // osf.io/rt6w2/ .
+The complete Open Practices Disclosure for this article can be found at http : //pss.sagepub.com/content/by/ supplemental-data .
+This article has received badges for Open Data and Open Materials .
+More information about the Open Practices badges can be found at https : //osf.io/tvyxz/wiki/ view/ and http : //pss.sagepub.com/content/25/1/3.full .
+Notes 1 .
+Analyses using the available heart disease , demographic , and socioeconomic information for the excluded counties revealed that , compared with the counties in the final sample , the excluded counties had smaller populations ( median county population of 12,932 in 1,796 excluded counties vs. 78,265 in included counties ) , higher rates of AHD ( <ES> Hedges ’ s g = 0.48 </ES> , 95 % confidence interval , or CI = [ 0.38 , 0.57 ] ; n = 597 excluded counties with data available ) , lower income ( <ES> g = −0.42 </ES> , 95 % CI = [ −0.53 , −0.32 ] ; n = 496 ) , and lower levels of education ( <ES> g = −0.61 </ES> , 95 % CI = [ −.72 , −.51 ] ; n = 496 ) .
+The included and excluded counties did not differ in median age ( <ES> g = 0.003 </ES> , 95 % CI = [ −0.08 , 0.08 ] ; n = 1,004 ) .
+2 .
+The anxiety and positive-relationships dictionaries were rated as having the lowest accuracies ( 55.0 % and 55.5 % respectively ; see Table S2 in the Supplemental Tables ) , whereas the accu- racy of the other dictionaries was markedly higher ( average accuracy = 82.1 % ) .
+Cross-correlations of dictionaries ( see Table S3 in the Supplemental Tables ) revealed that the frequency of use of the positive-relationships and anxiety dictionaries were unexpectedly positively correlated with the frequencies of use of all other dictionaries .
+3 .
+The word love was removed from the dictionary because it accounted for more than a third of the occurrences of words from this dictionary , and including it distorted the results ( see Discussion , and note 6 ) .
+4 .
+For ease of interpretation , we have grouped these topics into seemingly related sets and added labels to summarize our sense of the topics .
+These labels are open to interpretation , and we present for inspection the most prevalent words within the top- ics .
+County-level topic- and dictionary-frequency data can be downloaded from https : //osf.io/rt6w2/files/ .
+5 .
+To compare our findings with published effect sizes , we con- verted correlation coefficients to relative risk values following the method of Rosenthal and DiMatteo ( 2001 ) .
+6 .
+In addition to having this word-sense ambiguity , mentions of love may signify a different kind of Twitter use in lower-SES areas .
+A factor analysis of the words in the positive-relation- ships dictionary revealed two factors with opposing correlations with SES .
+A general social factor ( friends , agree , loved ) corre- lated with higher SES ( <ES> r = .14 </ES> ) , and a partnership factor ( rela- tionship , boyfriend , girlfriend ) correlated with lower SES ( <ES> r = −.43 </ES> ) , as well as higher AHD mortality ( <ES> r = .18 </ES>

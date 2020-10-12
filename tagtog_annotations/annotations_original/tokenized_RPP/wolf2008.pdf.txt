@@ -1,0 +1,723 @@
+wolf2008.pdf
+aSUB.LDobb70qbCGZUTR61Fa7eCq-wolf2008.pdf.plain.html
+
+Interindividual–Intergroup Discontinuity in the Domain of Correspondent Outcomes : The Roles of Relativistic Concern , Perceived Categorization , and the Doctrine of Mutual Assured Destruction Scott T. Wolf and Chester A. Insko University of North Carolina at Chapel Hill Jeffrey L. Kirchner Albright College Tim Wildschut University of Southampton Most prior research on the tendency for groups to be less cooperative than individuals ( the interindividual-intergroup discontinuity effect ) has used the Prisoner ’ s Dilemma Game ( PDG ) .
+Experi- ment 1 examined the discontinuity effect with 3 additional matrices : Chicken , Leader , and Battle of the Sexes ( BOS ) .
+Unlike the PDG , these matrices are characterized by correspondence of outcomes .
+The discontinuity effect was significant for the PDG and Chicken matrices only .
+With the BOS and Leader matrices , both individuals and groups pursued outcome maximization through coordinated turn taking .
+Despite the lesser competitiveness , sets of interacting participants in the BOS and Leader conditions did perceive that they were 2 groups .
+Experiment 2 examined the discontinuity effect in 2 Chicken matrices with varying outcomes associated with mutual competition .
+Consistent with the doctrine of mutual assured destruction , the discontinuity effect was eliminated for the matrix in which mutual competition was associated with very low outcomes .
+Although concern for relative in-group standing gave rise to intergroup competition even in the domain of correspondent outcomes , such concern was constrained to the extent that it interfered with outcome maximization .
+Keywords : interindividual–intergroup discontinuity , discontinuity effect , intergroup conflict , mutual assured destruction , social categorization In late April 1945 , during the battle for Berlin , the Russian writer and war correspondent Vasily Grossman recorded the fol- lowing comments from a Soviet general regarding rivalry between adjacent army units : He says : “ We fear our neighbours now , not the enemy. ” He says laughing : “ I ’ ve given orders to place burned-out tanks on the way to the Reichstag and the Reichschancellery so as to block our neigh- bours .
+The greatest disappointment in Berlin is when you learn about your neighbour ’ s success. ” ( cited in Beevor & Vinogradova , 2006 , p. 337 ) This historical anecdote is emblematic for the influential idea in social science that people are concerned with the relative standing of the in-group vis-à-vis out-groups to the point where they would , figuratively speaking , choose death before dishonor .
+To account for such concern with relative in-group standing , McDougall ( 1920 ) , in one of the first systematic analyses of group behavior , assigned a central role to “ the self-regarding sentiment ” : “ .
+.
+.
+the self-regarding sentiment , ” he wrote , “ may become ex- tended to other objects than the individual self , to all objects with which the self identifies itself , which are regarded as belonging to the self or as part of the wider self ” ( p. 54 ) .
+Foreshadowing Grossman ’ s observations , McDougall went on to cite the example of a crusading army in which the self-regarding sentiment of each soldier “ has become extended to the army as a whole , so that , as we say , each one identifies himself with it and prizes its reputation and desires its success as an end in itself ” ( p. 57 ) .
+“ Such a sentiment , ” he proposed , “ would be greatly developed and strengthened by rivalry in deeds of arms with a second crusading army [ because ] there would be awakened in each man an impulse to assert the power , to sustain the glory of the army ” ( p. 58 ) .
+A contemporary incarnation of this basic idea can be found in an influential book chapter by Tajfel and Turner ( 1986 ) .
+They too proposed that self-enhancement plays a central role in the genesis of intergroup competitiveness .
+“ Individuals , ” they proposed , “ strive to maintain or enhance their self-esteem : they strive for a positive self-concept. ” Self-esteem , in turn , is enhanced when “ favorable comparisons can be made between the in-group and some relevant out-groups ” ( p. 16 ) .
+This implies that obtaining higher outcomes than another group would support the self-esteem of group members in the “ winning ” group .
+The idea that concern for relative in-group standing may spark intergroup competition even under circumstances in which the different groups have compatible interests ( as in battle against a Scott T. Wolf and Chester A. Insko , Department of Psychology , Uni- versity of North Carolina at Chapel Hill ; Jeffrey L. Kirchner , Department of Psychology , Albright College ; Tim Wildschut , School of Psychology , University of Southampton , Southampton , England .
+Correspondence concerning this article should be addressed to Scott T. Wolf , who is now at the Department of Psychology , University of Mis- souri , 217 McAlester Hall , Columbia , MO 65211 .
+E-mail : wolfst @ missouri.edu Journal of Personality and Social Psychology Copyright 2008 by the American Psychological Association 2008 , Vol .
+94 , No .
+3 , 479–494 0022-3514/08/ $ 12.00 DOI : 10.1037/0022-3514.94.3.479 479 common enemy or in the pursuit of a superordinate goal ) offers an interesting counterpoint to the finding that cooperative interdepen- dence—or , as we refer to it , correspondence of outcomes— between groups promotes intergroup cooperation ( Allport , 1954 ; Aronson , Blaney , Stephan , Sikes , & Snapp , 1978 ; S. L. Gaertner , Mann , Dovidio , Murrell , & Pomare , 1990 ; Sherif , Harvey , White , Hood , & Sherif , 1954 ) .
+Although correspondence of outcomes may eliminate the basis for realistic group conflict , it leaves room for what Goffman ( 1967 ) called “ character contests ” ( p. 239 ) — disputes in which relative standing and honor are “ brought into play as something to be lost and gained ” ( p. 244 ) .
+Such disputes have been identified as important antecedents to criminal homicide ( Luckenbill , 1977 ) and assault ( Deibert & Miethe , 2003 ) , and history leaves little doubt that they also play an important role in the genesis of large-scale armed conflicts ( Rosecrance , 1963 ) .
+The present research , then , had several objectives .
+First , we sought to examine the extent to which intergroup cooperation in the domain of correspondent outcomes is obstructed by concern for relative in-group standing and to compare intergroup interac- tions in this domain with interindividual interactions .
+To address this objective , in Experiment 1 we contrasted interindividual and intergroup interactions in the context of the four matrix games presented in Figure 1 .
+These “ four archetypes of the 2 2 game ” ( Rapoport , 1967 , p. 81 ) are commonly referred to as the Prisoner ’ s Dilemma Game ( PDG ) , Chicken , Leader , and Battle of the Sexes ( BOS ) .
+As we show , whereas the PDG represents the domain of noncorrespondent outcomes , Chicken , Leader , and BOS represent the domain of correspondent outcomes .
+Research on interindividual–intergroup discontinuity has found that , in the PDG context , intergroup relations are often more competitive than are interindividual relations ( Wildschut , Pinter , Vevea , Insko , & Schopler , 2003 ) .
+The domain of correspondent outcomes , how- ever , remains virtually uncharted .
+The second objective was to compare the perceived categoriza- tion of interacting players in noncorrespondent domains with cor- respondent domains ( S. L. Gaertner et al. , 1999 ) and to examine whether , in the correspondent domain , sets of interacting individ- uals even perceive themselves as members of two distinct groups .
+The third objective was to test an implication of the doctrine of mutual assured destruction ( MAD ) that intergroup cooperation in the domain of correspondent outcomes may be increased when mutual competition results in very low mutual outcomes .
+Specif- ically , we were interested in whether such an increase in intergroup cooperation could eliminate the discontinuity effect in a matrix in which mutual competition is associated with very low mutual outcomes .
+To examine this question , in Experiment 2 we con- trasted interindividual and intergroup interactions in the context of X Y A 90 120 30 60 Prisoner ’ s Dilemma Game X Y Chicken A 90 120 60 30 X Y A 60 120 90 30 X Y A 30 120 90 60 Battle of the Sexes Leader Figure 1 .
+Experiment 1 : Versions of Rapoport and Guyer ’ s ( 1966 ) archetypal matrices : Prisoner ’ s Dilemma Game , Chicken , Battle of the Sexes , and Leader .
+480 WOLF , INSKO , KIRCHNER , AND WILDSCHUT two different versions of the Chicken matrix that varied the out- comes associated with mutual competition .
+Interindividual–Intergroup Discontinuity and Relativistic Concern Research on interindividual–intergroup discontinuity has exam- ined what differences between interindividual and intergroup re- lations can account for the relative intractability of intergroup relations ( Wildschut et al. , 2003 ) .
+The majority of this research has contrasted interindividual and intergroup interactions in the con- text of the PDG and established that intergroup interactions are often more competitive than are interindividual interactions ( the discontinuity effect ) .
+In a recent meta-analytic review , Wildschut et al .
+( 2003 ) found the discontinuity effect to be substantially large and robust .
+Five explanations for the discontinuity effect have received empirical support .
+First , the social-support hypothesis proposes that , unlike separate individuals , group members can provide mu- tual social support for a competitive choice ( Insko , Schopler , Hoyle , Dardis , & Graetz , 1990 ; Schopler et al. , 1993 ; Wildschut , Insko , & Gaertner , 2002 ) .
+Second , the identifiability hypothesis proposes that the group context provides a shield of anonymity , allowing group members to avoid personal responsibility for a selfish-competitive choice ( Schopler et al. , 1995 ) .
+Third , the fear hypothesis proposes that the actual or anticipated interaction with a group activates learned beliefs and expectations that other groups are untrustworthy , deceitful , and competitive ( Insko , & Schopler , 1998 ; Pemberton , Insko , & Schopler , 1996 ; Wildschut , Insko , & Pinter , 2004 ) .
+Fourth , the in-group-favoring-norm hypothesis pro- poses that membership in a group implies normative pressure to act so as to benefit the in-group ( Wildschut et al. , 2002 ) .
+Finally , the altruistic-rationalization hypothesis proposes that group mem- bers can rationalize their self-benefiting competitiveness as flow- ing from a concern for benefiting in-group members ( Pinter et al. , 2007 ) .
+Not included among these explanations is the relativistic con- cern emphasized by , among others , McDougall ( 1920 ) and Tajfel and Turner ( 1986 ) .
+The reason for this absence is that no a priori reason exists why such concern should be stronger in an intergroup than in an interindividual context .
+On the contrary , there is even evidence to suggest that people attach greater importance to their individual standing relative to other individuals than to the stand- ing of their in-group relative to out-groups ( L. Gaertner , Sedikides , & Graetz , 1999 ; L. Gaertner , Sedikides , Vevea , & Iuzzini , 2002 ) .
+Such evidence notwithstanding , Sedikides and Strube ( 1997 ) drew an important distinction between self-enhancement concerns that are pursued “ directly through flagrant attempts to increase self- concept positivity ” and those that are pursued indirectly “ through ways and mannerisms that are subtle , are perceptive of the balance between immediate and delayed rewards , and are sensitive to the pressures of the social and cultural context ” ( p. 225 ) .
+The five existing explanations of the discontinuity effect can all be inter- preted to imply that relativistic concern will be manifested more directly or flagrantly , that is through competition , in intergroup than in interindividual contexts .
+The presence , in the intergroup context , of social support , anonymity , normative social influence to benefit the in-group , and opportunities for altruistic rationaliza- tion of self-interest should give rise to a relatively stronger concern with winning .
+Relatedly , the greater distrust of other groups than of other individuals should , in the intergroup context , give rise to relatively greater fear of losing .
+Arguably , such concern that the other group will get ahead is a manifestation , if not of self- enhancement , then of avoidance of loss of relative standing .
+Con- sistent with this argument , Wildschut , Lodewijkx , and Insko ( 2001 ) reported a strong correlation ( .68 ) in the PDG context between distrust and concern for maximizing relative outcomes .
+The Domain of Correspondent Outcomes Although interindividual–intergroup discontinuity has been studied and documented extensively in the PDG context , the domain of correspondent outcomes has not yet been explored .
+But how should this domain be delineated ?
+To answer this question , we drew on two influential treatises of 2 2 matrix games .
+First , we turned to Kelley and Thibaut ( 1978 ) , who proposed an intuitive and familiar metric to quantify the extent to which the outcomes of two players are correspondent or noncorrespondent .
+For matrices that are identical from the perspective of both column and row player , this “ index of correspondence ” equals the correlation be- tween players ’ outcomes across the four matrix cells .
+We therefore denote the index as r. A negative r indicates noncorrespondence of outcomes , whereas a positive r indicates correspondence of out- comes.1 For situations involving high correspondence , “ what is good for one is good for the other and what is bad for one is bad for both ” ( Kelley & Thibaut , 1978 , p. 12 ) .
+Having defined the domain of correspondent outcomes as con- sisting of matrices with a positive r , our next task was to select from this domain the most theoretically interesting matrices .
+Here , we turned to Rapoport and Guyer ’ s ( 1966 ) influential classifica- tion of 2 2 games .
+By restricting attention to those games in which each player ’ s outcomes can be rank-ordered without ties , they demonstrated that there are exactly 78 possible ordinal games .
+Twelve of these 78 games involve symmetric outcomes , which means that the game is identical from the perspective of both column and row players .
+Eight of these 12 symmetric matrices , however , were considered to be theoretically uninteresting because they have either “ absolutely stable ” or “ strongly stable ” equilib- rium points ( Rapoport & Guyer , 1966 , p. 206 ) .
+Stable equilibrium points occur when there is a matrix cell from which neither player is motivated to switch unilaterally .
+The remaining four theoreti- cally interesting matrices are PDG , Chicken , Leader , and BOS .
+Note from Figure 1 that for each matrix the players ’ outcomes can be ranked in ascending order from 30 to 60 to 90 to 120 and that each matrix is symmetric .
+It is important that , whereas PDG has a negative r , Chicken , Leader , and BOS all have a positive r. PDG Of the Figure 1 matrices , the PDG has received most attention ( Colman , 1995 ) .
+With the PDG , players have the ability to coop- erate by choosing X or to not cooperate by choosing Y .
+In the short-run , choosing Y is the optimal choice , but for long-run 1 A technical complexity here is that the argument concerning corre- spondence of outcomes does not apply to the simple difference between cooperative and competitive choices when the index is polarized at ei- ther 1 or 1 ( see Schopler et al. , 2001 ) .
+481DISCONTINUITY EFFECT strategies ( assuming repeated interactions ) a choice of X may be optimal .
+For the PDG in Figure 1 , r .80 .
+Another important property of the PDG matrix is that it does not incorporate an interaction pattern ( i.e. , a difference in diagonal outcome means ) .
+Just as Kelley and Thibaut ( 1978 ) placed major theoretical em- phasis on r , they also emphasized the importance of the presence or absence of interactions .
+Kelley et al .
+( 2003 ) refer to matrix interactions as joint control ( JC ) , and we follow their recent terminology .
+Kelley and Thibaut referred to matrices without JC as “ exchange situations ” and matrices with JC as “ coordination sit- uations. ” In matrices with JC there may be reason to engage in coordinated alternation of responses or turn taking .
+Although there are no systematic studies of the presence or absence of JC on the discontinuity effect , there are studies examining the effect of variations in the magnitude of r on the discontinuity effect in matrices like the PDG in which there is no JC .
+These studies showed that , as r became more negative , groups , but not individ- uals , became more competitive ( Schopler et al. , 2001 ; Wildschut et al. , 2002 , 2003 ) .
+Chicken Poundstone ( 1992 ) credited Bertrand Russell ( 1959 ) with first using the “ game of chicken ” as an illustration for what is labeled the Chicken matrix .
+Russell cited the Hollywood example of two teenagers driving their cars at each other in order to see who would swerve first as a model for nuclear brinkmanship during the Cold War .
+The Chicken matrix superficially resembles the PDG , but has a positive r and a nonzero JC component .
+For the Chicken matrix in Figure 1 , r .20 and JC 30 .
+Although the Chicken matrix has a nonzero JC component , it is important to note that coordinated alternation between the cells in the lower left to upper right diagonal does not provide greater outcomes than does repeated selection of the upper left cell ( in both instances , the average outcome equals 90 ) .
+BOS Colman ( 1995 ) credited Luce and Raiffa ( 1957 ) with first illus- trating the BOS matrix with the now classic , but stereotyped , example of the decisions of a husband and wife regarding how they spend their evening .
+In this example , the husband prefers going to a prize fight , whereas the wife prefers going to the opera , but both would prefer to be accompanied by the other rather than to attend either event alone .
+In Figure 1 , the Y choice represents the preferred pastime of both spouses .
+However , the highest out- come , 120 , is only obtained when the partner selects his or her nonpreferred pastime ( X ) .
+Maximization of outcomes in the BOS matrix requires coordinated alternation between the cells in the lower left to upper right diagonal .
+Such alternation guarantees that the spouses are always together , but take turns attending their preferred event .
+For the BOS matrix in Figure 1 , r .80 and JC 60.2 Leader The classic example of the Leader matrix relates to the decisions made by two motorists stopped at an intersection ( Colman , 1995 ) .
+If both simultaneously pull out into the intersection , a collision will occur .
+If both wait for the other to pull out , they face an indefinite delay .
+However , if one proceeds into the intersection while the other waits , the person pulling out first gains the highest outcome , while the waiting motorist , or “ leader , ” receives the second highest outcome .
+In Figure 1 , X represents waiting whereas Y represents proceeding into the intersection .
+As in BOS , outcomes can be maximized through coordinated alternation .
+For the Leader matrix in Figure 1 , r .80 and JC 60 .
+The presence of a large JC component in BOS and Leader introduces a complexity regarding how to score the choices for cooperation , or competition , when cooperation occurs through coordinated alternation of the X and Y choices .
+Note from Figure 1 that , if the two players alternate X and Y choices rather than make mutual X choices , outcomes are reduced with the PDG , remain the same with Chicken , but are increased with BOS and Leader .
+In the past , we have noticed occasional instances of such alternation with the PDG and , consistent with participants ’ obvious intent , have scored sequences as cooperation if this alternation was explicitly agreed upon and conformed to .
+We followed the same procedure in the present research .
+Experiment 1 Expectations and Possible Transformation of Motivation In Experiment 1 , we contrasted interindividual and intergroup interactions in the context of the Figure 1 matrices .
+For the PDG , we expected to replicate the discontinuity effect .
+In the present context , the PDG provides a meaningful baseline for assessing the magnitude of the discontinuity effect in the domain of correspon- dent outcomes .
+But what did we predict for the Chicken matrix ?
+The Chicken matrix resembles the PDG , but unlike the PDG , selection of the competitive choice by both players results in the lowest possible outcomes ( analogous to a head-on collision ) , and therefore both players have a shared interest in coordinating their actions so as to avoid this disastrous scenario .
+Because the grave risk associated with competition should be evident to both indi- viduals and groups , there should be no discontinuity effect .
+Still , Kelley and Thibaut ( 1978 ) argued that the matrix which is “ given ” in the experimental situation may be transformed to an “ effective ” matrix that actually controls behavior .
+In a chapter for which Norbert Kerr had major responsibility , Kelley et al .
+( 2003 ) proposed that two concerns that might produce a competitive “ death-before-dishonor ” transformation of the “ given ” Chicken matrix are “ a strong preference to do better than the other , or .
+.
+.
+a strong aversion to doing less well than the other ” ( p. 205 ) .
+Kelley et al .
+( 2003 ) go on to observe , consistent with existing explana- tions of the discontinuity effect , that one circumstance that may create a relativistic orientation is an intergroup context as opposed to an interindividual context ( Bornstein , Budescu , & Zamir , 1997 ; 2 In Figure 1 , the four matrices have been constructed so that the Y choice always yields a higher average outcome than the X choice ( as in the case of the PDG and BOS ) or an equal outcome to the X choice ( as in the case of Chicken and Leader ) .
+However , the BOS matrix is sometimes constructed so that the X choice yields the higher average outcome ( e.g. , Colman , 1995 ) .
+From our perspective , this difference is not important .
+As Rapoport and Guyer ( 1966 ) point out , matrices with reversed X and Y choices are equivalent .
+482 WOLF , INSKO , KIRCHNER , AND WILDSCHUT Bornstein & Gilula , 2003 ) .
+Thus , even though the “ given ” Chicken matrix has a positive r , the effective Chicken matrix may , in the case of groups , have a negative r. Assuming that the intergroup context promotes a competitive , death-before-dishonor transfor- mation of the given Chicken matrix , we would expect to detect a discontinuity effect .
+Might the relatively greater concern in the intergroup context with doing better and not doing worse than others also spark intergroup competition in the context of BOS and Leader ?
+It is possible , but there is a critical difference between Chicken , on the one hand , and BOS and Leader , on the other .
+Both BOS and Leader have a high positive correlation and a sizeable JC compo- nent , implying that , unlike with Chicken , the players can jointly achieve the highest possible outcomes across trials by coordinated alternation of X and Y choices .
+As both groups and individuals receive ample time to study the matrices , the alternation advantage should be equally obvious to both individuals and groups .
+This line of reasoning is consistent with evidence that direct self- enhancement can be constrained when it is perceived to interfere with the attainment of other valued outcomes ( Sedikides & Strube , 1997 ) .
+Planned Contrasts In addition to gender , Experiment 1 included a four-level matrix variable ( PDG vs. Chicken vs. BOS vs. Leader ) and an individuals versus groups variable .
+The expected Individuals Versus Groups Matrix interaction was partitioned with three orthogonal contrasts on the matrix variable .
+The first contrast compared PDG and Chicken pooled with BOS and Leader pooled .
+The second contrast compared PDG with Chicken .
+Finally , the third contrast compared BOS with Leader .
+We expected the interaction between the indi- vidual versus groups manipulation and the first contrast ( PDG and Chicken pooled vs. BOS and Leader pooled ) to be significant , such that the discontinuity effect would be stronger for PDG and Chicken pooled than for BOS and Leader pooled .
+We did not expect a significant interaction between the individuals versus groups manipulation and the third contrast ( BOS vs. Leader ) because it should be equally clear to individuals and groups that they can achieve the highest possible outcomes by coordinated alternation .
+Finally , we were uncertain about the interaction be- tween the individuals versus groups manipulation and the second contrast ( PDG vs. Chicken ) .
+If only some of the group members made the competitive , death-before-dishonor transformation of the given Chicken matrix , the discontinuity effect should be stronger with the PDG than with Chicken , and hence , the interaction would be significant .
+However , if all or nearly all group members were to make this transformation , the interaction should not be significant .
+Method Participants Participants were 418 introductory psychology students ( 180 men , 238 women ) at the University of North Carolina at Chapel Hill .
+Participation fulfilled a course requirement .
+Independent Variables The experimental design included three between-subject vari- ables .
+Two of these variables were manipulated .
+The first manip- ulation was individuals versus groups .
+Interactions involved either 2 individuals or two 3-person groups .
+The second manipulation was matrix type .
+Figure 1 depicts the PDG , Chicken , Leader , and BOS matrices as used in the intergroup condition .
+In the interin- dividual condition , matrix values were divided by 3 .
+The third factor was gender .
+Experimental sessions involved either women or men .
+Procedure On arrival , participants drew index cards labeled “ A ” or “ B ” to determine their room assignments .
+In the individuals condition , 1 participant was assigned to room “ A ” and one was assigned to room “ B. ” In the groups condition , 3 participants were assigned to each room .
+Both rooms were connected to a larger central room .
+Before beginning the actual trials , participants were given instruc- tions regarding the relevant matrix and completed an exercise assessing their understanding of the matrix .
+After participants completed these exercises , the experimenter checked the answers , pointed out and corrected any mistakes , and answered any addi- tional questions .
+Participants were led to expect that there would be between six and eight trials , but only five trials were actually conducted .
+This was done to ensure that participants remained unaware of when the final trial would occur .
+Each trial involved an ordered sequence of 30-s steps .
+First , players were given 30 s to look over the matrix .
+Second , individuals , or group representatives , met for 30 s at a table in the central room .
+They were told that they could discuss anything about the matrix they wished .
+Third , individuals or group representatives returned to their homerooms where individuals or groups were given 30 s to record a decision .
+The experimenter then collected the decisions and dispensed the payoffs before beginning the next trial .
+After the fifth trial , the experimenter distributed a postexperimental questionnaire to each participant .
+Dependent Variables The main dependent variable was the proportion of corrected competitive choices .
+These were Y choices that were not accom- panied by an agreement to alternate X and Y choices .
+Such agreements were observed and recorded by the experimenter .
+Cooperative alternation was defined as the stated intention of an interacting party to alternate choices on subsequent trials with the expectation that the other side would do the same .
+For instance , if side A picked X on the first trial with the expectation that side B would choose Y , and these intentions were explicitly stated during the communication period , then the decisions of both sides were coded as corrected cooperation .
+The initial question on the postexperimental questionnaire asked participants whether their group ( or she or he ) had chosen X or Y on any of the trials and , if so , to indicate why they had done so .
+Two judges coded the open-ended responses for the following five possibilities : ( a ) concern for maximizing absolute outcomes ( max own ; e.g. , “ We chose ‘ Y ’ because we wanted to get the maximum amount of money ” ) ; ( b ) concern for maximizing the joint out- comes of both players ( max joint ; e.g. , “ We chose ‘ X ’ to maximize the amount of money both groups would earn ” ) ; ( c ) concern for minimizing the difference in outcomes between the players ( min dif ; e.g. , “ I chose ‘ X ’ because then both of us would receive the 483DISCONTINUITY EFFECT same amount ” ) ; ( d ) concern for maximizing relative outcomes ( max rel ; e.g. , “ We chose ‘ Y ’ to get more money than them ” ) ; and ( e ) distrust ( e.g. , “ We chose ‘ Y ’ because we didn ’ t trust them to pick X ” ) .
+Spearman-Brown corrected interrater reliabilities ex- ceeded .82 , and ratings were averaged across the two judges .
+The open-ended responses also provided an additional check on the presence of coordinated alternation .
+In each session in which cooperative alternation was detected by the experimenter , partici- pants ’ written responses corroborated this observation .
+Next , participants completed a 10-item questionnaire compris- ing two items to assess each of the five above-described choice reasons .
+For example , in the groups condition , max rel was as- sessed with the following items : “ I wanted my group to earn more than the other group ” and “ I wanted to maximize the differences between the groups in my group ’ s favor. ” Items were rated on a 7-point scale ( 1 not at all ; 7 very much ) .
+Spearman-Brown corrected reliabilities exceeded .77 .
+The coded open-ended re- sponses and the item ratings were standardized to create a common metric ( z scores ) and then averaged to create composite scores .
+Reliability coefficients for these composites exceeded .83 .
+The postexperimental questionnaire included three final ques- tions to assess participants ’ cognitive representations of the aggre- gate of participants ( S. L. Gaertner et al. , 1999 ) .
+Participants rated the extent to which the participants in the session were one group ( “ To what extent did you feel like the [ two/six ] participants who participated in today ’ s experiment were members of one group ? ” ) , two groups ( “ To what extent did it feel like the [ two/six ] partici- pants who participated in today ’ s experiment were members of two separate groups ? ” ) , and separate individuals ( “ To what extent did it feel like the [ two/six ] participants in today ’ s experiment were separate individuals ? ” ) .
+Items were rated on a 7-point scale ( 1 not at all ; 7 very much ) .
+Unit of Analysis Because the responses of two interacting individuals or two interacting groups were not independent , the experimental session was treated as the unit of analysis .
+There were 53 individual sessions and 52 group sessions .
+Results Proportion of Corrected Competitive Choices Means for the proportion of corrected competitive choices are given in the first row of Table 1 .
+( Although mathematically im- plied , the proportions of corrected cooperative choices are given in the second row . )
+An Individuals Versus Groups Matrix Gender analysis of variance ( ANOVA ) revealed significant main effects for individuals versus groups , F ( 1 , 89 ) 21.11 , p .01 , d 0.97 , and matrix type , F ( 3 , 89 ) 4.16 , p .01 .
+These main effects were qualified , however , by a significant Individuals Ver- sus Groups Matrix interaction , F ( 3 , 89 ) 5.38 , p .01 .
+This interaction was examined in greater detail by testing the interaction of the individuals versus group manipulation with each of the above-described contrasts on the matrix manipulation .
+These anal- yses revealed a significant Individuals Versus Groups PDG and Chicken Pooled Versus BOS and Leader Pooled interaction , F ( 1 , 89 ) 10.30 , p .01 , d 0.68 .
+Tests of simple effects showed that the tendency for groups to be more competitive than individ- uals was significant with PDG and Chicken pooled , F ( 1 , 89 ) 31.24 , p .01 , d 1.18 , and not significant with BOS and Leader pooled , F ( 1 , 89 ) 0.94 , p .34 , d 0.21 .
+There was also a significant Individuals Versus Groups PDG Versus Chicken interaction , F ( 1 , 89 ) 4.58 , p .05 , d 0.45 .
+Tests of simple effects revealed that the tendency for groups to be more competitive than individuals was significant with PDG , F ( 1 , 89 ) 29.50 , p .01 , d 1.15 , and that the smaller effect with Chicken was also significant , F ( 1 , 89 ) 6.02 , p .05 , d 0.52.3 Finally , the Individuals Versus Groups BOS Versus Leader interaction was nonsignificant , F ( 1 , 89 ) 1.49 , p .23 , d 0.26.4 To summarize , the magnitude of the discontinuity effect varied as a function of matrix type .
+The discontinuity effect was signif- icant for PDG and Chicken but not for BOS and Leader .
+Proportion of Alternation Choices Mean proportions of alternation choices are presented in the third row of Table 1 .
+An Individuals Versus Groups Matrix 3 We also explored the significant interactions by testing the matrix contrasts separately for individuals and groups .
+These tests of simple effects indicated that the difference between PDG and Chicken pooled and BOS and Leader pooled was not significant for individuals but was significant for groups .
+For groups , there was more competition with PDG and Chicken than with BOS and Leader .
+Furthermore , we found that the difference between PDG and Chicken was not significant for individuals but was significant for groups .
+For groups , there was more competition with PDG than with Chicken .
+4 Descriptively , the discontinuity effect was larger in the Leader than the BOS condition .
+However , the comparatively high mean of .15 for groups in the Leader condition was almost entirely due to an atypical session in which a female group competed at a rate of .90 .
+Table 1 Experiment 1 : Mean Proportion of Corrected Competitive , Corrected Cooperative , and Alternation Choices Choice PDG Chicken Leader BOS Individual Group Individual Group Individual Group Individual Group Corrected competitive .00 .41 .02 .22 .01 .15 .03 .02 Corrected cooperative 1.00 .59 .98 .78 .99 .85 .97 .98 Alternation .09 .06 .15 .10 .97 .80 .95 .93 Note .
+Alternation proportions are included in the Corrected cooperative proportions .
+PDG Prisoner ’ s Dilemma Game ; BOS Battle of the Sexes .
+484 WOLF , INSKO , KIRCHNER , AND WILDSCHUT Gender ANOVA resulted in a main effect for matrix type only , F ( 3 , 89 ) 124.49 , p .01 .
+Tests of orthogonal contrasts revealed a significant difference between PDG and Chicken pooled and BOS and Leader pooled , F ( 1 , 89 ) 372.13 , p .01 , d 4.09 , but no significant difference between PDG and Chicken or between BOS and Leader .
+For both groups and individuals , alternating choices occurred more frequently with BOS and Leader than with PDG and Chicken .
+Choice Reasons Because analyses of the coded and questionnaire-based assess- ments of choice reasons revealed similar results , we report only the analyses for the z-score composites .
+Relevant means are presented in Table 2 .
+Max own .
+An ANOVA of max own resulted in a significant main effect of individuals versus groups only , F ( 1 , 89 ) 6.41 , p .05 , d 0.54 .
+Groups reported more max own than did individuals .
+Max joint .
+For max joint , there was a significant main effect of individuals versus groups , F ( 1 , 89 ) 29.25 , p .01 , d 1.15 , which was qualified by a significant Individuals Versus Groups Matrix interaction , F ( 3 , 89 ) 5.43 , p .01 .
+Further examination of this interaction revealed a significant Individu- als Versus Groups PDG Versus Chicken interaction only , F ( 1 , 89 ) 10.81 , p .01 , d 0.70 .
+Tests of simple effects revealed that the tendency for individuals to report more max joint than groups was significant with PDG , F ( 1 , 89 ) 34.46 , p .01 , d 1.24 , but not significant with Chicken , F ( 1 , 89 ) 1.60 , p .21 , d 0.27 .
+Min dif .
+An ANOVA of min dif revealed significant main effects for individuals versus groups , F ( 1 , 89 ) 13.88 , p .01 , d 0.79 , matrix type , F ( 3 , 89 ) 3.47 , p .05 , and gender , F ( 1 , 89 ) 8.51 , p .01 , d 0.62 .
+Individuals reported more min dif than groups reported , and women reported more min dif than men reported .
+Relevant to the main effect of matrix type , there was a significant PDG versus Chicken contrast only , F ( 1 , 89 ) 7.06 , p .01 , d 0.56 .
+Participants reported more min dif with Chicken than with PDG .
+Max rel .
+For max rel , there were significant main effects for individuals versus groups , F ( 1 , 89 ) 44.92 , p .01 , d 1.42 , and matrix type , F ( 3 , 89 ) 4.21 , p .01 .
+These main effects were qualified by a significant Individuals Versus Groups Matrix interaction , F ( 3 , 89 ) 3.04 , p .05 .
+Further examination of this interaction revealed a significant Individuals Versus Groups PDG and Chicken Pooled Versus BOS and Leader Pooled inter- action , F ( 1 , 89 ) 4.04 , p .05 , d 0.43 .
+Tests of simple effects showed that the tendency for groups to report more max rel than individuals was significant with PDG and Chicken pooled , F ( 1 , 89 ) 38.94 , p .01 , d 1.32 , and that the smaller effect with BOS and Leader pooled was also significant , F ( 1 , 89 ) 10.73 , p .01 , d 0.69 .
+There was also a significant Individuals Versus Groups PDG Versus Chicken interaction , F ( 1 , 89 ) 4.44 , p .05 , d 0.45 .
+Tests of simple effects revealed that the tendency for groups to report more max rel than individuals was significant with PDG , F ( 1 , 89 ) 34.40 , p .01 , d 1.24 , and that the smaller effect with Chicken was also significant , F ( 1 , 89 ) 8.66 , p .01 , d 0.62.5 Distrust .
+An ANOVA of distrust revealed significant main effects of individuals versus groups , F ( 1 , 89 ) 88.35 , p .01 , d 1.99 , and matrix type F ( 3 , 89 ) 12.39 , p .01 .
+These main effects were qualified by a significant Individuals Versus Groups Matrix interaction , F ( 3 , 89 ) 10.55 , p .01 .
+Further examination of this interaction revealed a significant Individuals Versus Groups PDG and Chicken Pooled Versus BOS and Leader Pooled interaction , F ( 1 , 89 ) 21.49 , p .01 , d 0.98 .
+Tests of simple effects indicated that the tendency for groups to report more distrust than individuals reported was significant with PDG and Chicken pooled , F ( 1 , 89 ) 101.04 , p .01 , d 2.13 , and that the smaller effect with BOS and Leader pooled was also significant , F ( 1 , 89 ) 11.07 , p .01 , d 0.71 .
+The Individuals Versus Groups PDG versus Chicken inter- action was also significant , F ( 1 , 89 ) 9.96 , p .01 , d 0.67 .
+Tests of simple effects revealed that the tendency for groups to report more distrust than individuals was significant with PDG , F ( 1 , 89 ) 86.14 , p .01 , d 1.97 , and that the smaller effect 5 The ANOVA resulted in one more significant effect : the Individuals Versus Groups Matrix Gender interaction , F ( 3 , 89 ) 4.44 , p .01 .
+The tendency for groups , relative to individuals , to report more max rel when interacting in the context of the PDG than when interacting in the context of Chicken was larger for women than for men .
+Table 2 Experiment 1 : Mean Max Own , Max Joint , Min Dif , Max Rel , and Distrust Scores Reason PDG Chicken Leader BOS Individual Group Individual Group Individual Group Individual Group Max own .42 .13 .40 .05 .13 .30 .24 .29 Max joint .74 .70 .04 .36 .41 .41 .28 .09 Min dif .27 .46 .67 .08 .14 .45 .10 .18 Max rel .55 .86 .24 .79 .60 .19 .50 .02 Distrust .58 1.35 .34 .76 .65 .01 .54 .12 Note .
+Means are standardized composite scores derived from coded open-ended responses and item ratings .
+Max own concern for maximizing absolute outcome ; max joint concern for maximizing the joint outcomes of both players ; min dif concern for minimizing the differences in outcomes between players ; max rel concern for maximizing relative outcomes ; PDG Prisoner ’ s Dilemma Game ; BOS Battle of the Sexes .
+485DISCONTINUITY EFFECT with Chicken was also significant , F ( 1 , 89 ) 24.08 , p .01 , d 1.04.6,7 Mediation by Choice Reasons We conducted mediation analyses for the significant Individuals Versus Groups PDG and Chicken Pooled Versus BOS and Leader Pooled interaction as well as for the significant Individuals Versus Groups PDG Versus Chicken interaction .
+Individuals versus groups interaction with PDG and Chicken pooled versus BOS and Leader pooled .
+As reported above , the finding of a larger discontinuity effect with PDG and Chicken pooled than with BOS and Leader pooled was tracked by max rel and distrust .
+Tests for heterogeneity of regression were not signif- icant for either choice reason , qualifying each as a potential me- diator .
+When we added max rel as a covariate to the Individuals Versus Groups Matrix Gender ANOVA of competition , the critical Individuals Versus Groups PDG and Chicken Pooled Versus BOS and Leader Pooled interaction was reduced in mag- nitude—from F ( 1 , 89 ) 10.30 , d 0.68—but remained signif- icant , F ( 1 , 88 ) 6.10 , p .05 , d 0.53 .
+The predicted positive association of max rel with competition was significant , B 0.13 , SE 0.02 , F ( 1 , 88 ) 30.80 , p .01 .
+We tested the indirect effect through max rel by calculating z ’ .
+The critical value ( .05 ) for this statistic is 0.97 ( MacKinnon , Lockwood , Hoffman , West , & Sheets , 2002 ) .
+The indirect effect through max rel was significant , z ’ 1.94 , p .01 .
+These findings are consistent with the possi- bility that the greater discontinuity effect with PDG and Chicken than with BOS and Leader flowed from a particularly strong concern for maximizing relative outcomes among PDG and Chicken groups ( relative to BOS and Leader groups ) .
+A parallel analysis for distrust revealed that , after entering distrust as a covariate , the Individuals Versus Groups PDG and Chicken Pooled Versus BOS and Leader Pooled interaction was no longer significant , F ( 1 , 88 ) 0.13 , p .75 , d 0.08 .
+The predicted positive association of distrust with competition was significant , B 0.24 , SE 0.02 , F ( 1 , 88 ) 113.67 , p .01 .
+A test of the indirect effect through distrust was significant , z ’ 3.02 , p .01 .
+These results are consistent with the possibility that the relatively greater discontinuity effect with PDG and Chicken was mediated by particularly strong distrust among PDG and Chicken groups ( compared with BOS and Leader groups ) .8 Individuals versus groups interaction with PDG versus Chicken .
+The finding of a larger discontinuity effect with PDG than with Chicken was tracked by distrust , max rel , and max joint .
+However , simple-effect tests for max rel and max joint revealed data patterns that did not map onto competition .
+Hence , we further explored the mediating role of distrust only .
+When distrust was added as a covariate , the Individuals Versus Groups PDG Versus Chicken interaction was no longer significant , F ( 1 , 88 ) 0.11 , p .74 , d 0.07 , and the predicted positive association of distrust with competition was significant , B 0.24 , SE 0.02 , F ( 1 , 88 ) 113.67 , p .01 .
+A test of the indirect effect through distrust was significant ( z ’ 3.07 , p .01 ) .
+These findings suggest that the greater discontinuity effect with the PDG than with Chicken was mediated by the relatively greater distrust of groups interacting in the PDG context .
+Perceived Categorization One group .
+An ANOVA of one-group ratings resulted in significant main effects for individuals versus groups , F ( 1 , 89 ) 44.53 , p .01 , d 1.41 , and matrix type , F ( 3 , 89 ) 3.33 , p .05 .
+These were qualified by a significant Individuals Versus Groups Matrix interaction , F ( 3 , 89 ) 4.91 , p .01 .
+Relevant means are presented in Table 3 .
+Further examination of the inter- action revealed , first of all , a significant Individuals Versus Groups PDG and Chicken Pooled Versus BOS and Leader Pooled interaction , F ( 1 , 89 ) 6.19 , p .01 , d 0.53 .
+Tests of simple effects indicated that the tendency for individuals to have higher one-group ratings than groups was significant with PDG and Chicken pooled , F ( 1 , 89 ) 43.05 , p .01 , d 1.39 , and that the smaller effect with BOS and Leader pooled was also signifi- cant , F ( 1 , 89 ) 8.54 , p .01 , d 0.62 .
+There was also a significant Individuals Versus Groups PDG Versus Chicken interaction , F ( 1 , 89 ) 4.12 , p .05 , d 0.43 .
+Tests of simple effects revealed that the tendency for individuals to have higher one-group ratings than did groups was significant with 6 The ANOVA resulted in one more significant effect , the Individuals Versus Groups Matrix Gender interaction , F ( 3 , 89 ) 3.59 , p .05 .
+The tendency for groups , relative to individuals , to report more distrust when interacting in the context of the PDG than when interacting in the context of Chicken was larger for men than for women .
+7 In supplementary analyses , we explored significant interactions by testing the matrix contrasts separately for individuals and groups .
+For max joint , these tests of simple effects revealed , unexpectedly , that the differ- ence between PDG and Chicken was significant for individuals but not for groups .
+For individuals , max joint was higher with PDG than with Chicken .
+For max rel , we found that the difference between PDG and Chicken pooled and BOS and Leader pooled was not significant for individuals but was significant for groups .
+For groups , max rel was higher with PDG and Chicken than with BOS and Leader .
+Furthermore , the difference in max rel between PDG and Chicken was significant for individuals but not for groups .
+For individuals , max rel was higher with Chicken than with PDG .
+For distrust , we found that the difference between the PDG and Chicken pooled and BOS and Leader pooled was not significant for individuals but was significant for groups .
+For groups , distrust was higher with PDG and Chicken pooled than with BOS and Leader pooled .
+Finally , we found that that the difference in distrust between PDG and Chicken was not signifi- cant for individuals but was significant for groups .
+For groups , distrust was higher with PDG than with Chicken .
+8 These mediation analyses examined distrust and max rel separately rather than simultaneously .
+We took this approach because distrust and max rel were highly correlated ( .83 ) .
+J. Cohen , Cohen , West , and Aiken ( 2003 ) have indicated that when possible mediators are highly correlated “ the results of a simultaneous regression of such a set of variables that ignores their multicollinearity will necessarily be misleading ” ( 2003 , p. 98 ) .
+They go on to point out that it may be helpful to conceptualize highly correlated variables as a single variable .
+As suggested previously , this can be done for the assessments of distrust and max rel .
+If max rel is the concern with getting ahead , and distrust is the concern with not falling behind , then it is arguable that distrust and max rel are opposite sides of the same coin .
+Of course , distrust could also reflect concern with losing outcomes in an absolute sense , but the high correlation with max rel ( r .83 ) relative to the correlation with max own ( r .22 ) indicates that distrust related more to relative than absolute loss of outcomes .
+In any event , when we entered max rel and distrust simultaneously into a medi- ation analysis , there were significant indirect effects on competition through both max rel ( z ’ 1.09 , p .05 ) and distrust ( z ’ 3.73 , p .01 ) .
+486 WOLF , INSKO , KIRCHNER , AND WILDSCHUT PDG , F ( 1 , 89 ) 36.45 , p .01 , d 1.28 , and that the smaller effect with Chicken was also significant , F ( 1 , 89 ) 10.40 , p .01 , d 0.68 .
+Finally , there was a significant Individuals Versus Groups BOS Versus Leader interaction , F ( 1 , 89 ) 4.65 , p .05 , d 0.46 .
+Tests of simple effects revealed that the tendency for indi- viduals to have higher one-group ratings than did groups was significant with Leader , F ( 1 , 89 ) 13.14 , p .01 , d 0.77 , but not with BOS , F ( 1 , 89 ) 0.29 , p .60 , d 0.11 .
+Two groups .
+An ANOVA of two-groups ratings revealed sig- nificant main effects for individuals versus groups , F ( 1 , 89 ) 85.51 , p .01 , d 1.96 , and matrix type , F ( 1 , 89 ) 3.63 , p .05 .
+These were qualified by a significant Individuals Versus Groups Matrix interaction , F ( 1 , 89 ) 4.09 , p .01 , d 0.43 ( see Table 3 ) .
+Further examination of this interaction revealed a significant Individuals Versus Groups BOS Versus Leader interaction only , F ( 1 , 89 ) 7.08 , p .01 , d 0.56 .
+Tests of simple effects indicated that the tendency for groups to have higher two-groups ratings than individuals was significant with Leader , F ( 1 , 89 ) 32.25 , p .05 , d 1.20 , and that the smaller effect with BOS was marginal , F ( 1 , 89 ) 3.41 , p .07 , d 0.39 .
+Separate individuals .
+An ANOVA of separate-individuals rat- ings revealed significant main effects for individuals versus groups , F ( 1 , 89 ) 21.66 , p .01 , d 0.99 , and matrix type , F ( 3 , 89 ) 2.92 , p .05 ( see Table 3 ) .
+Separate-individuals ratings were higher for individuals than they were for groups and higher with PDG and Chicken pooled than they were with BOS and Leader pooled , F ( 1 , 89 ) 4.72 , p .05 , d 0.46.9 Mediation by Perceived Categorization Mediation analyses were conducted for one-group ratings only , because neither two-group ratings nor separate-individuals ratings tracked choice behavior .
+As reported above , analysis of one-group ratings revealed significant interactions of the individuals versus groups manipulation with all three planned contrasts on the matrix manipulation .
+However , for groups , the only significant simple effect was for the contrast between PDG and Chicken pooled versus BOS and Leader pooled ( see Footnote 9 ) .
+Consequently , mediation analyses were restricted to the interaction of the indi- viduals versus groups manipulation with this particular contrast .
+When the one-group ratings were entered as a covariate to the Individuals Versus Groups Matrix Gender ANOVA of com- petition , the Individuals Versus Groups PDG and Chicken Versus BOS and Leader interaction was reduced—from F ( 1 , 89 ) 10.30 , p .01 , d 0.68—but remained significant , F ( 1 , 88 ) 4.31 , p .05 , d 0.44 .
+The predicted negative association between one-group ratings and competition was significant , B 0.10 , SE 0.02 , F ( 1 , 88 ) 46.48 , p .01 .
+A test of the indirect effect through the one-group ratings was significant ( z ’ 2.24 , p .01 ) .
+These findings are consistent with the possibility that the discontinuity effect is reduced in strong coordination situations , like BOS and Leader , because such situations lead group members to conceive of the interacting groups as being part of a single , superordinate group .
+Discussion Experiment 1 found that the discontinuity effect occurred with PDG and Chicken but not with BOS and Leader .
+Why was there no significant discontinuity effect with Leader and BOS ?
+First , note that the large JC component implied that both groups and individuals could maximize outcomes through coordinated alter- nation .
+Second , note that the large positive r between the players ’ outcomes across the four cells of the matrix should have reduced the potential conflict of interest that is arguably more salient for groups than for individuals .
+In fact , a computer simulation of the PDG , Chicken , Leader , and BOS matrices by Browning and Col- man ( 2004 ) found substantial alternation for Leader and BOS but not for PDG and Chicken .
+The present alternation results provide the first empirical support with actual participants for Kelley and Thibaut ’ s ( 1978 ) emphasis on the distinction between exchange situations and coordination situations , and the results do justify the association of their theory with an “ interdependence ” label as opposed to just an “ exchange ” label .
+Alternation , or turn taking , occurred more frequently with Leader and BOS than with PDG and Chicken .
+Given that with 9 In supplementary analyses , we explored significant interactions by testing the matrix contrasts separately for individuals and groups .
+For one-group ratings , these tests of simple effects showed that the difference between PDG and Chicken pooled and BOS and Leader pooled was not significant for individuals but was significant for groups .
+For groups , one-group ratings were higher with Leader and BOS than they were with PDG and Chicken , F ( 1 , 89 ) 15.31 , p .01 .
+Furthermore , the difference in one-group ratings between PDG and Chicken was not significant for groups and was marginal for individuals .
+For individuals , the descriptive pattern indicated higher one-group ratings with PDG than with Chicken .
+Finally , the difference in one-group ratings between BOS and Leader was not significant for individuals , and marginal for groups .
+For groups , the descriptive pattern indicated higher one-group ratings with BOS than with Leader .
+For two-group ratings , the difference between BOS and Leader was not significant for individuals but was significant for groups .
+For groups , two-groups ratings were higher with Leader than with BOS .
+Table 3 Experiment 1 : Perceived Categorization Ratings of One Group , Two Groups , and Separate Individuals Representation PDG Chicken Leader BOS Individual Group Individual Group Individual Group Individual Group One group 6.23 3.58 5.38 4.00 6.18 4.50 5.65 5.38 Two groups 1.92 5.20 2.92 5.10 1.75 4.63 2.54 3.48 Separate individuals 3.23 2.44 4.35 2.44 3.14 2.51 2.88 2.21 Note .
+Scores derived from ratings of 1 ( not at all ) to 7 ( very much ) .
+PDG Prisoner ’ s Dilemma Game ; BOS Battle of the Sexes .
+487DISCONTINUITY EFFECT Leader and BOS both groups and individuals could increase their absolute outcomes to a greater extent by turn taking than by being competitive , these results are , from an interdependence theory perspective , not unexpected .
+However , the results become more interesting when viewed as contrary to a possible perspective of assumed , relativistic social comparison .
+Tajfel ( 1978 ) , for exam- ple , advocated such a perspective : The characteristics of one ’ s group as a whole ( such as its status , its richness or poverty , its skin colour or its ability to reach its aims ) achieve most of their significance in relation to perceived differences from other groups and the value connotation of these differences .
+For example , economic deprivation acquires its importance in social atti- tudes , intentions and actions mainly when it becomes “ relative depri- vation. ” ( p. 66 ) A few years later Tajfel and Turner ( 1986 ) characterized data from mere-categorization research as consistent with this perspec- tive : The data suggest that larger absolute gains that did not establish a difference in favour of the in-group were sacrificed for smaller com- parative gains , when the two kinds of gains were made to conflict ( p. 17 ) .
+Of course Tajfel ( 1978 ) and Tajfel and Turner ( 1986 ) did not imply that absolute gains were unimportant , just that they were less important than relative gains .
+The present data , however , indicate that in situations with large JC , like Leader and BOS , relative gains are not more important than absolute gains .
+That is , our findings indicate that the relativistic perspective is not universally applica- ble .
+We , in fact , regard it as fortunate that there are situations in which groups cooperate and get along quite well .
+Given the two above-described reasons for a nonsignificant discontinuity effect for Leader and BOS , it is intriguing that there was a significant discontinuity effect for Chicken .
+The Chicken matrix does contain a JC component , although smaller than the JC component for Leader and BOS ( 30 vs. 60 and 60 , respectively ) , and does have a positive r , although smaller than the r for Leader and BOS ( .20 vs. .80 and .80 , respectively ) .
+Note , however , that these indices are for the experimentally given matrix and that a concern with winning or not losing might reverse the 30 and 60 outcomes in the Figure 1 Chicken matrix .
+Such a transformation would produce an effective matrix like the Figure 1 PDG with its 0 interaction and negative r. The choice results are consistent with the possibility that some of the groups were sufficiently concerned with relative standing , superiority , or even honor to make such a transformation .
+Furthermore , the mediation analyses provided circumstantial support for the argument that at least some of the groups trans- formed the Chicken matrix to a matrix that was more like the PDG .
+We obtained evidence consistent with the possibility that the greater discontinuity effect with the PDG and Chicken matrices than the Leader and BOS matrices was mediated by more max rel ( or concern with winning ) and highly correlated distrust ( or con- cern with not losing ) for the PDG and Chicken groups than for Leader and BOS groups ( relative to individuals ) .
+These results suggest , perhaps , that with Chicken the given matrix is trans- formed into an effective matrix by a concern with obtaining honor and avoiding dishonor .
+We find the results for perceived categorization particularly important because they indicate that sets of people can forgo relativistic , intergroup social comparisons even when they do regard themselves as members of two groups .
+Groups interacting in the context of PDG and Chicken were more competitive than those interacting in the context of BOS and Leader .
+Furthermore , relative to PDG and Chicken conditions , group members in the BOS and Leader conditions were more likely to perceive the 6 participants in the session as one group .
+However , group members in the BOS and Leader conditions did not significantly differ from those in the PDG and Chicken conditions in perceiving the 6 participants in the session as two groups .
+An implication is that those social psychologists , beginning with McDougall ( 1920 ) , who have emphasized the relativistic orientation of groups to each other , have thought of groups primarily as exchange groups and not as coordination groups .
+Our results point to the importance of the distinction between the two types of contexts , as originally proposed in Kelley and Thibaut ’ s ( 1978 ) interdependence theory .
+The evidence that the perception of two groups occurred with the Leader and BOS matrices , and yet the levels of cooperation with these matrices was markedly high , is consistent with Park and Judd ’ s ( 2005 ) observation that “ there may be conditions under which it is possible to both see groups as distinct from one another , and yet not show heightened levels of intergroup bias ” ( pp .
+123– 124 ) .
+Park and Judd took exception to the assumption that strong category boundaries increase intergroup bias .
+Park and Judd ’ s ( 2005 ) argument has an interesting parallel with the S. L. Gaertner and Dovidio ( 2000 ) common in-group identity model , which approaches the reduction of intergroup bias , not by reducing the perception of two groups , but by promoting the perception of one common group .
+We , furthermore , find it inter- esting that S. L. Gaertner and Dovidio specifically mentioned “ intergroup interdependence ” as one cause of “ individuals ’ cogni- tive representations of the aggregate ” ( p. 11 ) .
+Both Park and Judd ( 2005 ) and S. L Gaertner and Dovidio endorsed a multicultural perspective .
+Such a perspective , and the common in-group identity model , are consistent with the present finding that although the tendency to perceive two groups was not significantly weaker with the Leader and BOS matrices than with the PDG and Chicken matrices , the tendency to perceive one group was stronger with the Leader and BOS matrices .
+Furthermore , the mediation analysis revealed evidence consistent with mediation of the lesser compet- itiveness of the Leader and BOS groups than of the PDG and Chicken groups ( relative to individuals ) by the perception of one group .
+The fact that we obtained such evidence in addition to the evidence consistent with mediation by max rel and distrust raises the interesting possibility that these perceptions of one group and relativistic concern are linked in an extended causal chain .
+One possibility is that the opportunity afforded by BOS and Leader to maximize outcomes through coordinated alternation gave rise to stronger perceptions of one group , which in turn produced the reduction in relativistic concern that then led to reduced intergroup competition .
+Unfortunately , the available evidence does not enable causal inference of this sort , but we do believe that this is an interesting direction for future research .
+What the present evidence does not give us is an indication of the relative frequencies of exchange situations ( with a lesser per- ception of one group ) and coordination situations ( with a greater perception of one group ) .
+Indirect evidence for the relatively high 488 WOLF , INSKO , KIRCHNER , AND WILDSCHUT frequency of exchange contexts in nonlaboratory situations comes from the diary studies of Pemberton et al .
+( 1996 ) .
+Recorded interactions between groups were perceived as more competitive than were recorded interactions between individuals .
+Furthermore , after the final diaries had been completed , interactions between groups were recalled as more competitive than they had been initially recorded on the diaries .
+Such evidence suggests that effective exchange situations may be more frequent than coordi- nation situations and possibly accounts for the fact that many social psychologists , starting with McDougall ( 1920 ) , thought of intergroup relations as primarily existing in exchange situations .
+What accounts for the possible high frequency of effective ex- change situations for groups ?
+We do not know , but perhaps the idea that the intergroup situation provides an acceptable context for supporting self-esteem plays a role .
+A further interesting aspect of the results is that the tendency to perceive two groups was higher for groups interacting in the context of Leader than for those interacting in the context of BOS .
+We did not predict this result but can relate its occurrence to the main effect of own choice on own outcomes .
+Kelley et al .
+( 2003 ) refer to this main effect as “ actor control ” ( AC ) .
+With Leader , unlike with BOS , AC is 0 .
+In retrospect , we find it plausible that two interacting sets of people who do not have direct control over their own outcomes might be particularly likely to perceive two groups .
+Experiment 2 Bertrand Russell ( 1959 ) used the game of chicken as a model for nuclear brinkmanship during the Cold War : .
+.
+.
+when the game is played by eminent statesmen , who risk not only their own lives but those of many hundreds of millions of human beings , it is thought on both sides that the statesmen on one side are displaying a high degree of wisdom and courage , and only the statesmen on the other side are reprehensible .
+This , of course , is absurd .
+Both are to blame for playing such an incredibly dangerous game .
+The game may be played without misfortune a few times , but sooner or later it will come to be felt that loss of face is more dreadful than nuclear annihilation .
+( p. 30 ) .
+Fortunately , Russell ’ s ( 1959 ) grim prediction did not come true .
+But why not ?
+The Experiment 1 results indeed suggest that some groups , at least , are willing to risk the low outcomes in the lower right-hand cell of the Chicken matrix in order to avoid a loss of face .
+Perhaps , however , this would not have been the case if the outcomes associated with mutual competition had been even lower .
+Of course , we can not model a situation in which the outcomes involve a loss of life , but we can construct a matrix in which mutual competition results in disproportionately low out- comes .
+A consequence of that change , while remaining consistent with the characteristics of Chicken , is to produce a matrix with a larger main effect of partner ’ s choice on own outcomes , or partner control ( PC ; Kelley et al. , 2003 ) and a larger JC component .
+We find it interesting that MAD does imply that a larger PC and JC would decrease the probability of war .
+Although he did not use the term mutual assured destruction , Henry Kissinger ( 1956 ) wrote an influential article articulating the basic idea .
+Kissinger was primarily concerned with the Cold War relationship between the United States and the Soviet Union and “ how to give effect to the one interest we presumably have in common : that we both wish to avoid all-out thermo-nuclear war ” ( p. 361 ) .
+He , however , did not restrict the argument to just the Cold War , asking “ What statesman who declared war in 1914 would not have recoiled had he known the shape of the world in 1918 ? ” ( p. 359 ) .
+A subsequent article by Albert Wohlstetter ( 1959 ) referred to the “ Balance of Terror ” ( p. 217 ) and the difficulty of achieving such a balance , even though it was “ a crucial objective of national policy ” ( p. 221 ) .
+In 1968 , Robert McNamara referred to “ mutual assured- destruction capability ” ( p. 160 ) , and this language seems to have spawned numerous subsequent references to MAD ( e.g. , Lieber & Press , 2006 ) .
+Two matrices were created for Experiment 2 .
+Figure 2 depicts these matrices as used in the intergroup condition .
+In the interin- dividual condition , matrix values were divided by 3 .
+For the high PC–JC matrix mutual competition results in mutually assured very low outcomes ( 15s in the lower right-hand cell ) , whereas for the low PC-JC matrix , mutual competition results in mutually assured less low outcomes ( 90s in the lower right-hand cell ) .
+Note also that X Y A 120 135 105 90 X Y A 135 195 75 15 High PC-JC MatrixLow PC-JC Matrix Figure 2 .
+Experiment 2 : Chicken matrices with equal indices of correspondence but varying partner control ( PC ) and joint control ( JC ) .
+489DISCONTINUITY EFFECT the index of correspondence was identical for both matrices ( r .20 ) .
+Because the consequences of mutual Y choices are so disas- trous for the high PC–JC matrix , we did not expect either individ- uals or groups to compete with this matrix , but we did expect groups to compete more than individuals with the low PC–JC matrix ( as in Experiment 1 ) .
+Method Participants were 162 introductory psychology students ( 88 men , 74 women ) at the University of North Carolina at Chapel Hill .
+Participation fulfilled a course requirement .
+Experiment 2 was identical to Experiment 1 with one exception .
+Instead of the four matrices used in Experiment 1 , Experiment 2 used two ver- sions of the Chicken matrix .
+There were 21 individual sessions and 20 group sessions .
+Results Proportion of Corrected Competitive Choices Means for the proportion of corrected competitive choices are given in the first row of Table 4 .
+An Individuals Versus Groups Matrix Gender ANOVA resulted in significant main effects for individuals versus groups , F ( 1 , 33 ) 6.12 , p .05 , d 0.86 , and matrix type , F ( 1 , 33 ) 11.57 , p .01 , d 1.18 .
+The main effect for individuals versus groups provided further evidence for a discontinuity effect in the context of Chicken .
+The main effect for matrix type indicated that there was more competition in the context of the low than the high PC-JC matrix .
+These main effects were , however , qualified by a significant Individuals Versus Groups Matrix interaction , F ( 1 , 33 ) 6.12 , p .05 , d 0.86 .
+The interaction indicated that the discontinuity effect was larger ( and descriptively only present ) with the low PC-JC matrix .
+Proportion of Alternation Choices Mean proportions of alternation choices are presented in the third row of Table 4 .
+An ANOVA resulted in a significant Ma- trix Gender interaction only , F ( 1 , 33 ) 8.79 , p .01 , d 1.03 .
+The interaction indicated that there was a tendency for women to alternate more than men with the low PC-JC matrix only .
+Choice Reasons Because analyses of the coded and questionnaire-based as- sessments of choice reasons revealed similar results , we report only the analyses for the z-score composites .
+Reliability coef- ficients for these composites exceeded .77 .
+Relevant means are given in Table 5 .
+Max own .
+An ANOVA resulted in a significant main effect for individuals versus groups only , F ( 1 , 33 ) 10.94 , p .01 , d 1.15 .
+Groups reported more max own than did individuals .
+Max joint .
+For max joint , there was a significant main effect of individuals versus groups , F ( 1 , 33 ) 9.73 , p .01 , d 1.09 , and a significant Individuals Versus Groups Matrix Gender interaction , F ( 1 , 33 ) 5.14 , p .05 , d 0.79 .
+Individuals reported more max joint than groups , but this general pattern was reversed for women with the high PC-JC matrix .
+Min dif .
+An ANOVA revealed significant main effects for individuals versus groups , F ( 1 , 33 ) 14.50 , p .01 , d 1.33 , and gender , F ( 1 , 33 ) 16.06 , p .01 , d 1.40 .
+Individuals reported more min dif than groups , and women reported more min dif than men .
+Max rel .
+For max rel , there were significant main effects for individuals versus groups , F ( 1 , 33 ) 24.07 , p .01 , d 1.71 , and matrix type , F ( 1 , 33 ) 7.20 , p .01 , d 0.93 .
+Groups reported more max rel than individuals , and there was more max rel with the low than the high PC-JC matrix .
+Both effects were qualified by a significant Individuals Versus Groups Matrix interaction , F ( 1 , 33 ) 7.33 , p .01 , d 0.94 .
+The tendency for groups to report more max rel than individuals was relatively greater with the low PC-JC matrix .
+Distrust .
+For distrust , there were significant main effects for individuals versus groups , F ( 1 , 33 ) 38.32 , p .01 , d 2.16 , and matrix type , F ( 1 , 33 ) 8.89 , p .01 , d 1.04 .
+Groups reported more distrust than individuals , and there was more dis- trust with the low than the high PC-JC matrix .
+These main effects were qualified by a significant Individuals Versus Groups Matrix interaction , F ( 1 , 33 ) 7.25 , p .01 , d 0.94 .
+The tendency for groups to report more distrust than individuals was relatively greater with the low PC-JC matrix .
+Mediation by Choice Reasons As indicated above , the critical Individuals Versus Groups Matrix interaction was significant for max rel and distrust .
+The test for heterogeneity of regression was nonsignificant for both rea- sons .
+When we added max rel as a covariate to the Individuals Versus Groups Matrix Gender ANOVA of competition , the Individuals Versus Groups Matrix interaction became nonsig- nificant , F ( 1 , 32 ) 1.33 , p .26 , d 0.41 , and the predicted positive association of max rel with competition was significant , B 0.12 , SE 0.04 , F ( 1 , 32 ) 10.59 , p .01 .
+A test of the indirect effect through max rel was significant ( z ’ 2.13 , p .01 ) .
+These results are consistent with mediation by the relatively greater concern for maximizing relative outcomes of groups inter- acting in the context of the low PC-JC matrix ( as compared with the high PC-JC matrix ) .
+When we added distrust as covariate , the Individuals Versus Groups Matrix interaction became nonsignificant , F ( 1 , 32 ) .64 , p .43 , d 0.23 , and there was a significant positive association of distrust with competition , B 0.17 , SE 0.03 , F ( 1 , 32 ) 26.42 , p .01 .
+A test of the indirect effect through distrust was significant ( z ’ 2.76 , p .01 ) .
+These results are consistent with mediation by the relatively greater distrust of groups inter- Table 4 Experiment 2 : Mean Proportion of Corrected Competitive , Corrected Cooperative , and Alternation Choices Choice Low PC-JC matrix High PC-JC matrix Individual Group Individual Group Corrected competitive .06 .29 .00 .00 Corrected cooperative .94 .71 1.00 1.00 Alternation .12 .04 .04 .04 Note .
+Alternation proportions are included in the Corrected cooperative proportions .
+PC–JC partner control–joint control .
+490 WOLF , INSKO , KIRCHNER , AND WILDSCHUT acting in the context of the low PC-JC matrix ( as compared with the high PC-JC matrix ) .
+As with Experiment 1 , we again have a situation indicating mediation by max rel and by distrust that is possibly explained by the high correlation ( .81 ) between the two assessments.10 Perceived Categorization One group .
+Analysis of one-group ratings revealed a signifi- cant main effect for individuals versus groups , F ( 1 , 33 ) 24.32 , p .01 , d 1.72 , which was qualified by an interaction with gender , F ( 1 , 33 ) 5.73 , p .05 , d 0.83 .
+The general tendency for individuals to have stronger one-group perceptions than groups ( see Table 6 ) was significant for women , F ( 1 , 33 ) 24.77 , p .01 , d 1.73 , and marginal for men , F ( 1 , 33 ) 3.51 , p .07 , d 0.65 .
+Two groups .
+For two-groups ratings , we found significant main effects for individuals versus groups , F ( 1 , 33 ) 74.48 , p .01 , d 3.00 , and matrix type , F ( 1 , 33 ) 4.26 , p .05 , d 0.72 ( see Table 6 ) .
+Groups were more likely than individuals to per- ceive their session as involving two groups , and participants in the low PC-JC matrix condition were more likely than those in the high PC-JC matrix condition to perceive their session as involving two groups .
+These main effects were qualified , however , by a significant Individuals Versus Groups Matrix Gender inter- action , F ( 1 , 33 ) 5.26 , p .05 , d 0.80 .
+The tendency for the two-group ratings to be higher with the low than the high PC-JC matrix was significant for male individuals and female groups , but not for male groups or female individuals .
+Suffice it to say that two-group ratings did not track choice behavior .
+Separate individuals .
+For separate-individuals ratings , there was a main effect for individuals versus groups only , F ( 1 , 33 ) 4.94 , p .05 , d 0.77 ( see Table 6 ) .
+Individuals were more likely than groups to perceive the participants in the sessions as separate individuals .
+Because none of the perceived-categorization items tracked the critical finding that the discontinuity effect was larger ( and de- scriptively only present ) with the low PC-JC matrix , no mediation analyses were conducted .
+Discussion In Experiment 1 , groups were more competitive than individuals with a version of the Chicken matrix .
+Experiment 2 , however , demonstrated that a significant discontinuity effect did not occur with a high PC-JC matrix in which the lower right-hand cell contained markedly low outcomes but did occur with a low PC-JC matrix in which the lower right-hand cell contained somewhat higher outcomes .
+The mediation analysis pointed to the potential importance of max rel ( a concern with winning ) and distrust ( a possible concern with not losing ) as an explanation as to why the low PC-JC matrix produced a larger discontinuity effect than the high PC-JC matrix .
+These results are all consistent with the general argument that unless the values in the lower right-hand cell are markedly low , the given matrix with moderately correspondent outcomes may be transformed to an effective matrix with noncor- respondent outcomes , and that the reason for such a transformation relates to a concern with winning or not losing .
+A possible reason why winning may motivate competitiveness is consistency with self-esteem .
+Support for this interpretation comes from Gramzow and Gaertner ’ s ( 2005 ) finding that individ- ual differences in self-esteem were correlated with the evaluation of novel in-groups and that this relationship held even when the behavior of in-group members was more negative than the behav- ior of out-group members .
+Perhaps group members are willing to risk obtaining moderately low outcomes if by so doing they can obtain evidence that they are justified in thinking well of them- selves .
+Although we certainly did not model situations with a potential loss of life , the obtained evidence is consistent with the possibility that Bertrand Russell ’ s ( 1959 ) assumption that the game of chicken will inevitably lead to mutual disaster is less likely to hold if the disaster is markedly severe .
+Although we do believe , con- sistent with MAD , that an increasingly low outcome will decrease the probability of intergroup conflict , we do not mean to imply that under such circumstances intergroup conflict can not occur .
+Using the term rationality to mean self-interested motivation , Wohlstetter 10 As in Study 1 , distrust and max rel were highly correlated ( .81 ) , which implies that separate , rather than simultaneous , mediation analyses are appropriate ( J. Cohen et al. , 2003 ) .
+Still , when max rel and distrust were entered simultaneously into a mediation analysis , we found significant indirect effects on competition through both max rel ( z ’ 1.00 , p .05 ) and distrust ( z ’ 2.16 , p .01 ) .
+Table 5 Experiment 2 : Mean Max Own , Max Joint , Min Dif , Max Rel , and Distrust Scores Reason Low PC-JC matrix High PC-JC matrix Individual Group Individual Group Max own .62 .62 .31 .35 Max joint .56 .72 .23 .10 Min dif .07 .37 .76 .53 Max rel .49 1.13 .56 .03 Distrust .54 1.21 .68 .07 Note .
+Means are standardized composite scores derived from coded open-ended responses and item ratings .
+Max own concern for maximiz- ing absolute outcome ; max joint concern for maximizing the joint outcomes of both players ; min dif concern for minimizing the differ- ences in outcomes between players ; max rel concern for maximizing relative outcomes ; PC-JC partner control–joint control .
+Table 6 Experiment 2 : Perceived Categorization Ratings of One Group , Two Groups , and Separate Individuals Representation Low PC-JC matrix High PC-JC matrix Individual Group Individual Group One group 5.75 3.81 5.82 4.68 Two groups 2.40 5.10 1.77 4.33 Separate individuals 3.50 2.46 2.85 2.17 Note .
+Scores derived from ratings of 1 ( not at all ) to 7 ( very much ) .
+PC-JC partner control–joint control .
+491DISCONTINUITY EFFECT ( 1959 ) warned that the success of a “ deterrent strategy ” assumes a “ rational enemy ” ( p. 231 ) .
+However , as illustrated by the Jones- town mass suicide ( see Cialdini , 1993 , pp .
+123–128 ) , groups do not always follow the usual dictates of such rationality .
+More recent examples relate to terrorist suicide bombings that also deviate from usual rationality , although some terrorists appear to believe that they will be ultimately rewarded in an afterlife .
+The Jonestown example and the charisma of Rev .
+Jones is an obvious example of how social influence can , under some circum- stances , produce suicidal behavior .
+Aside from such observational evidence , there is experimental evidence for the role of social influence in the context of the PDG .
+Wildschut et al .
+( 2002 , Experiment 2 ) found that the reduced intergroup competitiveness associated with a less negative index of correspondence ( .05 vs. .60 ) could be partially overcome if the separated group members received even minimal social support for being competitive .
+Al- though this might also occur with the Chicken matrix , one would hope that the probability would be much lower , considering the particularly dire consequences of mutual competition .
+There is currently , however , no experimental evidence comparing the dif- ferential impact of social influence across the Chicken and PDG matrices .
+General Discussion Perhaps the most interesting overall conclusion to be drawn from the two experiments relates to the difference between coor- dination situations that may not be transformed to exchange situ- ations ( BOS and Leader ) and a coordination situation that may be transformed to an exchange situation ( Chicken ) and the differing mechanisms that appear to reduce intergroup competitiveness in these two situations .
+In Experiment 1 , it was found that with BOS and Leader , the levels of cooperation were markedly high , and yet there was a clear tendency for participants in the groups condition to perceive two groups .
+As discussed previously , this pattern of results is consistent with Park and Judd ’ s ( 2005 ) argument that the perception of two groups does not necessarily lead to intergroup bias .
+So how can the lesser intergroup competitiveness with BOS and Leader than with Chicken ( and PDG ) be explained ?
+The tendency to perceive one group was stronger with the Leader and BOS matrices .
+Furthermore the mediation analysis revealed evi- dence consistent with mediation of the lesser competitiveness of the Leader and BOS groups than the Chicken ( and PDG ) groups by the perception of one group .
+This result supports the S. L. Gaertner and Dovidio ( 2000 ) common in-group identity model , which ap- proaches the reduction of intergroup bias , not by the reduction of the perception of two groups , but by the perception of one common group .
+The evidence suggests that in the context of coordination situations in which outcomes can be maximized through coordi- nated alternation , the perception of one group plays a role in minimizing intergroup bias .
+As indicated above , the evidence is generally consistent with Park and Judd ’ s and S. L. Gaertner and Dovidio ’ s emphasis upon a multicultural perspective .
+The situation , however , appears to be quite different with the Chicken matrix .
+The given Chicken matrix is a coordination situ- ation because it has a JC component .
+However , the magnitude of the JC component is sufficiently low that , unlike with BOS and Leader , coordinated alternation of X and Y choices does not result in higher outcomes than the mutual selection of X .
+The evidence suggests that in the groups condition the given Chicken matrix may be transformed to an effective exchange matrix through an increased concern with winning ( as indexed by max rel ) and not losing ( as indexed by distrust ) .
+Thus , unlike with BOS and Leader , the Chicken matrix produced a discontinuity effect .
+Still , Experi- ment 2 found that , consistent with MAD , the discontinuity effect was significantly reduced ( and descriptively eliminated ) when joint competition resulted in a markedly low outcome .
+Further- more , and of equal interest , the tendency to perceive one group , or the tendency for greater perception of one group in the groups than the individual condition , was not altered by the difference between the low and high PC-JC Chicken matrices .
+This suggests that the possible mechanism for reducing bias is quite different in coordi- nation situations that are transformed to exchange situations ( Chicken ) than in coordination situations that are not transformed to exchange situations ( BOS and Leader ) .
+In the context of the Chicken matrix , the deterrence-based approach of mutually as- sured low outcomes may reduce intergroup conflict .
+However , in the context of strong coordination situations , like BOS and Leader , intergroup conflict may be reduced via a coalition-based approach or multicultural perspective within the context of a perceived common in-group .
+An alternative way of interpreting the differences between BOS , Leader , and Chicken is in terms of the correspondence of out- comes .
+BOS and Leader have high correspondence , whereas Chicken has low , near-zero correspondence .
+Within the context of at least moderately correspondent outcomes , when conflict of interest is not real and is at most symbolic , a coalition-based approach to conflict reduction may be most appropriate .
+This would appear to be particularly true when a latent , superordinate group already exists as , for example , in the relationship of White Americans and African Americans , who are , after all , all Ameri- cans .
+More generally , one might follow the Jeffersonian approach of noting that we are all equally members of the human race .
+In his book , The Expanding Circle , the philosopher Peter Singer ( 1981 ) has developed this idea at some length .
+But what about conflict reduction in a situation , like the PDG , in which the outcomes are noncorrespondent ?
+Previous research has approached the reduction of intergroup conflict in the PDG in a variety of ways ( T. R. Cohen & Insko , in press ) , but the approach that has received the most attention has emphasized consideration of the long-term consequences of intergroup conflict ( Insko et al. , 1998 , 2001 ) .
+The concept of long-term consequences bears an obvious similarity to MAD .
+Both approaches relate to outcomes ; it is just that the consideration of long-term consequences points to a way to increase outcomes , whereas MAD points to a way to prevent a drastic reduction in outcomes .
+One might thus say that an emphasis on long-term consequences is a less confrontational approach that carries with it the obvious advantage of not flirting with mutual disaster .
+What about the coalition-based , common in-group identity ap- proach to reducing conflict in the context of matrices like the PDG in which outcomes are noncorrespondent ?
+The present data pro- vide no support for such an approach , and indeed prior evidence ( Insko , Kirchner , Pinter , Efaw , & Wildschut , 2005 ) suggests that common categorization regarding a preferred artist ( Klee or Kan- dinsky ) creates a perceived vulnerability that can be exploited .
+There is , however , the interesting possibility that the situation might be different if the categorization were not just “ mere ” 492 WOLF , INSKO , KIRCHNER , AND WILDSCHUT categorization but categorization that was personally important to the group members .
+We find it plausible that common categoriza- tion based on a meaningful and/or important category would facilitate the recognition of the long-term benefits of mutual co- operation .
+This presents an interesting possibility for future re- search .
+References Allport , G. W. ( 1954 ) .
+The nature of prejudice .
+Cambridge , MA .
+Addison- Wesley .
+Aronson , E. , Blaney , N. , Stephan , C. , Sikes , J. , & Snapp , M. ( 1978 ) .
+The jigsaw classroom .
+Beverly Hills , CA : Sage .
+Beevor , A. , & Vinogradova , L. ( 2006 ) .
+A writer at war : Vasily Grossman with the Red Army 1941–1945 .
+London : Random House .
+Bornstein , G. , Budescu , D. , & Zamir , S. ( 1997 ) .
+Cooperation in intergroup , N-person , and two-person games of chicken .
+Journal of Conflict Reso- lution , 41 , 384–406 .
+Bornstein , G. , & Gilula , Z .
+( 2003 ) .
+Between-group communication and conflict resolution in assurance and chicken games .
+Journal of Conflict Resolution , 47 , 326–339 .
+Browning , L. , & Colman , A. M. ( 2004 ) .
+Evolution of coordinated alter- nating reciprocity in repeated dyadic games .
+Journal of Theoretical Biology , 229 , 549–557 .
+Cialdini , R. B .
+( 1993 ) .
+Influence ( 3rd ed . ) .
+New York : Harper Collins College .
+Cohen , J. , Cohen , P. , West , L. G. , & Aiken , L. S. ( 2003 ) .
+Applied multiple regression/correlational analysis for the behavioral sciences ( 3rd ed . ) .
+Mahwah , NJ : Erlbaum .
+Cohen , T. R. , & Insko , C. A .
+( in press ) .
+War and peace : Possible ap- proaches to reducing intergroup conflict .
+Perspectives on Psychological Science .
+Colman , A. M. ( 1995 ) .
+Game theory and its applications in the social and behavioral sciences ( 2nd ed . ) .
+Oxford , England : Butterworth-Heineman .
+Deibert , G. R. , & Miethe , T. D. ( 2003 ) .
+Character contests and dispute- related offenses .
+Deviant Behavior , 24 , 245–267 .
+Gaertner , L. , Sedikides , C. , & Graetz , K. ( 1999 ) .
+In search of self- definition : Motivational primacy of the individual self , motivational primacy of the collective self , or contextual primacy ?
+Journal of Per- sonality and Social Psychology , 76 , 5–18 .
+Gaertner , L. , Sedikides , C. , Vevea , J. , & Iuzzini , J .
+( 2002 ) .
+The “ I , ” the “ we , ” and the “ when ” : A meta-analysis of motivational primacy in self-definition .
+Journal of Personality and Social Psychology , 83 , 574– 591 .
+Gaertner , S. L. , & Dovidio , J. F. ( 2000 ) .
+Reducing intergroup bias : The common ingroup model .
+Philadelphia : Psychology Press .
+Gaertner , S. L. , Dovidio , J. F. , Rust , M. C. , Nier , J .
+A. , Banker , B. S. , Ward , C. M. , et al .
+( 1999 ) .
+Reducing intergroup bias : Elements of intergroup cooperation .
+Journal of Personality and Social Psychology , 76 , 388–402 .
+Gaertner , S. L. , Mann , J .
+A. , Dovidio , J. F. , Murrell , A. J. , & Pomare , M. ( 1990 ) .
+How does cooperation reduce intergroup bias ?
+Journal of Per- sonality and Social Psychology , 59 , 692–704 .
+Goffman , E. ( 1967 ) .
+Interaction ritual : Essays in face-to-face behavior .
+Chicago : Aldine .
+Gramzow , R. , & Gaertner , L. ( 2005 ) .
+Self-esteem and favoritism toward novel in-groups : The self as an evaluative base .
+Journal of Personality and Social Psychology , 88 , 801–815 .
+Insko , C. A. , Kirchner , J. L. , Pinter , B. , Efaw , J. , & Wildschut , T. ( 2005 ) .
+Interindividual-intergroup discontinuity as a function of trust and cate- gorization : The paradox of expected cooperation .
+Journal of Personality and Social Psychology , 88 , 365–385 .
+Insko , C. A. , & Schopler , J .
+( 1998 ) .
+Differential distrust of groups and individuals .
+In C. Sedikides , J. Schopler , & C. Insko ( Eds .
+) , Intergroup cognition and intergroup behavior ( pp .
+75–105 ) .
+Mahwah , NJ : Erlbaum .
+Insko , C. A. , Schopler , J. , Gaertner , L. , Wildschut , T. , Kozar , R. , Pinter , B. , et al .
+( 2001 ) .
+Interindividual–intergroup discontinuity reduction through anticipation of future interaction .
+Journal of Personality and Social Psychology , 80 , 95–111 .
+Insko , C. A. , Schopler , J. , Hoyle , R. H. , Dardis , G. J. , & Graetz , K. A .
+( 1990 ) .
+Individual-group discontinuity as a function of fear and greed .
+Journal of Personality and Social Psychology , 58 , 68–79 .
+Insko , C. A. , Schopler , J. , Pemberton , M. B. , Wieselquist , J. , McIlraith , S. , Currey , D. P. , et al .
+( 1998 ) .
+Long-term outcome maximization and the reduction of interindividual–intergroup discontinuity .
+Journal of Per- sonality and Social Psychology , 75 , 695–710 .
+Kelley , H. H. , Holmes , J. G. , Kerr , N. L. , Reis , H. T. , Rusbult , C. E. , & Van Lange , P. A. M. ( 2003 ) .
+An atlas of interpersonal situations .
+New York : Cambridge University Press .
+Kelley , H. H. , & Thibaut , J. W. ( 1978 ) .
+Interpersonal relations : A theory of interdependence .
+New York : Wiley .
+Kissinger , H. A .
+( 1956 ) .
+Force and diplomacy in the nuclear age .
+Foreign Affairs , 34 , 349–366 .
+Lieber , K. A. , & Press , D. G. ( 2006 ) .
+The rise of U.S. nuclear primacy .
+Foreign Affairs , 85 , 42 .
+Luce , R. D. , & Raiffa , H. ( 1957 ) .
+Games and decisions : Introduction and critical survey .
+Wiley : New York Luckenbill , D. F. ( 1977 ) .
+Criminal homicide as a situated transaction .
+Social Problems , 25 , 176–186 .
+MacKinnon , D. P. , Lockwood , C. , Hoffman , J. , West , S. G. , & Sheets , V. ( 2002 ) .
+A comparison of methods to test mediation and other intervening variable effects .
+Psychological Methods , 7 , 83–104 .
+McDougall , W. ( 1920 ) .
+The group mind .
+New York : Putnam .
+McNamara , R. S. ( 1968 ) .
+The essence of security .
+New York : Harper & Row .
+Park , B. , & Judd , C. M. ( 2005 ) .
+Rethinking the link between categorization and prejudice within the social cognition perspective .
+Personality and Social Psychology Review , 9 , 108–130 .
+Pemberton , M. B. , Insko , C. A. , & Schopler , J .
+( 1996 ) .
+Memory for and experience of differential competitive behavior of individuals and groups .
+Journal of Personality and Social Psychology , 71 , 953–966 .
+Pinter , B. , Insko , C. A. , Wildschut , T. , Kirchner , J. L. , Montoya , R. M. , & Wolf , S. T. ( 2007 ) .
+Reduction of interindividual-intergroup discontinu- ity : The role of leader accountability and proneness to guilt .
+Journal of Personality and Social Psychology , 93 , 250–265 .
+Poundstone , W. ( 1992 ) .
+Prisoner ’ s dilemma .
+New York : Doubleday .
+Rapoport , A .
+( 1967 ) .
+Exploiter , leader , hero , and martyr : The four arche- types of the 2 2 game .
+Behavioral Science , 12 , 81–84 .
+Rapoport , A. , & Guyer , M. ( 1966 ) .
+A taxonomy of 2 2 games .
+General Systems , 11 , 203–214 .
+Rosecrance , R. H. ( 1963 ) .
+Action and reaction in world politics .
+Boston : Little , Brown .
+Russell , B .
+( 1959 ) .
+Common sense and nuclear warfare .
+London : George Allen & Unwin .
+Schopler , J. , Insko , C. A. , Drigotas , S. , Graetz , K. A. , Smith , V. A. , & Dahl , K. ( 1993 ) .
+Individual–group discontinuity : Further evidence for mediation by fear and greed .
+Personality and Social Psychology Bulle- tin , 19 , 419–431 .
+Schopler , J. , Insko , C. A. , Drigotas , S. M. , Wieselquist , J. , Pemberton , M. B. , & Cox C. ( 1995 ) .
+The role of identifiability in the reduction of interindividual–intergroup discontinuity .
+Journal of Experimental Social Psychology , 31 , 553–574 .
+Schopler , J. , Insko , C. , Wieselquist , J. , Pemberton , M. , Witcher , B. , Kozar , R. , et al .
+( 2001 ) .
+When groups are more competitive than individuals : The domain of the discontinuity effect .
+Journal of Personality and Social Psychology , 80 , 632–644 .
+Sedikides , C. , & Strube , M. J .
+( 1997 ) .
+Self-evaluation : To thine own self be 493DISCONTINUITY EFFECT good , to thine own self be sure , to thine own self be true , and to thine own self be better .
+In M. P. Zanna ( Ed .
+) , Advances in experimental social psychology ( Vol .
+29 , 209–269 ) .
+New York : Academic Press .
+Sherif , M. , Harvey , O. J. , White , B. J. , Hood , W. R. , & Sherif , C. ( 1954 ) .
+Experimental study of positive and negative intergroup attitudes be- tween experimentally produced groups : Robbers Cave experiment .
+Nor- man : University of Oklahoma Press .
+Singer , P. ( 1981 ) .
+The expanding circle .
+New York : Farrar , Straus & Giroux .
+Tajfel , H. ( 1978 ) .
+Social categorization , social identity , and social com- parison .
+In H. Tajfel ( Ed .
+) , Differentiation between social groups ( pp .
+61–76 ) .
+London : Academic Press .
+Tajfel , H. , & Turner , J. C. ( 1986 ) .
+The social identity theory of intergroup behavior .
+In S. Worchel & W. G. Austin ( Eds .
+) , Psychology of inter- group relations ( pp .
+7–24 ) .
+Chicago : Nelson-Hall .
+Wildschut , T. , Insko , C. A. , & Gaertner , L. ( 2002 ) .
+Intragroup social influence and intergroup competition .
+Journal of Personality and Social Psychology , 82 , 975–992 .
+Wildschut , T. , Insko , C. A. , & Pinter , B .
+( 2004 ) .
+The perception of outgroup threat : Content and activation of the outgroup schema .
+In V. Yzerbyt , C. M. Judd , & O. Corneille ( Eds .
+) , The psychology of group perception : Perceived variability , entitativity , and essentialism ( pp .
+335–361 ) .
+New York : Psychology Press .
+Wildschut , T. , Lodewijkx , H. F. M. , & Insko , C. A .
+( 2001 ) .
+Toward a reconciliation of diverging perspectives on interindividual–intergroup discontinuity : The role of procedural interdependence .
+Journal of Ex- perimental Social Psychology , 37 , 273–285 .
+Wildschut , T. , Pinter , B. , Vevea , J. , Insko , C. A. , & Schopler , J .
+( 2003 ) .
+Beyond the group mind : A qualitative review of the interindividual– intergroup discontinuity effect .
+Psychological Bulletin , 129 , 698–722 .
+Wohlstetter , A .
+( 1959 ) .
+The delicate balance of terror .
+Foreign Affairs , 37 , 211–234 .
+Received September 23 , 2006 Revision received May 4 , 2007 Accepted July 25 , 2007 494 WOLF , INSKO , KIRCHNER , AND WILDSCHUT

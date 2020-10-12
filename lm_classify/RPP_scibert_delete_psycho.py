@@ -10,13 +10,13 @@ import random
 from sklearn.metrics import *
 import os
 
-#Load the BERT tokenizer.
-print('Loading BERT tokenizer...')
-tokenizer = BertTokenizer.from_pretrained('allenai/scibert_scivocab_uncased', do_lower_case=True)
-bertmodel = BertModel.from_pretrained('allenai/scibert_scivocab_uncased')
-bertmodel.to('cuda')
-save_dir = os.path.join("checkpoint", "save")
-model_name = 'scibert100_delpsycho'
+# #Load the BERT tokenizer.
+# print('Loading BERT tokenizer...')
+# tokenizer = BertTokenizer.from_pretrained('allenai/scibert_scivocab_uncased', do_lower_case=True)
+# bertmodel = BertModel.from_pretrained('allenai/scibert_scivocab_uncased')
+# bertmodel.to('cuda')
+# save_dir = os.path.join("checkpoint", "save")
+# model_name = 'scibert100_delpsycho'
 
 def split_paper(content):
     l_total = []
@@ -188,45 +188,50 @@ def delete_tokens(content, tokens, token_category):
     for key, value in tokens.items():
         all_tokens.extend(value)
     all_tokens = set(all_tokens)
-
+    del_total = 0
+    total = 0
     for section in content:
         text_tokens = word_tokenize(section['text'])
-        print(len(text_tokens))
         tokens_without_sw = [word for word in text_tokens if not word in all_tokens]
-        print(len(tokens_without_sw))
+        del_num = len(text_tokens) - len(tokens_without_sw)
+        del_total += del_num
+        total += len(text_tokens)
         recover_text = " ".join(tokens_without_sw)
         section['text'] = recover_text
 
-    return content
+    return content, del_total, total
 
 def random_delete_tokens(content, tokens, token_category):
     all_tokens = list()
-    for section in content:
-        text_tokens = word_tokenize(section['text'])
-        all_tokens.extend(text_tokens)
+    for key, value in tokens.items():
+        all_tokens.extend(value)
     all_tokens = set(all_tokens)
 
-    psycho_tokens = list()
-    for key, value in tokens.items():
-        psycho_tokens.extend(value)
-    psycho_tokens = set(psycho_tokens)
-
-    percentage = int(len(all_tokens) * 0.25)
-    sample_tokens = random.sample(all_tokens, percentage)
-    print(len(all_tokens), percentage)
-
     for section in content:
         text_tokens = word_tokenize(section['text'])
-        tokens_without_sw = [word for word in text_tokens if not word in sample_tokens]
-        recover_text = " ".join(tokens_without_sw)
+
+        tokens_without_sw = [word for word in text_tokens if not word in all_tokens]
+
+        sorted_sample = [text_tokens[i] for i in sorted(random.sample(range(len(text_tokens)), len(tokens_without_sw)))]
+
+        recover_text = " ".join(sorted_sample)
         section['text'] = recover_text
 
     return content
 
 data = json.load(open('../data_processed/RPP_scienceparse_classify_data.json', 'r'))
 
+del_t = 0
+tot = 0
+for r in data:
+    content, del_total, total = delete_tokens(r['content'],psycho_tokens, None)
+    del_t += del_total
+    tot += total
+print(del_t / tot, "faffa")
+
+
 #r_process = [[r['content'], r['O_within_CI_R'], r['Fold_Id']] for r in data]
-meta_process = [[delete_tokens(r['content'], psycho_tokens, None), r['Meta_analysis_significant'], r['Fold_Id']] for r in data]
+meta_process = [[random_delete_tokens(r['content'], psycho_tokens, None), r['Meta_analysis_significant'], r['Fold_Id']] for r in data]
 #pvalue_process = [[r['content'], r['pvalue_label'], r['Fold_Id']] for r in data]
 
 

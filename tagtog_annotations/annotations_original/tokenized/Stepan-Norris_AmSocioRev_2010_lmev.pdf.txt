@@ -1,0 +1,756 @@
+Stepan-Norris_AmSocioRev_2010_lmev.pdf
+alSnvvcdyelgaKtmJ9OwxGMUnN.S-Stepan_Norris_AmSocioRev_2010_lmev.pdf.plain.html
+
+Rival Unionism and Membership Growth in the United States , 1900 to 2005 : A Special Case of Inter- organizational Competition Judith Stepan-Norrisa and Caleb Southworthb Abstract This article uses time-series data from 1900 to 2005 to explore the effects of rivalry between labor unions as a special case of inter-organizational competition .
+Holding constant economic and political factors that typically account for changes in union density , we investigate how competition from rival labor federations and from independent unions affect both union den- sity and a measure for the density of the dominant federation ( AFL/AFL-CIO ) , adjusted for membership changes from mergers and splits .
+We measure competition by the number of unions and the size of rivals .
+While much existing literature measures state regulation with categorical coding for specific periods , we measure the effect of state enforcement directly with counts of pro-labor and pro-management unfair labor practice cases adjudicated by the National Labor Relations Board .
+We assess the effect of left-wing political culture using the popular vote for socialist and communist candidates in presidential elections .
+Both the number of members in rival unions and the total number of rival unions positively impact the rate of change in overall union density and in AFL density .
+The size of independent unions has a negative impact on AFL/AFL-CIO density but no effect on overall union density .
+Unfair labor practices cases adjudicated for employers negatively affect union density but positively affect AFL/AFL-CIO density , while cases adjudicated for unions negatively affect AFL/AFL-CIO density .
+Keywords trade unions , labor , work , competition , organizations , aggregation , social movements , working class , historical data , time series In 2005 , seven major labor unions split from the American Federation of Labor-Congress of Industrial Organizations ( AFL-CIO ) to form a new federation , Change to Win .
+The departure of 5.4 million union members prompted a debate over the ramifications of organizational splits for the labor movement as a whole .
+Do rival unions dilute labor ’ s resources and divide workers ’ allegiances ?
+Or , does the presence of competitors motivate aUniversity of California-Irvine bUniversity of Oregon Corresponding Author : Judith Stepan-Norris E-mail : jstepann @ uci.edu American Sociological Review 75 ( 2 ) 227–251 American Sociological Association 2010 DOI : 10.1177/0003122410365308 http : //asr.sagepub.com existing unions to adopt innovative tactics ?
+Do splits and the ensuing inter-organizational competition affect membership growth ?
+The literature on inter-organizational com- petition identifies both benefits and costs to competitive environments .
+Some empirical ex- aminations show that competition stimulates actors to learn and innovate ( Haunschild and Miner 1997 ; Miner , Bassoff , and Moorman 2001 ) , while research on social movements holds that competition ’ s effect depends on whether rival organizations share common goals and strategies ( McAdam 1982 ) .
+A third body of research demonstrates that competi- tion negatively affects organizations ’ survival ( Hannan and Freeman 1988a ) .
+Findings from this latter strand usually refer to firms , but they have been applied to unions , too , as many unions are complex organizations .
+Yet unions and firms are different types of organi- zations .
+Unions represent workers ’ collective interests , whereas firms typically maximize profit for a single enterprise .
+Unions are ex- pected to be democratic , and they require strong member solidarity .
+Furthermore , they are subject to a specific set of laws , rules , and regulations , none of which have obvious anal- ogies for firms .
+Hence , unions may be more similar to social movement organizations than to firms .
+The parties involved and the nature of com- petition are different for firms and for unions .
+Firms compete over customers , who are , on average , greater in number and more atomistic than potential union members .
+Competition between firms drives their common interest to reduce production costs through deunioni- zation .
+Unlike the pressure firms exert on their competitors , unions seek monopolistic labor contracts with firms , which circumscribes their tactics .
+Unions have a vested interest in firms ’ health ( Griffin , Wallace , and Rubin 1986 ) .
+And unions normally encounter more green fields ( i.e. , unorganized enterprises ) than firms do when searching for an unoccu- pied market niche .
+Most important , when union competition is fierce , it can disrupt the larger struggle against employers .
+Our case of competition among unions therefore in- forms theories about the consequences of competition among organizations that have powerful opponents or that exist within hostile environments .
+Because union rivalry represents competi- tion for the leadership of some segment of the working class , it is also an instance of intra-class struggle for class leadership ( Stepan-Norris and Zeitlin 2003 ) .
+Research shows that such struggle within unions is beneficial for union democracy and collec- tive bargaining outcomes ( Lipset , Trow , and Coleman 1962 ; Stepan-Norris and Zeitlin 2003 ) .
+This article investigates whether inter- nal class divisions , as manifest in rival union federations , impact the larger class struggle .
+Does competition build the organized seg- ment of the working class ( i.e. , union den- sity ) ,1 and how , as a result , are capital-labor relations altered ?
+We use the inter-organiza- tional competition literature but diverge from it to demonstrate how competition influ- ences the labor movement ’ s strength in num- bers ( membership ) , rather than measuring outcomes in terms of organizational found- ings or mortality.2 We suggest that different organizational behaviors , stimulated by com- petition , provide a mechanism that may explain the link between competition and union growth .
+During the past century , the AFL and AFL- CIO ( federations ) have served as umbrella organizations for large numbers of member unions ( internationals ) , each with its own structure , constitution , administration , and leaders .
+The AFL , which avowed the principle of union autonomy , mediated jurisdictional differences among member unions ; brought dispersed locals together into national unions ; made the organizing talents of older unions available to new ones ; aided its member unions in employer negotiations ; heard complaints from individual union members ; estab- lished new locals for its international unions ; encouraged joint organizing cam- paigns with full-time AFL organizers ( after 228 American Sociological Review 75 ( 2 ) 1900 ) ; and made loans and donations to member unions .
+( Reed 1977:11 ) The AFL had a principle of exclusive juris- diction ; member unions were not permitted to compete with each other for members ( Taft 1964 ) .
+To avoid internal competition , each group of workers was covered by only one AFL union ( at least hypothetically ) .
+In the early-twentieth century , competing federations periodically challenged the AFL ’ s dominance .
+In addition , a small-to- medium-sized pool of independent unions continuously coexisted with the dominant federation .
+Historically , union inter- organizational competition—where two dif- ferent unions or federations of unions attempt to organize the same set of workers— has been an important component of the American labor movement .
+THE BENEFITS OF COMPETITION Early political economists generally agree that competition changes organizational dynam- ics .
+Marx ( 1894 ) attributes innovation among capitalists and price cutting—dynamics that disadvantage workers—to competition ; Smith ( [ 1776 ] 1981:163 ) argues that competition among retailers could hurt neither producers nor consumers , because competition disci- plines shopkeepers to ‘ ‘ sell cheaper and buy dearer. ’ ’ Vickers ( 1995:1 ) summarizes the current understanding in economics : One natural and familiar idea is that compet- itive pressure makes organizations internally more efficient by sharpening incentives to avoid sloth and slack .
+Another is that compe- tition causes efficient organizations to pros- per at the expense of inefficient ones , and that this selection process is good for aggre- gate efficiency .
+A third is that competition to innovate is the major source of gains in pro- ductive efficiency over time .
+Competition is also advantageous in that com- petitors learn from each other ’ s experiences , which increases knowledge among all orga- nizations about best practices ( Miner and Haunschild 1995 ) ; competitive pressures gen- erate social influence mechanisms for orga- nizations to adapt to their environments in similar ways ( Bothner 2003 ) ; and there is a ‘ ‘ stimulating effect upon human energy ’ ’ ( Canfield 1912:91 ) .
+When faced with competition , organiza- tions tend to search for ways to sustain them- selves .
+Abbott ( 1988 ) suggests that rival organizing in cognate areas is likely to initi- ate thinking within individual professions about how these activities relate to their own jurisdictions .
+Swaminathan and Delacroix ( 1991 ) find that wineries respond to competition by differentiating , and that lateral migration into adjacent market niches lowers wineries ’ failure rates .
+Other studies report similar findings for voluntary social- service organizations and savings and loans ( Baum and Singh 1996 ; Haveman 1990 ) .
+Organizational competition is also credited with enhancing internal organiza- tional democracy ( Lipset et al .
+1962 ; Ross 1919 ; Stepan-Norris and Zeitlin 2003 ) .
+Political scientists emphasize the extent to which electoral competition between politi- cal parties increases political participation and officeholder accountability ( Dahl 1972 ) .
+When political parties compete for office , they create constituencies and the basis for effective opposition to current officeholders , which serves as a check on incumbents ’ power .
+And , although scholars of religion debate the veracity of the claim ( see Chaves and Gorski 2001 ) , many argue that ‘ ‘ competition strengthens religious organi- zations and increases the overall level of religious participation ’ ’ ( Finke and Stark 1998:761 ) .
+Finally , Milkman ( 2006:46 ) sug- gests that ‘ ‘ competition has tended to stimu- late labor movement growth , as each faction strives to prove its superiority , thus sparking new organizing and activism. ’ ’ Increasing union efficiency , innovation in organizing tactics , increasing knowledge of techniques and strategies , adaptation to new Stepan-Norris and Southworth 229 labor market structures and new working populations , diversification , and heightened energy ( especially around organizing efforts ) all have the potential to bring new workers into unions and to increase union density , even when some individual unions fail to thrive .
+NEGATIVE EFFECTS OF UNION COMPETITION In the early-1960s civil rights movement , social movement organizations ’ consensus on goals and tactics enabled them to cooper- ate and coordinate beneficial joint actions ( McAdam 1982 ) .
+Later , however , when the goals of different groups diverged , conflict reduced cooperation and wasted insurgent resources .
+This led to a ‘ ‘ predictable diminu- tion in the internal strength of the move- ment ’ ’ ( p. 189 ) .
+Likewise , union efforts require coordina- tion .
+Firms prefer that workers compete with each other over jobs because loose labor markets , where there are multiple applicants for a position , force wages down and discour- age worker solidarity .
+But unions attempt to reduce worker competition by removing competition over wages .
+Craft unions do this by ‘ ‘ establishing a standard union rate and forcing employers to hire only from the union ’ ’ and industrial unions do it by orga- nizing all workers in an industry ( Moody 1988:174–75 ) .
+Both strategies require a com- mon front vis-à-vis employers ; competition among unions may thwart such efforts .
+Some labor scholars consider any competi- tion among unions to be harmful because it undermines labor solidarity .
+Rival unions sometimes engage in destructive activities , such as breaking each other ’ s strikes , striking to force the discharge of rival unionists , vio- lence against one another , red baiting , and mak- ing deals with employers to strengthen their positions against rivals ( Galenson 1966 ) .
+Unions attempting to organize the same employer may collude with the employer to exclude a competitor ; likewise , an employer or competing unions might sue to enjoin organizational activities , such as picketing ( Baird 2000 ; Columbia Law Review 1959 ) .
+In the mid-1930s , the AFL leadership bemoaned the pending CIO split , which scholars anticipated would undermine capital-labor negotiations .
+‘ ‘ As long as em- ployees are so divided , satisfactory collective bargaining will not be possible ’ ’ ( Slichter 1935:114 ) .
+Some radicals held the same view for different reasons .
+The General Secretary of the Communist Party ( USA ) and Trade Union Unity League ( TUUL ) founder , William Z .
+Foster ( 1947:66 ) , derided competition among unions , what he called ‘ ‘ dual unionism , ’ ’ as a central weakness in the U.S. labor movement : Because of this policy thousands of the very best militants have been led to desert the mass of labor organizations and to waste their time in vain efforts to construct ideally conceived unions designed to replace the old ones .
+In consequence the mass labor movement has been , for many years , sys- tematically drained of its life-giving ele- ments .
+.
+.
+.
+Dual unionism has poisoned the very springs of progress in the American labor movement and is largely responsible for its present sorry plight .
+Perhaps , like social movements , union rivals ’ commitment to common goals and tactics allows for cooperative efforts , but when their goals and tactics diverge , competition be- comes destructive .
+TYPES AND LOCATION OF COMPETITION Organizational theorists distinguish between direct and diffuse competition ( Hannan and Freeman 1988b ) .
+Organizations that compete head-to-head engage in direct competition ; those that struggle for scarce resources with many others in the same environment are involved in diffuse competition .
+Studies show that as the number of organizations in a population grows , both direct and diffuse competition increase ( Hannan and Freeman 230 American Sociological Review 75 ( 2 ) 1988b ) , and that the potential for direct orga- nizational competition is ‘ ‘ proportional to the overlap or intersection of their organizational niches ’ ’ ( Baum and Singh 1996:1263 ) .
+Direct and diffuse competition each has a different expected outcome for unions .
+While the for- mer may force innovation and improved strategies , and therefore should increase union growth , the latter may spread resources more thinly , having either no effect or ham- pering growth .
+Whereas Hannan and Freeman ’ s ( 1987 , 1988b ) studies of union competition measure the number of unions in a population ( while controlling for the craft form of organizing at one point in time ) , we measure direct com- petition by comparing the number of unions and the number of members in rival federa- tions each year to those in the dominant fed- eration .
+We do this because the AFL had an exclusive system of union jurisdiction that disallowed overlaps .
+While membership in the AFL federation constrained member unions from direct competition , rival unions were free from such constraints .
+Likewise , we measure diffuse competition by compar- ing the number of unions and the number of members in independent unions to those in the dominant federation .
+While independ- ents are a hodge-podge of various types of unions , many pursue a specific labor market niche and thereby may avoid direct competition .
+Direct Competition : Rival Unions in U.S. History The AFL began as a rival to the Knights of Labor in 1886 and eventually replaced the Knights as the dominant U.S. labor federa- tion .
+Subsequent periods of rival unionism occurred in the first half of the twentieth century in the United States .
+The American Labor Union ( ALU ) ( 1902 to 1904 ) began when disgruntled unions in the West objected to the AFL ’ s exclusion of unskilled workers ( Foner 1964 ) .
+The Industrial Workers of the World ( IWW ) ( 1905 to 1924 ) ,3 a coalition of anarchists , socialists , and communists , opposed wage labor and anti-immigrant policies and supported the syndicalist goal of worker control on the shop floor ( Brissenden 1920 ) .
+While the Trade Union Education League ( 1920 to 1929 ) was not a rival—it ‘ ‘ bored from within ’ ’ AFL unions ( Roberts 1971:53 ) —many of its participants were expelled from AFL unions and formed the TUUL ( 1929 to 1934 ) ,4 a rival federation .
+The Congress of Industrial Organizations ( 1937 to 1955 ) ,5 which initially formed within the AFL as the Committee for Industrial Organization , was expelled because it would not agree to organize workers mainly along craft ( occupational ) lines ( Zieger 1995 ) .
+The only major rival federation to emerge after the 1955 AFL-CIO merger is Change to Win ( CTW ) ( 2005 to present ) .
+Like previous rival unions , this defection resulted from dif- ferences over organizing strategy ( Change to Win 2006 ) .
+The unions that formed CTW disagree with the AFL-CIO over money for organizing drives among ‘ ‘ low-road ’ ’ em- ployers , such as Wal-Mart and Home Depot .
+CTW holds that organizing new union mem- bers requires the action of multiple unions ; they propose a consolidation of existing unions.6 Diffuse Competition : Independent Unions in U.S. History Diffuse competition occurs when union- organizing activity induces a shortage of organizers and resources .
+Because most of the AFL ’ s rivals recruited ideologically motivated ( ALU , IWW , TUUL ) or geograph- ically distinct ( ALU ) organizers from outside the AFL , they did not substantially increase diffuse competition .
+But the CIO , with its quick ascent and heavy demand for organiz- ers , may have increased diffuse competition because many AFL unions and leaders de- fected to the CIO just as the AFL found itself in the favorable New Deal environment .
+Still , the scarcity of organizers eased somewhat Stepan-Norris and Southworth 231 when the CIO hired communist organizers who had been largely banned from the AFL .
+We argue that diffuse competition comes mainly from two types of independent unions : persistently independent unions ( like the Brotherhood of Locomotive Engineers ) and unions that move in and out of a major fed- eration .
+Some of the former have overlap- ping jurisdictions with federated unions , others operate in a single plant or company,7 and some have a legacy of company domi- nation .
+Some unions split from the AFL/ AFL-CIO over jurisdictional disputes and contribute to direct competition ; others leave for different reasons that do not lead to direct competition .
+Overall , independent unions have less direct competition with federated unions and probably contribute more to diffuse competition .
+We expect that the AFL/AFL-CIO diffusely experi- enced the aggregated effect of independent unions .
+Yet , as our discussion indicates , equating rivals with direct competition and independents with diffuse competition pro- vides only a rough approximation of these concepts.8 The Temporal Connection : Rival Unionism and Union Growth The rivalry between the CIO and the AFL occurred during a period of explosive union growth .
+From 1937 through 1955,9 the CIO grew from 1,957,000 to 4,608,300 members , and the AFL grew from 3,547,400 to 10,593,100 members ( Troy 1965 ) .
+Is this an anomaly or is it a product of competition ?
+That the end of rival unionism coincides with the beginning of the half-century-long decline in union density is suggestive .
+Even if inter-organizational competition affects union growth , other factors also influ- ence unionization .
+Competition is dynamic , changes over time , and is influenced by endogenous mechanisms within the various rivals .
+The radical rivals ( ALU , IWW , TUUL ) differed from the CIO , which was an amalgam of left , right , and center .
+Exogenous forces such as the economy , political culture , and state policy also affect union density .
+The classic econometric model treats union growth as a function of economic conditions , specifically the tight- ness of the labor market and the relative buy- ing power of wages ( Ashenfelter and Pencavel 1969 ) .
+Inflation is positively related to union density because inflation reduces relative buying power and increases the re- turn to unionization through wages .
+Such conditions create incentives for union mem- bership .
+Likewise , low unemployment ( i.e. , a tight labor market ) creates a disincentive for union membership , because even without unions , the economy experiences upward pressure on wages .
+Increases in employment in the core industrial economy are associated with union growth ; the movement of jobs out of highly-unionized core industries since the mid-century is central to explaining why union density has declined ( Ashenfelter and Pencavel 1969 ) .
+In the early-twentieth century , unions operated in a hostile political and legal envi- ronment .
+The founding of the largest com- petitor union , the CIO , coincided with major political changes , including the rise of radical political activities ( e.g. , the Unemployed Councils , growth of the Communist Party , and strong showings for Socialist Party presidential candidates ) ( Southworth 2002 ) and the passage of the pro-union Wagner Act ( National Labor Relations Act ) .
+A little more than a decade later , the anti-labor Taft-Hartley Act ( Labor Management Relations Act ) passed and McCarthyism took hold .
+The National Labor Relations Board ( NLRB ) established machinery to monitor union elections and unfair labor practices on the part of labor ( in 1935 ) and management ( in 1947 ) .
+Having the federal government certify union elections and guarantee some collective bar- gaining rights likely eased union organizing , at least until the 1950s ( Clawson 2003 ; Fantasia and Voss 2004 ; Taft 1964 ) .
+232 American Sociological Review 75 ( 2 ) Employers , however , also fought back through the same process , became more adept at challenging union rights , and mounted legal appeals that forced unions to use precious resources .
+Our analysis sepa- rates the relative impact of both pro-labor and pro-capital unfair labor practice cases pursued through the NLRB .
+Finally , many studies note the importance of the overall political environment in Washington for union organizing .
+The Democratic Party presence in the U.S. House of Representatives gives us a broad measure of the pro-labor political climate .
+We also measure votes cast for socialist and communist parties to assess radical polit- ical culture .
+By examining trends over the past century , including four periods of rival unionism , and by including political and eco- nomic control variables , we can test the causal connection between rival unionism and union growth .
+Still , we must postulate some possible mechanisms through which rivalry spurs union growth .
+What are the the- oretical reasons to expect a causal connec- tion ?
+To answer this question , we must first specify the precise location of the expected growth .
+Growth in the AFL/AFL-CIO versus Overall Union Growth When considering the impact of rival union- ism , different mechanisms may be at work in the dominant federation than in the labor movement as a whole .
+Considering the dom- inant federation , the one with the largest number of international unions , there are sev- eral reasons why direct competition might lead to membership growth .
+First , the feder- ation ’ s system of jurisdiction is thrown into confusion when departing unions leave their spots vacant ; the federation can either charter new unions for these jurisdictions or permit member unions to diversify into these territo- ries ( Swaminathan and Delacroix 1991 ) .
+Both of these processes increase new organizing .
+Second , some new competitors organize industries or occupations not previ- ously targeted .
+The presence of rivals can prompt the dominant federation and its unions to reconsider their assessment of these ‘ ‘ non-jurisdictions , ’ ’ a process that may lead to further diversification .
+This is consistent with the historical record : The AFL , responding to the CIO assault and to the organizing opportunities in mass production , chartered rival industrial unions and authorized many of its craft- based affiliates to operate along industrial lines .
+Meanwhile , many unorganized skilled workers tumbled into the CIO along with the nonskilled .
+Thus did a structural revolution take place .
+( Kahn 1959:4 ) Hence , reconfiguring jurisdictions and diver- sifying are mechanisms that may have increased organizing efforts and union growth within the dominant federation .
+We expect that overall union density grows in response to direct competition .
+If a rival is to succeed vis-à-vis an established federation , it must grow dramatically during its early years .
+Since the founding of the AFL , differences in organizing strategy have been a main factor in the initiation of splits in the U.S. labor movement.10 Each new rival federation of the past century claimed to organize a segment of the labor force overlooked by the AFL/AFL-CIO .
+Just as competition between firms ini- tiates innovation , AFL rivals adopted innovative organizing tactics .
+The IWW introduced free-speech fights that ‘ ‘ spread to a number of cities .
+During these dramatic confrontations , IWW members and sympa- thizers filled city jails until embattled city of- ficials recognized that the freedom of the press also applied to IWW members as did the right to assemble peacefully and to dis- tribute their publications to the public ’ ’ ( Fink 1977:152–54 ) .
+The IWW was also known for spectacular strikes and organizing campaigns that ‘ ‘ startled the nation. ’ ’ Similarly , the CIO ’ s use of the sit-down strike Stepan-Norris and Southworth 233 in the automobile organizing drive ‘ ‘ proved one of the most effective tactical weapons available to CIO organizers in their efforts to extend union organization to other mass production industries .
+Inspired by the success in the steel and automobile industries , work- ers in the rubber , glass , textile , electrical appliance , and numerous other industries em- ployed the sit-down tactic to gain union rec- ognition from reluctant employers ’ ’ ( Fink 1977:67 ) .
+Innovative applications of these tac- tics resulted , in part , from the injection of new actors , with varying social locations and expe- riences ( Ganz 2000 ) .
+In summary , rival unions inject resources , additional effort , innovative tactics , and more personnel , all of which have the potential to increase membership , an essential condition to alter union density .
+Perhaps , like competition among social movement organizations , union rivals ’ com- mitment to common goals and tactics allows for cooperation , and it is only when goals and tactics diverge that competition becomes destructive .
+This idea predicts that the radical rivals ( ALU , IWW , and TUUL ) would inhibit growth in union density , while the CIO would be more conducive to it .
+Yet , we argue that all of these federations are in- stances of the same phenomenon , union rivalry , and meet the statistical criterion of jointly not being equal to zero ( for evidence , see the online supplement at http : //asr .sagepub.com/supplemental ) .
+We expect that diffuse competition de- creases growth in the AFL/AFL-CIO but not in overall union density .
+This is because the AFL/AFL-CIO ’ s loss of organizers and resources will reappear as a supply to its dif- fuse competitors ( independents ) .
+Shifting re- sources from the federation to independents should decrease the AFL/AFL-CIO ’ s share of density but not overall union density , unless recipient organizations use the resour- ces less effectively .
+Our hypotheses focus on the relative size of competitors ’ membership and the number of competitor unions in relation to the size of the dominant federation .
+We call these key independent variables the competitor union membership ratio and the competitor union number ratio , respectively , and we create identical ratios for both aspects of indepen- dent unions .
+Hypotheses about the impact of direct competition are as follows : Hypothesis 1a : The annual change11 in the competitor union number ratio is positively related to the annual rate of change in both union density and AFL density .
+Hypothesis 1b : The annual change in the competitor union membership ratio is positively related to the annual rate of change in both union density and AFL density .
+Hypotheses about the impact of diffuse competition are as follows : Hypothesis 2a : The annual change in the independent union number ratio is not related to the annual rate of change in union density .
+Hypothesis 2b : The annual change in the independent union membership ratio is not related to the annual rate of change in union density .
+Hypothesis 2c : The annual change in the independent union number ratio is negatively related to the annual rate of change in AFL/AFL-CIO density .
+Hypothesis 2d : The annual change in the independent union membership ratio is negatively related to the annual rate of change in AFL/AFL-CIO density .
+DATA AND METHODS Dependent Variables : Union Density The main dependent variable , the annual per- centage change in union density , uses an esti- mate of the number of union members in 234 American Sociological Review 75 ( 2 ) the employed , nonagricultural civilian labor force ( United States Bureau of Labor Statistics 2007 ) .
+The total number of union members is the sum of our estimates for membership in the individual federations and all independent unions with affiliates in more than one state ; independent member- ship is the estimate of national membership minus all members of federations .
+All esti- mates remove Canadian members.12 This variable corresponds to our research question , which emphasizes the effects of inter-organizational competition on the labor movement as a whole .
+Percentage change in union density is preferred over logical alter- natives , such as the count of labor organiza- tions or union density alone ( the proportion of the eligible workforce that is in or covered by labor unions ) ( Southworth and Stepan- Norris 2009 ) .
+The annual rate of change is the standard variable in studies of union growth in economics , following Ashenfelter and Pencavel ’ s ( 1969 ) classic study , which an- alyzes the rate of change among union mem- bers .
+It is important to show that competition matters net of the same set of determinants and for the most common type of model .
+Furthermore , we focus on the growth of the labor movement for U.S. society as a whole ; by contrast , the population ecology school as- sesses the population of organizations or unions that are supported in a given environ- ment ( Barron , West , and Hannan 1994 ; Hannan and Freeman 1987 ) .13 A second dependent variable measures the percentage change in the density of AFL/AFL-CIO membership less the number of members gained or lost because of de- fections , splits , or mergers in the main feder- ation .
+This measure answers the question : What was the effect of competitors ’ defec- tion on unions that remained in the AFL/ AFL-CIO ?
+Including this variable avoids simply assuming that AFL/AFL-CIO density increased because of mergers or decreased because of splits or expulsions .
+Figure 1 shows U.S. annual union density , which reached an apex of just over 32 per- cent in 1953 to 1954 and then declined until 2005 .
+The overall percentage of the union- ized labor force covaries with the percentage of workers in the AFL/AFL-CIO .
+Figure 2 Mean = 18.9 A F L− C IO M er ge r 0 10 20 30 19 00 19 10 19 20 19 30 19 40 19 50 19 60 19 70 19 80 19 90 20 00 % Unionized % American Federation of Labor % AFL−CIO Figure 1 .
+U.S .
+Annual Union Density Sources : Gifford 2005 ; Hirsch and Macpherson 2006 ; Historical Statistics of the United States 2006 ; Troy and Sheflin 1985 .
+Stepan-Norris and Southworth 235 reports the absolute numbers of union mem- bers in the United States .
+One indication that the AFL-CIO pursued a conservative organizing strategy after the merger in 1955 is that it kept its absolute number of members relatively constant despite declining union density .
+The early-1960s to the late-1970s was a period of growth in independent unions , a factor that lessened the rate of decline in union density .
+Much of the overall decline resulted from a shift in employment away from the core industries of mining , manufacturing , and construction .
+Still , this shift explains national union density and does not account for the relative stability of the number of AFL-CIO members .
+The num- ber of union members continued to rise despite the shift in employment and the beginning of the decline in union density .
+The peak in the number of AFL-CIO union members came in the 1970s and remained relatively constant until a slight decline beginning in the 1980s .
+The number of jobs in core industries grew , while AFL-CIO membership numbers were flat and union density declined .
+Taken together , the growth of employment in core industries and the stability of absolute numbers of AFL-CIO members suggest that organizational behavior plays some role in changes in union density that is not explained by faster growth of non-union jobs outside of the industrial core .
+Figure 3 displays change in union density , the main dependent variable , which exhibits higher variance in the period prior to the AFL and CIO merger in 1955 than afterward .
+Shaded vertical boxes depict periods of direct competition between the main federation and rivals .
+We should emphasize that the rate of change can be both positive and declining ( e.g. , the CIO period ) and that this variable removes much of the obvious time trend .
+One challenge of this analysis is to opera- tionalize a measure of direct competition that is consistent with labor history ( Taft 1964 ) .
+On average , competitive periods experience positive rates of change ( a trend line above zero ) , and noncompetitive periods experience negative rates of change .
+Of course , this superficial correspondence between posi- tive growth and historical period does not confirm our argument that direct competition among unions results in new membership .
+0 5000 10000 15000 20000 U n io n M em b er sh ip in T h o u sa n d s 19 00 19 10 19 20 19 30 19 40 19 50 19 60 19 70 19 80 19 90 20 00 Number Union Members Number AFL Members Number AFL−CIO Members Figure 2 .
+Absolute Numbers of Union Members in the United States Sources : Gifford 2005 ; Hirsch and Macpherson 2006 ; Historical Statistics of the United States 2006 ; Troy and Sheflin 1985 .
+236 American Sociological Review 75 ( 2 ) Independent Variables To construct measures of direct competition from competitor federations and indirect competition from independent unions , we must assess their membership numbers com- pared with the dominant federation .
+Figure 4 displays competitor federation and AFL/ AFL-CIO membership .
+Prior to the CIO ( 1936 ) , the AFL ’ s rivals have smaller mem- berships : the membership of the ALU and the IWW peaks around 100,000 and the TUUL peaks at 74,000 .
+Membership in these federations exhibits a pattern of explosive growth followed by a dramatic decline .
+CIO membership has a high initial growth rate with no subsequent decline and hits a peak of 4.6 million members when it merged with the AFL .
+Membership in independent unions ( those without a national-level feder- ation ) grows to approximately one-third the level of the AFL-CIO during the 1970s .
+Figure 5 shows the numbers of unions in competing federations and independent unions .
+Rival federations differ in their orga- nizational structure , particularly the number of separate unions .
+The early rivals create a relatively small number of unions .
+This was the explicit strategy of the Wobblies , hence their slogan , ‘ ‘ one big union. ’ ’ The CIO creates more organizational units and grows to about one third the number of AFL unions prior to the merger .
+The figure shows that there are always more independent unions than rival unions with federations , and their numbers surpass the AFL-CIO in 2000 .
+We summarize the relative size of compet- itors in two ratios—the ratio of competitor unions to AFL unions and the ratio of com- petitor membership to AFL membership ( expressed as percentages ) .
+These ratios mea- sure organizational rivalries before 1955 ; direct competition does not occur again until the formation of the CTW and its effect , if any , is outside our timeframe .
+Figure 6 shows competition ratios for membership and number of unions .
+Direct competition between rival federations and the AFL , in terms of both membership and the number of organizations , trend together and are at their highest during the CIO period .
+Competitor unions as a propor- tion of AFL unions increases during the TUUL period and declines during the CIO period .
+Competitor membership is substantial only A LU IW W T U U L C IO −20 0 20 40 % C h an g e U n io n D en si ty 19 00 19 10 19 20 19 30 19 40 19 50 19 60 19 70 19 80 19 90 20 00 Competitive Period % Change in U.S. Union Density Figure 3 .
+Historical Periods of Competition and Change in Union Density Sources : Brissenden 1920 ; Foner 1964 ; Gifford 2005 ; Hirsch and Macpherson 2006 ; Historical Statistics of the United States 2006 ; Troy and Sheflin 1985 ; Wolman 1936 .
+Stepan-Norris and Southworth 237 during the CIO period , when it also has a high variance , notably falling and then rising during the war years .
+Our measures of diffuse competition—the ratios of independent unions and membership to AFL/AFL-CIO unions and membership— peak in the early 1950s and , after a decline , increase again from the 1960s to the 1980s .
+As a measure of diffuse competition , mem- bership and union ratios for independents A F L− C IO M er ge r 0 5000 10000 15000 T h o u sa n d s o f U n io n M em b er s 19 00 19 05 19 10 19 15 19 20 19 25 19 30 19 35 19 40 19 45 19 50 19 55 19 60 19 65 19 70 19 75 19 80 19 85 19 90 19 95 20 00 20 05 Independent Membership Competitor Union Membership Number AFL Members Number AFL−CIO Members Figure 4 .
+Competitor Federations and AFL/AFL-CIO Membership Sources : Brissenden 1920 ; Foner 1964 ; Gifford 2005 ; Hirsch and Macpherson 2006 ; Historical Statistics of the United States 2006 ; Troy and Sheflin 1985 ; Wolman 1936 .
+A F L− C IO M er ge r 0 50 100 150 N u m b er o f U n io n s 19 00 19 10 19 20 19 30 19 40 19 50 19 60 19 70 19 80 19 90 20 00 # AFL unions # AFL−CIO unions # Independent unions Competitor Unions Figure 5 .
+Numbers of Unions in Competing Federations and Independent Unions Sources : Brissenden 1920 ; Foner 1964 ; Gifford 1982 to 2007 ; Hirsch and Macpherson 2006 ; Historical Statistics of the United States 2006 ; Troy 1965 ; Troy and Sheflin 1985 ; U.S. Department of Labor 1926 to 1979 ; Wolman 1936 .
+238 American Sociological Review 75 ( 2 ) contain more noise than do those of rivals , because they are made up of various types of unions .
+The ratios of independent unions and membership run throughout the century , while those of rival federations exist only prior to 1955 .
+Control Variables We assess the role of the state legal infra- structure in policing union conflicts through NLRB unfair labor practice ( ULP ) cases from 1936 for adjudicated violations decided in favor of unions and from 1948 for cases decided in favor of employers ( the first year for each type of case ) ( U. S. NLRB Annual Report 1936 to 2005 ) .
+NLRB cases are resolved through a bureaucratic process of arbitration and , in many cases , circuit court cases and appeals ( Dannin 2006 ) .
+To focus on the hearing results that might matter for unions or employers , we tallied ULP cases that were adjudicated with or without the fil- ing of a formal complaint .
+We do not con- sider withdrawn or dismissed cases , even though it is common for unions and employ- ers to file cases as a propaganda technique or to engage their opponents ’ resources .
+Cases settled under the NLRB prior to 1948 , and CA cases ( charges against employers ) that were settled by consent or ruling , we consider pro-labor .
+We regard all other types of settled C cases ( ULP cases that involve charges against labor organizations ) as pro-capital.14 Although the measure is not ideal because some ULP cases do not concern organizing , and some decisions are much more important than others , it is an improvement over previ- ous measures .
+We expect pro-labor ULP cases to be positively related , and pro-capital cases to be negatively related , to the annual rate of change in union membership .
+The effect on AFL density , especially during the period of CIO rivalry , may have been some- what different .
+‘ ‘ With little justification evi- dent in its decisions , the National Labor Relations Board has been severely and widely criticized as prounion and , as between rival organizations , pro-CIO ’ ’ ( Millis and Montgomery 1945:545 ) .
+If in fact NLRB de- cisions favored the CIO , they may have come at the AFL ’ s expense .
+Controls for the state of the economy include inflation , core employment , and unemployment .
+We measure inflation with the consumer price index ( CPI ) ( Federal A LU IW W T U U L C IO 0 20 40 60 P er ce n ta g e o f A F L 19 00 19 05 19 10 19 15 19 20 19 25 19 30 19 35 19 40 19 45 19 50 19 55 % Competitors Unions % Competitor Members Figure 6 .
+Competition Ratios for Membership and Number of Unions Sources : Brissenden 1920 ; Foner 1964 ; Gifford 2005 ; Hirsch and Macpherson 2006 ; Historical Statistics of the United States 2006 ; Troy and Sheflin 1985 ; Wolman 1936 .
+Stepan-Norris and Southworth 239 Reserve Bank of Minneapolis 2006 ) .
+Although the CPI has experienced steady upward growth since the mid-century , the first difference in the CPI is a business cycle measure .
+The low annualized variation in the CPI makes the first difference of this variable similar to the annual rate of infla- tion ( r 5 .6 ) .
+The two differ when there are large inflationary shocks , a factor to which workers are supposed to react .
+Core employment is the sum of jobs in construction , manufacturing , and mining industries and is measured in a distributed lag model , in which we assume that contemporaneous core employ- ment has no effect on union density because unions do not immediately record redun- dancies as a loss of membership ( Historical Statistics of the United States 2006 ; National Bureau of Economic Research 1932 to 2004 ; U. S. Bureau of the Census 1975 ) .
+The percentage of U.S. House members who belong to the Democratic Party is a polit- ical control variable that measures the ‘ ‘ favorable political environment for advanc- ing working-class interests , and , perhaps , vulnerability of Democratic legislators to the demands of workers , a major constitu- ent ’ ’ ( Wallace , Rubin , and Smith 1988:15 ) .
+A final control variable measures political culture by the fluctuations in the percentage of the popular vote in presidential elections that favored socialist or communist parties .
+With this variable , we attempt to capture the progressive sentiment accompanying the New Deal , as well as the backlash associated with McCarthyism ( Stepan-Norris and Southworth 2007 ) .
+This measure has its high- est values in the 1910s and 1920s .
+Years between presidential elections receive linear interpolations ( Historical Statistics of the United States 2006 ) .
+Prais-Winsten Regression Model We estimate a linear , additive model with a feasible generalized least squares technique that accounts for the autoregressive processes present in the data and that is robust against heteroskedasticity ( Prais-Winsten method ) .
+The model postulates the percentage rate of change in union density as a function of eco- nomic control variables , political variables , and measures of competition .
+The dependent variable is % DU ¼ ðMt=CLFt Mt1=CLFt1Þ Mt1=CLFt1 100 ð1Þ where M is union membership and CLF is the civilian labor force ( both in thousands ) .
+Residuals from regression of this variable on all specifications of models in this article indicate a weak first-order autoregressive process , but Durbin-Watson and Breusch- Godfrey tests for autocorrelation reject that finding in favor of the null for a unit-root process for the first five lags ( Breusch- Godfrey LM test x2 5 8.919 , p \ .0028 ) .
+All regressors are strictly exogenous ; the series is stationary because all variables are differenced .
+To be conservative about the pos- sible implications of autoregression , we use the Prais-Winsten estimation technique ; Durbin- Watson statistics for the transformed depen- dent variable likewise reject the hypothesis of short-run serial autocorrelation .
+The model of union density is % DUt ¼ aþ b1Dcpit þ b2D % Et1 þ b3D % Et2 þ b4D % Et3 þ b5D % Uet1 þ b6D % Ct þ b7D % Iut þ b8D % Ict þ b9D % Dt þ b10DNlt þ b11DNct þ b12DLt þ mt ð2Þ where cpi is the consumer price index ; E is core employment ; Ue is unemployment ; C is the proportion of competitor unions or members ( entered separately because of a high correlation between these measures ) ; Iu is the proportion of independent unions and Ic is the proportion of independent mem- bers ; D is the percentage of Democrats in the house ; Nl and Nc are unfair labor practice 240 American Sociological Review 75 ( 2 ) cases adjudicated for labor and capital ; L is the percentage of ‘ ‘ left ’ ’ votes ; and m is the model residuals used to calculate r in the Prais-Winsten transformation ( see Altinay 2003 ; Greene 2000 ) .
+D indicates the first difference .
+RESULTS Table 1 provides descriptive statistics .
+The competition ratios for rival unions have many non-zero values between 1900 and 1955 ; for the entire period , competitor unions average 4.22 percent of the dominant fed- eration and competitor membership is 9.43 percent .
+Independent unions and membership have non-zero values over the entire period and exhibit higher averages ( 31.74 and 31.53 percent , respectively ) .
+That the main measures of state policy ( ULP cases ) and inter-union competition have zero values indicate the presence of radical historical shifts , periods in which there was essentially no rival federa- tion competition or little regulation .
+Table 2 presents the means of competition measures for different periods .
+The CIO period had the highest level of organizational competition in terms of rivals , as well as rel- atively high levels of independent unions ( but not membership ) .
+The percentage of independent membership was at its highest during the TUUL period , and independent or- ganizations remained a large percentage of the AFL-CIO total after the merger .
+In terms of membership , the IWW and TUUL periods have the smallest competitor union member- ship ratios , and the ALU and IWW periods have the smallest ( non-zero ) competitor union number ratios .
+Table 3 displays Prais-Winsten regression results of the percentage rate of change in union density .
+Models 1 and 2 relate to over- all union density .
+In accordance with Hypotheses 1a and 1b , regression models show an important role for direct competition between rival federations .
+Model 1 shows that greater numbers of competitor unions ( relative to the number in the dominant fed- eration ) contribute positively to the rate of Table 1 .
+Means and Standard Deviations , 1900 to 2005 Mean Standard Deviation Minimum Maximum Union Density Percent Unionized 19.68 7.89 7.72 32.36 Percent Change Union Density .80 7.03 219.28 29.30 Percent Change AFL Density 1.04 9.32 220.50 41.71 Direct Competition Percent Competitor Unions 4.22 6.79 .00 21.83 Percent Competitor Membership 9.43 19.19 .00 61.37 Percent Independent Unions 31.74 10.90 10.16 51.77 Percent Independent Membership 31.53 10.60 10.40 51.31 Political Environment Unfair Labor Practice Cases for Employers 855.30 973.74 .00 3066.00 Unfair Labor Practice Cases for Unions 3445.23 3809.02 .00 10675.00 Percent Democratic Party House Members 54.31 9.86 30.11 76.78 Percent Popular Votes for Left-Wing Parties 1.13 1.56 .00 6.18 Economic Controls Consumer Price Index 155.69 163.91 25.00 584.80 Percent Core Employment 32.34 9.58 15.68 48.59 Percent Unemployed 8.48 6.58 1.57 35.11 Note : N 5 105 for all variables .
+Stepan-Norris and Southworth 241 change in union density .
+As Hypothesis 2a suggests , having greater numbers of indepen- dent unions or members does not matter .
+In Model 2 , we enter the alternative measure of inter-union rivalry ( competitor union membership ratio ) , and it likewise positively contributes to the rate of change in union density .
+Again , as Hypothesis 2b suggests , the independent ratios do not affect union density .
+This suggests that unions react to large competitors but do not respond to the same stimuli from large independents .
+Increases in the number of independent unions , presumably aimed at different target employers or industries , do not affect overall union density .
+Comparing Model 1 with Model 2 , both competition ratios are positive , but when the estimates are standardized , competitor unions is .33 and competitor membership is .03 .
+This means that a one standard deviation change in competitor membership results in a larger change in union density .
+This makes sense , given that changing the relative balance in organizations by establishing a rival federation is much more difficult than adding several thousand members to a given federation .
+We do not enter the two variables together , because they are corre- lated ( r 5 .79 ) .
+Although the rate of change in union density appears to be more sensitive to challengers with many members , the depiction of a social environment with many competitors ( Model 1 ) fits the data bet- ter , suggesting closer conformity to history , where initial challenges had fewer unions ( and a smaller impact ) than did later ones .
+Variables measuring state action and the political environment also affect union den- sity .
+As expected , ULP cases favoring em- ployers have a negative impact ; contrary to our expectation , however , ULP cases for labor are not significant .
+These variables are proxies for the political environment and state rules ( often enforced by partisan committees ) in which unions operate .
+The fact that union density declines as ULP cases for employers increase indicates that the state machinery helps employers suppress unions .
+The nonfindings for union ULP cases suggest that unions waste precious resources in these proceedings for little return .
+Our measure of percent Democratic Party representatives is not significant .
+Alternative measures ( percent Democratic in the Senate , percent non-South Democrats , and a com- bined measure that shifts from percent Democrats in the non-South in 1968 to per- cent Democrats ) are highly correlated and exhibit the same lack of a statistical effect .
+Our measure of left political culture is signif- icant in both models .
+When popular votes to the left are high , union density increases ; when support for socialist and communist candidates declines , union density trends downward .
+Table 2 .
+Means of Competition Measures for Historical Periods Period Competitor Union Membership Competitor Union Number Independent Union Membership Independent Union Number ALU 1902 to 1904 2.04 1.99 22.13 15.26 IWW 1905 to 1924 1.51 2.60 26.61 17.85 TUUL 1928 to 1934 1.39 7.68 44.63 17.91 CIO 1937 to 1955 49.68 17.44 22.75 35.03 AFL-CIO only .00 .00 35.46 40.18 Note : Cells contain the percentage of AFL/AFL-CIO membership or unions .
+N 5 105 years for all variables .
+242 American Sociological Review 75 ( 2 ) Control variables for core employment perform as expected .
+The change in core employment does not have a significant con- temporaneous effect and is not entered , but its first three lags are jointly positive and all but one is significant .
+Contrary to expecta- tions , the first difference in CPI has a negative effect that is significant net of controls ( Table 3 ) , and unemployment is in the expected direc- tion but not significant .
+When the research question shifts from the labor movement , as a whole , to the ef- fects of rivals and independents on the AFL/AFL-CIO unions that remained in the dominant federation , some differences emerge ( Models 3 and 4 , Table 3 ) .
+Did com- petition increase union density solely by building up rivals , or did competition spur the dominant federation to keep step with new rivals ?
+Model 3 , in accordance with Table 3 .
+Prais-Winsten Regressions of the Percentage Rate of Change in Overall Union Density ( Models 1 and 2 ) and AFL/AFL-CIO Density ( Models 3 and 4 ) Model 1 Model 2 Model 3 Model 4 Competition D Competitor Union Number Ratio .911* .618* ( .256 ) ( .154 ) D Competitor Union Membership Ratio .229* .143* ( .094 ) ( .069 ) D Independent Union Number Ratio .119 2.091 .041 2.085 ( .155 ) ( .196 ) ( .208 ) ( .233 ) D Independent Union Membership Ratio 2.068 2.024 2.665* 2.650* ( .059 ) ( .089 ) ( .119 ) ( .127 ) Political Environment D Unfair Labor Practice Cases for 2.002* 2.003* .011* .010* Employers ( .001 ) ( .001 ) ( .004 ) ( .004 ) D Unfair Labor Practice Cases for Unions .000 .000 2.003* 2.003* ( .000 ) ( .000 ) ( .001 ) ( .001 ) D Percent Democratic Party House .015 .029 2.038 2.023 Members ( .070 ) ( .071 ) ( .123 ) ( .125 ) D Percent Popular Votes to Left Parties 5.967* 6.501* 7.235* 7.669* ( 2.334 ) ( 2.404 ) ( 2.023 ) ( 2.060 ) Economic Controls D Consumer Price Index 2.221* 2.229* 2.179* 2.184* ( .079 ) ( .081 ) ( .093 ) ( .090 ) D Percent Core Employmentt21 1.894* 2.153* 2.315* 2.443* ( .578 ) ( .677 ) ( .939 ) ( 1.006 ) D Percent Core Employmentt–2 .886* .776* .798* .738* ( .225 ) ( .237 ) ( .281 ) ( .280 ) D Percent Core Employmentt–3 .424* .345 .021 .016 ( .209 ) ( .217 ) ( .372 ) ( .392 ) D Percent Unemployedt–1 .771 .935 1.260* 1.339* ( .480 ) ( .563 ) ( .651 ) ( .696 ) Constant 3.072* 3.184* 3.072* 3.144* ( 1.040 ) ( 1.042 ) ( 1.053 ) ( 1.034 ) Adjusted R2 .50 .41 .34 .33 Untransformed Durbin-Watson 1.20 1.30 1.80 1.85 Transformed Durbin-Watson 1.86 1.89 1.95 1.95 r .44 .39 .12 .08 Note : N 5 105 for all models , 1900 to 2005 .
+The first observation is used by the Prais-Winsten method and is not the subject of analysis .
+Standard errors are in parentheses .
+*p \ .05 ( one-tailed test ) .
+Stepan-Norris and Southworth 243 Hypothesis 1a , shows that the relative num- ber of competitor unions , compared to AFL unions , positively affects growth in AFL den- sity .
+Model 4 , in accordance with Hypothesis 1b , shows the same effect for the ratio of competitor membership to AFL membership .
+This suggests that AFL unions respond to a social ecology where many actors are pres- ent , as well as to large competitors .
+In contra- diction to Hypothesis 2c , the ratio of independent to AFL/AFL-CIO unions does not affect AFL-CIO density , but the percent- age of independent membership negatively affects AFL/AFL-CIO density , as hypothe- sized .
+This indicates that growth in the mem- bership of unaffiliated independents ( diffuse competition ) comes at the expense of AFL/ AFL-CIO density .
+This change is not due to AFL/AFL-CIO membership shifting to inde- pendent unions , either through defections or expulsions , because the dependent variable is adjusted for membership of departing unions .
+The bottom line seems to be that the dominant , monopolistic federation posi- tively responds to many challengers seeking membership from different market niches , but large independents drain collective re- sources from the dominant organization ( but not from the overall movement ) through diffuse competition .
+NLRB cases decided in favor of labor negatively affect AFL/AFL-CIO density ; those decided in favor of employers posi- tively affect AFL/AFL-CIO density .
+These findings are the opposite of expectations but are in line with the idea that the NLRB was ‘ ‘ pro-CIO ’ ’ and enhanced CIO density at the expense of AFL density .
+This finding also suggests that AFL/AFL-CIO unions used scarce resources unsuccessfully when pursuing ULP cases .
+For overall union density , the central hypotheses about direct and diffuse competi- tion are confirmed ; hypotheses on state action are partly confirmed , in that NLRB unfair labor practice cases that favored capital nega- tively affect union density .
+Independent unions and members do not affect overall union density .
+For the AFL/AFL-CIO , meas- ures of direct competition positively , and independent membership negatively , impact density .
+DISCUSSION AND CONCLUSIONS Our results show that direct competition in the form of rival unionism does not distract workers from their larger aim of self- organization ; instead , competition enhances workers ’ representation vis-à-vis employers by increasing union density .
+That is , compe- tition between rival federations increases workers ’ power as a class .
+One might argue that fragmentation among union federations is detrimental to workers ’ class power , but historically , every rival federation has been forward-looking and has stimulated the dom- inant federation to adapt to existing condi- tions .
+Although diffuse competition in the form of independent unionism implies mem- bership growth at the expense of the domi- nant labor federation , it does not affect overall union density .
+The social science literature credits inter- organizational competition with benefits and deficits .
+Our empirical examination shows that the benefits of direct competition between unions outweigh the disadvantages of diffuse competition for the American labor movement .
+These results are quite different from those Hannan and Freeman ( 1987 , 1988a ) report with regard to the effects of union rivalry on individual union foundings and mortality .
+While Hannan and Freeman ( 1987:937 ) find that the ‘ ‘ founding rate of craft unions declines with the density of industrial unions , ’ ’ we find that rival unions enhance the density of union membership among AFL unions .
+In general , the AFL ’ s rivals increased growth in AFL membership and in overall union density , but the first three rivals did not force a fundamental shift in the AFL ’ s orientation toward industrial organizing .
+In response to changes in the industrial 244 American Sociological Review 75 ( 2 ) landscape and competition from the ALU , the IWW , and the TUUL , the AFL made some adjustments , but by and large contin- ued to organize and enroll mainly craft work- ers .
+While certain factions within the AFL perceived a need for industrial organization , and some AFL unions ( e.g. , miners and tex- tile workers ) organized along industrial lines , these actors remained outside the main- stream .
+The AFL refused to grant national charters to most groups of semi- and unskilled workers and instead enrolled them into Federal Labor Unions that had no voice in the larger federation .
+While individual AFL craft unions pros- pered during the early-twentieth century ( see Figure 2 ) , the labor movement as a whole faced an unseen crisis : the labor market and the workforce changed , yet the AFL did not adapt .
+From a social movement perspective , a slight decline in membership , if shared by all , may appear normal ( Gamson and Meyer 1996 ; Sawyers and Meyer 1999 ) .
+Opportunities that remain unnoticed are missed .
+Yet the introduction of direct compe- tition by peer groups may threaten existing unions and open possibilities for change .
+It is only after the CIO split that many craft unions began ‘ ‘ organizing along industrial lines or going into industries where the industrial form of organization was the only realistic way to handle the problem of collec- tive bargaining ’ ’ ( Roberts 1971:186 ) .
+The tendency toward organizational sta- sis is not unique to labor unions .
+Ross ( 1919:183 ) notes that ‘ ‘ it is chiefly competi- tion that keeps institutions adapted to the conditions they face and the people they serve .
+Without this spur the institution stands still or even degenerates. ’ ’ Economists argue that the ‘ ‘ failure or success [ of firms ] often reflects the willingness to depart from rules when conditions have changed ’ ’ ( Alchian 1950:218 ) .
+Similar arguments are made about political parties ( Katznelson and Kesselman 1987 ) .
+Throughout the twentieth century , the AFL bore the imprint of the social conditions surrounding its formation ( Stinchcombe 1965 ) : artisan production was dominant and mass production techniques had yet to appear .
+Membership required skill in a craft .
+DiMaggio and Powell ( 1983 ) argue that as organizational fields become established , a ‘ ‘ startling homogeneity ’ ’ of organizational forms tends to develop .
+The AFL ’ s early development ( 1880s through 1900 ) contrib- uted to union structuration by increasing inter-union contact , establishing a hierarchy among unions , improving the flow of infor- mation , and creating a sense of common identity .
+Yet as DiMaggio and Powell ( 1983:148 ) point out , ‘ ‘ organizational actors making rational decisions construct around themselves an environment that constrains their ability to change further in later years. ’ ’ Or as Carroll and Harrison ( 1994:745–46 ) argue : Early populations that grew fast showed remarkable resilience in warding off later but structurally superior competitors .
+.
+.
+.
+The social acceptance of a particular form may embed the population defined by it so strongly in the social fabric of its environ- ment as the ‘ ‘ right way ’ ’ to accomplish a par- ticular task or goal that it renders technically superior alternatives unthinkable and thus unviable .
+Therefore , as the AFL attained dominance within its environment , its ability to suppress rivals increased and it became less necessary for the AFL to adapt to new conditions .
+DiMaggio and Powell ( 1983 ) outline three mechanisms that encourage institutional iso- morphic change : coercive ( pressure from the state , other organizations , and cultural ex- pectations ) , mimetic ( uncertainty encourages imitation ) , and normative ( via professionali- zation ) pressures .
+While pressure from the early , smaller rival union federations alone did not force AFL unions to reconsider their focus on craft workers , pressure from the CIO had a differ- ent effect .
+The CIO , which is larger and situ- ated in a more radical political culture , Stepan-Norris and Southworth 245 including new labor legislation and the crea- tion of the NLRB , successfully moved the AFL out of its nearly exclusive focus on craft workers .
+By 1955 , when the two federations merged , and ‘ ‘ the membership of former AFL affiliates was about twice as large as the membership of former CIO affiliates , two out of three members of unions in the AFL-CIO belonged to industrial unions or to unions which frequently organized on an industrial basis ’ ’ ( Kahn 1959:5 ) .
+Why Was the CIO ’ s Challenge Successful ?
+One answer comes from the social movement literature : McAdam ’ s ( 1982 ) findings concern- ing the civil rights movement indicate that it is only when rivals ’ basic goals and tactics corre- spond with those of the main federation that competitive energies are used positively .
+Whereas the ALU , the IWW , and the TUUL represent radical options , the CIO is more mod- erate .
+The divergence of goals between the AFL and its earlier rivals may have led to comparatively more destructive competition , whereas the relative similarity of the AFL and the CIO ’ s goals and tactics may have al- lowed for more cooperative efforts .
+A second possibility is that it was the CIO ’ s size that mattered .
+While AFL unions did not alter their structure , the federation it- self mimicked the organizing strategies and decisions of its earlier rivals .
+In response to the ALU , the AFL sent organizers to the west- ern states where the ALU ’ s precursor was active .
+Although unsuccessful , ALU leader Eugene Debs ’ s explicit strategy was to influ- ence the AFL unions ’ organizational form : Debs declared that he was a friend , not the enemy of the A.F .
+of L. , and he urged the Socialists who worked inside the Federation to remain there and ‘ ‘ continue their efforts. ’ ’ He assured them that they would receive help from the very existence of the western movement , for the A.L.U .
+would serve to inspire all workers who favored industrial unionism , socialism and political action , and , in order to hold its own , the A.F .
+of L. would be compelled to adopt these principles and initiate new organizing efforts .
+( Foner 1964:420 ) Debs was wrong .
+While the ALU , the IWW , and the TUUL posed some threat to the AFL , their limited organizational success , and therefore the extent to which they could put AFL unions on the defensive , was bounded .
+In each case , no more than one AFL union initially affiliated with the rival ; while other AFL unions may have con- templated switching affiliations ( e.g. , the International Union of United Brewery Workmen considered affiliating with the IWW shortly after its founding [ Foner 1965 ] ) , none did .
+Without a cadre of estab- lished unions to serve as models of industrial unionism , individual AFL unions did not adopt the industrial organizing form , even though inter-organizational imitation did occur at the federation level ( e.g. , between the AFL and the ALU ) .
+By contrast , the CIO led a major exodus of unions from the AFL .
+It enrolled semi- and unskilled workers and altered its admission requirements to allow for membership among the less skilled .
+With the United Electrical Workers ’ ( CIO ) success , for example , the International Brotherhood of Electrical Workers ( AFL ) initiated a ‘ ‘ B class ’ ’ mem- bership ( unskilled ) for the first time in its 45-year history ( Fink 1977 ) .
+AFL unions ’ imitation of CIO unions , and AFL unions ’ failure to imitate the ALU , the IWW , or the TUUL unions , is consistent with Haunschild and Miner ’ s ( 1997 ) argument that imitative learning is often outcome-based and enhanced with salient results ( cf .
+March and Olsen 1976 ; March , Sproull , and Tamuz 1991 ) .
+The IWW attracted a good deal of media attention around its strikes , but its organizational challenges doomed its unions in the long term ( Dubofsky 1969 ) .
+CIO unions , by contrast , produced forms of 246 American Sociological Review 75 ( 2 ) successful protest with their popularization of sit-down strikes and other innovative tactics , which translated into rapidly growing unions .
+Lewis Hines , working out of Philadelphia , observed that ‘ ‘ there is hardly a local union of a National or International organization which has not been invaded by this [ CIO ] group ’ ’ ( Taft 1937 ) .
+It may have been the scale of the CIO ’ s success , its staffing by experienced organizers , and its fast organiza- tional growth , rather than the context of a new organizational terrain , that attracted the attention of AFL unions and led them to imitate CIO tactics and organizational forms , which in turn led to AFL unions ’ growth .
+Finally , a likely impetus for the AFL ’ s fundamental change is the context in which the CIO rivalry occurred .
+Consistent with DiMaggio and Powell ’ s ( 1983 ) argument , while growth in union density is associated with competition alone , institutional change in the dominant federation happened only when competition occurred in a favorable political environment .
+Yet it is important to note that changing political culture and new laws and government boards alone did not change how the AFL operated .
+It was rival unions going head-to-head with the dominant federation that moved the AFL from its 50- year reliance on craft organizing toward more inclusive industrial organizing .
+For a time , the combination of craft and industrial unions served the labor movement well .
+Now , almost 70 years later , the AFL- CIO finds itself in a different economy , where , according to some ( see Milkman 2006 ) , the industrial form of organizing is inadequately suited to the new environment .
+Just-in-time production , capital flight , out- sourcing , and the growth of the service sector all constitute considerable challenges for unions , most of which remain unanswered ( Bonacich and Wilson 2007 ) .
+Change to Win ( CTW ) has taken up the mantle of change .
+CTW is emblematic of third-moment unionism , which offers a different conception of membership jurisdiction .
+Here , ‘ ‘ multi- jurisdictional unions tend to organize workers of multiple occupations , industries , or both , often the lowest-wage and most marginalized workers in a broad economic sector , and they tend to be concentrated in services and peripheral manufacturing ’ ’ ( Cornfield 2007:239–40 ) .
+CTW proposes to consolidate unions ; our research suggests that maintain- ing multiple rival unions might be a better strategy .
+Nevertheless , CTW ’ s new stream- lined structure and enhanced energy , along with its forward-looking agenda , will likely challenge existing unions to re-organize workers who have abandoned the movement and to recruit those who have traditionally re- mained unorganized .
+We are already begin- ning to see growth in private union density .
+The CTW challenge , together with favorable regulatory and legal changes , could lead to a powerful reversal of labor ’ s fortunes.15 Acknowledgments We are grateful to UCI ’ s Center for the Study of Democracy and Center for Organizational Research for funding and to Jasmine Kerrissey , Ann Leymon , and Brandon Olszewski for research assistance .
+Authors ’ Note The data and analysis in the article are the product of a completely joint effort by both authors .
+Notes 1 .
+One could argue that union density is a better indi- cator of success for industrial unions than for craft unions .
+Industrial unions derive their strength through organizing all workers in order to avoid lower-paid replacement labor .
+Craft unions rely on their members ’ monopoly of skills .
+As we will see , however , craft unions are also very interested in increasing their membership , and thereby , their union density .
+2 .
+Organizational survival and membership growth/ decline are related but distinct phenomena .
+Organizations may grow or decline without affect- ing their survival , but a decline below a baseline membership may mean organizational death .
+Drastic membership growth may indicate healthier organizations but not affect survival .
+3 .
+Although the IWW existed after 1924 , historians identify it as a rival union during this period .
+Stepan-Norris and Southworth 247 Dubofsky ( 1969:95 ) states that ‘ ‘ to Gompers .
+.
+.
+the IWW was nothing less than a creation of American socialists intended to replace the AFL. ’ ’ But ‘ ‘ by the time of its 1924 convention .
+.
+.
+the IWW stood on the verge of collapse ’ ’ ( p. 465 ) .
+4 .
+The TUUL dissolved in February 1935 , so we do not count it in our models after 1934 .
+5 .
+The CIO was suspended in 1936 , a change reflected in our data in 1937 .
+6 .
+Even this split and the existence of the new federa- tion is tenuous , with UNITE-HERE stating that it would leave CTW and rejoin the AFL-CIO in late 2009 .
+While we do not directly assess CTW ’ s effect , our results suggest what its importance might be .
+7 .
+Our sample of independent unions includes only independent national unions .
+8 .
+A more precise measure of diffuse competition would require information on resources and the number of AFL/AFL-CIO , rival , and independent union organizers ; their inter-federation transfers ; and the difficulty of recruiting new organizers .
+This information is not available .
+9 .
+The AFL suspended CIO unions in 1936 and expelled them in 1938 .
+10 .
+Hannan and Freeman ( 1987:918 ) argue that ‘ ‘ the more numerous the competitors , the smaller the potential gains from founding an organization ( and the bigger cost to potential competitors ) at a given level of demand for products and services. ’ ’ Yet this phenomenon is not operative until the field reaches near saturation .
+Although unions have orga- nized the vast majority of eligible workers in some industries , they have not come close to the satura- tion point for the civilian labor force .
+11 .
+The annual change is the first difference , that is , Xt – Xt21 .
+12 .
+Sources are as follows : Total membership 1897 to 1983 ( Troy and Sheflin 1985 ) and 1973 to 2005 ( Hirsch and Macpherson 2003 , 2006 ) , who compile the Current Population Survey data .
+Counts of AFL/ AFL-CIO and independent unions and membership are from Wolman ( 1936 ) , Troy and Sheflin ( 1985 ) , and Gifford ( 1983 to 2007 ) .
+Gifford estimates inde- pendent and AFL-CIO unions and membership from 1983 to 2005 based on biannual convention re- ports ; intervening years are linear interpolations .
+A variety of sources provide data on the ALU ( Foner 1964 ) , the IWW ( American Labor Yearbook 1916–1932 ; Brissenden 1920 ; Wolman 1936 ) , and the TUUL ( Galenson 1966 ; Wolman 1936 ) .
+A replication dataset is available at ICPSR ( http : //www.icpsr.umich.edu/ ) .
+13 .
+An alternative model might focus on counts rather than rates to simplify the interactions inherent in the rate of change as a dependent variable .
+Our main model produces similar results using the number of union members as the dependent variable and controlling for the time trend and the lag of the count , which is present in the first-difference .
+14 .
+This includes some noise , namely CE cases that are collusions between unions and employers to refrain from handling another employer ’ s products and CG cases , in which unions fail to notify the Federal Mediation and Conciliation Service of a strike or picket at a health care institution .
+This noise is minor : in 2004 , there were 10 adjudicated CE cases and 12 adjudicated CG cases out of 10,632 total cases .
+CE cases were added to NLRB regulations effective 1960 , CG effective 1975 .
+15 .
+Our results indicate that rival unionism spurs growth in union density but do not indicate that rival unionism is the only possible mechanism to accomplish that result .
+As others suggest , progres- sive ideological orientations may keep unions more in tune with workers ’ interests ( Stepan- Norris and Zeitlin 2003 ) and may energize organiz- ing efforts , even in the absence of competition ( Goldfield 1987 ; Voss and Sherman 2000 ) .
+Progressive union leaders ’ internal motivations may substitute for the competitive challenge that stimulates other leaders .
+References Abbott , Andrew .
+1988 .
+The System of Professions .
+Chicago , IL : University of Chicago Press .
+Alchian , Armen .
+1950 .
+‘ ‘ Uncertainty , Evolution , and Economic Theory. ’ ’ The Journal of Political Economy 58:211–21 .
+Altinay , Galip .
+2003 .
+‘ ‘ Estimating Growth Rate in the Presence of Serially Correlated Errors. ’ ’ Applied Economics Letters 10:967–70 .
+The American Labor Year Book .
+c1916–c1932 .
+Prepared by the Department of Labor Research of the Rand School of Social Science .
+New York : Rand School of Social Science .
+Ashenfelter , Orley and John Pencavel .
+1969 .
+‘ ‘ American Trade Union Growth , 1900–1960. ’ ’ Quarterly Journal of Economics 83:434–48 .
+Baird , Charles W. 2000 .
+‘ ‘ Unions and Antitrust. ’ ’ Journal of Labor Research 21:585–600 .
+Barron , David , Elizabeth West , and Michael Hannan .
+1994 .
+‘ ‘ A Time to Grow and a Time to Die : Growth and Mortality of Credit Unions in New York City , 1914–1990. ’ ’ American Journal of Sociology 100:381–421 .
+Baum , Joel and Jitendra Singh .
+1996 .
+‘ ‘ Dynamics of Organizational Responses to Competition. ’ ’ Social Forces 74:1261–97 .
+Bonacich , Edna and Jake B. Wilson .
+2008 .
+Getting the Goods : Ports , Labor , and the Logistics Revolution .
+248 American Sociological Review 75 ( 2 ) Ithaca , NY , and London , UK : Cornell University Press .
+Bothner , Matthew .
+2003 .
+‘ ‘ Competition and Social Influence : The Diffusion of the Sixth-Generation Processor in the Global Computer Industry. ’ ’ American Journal of Sociology 108:1175–1210 .
+Brissenden , Paul .
+1920 .
+The I.W.W .
+: A Study of American Syndicalism .
+New York : Columbia University .
+Canfield , George .
+1912 .
+‘ ‘ Competition : The Safeguard and Promoter of General Welfare. ’ ’ The Annals of the American Academy of Political and Social Science 42:89–97 .
+Carroll , Glen and Richard Harrison .
+1994 .
+‘ ‘ On the Historical Efficiency of Competition between Organizational Populations. ’ ’ American Journal of Sociology 100:720–49 .
+Change to Win .
+2006 .
+‘ ‘ Who We Are. ’ ’ Retrieved December 1 , 2006 ( http : //www.changetowin.org/ fileadmin/pdf/CTW2Pager.pdf ) .
+Chaves , Mark and Philip Gorski .
+2001 .
+‘ ‘ Religious Pluralism and Religious Participation. ’ ’ Annual Review of Sociology 27:261–81 .
+Clawson , Dan .
+2003 .
+The Next Upsurge : Labor and the New Social Movements .
+Ithaca , NY : ILR Press of Cornell University Press .
+Columbia Law Review .
+1959 .
+‘ ‘ State Court Holds Employer Must Show Bona Fide Collective Agreement in order to Obtain Temporary Injunction against Picketing by Rival Union. ’ ’ 59:810–13 .
+Cornfield , Daniel .
+2007 .
+‘ ‘ Seeking Solidarity .
+.
+.
+Why , and with Whom ? ’ ’ Pp .
+235–51 in Labor in the New Urban Battlegrounds : Local Solidarity in a Global Economy , edited by L. Turner and D. Cornfield .
+Ithaca , NY and London , UK : ILR Press of Cornell University Press .
+Dahl , Robert .
+1972 .
+Democracy in the United States : Promise and Performance .
+Chicago , IL : Rand McNally and Co. Dannin , Ellen .
+2006 .
+Taking Back the Workers ’ Law : How to Fight the Assault on Labor Rights .
+Ithaca , NY , and London , UK : Cornell University Press .
+DiMaggio , Paul and Walter Powell .
+1983 .
+‘ ‘ The Iron Cage Revisited : Institutional Isomorphism and Collective Rationality in Organizational Fields. ’ ’ American Sociological Review 48:147–60 .
+Dubofsky , Melvyn .
+1969 .
+We Shall Be All : A History of the IWW .
+New York : Quadrangle/New York Times Book Company .
+Fantasia , Rick and Kim Voss .
+2004 .
+Hard Work : Remaking the American Labor Movement .
+Berkeley , CA : University of California Press .
+Federal Reserve Bank of Minneapolis .
+2006 .
+‘ ‘ Consumer Price Index 1800–2005. ’ ’ Retrieved October 22 , 2006 ( http : //www.minneapolisfed.org/ community_education/teacher/calc/hist1800.cfm ) .
+Fink , Gary .
+1977 .
+Labor Unions .
+Westport , CT , and London , UK : Greenwood Press .
+Finke , Roger and Rodney Stark .
+1998 .
+‘ ‘ Religious Choice and Competition. ’ ’ American Sociological Review 63:761–66 .
+Foner , Philip .
+1964 .
+History of the Labor Movement in the United States Vol .
+III : The Policies and Practices of the American Federation of Labor , 1900–1909 .
+New York : International Publishers .
+——— .
+1965 .
+The Industrial Workers of the World 1905–1917 .
+New York : International Publishers .
+Foster , William Z .
+1947 .
+American Trade Unionism .
+New York : International Publishers .
+Galenson , Walter .
+1966 .
+Rival Unionism in the United States .
+New York : Russell & Russell .
+Gamson , William and David Meyer .
+1996 .
+‘ ‘ Framing Political Opportunity. ’ ’ Pp .
+275–90 in Comparative Perspectives in Social Movements : Political Opportunities , Mobilizing Structures and Cultural Framings , edited by D. McAdam , J. McCarthy , and M. Zald .
+Cambridge , UK : Cambridge University Press .
+Ganz , Marshall .
+2000 .
+‘ ‘ Resources and Resourcefulness : Strategic Capacity in the Unionization of California Agriculture , 1959–1966. ’ ’ American Journal of Sociology 105:1003–62 .
+Gifford , Courtney .
+1983 , 1985 , 1987 , 1989 , 1991 , 1993 , 1996 , 1997 , 1998 , 1999 , 2000 , 2001 , 2002 , 2003 , 2004 , 2005 , 2006 , 2007 .
+Directory of U.S. Labor Organizations .
+Washington , DC : The Bureau of National Affairs .
+Goldfield , Michael .
+1987 .
+The Decline of Organized Labor in the United States .
+Chicago , IL : University of Chicago Press .
+Greene , William H. 2000 .
+Econometric Analysis .
+Saddle River , NJ : Prentice Hall .
+Griffin , Larry , Michael Wallace , and Beth Rubin .
+1986 .
+‘ ‘ Capitalist Resistance to the Organization of Labor before the New Deal : Why ?
+How ?
+Success ? ’ ’ American Sociological Review 51:147–67 .
+Hannan , Michael and John Freeman .
+1987 .
+‘ ‘ The Ecology of Organizational Founding : American Labor Unions , 1836–1985. ’ ’ American Journal of Sociology 92:910–43 .
+——— .
+1988a .
+‘ ‘ The Ecology of Organizational Mortality : American Labor Unions , 1836–1985. ’ ’ American Journal of Sociology 94:25–52 .
+——— .
+1988b .
+Organizational Ecology .
+Cambridge , MA : Harvard University Press .
+Haunschild , Pamela and Anne Miner .
+1997 .
+‘ ‘ Modes of Interorganizational Imitation : The Effects of Outcome Salience and Uncertainty. ’ ’ Administrative Science Quarterly 42:472–500 .
+Haveman , Heather A .
+1990 .
+‘ ‘ Diversification , Performance and Mortality : An Ecological Analysis. ’ ’ Paper presented at the annual meeting of the Academy of Management , San Francisco , CA .
+Hirsch , Barry T. and David A. Macpherson .
+2003 .
+‘ ‘ Union Membership and Coverage Database from Stepan-Norris and Southworth 249 the Current Population Survey : Note. ’ ’ Industrial and Labor Relations Review 56:349–54 .
+——— .
+2006 .
+‘ ‘ Union Membership and Coverage Database from the Current Population Survey. ’ ’ Retrieved Oct. 1 , 2006 ( http : //www.unionstats.com/ ) .
+Historical Statistics of the United States .
+2006 .
+Online database : Millennial Edition .
+Cambridge , UK : Cambridge University Press .
+Retrieved Oct. 1 , 2006 ( http : //hsus.cambridge.org/ ) .
+Kahn , Mark .
+1959 .
+‘ ‘ Recent Jurisdictional Developments in Organized Labor. ’ ’ Quoted from version in Philip Taft Papers , Kheel Center for Labor-Management Documents & Archives ; M.P .
+Catherwood Library , School of Industrial and Labor Relations , Cornell University .
+Collection 5541 Box 7 Folder 30 ; also in Harold Davey , Howard Kaltenborn , and Stanley Ruttenborn , eds .
+New Dimensions in Collective Bargaining .
+New York : Harper .
+Katznelson , Ira and Mark Kesselman .
+1987 .
+The Politics of Power .
+New York : Harcourt Brace Jovanovich , Publishers .
+Lipset , Seymour Martin , Martin Trow , and James Coleman .
+1962 .
+Union Democracy .
+Garden City , NY : Doubleday Anchor .
+March , James and J. P. Olsen .
+1976 .
+Ambiguity and Choice in Organizations .
+Norway : Universitetsforlaget .
+March , James , Lee Sproull , and Michael Tamuz .
+1991 .
+‘ ‘ Learning from Samples of One or Fewer. ’ ’ Organization Science 2:1–13 .
+Marx , Karl .
+1894 .
+Capital : The Process of Capitalist Production as a Whole .
+Vol .
+3 .
+New York : International Publishers .
+McAdam , Doug .
+1982 .
+Political Process and the Development of Black Insurgency , 1930–1970 .
+Chicago , IL , and London , UK : The University of Chicago Press .
+Milkman , Ruth .
+2006 .
+‘ ‘ Divided We Stand. ’ ’ New Labor Forum 15:38–46 .
+Millis , Harry and Royal Montgomery .
+1945 .
+Organized Labor .
+New York : McGraw-Hill .
+Miner , Anne , Paula Bassoff , and Christine Moorman .
+2001 .
+‘ ‘ Organizational Improvisation and Learning : A Field Study. ’ ’ Administrative Science Quarterly 46:304–337 .
+Miner , Anne and Pamela Haunschild .
+1995 .
+‘ ‘ Population Level Learning. ’ ’ Pp .
+115–66 in Research in Organizational Behavior , Volume 17 , edited by L. L. Cummings and B. M. Staw .
+Greenwich , CT , and Middlesex , UK : JAI Press .
+Moody , Kim .
+1988 .
+An Injury to All : The Decline of American Unionism .
+London , UK : Verso .
+National Bureau of Economic Research .
+1932–2004 .
+‘ ‘ Establishment Survey. ’ ’ Reed , Merl E. 1977 .
+‘ ‘ American Federation of Labor ( AFL ) . ’ ’ Pp .
+11–15 in Labor Unions , edited by G. Fink .
+Westport , CT , and London , UK : Greenwood Press .
+Roberts , Harold .
+1971 .
+Robert ’ s Dictionary of Industrial Relations .
+Washington , DC : The Bureau of National Affairs .
+Ross , Edward .
+1919 .
+‘ ‘ Institutional Competition. ’ ’ American Journal of Sociology 25:171–84 .
+Sawyers , Traci and David Meyer .
+1999 .
+‘ ‘ Missed Opportunities : Social Movement Abeyance and Public Policy. ’ ’ Social Problems 46:187–206 .
+Slichter , Sumner H. 1935 .
+‘ ‘ The Government and Collective Bargaining. ’ ’ The Annals of the American Academy of Political and Social Science 178:107–22 .
+Smith , Adam .
+[ 1776 ] 1981 .
+An Inquiry into the Nature and Causes of the Wealth of Nations .
+Indianapolis , IN : Liberty Fund .
+Southworth , Caleb .
+2002 .
+‘ ‘ Aid to Sharecroppers : How Agrarian Class Structure and Tenant-Farmer Politics Influenced Federal Relief in the South , 1933–1935. ’ ’ Social Science History 26:37–74 .
+Southworth , Caleb and Judith Stepan-Norris .
+2009 .
+‘ ‘ What We Don ’ t Know about American Labor Unions : A New Agenda for Labor Studies. ’ ’ Annual Review of Sociology 35:297–320 .
+Stepan-Norris , Judith and Caleb Southworth .
+2007 .
+‘ ‘ Churches as Organizational Resources : A Case Study in the Geography of Religion and Political Voting in Post-War Detroit. ’ ’ Social Science History 31:343–80 .
+Stepan-Norris , Judith and Maurice Zeitlin .
+2003 .
+Left Out : Reds and America ’ s Industrial Unions .
+Cambridge and New York : Cambridge University Press .
+Stinchcombe , Arthur .
+1965 .
+‘ ‘ Social Structures and Organizations. ’ ’ Pp .
+153–93 in Handbook of Organizations , edited by J .
+March .
+Chicago , IL : Rand McNally .
+Swaminathan , Anand and Jacques Delacroix .
+1991 .
+‘ ‘ Differentiation within an Organizational Population : Additional Evidence from the Wine Industry. ’ ’ Academy of Management Journal 34:679–92 .
+Taft , Philip .
+Papers .
+1937 .
+Kheel Center for Labor-Management Documents & Archives ; M. P. Catherwood Library , School of Industrial and Labor Relations , Cornell University .
+Collection 5541 Box 4 Folder 27 .
+——— .
+1964 .
+Organized Labor in American History .
+New York : Harper & Row .
+Troy , Leo .
+1965 .
+Trade Union Membership , 1897–1962 .
+New York : National Bureau of Economic Research .
+Troy , Leo and Neil Sheflin .
+1985 .
+U.S. Union Sourcebook .
+West Orange , NJ : Industrial Relations Data and information Systems .
+U. S. Bureau of the Census .
+1975 .
+Historical Statistics of the United States : Colonial Times to 1970 .
+Washington , DC : Government Printing Office .
+U. S. Bureau of Labor Statistics .
+Table B1 , ‘ ‘ Employees on Nonfarm Payrolls. ’ ’ Retrieved March 17 , 2007 ( http : //www.bls.gov/ ) .
+250 American Sociological Review 75 ( 2 ) U. S. Department of Labor .
+1926 , 1929 , 1936 , 1943 , 1946 , 1947 , 1948 , 1950 , 1953 , 1955 , 1957 , 1963 , 1967 , 1969 , 1971 , 1973 , 1975 , 1977 , 1979 .
+Directory of National and International Labor Unions in the United States ( titles vary slightly ) .
+U. S. National Labor Relations Board Annual Report .
+1936 to 2005 .
+Washington , DC : National Labor Relations Board .
+Vickers , John .
+1995 .
+‘ ‘ Concepts of Competition. ’ ’ Oxford Economic Papers 47:1–23 .
+Voss , Kim and Rachel Sherman .
+2000 .
+‘ ‘ Breaking the Iron Law of Oligarchy : Union Revitalization in the American Labor Movement. ’ ’ American Journal of Sociology 106:327–33 .
+Wallace , Michael , Beth Rubin , and Brian Smith .
+1988 .
+‘ ‘ American Labor Law : Its Impact on Working- Class Militancy , 1901–1980. ’ ’ Social Science History 12:1–29 .
+Wolman , Leo .
+1936 .
+Ebb and Flow in Trade Unionism .
+New York : National Bureau of Economic Research .
+Zieger , Robert H. 1995 .
+The CIO 1935–1955 .
+Chapel Hill , NC : University of North Carolina Press .
+Judith Stepan-Norris ’ s research centers on union struc- ture , leadership , and democracy and on the workers who are their members .
+Her historical work focuses on American unions affiliated with the Congress of Industrial Organizations from the 1930s through the mid-1950s , the United Automobile Workers Union , and UAW Local 600 in particular .
+Other research in- cludes studies of unions ’ and churches ’ impact on their neighborhoods ( with Caleb Southworth ) ; the AFL- CIO ’ s Union Summer program ( with Leslie Bunnage ) ; and the Los Angeles renters movement ( with Ben Lind ) .
+Stepan-Norris and Southworth are currently working on an NSF-funded project to collect multifac- eted data on a sample of unions for the entire twentieth century .
+Caleb Southworth is a methodologist and economic sociologist whose work examines the state-society rela- tionship in periods of large-scale social change .
+In both ethnographic and survey-based studies , he examines the end of the socialist state in Russia and Ukraine to show that market-averse behavior by firms and workers alters capitalist development .
+His studies with Judith Stepan- Norris of Detroit in the 1950s employ geographic meth- ods to show that union politics and religion shape class relations .
+Current projects include the development of a dataset on American labor unions in the twentieth cen- tury and an analysis of the overlap between quantitative and qualitative methodologies .
+Stepan-Norris and Southworth 251 Copyright of American Sociological Review is the property of American Sociological Association and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder 's express written permission .
+However , users may print , download , or email articles for individual use .

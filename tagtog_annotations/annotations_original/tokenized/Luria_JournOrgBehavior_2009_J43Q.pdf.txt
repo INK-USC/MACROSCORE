@@ -1,0 +1,886 @@
+Luria_JournOrgBehavior_2009_J43Q.pdf
+aeuVk14Az_j1FFcmGKXIaANeX16G-Luria_JournOrgBehavior_2009_J43Q.pdf.plain.html
+
+Resources and coping with stressful events GIL LURIA1* AND AMRAM TORJMAN2 1Department of Human Services , University of Haifa , Mount Carmel , Haifa , Israel 2The School of Business Administration , College of Management , Rishon Lezion , Israel Summary This longitudinal , quasi-field experiment tested whether perceived stress and increase in perceived stress are related to the resources of the individual , namely , personality ( core self evaluation scale ( CSES ) ) , physical fitness , social support ( acceptance and/or rejection by peers ) , and cognitive abilities .
+Perceived stress scale ( PSS ) was administered at two points in time to participants in a two-day selection process for a military unit , whose stressful environment formed the manipulation in this study .
+Baseline PSS was obtained from soldiers before the selection activity , when threatened with resource loss .
+PSS was next administered during the selection activity , when individuals had to cope with actual loss of resources and difficulty in regaining them .
+As expected , participants perceived more stress during the selection activity .
+Participants with higher CSES , higher cognitive abilities and higher levels of social support perceived lower stress levels prior to the activity .
+The increase in stress level was lower for participants with better fitness levels , but greater for participants rejected by their peers .
+Exploratory analysis of resource overlap was conducted and revealed a contribution of few key resources to coping , even in the presence of other resources .
+Copyright # 2008 John Wiley & Sons , Ltd. Introduction Stress has been described as ‘ ‘ the relationship between the person and the environment that is appraised by the person as taxing or exceeding his or her resources and endangering his or her well-being ’ ’ ( Lazarus & Folkman , 1984 ) .
+The causes of such an appraisal are called stressors .
+For example , overload , role conflict , and role ambiguity are frequently cited as stressors in stress research ( e.g. , Beehr & Newman , 1978 ; House , 1983 ; Kahn , Wolfe , Snoek , Quinn , & Rosental , 1964 ) .
+Amore general example is given by Holmes and Rahe ( 1967 ) , who suggest that ‘ ‘ life events ’ ’ necessitate readjustment and are therefore stressful .
+Thus , in general , stressors are events that threaten loss of resources , or difficulties in regaining them ( Hobfoll , 1989 ) .
+Some researchers also contend that the absence of positive characteristics such as variety , autonomy , and challenge is also a stressor ( Caplan , 1983 ; Kanner , Kafry , & Pines , 1978 ) .
+Stressors can be divided into two levels : Initially , research focused on small life events that were suggested as having a cumulative effect , such as losing one ’ s keys , getting a flat tire , or running late .
+These are known as micro-events ( Coddington , 1972 ; Dohrenwend & Dohrenwend , 1974 ; Holmes & Journal of Organizational Behavior J. Organiz .
+Behav .
+30 , 685–707 ( 2009 ) Published online 17 September 2008 in Wiley InterScience ( www.interscience.wiley.com ) DOI : 10.1002/job.551 *Correspondence to : Gil Luria , Department of Human Services , University of Haifa , Mount Carmel , Haifa 31905 , Israel .
+E-mail : gluria @ univ.haifa.ac.il Copyright # 2008 John Wiley & Sons , Ltd .
+Received 22 May 2007 Revised 3 July 2008 Accepted 29 July 2008 Rahe , 1967 ; Monaghan , Robinson , & Dodge , 1979 ) .
+The second category of stressors , more recently studied , are known as macro events ; these are major life events which create stress , such as accidents , examinations , and health issues .
+( Derogatis , 1987 ; Dohrenwend , Krasnoff , Ashkenasy , & Dohrenwend , 1978 ) .
+Stress and Resources Several stress theories explain the relationship between resources and stress .
+For example , the person– environment fit ( PE-Fit ) theory by French and Kahn ( 1962 ) has become a widely accepted conceptual framework for occupational stress research ( Chemers , Hays , Rhodewalt , & Wysocki , 1985 ; Edwards & Cooper , 1990 ) .
+This theory suggests that stress results from an incompatible PE-Fit that produces psychological strain ( French , Caplan , & Van Harrison , 1982 ) .
+Lazarus and Folkman ’ s ( 1984 ) generally accepted transactional model of stress posits that when individuals are exposed to stressful circumstances , they evaluate both the situation ( primary appraisal ) and their coping resources ( secondary appraisal ) .
+When an individual appraises a situation as stressful and that his/her resources are inadequate for coping with the situation , stress ensues .
+More recent integrative stress theories concentrate specifically on resources .
+The conservation of resources ( COR ) theory suggests that stress occurs in three conditions : When individuals are threatened with loss of resources , actually lose resources , or fail to regain resources after resource investment ( Hobfoll , 1989 ; Hobfoll & Freedy , 1993 ) .
+Primary principles of the COR model are that individuals are intrinsically motivated to obtain and maintain valued resources ( Hobfoll & Freedy , 1993 ) , and that , in the face of adversity , people mobilize all their remaining resources to cope with the challenges confronting them .
+According to COR , individuals have different amounts of resources , and hence react differently to events that demand resourcefulness .
+Individuals with greater resources may be more able to mobilize them in order to cope with stressful events .
+Thus , the COR theory ( and also transactional , and PE-Fit models ) indicates that different individuals may have different levels and types of resources and therefore react differently to the same stressors .
+This is in line with the literature which suggests that individuals who have more coping resources will be less stressed when facing stressful events than those with fewer resources ( Allbee , 1977 ; Cowen , 1991 ; Hobfoll , 2002 ; Seligman & Csikszentmihalyi , 2000 ) .
+Furthermore , past research on COR theory discussed the three conditions that lead to perceptions of stress , but did not study the effect of different resources on the perceptions of these stressful conditions .
+That is , some resources may be related more to perceptions of stress in conditions in which resources are threatened , and other resources may be related more to the perception of stress when actual loss of resources occurs , or when individuals fail to regain lost resources after resources investment .
+The focus of this study is on the reaction to one particular macro event—an army unit ’ s two-day selection activity .
+In this selection process subjects performed a series of demanding cognitive and physical tasks during 2 days of rigorous outdoor military training .
+The design of this study is based on two measurements of perceived stress at two different points in time , before and during this stressful macro event .
+This quasi-experimental design made it possible to differentiate between a condition in which individuals perceived only a threat of losing resources , and a condition in which an actual loss of resources , and possibly , failure to regain the resources , occurred.The above literature suggests that individuals with more coping resources should be better able to deal with stress , in general , thus it is likely to assume that these individuals will perceive less stress when faced with the macro event , which presents a threat of resource loss ( i.e. , in the first stress measurement before the selection begins ) .
+Copyright # 2008 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+30 , 685–707 ( 2009 ) DOI : 10.1002/job 686 G. LURIA AND A. TORJMAN Furthermore , individuals with more resources should cope better with actual resource loss during the macro event , and therefore their perceived stress should increase less when experiencing the stressor ( i.e. , the second stress measurement should be more similar to the first stress measurement ) .
+Coping Resources Psychological research has been turning increasingly to examining the impact of people ’ s resources on their stress , as well as on their coping and well-being ( Allbee , 1977 ; Cowen , 1991 ; Jahoda , 1958 ; Hobfoll , 2002 ) .
+In a broad definition , Hobfoll ( 2002 ) suggests that resources are entities that are either valued in their own right ( e.g. , self-esteem , close attachments , health , and inner peace ) or are a means to achieving desired targets ( such as money , social support , and credit ) .
+Wheaton ( 1983 ) suggested that coping resources are present before stressors occur , and can be enlisted to lessen the cost of dealing with such stressors .
+Within the resource view described above , Caplan ( 1964 , 1974 ) presented a resource-based view in his studies on resilience to combat-induced psychopathology .
+Caplan conducted post-war research in Israel and indicated two main resources that helped people cope with the stressful event , related to the self and to the social environment .
+More recently Matheny , Curlette , Aycock , Pugh , and Taylor ( 1987 ) offered a comprehensive list of coping resources derived from extensive literature reviews ( Matheny , Aycock , Pugh , Curlette , & Cannella , 1986 ; Matheny et al. , 1987 ) .
+The list includes personality resources ( self-motivation , confidence , acceptance , and social ease ) ; physical resources ( physical health and fitness ) , cognitive resources ( structure and management of resources , problem solving , and cognitive restructuring ) ; social resources ( social support ) ; and others such as financial resources , and the ability to monitor and control stress .
+Other studies also utilized a similar list of resources ( see e.g. , Hammer & Marting , 1988 ) .
+More recently , Hobfoll ( 2002 ) suggested that the trend is to move from key resource theories to integrated theories in regard to coping with stress .
+Given the strength and consistency of findings on key resources such as self-sufficiency , self-esteem , and social support , the next step is to integrate these key resources into causal models .
+This study employs a variable representing each of the key resource categories mentioned above ( personality , physical , cognitive , and social ) .
+It evaluates the variable ’ s relationship both with how individuals perceive stress before the macro event ( when they are threatened with a loss of resources ) , and with the change in individuals ’ stress during the event ( when they experience an actual loss of resources and failure to re-gain them ) .
+The following sections of this research examine the influence of some of the above-mentioned resources on perceived stress level and on the increase in perceived stress when facing a stressful macro event , both individually and in exploratory and supplementary combined analyses .
+Personality Resources Cohen and Wills , ( 1985 ) suggested that individual personality may aid in coping with stress .
+The most widely studied personality resources in psychology are those related to control ( Skinner , 1996 ) .
+Skinner Copyright # 2008 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+30 , 685–707 ( 2009 ) DOI : 10.1002/job COPING WITH STRESSFUL EVENTS 687 suggested that control-based constructs are typically related to perceived rather than objective control .
+That is , personality resources related to control may not work to alleviate the stressor itself , but rather to lessen the perceived stress caused by the stressor .
+Hobfoll ( 2002 ) suggested that personality resources are not independent of one another and generally overlap .
+His research points to a central reserve of personality resources .
+In line with this claim , Cozzarelli ( 1993 ) found that self-esteem , optimism , and sense of control were more or less interchangeable resources , and that when one was high , the others also tended to be so ( see also Rini , Dunkel-Schetter , Wadhwa , & Sandman , 1999 ) .
+A measure which expresses the central personality resource view is the core self evaluation scale ( CSES ) .
+The CSES ( Cohen & Wills , 1985 ) measures four basic personality traits : Locus of control , self-esteem , generalized self-efficacy , and emotional stability .
+Each of these traits separately has been suggested as a resilience resource , and together they provide a ‘ ‘ central personality resource ’ ’ for resistance to stress .
+For example , a recent study using this scale found that CSES is related to burnout , a stress-related phenomenon ( Best , Stapleton , & Downey , 2005 ) .
+Each of the four constructs expressed in the CSES was found to moderate stress : a. Locus of control was theorized to be a stress moderator ( Spector , 1982 , 1986 ) .
+Locus of control concerns people ’ s generalized expectancies that they can or can not control reinforcements in their lives ( Spector & O ’ Connell , 1994 ) .
+This control-related personality trait has been linked to job strain ( Ganster & Fusilier , 1989 ; Sadri , Marcoulides , Cooper , & Kirkcaldy , 1996 ) .
+The role of locus of control as moderator of the stress–strain relationship has been demonstrated in various professions ( Rahim , 1996 ; Roberts , Lapidus , & Chonko , 1997 ; Siu , Spector , Cooper , Lu , & Yu , 2002 ) .
+b. Self-efficacy ( SE ) is defined as the extent to which people believe they can perform in order to produce a specific desired outcome ( Bandura , 1997 ) .
+Self-efficacy is crucial in relation to stress because it affects perceptions of control ( Litt , 1988 ) .
+Individuals with high SE are more likely to see themselves as having the ability to successfully influence their environment and the accomplish- ment of their goals .
+People with high self-efficacy apparently perceive themselves as having greater self-control , which could moderate the relationships between stressors and wellbeing , that is , the stressor–strain relationship ( Jex , Bliese , Buzzell , & Primeasu , 2001 ; Schaubroeck , Lam , & Xie , 2000 ) .
+Self-efficacy is thus linked to stress resistance in the face of anything from minor hassles to major tragedies ( Bandura , 1997 ) .
+c. Self-esteem can be defined as the evaluations that individuals make about themselves ( Harter et al. , 1992 ) , and is conditioned by individuals ’ appraisals of how they are perceived by significant others ( Sullivan , 1953 ) .
+It is considered that possessing high self-esteem is a positive resource ( Hobfoll , 2002 ) , and individuals with high self-esteemmay be less likely to interpret difficulties as indications of their own lack of worth ( Rosenberg , 1965 ) .
+Self-esteem is also related to well-being and greater resistance to stress ( Cohen & Edwards , 1989 ; Hobfoll & Leiberman , 1987 ) .
+Research findings have indicated negative relationships between life stressors and self-esteem ( Abramson , Metalsky , & Alloy , 1989 ; Garber , Robinson , & Valentiner , 1997 ; Kliewer & Sandler , 1992 ) , and that high self-esteem enhances one ’ s ability to cope effectively with stress ( Simonds , McMahon , & Armstrong , 1991 ) .
+d. Emotional stability is comprised of positive self-evaluation , and a sense of confidence and security ( Judge & Bono , 2001 ; Judge , Locke , Durham , & Kluger , 1998 ) .
+It is the personality variable that has received the most attention with regard to stress and coping ( Bolger & Zuckerman , 1995 ) , and is usually measured on a scale that ranges between high emotional stability on one end and neuroticism ( N ) on the other .
+Neuroticism is a predisposition to negativity ( McCrae , 1990 ) , and high N is related positively to specific types of negative events and daily stressors .
+For example , high N is associated with higher rates of undesirable family and friend stressors , undesirable leisure stressors , and undesirable financial stressors ( David , Green , Martin , & Suls , 1997 ) .
+High N Copyright # 2008 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+30 , 685–707 ( 2009 ) DOI : 10.1002/job 688 G. LURIA AND A. TORJMAN individuals tend to experience interpersonal stress ( Bolger & Schilling , 1991 ) .
+Not only are they more vulnerable to stressors , but they also react more strongly to them , experiencing greater distress in response to major life stress ( Inns & Kitto , 1989 ; Ormel & Wohlfarth , 1991 ; Parkes , 1990 ) and to daily stressors ( Bolger & Schilling , 1991 ; Bolger & Zuckerman , 1995 ; Marco & Suls , 1993 ) .
+Furthermore , high N individuals find it difficult to cope with stress , and their reactions are more hostile ( Bolger , 1990 ; McCrae & Costa , 1986 ; O ’ Brien & Delongis , 1996 ) .
+As detailed above , the personality traits examined in the CSES were each found to be resources for moderating increased perceived stress in individuals experiencing a stressful event .
+Moreover , the composite of these four constructs ( the CSES ) serves as an orientation for appraisal , supporting its use as a kind of individual characteristic which helps shape perceptions and interpretations of events ( Best et al. , 2005 ) .
+Thus , the constructs represented in the CSES are particularly suited for stress research ( Best et al. , 2005 ) .
+In sum , CSES can capture the personality resources that aid in coping with stress .
+That is , individuals with high CSES are expected to cope better with perceived stress .
+In the present study , we expected that the perceived stress of individuals with low CSES should increase more ( over time ) when experiencing actual resource loss .
+Hypothesis 1 : CSES will moderate the increase over time in stress levels when experiencing a stressful event , that is , individuals with high CSES will show a smaller increase in stress levels than those with low CSES .
+Physical Fitness as a Resource Cooper , Gallman , andMcDonald ( 1986 ) found that individuals who exercise regularly cope better with stress , suggesting that physical fitness is a coping resource for stress ( see also : Brown & Sigel , 1988 ; Folkman , Schaefer , & Lazarus , 1979 ; Kobasa , Maddi , & Kahn , 1982 ) .
+It is also suggested that physical exercise reduces stress .
+Holmes and Roth ( 1985 ) found that physical fitness moderates the impact of stressful life events on physical and psychological health .
+Norris , Carroll , and Cochrane ( 1990 ) showed that police officers participating in fitness exercises felt greater well-being and less stress .
+Brown ( 1991 ) found that physical fitness moderates life stress .
+In a meta-analytical review , Crews and Landers ( 1987 ) found that aerobic fitness subjects had reduced psychosocial stress responses as compared to both the control group and baseline values .
+In the present study , the dominant stressor had a highly demanding physical component , and can therefore be viewed as a physical stressor ( see also MacDonald et al. , 2001 ) .
+Participants performed short cycles of demanding outdoor tasks carried out under time pressure and difficult environmental conditions ( such as high temperatures during the day , low temperatures at night , difficult terrain , etc . ) .
+For example , they were required to repeatedly lift heavy objects ( tents , stretchers ) , which necessitates bending , running , standing for long periods , etc .
+Thus we hypothesized that physically fit individuals would have more resources for coping with stressful events induced by physical challenges .
+Therefore , physically fit individuals should have less increase in perceived stress levels over timewhen performing physically demanding tasks .
+Hypothesis 2 : Physical fitness will moderate increases in perceived stress levels over time , that is , physically fit individuals will show a smaller increase in perceived stress than those less physically fit .
+Copyright # 2008 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+30 , 685–707 ( 2009 ) DOI : 10.1002/job COPING WITH STRESSFUL EVENTS 689 Cognitive Resources Although it is clear that personality constructs or physical ability can be resources for dealing with stress , it is less obvious that this might also apply to cognitive resources ( Hobfoll , 2002 ) .
+For example , Beurneister , Bratslavsky , Muraven , and Tice ( 1998 ) illustrated that cognitive resources are related to resource energy , which can be utilized to explain some cognitive processes .
+For example , problem- solving ability is a resource that helps in coping with stress ( Carson & Johnson , 1985 ; Elias , Gara , Ubriaco , & Rothman , 1986 ) , as is the ability to manage resources such as time and energy ( Giammatteo & Giammatteo 1980 ; Schlossberg , 1981 ) .
+Tversky and Kahneman ( 1974 ) posited that people use cognitive means in order to obviate the need for further costly processing .
+Keinan , Friedland , Kahneman , and Roth ( 1999 ) explained that controlling mental operations requires effort , that stress and arousal tax cognitive resources and that , consequently , we are left with inadequate resources for exercising effective control .
+According to this view , individuals with more cognitive ability have better coping resources and are able to exercise effective control , which may help lower their stress levels in demanding situations .
+In the present study , we expected that the perceived stress of individuals with low cognitive abilities should increase more over time than those of individuals with high cognitive abilities when experiencing the same stressful event .
+Hypothesis 3 : Cognitive abilities will moderate increase in perceived stress levels over time , that is , individuals with high cognitive abilities will show a smaller increase in perceived stress than those with lower cognitive abilities .
+Peer Acceptance as a Social Support Resource Not only do internal resources and traits ( such as personality , cognitive ability , and physical fitness ) influence perceived levels of stress , social resources are also influential .
+Social support is a key resource of the social environment .
+Individuals can deal with stressful events better and feel less stressed when they have support from others , but can become more stressed when they lack support ( Carlson & Perrew ’ e , 1999 ; Spielberger & Reheiser , 1994 ; Spielberger & Vagg , 1999 ; Vagg & Spielberger , 1998 ) .
+Researchers have generally identified two support categories : Perceived organizational support and social support ( Spielberger , Vagg , & Wasala , 2003 ) .
+In this study we concentrate on social support as the availability and quality of one ’ s relationships with supervisors , co-workers , family , and friends , as well as the amount of positive consideration and task assistance received from them ( Cohen & Wills , 1985 ; Fusilier , Ganster , & Mayes , 1986 ; Kottke & Sharafinski , 1988 ) .
+The conventionalmodel of social buffering predicts that the slope of the stressor–strain relationship will be affected by social support ( Etzion , 1984 ; Etzion and Westman , 1994 ; House , 1983 ; LaRocco , House , & French , 1980 ; Viswesvaran , Sanchez , & Fisher , 1999 ) .
+Karasek , Triantis , and Chaudhry ( 1982 ) found that co-worker support moderated the connections between task characteristics and mental strain .
+It seems that social support can also reduce levels of occupational stress directly ( House , 1983 ) .
+For example , social support was related to perceptions of lower levels of work stress ( Chen , Wong , Yu , Lin , Cooper , & Huijer , 2003 ) , and support from co- workers and supervisors lessened perceived occupational stress ( Holder & Vaux , 1998 ) .
+Thus , social support appears to have both main and interaction effects ( Cohen & Wills , 1985 ) .
+Copyright # 2008 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+30 , 685–707 ( 2009 ) DOI : 10.1002/job 690 G. LURIA AND A. TORJMAN Research shows that individuals tend to give emotional and instrumental support to others ( House & Wells , 1978 ) .
+For example , according to Heider ’ s ( 1958 ) balance theory , it is expected that members of a group will divide into one or more sub-groups of people who like each other and interact with one another , forming a social network .
+Thus the concept ‘ ‘ social ’ ’ in social network analysis refers to interaction between members of the sub-group .
+Social network research shows that , in any given social group , some individuals have more and better connections with other members .
+For example , Knoke and Burt , ( 1983 ) suggested that actors in a network can be defined as central when they are visible to many other actors by virtue of their position in the network .
+That is , some members of a group , particularly the socially accepted ones , have more potential social sources of support than others .
+Strength of ties is also an important variable in network analysis ( Granovetter , 1973 ) , which indicates that members of the group may vary in the quality of their relationship with others .
+Some group members have deeper relationships with other members , and these group members have more potential to receive emotional support .
+In the present study , the participants are isolated from family and friends for 2 days ( they are not even allowed to use the telephone ) .
+During this time they face a variety of physically and emotionally challenging exercises ( stressful events ) in which their supervisors are instructed to be very harsh and not supportive in order to test the participants ’ resilience .
+Their only immediate social support resources are their peers , which the participants have never met previously .
+Thus , participants can acquire immediate social support only if they are able to develop social ties with other members of their group .
+Unlike personality-based resources , social support is formed through group social processes ( Barrera , 1986 ) .
+The presence of confidants whose caring is deemed important is the most salient type of social support ( Sarason , Sarason , Shearin , & Pierce , 1987 ) .
+Therefore , it is expected that individuals who are accepted by their peers as central functional members of the group will be more able to mobilize social support when needed than others who are not well accepted .
+However , the group may also act as a stressor for individuals rejected by their peers ( Stroud , Slovey , & Epel , 2005 ; Langens & Stucke , 2005 ) .
+Thus , individuals who are rejected by their peers will have to cope with an additional stressor , and their stress level will increase accordingly .
+Hypothesis 4 : ( a ) Acceptance by peers will moderate increase in stress over time , that is , members who are accepted by their peers will show a smaller increase in stress levels than those who are less accepted .
+( b ) Rejection by peers will also moderate increase in stress over time , that is , members rejected by their peers will show a greater increase in stress levels than those who are not rejected .
+Acceptance and rejection are not two aspects of the same phenomenon .
+Groups are composed of various sub-groups .
+Individuals may be accepted by some of their peers and rejected by others .
+Accordingly , individuals who are not accepted , or are rejected by many of their peers should have the highest stress levels , while those who are rejected by some but have a support group of peers who do accept them should be less stressed .
+Hypothesis 5 : Acceptance by peers will moderate the relationship between peer rejection and perceived stress ; rejection is more stressful for group members with low levels of acceptance .
+Integrating Resources—Exploration Analysis An increasing number of studies show that key resources are instrumental in promoting coping with stress ( Hobfoll , 1998 ) .
+Hobfoll ( 2002 ) commented that these individual key resources are clearly Copyright # 2008 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+30 , 685–707 ( 2009 ) DOI : 10.1002/job COPING WITH STRESSFUL EVENTS 691 dependent on one another , to the extent that they largely overlap .
+He suggested that future research should examine the extent to which key resources overlap or are derived from a central developmental source .
+Furthermore , each of these resources may be differently related to perceived stress in each stressful condition ( a threatening condition or condition in which the actual loss of resources and failure to gain new resources occur ) .
+In this study , each resource was derived from a different source .
+Personality was measured from self- reports , social support was measured from peer reports , physical fitness by fitness tests , and cognitive abilities were measured using paper-and-pencil tests .
+This array of resources and measurements provides the opportunity to investigate the supplementary contribution of each resource separately from the others , while avoiding problems of single-source bias that could give rise to artificial overlap .
+For example , physical fitness may increase resilience to stress , beyond the effects of cognitive abilities and personality resources .
+Likewise , there may be a significant overlap between physical fitness and social support , because in such a highly physical task as in this study , where the stressor is highly physical in nature , stronger or more fit individuals may be perceived as more central and socially acceptable to the group .
+The intention of this study is to find information about which resources can make additional and vital contributions to perceived stress and coping , apart from the cumulative contribution of other resources , and to check which of these resources moderate the increase in perceived stress during stressful events .
+Method Participants The participants were 386 new recruits to the Israeli Defense Force ( IDF ) who voluntarily participated in a two-day selection process for a military unit ( 88 per cent of them agreed to participate in the study ) .
+All the recruits were Jewish Israeli males ( for an all-male unit ) , and their average age was 18 .
+All of them had completed their high-school studies .
+The recruits were told that they could withdraw from the selection process at any point in time .
+Most of them stayed until the end , but about 28 per cent of the participants quit , so that measures taken at a later stage had fewer participants ( see Table 1 ) .
+Procedure We tested the stressor–strain relationship by collecting data on two occasions .
+The first was at the beginning of the selection process , before the physically challenging activities began .
+The participants did not experience actual demands for performance at this time but knew the upcoming selection they volunteered for consisted of highly demanding tasks .
+This timing was chosen in order to record the perceived stress when participants were experiencing mostly a threat of losing resources and not the actual loss of resources .
+At this point participants completed the CSES , perceived stress , and other questionnaires ( not related to the present study ) .
+Theywere told that the questionnaires were not related to the selection but only to the research , and that what they wrote would be absolutely confidential , as were personal data and other questionnaires .
+It was also made clear that participation in the research Copyright # 2008 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+30 , 685–707 ( 2009 ) DOI : 10.1002/job 692 G. LURIA AND A. TORJMAN was not obligatory , and that they could just return blank questionnaires to the members of the research team ( without the knowledge of their supervisors ) if they preferred not to participate .
+After completing the questionnaires , participants were given physical fitness tests and cognitive paper-and-pencil tests .
+Several hours later , outdoor physical tests began .
+First , participants were divided into smaller groups ( there were , on average , 15 participants in each group ) in which none of the group members knew anyone else .
+Each group was assigned to a supervisor who gave the participants tasks that were restricted in duration and demanded intensive physical effort ( running , lifting objects , standing in different formations ) .
+The conditions under which the tests are conducted are stressful for participants : They are not allowed to use any ‘ ‘ timers ’ ’ ( such as watches or cellular phones ) throughout the entire procedure ; their sense of autonomy and control is compromised because they must ask the supervisor for approval of all their actions ; they have to cope , constantly , with demanding tasks that must be performed quickly and precisely .
+They are also under constant observation by three experienced soldiers who serve as evaluators .
+Each evaluator notes , in writing , the performance of each participant in his group .
+These evaluators do not talk to the participants or interact with them in any way .
+The physical part of the selection lasts about 24 hour , during which the participants sleep in rigorous field conditions .
+All these conditions create a stressful and demanding environment designed to test the participants ’ ability to withstand extreme conditions that lead to an extensive loss of resources .
+Perceived stress was measured a second time in the last few hours of the selection activity , a highly stressful period of the selection .
+This point in time was designed to capture their perceived stress when actual loss of resources was experienced together with difficulty in gaining new resources .
+Following the second stress measurement , a sociometric evaluation was conducted , where each participant was asked to identify three group members who , in their opinion , should be accepted in the unit , and three who should be rejected .
+Measures Core self-evaluation scale comprised of 12 items ( CSES , derived from Judge , Erez , Bono , & Thoresen , 2003 ) , a direct and relatively brief measure .
+The specific core traits measured are : Self-esteem , generalized self-efficacy , emotional stability , and locus of control .
+Responses were rated on a five-point scale , ranging from 1¼ strongly disagree to 5¼ strongly agree ’ ’ .
+A sample item would be : ‘ ‘ I am confident I will achieve the success I deserve. ’ ’ a¼ 0.73 .
+Perceived stress .
+Seven items were derived from the perceived stress scale ( PSS—Cohen , Kamarck & Mermelstein , 1983 ) .
+As noted by Cohen et al .
+( 1983 ) , ‘ ‘ the PSS was designed for those with at least junior high school education .
+The items are easy to understand and the response alternatives are simple to grasp .
+Moreover , the questions are quite general and hence relatively free of content specific to any sub-population. ’ ’ In this study the questions were adapted for a sample of new army recruits .
+Instead of asking about the frequency of events during the previous month , we asked about the previous few hours , which was the period in which the stressor was experienced , in order to evaluate their stress levels in real time .
+Some questions were determined inappropriate to military experiences or to perceptions of a few hours , and thus were eliminated .
+Responses were given on a five-point scale , ranging from 1¼ never to 5¼ very often .
+Sample items : ‘ ‘ During the last few hours , how often did you feel nervous or stressed ? ’ ’ ‘ ‘ During the last few hours , how often were you upset because of some unexpected event ? ’ ’ Coefficient as were : 0.77 for the first measurement and 0.78 for the second .
+Physical fitness was measured with the military basic fitness test .
+Similar tests are used in many armies ( including the U.S. and England ’ s armed forces ) and are known as a good measure of military Copyright # 2008 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+30 , 685–707 ( 2009 ) DOI : 10.1002/job COPING WITH STRESSFUL EVENTS 693 fitness .
+Three fitness measures comprise the basic fitness test score : One , the time taken to complete a 2 km run ; two , the number of abdominal exercises ( sit-ups ) performed ; and three , the number of push- ups performed .
+The 2 km run assess aerobic fitness , which is a task vital for combat soldiers .
+For this reason 70 per cent of the total fitness score is comprised of this measure .
+Abdominal exercises and push-ups assess physical strength , which is necessary for many military tasks .
+Thus the remaining 30 per cent of the total fitness score is divided equally between these two fitness measures .
+The maximum fitness score is 5 , thus soldiers can receive a score of up to 3.5 for aerobic fitness ( which is 70 per cent of the total 5 points possible in the test ) , 0.75 points for abdominal exercises ( 15 per cent of the total 5 points ) , and 0.75 points for push-ups ( 15 per cent of the total 5 points ) .
+The number of points allotted to each participant for each measure is determined by their performance as compared to specified norms of performance in each category .
+For example , in the 2 km run a soldier who runs faster than the norm ( 6minute and 48 second ) receives the full 3.5 points for this measure ( again , 70 per cent of the total 5 points possible in the test ) .
+A soldier that performs more abdominal exercises than the norm ( 86 sit-ups ) receives the full 0.75 points for this measure , and a soldier that performs more push-ups than the norm ( 75 push-ups ) receives the full 0.75 points for this measure .
+On average , for every addition of 8.2 second to the time of the 2 km run , 0.05 points are deducted from the aerobic fitness portion of the total fitness score .
+In a similar fashion , for every five push-ups or five sits-ups below the norm , 0.05 points are reduced from each respective portion of the fitness score .
+Social acceptance and rejection .
+Based on the fixed-choice technique in network analysis ( Wasserman & Faust , 1994 ) , each member of each group had to identify three of his peers who , in his opinion , should be accepted to the unit , and three he thought should not be accepted ( i.e. , should be rejected ) .
+In each group two measures were calculated : The number of group members who thought a participant should be accepted divided by the number of members in the group ; and the number of group members who thought the participant should not be accepted divided by the number of members in the group .
+Cognitive ability .
+Two paper-and-pencil tests given at different points in time measured cognitive ability .
+The first—the military basic cognitive abilities test—is given to every new recruit before he/ she is drafted .
+This test includes basic abilities that are relevant to almost any task .
+Categories include : Verbal analogy , intended to test ability to deduce a rule and to apply it to other verbal relationships ; shape analogy , testing rule deduction and use of shapes ; verbal instructions test , testing instruction understanding , and accurate performance .
+An additional quantitative thinking part tests mathematical ability in basic exercises , and a matrix completion test checks the ability to deduce rules in non-verbal or language-based tasks .
+Total grades ranged from 10¼ low cognitive abilities to 90¼ high cognitive abilities .
+The second series of cognitive ability tests were given at the beginning of the selection process itself .
+These were more specific cognitive abilities paper-and-pencil tests related to tasks that soldiers perform in the unit , including : Technical ability , memory for navigational purposes , and object identification ( total grades ranged from 1 to 5 ) .
+Performancewas measured by evaluators observing the performance of each of the participants in a number of field simulations .
+In each of these , the participants had to carry out some physical tasks such as running , carrying heavy objects , and scaling physical obstacles .
+Each evaluator ranked each participant in the group on a scale ranging from 5¼ excellent performance to 1¼ poor performance .
+Evaluators were instructed to observe specifically diligence and motivation in performance , technical ability , helping other participants , team spirit , and general suitability of each participant for the unit .
+All the evaluators were commanders in the unit and had participated in a training day before the selection process on how to evaluate the soldiers .
+Furthermore , ratings of evaluators were tested for reliability ; we used the average of the correlations between all three evaluations on each soldier ( evaluation 1– evaluation 2 , evaluation 1–evaluation 3 , evaluation 2–evaluation 3 ) as reliability estimate ( average¼ 0.71 ) .
+Copyright # 2008 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+30 , 685–707 ( 2009 ) DOI : 10.1002/job 694 G. LURIA AND A. TORJMAN Results A quasi-manipulation check compared the means of the two different occasions at which perceived stress was measured by means of T-tests ( T¼ 6.54 , p < 0.001 ) .
+Stress levels increased significantly between the relatively low baseline measurement , in which resources were mainly threatened , and the stressful physical selection measurement in which individuals were likely to experience loss of resources and difficulties in gaining new resources .
+Table 1 shows means , standard deviations , and Pearson correlations of the study variables .
+Our results show that the perceived stress ( in both of the measurement points ) is negatively correlated with performance in the field simulations measured independently by observers .
+Crossing the results with performance can show empirical validation .
+It seems that most of the coping resources are positively correlated with performance ( i.e. , physical ability , specific cognitive ability , and peer acceptance ) and only general cognitive ability and CSES did not correlate with performance .
+The positive correlation between the two stress measurement points show that individuals that perceived more stress on the first occasion also perceivedmore stress on the second occasion and serve as another source of reliability for the stress measurement .
+Most of the resources ( CSES , general and specific cognitive ability , and peer acceptance ) correlated negatively with stress in the first measurement , that is , in the stage of threat to resources physical fitness and peer rejection did not correlate with stress level .
+In addition , the two variables measuring cognitive resources ( general and specific cognitive ability tests ) were highly correlated , showing reliability of the measure .
+Testing hypotheses According to Baron and Kenny ’ s ( 1986 ) statistical considerations about moderation testing , we conducted a regression analysis with repeated measures , using the mixed-models procedure , in order to check the effect of all resources on increase in stress over time ( see Table 2 ) .
+All variables were integrated in the mixed model , which was then used to check each interaction ( H1–H4 ) .
+Table 2 presents the moderating effect of CSES on increase in perceived stress predicted in Hypothesis 1 .
+CSES has significant main and interaction effects on the perceived stress .
+However , the shape of the Table 1 .
+Means , deviations , and inter-correlations among variables Variables N M SD 1 2 3 4 5 6 7 8 9 1 .
+Stress ( T1 ) 339 1.93 .61 — 2 .
+Stress ( T2 ) 290 2.12 .65 .39 — 3 .
+CSES 340 3.91 .49 .61 .30 — 4 .
+General cognitive ability 368 59.8 16.6 .16 .06 .11 — 5 .
+Physical fitness 325 2.84 .75 .06 .27 .10 .10a — 6 .
+Specific cognitive ability 297 2.71 .67 .13 .07 .16 .53 .11 — 7 .
+Peer acceptance 276 .218 .182 .14 .28 .09 .00 .35 .00 — 8 .
+Peer reject ion 276 .191 .142 .06 .29 .07 .01 .34 .07 .38 — 9 .
+Performance 279 2.85 .88 .14 .22 .09 .00 .41 .23 .52 .37 — Notes : Abbreviations : Time 1 ( T1 ) ; time 2 ( T2 ) ; core self evaluation scale ( CSES ) .
+ap < 0.1 > .05. p < .05 ; p < .01 ; p < .001 .
+Copyright # 2008 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+30 , 685–707 ( 2009 ) DOI : 10.1002/job COPING WITH STRESSFUL EVENTS 695 interaction ( as presented in Figure 1 ) is not similar to the shape predicted in Hypothesis 1 , because the level of stress of individuals with high CSES increased more over time than that of individuals with low levels of perceived stress ( which was the opposite to what was hypothesized ) .
+That said , the results are logical in that the individuals with high CSES had significantly lower perceived stress levels on both occasions than those with low CSES .
+That is , although the level of perceived stress increased more for individuals with high CSES , individuals with high CSES varied on the lower part of the response range ( from 1.6 to 2 ) for perceived stress , while individuals with low CSES varied along the higher range of stress responses ( from 2.15 to 2.3 ) .
+This confirms the main effect of CSES on burnout as found by Best et al .
+( 2005 ) .
+Physical fitness moderated increase in perceived stress .
+As shown in Table 2 , the moderation effect of fitness on increase in perceived stress supports the prediction of Hypothesis 2 .
+Fitness level had Table 2 .
+Analysis of repeated measures regression in the mixed-models procedure—main and interaction effects of all research variables on increase in stress level ( integrated model ) Source Est SE Intercept 2.20 .36 Time .28 .52 CSES .45 .08 Physical fitness .19 .06 Specific cognitive abilities .00 .002 General cognitive abilities .11 .07 Peer acceptance .19 .2 Peer rejection .73 .22 Time CSES .23 .11 Time physical fitness .24 .08 Time specific cognitive abilities .002 .004 Time general cognitive abilities .12 .09 Time peer acceptance .13 .26 Time peer rejection .70 .29 Notes : Abbreviations : Core self evaluation scale ( CSES ) .
+We conducted equivalent analysis according to Judd , Kenny , & McClelland ( 2001 ) regressing the independent variables on the difference between time 2 and time 1 .
+The results were similar and the same 3 moderators were significant .
+p < .05 ; p < .01 ; p < .001 .
+1 1.2 1.4 1.6 1.8 2 2.2 2.4 21 Time S tr es s High CSES Low CSES Figure 1 .
+Perceived stress for individuals with high and low CSES before and after the intensive stressor Copyright # 2008 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+30 , 685–707 ( 2009 ) DOI : 10.1002/job 696 G. LURIA AND A. TORJMAN significant main and interaction effects on perceived stress .
+The shape of the interaction is presented in Figure 2 .
+As suggested in Hypothesis 2 , individuals with low fitness levels had a higher increase in perceived stress than those with high fitness levels .
+These results support the hypothesis and suggest that physical fitness is a coping resource ( see also : Brown , 1991 ; Crews & Landers , 1987 ) , at least for this exacting physical task .
+Cognitive ability did not moderate increase in perceived stress as hypothesized in Hypothesis 3 ( see Table 2 ) .
+Neither of the cognitive abilities measured in this study ( specific and general ) had any main or interaction effect .
+Peer acceptance did not moderate increase in perceived stress ( Hypothesis 4a ) .
+Table 2 displays the moderating effect of peer acceptance ( as a measure of social support resources ) on increase in perceived stress .
+Peer acceptance had no main or interaction effect on perceived stress , so the results do not support the hypothesis .
+Peer rejection , on the other hand , moderated increase in perceived stress and had a significant main and interaction effect , thereby supporting Hypothesis 4b .
+The shape of the interaction is presented in Figure 3 .
+Individuals who suffered rejection by more of their peers had 1.7 1.8 1.9 2 2.1 2.2 2.3 2.4 21 Time St re ss High physical fitness Low physical fitness Figure 2 .
+Perceived stress for individuals with high and low physical fitness level before and after the intensive stressor 1.5 1.6 1.7 1.8 1.9 2 2.1 2.2 2.3 2.4 21 Time S tr e s s High peer rejection Low peer rejection Figure 3 .
+Perceived stress for individuals with high and low peer rejection , before and after the intensive stressor Copyright # 2008 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+30 , 685–707 ( 2009 ) DOI : 10.1002/job COPING WITH STRESSFUL EVENTS 697 greater increases in stress than those rejected by fewer of their peers , thereby supporting the hypothesis that when individuals are rejected ( by their peers ) , their stress levels increase over time .
+Table 3 displays the moderating effect of peer acceptance on the relationship between peer rejection and perceived stress ( Hypothesis 5 ) , by means of multiple hierarchical regression .
+Peer acceptance had a main and interaction effects on perceived stress .
+The shape of the interaction is presented in Figure 4 .
+Peer rejection was negatively related to perceived stress at low levels but not at high levels of peer acceptance , supporting the hypothesis that peer acceptance can be a social support resource .
+Discussion This study provides an examination of COR theory in a quasi-experimental design of a context-specific sample .
+Participants faced a real stressful event ( selection for a military unit ) and their perceived stress was measured both before and during the selection process .
+The main results of this study include an increase in perceived stress level between the less stressful first occasion in which participants perceived stress mainly due to threats to their resources and a more stressful second occasion , in which participants experienced actual loss of resources and difficulties in regaining them .
+Table 3 .
+Multiple regression analysis—moderating effect of peer acceptance on the relationship between peer rejection and perceived stress in measurement point 2 Variables b R2 Adj R2 R2Ch FCh Stress ( T1 ) .37 .15 .15 .15 41.59 Peer acceptance .16 Peer rejection .23 .274 .26 .12 18.61 Peer acceptance peer rejection .14 .29 .27 .01 4.2 Notes : Abbreviations : Time 1 ( T1 ) .
+p < .05 ; p < .01 ; p < .001 .
+1 1.05 1.1 1.15 1.2 1.25 1.3 1.35 1.4 1.45 1.5 Low Peer rejection High Peer rejection St re ss Low peer acceptance High peer acceptance Figure 4 .
+Perceived stress for individuals with different levels of peer acceptance and peer rejection ( low , high ) Copyright # 2008 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+30 , 685–707 ( 2009 ) DOI : 10.1002/job 698 G. LURIA AND A. TORJMAN It seems that the individuals who coped better with the threat also coped better with the actual experience of diminishing resources , and a positive correlation was found between the two perceived stress measurement points .
+It is also evident from this study that different resources are enlisted to cope with a threat than at the stage of actually experiencing loss of resources .
+This study thus provides an empirical test for COR theory , taking into account a wide range of resources , and measuring two different stages of COR ( threat of resource loss and actual loss ) .
+In order to test which of the resources had a moderating effect on the increase in stress over time , we checked for moderation and predicted that the perceived stress levels of individuals with low levels of resources would increase less over time than those with high levels of resources ( for each resource group ) .
+This hypothesis is supported by our finding that stress levels of physically fit individuals increased less over time than those with lower physical fitness .
+We also found support for the moderation with social resources measure , which was significant in the case of the social rejection measure but not in the case of social acceptance .
+Additionally , an increase in stress level between the two occasions was moderated by the personality of the individual , but not as expected .
+Individuals who scored low on CSES perceived higher levels of stress in both measurements than those with high CSES scores .
+That is , the perceived stress of individuals with high CSES ranged lower than perceived stress of those with low CSES .
+Contrary to Hypothesis 1 , individuals with low CSES did not show a greater increase in perceived stress levels than those with high CSES .
+That is , they perceived relatively high levels of stress even before the stressful event had begun .
+Low stress levels in the group with high CSES scores confirm previous findings about personality traits such as self-esteem ( Simonds et al. , 1991 ) , self-efficacy ( Jex et al. , 2001 ; Schaubroeck et al. , 2000 ) , neuroticism ( Bolger & Zuckerman , 1995 ; Inns & Kitto , 1989 ) , and locus of control ( Spector , 1982 , 1986 ) as coping resources .
+It appears the CSES captures four core traits that are essential for the perception of and coping with stress , and therefore individuals with low CSES perceive high levels of stress even when only threatened with resource loss .
+To the best of our knowledge , the relationship between CSES and stress has been investigated in only one study which looked at CSES and its effect on burnout , a form of occupational stress ( Best et al. , 2005 ) .
+Results of both Best et al .
+( 2005 ) and the present study suggest that this core personality attribute is strongly related to stress perception and could be employed as an effective measure of personality traits relevant to stress ( Hobfoll , 2002 ; Cozzarelli , 1993 , Rini et al. , 1999 ) .
+Results can also be explained in terms of strong and weak situations ( Mischel , 1977 ) .
+The difference between the two measurement points may possibly have influenced the results , because they differ according to the strength of the participants ’ experience of each of them ( Mischel , 1977 ) .
+According to Mischel ’ s ( 1977 ) definition , a strong situation is one in which everyone construes the situation similarly , which induces uniform expectancies .
+Mischel & Peake ( 1982 ) suggested that in order to meaningfully test person–situation interactions , we must consider the extent to which a situation either induces conformity or is ambiguous .
+In this study , we measured two situations .
+The first ( before selection began ) may present a weaker situation than the second ( during selection ) .
+That is , during the selection the participants experienced a strongly stressful event ; therefore in such a situation stress perceptions of individuals with lower and higher CSES were more similar .
+On the other hand , at the measurement point prior to selection , when the participants were waiting for the selection to begin , the situation was more ambiguous , interpreted by participants with low CSES as more stressful because of the threat of the upcoming selection , while those with high CSES interpreted it as less stressful .
+Evidently CSES was more strongly related to stress at the first measurement point than at the second ( see Table 1 ) .
+Because the stressor demanded highly physical activity , individuals in better physical condition had more coping resources , and showed less increase in perceived stress .
+On the other hand , the physical Copyright # 2008 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+30 , 685–707 ( 2009 ) DOI : 10.1002/job COPING WITH STRESSFUL EVENTS 699 fitness did not correlate with the perceived stress in the first measurement point in which resources were only threatened .
+In other words , physical fitness was found to be a prime moderator , with strong incremental effects above all resources and variables when actually coping with a physical threat but not when cognitively coping with a threat .
+These findings may suggest that the most effective resource for coping with a stressful event is determined by the nature of the stressor , physical , or cognitive .
+This logic corresponds to the PE-Fit theory ( French and Kahn , 1962 ) , that is , the demands of the environment determine the resources needed in order to meet those demands .
+It may be that people do not cope better with stress in general , but with specific stressors for which they have the required resources .
+The independent objective fitness measure used in this study improved the measurement of this concept .
+Cognitive abilities were also negatively related to stress at the first measurement point ( when resources were threatened ) , but this did not moderate the increases in perceived stress levels over time , perhaps because the specific cognitive abilities measured in this study did not contribute to coping with physical stress .
+Although the results did not support the hypothesis , the fact that equivalent results were obtained from two different measurements of cognitive abilities , taken at different times , supports the reliability of the results and justifies further research of the relationship between cognitive resources and coping with stress .
+It is important to define which stressors are alleviated by which resource .
+It must be emphasized that in this research we measured basic cognitive abilities ( such as understanding verbal rules , deduction of rules from shapes , quantitative thinking , and memory for detail ) , and not merely those related directly to stress management such as ability to manage resources ( see Giammatteo & Giammatteo , 1980 ) .
+It is important that future research helps define which cognitive abilities can be defined as cognitive coping resources and distinguish between different measures and types of cognitive resources .
+It is possible that resources which are essential to the actual task being performed or to coping with stress , in general ( such as cognitive ability to manage resources ) , can be defined as cognitive coping resources .
+Other basic cognitive abilities , such as mathematical and problem-solving abilities , may not aid in coping with tasks that do not specifically require them .
+It is also possible that cognitive coping resources are not directly related to basic cognitive abilities but rather to previous stress-related experiences , so that individuals who learned to cope cognitively with stress from past stressful events may cope more effectively than those with better basic cognitive abilities who have not experienced previous stressful events .
+In this study , acceptance and rejection were measured from reports by peers .
+Measurement of social support is limited in that there is peer competition , so that peer reports may not be totally reliable sources of information .
+On the other hand , in this situation participants could not contact family or friends , and supervisors were instructed not to give emotional or instrumental support , so that the only available source of support was that of peers .
+This makes peer reports , despite their limitations , a central source of information .
+This measure also seems to be reliable because the groups were small , so that evaluations were more reliable than self reports and had high and significant correlations with how supervisors evaluated each individual , and with their physical fitness scores .
+It is understood that participants would like and socially accept stronger and better performing peers in such an extreme setting which emphasized good physical fitness .
+As hypothesized in Hypothesis 4 , individuals rejected by their peers became more stressed over time .
+However , the ‘ ‘ rejected ’ ’ members ’ strong increase in stress may not be solely due to the lack of social resources .
+Research has shown that the group itself can be a source of stress .
+For example , psychological strain experienced by one person affects the level of strain of others in the same social environment .
+This is known as ‘ ‘ crossover effect ’ ’ ( Bolger , Delongis , Kessler , & Wethington , 1989 ; Westman & Etzion , 1995 , 1999 ; Westman & Winokur , 1998 ) .
+These studies mostly showed that the crossover phenomenon exists in families ( Westman & Etzion , 1995 , 2005 ; Westman & Winokur , 1998 ) .
+Westman and Etzion ( 1999 ) extended this line of research from the family to the work setting , Copyright # 2008 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+30 , 685–707 ( 2009 ) DOI : 10.1002/job 700 G. LURIA AND A. TORJMAN and to workers in the same working environment .
+Their study showed a significant crossover of job- induced tension from principals to teachers .
+Recent studies showed stronger crossover in cohesive groups ( Westman , Roziner , & Bakker , under review ) .
+It is possible that interaction with other members of a group will be particularly damaging for rejected group members , because not only does the group act as a stressor ( i.e. , provide a source of stress due to ‘ ‘ crossover ’ ’ ) but , in addition , rejected members of the group have fewer social resources for dealing with this stress .
+Another example of the group ’ s negative effect on the individual is aggressive behavior by peers toward ‘ ‘ rejected ’ ’ members .
+Negative behaviors are known to be related to stress and burnout ( Van Dierendonck & Mevissen , 2002 ; Ben-Zur & Yagil , 2005 ) .
+Future research should concentrate on the complexity of the influences that group members may have on the perceptions of stress in each of them , ranging from positive effects of social support to opposite phenomena such as crossover and negative behaviors .
+Theoretically , these effects may coexist , and the conditions and boundaries for each effect can help to identify and predict when the group will serve as a coping resource or a stressor .
+The results did not support Hypothesis 4a concerning moderation of peer acceptance on increase in stress .
+One possible explanation for the significant moderation effect of social rejection and not of social acceptance may be the stronger impact of bad events over good events ( Baumeister , Batslavsky , Finkenauer , & Vohs , 2001 ) .
+That is , it is possible that participants were more influenced by bad experiences of interaction with group members who saw them as unfit and damaging , than by the good interaction with group members who saw them as fit contributors to the group .
+The moderation of peer acceptance on the relationship between rejection and perceived stress demonstrates that the two effects coexist .
+Individuals accepted by only some of their peers did not experience negative effects from rejection , while those whowere not accepted at all were more affected by peer rejection .
+This study relied upon several different sources , making it possible to analyze all variables and to check for overlap within a wide spectrum of coping resources .
+This was necessary because most previous studies failed to account for the overlap between resources ( Hobfoll , 2002 ) .
+Results of the analysis showed that there is partial overlap between different resources in moderating the increase in stress .
+Physical fitness , personality , and social rejection had an incremental effect on increases in stress level even in the presence of the other resources .
+Cognitive abilities and peer acceptance made no significant contribution in the presence of all other resources .
+These findings also suggest that a single resource is inadequate for coping with stressful events .
+They also suggest that the absence of some resources can not be directly compensated for by the presence of others .
+Limitations This study has limitations .
+Stress was measured by self-report , and even though stress levels increased significantly during field simulations , the average did not reach particularly high levels .
+It is possible that , as a result of social desirability , participants in the selection preferred to underestimate their stress level .
+It is also possible that feelings of success and failure influenced their perceived stress .
+To control for this limitation , the evaluators gave no information on success or failure in performance .
+However , participants may have sensed how they performed ( whether correctly or not ) and this may have influenced their perceived stress .
+Stress level certainly varied between different people , correlating negatively and significantly with performance and with other variables .
+The CSES scale was also measured by self-report , and the small SD of this measure suggests that social desirability may also have influenced the results .
+We suspect that because the study was conducted during a selection Copyright # 2008 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+30 , 685–707 ( 2009 ) DOI : 10.1002/job COPING WITH STRESSFUL EVENTS 701 procedure , participants may have been more influenced by social desirability than they would have been in other scenarios ( when not undergoing tests ) .
+Generalization of the study is also limited because the sample was homogeneous , that is , all participants were male , about 18 years old , in a military organization .
+Other limitations were the specific task and setting of the study .
+A selection procedure is a unique situation in which , for example , social support of peers may be less relevant because of competition among group members .
+The isolation of participants in the selection creates a controlled situation in terms of immediate social support , but is not a natural situation because individuals normally have immediate social support resources in their daily lives ( family , friends , managers , and colleagues ) .
+Ultimately , the study uses a quasi-experimental design with a single group pre/post test , from which causality can not be conclusively derived .
+We believe that this study opens a window of opportunity for future research .
+The unique situation and sample , discussed in the Limitation Section , suggest the need for additional studies about increase in stress and the moderating role of resources in other stressful events ( i.e. , for students during tests , for employees during crises at work ) , and with samples from other populations ( of varying ages , gender , and professions ) .
+Studies could also be conducted in laboratory settings , and with a better experimental design focusing on a single resource for a given study and controlling for influences as discussed in the limitations section above .
+In our study , the social variables demonstrated that social environment can both help in coping with stress , and on the other hand become a stressor in itself .
+Future research could test the different influences of the social environment .
+A longitudinal study with social network analysis tools ( Snijders , 2001 ) might deal with this complexity and help us to understand how relationships between members of a group at Time 1 influence other members ’ stress levels at Time 2 .
+The strong effects of peer rejection in this study indicate that it is important to measure ‘ ‘ negative ’ ’ as well as ‘ ‘ positive ’ ’ networks of social support .
+Third , in the current study physical fitness significantly moderated increase in stress , and was a dominant coping resource as compared to other resources .
+This effect may derive specifically form the physical demands of the research setting , even though the literature suggests that physical fitness is essentially a valuable coping resource ( Brown , 1991 ; Holmes and Roth , 1985 ) .
+By comparing the effect of physical resources on increase in stress while performing tasks requiring high physical activity and tasks that do not , the limitations of the physical resource effects could be controlled and understood .
+Fourth , contrary to other studies that found cognitive resources to be a relevant resource for coping with stress ( Carson & Johnson , 1985 ; Elias , Gara , Ubriaco , & Rothman , 1986 ; Giammatteo & Giammatteo , 1980 ; Schlossberg , 1981 ) , both cognitive resources measured in this study did not significantly moderate increase in stress .
+Future studies should better define this wide category of stress-coping resources ( cognitive resources ) and measure different mental resources ( problem-solving ability , managing resources such as time and energy and cognitive means ) while crossing them with different stressors ( e.g. , resources with cognitive tasks vs. physical tasks ) .
+It is possible that , within this category , each cognitive aspect is related to different processes and situations of dealing with stress .
+We predict that some resources will be relevant only to cognitive stressors which aid in performing stressful tasks , and others will be relevant to a wide range of stressors related to the process of coping with stress rather than performance of tasks .
+In sum , this study examined resources that aid in coping with stress by testing the moderating effect of each resource on increase in stress over time when subjects were confronted with a stressful event .
+The results showed that several resources have significant moderating effects on increase in stress , from the stage of threat of resource loss to actual experience of resource loss .
+The results also demonstrated that , while there is an overlap between some resources , they are not completely interchangeable .
+These results advance the understanding of the complex process in which resources effect coping with stress , as suggested by COR theory .
+Copyright # 2008 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+30 , 685–707 ( 2009 ) DOI : 10.1002/job 702 G. LURIA AND A. TORJMAN Acknowledgements We wish to thank three anonymous reviewers for their comments and feedback during the review process , which improved our manuscript considerably .
+We also wish to thank Major Boris Lachterman , Occupational Psychologist , Head of the Selection and Classification Section , The IDF Ground Forces , Military Psychology Center , along with Major Eldad Heifetz , Military Psychologist , Division 460 , for their support in executing this research .
+Finally , we are grateful to Prof. Mina Westman , Dr. Yuval Kalish and Adi Luria for their insight and support .
+Author biographies Gil Luria is a lecturer at the University of Haifa , Faculty of Social Welfare and Health Sciences , Department of Human Services .
+He conducts research on organizational climate and stress .
+He received his PhD from the Faculty of Management at the Technion-Israel Institute of Technology .
+Gil has conducted research projects in a variety of organizations , from large manufacturing plants and military organizations to small factories .
+His recent work focuses on service climate in hospitals and its relationship with patient recovery , stress and emotional contagion , and supervision-based intervention studies .
+Amram Torjman is a lecturer at the College of Management , Rishon Lezion , the School of Business Administration .
+He received his MSc from the Faculty of Management at Tel Aviv University .
+His recent work focuses on organizational effectiveness of the court system , cross-cultural comparison of entrepreneurship , health care reform , and job stress and burnout .
+References Abramson , L. , Metalsky , G. , & Alloy , L. ( 1989 ) .
+Hopelessness depression : A theory-based subtype of depression .
+Psychological Review , 96 , 358–372 .
+Allbee , G. W. ( 1977 ) .
+Problems in living are not sicknesses .
+Clinical Psychologist , 30 , 5–6 .
+Bandura , A .
+( 1997 ) .
+Self-Efficacy : The exercise of control .
+New York : Freeman .
+Baron , R. M. , & Kenny , D. A .
+( 1986 ) .
+The moderator-mediator distinction in social psychological research : Conceptual , strategic , and statistical considerations .
+Journal of Personality and Social Psychology , 51 , 1173– 1182 .
+Barrera , M. ( 1986 ) .
+Distinctions between social support concepts , measures and models .
+American Journal of Community Psychology , 14 , 413–445 .
+Baumeister , R. F. , Bratslavsky , E. , Finkenauer , C. , & Vohs , K. D. ( 2001 ) .
+Bad is stronger than good .
+Review of General Psychology , 5 , 323–370 .
+Beehr , T. A. , & Newman , J .
+( 1978 ) .
+Job stress , employee health , and organizational effectiveness : A facet analysis model and literature review .
+Personnel Psychology , 31 , 655–669 .
+Ben-Zur , H. , & Yagil , D. ( 2005 ) .
+The relationship between aggressive behaviors of customers , coping , empower- ment and burnout .
+European Journal of Work and Organizational Psychology , 14 , 81–99 .
+Beurneister , R. F. , Bratslavsky , E. , Muraven , M. , & Tice , D. M. ( 1998 ) .
+Ego depletion : Is the active self a limited resource ?
+Journal of Personality and Social Psychology , 74 , 1252–1265 .
+Best , R. G. , Stapleton , L. M. , & Downey , R. G. ( 2005 ) .
+Core self-evaluation and job burnout : The test of alternative models .
+Journal of Occupational Health Psychology , 10 , 441–451 .
+Copyright # 2008 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+30 , 685–707 ( 2009 ) DOI : 10.1002/job COPING WITH STRESSFUL EVENTS 703 Bolger , N. ( 1990 ) .
+Coping as a personality process : A prospective study .
+Journal of Personality and Social Psychology , 59 , 525–537 .
+Bolger , N. , Delongis , A. , Kessler , R. , & Wethinton , E. ( 1989 ) .
+The contagion of stress across multiple roles .
+Journal of Marriage and the Family , 51 , 175–183 .
+Bolger , N. , & Schilling , E. A .
+( 1991 ) .
+Personality and the problems of everyday life : The role of neuroticism in exposure and reactivity to daily stressors .
+Journal of Personality , 59 , 355–386 .
+Bolger , N. , & Zuckerman , A .
+( 1995 ) .
+A framework for studying personality in the stress process .
+Journal of Personality and Social Psychology , 69 , 890–902 .
+Brown , J. D. ( 1991 ) .
+Staying fit and staying well : Physical fitness as a moderator of life stress .
+Journal of Personality and Social Psychology , 60 , 555–561 .
+Brown , J. D. , & Siegel , J. M. ( 1988 ) .
+Exercise as a buffer of life stress : A perspective study of adolescent health .
+Health Psychology , 7 , 341–353 .
+Caplan , G. ( 1964 ) .
+Principles of preventative psychiatry .
+New York : Basic Books .
+Caplan , G. ( 1974 ) .
+Support systems and community mental health .
+New York : Behavioral Publications .
+Caplan , R. D. ( 1983 ) .
+Person-environment fit : Past , present , and future .
+In C. L. Cooper ( Ed .
+) , Stress research ( pp .
+35–107 ) .
+New York : Wiley .
+Carlson , D. , & Perrew ’ e , P. ( 1999 ) .
+The role of social support in the stress-strain relationship : An examination of work-family conflict .
+Journal of Management , 25 , 513–540 .
+Carson , N. D. , & Johnson , R. E. ( 1985 ) .
+Suicide thoughts and problem-solving preparation among college students .
+Journal of College Student Personnel , 26 , 484–487 .
+Chen , W. Q. , Wong , T. W. , Yu , T. S. , Lin , Y .
+Z. , Cooper , C. L. , & Huijer , H. ( 2003 ) .
+Determinants of perceived occupational stress among Chinese offshore oil workers .
+Work and Stress , 17 , 287–305 .
+Chemers , M. M. , Hays , R. B. , Rhodewalt , F. , & Wysocki , J .
+( 1985 ) .
+A person-environment analysis of job stress : A contingency model explanation .
+Journal of Personality and Social Psychology , 49 , 628–635 .
+Coddington , R. D. ( 1972 ) .
+The significance of life events as etiologic factors in the diseases of children .
+Journal of Psychosomatic Research , 16 , 17–18 .
+Cohen , S. , & Edwards , J. R. ( 1989 ) .
+Personality characteristics as moderators of the relationship between stress and disorder .
+In R. W. J. Neufeld ( Ed .
+) , Advances in the investigations of psychological stress ( pp .
+235–283 ) .
+New York : Wiley .
+Cohen , S. , & Wills , T. A .
+( 1985 ) .
+Stress , social support , and buffering hypothesis .
+Psychological Bulletin , 98 , 310– 357 .
+Cohen , S. , Kamarck , T. , & Mermelstein , R. ( 1983 ) .
+A global measure of perceived stress .
+Journal of Health and Social Behavior , 24 , 385–396 .
+Cooper , K. H. , Gallman , J .
+B. , & MacDonald , J. L. ( 1986 ) .
+Role of aerobic exercise in reduction of stress .
+Dental Clinics of North America , 30 , 133–142 .
+Cozzarelli , C. ( 1993 ) .
+Personality and self-efficacy as predictors of coping with abortion .
+Journal of Personality and Social Psychology , 65 , 124–126 .
+Cowen , E. L. ( 1991 ) .
+In pursuit of wellness .
+American Psychologist , 46 , 404–408 .
+Crews , D. J. , & Landers , D. M. ( 1987 ) .
+A meta-analytic review of aerobic fitness and reactivity to psychosocial stressors .
+Medicine and Science in Sports and Exercise , 19 , 114–120 .
+David , J. P. , Green , P. J. , Martin , R. , & Suls , J .
+( 1997 ) .
+Differential roles of neuroticism , extroversion , and event desirability for mood in daily life : An integrative model of top down and bottom-up influences .
+Journal of Personality and Social Psychology , 73 , 149–159 .
+Derogatis , L. R. ( 1987 ) .
+The Derogatis stress profile ( DSP ) : Quantification of psychological stress .
+Advances in Psychosomatic Medicine , 17 , 30–54 .
+Dohrenwend , B. S. , & Dohrenwend , B. P. ( 1974 ) .
+Stressful life events : Their nature and effects .
+New York : Wiley .
+Dohrenwend , B. S. , Krasnoff , L. , Ashkenasy , A. R. , & Dohrenwend , B. P. ( 1978 ) .
+Exemplification of a method for scaling life events : The peri life event scale .
+Journal of Health and Social Behavior , 19 , 205–229 .
+Edwards , J. R. , & Cooper , C. L. ( 1990 ) .
+The person-environment fit approach to stress : Recurring problems and some suggested solutions .
+Journal of Organizational Behavior .
+Elias , M. J. , Gara , M. , Ubriaco , M. , Rothman , P. A. , Clabby , J. F. , & Schuyler , T. ( 1986 ) .
+Impact of a preventive social problem solving intervention on children ’ s coping with middle-school stressors .
+American Journal of Community Psychology , 14 , 259–275 .
+Etzion , D. ( 1984 ) .
+Moderating effect of social support on the stress-burnout relationship .
+Journal of Applied Psychology , 69 , 615–622 .
+Etzion , D. , & Westman , M. ( 1994 ) .
+Social support and sense of control as moderators of the stress-burnout relationship .
+Journal of Social Behavior and Personality , 9 , 639–656 .
+Copyright # 2008 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+30 , 685–707 ( 2009 ) DOI : 10.1002/job 704 G. LURIA AND A. TORJMAN Folkman , S. , Schaefer , C. , & Lazarus , R. S. ( 1979 ) .
+Cognitive processes as mediators of stress and coping .
+In V. Hamilton , & D. M. Warburton ( Eds .
+) , Human stress and cognition : An information-processing approach ( pp .
+265–298 ) .
+London : Wiley .
+French , J. R. P. , Jr. , & Kahn , R. L. ( 1962 ) .
+A programmatic approach to studying the industrial environment and mental health .
+Journal of Social Issues , 18 , 1–47 .
+French , J. R. P. , Jr , Caplan , R. D. , & Van Harrison , R. V. ( 1982 ) .
+The mechanisms of job stress and strain .
+Chichester , England : Wiley .
+Fusilier , M. , Ganster , D. C. , & Mayes , B. T. ( 1986 ) .
+The social support and health relationship : Is there a gender difference ?
+Journal of Occupational Psychology , 59 , 145–153 .
+Ganster , D. C. , & Fusilier , M. R. ( 1989 ) .
+Control in the workplace .
+In C. L. Cooper , & I. T. Robertson ( Eds .
+) , International review of industrial and organizational psychology ( Vol .
+4 , pp .
+235–280 ) .
+Chichester : Wiley .
+Garber , J. , Robinson , N. , & Valentiner , D. ( 1997 ) .
+The relation between parenting and adolescent depression : Self- worth as a mediator .
+Journal of Adolescent Research , 12 , 12–33 .
+Giammatteo , M. C. , & Giammatteo , D. M. ( 1980 ) .
+Executive well-being : Stress and administrators .
+Reston , VA : National Association of Secondary School Principals .
+Granovetter , M. ( 1973 ) .
+The strength of weak ties .
+American Journal of Sociology , 78 , 1360–1380 .
+Hammer , A. L. , & Marting , M. S. ( 1988 ) .
+Coping resources inventory manual .
+Palo Alto , CA : Consulting Psychologist Press .
+Harter , S. , Marold , C. , & Whitesell , N. ( 1992 ) .
+Model of psychosocial risk factors leading to suicidal ideation in young adolescents .
+Development and Psychopathology , 4 , 167–188 .
+Heider , F. ( 1958 ) .
+The psychology of interpersonal relations .
+New York : John Wiley .
+Hobfoll , S. E. ( 1998 ) .
+Stress , culture , and community : The psychology and philosophy of stress .
+Springer .
+Hobfoll , S. E. ( 1989 ) .
+Conservation of resources : A new attempt at conceptualizing stress .
+American Psychologist , 44 , 513–524 .
+Hobfoll , S. E. , & Freedy , J .
+( 1993 ) .
+Conservation of resources : A general stress theory applied to burnout .
+In W. B. Schaufeli , C. Maslach , & T. Mark ( Eds .
+) , Professional burnout : Recent developments in theory and research ( pp .
+115–129 ) .
+Washington , DC : Taylor & Francis .
+Hobfoll , S. E. ( 2002 ) .
+Social and psychological resources and adaptation .
+Review of General Psychology , 6 , 307– 324 .
+Hobfoll , S. E. , & Leiberman , J .
+( 1987 ) .
+Personality and social resources in immediate and continued stress- resistance among women .
+Journal of Personality and Social Psychology , 52 , 18–26 .
+Holder , J. C. , & Vaux , A .
+( 1998 ) .
+African American professionals : Coping with occupational stress in predominantly white work environments .
+Journal of Vocational Behavior , 53 , 315–333 .
+Holmes , D. S. , & Roth , D. L. ( 1985 ) .
+Association of aerobic fitness with pulse rate and subjective responses to psychological stress .
+Psychophysiology , 22 , 525–529 .
+Holmes , R. M. , & Rahe , R. H. ( 1967 ) .
+The social readjustment rating scale .
+Journal of Psychosomatic Research , 11 , 213–218 .
+House , J. S. ( 1983 ) .
+Work stress and social support .
+Chichester , MA : Addison-Wesley .
+House , J. S. , & Wells , J .
+A .
+( 1978 ) .
+Occupational stress , social support and health .
+N.I.O.S.H .
+Document , ( Chapter 1 , pp .
+8–29 ) .
+Inns , J. K. , & Kitto , S. ( 1989 ) .
+Neuroticism , self-consciousness and coping strategies , and occupational stress in high school teachers .
+Personality and Individual Differences , 10 , 303–312 .
+Jahoda , M. ( 1958 ) .
+Current concepts of mental health .
+New York : Basic Books .
+Jex , S. M. , Bliese , P. D. , Buzzell , S. , & Primeau , J .
+( 2001 ) .
+The impact of self-efficacy on stressor-strain relations : Coping style as an explanatory mechanism .
+Journal of Applied Psychology , 86 , 401–409 .
+Judd , C. M. , Kenny , D. A. , & McClelland , G. H. ( 2001 ) .
+Estimating and testing mediation and moderation in within-subject designs .
+Psychological Methods , 6 , 115–134 .
+Judge , T. A. , & Bono , J. E. ( 2001 ) .
+Relationship of core self-evaluations traits—self esteem , generalized self efficacy , locus of control , and emotional stability—with job satisfaction and job performance : A meta-analysis .
+Journal of Applied Psychology , 86 , 80–92 .
+Judge , T. A. , Erez , A. , Bono , J. E. , & Thoresen , C. J .
+( 2003 ) .
+The core self-evaluations scale : Development of a measure .
+Personnel Psychology , 56 , 303–331 .
+Judge , T. A. , Locke , E. A. , Durham , C. C. , & Kluger , A. N. ( 1998 ) .
+Dispositional effects on job and life satisfaction : The role of core evaluations .
+Journal of Applied Psychology , 83 , 17–34 .
+Kahn , R. L. , Wolfe , D. M. , Snoek , J. E. , Quinn , R. P. , & Rosenthal , R. A .
+( 1964 ) .
+Organizational stress : Studies in role conflict and ambiguity .
+New York : Wiley .
+Copyright # 2008 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+30 , 685–707 ( 2009 ) DOI : 10.1002/job COPING WITH STRESSFUL EVENTS 705 Kanner , A. , Kafry , D. , & Pines , A .
+( 1978 ) .
+Conspicuous in its absence : The lack of positive conditions as a source of stress .
+Journal of Human Stress , 4 , 33–39 .
+Karasek , R. A. , Triantis , K. P. , & Chaudhry , S. S. ( 1982 ) .
+Coworker and supervisor support as moderators of associations between task characteristics and mental strain .
+Journal of Occupational Behavior , 3 , 181–200 .
+Keinan , G. , Friedland , N. , Kahneman , D. , & Roth , D. ( 1999 ) .
+The effect of stress on the suppression of erroneous competing responses .
+Anxiety , Stress , and Coping , 12 , 455–476 .
+Kliewer , W. , & Sandler , I. N. ( 1992 ) .
+Locus of control and self-esteem as moderators of stressor-symptom relations in children and adolescents .
+Journal of Abnormal Child Psychology , 20 , 393–413 .
+Kobasa , S. C. , Maddi , S. R. , & Kahn , S. ( 1982 ) .
+Hardiness and health : A prospective study .
+Journal of Personality and Social Psychology , 42 , 168–177 .
+Kottke , J. L. , & Sharafinski , C. E. ( 1988 ) .
+Measuring perceived supervisory and organizational support .
+Educational and Psychological Measurement , 48 , 1075–1079 .
+Knoke , D. , & Burt , R. S. ( 1983 ) .
+Prominence .
+In R. S. Burt , & M. J .
+Minor ( Eds .
+) , Applied network analysis : A methodological introduction ( pp .
+195–222 ) .
+Beverly Hills , CA : Sage .
+Langens , T. A. , & Stucke , T. S. ( 2005 ) .
+Stress and mood : The moderating role of activity inhibition .
+Journal of Personality , 73 , 47–78 .
+LaRocco , J. M. , House , J. S. , & French , J. R. P. ( 1980 ) .
+Social support , occupational stress , and health .
+Journal of Health and Social Behavior , 21 , 202–216 .
+Lazarus , R. , & Folkman , S. ( 1984 ) .
+Stress , appraisal , and coping .
+New York : Springer .
+Litt , M. D. ( 1988 ) .
+Cognitive mediators of stressful experience : Self-efficacy and perceived control .
+Cognitive Theory and Research , 12 , 241–260 .
+MacDonald , L. A. , Karasek , R. A. , Punnett , L. , & Scharf , T. ( 2001 ) .
+Convariation between workplace physical and psychological stressors : Evidence and implications for occupational health research and prevention .
+Ergo- nomics , 44 , 696–718 .
+Matheny , K. B. , Aycock , D. W. , Pugh , J. L. , Curlette , W. L. , & Cannella , K. A. S. ( 1986 ) .
+Stress coping : A qualitative and quantitative synthesis with implications for treatment .
+Counseling Psychologist , 14 , 499–549 .
+Matheny , K. B. , Curlette , W. L. , Aycock , D. W. , Pugh , J. L. , & Taylor , H. F. ( 1987 ) .
+The coping resources inventory for stress .
+Atlanta , GA : Health Prisms .
+Marco , C. A. , & Suls , J .
+( 1993 ) .
+Daily stress and the trajectory of mood : Spillover , response assimilation , contrast , and chronic negative affectivity .
+Journal of Personality and Social Psychology , 64 , 1053–1063 .
+McCrae , R. R. ( 1990 ) .
+Controlling neuroticism in the measurement of stress .
+Stress Medicine , 6 , 237–241 .
+McCrae , R. R. , & Costa , P. T. ( 1986 ) .
+Personality , coping , and coping effectiveness in an adult sample .
+Journal of Personality , 54 , 385–405 .
+Mischel , W. ( 1977 ) .
+The interaction of person and situation .
+In D.Magnusson , & N. S. Endler ( Eds .
+) , Personality at the crossroad : Current issues in international psychology ( pp .
+333–352 ) .
+Hilsdale , NJ : Lawrence Erlbaum .
+Mischel , W. , & Peake , P. ( 1982 ) .
+Beyond déjà vu in the search for cross-situational consistency .
+Psychological Review , 89 , 730–755 .
+Monaghan , J. H. , Robinson , J. O. , & Dodge , J .
+A .
+( 1979 ) .
+The children ’ s life events inventory .
+Journal of Psychosomatic Research , 23 , 63–68 .
+Norris , R. , Carroll , D. , & Cochrane , R. ( 1990 ) .
+The effects of aerobic and anaerobic training on fitness , blood pressure , and psychological stress and well-being .
+Journal of Psychosomatic Research , 34 , 367–375 .
+O ’ Brien , T. B. , & DeLongis , A .
+( 1996 ) .
+The interactional context of problem- , emotion- and relationship focused coping : The role of the big five personality factors .
+Journal of Personality , 64 , 775–813 .
+Ormel , J. , & Wohlfarth , T. ( 1991 ) .
+How neuroticism , long-term difficulties , and life situation change influence psychological distress : A longitudinal model .
+Journal of Personality and Social Psychology , 60 , 744–755 .
+Parkes , K. R. ( 1990 ) .
+Coping , negative affectivity , and work environment : Additive and interactive predictors of mental health .
+Journal of Applied Psychology , 75 , 399–409 .
+Rahim , A .
+( 1996 ) .
+Stress , strain , and their moderators : An empirical comparison of entrepreneurs and managers .
+Journal of Small Business Management , 34 , 46–58 .
+Rini , C. K. , Dunkel-Schetter , C. , Wadhwa , P. D. , & Sandman , C. A .
+( 1999 ) .
+Psychological adaptation and birth outcomes : The role of personal resources , stress , and sociocultural context in pregnancy.Health Psychology , 18 , 333–345 .
+Robert , J .
+A. , Lapidus , R. S. , & Chonko , L. B .
+( 1997 ) .
+Salespeople and stress : The moderating role of locus on work stressors and felt stress .
+Journal of Marketing Theory and Practice , 5 , 93–108 .
+Rosenberg , M. ( 1965 ) .
+Society and adolescent self-image .
+Princeton , NJ : Princeton University Press .
+Sadri , G. , Marcoulides , G. A. , Cooper , C. L. , & Kirkcaldy , B .
+( 1996 ) .
+Testing a model of occupational stress across different countries .
+Journal of Business and Management , 20 , 10–29 .
+Copyright # 2008 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+30 , 685–707 ( 2009 ) DOI : 10.1002/job 706 G. LURIA AND A. TORJMAN Sarason , I. G. , Sarason , B. R. , Shearin , E. N. , & Pierce , G. R. ( 1987 ) .
+A brief measure of social support : Practice and theoretical implications .
+Journal of Social and Personal Relationships , 4 , 497–510 .
+Schaubroeck , J. , Lam , S. , & Xie , J. L. ( 2000 ) .
+Collective efficacy versus self efficacy in coping responses to stressors and control : A cross-cultural study .
+Journal of Applied Psychology , 85 , 512–525 .
+Schlossberg , N. K. ( 1981 ) .
+Amodel for analyzing human adaptation to transition .
+The Counselling Psychologist , 9 , 2–18 .
+Seligman , M. E. P. , & Csikszentimihalyi , M. ( 2000 ) .
+Positive psychology .
+American Psychologist , 55 , 5–14 .
+Simonds , J. F. , McMahon , T. , & Armstrong , D. ( 1991 ) .
+Assessing the impact of life experiences survey .
+Journal of Consulting and Clinical Psychology , 46 , 932–946 .
+Siu , O. , Spector , P. E. , Cooper , C. L. , Lu , L. , & Yu , S. ( 2002 ) .
+Managerial stress in Greater China : The direct and moderator effects of coping strategies and work locus of control .
+Applied Psychology : An International Review , 51 , 608–632 .
+Skinner , E. A .
+( 1996 ) .
+A guide to the construct of control .
+Journal of Personality and Social Psychology , 71 , 549– 570 .
+Snijders , T. A .
+B .
+( 2001 ) .
+The statistical evaluation of social network dynamics .
+Sociological Methodology , 31 , 361–395 .
+Spector , P. E. ( 1982 ) .
+Behavior in organizations as a function of employee ’ s locus of control .
+Psychological Bulletin , 91 , 482–497 .
+Spector , P. E. ( 1986 ) .
+Perceived control by employees : A meta-analysis of studies concerning autonomy and participation at work .
+Human Relations , 39 , 1005–1016 .
+Spector , P. E. , & O ’ Connell , B. J .
+( 1994 ) .
+The contribution of personality traits , negative affectivity , locus of control and type A to the subsequent reports of job stressors and job strains .
+Journal of Occupational and Organizational Psychology , 67 , 1–11 .
+Spielberger , C. D. , & Reheiser , E. C. ( 1994 ) .
+Job stress in university , corporate , and military personnel .
+International Journal of Stress Management , 1 , 19–31 .
+Spielberger , C. D. , & Vagg , P. R. ( 1999 ) .
+Job stress survey—Professional manual .
+Odessa , FL : Psychological Assessment Resources .
+Spielberger , C. D. , Vagg , P. R. , & Wasala , C. F. ( 2003 ) .
+Occupational stress : Job pressures and lack of support .
+In J. C. Quick , & L. E. Terick ( Eds .
+) , Handbook of occupational health psychology ( pp .
+185–200 ) .Washington DC : American Psychological Association .
+Stroud , L. R. , Salovey , P. , & Epel , E. S. ( 2005 ) .
+Sex differences in stress responses : Social rejection versus achievement stress .
+Society of Biological Psychiatry , 52 , 318–327 .
+Sullivan , H. S. ( 1953 ) .
+The interpersonal theory of psychiatry .
+New York : W.W. Norton .
+Tversky , A. , & Kahneman , D. ( 1974 ) .
+Judgment under uncertainty : Heuristics and Biases .
+Science , 185 , 1124– 1131 .
+Vagg , P. R. , & Spielberger , C. D. ( 1998 ) .
+Occupational stress : Measuring job pressure and organizational support in the workplace .
+Journal of Occupational Health Psychology , 3 , 294–305 .
+Van Dierendonck , D. , & Mevissen , N. ( 2002 ) .
+Aggressive behavior of passengers , conflict management behavior , and burnout among trolley car drivers .
+International Journal of Stress Management , 9 , 345–355 .
+Viswesvaran , C. , Sanchez , J. I. , & Fisher , J .
+( 1999 ) .
+The role of social support in the process of work stress : Ameta- analysis .
+Journal of Vocational Behavior , 54 , 314–334 .
+Wasserman , S. , & Faust , K. ( 1994 ) .
+Social network analysis : Methods and applications .
+Cambridge University Press .
+Westman , M. , & Etzion , D. ( 1995 ) .
+Crossover of stress , strain and resources from one spouse to another .
+Journal of Organizational Behavior , 16 , 169–181 .
+Westman , M. , & Etzion , D. ( 1999 ) .
+The crossover of strain from school principals to teachers and vice versa .
+Journal of Applied psychology , 4 , 269–278 .
+Westman , M. , & Winokur , A .
+( 1998 ) .
+Unraveling the relationship do distress level within couples : Common stressors , emphatic reactions , or crossover via social interactions ?
+Human Relations , 51 , 137–156 .
+Westman , M. , & Etzion , D. ( 2005 ) .
+The crossover of work-family conflict from one spouse to the other .
+Journal of Applied Social Psychology , 35 , 1936–1957 .
+Westman , M. , Roziner , I. , & Bakker , A .
+B .
+( under review ) .
+Crossover of work pressure and exhaustion within teams : A multi-level , longitudinal study .
+Wheaton , B .
+( 1983 ) .
+Stress , personal coping resources , and psychiatric symptoms : An investigation of interactive models .
+Journal of Health and Social Behavior , 24 , 208–229 .
+Copyright # 2008 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+30 , 685–707 ( 2009 ) DOI : 10.1002/job COPING WITH STRESSFUL EVENTS 707

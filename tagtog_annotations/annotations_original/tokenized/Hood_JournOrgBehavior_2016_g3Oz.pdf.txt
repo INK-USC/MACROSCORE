@@ -1,0 +1,808 @@
+Hood_JournOrgBehavior_2016_g3Oz.pdf
+aYXZcV6s44UY4DRwp4qeiIcEHEnK-Hood_JournOrgBehavior_2016_g3Oz.pdf.plain.html
+
+Mediating effects of psychological safety in the relationship between team affectivity and transactive memory systems ANTHONY C. HOOD1* , DANIEL G. BACHRACH2 , SUZANNE ZIVNUSKA3 AND ELLIOT BENDOLY4 1Collat School of Business , University of Alabama at Birmingham , Department of Management , Information Systems & Quantitative Methods , Birmingham , Alabama , U.S.A. 2Culverhouse College of Commerce , Department of Management and Marketing , The University of Alabama , Tuscaloosa , Alabama , U.S.A. 3Department of Management , College of Business , California State University , Chico , Chico , California , U.S.A. 4Fisher College of Business , The Ohio State University , Columbus , Ohio , U.S.A. Summary In this research , we develop a framework for understanding the emergence of transactive memory systems ( TMS ) in project-based teams characterized by different levels of group level positive affectivity ( PA ) and negative affectivity ( NA ) .
+With a focus on enhancing understanding of the means of transmission , we test the mediating role played by group level psychological safety ( PS ) in the relationship between team affectiv- ity and TMS .
+From a sample of 107 software implementation project teams , in a lagged field study , we find support for a mediated model in which high group NA , but not group PA , promotes environments psycholog- ically unsafe for interpersonal risk-taking ( low PS ) and which are negatively associated with TMS .
+This study extends prior research on the differential effects of PA and NA , by contributing to the limited research on group affectivity , environmental antecedents of TMS , and the mediating role of PS for predicting group level transactive processes and structures .
+Copyright © 2015 John Wiley & Sons , Ltd. Keywords : transactive memory systems ; team affectivity ; group level psychological safety ; TMS antecedents ; field study ; lagged design Increasing pressure on under-resourced project-based teams requires development and integration of specialized expertise , mutual trusting relationships , and effective coordination routines .
+Research on transactive memory systems ( TMS ) , a set of structures and processes that provides teams with an effective means to manage scarce resources ( Faraj & Sproull , 2000 ) , suggests that teams cope with resource constraints by dividing and sharing responsibilities for exper- tise and tasks ( Ren & Argote , 2011 ) .
+A central theme underlying this research has been the role of learning ( e.g. , Lewis , Lange , & Gillis , 2005 ) .
+Specifically , transactive memory ( TM ) is believed to develop as group members learn about one another ’ s expertise ( Lewis , 2003 ; Wegner , 1987 ) and subsequently use this knowledge to develop expertise at the group level that is specialized , credible , and well-coordinated ( Lewis , 2003 ) .
+Although previous research has highlighted a number of learning-oriented factors that contribute to the development of TMS such as intimacy ( Wegner , 1987 ) , com- munication frequency ( Lewis , 2004 ) , prior learning ( Lewis et al. , 2005 ) , familiarity ( Lewis , 2004 ) , and social network connections ( Lee , Bachrach , & Lewis , 2014 ) , factors known to hinder learning such as unfavorable perceptions of risk and threat ( Edmondson , 1999 ) have received less attention .
+As such , the purpose of the current study is to contribute to TM theory by examining TMS development through the lens of interpersonal risk-taking and learning in teams .
+For example , establishing the architecture central to a TMS is fraught with a number of potentially risky interper- sonal behaviors such as admitting information deficiencies , declaring expertise , justifying or defending expertise *Correspondence to : Anthony C. Hood , Collat School of Business , University of Alabama at Birmingham , Department of Management , Information Systems & Quantitative Methods , 317 F Business and Engineering Complex , 1150 10th Ave South , Birmingham , Alabama 35294 , U.S.A. E-mail : ahood63 @ uab.edu Copyright © 2015 John Wiley & Sons , Ltd .
+Received 16 August 2014 Revised 22 July 2015 , Accepted 23 July 2015 Journal of Organizational Behavior , J. Organiz .
+Behav .
+37 , 416–435 ( 2016 ) Published online 2 September 2015 in Wiley Online Library ( wileyonlinelibrary.com ) DOI : 10.1002/job.2050 R esearch A rticle when challenged , and admitting lack of desire to accept responsibility for a particular expertise domain ( Hollingshead , 1998 ) .
+Although TMS depends on willingness to engage in potentially risky behaviors ( Larsen & Augustine , 2008 ) , factors encouraging or discouraging these behaviors have been largely overlooked in the TM literature .
+In particular , sensitivity to and perceptions of interpersonal threat or risk are likely to influence acceptance of risks associated with TMS .
+As such , we propose that teams ’ willingness to engage in these potentially risky behaviors may be largely determined by the team ’ s dispositional affectivity .
+Affectivity has been explicitly recognized as a critical stimulus in group environments ( Hackman , 1992 ) .
+In particular , positive affectivity ( PA ) and negative affectivity ( NA ) are differentially associated with the direction , duration , and in- tensity with which personal resources ( e.g. , time , attention , and energy ) are invested in social contexts ( Carver & Scheier , 1990 ) .
+While PA reflects the tendency to be energetic , cheerful , and optimistic ( Barsade & Gibson , 1998 ; Watson , Clark , & Tellegen , 1988 ) , NA increases the tendency to notice and ruminate over unfavorable information regarding ones ’ self and others ( Watson et al. , 1988 ) .
+These differences are likely to have an influence on the extent to which group environ- ments are perceived as discouraging or encouraging ( Edmondson & Lei , 2014 ) TMS-enhancing behaviors .
+With this focus , we seek to contribute to the literature by deepening understanding of the antecedents leading to TMS .
+First , although TMS may improve team performance ( e.g. , Austin , 2003 ; Lewis , 2003 ; Lewis , 2004 ; Liang , Moreland , & Argote , 1995 ; Moreland , 1999 ; Moreland , Argote , & Krishnan , 1996 , 1998 ; Moreland & Myaskovsky , 2000 ; Zhang , Hempel , Han , & Tjosvold , 2007 ) , very little research has explored antecedents of TMS .
+The current study contributes by developing a connection between team affectivity and TMS .
+Second , we also seek to deepen understanding of the drivers of this association by examining the role played by psychological safety ( PS ) as a mediator .
+Specifically , as shown in Figure 1 , we propose that differences between high/low team-level dispositional PA and NA lead to team-level perceptions of PS and TMS .
+We begin with a review of our primary theoretical framework , TM theory .
+This is followed by hypothesis devel- opment and a brief overview of multi-level theory ( MLT ) .
+Understanding MLT is an essential precursor to our methods section , as it provides the foundation necessary to understand the process through which our focal constructs , which are typically treated at the individual and dyadic levels of analysis , emerge to form team-level con- structs .
+We then provide methods , results , discussion , and implications .
+Background and Theoretical Development Transactive memory theory According to TM theory , TM is present at the individual and dyadic levels of analysis but often forms a meaningful phenomenon at the group level via compositional processes .
+At the individual level , TM refers to “ …memory that is Figure 1 .
+The mediating role of psychological safety in the relationship between positive and negativity affectivity and transactive memory systems .
+Direct effects of positive affectivity and negative affectivity on TMS are illustrated with dashed lines TEAM AFFECTIVTY AND TRANSACTIVE MEMORY 417 Copyright © 2015 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+37 , 416–435 ( 2016 ) DOI : 10.1002/job influenced by knowledge of the memory system of another person ” ( Lewis , 2003 p. 587 ) .
+TM has roots in information processing—a multi-stage operation consisting of phases such as attention ( e.g. , information must first be perceived/recognized in order to be processed ) , encoding ( e.g. , perceived information must be labeled and properly organized to facilitate its retention ) , storage ( e.g. , once organized , information must be preserved for future use ) , retrieval ( e.g. , stored information is cued using the previously employed organizing scheme ) , and application ( e.g. , only retrieved information is available to be brought to bear on cognitive tasks ) ( Ellis , 2006 ; Faraj & Sproull , 2000 ) .
+Because of limits on individual cognitive processing ( Wegner , 1987 ) , group members are compelled to rely on other members to share the burden of processing information for the performance of collective tasks and achieve- ment of shared goals ( Ren & Argote , 2011 ) .
+A TMS begins to emerge as two or more individuals coordinate their respective TMs ( Lewis , 2003 ) .
+Transactions refer to the interpersonal interactions and communications necessary to coordinate individual TMs and to cooperatively process information .
+For example , transactive retrieval occurs when an information seeker pro- vides cues that remind a target of what she was wearing or what they were both eating the day that she likely encoded and stored a needed piece of information .
+As these transactions become more regular and predictable , individual TMs begin to converge to form a shared cognitive directory of the tasks , expertise , and people ( as well as the linkages among them ) needed to accomplish group objectives ( Brandon & Hollingshead , 2004 ) .
+In this way , a TMS is a compositional emergent construct consisting of two or more TMs and the set of transactive processes that facilitate memory coordination ( Lewis & Herndon , 2011 ) .
+Transactive memory systems and learning Wegner ( 1987 ) argued that TMS is supported by three primary processes : ( a ) directory updating requires members to develop a shared cognitive directory composed of members ’ individual and collective learning regarding who knows what ; ( b ) information allocation occurs when expertise is passed to one member based on what another member has learned about the target ’ s willingness and ability to store it ; ( c ) retrieval coordination is facilitated by members ’ understanding of the location , accessibility , and value of the expertise held by another ( Borgatti & Cross , 2003 ) .
+Borgatti and Cross ( 2003 ) highlight a number of learning-oriented correlates of transactive processing .
+In a study of information scientists and genomic researchers , awareness , value , and accessibility were significantly related to dyadic transactive searching , but the cost of dyadic transactive search was not .
+In explaining this non-finding , the authors drew on the concept of PS , arguing that : “ …cost functions as a characteristic of a group as a whole , affecting whether or how often people seek information from others in general , rather than as a determinant of who is sought out ” ( Borgatti & Cross , 2003 , p. 441 ) .
+Yuan and colleagues ( 2010 ) challenged some of the implicit assumptions of TM theory by arguing that awareness of another ’ s expertise is not enough to facilitate transactive retrieval .
+Instead , they argued that one must also learn how best to access one ’ s expertise in order to successfully retrieve it .
+That is , members may have knowledge of which members possess what expertise ; however , members may vary in their perceived ability or actual ability to access this knowledge when needed .
+We agree with these authors and seek to contribute to TM theory by exploring perceptions of interpersonal risk-taking and safety as necessary precursors for TMS-related learning .
+Consistent with this aim , Hollingshead ( 1998 ) placed emphasis on self-disclosure as a means of learning about others ’ expertise as well as of establishing one ’ s own expertise in the minds of other group members .
+Members may initially infer expertise credibility based on stereotypes , prior experience , or formal education .
+However , be- cause these assumptions may be erroneous , they may lead to suboptimal task and expertise assignments if left unchecked .
+To refine their initial inferences , Hollingshead ( 1998 ) argued that members must establish their expertise through actions such as asserting one ’ s expertise , elaborating one ’ s background and experience , declaring insuffi- cient knowledge in a particular domain , challenging or questioning the expertise of another , or demonstrating exper- tise by correctly addressing others ’ inquiries ( Hollingshead , 1998 ) .
+418 A. C. HOOD ET AL .
+Copyright © 2015 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+37 , 416–435 ( 2016 ) DOI : 10.1002/job Thus , when TMS is underdeveloped , members may have little basis on which to make task and expertise assign- ments ; in the absence of tangible evidence and personal experience , members may make task and expertise assignments arbitrarily , or on “ …the basis of such irrelevant cues as appearance or demeanor… ” ( Moreland , 1999 , p. 5 ) .
+Moreover , groups may allow members to take responsibility for whatever assignments they like best , rather than on the basis of qualification ( Moreland , 1999 ; Weingart , 1992 ) .
+This may result in pairing people with tasks and expertise for which they are unqualified or poorly suited to maintain .
+As a result , the refinement and effective operation of TMS depends on an ongoing process of learning and modifications to existing TMS structures and processes ( Lewis et al. , 2005 ) .
+We expect these processes to be accompanied with interpersonal risks that members will be disinclined to accept .
+Psychological safety In the context of teams , PS refers to team members ’ assessment that the team ’ s environment is safe for interpersonal risk-taking ( Edmondson , 1999 ) .
+PS influences willingness to engage in potentially threatening behaviors , such as many of those associated with creativity and learning in groups .
+Edmonson describes group level learning as “ …an ongoing process of reflection and action , characterized by asking questions , seeking feedback , experimenting , reflecting on results , and discussing errors or unexpected outcomes of actions ” ( Edmondson , 1999 , p. 353 ) .
+Edmondson ( 1999 ) noted that “ …asking for help , admitting errors , and seeking feedback exemplify the kinds of behaviors that pose a threat to face ( Brown , 1990 ) , and thus people in organizations are often reluctant to disclose their errors ( Michael , 1973 ) or are unwilling to ask for help ( Lee , 1997 ) , even when doing so would provide benefits for the team or organization… ” ( Edmondson , 1999 , p. 352 ) .
+Thus , when PS is low , members will be reluctant to experiment ( Lee , Edmondson , Thomke , & Worline , 2004 ) , less creative ( Gilson & Shalley , 2004 ) , fearful of correction , and/or reticent to personally engage ( Kahn , 1990 ) .
+We expect these factors to have an adverse impact on the refinement of a group ’ s shared memory structures and processes .
+Psychological safety and transactive memory systems Group members ’ perceptions regarding interpersonal risk-taking should impact TMS for a number of reasons .
+First , in order for a team to uncover gaps and make corrections in their coverage of expertise domains ( TMS structure ) and patterns of expertise coordination ( TMS processes ) , they must feel safe to question assumptions and discuss issues in an open and honest way ( Edmondson , 1999 ) .
+This is especially important given that initial task and expertise respon- sibilities are likely to be suboptimal and in need of renegotiation and realignment .
+For example , it may be assumed that David has expertise in domain X because he studied under Sara , a recognized expert in domain X .
+However , if David makes a mistake that is uncharacteristic of someone with expertise in domain X , then David ’ s assignment as the team ’ s domain X expert will come into question .
+The situation may become problematic if it becomes apparent that no one on the team has sufficient expertise to readily assume responsibility for domain X .
+As such , teams often need to experiment with different and sometimes creative combinations of tasks , expertise , and role assignments in order to achieve the most equitable and optimal division of cognitive labor .
+Such behaviors make the refinement and operation of TMS akin to the learning and creativity often associated with PS .
+For example , Kark and Carmeli ( 2009 ) found associations between PS and involvement in creative work processes .
+They argued that PS supports creative work engagement by helping to reduce defensiveness and anxiety related to learning .
+These authors contend that “ …when individuals encounter new ideas and information that dis- confirm their prior knowledge , expectations , or hopes , they may experience a sense of anxiety that will hinder their ability to learn ” ( Kark & Carmeli , 2009 , p. 788 ) .
+In the context of TMS , disconfirming information may emerge when a member seeks expertise from a member mis- takenly perceived to be an expert or when a member rejects a request to serve as an expert in a particular domain .
+Such instances may be common when TMS is underdeveloped as members seek and assign expertise responsibilities on the TEAM AFFECTIVTY AND TRANSACTIVE MEMORY 419 Copyright © 2015 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+37 , 416–435 ( 2016 ) DOI : 10.1002/job basis of erroneous or superficial information such as gender stereotypes ( Hollingshead & Fraidin , 2003 ) .
+Such infor- mation , when revealed to be erroneous , may be embarrassing or insulting to one or both parties .
+PS may embolden individuals to challenge preconceived notions and assumptions about who potentially or actually knows what .
+Gilson and Shalley ( 2004 ) linked PS to creative problem solving processes in which “ …ideas are sought outside one ’ s field of expertise , ideas are combined from multiple sources , and new alternatives examined ” ( p. 460 ) .
+This is consistent with TM theory , which suggests that in an effort to validate , correct , and converge their individual TMs that groups may experiment with different combinations of tasks , expertise , and people until optimal alignments are identified ( Brandon & Hollingshead , 2004 ) .
+For example , in a study of organizational learning among project teams operating in hospital intensive care units , Tucker , Nembhard , and Edmondson ( 2007 ) reported that when staff felt comfortable asking questions and raising difficult issues , they exhibited a greater number of learning behaviors such as trial and error and collaborative problem solving .
+Further , favorable PS climates may enhance the performance benefits of process innovativeness in mid-size German firms ( Baer & Frese , 2003 ) .
+Baer and Frese argued that PS enhances performance by encouraging employees to accept the risk of “ …openly proposing new ways of working and to come up with alternative problem-solving approaches ” ( Baer & Frese , 2003 , p. 50 ) .
+For some , engaging in distributed information processing by relying largely on others to remember critical information represents a new and unfamiliar way of doing things .
+Second , to be effective , TMS must be validated by group members by participating in the coordination of their own and others ’ TMs .
+Drawing on previous research ( i.e. , Stasser et al. , 1995 ) , Brandon and Hollingshead proposed that “ …coordination requires that group members accept responsibility for certain actions , that other group members accept responsibility for other areas , and that group members implicitly know that they share the same map of these responsibilities ” ( Brandon & Hollingshead , 2004 , p. 640 ) .
+Coordination failures occur when members mistakenly assume that the responsibility for learning and remembering information has been accepted by another ( Lewis , Belliveau , Herndon , & Keller , 2007 ) .
+Such failures are recognized when “ …information possessed by a member is not utilized by the group , when members fail to retrieve information they possess , or when members fail to cue recall of information already possessed by another member ” ( Lewis et al. , 2007 , p. 165 ) .
+Third , effective TMS requires a level of transparency and engagement that is likely impacted by PS perceptions .
+PS promotes learning through physical , cognitive , and emotional engagements .
+For example , Kahn ( 1990 ) linked PS to the display of personally engaging behaviors such that members experiencing high levels of PS are “ …physically involved in tasks , whether alone or with others , cognitively vigilant , and empathically connected to others in the service of the work they are doing in ways that display what they think and feel… ” ( Kahn , 1990 , p. 700 ) .
+In contrast , in the absence of PS , members are more likely to become personally withdrawn and increase self-defensive behav- iors in which they “ …hide true identity , thoughts , and feelings during role performance… ” ( Kahn , 1990 , p. 701 ) .
+Coordination errors are more likely when members have a poor understanding of the expertise possessed by overly guarded teammates .
+Finally , to have an effective TMS , members assigned responsibility to maintain expertise in domains in which they are ill-equipped must feel safe to admit their deficiencies .
+However , admitting weakness can be embarrassing or used to demean or harm the self-esteem of the member whose expertise is in question .
+PS may create an environ- ment where people are self-conscious about the risks associated with sharing potentially damaging revelations .
+For example , in a study of virtual communities , Zhang and colleagues ( 2010 ) reported that PS has a positive effect on community members ’ intentions to continue sharing knowledge in the community .
+Confirming previous findings ( e.g. , May , Gilson , Harter , 2004 ) , they also found that PS is driven by heightened vigilance regarding how one is perceived and judged by others .
+Low levels of PS hinder reallocation of expertise responsibilities to the most capa- ble , confident , and willing team members .
+In sum , the social exchanges necessary for effective TMS operation such as feedback seeking , information sharing , negotiation , discussion of errors , and experimentation ( Edmondson , 1999 ; Hollingshead , 1998 ) are fraught with interpersonal risks that members will be more or less willing or able to accept .
+However , by alleviating excessive concerns regarding the acceptability of interpersonal risk taking , PS can encourage enactment of poten- tially risky learning-oriented behaviors ( Edmondson , 1999 ) , which support the processes and structures inherent 420 A. C. HOOD ET AL .
+Copyright © 2015 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+37 , 416–435 ( 2016 ) DOI : 10.1002/job in a functioning TMS .
+When PS is high , members will be more willing to reallocate expertise roles and responsibil- ities and experiment with new ways of processing information .
+In contrast , contexts characterized by low PS are likely to discourage risk taking and instead promote restricted information processing and rigid adherence to initial and oftentimes erroneous member-expertise assignments .
+On this basis , we predict the following : Hypothesis 1 : Team PS is positively related to TMS .
+Group affectivity While PA reflects the tendency to be energetic , cheerful , and optimistic ( Barsade & Gibson , 1998 ; Watson et al. , 1988 ) , NA increases the tendency to overreact to and ruminate over unfavorable information regarding ones ’ self and others ( Watson et al. , 1988 ) .
+We theorize that PA and NA are differentially associated with the emergence of PS through their respective influence on the extent that members are motivated to approach or avoid ( Elliot & Thrash , 2002 ) opportunities to communicate potentially threatening information to one another ( Tynan , 2005 ; White , Tynan , Galinsky , & Thompson , 2004 ) .
+As such , we expect affectivity to influence not only how group en- vironments are perceived but also how group environments are created .
+Negative affectivity and psychological safety There are a number of reasons why we expect NA to contribute to a group environment perceived to be psycholog- ically unsafe by its members .
+First , NA has been linked to an avoidance orientation characterized by “ …sensitivity to negative/undesirable ( i.e. , punishment ) stimuli ( present or imagined ) that is accompanied by perceptual vigilance for , affective reactivity to , and a behavioral predisposition away from such stimuli ” ( Elliot & Thrash , 2002 , p. 805 ) .
+This perspective is consistent with the expectation that NA is associated with the behavioral inhibition system ( BIS ) , a physiological mechanism that constrains actions that might lead to harmful or painful consequences ( Carver & White , 1994 ) .
+Because NA increases sensitivity to stimuli that is negative or unfavorable , high NA groups are likely to be characterized by the highlighting of members ’ shortcomings and missteps while simultaneously discounting or overlooking one another ’ s strengths and successes .
+This initial negative sensitivity may be compounded by the tendency of NA to be accompanied by rumination over one ’ s own or others ’ errors and shortcomings , as well as time , attention , and energy spent attempting to recover from actual or potential resource losses ( Hobfoll , 1988 , 1989 ; Watson & Clark , 1984 ) .
+As cognitions influenced by NA are shared , stored , and coordinated by group mem- bers , a reluctance in the group to engage in learning-oriented behaviors such as admission of error or acknowledge- ment of a lack of understanding may emerge .
+Affectivity is likely to have an impact on both risk perceptions and memory by biasing what information is no- ticed , encoded , stored , and retrieved from individuals ’ TMs .
+Research on mood congruence suggests that individuals will tend to more easily recall positive information while in a state of positive affect and negative information when in a state of negative affect ( Blaney , 1986 ) .
+Moreover , state dependence research suggests that individuals tend to retrieve information from memory encoded in a mood state that is consistent with their current mood ( Blaney , 1986 ) .
+As such , although heightened vigilance to negative ( positive ) stimuli and environmental cues is likely to facilitate memory processes , NA ( PA ) is likely to bias memory functioning by promoting the encoding , storage , and recall of negative ( positive ) information over positive ( negative ) information .
+For example , when presented with an equal number of negative and positive cues about the value and costs of transacting with another member , high NA may lead to disproportionate attention to the risks and expense of transacting .
+In the case of a previous negative transaction ( e.g. , a usually reliable source of information uncharacteristically provides incorrect information ) , NA is likely to cause selective recall and/or rumination on the error rather than the previous track record of success .
+We argue that this process aggregates up to the group level through the process of retrieval coordination , as group members cue each other throughout the memory retrieval process .
+TEAM AFFECTIVTY AND TRANSACTIVE MEMORY 421 Copyright © 2015 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+37 , 416–435 ( 2016 ) DOI : 10.1002/job In addition to biased perceptions towards negativity , NA also is likely to cause members to act in ways that con- tribute to an environment others are likely to perceive as interpersonally threatening .
+When faced with negative cues , high NA is likely to lead to stronger reactions than low NA .
+For example , Spector and Fox ( 2002 ) argued that negative emotions increase the likelihood of avoidance of or attacks directed toward perceived sources of negative emotion .
+Because of their tendency to perceive and experience fear , anxiety , and anger , high NAs are likely to make others feel reticent to act in ways that could potentially antagonize or prolong their negative mood states .
+As such , the negative perceptions and behaviors exhibited by members experiencing negative mood states may spread to in- fect others , and ultimately the group itself , leading to a shared experience of negative affect and an overall tendency towards avoidance ( Elliot & Thrash , 2002 ; Kelly & Barsade , 2001 ) .
+While high NA is generally associated with feelings such as guilt , fear , and anxiety , low NA is associated with feelings of serenity and calmness ( Kaplan , Bradley , Luchman , & Haynes , 2009 ; Watson et al. , 1988 ) .
+As such , low NA groups are likely to be perceived as less punitive and more forgiving than high NA groups .
+Moreover , low NA groups are likely to have a greater composition of members with lower social anxiety and/or fear of failure .
+This suggests that NA not only contributes to collective perceptions of the environment as being psychologically unsafe , but NA also compels members , through their persistently negative mood states , to create a psychologically unsafe environment for others .
+Thus , we expect team NA to be associated with avoidance of interpersonal risk tak- ing , as the costs of such behaviors are likely to be perceived as outweighing their benefits , leading to the following : Hypothesis 2a : Team NA is negatively related to team PS .
+Positive affectivity and psychological safety While NA is closely linked to a tendency towards unfavorable perceptions and avoidance , PA is more closely linked to an approach orientation characterized by “ …sensitivity to positive/desirable ( i.e. , reward ) stimuli ( present or imagined ) that is accompanied by perceptual vigilance for , affective reactivity to , and a behavioral predisposition toward such stimuli ” ( Elliot & Thrash , 2002 , p. 805 ) .
+PA has been associated with the behavioral activation system ( BAS ) , the physiological mechanism responsible for movement towards goals in the face of potential rewards ( Carver & White , 1994 ) .
+PA tends to be generally associated with feelings of well-being and self-esteem ( Naragon & Watson , 2009 ) , and social optimism ( Tellegen , 1985 ; Watson & Clark , 1984 ) .
+PA also contributes to more efficient processing of information ( Tsai , Chi , Grandey , & Fung , 2012 ) , a broadened perceived scope of available action alternatives in interpersonal situations ( Fredrickson , 1998 , 2001 ) , and enhanced interpersonal focus .
+High PA drives positive feelings such as “ …enthusiasm , alertness , and joviality , whereas lower levels of PA are related to feelings of lethargy and sluggishness ” ( Kaplan et al. , 2009 , p. 163 ) .
+Due to selective attention towards positivity , PA is likely to facilitate the encoding , storing , and retrieving of positive information about oneself and others , as well as the retrieval coordination process through which members develop shared contexts and histories for their memories .
+Bias towards perceiving oneself , others , and situations favorably should lessen the perceived perils associated with performing potentially risky learning-oriented behaviors such as speaking up or challenging the status quo ( Edmondson , 1999 ) .
+PA also should increase the value team mem- bers place on the benefits of transacting with others .
+PA should lead to members giving one another the benefit of the doubt in potentially ambiguous situations .
+According to Spector and Fox ( 2002 ) , positive emotions increase the probability of movement towards rewards in the face of positive cues .
+This suggests that people are motivated to engage in actions such as helping others that can enhance or prolong positive affective states .
+As such , high PA are more likely than low PA groups to be perceived as rewarding and welcoming of potentially risky interpersonal behaviors such as declaring one ’ s expertise , giving feedback or asking for help .
+In this way , PA may lead to more favorable assessments regarding the likely reactions of group members to potentially risky interpersonal behaviors .
+Bias towards positivity can also enable increased vulnerability and transparency in the pres- ence of others .
+However , lower PA can lead to less favorable assessments of the rewards that might accompany interper- sonally risky behaviors , such as declaring one ’ s expertise or experimentation .
+As such , we propose the following : 422 A. C. HOOD ET AL .
+Copyright © 2015 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+37 , 416–435 ( 2016 ) DOI : 10.1002/job Hypothesis 2b : Team PA is positively related to group PS .
+Positive and negative affectivity and transactive memory systems ; the mediating role of psychological safety Given the importance of a psychological safe team environment for supporting TMS emergence and development , we expect NA and PA to differentially impact TMS operation , at least partially , through their influence on PS .
+Specifically , we posit that NA leads to unfavorable assessments regarding the safety and viability of interpersonal risk taking , which in turn inhibits the development and maintenance of specialized , credible , and well-coordinated expertise—the hall- marks of a mature TMS .
+Establishing one ’ s credibility ( a key TMS activity ) is fraught with interpersonal risks that high NAs are likely to avoid .
+NA creates an environment in which members are hesitant to call attention to their own errors , weaknesses or to those of others .
+Members of high NA groups are more likely to have doubt regarding the value and relevance of their own expertise , contributing to silence regarding their relevant qualifications and prior experiences .
+They also are less likely to probe other members ’ expertise for fear of being seen as a troublemaker .
+This can pre- vent others from updating their respective cognitive directories , as well as the group ’ s shared directory with infor- mation regarding whose expertise is most germane to which tasks .
+Because high NAs tend to react strongly and negatively to their own and other ’ s mistakes and errors , they may insist on punishing those who make mistakes by stripping them of their expertise or task assignments ( Spector & Fox , 2002 ) .
+Similarly , high NAs may have self-doubt at the realization of their own errors ( Watson & Pennebaker , 1989 ) , leading to counterproductive behav- iors such as hiding their errors and shifting blame , or admitting mistakes , but then ruminating on them .
+These neg- ative actions and reactions may spread throughout the group , leading to the emergence of a shared belief that the team is unsafe for risk taking and/or incapable of shared learning and information processing .
+In this way , negative affective biases hinder the development of TMS by increasing risk perceptions and subsequent reluctance to engage in the actions necessary to support transactive processing .
+Further , we propose that while NA is likely to be negatively associated with TMS through PS , PA is likely to be positively associated with TMS through PS .
+In high PA environments , members will make more favorable assess- ments regarding the potential value , accessibility , and benefits of coordinating their respective TMs ( Borgatti & Cross , 2003 ) .
+Moreover , high PA groups will be more alert , enthusiastic , and energetic ( Watson et al. , 1988 ) and may exhibit more pro-social and proactive behaviors ( Podsakoff , MacKenzie , Paine , & Bachrach , 2000 ) .
+Willing- ness to help and learn from one another may have contagion effects that promote a shared experience of positive affect in the team ( Kelly & Barsade , 2001 ) .
+Moreover , PA encourages members to devote fewer resources to face-saving efforts ( Tynan , 2005 ) and more toward the support of transactive processing and shared directory main- tenance ( Lewis & Herndon , 2011 ) .
+In sum , we propose a mediation model in which group level affectivity influences PS , which leads to the emer- gence of TMS .
+TMS is more likely to develop under favorable affective conditions ( i.e. , low NA or high PA ) because members are more likely to feel safe sharing and seeking information and experimenting and challenging assumptions .
+However , under unfavorable affective conditions ( i.e. , high NA or low PA ) , TMS is less likely to de- velop because of psychological insecurity associated with engagement in potentially risky social exchanges inherent to TMS , leading to the following : Hypothesis 3 : Team PS mediates the relationship between team ( a ) negative and ( b ) positive affectivity and TMS .
+Multi-level theory Because of the nature of our primary constructs , understanding current MLT research ( e.g. , Fulmer & Ostroff , 2015 ; Kozlowski & Chao , 2012 ) is essential and forms the foundation of our analytical approach .
+We approach the focal constructs of the current study ( affectivity , PS and TM ) from an emergence perspective .
+Kozlowski and Klein ( 2000 ) TEAM AFFECTIVTY AND TRANSACTIVE MEMORY 423 Copyright © 2015 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+37 , 416–435 ( 2016 ) DOI : 10.1002/job argued that “ A phenomenon is emergent when it originates in the cognition , affect , behaviors , or other characteris- tics of individuals , is amplified by their interactions , and manifests as a higher level , collective phenomenon ” ( p. 55 ) .
+Emergence can be thought of as a “ bottom-up process ” in which lower-order phenomena manifest as higher-order compositional or compilational forms ; the former are composed of “ …homogeneous , linear and convergent… ” lower-level elements ( Kozlowski & Chao , p. 338 ) , whereas the latter are composed of elements that are “ …hetero- geneous , nonlinear and divergent… ” ( Kozlowski & Chao , p. 338 ) .
+Compilation forms of emergence are reflective of divergent lower-level elements and inconsistent interaction patterns that produce asymmetric configurations and patterns at the group level ( Kozlowski & Klein , 2000 ) .
+Compilation ap- proaches are particularly useful when research questions focus on understanding how the interplay of imbalanced individual-level factors drives group level dispersion and fragmentation .
+Examples of compilational emergent forms in- clude group affective variance ( Kaplan , Laport , & Waller , 2013 ) , subteam PS ( Roussin , MacLean , & Rudolph , 2014 ) , and TM networks ( Kozlowski & Chao , 2012 ) .
+Moreover , group level phenomena that emerge via compilation processes often are assessed by measuring the amount of variance present among the lower-level elements ( e.g. , standard deviation ) .
+In contrast , compositional emergent forms arise from equivalent characteristics and interaction patterns that foster shared attitudes , perceptions , and behaviors across members of a group .
+From this perspective , group level consensus emerges through bottom-up processes such as when interactions contribute to similarity ( e.g. , Wegner , Giuliano , & Hertel , 1985 ) or when similarity contributes to attraction and interaction ( McPherson , Smith-Lovin , & Cook , 2001 ) .
+Phenomena such as group affective tone ( George , 1990 ) , group PS ( Edmondson , 1999 ) , and TMS ( Lewis , 2003 ) have been studied from the perspective of compositional emergence .
+These emergent forms often are assessed by evaluating means and inter-rater agreement ( James , Demaree , & Wolf , 1984 ) between and among the lower-level elements ( Chan , 1998 ) .
+The focus of the current study is less about fragmentation and configuration ; rather , our interest lies primarily in the factors that foster the development of shared consensus and collective learning .
+As such , our study focuses on compositional emergence among our focal constructs .
+This focus is consistent with transactive memory theory , our primary conceptual framework .
+Methods Sample and data collection We collected data from the supervisors and members of 121 enterprise resource planning ( ERP ) software implemen- tation teams , as part of a larger study on team dynamics .
+In order to support the development of the causal inferences we seek to draw , team members completed surveys at separate points in time , T0 and T1 .
+Specifically , team affec- tivity was assessed in a pre-project survey at T0 .
+PS—our proposed mediator—and TMS were measured at T1 .
+From the 668 members of 121 initial ERP teams , we received usable data from 590 members of 107 project teams .
+The demographics of the final sample were compared with that of the 14 projects and 78 team members removed because of missing or incomplete data .
+No statistical differences between these teams were observed .
+We collected data from teams of information technology ( IT ) professionals engaged in the implementation of supply chain management “ bolt-ons. ” Bolt-ons are technology solutions designed to help firms achieve greater ef- ficiency with more general information systems that had less than fully integrated functional capability .
+Bolt-ons leverage manufacturing schedule and cost data , along with data on sales seasonality , to provide information and rec- ommendations managers can use in supplier selection , negotiation , and contracting .
+In order for supply chain man- agement bolt-on implementation to be successful , those charged with the implementation need to have a sufficient level of understanding regarding the nature of the data required by the bolt-on ( i.e. , where to retrieve manufacturing data and how to enable the bolt-on to digest it , where to retrieve sales data , and past contracts ) .
+If the wrong source data are connected , or the wrong kind of decision made in support of the bolt-on ( e.g. , if the implementation team does not truly understand what the firm needs ) significant rework on the implementation is likely to be required .
+424 A. C. HOOD ET AL .
+Copyright © 2015 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+37 , 416–435 ( 2016 ) DOI : 10.1002/job Moreover , it is critical for implementation teams to be sensitive to the expectations of the client .
+However , because implementation teams typically have some members that know more about sales and others that know more about manufacturing , and still others that more about contracting , it is also critical for team members to be sensitive to one another ’ s needs and expectations .
+Given the significant resources associated with their deployment , and the costs associated with the projects in which they were engaged , the ERP implementation teams in the current study were formally staffed and deployed by manage- ment .
+The members of the project teams retain some degree of expertise specialization based on experience .
+But , all of the members of the teams in our sample are IT employees—so all were “ experts , ” broadly , in the systems requirements necessary to engage the specifications of the projects for which they were deployed .
+These teams also were essentially standardized with respect to role so that no single member , formally , retained responsibilities that were distinguishable from the other members of the team .
+Here , it also is critical to note that these ERP implementation teams are not stand- ing teams in general terms .
+They represent a subset of the firm ’ s IT staff , which become assigned to ERP projects , for a specified duration of time ( as we note earlier ) , and which are then disbanded as new projects emerge .
+The “ tasks ” for which these implementation teams are responsible may be thought of as emerging in stages across the implementation cycle , with foundational aspects of the project laid down first , and subsequent project-specific elements laid over these elements in a broadly predictable sequence .
+The members of these teams also operate with a significant degree of functional interdependence , as all aspects of the system are being deployed for the implemen- tation to be effective at the conclusion of the project .
+Although all of the work being carried out by these teams is executed by individuals , it is executed in an integrative , interdependent way .
+The tasks engaged by these ERP implementation teams involve hardware and software installations , database and process integration with user interfaces , developing connections to supply chain partner systems , and the design/customization of interfaces to match users and disparate system needs .
+Measures Trait positive and negative affectivity We assessed trait PA and NA in the pre-project survey using Watson and colleagues ’ ( 1988 ) Positive and Negative Affect Schedule .
+As suggested in previous research ( Kaplan et al. , 2009 ) , by varying the time period over which re- spondents have experienced certain emotions or feelings , this inventory can be used to measure affect either as a stable personality-like disposition ( e.g. , in general , past few weeks , or months ) or as a temporal mood ( e.g. , currently and this week ) .
+Thus , consistent with previous studies measuring trait affectivity ( Kim , Shin , & Kim , 2013 ) , respon- dents were asked to indicate to what extent in the past few weeks on a scale from 1 ( very slightly or not at all ) to 5 ( extremely ) they had experienced positive feelings and emotions ( i.e. , interested , excited , strong , enthusiastic , proud , alert , inspired , determined , attentive , and active ) and negative feelings and emotions ( i.e. , distressed , upset , guilty , scared , hostile , irritable , ashamed , nervous , jittery , or afraid ) .
+Consistent with the bottom-up approach mentioned earlier in the current paper ( Kelly & Barsade , 2001 ) , and in keeping with extant treatments of group level trait affec- tivity ( Kim et al. , 2013 ) , we calculated the average of team members ’ individual responses to the Positive and Negative Affect Schedule inventory .
+In this way , our measure of group trait affectivity is in line with additive com- position models advanced by Chan ( 1998 ) .
+The mean of group PA was 3.49 ( SD=0.69 ) and the mean of group NA was 2.50 ( SD=0.82 ) .
+Cronbach ’ s alphas for PA and NA were .90 and .92 , respectively .
+Regarding PA and NA , respectively , mean rwg ( j ) = .69 and .69 based on uniform null distributions , ICC ( 1 ) =0.36 and 0.50 , and ICC ( 2 ) =0.75 and 0.84 offered support for inter-member agreement and reliability and justified aggregation of individual scores to the team level ( Bliese , 2000 ) .
+Team psychological safety We assessed team PS in the T1 survey using Edmondson ’ s ( 1999 ) 7-item scale .
+Respondents indicated on a scale rang- ing from 1 ( strongly disagree ) to 5 ( strongly agree ) their agreement with statements such as “ It is difficult to ask other TEAM AFFECTIVTY AND TRANSACTIVE MEMORY 425 Copyright © 2015 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+37 , 416–435 ( 2016 ) DOI : 10.1002/job members of this team for help. ” The average of team member ’ s PS scores was 2.60 ( SD=0.76 ) .
+Mean rwg ( j ) = .74 based on a uniform null distribution , α= .87 , ICC ( 1 ) =0.46 , and ICC ( 2 ) =0.82 also indicated inter-member agreement and reliability , and justification for aggregation to the team level ( Bliese , 2000 ) .
+Transactive memory systems Finally , we measured TMS at T1 using Lewis ’ ( 2003 ) 15-item measure , a widely used measure in the literature ( Ren & Argote , 2011 ) .
+For example , in their recent review , Ren and Argote ( 2011 : 216 ) noted that the Lewis ( 2003 ) measure has been among the most frequently employed measures of TMS in empirical research , correlating with several alter- native TMS measures that have been proposed by other researchers ( e.g. , Akgün , Byrne , Keskin , Lynn , & Imamoglu , 2005 , Faraj & Sproull , 2000 , and Michinov , Olivier-Chiron , Rusch , & Chiron , 2008 ) .
+Following the protocol reported by Lewis ( 2003 ) , the members of the project teams responded on a 5-point scale ranging from 1 ( strongly disagree ) to 5 ( strongly agree ) .
+A sample item includes , “ Each team member has specialized knowledge of some aspect of our project. ” Following Lewis ( 2003 ) , we averaged members ’ responses to form a composite TMS score with mean of 2.44 and standard deviation of 0.53 .
+A mean rwg ( j ) = .85 based on a uniform null distribution , α= .87 , ICC ( 1 ) =0.36 , and ICC ( 2 ) =0.76 indicated acceptable inter-member agreement and reliability , and provided justification for the aggregation of individual scores ( Bliese , 2000 ) .
+Control variables Consistent with previous research showing group size to impact the maturation of TMS ( Palazzolo , Serb , She , Su , & Contractor , 2006 ; Ren , Carley , & Argote , 2006 ) , we control group size , operationalized as the number of members on a team .
+We also control gender diversity , as previous research indicates that members may use gender stereotypes to infer expertise and divide responsibilities in TMS ( Hollingshead & Fraidin , 2003 ) .
+Gender proportion ( 0 =male , 1= female ) was calculated as the percentage of female members per team .
+Common method variance Given the variables-in-focus in our research model , our design required data to be collected from the same source .
+Fol- lowing Podsakoff , MacKenzie , Lee , and Podsakoff ( 2003 ) , we took several precautions to minimize potential methods bias .
+First , we assured respondents that their individual responses would be kept confidential , and any reporting of findings would be accomplished in the aggregate .
+Second , to minimize priming effects , data were collected at multiple points over the course of the project .
+In most cases , these data collections were separated by several months .
+Third , following Williams , Cote , and Buckley ( 1989 ) , we used structural equation modeling to explore the extent that com- mon method variance ( CMV ) potentially influenced our results .
+Using our sample ’ s individual-level data , we esti- mated two measurement models—a full measurement model and the identical model with an additional uncorrelated method factor .
+If the fit of the method and trait model is significantly better than the model without the method factor , then CMV is a potential issue .
+Fit statistics indicate that the full measurement model fit the data well ( X2 =3037.19 , p= .00 , CFI=0.95 , NFI=0.93 , RMSEA=0.068 ) .
+The addition of the methods factor resulted in minor improvement across some indices ( X2 =1337.89 , p= .00 , CFI=0.99 , NFI=0.96 , RMSEA=0.035 ) .
+The results from an X2 difference test indicated that the difference was significant ( X2diff ( 42 ) =1699.30 , p < .0001 ) .
+To determine the extent of CMV influence , we followed previous conventions ( e.g. , Direnzo , Greenhaus , & Weer , 2015 ) that use the sum of the squared loadings to index the total variance explained by the method factor .
+These calculations revealed that the method factor accounted for 12 % of the total variance , significantly less than the 25 % observed by Williams et al .
+( 1989 ) and in line with a number of recent studies ( e.g. , Fugate , Prussia , & Kinicki , 2012 ; Kraimer , Shaffer , Harrison , & Ren , 2012 ) and considerably less than others ( e.g. , Baron , Franklin , and Hmieleski , 2013 ) .
+This suggests that although our model benefitted from the addition of a method factor , the improvement in fit was fairly small and that CMV is not a pervasive concern .
+426 A. C. HOOD ET AL .
+Copyright © 2015 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+37 , 416–435 ( 2016 ) DOI : 10.1002/job Analytic strategy In order to test the relationships between our study variables , we conducted a series of analyses .
+To test Hypothesis 1 , we used SPSS 19.0 to run a set of hierarchical regressions testing the effects of group PS on TMS .
+To test Hy- potheses 2a and 2b , we ran another series of hierarchical regression analyses , on which we regressed group PS on group PA and NA .
+We used the PROCESS routine developed by Hayes ( 2012 ) to test for mediation in Hypothesis 3 .
+The PROCESS procedure follows a bootstrapping-based path analytic approach ( Edwards & Lambert , 2007 ; Preacher & Hayes , 2008 ) that enables assessment of direct and indirect effects of group affectivity on TMS through group PS .
+Results Means , standard deviations , and correlations for all study variables are presented in Table 1 .
+As expected , PS , NA , PA , and TMS were all significantly correlated .
+To establish discriminant validity , we followed recommendations ad- vanced by Fornell and Larcker ( 1981 ) and computed the square root of the average variance explained by each of our focal variables .
+Results presented in Table 1 provide evidence of discriminant validity .
+Tests of hypotheses In Hypothesis 1 , we expected group PS to be positively related to TMS .
+Results in Model 3 of Table 2 provide sup- port for this prediction revealing that PS is positively related to TMS ( β =0.25 , p < .001 ; ΔR2 = .13 ) .
+Hypotheses 2a and 2b predicted that NA is negatively related to PS , while PA would be positively related to PS .
+Results detailed in Model 2 of Table 3 indicate that NA was significantly , negatively related to PS ( β =0.37 , p < .001 ; ΔR2 = .33 ) , while PA was significantly , positively related to PS ( β =0.34 , p < .001 ; ΔR2 = .33 ) .
+These results provide support for Hypotheses H2a and H2b .
+In Hypotheses H3a and H3b , we expected PS to mediate the relationships between NA and TMS as well as the relationship between PA and TMS , respectively .
+Results displayed in Model 2 of Table 2 show that although NA was significantly , negatively related to TMS as expected ( β =.15 , p < .01 ; ΔR2 = .10 ) , PA was not significantly related to TMS ( β= .11 , p= .06 ) .
+Further , Model 4 of Table 2 indicates that the relationship between NA and TMS loses significance when the mediator PS ( which remains significant ) is added to the regression ( β =.08 , n.s . ) .
+According to guidelines detailed by Baron and Kenny ( 1986 ) , this pattern of results is a preliminary indicator of mediation .
+Table 1 .
+Means , standard deviations , and correlations .
+Variable Mean Std dev 1 2 3 4 5 6 1 .
+Group size 5.52 1.24 2 .
+Gender 0.26 0.19 0.05 3 .
+Positive affectivity 3.49 0.69 0.19 0.03 0.66 4 .
+Negative affectivity 2.50 0.82 0.02 0.09 0.28 0.73 5 .
+Psychological safety 2.60 0.76 0.16 0.02 0.45 0.49 0.70 6 .
+Transactive memory systems 2.44 0.53 0.32 0.12 0.27 0.28 0.40 0.44 Note : N = 107 .
+The values in italics on the diagonal are the square roots of the average variance explained and must exceed the correlations in the corresponding row and column to demonstrate discriminant validity ( Fornell & Larcker , 1981 ) .
+0 = male , 1 = female .
+* ( p < .05 ) ; ** ( p < .01 ) ; *** ( p < .001 ) .
+TEAM AFFECTIVTY AND TRANSACTIVE MEMORY 427 Copyright © 2015 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+37 , 416–435 ( 2016 ) DOI : 10.1002/job To provide a stronger test for mediation , we used the PROCESS routine ( an SPSS macro ) to conduct bootstrapping path analytic significance tests for the indirect effects of group NA on TMS through mediation by PS .
+Using linear regression with maximum likelihood estimates , 95 % bias corrected confidence intervals ( CIs ) and 5000 bootstrap samples , we find support for the indirect relationship between group NA and TMS through PS .
+As depicted in Table 4 , a CI excluding zero revealed a significant indirect effect of NA on TMS through PS con- trolling for PA ( coeff =.07 ; CI = [ 0.1386 , 0.0188 ] ) .
+Expressed as a proportion in which indirect effect/total effect * 100 % ( Freedman , 2001 ; Sobel , 1982 ) , these results suggest that PS mediates 46 % of the total effect of NA on TMS .
+Additionally , we followed recommendations of Preacher and Kelley ( 2011 ) and calculated a kappa squared ( κ2 ) statistic of the simple mediation of PS on the NA-TMS relationship ( without covariates ) .
+The κ2 was 0.15 ( 95 % CI= [ 0.0664 , 0.2572 ] ) and can be considered in light of Preacher and Kelley ( 2011 ) comparison of benchmarks between κ2 and r2 , in which effect sizes of .01 , .09 , and .25 can be viewed as being small , medium , and large .
+Collectively , these findings provide support for Hypothesis 3a .
+Discussion A great deal is known about the consequences of TMS—perhaps most prominent among these being a consistent , positive association with team performance .
+For example , Ren and Argote ( 2011 ) reported that TMS was positively associated with group performance across 76 studies .
+Despite empirical support for the positive effects of TMS on team performance ( Ren & Argote , 2011 ) , less research has explored antecedents of the processes and structures Table 2 .
+Hierarchical regression results for the effects of group affectivity and psychological safety on transactve memory systems .
+Variables Model 1 Model 2 Model 3 Model 4 Group size 0.14*** ( 0.04 ) 0.13*** ( 0.04 ) 0.11** ( 0.04 ) 0.11** ( 0.04 ) Gender 0.30 ( 0.26 ) 0.25 ( 0.25 ) 0.32 ( 0.24 ) 0.29 ( 0.24 ) Positive affectivity 0.11 ( .07 ) 0.05 ( 0.08 ) Negative affectivity 0.15** ( .06 ) 0.08 ( 0.06 ) Psychological safety 0.25*** ( 0.06 ) 0.19** ( 0.07 ) ΔR2 .12** .10** .13*** .05** Adj R2 .10 .18 .22 .22 F 6.776** 6.900*** 10.907** 7.042*** df 2 , 104 4 , 102 3 , 103 5 , 101 Note : Unstandardized regression coefficients are shown with standard errors in parentheses .
+Listwise N = 107 .
+*p < .05 ; **p < .01 ; ***p < .001 .
+Table 3 .
+Hierarchical regression results for the effects of group affectivity on psychological safety .
+Variables Model 1 Model 2 Group size 0.10 ( 0.06 ) 0.07 ( 0.05 ) Gender 0.10 ( 0.39 ) 0.20 ( 0.32 ) Positive affectivity 0.34 ( 0.10 ) Negative affectivity 0.37 ( 0.08 ) ΔR2 .01 .33 Adj R2 .01 .33 F 1.319 13.946 df 2 , 104 4 , 102 Note : Unstandardized regression coefficients are shown with standard errors in parentheses .
+Listwise N = 107 .
+*p < .05 ; **p < .01 ; ***p < .001 .
+428 A. C. HOOD ET AL .
+Copyright © 2015 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+37 , 416–435 ( 2016 ) DOI : 10.1002/job underlying TMS ( Lewis & Herndon , 2011 ) , particularly those factors that encourage or discourage participation in transactive processing .
+The purpose of the current study was to build on and extend TM theory by exploring the dispositional and psychological drivers of TMS .
+Our results provide unique insight regarding how generalized tendencies toward negative or positive experiences impact the extent to which members evaluate their environments as being safe for accepting the inherent interpersonal risks associated with coordinated information processing .
+The extent that team members are willing and able to participate in the division of labor required for TMS reduces indi- vidual members ’ cognitive burden and increases the collective availability of knowledge and information ( Lewis , 2003 ; Lewis & Herndon , 2011 ) .
+Further , the extent to which a team develops an effective TMS is likely predicated on members ’ positive or negative evaluations of the accessibility ( Yuan , Carboni , Ehrlich , 2010 ) , credibility ( Hollingshead , 1998 ) , relevance ( Lewis , 2003 ) , and costs of retrieving ( Borgatti & Cross , 2003 ) one another ’ s expertise .
+Employing a lagged field test of intact software implementation project teams , we find support for the mediating role played by group level PS in the relationship between group NA and TMS but not between group PA and TMS .
+Although we find that PA is significantly , positively related to PS , PA was not significantly related to TMS .
+We also find that NA is significantly , negatively related to both PS and TMS .
+Finally , we find that group PS is significantly , positively associated with TMS , and mediates the relationship between group NA and TMS .
+This pattern of results is consistent with extant research demonstrating different causal mechanisms associated with NA and PA ( e.g. , Kaplan et al. , 2009 ; Lyubomirsky , King , & Diener , 2005 ; Thoresen , Kaplan , Barsky , & de Chermont , 2003 ) .
+That is , NA and PA are not opposite ends of an affective continuum .
+Instead , NA has its impact on outcomes through the BIS ( e.g. , avoidance orientation , bias towards risk/negativity ) , whereas the effects of PA are transmitted through the BAS ( e.g. , approach orientation , bias towards rewards/positivity ) .
+As a transmitter of affectivity , PS is likely to be more closely associated with the BAS than to the BIS .
+Further , because PS involves assessments of interpersonal risk ( not reward ) , the effects of PA are not carried over to TMS through PS .
+In fact , PS exhibited no direct relationship with TMS .
+These results offer insights into the extent to which individual differences at the group level impact the extent that groups develop specialized , credible and well-coordinated expertise ( Lewis , 2003 ) through learning and interpersonal risk taking .
+Theoretical implications and extensions Given the lack of association between PA and TMS in our study , our strongest results orbit the relationship we uncover between NA and TMS .
+NA catalyzes selective attention toward—and strong reactivity to—negative environmental and interpersonal information .
+We contend that in contrast to low NA teams , high NA teams are more likely to spend a disproportionate amount of time focused on members ’ failings and deficiencies .
+NA can lead to a psychologically unsafe environment where teams are reluctant to engage in the social exchange of critical task and architectural information undergirding TMS .
+Members also are unlikely to feel comfortable—or even able—to ask Table 4 .
+Analysis of simple mediation effects .
+Model IV =Negative affectivity Point estimate ( SE ) 95 % CI Total effect of IV➔TMS 0.15 ( 0.06 ) Direct effects of IV➔TMS 0.08 ( 0.06 ) Indirect effects of IV➔ PS➔TMS 0.07 ( 0.01 ) 0.1386 , 0.0188 Note : N = 107 .
+Bias corrected confidence intervals ( CIs ) are reported ; 5000 bootstrap samples .
+Estimates in bold have CIs that exclude zero and thus are significant.Standard errors ( SE ) reported in parentheses.TMS , transactive memory systems ; PS , psychological safety ; IV , independent variable.Controlling for group size , gender , and positive affectivity .
+*p < .05 ; **p < .01 ; ***p < .001 .
+TEAM AFFECTIVTY AND TRANSACTIVE MEMORY 429 Copyright © 2015 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+37 , 416–435 ( 2016 ) DOI : 10.1002/job other members for help with work-related tasks with which they have less experience or expertise or to take risks establishing the location of expertise among their group members .
+On the one hand , high NA teams are likely to be characterized by high levels of anxiety , fear , and caution while on the other by feelings of hostility and irritability .
+This may lead to an inward focus and skepticism of others ’ in- tentions , diminishing information exchange .
+It will be important for future research to disentangle the role played by the more passive aspects of NA ( fear , anxiety , and caution ) from its more aggressive aspects ( hostility , anger , and distress ) and the respect impact of these elements of NA on group level PS and TMS .
+Although our study was focused at the group level , our findings also provide guidance for extant research on dyadic perspectives of PS and the concept of face ( e.g. , Tynan , 2005 ) .
+For example , this research suggests that heightened threat sensitivity may diminish the ease and timeliness with which members communicate self and other potentially face-threatening information ( Tynan , 2005 ) .
+Face refers to self and others ’ image , whereas face saving refers to efforts to avoid harm to one ’ s own or another ’ s face in the presence of threatening circumstances ( Tynan , 2005 ) .
+Threats to face may be self-focused or other-focused ( Tynan , 2005 ) ; self-face-threatening infor- mation includes acknowledging one ’ s mistakes , knowledge gaps , or the need for assistance ( Tynan , 2005 ) , whereas other-face-threatening information includes giving critical feedback , highlighting mistakes , raising objections , double checking , seeking second opinions , asking for clarification , and offering dissenting opinions ( Tynan , 2005 ) .
+Situations that threaten positive self-image , or esteem , are likely to trigger prompt negative affective responses intended to recover from or prevent face loss ( Tynan , 2005 ) .
+When faced with the need to communicate face- threatening information , initiators are likely to seek to conserve resources by delaying , distorting , or avoiding unpleasant communications .
+Consequently , high levels of NA in a team are likely to lead to delays , distortions , or failure to deliver unfavorable information ( e.g. , manifestations of low PS ) .
+The withholding of critical information and open feedback limits members ’ ability to make accurate or complete assessments regarding which members pos- sess the most relevant expertise for particular group tasks .
+Moreover , because NA diminishes the attractiveness and increases the threat associated with interpersonal interactions , it also is likely to impede the emergence of the task structures and processes central to effective TMS functioning ( e.g. , high levels of cognitive interdependence , trust , and coordination—Lewis & Herndon , 2011 ) .
+As such , it will be important for future research to extend our group level model to lower level investigations of affectivity , PS and TM .
+Practical implications Results from both laboratory and field research indicate that teams operating a TMS can apply more task-critical knowledge , more effectively coordinate their interactions , and perform better than groups without a TMS ( e.g. , Austin , 2003 ; Lee et al. , 2014 ; Lewis , 2003 ; Lewis , 2004 ; Liang et al. , 1995 ; Moreland , 1999 ; Moreland et al. , 1996 , 1998 ; Moreland & Myaskovsky , 2000 ; Zhang et al. , 2007 ) .
+Managers seeking to stimulate an effective cognitive division of labor through the promotion of positive and rewarding team environments are likely to be frustrated when their ef- forts fail to generate an operative TMS .
+Instead of offering rewards and incentives to foster TMS , managers should consider reducing perceived risks associated with learning-oriented behaviors such as declaring expertise , experimen- tation , or asking for help .
+Training focused on educating managers regarding the functional distinctions between NA and PA can play an important role here .
+Specifically , research reveals that NA and PA , which reflect two separate continua ( Kaplan et al. , 2009 ; Lyubomirsky et al. , 2005 ; Thoresen et al. , 2003 ) , may help managers more effectively target their environmental shaping initiatives .
+Interpersonal risk-taking and learning may be motivated by reduced hostility , fear , and guilt ( i.e. , NA ) rather than the promotion of enthusiasm , excitement , and pride ( i.e. , PA ) .
+For example , re- search ( Carrington et al. , 1980 ; Peters , Benson , & Porter , 1977 ) suggests that the application of within-work medi- ation procedures may improve employees ’ subjective well-being ( Diener , 2000 ) , diminishing correlates of NA .
+430 A. C. HOOD ET AL .
+Copyright © 2015 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+37 , 416–435 ( 2016 ) DOI : 10.1002/job Limitations and directions for future research Although the current study has several strengths , it is important to consider limitations of our study design that im- pact our ability to draw definitive inferences from our results .
+First , our model rests on the expectation that favorable perceptions of PS support learning behaviors that stimulate specialized , credible , and coordinated expertise .
+The value of this contribution is mitigated by the fact that we assumed ( i.e. , in accordance with assumptions in the TMS domain—Lewis & Herndon , 2011 ) the presence of learning but did not capture actual learning behavior .
+It will be important for future research to explicitly capture the learning behaviors TMS researchers broadly assume ac- count for TMS , such as help giving and seeking , expression of voice , and experimentation .
+Second , given concep- tual similarities in the nature of the constructs we examine ( i.e. , both TMS and PS are cognitive emergent states ) , it will be important for future research to incorporate a broader set of antecedent factors .
+Third , we employed a lagged design that incorporated a conceptually coherent data collection , with our independent variable ( group affectivity ) collected prior to our mediator ( PS ) and dependent variable ( TMS ) .
+However , as we did not incorporate a longitu- dinal design encompassing change over time , our data do not allow us to draw definitive causal inferences regarding the relationships between affectivity , PS , and TMS .
+Moreover , TMS is likely subject to dynamism ; the decision to en- gage in transactive processing with another is driven by one ’ s momentary perceptions of the location , content , value , cost , and accessibility of another ’ s expertise .
+These factors are dynamic , such that once a team member learns some- thing , gains a new skill , makes a mistake , and so on ; other members of the team need to transfer this learning by updating their respective cognitive directories as well as the group ’ s overall directory .
+In this way , a team may have a shared understanding of “ who knows what ” at one moment in time , but fail to transfer learning through directory updating , leading to a subsequent divergence in group member ’ s “ shared ” understanding .
+It will be important for future research to examine patterns of group affectivity , PS , and TMS over time to evaluate these relationships .
+Future research also should explore variables representing both risks and rewards as potential mediators of NA and PA on TMS .
+Finally , although our study adopted a compositional approach by taking individual level perceptions and aggregating them to the group level , this approach does not provide guidance regarding the impact of perceptual dispersion among members of a group .
+For example , consider a four-person group in which one member is high in NA , while the other three members are low in NA .
+Aggregation of these individual perceptions to the group level might suggest that the group on average is a “ low-NA ” group and is likely to be experienced as less threatening and subsequently better posi- tioned to develop TMS .
+However , our theory suggests that because of heightened sensitivity to risk and threat , the high NAmember is likely to have a less accurate and complete understanding of the content , location , and accessibility of the other three members ’ expertise—a condition that can potentially retard the development of TMS .
+Specifically , a strong TMS could be present among the three low NAmembers but could be weak or non-existent between the high NAmem- ber and each of the three NA members , respectively .
+Although such possibilities are outside of the scope of the current study , we encourage future research to account for such perceptual differences by exploring the affectivity , PS , and TMS pathways from a multi-level , social network perspective .
+Indeed , recent research has begun to explore PS using such a lens ( Roussin et al. , 2014 ) and can provide a useful framework for extending ideas we advance in the current study .
+Conclusion Although a great deal of research has focused on the performance consequences of TMS ( Lewis & Herndon , 2011 ; Ren & Argote , 2011 ) , less attention has been devoted to TMS antecedents .
+Moreover , previous research has pro- vided little guidance on the effects of interpersonal risk perceptions and learning on groups ’ TMS .
+Our study advances a framework that incorporates group level dispositional affectivity and PS as precursors to TMS .
+We dem- onstrate that TMS is reliant not only on the predominant theme of TMS regarding knowledge of “ who knows what , ” but also a willingness to be vulnerable to negative interpersonal consequences stemming from engaging in the types of behaviors that allow one to learn “ who knows what ” and continuously monitor “ who may have recently learned TEAM AFFECTIVTY AND TRANSACTIVE MEMORY 431 Copyright © 2015 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+37 , 416–435 ( 2016 ) DOI : 10.1002/job what. ” Moreover , members ’ experience of NA and PA influence the extent to which they evaluate and subsequently approach or avoid such interpersonal risks .
+Because TMS depends on members ’ willingness to engage in these kinds of risky exchanges , understanding the dispositional , social , and psychological drivers of these patterns of informa- tion exchange contributes to our understanding of TMS antecedents .
+Author biographies Dr. Anthony C. Hood is an Assistant Professor of strategic management and entrepreneurship in the Collat School of Business at the University of Alabama at Birmingham .
+His research interests lie at the intersection of social net- works , communication , and cognitive asymmetry in teams .
+Dr. Daniel Bachrach is a Professor of Management at the University of Alabama .
+He is co-author or coeditor of six books , including “ Becomingmore than a showroom : How to win back showrooming customers ” ( Palgrave-Macmillan , 2016 ) , “ Exploring Management ” ( Wiley Press , 2015 ) , and “ Handbook of Behavioral Operations Management : Social and Psychological Dynamics in Production and Service Settings ” ( Oxford University Press , 2015 ) .
+Dr. Suzanne Zivnuska is a Professor of Management at California State University , Chico .
+She earned her PhD ( OB & HRM ) from Florida State University ( 2002 ) .
+Her research encompasses technology , work-family , and mind- fulness .
+She has published more than 20 articles in her field .
+Dr. Elliot Bendoly is a full professor of Management Sciences at the Fisher College of Business at the Ohio State University .
+He currently serves as a Senior Editor at the Production andOperationsManagement journal ( Behavioral Op- erations and Management of Technology departments ) and Associate Editor for the Journal of Operations Management .
+References Akgün , A. E. , Byrne , J. , Keskin , H. , Lynn , G. S. , & Imamoglu , S. Z .
+( 2005 ) .
+Knowledge networks in new product development projects : A transactive memory perspective .
+Information & Management , 42 ( 8 ) , 1105–1120 .
+DOI : http : //dx.doi.org/10.1016/j .
+im.2005.01.001 .
+Austin , J. R. ( 2003 ) .
+Transactive memory in organizational groups : The effects of content , consensus , specialization , and accu- racy on group performance .
+Journal of Applied Psychology , 88 , 866–878 .
+Baer , M. , & Frese , M. ( 2003 ) .
+Innovation is not enough : climates for initiative and psychological safety , process innovations , and firm performance .
+Journal of Organizational Behavior , 24 ( 1 ) , 45–68 .
+DOI : 10.1002/job.179 .
+Baron , R. A. , Franklin , R. J. , & Hmieleski , K. M. ( 2013 ) .
+Why entrepreneurs often experience low , not high , levels of stress : The joint effects of selection and psychological capital .
+Journal of Management .
+DOI : 10.1177/0149206313495411 .
+Baron , R.M. , & Kenny , D. A .
+( 1986 ) .
+The moderator-mediator variable distinction in social psychological research : Conceptual , stra- tegic , and statistical considerations .
+Journal of Personality and Social Psychology , 51 ( 6 ) , 1173–1182 .
+DOI : 10.1037/0022- 3514.51.6.1173 .
+Barsade , S. G. , & Gibson , D. E. ( 1998 ) .
+Group emotion : A view from top and bottom .
+In D. Gruenfeld , E. Mannix , & M. Neale ( Eds .
+) , Research on managing groups and teams ( pp .
+81–102 ) .
+Stamford , CT : JAI Press .
+Blaney , P. H. ( 1986 ) .
+Affect and memory : A review .
+Psychological Bulletin , 99 ( 2 ) , 229–246 .
+Bliese , P. D. ( 2000 ) .
+Within-group agreement , non-independence , and reliability : Implications for data aggregation and analysis .
+In K. J. Klein , & S. W. J. Kozlowski ( Ed .
+) , Multilevel theory , research , and methods in organizations ( pp .
+349–381 ) .
+San Francisco : Jossey-Bass .
+Borgatti , S. P. , & Cross , R. ( 2003 ) .
+A relational view of information seeking and learning in social networks .
+Management Science , 49 ( 4 ) , 432–445 .
+DOI : 10.1287/mnsc.49.4.432.14428 .
+Brandon , D. P. , & Hollingshead , A .
+B .
+( 2004 ) .
+Transactive memory systems in organizations : matching tasks , expertise , and people .
+Organization Science , 15 ( 6 ) , 633–644 .
+DOI : 10.1287/orsc.1040.0069 .
+Brown , R. ( 1990 ) .
+Politeness theory : Exemplar and exemplary .
+In I .
+Rock ( Ed .
+) , The legacy of Solomon Asch : Essays in cognition and social psychology ( pp .
+23–38 ) .
+Hillsdale , NJ : Erlbaum .
+Carrington , P. , Collings , G. H. , Benson , H. , Robinson , H. , Wood , L. W. , Lehrer , P. M. , …Cole , J. W. ( 1980 ) .
+The use of meditation- relaxation techniques for the management of stress in a working population .
+Journal of Occupational Medicine , 22 , 221–231 .
+432 A. C. HOOD ET AL .
+Copyright © 2015 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+37 , 416–435 ( 2016 ) DOI : 10.1002/job Carver , C. S. , & Scheier , M. F. ( 1990 ) .
+Origins and function of positive and negative affect : A control-process view .
+Psycholog- ical Review , 97 , 19–35 .
+Carver , C. S. , & White , T. L. ( 1994 ) .
+Behavioral inhibition , behavioral activation , and affective responses to impending reward and punishment : The BIS/BAS Scales .
+Journal of Personality and Social Psychology , 67 ( 2 ) , 319–333 .
+Chan , D. ( 1998 ) .
+Functional relations among constructs in the same content domain at different levels of analysis : A typology of composition models .
+Journal of Applied Psychology , 83 ( 2 ) , 234–246 .
+DOI : 10.1037/0021-9010.83.2.234 .
+Diener , E. ( 2000 ) .
+Subjective well-being : The science of happiness and a proposal for a national index .
+American Psychologist , 55 ( 1 ) , 34–43 .
+DOI : 10.1037/0003-066X.55.1.34 .
+Direnzo , M. S. , Greenhaus , J. H. , & Weer , C. H. ( 2015 ) .
+Relationship between protean career orientation and work-life balance : A resource perspective .
+Journal of Organizational Behavior , 36 ( 4 ) , 538–560 .
+DOI : 10.1002/job.1996 .
+Edmondson , A .
+( 1999 ) .
+Psychological safety and learning behavior in work teams .
+Administrative Science Quarterly , 44 , 350–383 .
+Edmondson , A. C. , & Lei , Z. K. ( 2014 ) .
+Psychological Safety : The History , Renaissance , and Future of an Interpersonal Construct .
+Annual Review of Organizational Psychology and Organizational Behavior , 1 , 23–43 .
+DOI : 10.1146/annurev- orgpsych-031413-091305 .
+Edwards , J. R. , & Lambert , L. S. ( 2007 ) .
+Methods for integrating moderation and mediation : A general analytical framework using moderated path analysis .
+Psychological Methods , 12 , 1–22 .
+Ellis , A. P. J .
+( 2006 ) .
+System breakdown : The role of mental models and transactive memory in the relationship between acute stress and team performance .
+Academy of Management Journal , 49 , 576–589 .
+Elliot , A. J. , & Thrash , T. M. ( 2002 ) .
+Approach-avoidance motivation in personality : Approach and avoidance temperaments and goals .
+Journal of Personality and Social Psychology , 82 ( 5 ) , 804–818 .
+DOI : http : //dx.doi.org/10.1037/0022-3514.82.5.804 .
+Faraj , S. , & Sproull , L. ( 2000 ) .
+Coordinating expertise in software development teams .
+Management Science , 46 , 1554–1568 .
+Fornell , C. , & Larcker , D. F. ( 1981 ) .
+Evaluating structural equation models with unobservable variables and measurement error .
+Journal of Marketing Research , 18 ( 1 ) , 39–50 .
+Fredrickson , B. L. ( 1998 ) .
+What good are positive emotions ?
+Review of General Psychology , 2 , 300–319 .
+Fugate , M. , Prussia , G. E. , & Kinicki , A. J .
+( 2012 ) .
+Managing employee withdrawal during organizational change the role of threat appraisal .
+Journal of Management , 38 ( 3 ) , 890–914 .
+Fulmer , C. A. , & Ostroff , C. ( 2015 ) .
+Convergence and emergence in organizations : An integrative framework and review .
+Jour- nal of Organizational Behavior .
+10.1002/job.1987 .
+Freedman , L. S. ( 2001 ) .
+Confidence intervals and statistical power of the ‘ Validation ’ ratio for surrogate or intermediate end- points .
+Journal of Statistical Planning and Inference , 96 ( 1 ) , 143–153 .
+10.1016/S0378-3758 ( 00 ) 00330-X .
+George , J. M. ( 1990 ) .
+Personality , affect , and behavior in groups .
+Journal of Applied Psychology , 75 , 107–116 .
+Gilson , L. L. , & Shalley , C. E. ( 2004 ) .
+A little creativity goes a long way : An examination of teams ’ engagement in creative pro- cesses .
+Journal of Management , 30 ( 4 ) , 453–470 .
+DOI : 10.1016/j.jm.2003.07.001 .
+Hackman , R. J .
+( 1992 ) .
+Group influences on individuals in organizations .
+In Dunnette , M. D. , & Hough , L. M .
+( Eds .
+) , Handbook of industrial and organizational psychology ( 2nd ed. , , pp .
+199–267 ) .
+Palo Alto , CA : Consulting Psychologists Press .
+Hayes , A. F. ( 2012 ) .
+PROCESS : A versatile computational tool for observed variable mediation , moderation , and conditional process modeling [ White paper ] .
+Retrieved 29 June 2012. from http : //www.afhayes.com/public/process2012.pdf Hobfoll , S. E. ( 1988 ) .
+The ecology of stress .
+Washington , DC : Hemisphere .
+Hobfoll , S. E. ( 1989 ) .
+Conservation of resources : A new attempt at conceptualizing stress .
+American Psychologist , 44 , 513–524 .
+Hollingshead , A .
+B .
+( 1998 ) .
+Retrieval processes in transactive memory systems .
+Journal of Personality and Social Psychology , 74 , 659–671 .
+Hollingshead , A .
+B. , & Fraidin , S. N. ( 2003 ) .
+Gender stereotypes and assumptions about expertise in transactive memory .
+Journal of Experimental Social Psychology , 39 , 355–363 .
+James , L. R. , Demaree , R. G. , & Wolf , G. ( 1984 ) .
+Estimating within-group interrater reliability with and without response bias .
+Journal of Applied Psychology , 69 ( 1 ) , 85–98 .
+10.1037/0021-9010.69.1.85 .
+Kaplan , S. , Bradley , J. C. , Luchman , J. N. , & Haynes , D. ( 2009 ) .
+On the role of positive and negative affectivity in job perfor- mance : A metaanalytic investigation .
+Journal of Applied Psychology , 94 , 162–176 .
+Kaplan , S. , LaPort , K. , & Waller , M. J .
+( 2013 ) .
+The role of positive affectivity in team effectiveness during crises .
+Journal of Organizational Behavior , 34 ( 4 ) , 473–491 .
+10.1002/job.1817 .
+Kelly , J. R. , & Barsade , S. G. ( 2001 ) .
+Mood and emotions in small groups and work teams .
+Organizational Behavior and Human Decision Processes , 86 , 99–130 .
+Kahn , W. A .
+( 1990 ) .
+Psychological conditions of personal engagement and disengagement at work .
+Academy of Management Journal , 33 ( 4 ) , 692–724 .
+DOI : 10.2307/256287 .
+Kark , R. , & Carmeli , A .
+( 2009 ) .
+Alive and creating : The mediating role of vitality and aliveness in the relationship between psy- chological safety and creative work involvement .
+Journal of Organizational Behavior , 30 ( 6 ) , 785–804 .
+DOI : 10.1002/job .
+v30:610.1002/job.571 .
+TEAM AFFECTIVTY AND TRANSACTIVE MEMORY 433 Copyright © 2015 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+37 , 416–435 ( 2016 ) DOI : 10.1002/job Kim , S. Y. , Shin , Y. , & Kim , M. S. ( 2013 ) .
+Cross-level interactions of individual trait positive affect , group trait positive affect , and group positive affect diversity .
+Asian Journal of Social Psychology , 16 ( 3 ) , 197–206 .
+Kozlowski , S. W. J. , & Klein , K. J .
+( 2000 ) .
+A multilevel approach to theory and research in organizations : Contextual , temporal , and emergent processes .
+In K. J. K. S. W. J. Kozlowski ( Ed .
+) , Multilevel theory , research , and methods in organizations : Foundations , extensions , and new directions ( pp .
+3–90 ) .
+San Francisco , CA , US : Jossey-Bass .
+Kozlowski , S. W. J. , & Chao , G. T. ( 2012 ) .
+The dynamics of emergence : Cognition and cohesion in work teams.Managerial and Decision Economics , 33 ( 5–6 ) , 335–354 .
+DOI : 10.1002/mde.2552 .
+Kraimer , M. L. , Shaffer , M. A. , Harrison , D. A. , & Ren , H. ( 2012 ) .
+No place like home ?
+An identity strain perspective on repa- triate turnover .
+Academy of Management Journal , 55 ( 2 ) , 399–420 .
+Larsen , R. J. , & Augustine , A .
+A .
+( 2008 ) .
+Basic personality dispositions related to approach and avoidance : Extraversion/neuroticism , BAS/BIS and positive/negative affectivity .
+In A. J. Elliot ( Ed .
+) , Handbook of approach and avoidance motivation ( pp .
+151–164 ) .
+Psychology Press : New York NY .
+Lee , J.-Y. , Bachrach , D. G. , & Lewis , K. ( 2014 ) .
+Social network ties , transactive memory , and performance in groups .
+Organi- zation Science , 25 ( 3 ) , 951–967 .
+10.1287/orsc.2013.0884 .
+Lee , F. ( 1997 ) .
+When the going gets tough , Do the tough Ask for help ?
+help seeking and power motivation in organizations .
+Organizational Behavior and Human Decision Processes , 72 ( 3 ) , 336–363 .
+10.1006/obhd.1997.2746 .
+Lee , F. , Edmondson , A. C. , Thomke , S. , & Worline , M. ( 2004 ) .
+The mixed effects of inconsistency on experimentation in orga- nizations .
+Organization Science , 15 ( 3 ) , 310–326 .
+Lewis , K. ( 2003 ) .
+Measuring transactive memory systems in the field : Scale development and validation .
+Journal of Applied Psy- chology , 88 , 587–604 .
+Lewis , K. ( 2004 ) .
+Knowledge and performance in knowledge-worker teams : A longtitudinal study of transactive memory sys- tems .
+Management Science , 50 , 1519–1533 .
+Lewis , K. , Belliveau , M. , Herndon , B. , & Keller , J .
+( 2007 ) .
+Group cognition , membership change , and performance : Investigating the benefits and detriments of collective knowledge.Organizational Behavior and HumanDecision Processes , 103 ( 2 ) , 159–178 .
+DOI : http : //dx.doi.org/10.1016/j.obhdp.2007.01.005 .
+Lewis , K. , & Herndon , B .
+( 2011 ) .
+Transactive memory systems : Current issues and future research directions .
+Organization Science , 22 , 1254–1265 .
+Lewis , K. , Lange , D. , & Gillis , L. ( 2005 ) .
+Transactive memory systems , learning , and learning transfer .
+Organization Science , 16 , 581–598 .
+Liang , D. W. , Moreland , R. , & Argote , L. ( 1995 ) .
+Group versus individual training and group performance : The mediating role of transactive memory .
+Personality and Social Psychology Bulletin , 21 , 384–393 .
+Lyubomirsky , S. , King , L. , & Diener , E. ( 2005 ) .
+The benefits of frequent positive affect : Does happiness lead to success ?
+Psychological Bulletin , 131 , 803–855 .
+May , D. R. , Gilson , R. L. , & Harter , L. M. ( 2004 ) .
+The psychological conditions of meaningfulness , safety and availability and the engagement of the human spirit at work .
+Journal of Occupational and Organizational Psychology , 77 ( 1 ) , 11–37 .
+DOI : 10.1348/096317904322915892 .
+McPherson , M. , Smith-Lovin , L. , & Cook , J. M. ( 2001 ) .
+Birds of a feather : Homophily in social networks .
+Annual Review of Sociology , 27 , 415–444 .
+DOI : 10.2307/2678628 .
+Michael , D. N. ( 1973 ) .
+On learning to plan and planning to learn : The social psychology of changing toward future responsive societal learning .
+San Francisco : Jossey-Bass .
+Michinov , E. , Olivier-Chiron , E. , Rusch , E. , & Chiron , B .
+( 2008 ) .
+Influence of transactive memory on perceived performance , job satisfaction and identification in anesthesia teams .
+British Journal of Anaesthesia , 100 , 327–332 .
+Moreland , R. L. ( 1999 ) .
+Transactive memory : Learning who knows what in work groups and organizations .
+In L. Thompson , D. Messick , & J. Levine ( Eds .
+) , Shared cognition in organizations : The management of knowledge ( pp .
+3–31 ) .
+Mahwah , NJ : Erlbaum .
+Moreland , R. L. , Argote , L. , & Krishnan , R. ( 1996 ) .
+Socially shared cognition at work : Transactive memory and group perfor- mance .
+In J. L. Nye , & A. M. Brower ( Eds .
+) , What ’ s social about social cognition ?
+research on socially shared cognition in small groups ( pp .
+57–84 ) .
+New York : Plenum Press .
+Moreland , R. L. , Argote , L. , & Krishnan , R. ( 1998 ) .
+Training people to work in groups .
+In R. S. Tindale , & L. Heath ( Eds .
+) , Theory and research on small groups : Social psychological applications to social issues ( pp .
+37–60 ) .
+New York : Plenum Press .
+Moreland , R. L. , & Myaskovsky , L. ( 2000 ) .
+Exploring the performance benefits of group training : Transactive memory or im- proved communication ?
+Organizational Behavior and Human Decision Processes , 82 ( 1 ) , 117–133 .
+Naragon , K. , & Watson , D. ( 2009 ) .
+Positive affectivity .
+In S. Lopez ( Ed .
+) , The encyclopedia of positive psychology ( pp .
+707–711 ) .
+Hoboken , NJ : Wiley-Blackwell .
+Palazzolo , E. T. , Serb , D. A. , She , Y. , Su , C. , & Contractor , N. S. ( 2006 ) .
+Coevolution of communication and knowledge networks in transactive memory systems : Using computational models for theoretical development .
+Communication Theory , 16 , 223–250 .
+Peters , R. K. , Benson , H. , & Porter , D. ( 1977 ) .
+Daily relaxation response breaks in a working population : I .
+Effects on self- reported measures of health , performance and well-being .
+American Journal of Public Health , 67 , 946–953 .
+434 A. C. HOOD ET AL .
+Copyright © 2015 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+37 , 416–435 ( 2016 ) DOI : 10.1002/job Podsakoff , P. M. , MacKenzie , S. B. , Lee , J. Y. , & Podsakoff , N. P. ( 2003 ) .
+Common method biases in behavioral research : A critical review of the literature and recommended remedies .
+Journal of Applied Psychology , 88 , 879–903 .
+Podsakoff , P. M. , MacKenzie , S. B. , Paine , J .
+B. , & Bachrach , D. G. ( 2000 ) .
+Organizational citizenship behaviors : A critical review of the theoretical and empirical literature and suggestions for future research .
+Journal of Management , 26 , 513–563 .
+Preacher , K. J. , & Hayes , A. F. ( 2008 ) .
+Asymptotic and resampling strategies for assessing and comparing indirect effects in multiple mediator models .
+Behavioral Research Methods , 40 , 879–891 .
+Preacher , K. J. , & Kelley , K. ( 2011 ) .
+Effect size measures for mediation models : Quantitative strategies for communicating indirect effects .
+Psychological Methods , 16 ( 2 ) , 93–115 .
+10.1037/a0022658 .
+Ren , Y. , & Argote , L. ( 2011 ) .
+Transactive memory systems 1985–2010 : An integrative framework of dimensions , antecedents and consequences .
+The Academy of Management Annals , 5 , 189–230 .
+Ren , Y. , Carley , K. M. , & Argote , L. ( 2006 ) .
+The contingent effects of transactive memory : When is it more beneficial to know what others know ?
+Management Science , 52 , 671–682 .
+Roussin , C. J. , MacLean , T. L. , & Rudolph , J. W. ( 2014 ) .
+The safety in unsafe teams a multilevel approach to team psychological safety .
+Journal of Management .
+10.1177/0149206314525204 .
+Sobel , M. E. ( 1982 ) .
+Asymptotic confidence intervals for indirect effects in structural equation models .
+Sociological Methodol- ogy , 13 , 290–312 .
+10.2307/270723 .
+Spector , P. E. , & Fox , S. ( 2002 ) .
+An emotion-centered model of voluntary work behavior : Some parallels between counterpro- ductive work behavior and organizational citizenship behavior .
+Human Resource Management Review , 12 ( 2 ) , 269–292 .
+Stasser , G. , Stewart , D. D. , & Wittenbaum , G. M. ( 1995 ) .
+Expert roles and information exchange during discussion : The impor- tance of knowing who knows what .
+Journal of Experimental Social Psychology , 31 ( 3 ) , 244–265 .
+DOI : http : //dx.doi.org/ 10.1006/jesp.1995.1012 .
+Tellegen , A .
+( 1985 ) .
+Structures of mood and personality and their relevance to assessing anxiety , with an emphasis on self-report .
+In A. H. Tuma , & J. D. Maser ( Eds .
+) , Anxiety and the anxiety disorders ( pp .
+681–706 ) .
+Hilssdale , NJ : Erlbaum .
+Thoresen , C. J. , Kaplan , S. A. , Barsky , A. P. , & de Chermont , K. ( 2003 ) .
+The affective underpinnings of job perceptions and at- titudes : A meta-analytic review and integration .
+Psychological Bulletin , 129 , 914–945 .
+Tsai , W. -C. , Chi , N. -W. , Grandey , A .
+A. , & Fung , S. -C. ( 2012 ) .
+Positive group affective tone and team creativity : Negative group affective tone and team trust as boundary conditions .
+Journal of Organizational Behavior , 33 ( 5 ) , 638–656 .
+DOI : 10.1002/job.775 .
+Tucker , A. L. , Nembhard , I. M. , & Edmondson , A. C. ( 2007 ) .
+Implementing new practices : An empirical study of organizational learning in hospital intensive care units .
+Management Science , 53 ( 6 ) , 894–907 .
+DOI : 10.1287/mnsc.1060.0692 .
+Tynan , R. ( 2005 ) .
+The effects of threat sensitivity and face giving on dyadic psychological safety and upward communication .
+Journal of Applied Social Psychology , 35 , 223–247 .
+Watson , D. , & Clark , L. A .
+( 1984 ) .
+Negative affectivity : The disposition to experience negative aversive emotional states .
+Psy- chological Bulletin , 96 , 465–490 .
+Watson , D. , Clark , L. A. , & Tellegen , A .
+( 1988 ) .
+Development and validation of brief measures of positive and negative affect : The PANAS Scales .
+Journal of Personality and Social Psychology , 54 , 1063–1070 .
+Watson , D. , & Pennebaker , J. W. ( 1989 ) .
+Health complaints , stress , and distress : Exploring the central role of negative affectivity .
+Psychological Review , 96 ( 2 ) , 234–254 .
+10.1037/0033-295X.96.2.234 .
+Wegner , D. M. ( 1987 ) .
+Transactive memory : A contemporary analysis of the group mind .
+In B. Mullen , & G. R. Goethals ( Eds .
+) , Theories of group behavior ( Vol .
+9 , pp .
+185–208 ) .
+NY : Springer-Verlag .
+Wegner , D. M. , Giuliano , T. , & Hertel , P. T. ( 1985 ) .
+Cognitive interdependence in close relationships .
+In W. Ickes ( Ed .
+) , Compatible and incompatible relationships ( pp .
+253–276 ) .
+New York : Springer-Verlag .
+Weingart , L. R. ( 1992 ) .
+Impact of group goals , task component complexity , effort , and planning on group performance .
+Journal of Applied Psychology , 77 ( 5 ) , 682–693 .
+DOI : 10.1037/0021-9010.77.5.682 .
+White , J .
+B. , Tynan , R. O. , Galinsky , A. , & Thompson , L. ( 2004 ) .
+Face threat sensitivity in negotiation : Roadblock to agreement and joint gain .
+Organizational Behavior and Human Decision Processes , 94 , 102–124 .
+Williams , L. J. , Cote , J .
+A. , & Buckley , M. R. ( 1989 ) .
+Lack of method variance in self-reported affect and perceptions at work : Reality or artifact ?
+Journal of Applied Psychology , 74 , 462–468 .
+Yuan , Y. C. , Carboni , I. , & Ehrlich , K. ( 2010 ) .
+The impact of awareness and accessibility on expertise retrieval : A multilevel network perspective .
+Journal of the American Society for Information Science and Technology , 61 ( 4 ) , 700–714 .
+DOI : 10.1002/asi.21287 .
+Zhang , Z. , Hempel , P. S. , Han , Y. , & Tjosvold , D. ( 2007 ) .
+Transactive memory system links work team characteristics and per- formance .
+Journal of Applied Psychology , 92 , 1722–1730 .
+Zhang , Y. , Fang , Y. , Wei , K. -K , & Chen , H. ( 2010 ) .
+Exploring the role of psychological safety in promoting the intention to continue sharing knowledge in virtual communities .
+International Journal of Information Management , 30 ( 5 ) , 425–436 .
+DOI : http : //dx.doi.org/10.1016/j.ijinfomgt.2010.02.003 .
+TEAM AFFECTIVTY AND TRANSACTIVE MEMORY 435 Copyright © 2015 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+37 , 416–435 ( 2016 ) DOI : 10.1002/job Copyright of Journal of Organizational Behavior is the property of John Wiley & Sons , Inc. and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder 's express written permission .
+However , users may print , download , or email articles for individual use .

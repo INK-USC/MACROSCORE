@@ -1,0 +1,934 @@
+EGOROV_AmPoliSciRev_2009_gpbQ.pdf
+aQRHT9zlZdXRBa7Rj4.rzLmj3jIK-EGOROV_AmPoliSciRev_2009_gpbQ.pdf.plain.html
+
+American Political Science Review Vol .
+103 , No .
+4 November 2009 doi:10.1017/S0003055409990219 Why Resource-poor Dictators Allow Freer Media : A Theory and Evidence from Panel Data GEORGY EGOROV Northwestern University SERGEI GURIEV New Economic School KONSTANTIN SONIN New Economic School Every dictator dislikes free media .
+Yet , many nondemocratic countries have partially free or almostfree media .
+In this article , we develop a theory of media freedom in dictatorships and providesystematic statistical evidence in support of this theory .
+In our model , free media allow a dictator to provide incentives to bureaucrats and therefore to improve the quality of government .
+The importance of this benefit varies with the natural resource endowment .
+In resource-rich countries , bureaucratic incentives are less important for the dictator ; hence , media freedom is less likely to emerge .
+Using panel data , we show that controlling for country fixed effects , media are less free in oil-rich economies , with the effect especially pronounced in nondemocratic regimes .
+These results are robust to model specification and the inclusion of various controls , including the level of economic development , democracy , country size , size of government , and others .
+We need full and truthful information .
+And the truth should not depend upon whom it has to serve .
+We can accept only the division between the unofficial information ( for the Comintern Executive only ) and official information ( for everybody ) .
+—–Vladimir Lenin , ( 1921 ) Free media are an anathema for any dictator .
+Still , there is substantial variation in the degree of themedia freedom even controlling for the level of democracy .
+Why would some nondemocratic regimes allow free or partially free media ?
+What are the circum- stances under which it might be beneficial to a dictator to allow some degree of media freedom ?
+A possible answer is suggested by a situation we might call “ Gor- bachev ’ s dilemma. ” 1 In 1985 , Mikhail Gorbachev , the Georgy Egorov is Assistant Professor of Managerial Economics and Decision Sciences , Kellogg School of Management , North- western University , 2001 Sheridan Road , Evanston , IL 60208 ( g- egorov @ kellogg.northwestern.edu ) .
+Sergei Guriev is Morgan Stanley Professor of Economics , New Economic School and Centre for Economic and Financial Research ( CEFIR ) , Moscow ; also , Centre for Economic Policy Research ( CEPR ) , London ; c/o 47 Nakhimovsky pr. , Moscow 117418 , Russia ( sguriev @ nes.ru ) .
+Konstantin Sonin is SUEK Professor of Economics , New Eco- nomic School and Centre for Economic and Financial Research ( CEFIR ) , Moscow ; also , Centre for Economic Policy Research ( CEPR ) , London ; Visiting Professor , Managerial Economics and Decision Sciences , Kellogg School of Management , North- western University , 2001 Sheridan Road , Evanston , IL 60208 ( ksonin @ gmail.com ) .
+The authors are grateful to Daron Acemoglu , James Alt , Philippe Aghion , Yevgenia Albats , Simon Commander , Alexandre Debs , Ruben Enikolopov , Guido Friebel , Michael Hiscox , Torben Iversen , Maria Petrova , James Robinson , Kenneth Shepsle , Andrei Shleifer , Ekaterina Zhuravskaya , Luigi Zingales , the co-editors of the APSR , three anonymous referees , and seminar and conference participants at Berkeley , Bilkent , Brunel , Georgia State , Global Institute , Har- vard , HSE , ISNIE , MPSA , NBER Political Economics Student Con- ference , NES , and GSB Stanford .
+1 The term was introduced by Eugene H. Methvin as the title for an article in the National Review ( December 4 , 1987 ) .
+The article starts “ One swallow does not make a spring .
+And one prompt TASS report of rioting in Central Asia does not make a free Soviet press .
+But new leader of the Soviet Union , faced an array of prob- lems .
+A surge in the budget deficit following a sharp drop in oil prices was the latest sign that the command economy , which had already underperformed relative to the West for more than a decade , required significant restructuring .
+Without allowing a certain amount of media freedom , reforms of the highly inefficient bu- reaucratic system seemed all but impossible .
+In a small meeting with leading Soviet intellectuals , Gorbachev acknowledged : “ The restructuring is progressing with great difficulty .
+We have no opposition party .
+How then can we control ourselves ?
+Only through criticism and self-criticism .
+Most important : through glasnost. ” 2 However , free flow of information could undermine the very foundations of the Communist Party ’ s dictator- ship .
+In the very same meeting , Gorbachev warned that “ Democratism without glasnost does not exist .
+At the same time , democracy without limits is anarchy .
+That ’ s why it will be difficult. ” Gorbachev ’ s dilemma was by no means unique : ev- ery nondemocratic regime has to provide an incentive system for low-tier officials , and most such regimes fear the free flow of information as a threat to their political survival .
+In this article , we study the trade- off between allowing for free or partially free media in order to provide proper incentives to subordinates and censorship that limits citizens ’ ability to overcome coordination problems in organizing a revolt .
+In par- ticular , we focus on the role of resource abundance , which affects this trade-off .
+In resource-rich countries , a dictator has larger rents to lose from a revolt and has less interest in providing incentives to his bureaucrats ; therefore , even partial media freedom is less likely .
+We use a panel with country fixed effects to demonstrate that this is indeed the case : in nondemocratic countries , resource abundance results in less free media .
+Also , we among Kremlin watchers it is certainly a noteworthy occurrence—–as if , say , a California condor showed up at Capistrano. ” 2 “ Gorbachev on the Future : ‘ We Will Not Give In , ” ’ The New York Times , 22 December , 1986 ; glasnost , Russian for openness , was then understood as partial media freedom .
+645 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 26 Ju l 2 01 9 at 1 7 : 12 :0 3 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 09 99 02 19 Why Resource-poor Dictators Allow Freer Media November 2009 FIGURE 1 .
+Democracy and Media Freedom Across Countries ( Both Averaged for 1993–2007 ) Note : Democracy is the Polity IV ’ s variable Polity2 ranging from −10 ( perfect autocracy ) to 10 ( perfect democracy ) .
+Media freedom is 100—–Freedom House ’ s score .
+Freedom House classifies media into free ( 70–100 in this graph ) , partially free ( 40–70 ) , and not free ( 0–40 ) .
+provide evidence that an alternative explanation for this relationship—–namely , that resource wealth allows dictators to consolidate power—– can not fully account for the observed empirical regularities .
+The trade-off between political control and bureau- cratic incentives is also well illustrated by the slow re- sponse of Chinese state officials to the recent outbreak of severe acute respiratory syndrome ( SARS ) .
+In the absence of free media , incentives for lower-tier bu- reaucrats to provide sufficient effort and transmit nec- essary information to higher levels proved inadequate ( Saich 2005 ) .
+Although the first information on SARS was received by local political authorities in November 2002 , there was no real action until at least the end of March 2003 .
+When on March 15 the World Health Or- ganization ( WHO ) issued a global warning on SARS , the Chinese Propaganda Department prohibited Chi- nese media from reporting it ( Pomfret 2003 ) .
+Beijing public hospitals were trying to conceal the extent of the disease by hiding or transferring patients during visits of WHO officials ( Jakes 2003 ) .3 Four years later , Chinese authorities responded in a similar way to an AIDS outbreak ( Economist 2007 ) .
+Dictators ’ fear of free media is well justified .
+As the recent “ color revolutions ” in Serbia , Georgia , Ukraine , and Kyrgyzstan have shown , even partly independent 3 Saich ( 2003 ) , in a week-by-week analysis , attributes the slow reac- tion to bureaucratic inefficiency and disincentives for local politicians to gather and transmit information to higher levels .
+“ Once action is called for , the vertical and segmented structure of China ’ s bureau- cracy hampers effective action .
+It is difficult to gather information across different sectors. ” Saich quotes a number of high-profile pub- lications in the Chinese media , which operate under tight political control , claiming that any information on the new disease was merely rumor .
+The Chernobyl disaster , which occurred on April 26 , 1986 , was not acknowledged by Soviet officials until two days later , when the news had already spread across the Western media .
+media are crucial in replacing nondemocratic rulers ( Hill 2005 ; McFaul 2005 ) .
+Yet , there is much variation in media freedom even among dictatorial regimes .
+As shown in Figure 1 , many dictatorships have partially free media ; there are also some dictatorial regimes where media freedom is at the level of new Euro- pean Union ( EU ) members .
+Why do dictators tolerate or even allow media freedom ?
+We suggest that even partially free media might be a part of the incentive scheme for the state bureaucracy .
+The lack of such incentives undermines the state ’ s capacity to handle major challenges such as war , large-scale natural dis- asters , or macroeconomic crises .
+In these cases , even the censored media may fail to cover up the dicta- tor ’ s incompetence , which might eventually bring the regime down .
+For example , an inability to cope with the Chernobyl disaster exposed the need for change in the Soviet Union .
+As one observer noted ( Methvin 1987 ) , “ There surely must be days—maybe the morn- ing after Chernobyl—when Gorbachev wishes he could buy a Kremlin equivalent of the Washington Post and find out what is going on in his socialist wonderland. ” 4 “ Gorbachev ’ s dilemma ” suggests that the need for control over the bureaucracy endogenously constrains dictators ’ suppression of media freedom .
+To provide a basis for empirical investigation , we consider a simple model that captures this trade-off .
+A dictator chooses 4 The fall of Romania ’ s Ceauşescu ( Hardin 1995 , 31 ) shows that in the absence of free media , a dictator may lose touch completely , which in turn makes even a very centralized regime structurally vul- nerable .
+On December 21 , 1989 , after days of local and seemingly limited unrest in the province of Timişoara , Ceauşescu called for a grandiose meeting at the central square of Bucharest , apparently to rally the crowds in support of his leadership .
+In a stunning devel- opment , the meeting degenerated into anarchy , and Ceauşescu and his wife had to flee the presidential palace , only to be executed by a firing squad two days later .
+646 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 26 Ju l 2 01 9 at 1 7 : 12 :0 3 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 09 99 02 19 American Political Science Review Vol .
+103 , No .
+4 a policy that affects both his own and his citizens ’ in- terests .
+A policy succeeds only if it is properly imple- mented , which requires hiring bureaucrats who may either work or shirk .
+To induce high effort , the dictator needs some verifiable information on the bureaucrats ’ performance .
+The dictator can rely on special monitor- ing agencies , but these are vulnerable to collusion with the bureaucrats they monitor ; preventing such collu- sion is costly .
+In the case of uncensored media , this collusion is ruled out by the free-rider problem and competition between decentralized media.5 However , the media also make the policy outcome known to the public , which may threaten the dictator ’ s position in power .
+If the media report that the policy has failed , the public infers that the dictator is likely to be inept ; therefore , the citizens would be better off replacing the dictator .
+More important , a negative media report not only makes individual citizens aware of the dic- tator ’ s incompetence , but it also makes the dictator ’ s incompetence common knowledge , which is critical for a successful revolution .
+Revolutions involve a coordi- nation problem : a citizen takes part in a revolt against an incumbent only if he knows that others will join a revolt ( e.g. , Chwe 2003 ; Persson and Tabellini 2006 ; Tilly 1978 ) .6 In equilibrium , the dictator is replaced whenever there is a public report of the policy failure ; then each citizen knows that his or her misery is shared by others , and everyone is sufficiently unhappy to make an uprising against the incumbent worthwhile .
+To check the empirical relevance of this trade-off , we examine the consequences of variation in natural resource abundance .
+In a resource-rich country , the dic- tator is more interested in remaining in office ( as rents are higher ) ; moreover , he cares less for bureaucratic incentives because the resource rents can compensate for poor economic policies .
+Our theory therefore im- plies that oil-rich countries are likely to have less free media .
+Moreover , this relationship should be especially strong in less democratic countries , where other feed- back channels do not function properly .
+We use both cross-country and panel data to test these predictions .
+We take media freedom indices from the Freedom House and Reporters Sans Frontières ; a democracy index from Polity IV and from the Freedom House ; and oil reserves , oil price , and oil production figures from BP .
+Figure 2 shows pairwise correlations between oil reserves and media freedom within selected countries over time.7 The graphs demonstrate that the slope is negative in nondemocratic countries , but positive or 5 In assuming that the presence of several media sources makes suppressing information more costly , we rely on models of media competition by Besley and Prat ( 2006 ) and Gehlbach and Sonin ( 2008 ) .
+6 Media freedom is not the only mechanism for aggregating infor- mation that is dangerous to rulers .
+Some autocrats allow free elec- tions at the local level , decentralized nongovernmental organizations ( NGOs ) , or civil society development .
+Lorentzen ( 2007 ) argues that China ’ s central government uses local riots to obtain information on the performance of provincial bureaucrats .
+In this article , we focus on the media , but the trade-off extends to other institutions .
+7 We do not present graphs for Saudi Arabia , where the slope is also negative , but the variation in reserves from 1993 to 2006 is negligible .
+flat in democratic ones ; this relationship is present even within a very short time span .
+In the evidence section , we show that this result is not limited to a few countries but holds in a comprehensive panel of coun- tries , controlling for country fixed effects , the level of economic development , democracy , and other relevant variables .
+On average , the media are indeed less free in oil-rich countries .
+The effect of natural resources on media freedom is especially strong in less democratic countries ; in mature democracies , there is no relation- ship between oil reserves and media freedom.8 These results also hold in cross-sectional analysis .
+As Figure 3 demonstrates , there is a similar relationship between oil price and media freedom ( in Figure 3 , we use the same scale for each graph ; notice that in democracies , the effect is almost negligible ) .
+There , oil-rich countries exhibit a sharper negative slope ; the positive slope in the case of Mexico is driven by both democratization in the 1990s and , even more so , by a sharp drop in its proven oil reserves .
+The previous results are statistically significant and robust to adding a variety of controls , including lev- els of development , democracy , country size , govern- ment size , and others .
+( The Evidence section describes robustness checks , including splitting the sample into smaller subsamples and running a jackknife test that leaves out one country at a time . )
+Interestingly , the effect ’ s magnitude is the same whether we run panel or cross-sectional regressions and whether we choose the logarithm of oil reserves or the logarithm of oil production as an independent variable .
+According to our estimates , increasing oil reserves by 10 % would reduce media freedom by 0.3 points on a scale from 0 to 100 .
+In other words , if Brazil ’ s reserves were at Venezuela ’ s level , Brazil ’ s media freedom would have developed likewise .
+Our empirical strategy is based on the fact that both oil reserves ( as well as oil production ) and media free- dom change substantially within a country in the course of just one or two decades .
+First , oil reserves and oil production are responsive to mostly exogenous and highly volatile oil prices .
+Proven oil reserves are es- timated as those that are economically viable under prevailing market prices for oil ; production responds to the oil price to earn the maximum possible rents .
+Also , because there is substantial randomness in dis- covering new oil fields , oil reserves may change by tens of percents just within a year ( we discuss the issue of endogeneity of exploration efforts later ) —–this is the case of Brazil and Kazakhstan .
+Second , unlike other political institutions , media freedom can change very quickly .
+While we focus on testing the prediction that natu- ral resource abundance undermines media freedom in nondemocratic societies , we also control for alterna- tive explanations .
+First , there is a positive correlation ( and , potentially , two-way causality ) between media 8 Smith ( 2008 ) , basing his empirical exercise on Bueno de Mesquita et al .
+( 2003 ) , arrives at a conclusion similar to ours , although the main dependent variable in his analysis is the probability of regime survival .
+647 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 26 Ju l 2 01 9 at 1 7 : 12 :0 3 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 09 99 02 19 W hy R esource-poor D ictators A llow Freer M edia N ovem ber 2009 FIGURE 2 .
+Pairwise Correlations Between Oil Reserves and Media Freedom in Select Oil-rich Countries , 1993–2006 1998 19992000 2001 2002 2003 2004 2005 2006 10 30 50 70 90 M ed ia fr ee do m n ex t y ea r 4 4.1 4.2 4.3 4.4 Log of oil reserves in billion barrels Russia 1992 1993 199419 51996 1997 1998 1999 20002001 20022003 2004 20052006 10 30 50 70 90 M ed ia fr ee do m n ex t y ea r 4.5 4.6 4.7 4.8 4.9 5 Log of oil reserves in billion barrels Iran 1998 19992000 20012002200342005 2006 10 30 50 70 90 M ed ia fr ee do m n ex t y ea r 3.2 3.4 3.6 3.8 Log of oil reserves in billion barrels Kazakhstan 1992 1993 19941995 1996 199719981999 2000 200120 2 2003 20042005 2006 10 30 50 70 90 M ed ia fr ee do m n ex t y ea r 4.1 4.2 4.3 4.4 4.5 Log of oil reserves in billion barrels Venezuela 1992 1993199419 5199619 7 1998 1999 20002001 2002 2003 20042005 2006 10 30 50 70 90 M ed ia fr ee do m n ex t y ea r 2.5 3 3.5 4 Log of oil reserves in billion barrels Mexico 1992 1993 1994 1995 1996 1997 1998 19992000 2001 2002 2003 200420052006 10 30 50 70 90 M ed ia fr ee do m n ex t y ea r 1.8 2 2.2 2.4 2.6 Log of oil reserves in billion barrels Brazil 1992 1993 1994 19951996 1997 1998 1999200020012002200320042 05 2006 10 30 50 70 90 M ed ia fr ee do m n ex t y ea r 2.4 2.6 2.8 3 3.2 3.4 Log of oil reserves in billion barrels Canada 19921993199419951996 19971998 1999 20002001 2002 20032004 20052006 10 30 50 70 90 M ed ia fr ee do m n ex t y ea r 3.38 3.4 3.42 3.44 3.46 3.48 Log of oil reserves in billion barrels USA 1992 1993 1994 1995 1996 199781999 2000200120022003200420052006 10 30 50 70 90 M ed ia fr ee do m n ex t y ea r 2.2 2.3 2.4 2.5 2.6 Log of oil reserves in billion barrels Norway Source : Freedom House , BP , authors ’ calculations .
+648 Downloaded from https : //www.cambridge.org/core .
+University of Melbourne Library , on 26 Jul 2019 at 17:12:03 , subject to the Cambridge Core terms of use , available at https : //www.cambridge.org/core/terms .
+https : //doi.org/10.1017/S0003055409990219 A m erican PoliticalScience R eview V ol.103 , N o.4 FIGURE 3 .
+Pairwise Correlations Between Oil Price and Media Freedom in Select Oil-rich Countries , 1993–2006 199419971998 1999 2000 20012002 2003 2004 2005 2006 10 30 50 70 90 M ed ia fr ee do m n ex t y ea r 15 30 45 60 75 Oil price , USD per barrel Russia 19921993 19941 95 1996 1997 1998 1999 20002001 2002 2003 2004 2005 2006 10 30 50 70 90 M ed ia fr ee do m n ex t y ea r 15 30 45 60 75 Oil price , USD per barrel Iran 199219931994 1995 199619971998 1999 2000 20012002 2003 2004 2005 2006 10 30 50 70 90 M ed ia fr ee do m n ex t y ea r 15 30 45 60 75 Oil price , USD per barrel Kazakhstan 1992 1993 19941995 199619971998 1999 2000 20012 2003 2004 2005 2006 10 30 50 70 90 M ed ia fr ee do m n ex t y ea r 15 30 45 60 75 Oil price , USD per barrel Venezuela 1992 199319941 95 19961997 1998 1999 20002001 2002 2003 2004 2005 2006 10 30 50 70 90 M ed ia fr ee do m n ex t y ea r 15 30 45 60 75 Oil price , USD per barrel Mexico 1992 199319941 95 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 10 30 50 70 90 M ed ia fr ee do m n ex t y ea r 15 30 45 60 75 Oil price , USD per barrel Brazil 1992 1993 1994 1995 1996 19971998 1999 20002001 2002 2003 2004 2005 2006 10 30 50 70 90 M ed ia fr ee do m n ex t y ea r 15 30 45 60 75 Oil price , USD per barrel Canada 1992199319941 95 199619971998 1999 20002001 2002 2003 2004 2005 2006 10 30 50 70 90 M ed ia fr ee do m n ex t y ea r 15 30 45 60 75 Oil price , USD per barrel USA 19921993 19941 95 199619971998 199 200020012 2003 2004 2005 2006 10 30 50 70 90 M ed ia fr ee do m n ex t y ea r 15 30 45 60 75 Oil price , USD per barrel Norway Source : Freedom House , BP , authors ’ calculations .
+649 Downloaded from https : //www.cambridge.org/core .
+University of Melbourne Library , on 26 Jul 2019 at 17:12:03 , subject to the Cambridge Core terms of use , available at https : //www.cambridge.org/core/terms .
+https : //doi.org/10.1017/S0003055409990219 Why Resource-poor Dictators Allow Freer Media November 2009 freedom and the level of democracy per se .
+It is well known that there is a correlation between natural re- source abundance and the probability of having a dic- tatorial regime ( see , e.g. , Ross , 2001 , and Tsui , 2005 ) .
+Our empirical tests show that natural resources are a significant determinant of media freedom , even when controlling for the level of democracy , either current or lagged .
+We also run a two-stage specification : in the first stage , we estimate a relationship between media freedom , democracy , and other determinants of me- dia freedom except oil wealth .
+In the second stage , we use the deviation of media freedom from the pre- dicted value to show that media freedom is likely to be lower in oil-rich countries .
+In yet another test , we show that , as predicted by our theory our results hold for nondemocratic and partially democratic countries , but not for democracies .
+However , the correlation be- tween natural resources and lower democracy holds for all subsamples ; in this sense , media freedom and democracy are certainly not the same thing .
+We also provide other empirical tests ( see Evidence section ) .
+Second , media freedom may be negatively corre- lated with resource abundance , because the latter pro- vides dictators with the means to compensate citizens for censorship .
+For example , Ross ( 2001 ) observes that a dictator might simply use resource rents to buy off political challengers .
+In our framework , this argument requires that citizens value media freedom per se while dictators do not , for the standard reason that media may help in overcoming the coordination problem in revolts .
+Yet , dictators with no available resources are forced to allow free media , because otherwise citizens would revolt anyway .
+This “ buy-off ” argument treats resource rents as extra revenues available to a dic- tator .
+From this point of view , natural resources are equivalent to foreign aid or any other sources of in- come that he can use to pay off his citizens .
+We control for the total amount of resources that dictator can re- distribute ( gross domestic product [ GDP ] per capita , share of government expenditures in GDP ) and for social structure/inequality ( via country fixed effects ) ; we find that our results are robust .
+To provide one more test of our theory against alternative explana- tions , we rerun our main regressions , including both oil reserves and oil production in the regression .
+Our theory puts more weight on oil reserves , whereas al- ternative explanations predict a relationship between media freedom and current resource rents .
+Because oil output and oil resources are highly correlated , the only meaningful way to compare their effects is to include them in the regression equation simultaneously .
+It ap- pears that the effect of oil reserves is—–as predicted by our theory—–negative and significant ; thus , our theory wins the “ horse race. ” Finally , we provide additional evidence that media freedom does improve the quality of bureaucracy , even when controlling for country fixed effects and other variables .
+Thus , our theory demonstrates that in the presence of resource abundance , dictators are less willing to al- low free media .
+Consistent with our theory , nondemo- cratic countries such as Nigeria , Zambia , Sierra Leone , Angola , and Saudi Arabia have vast resources and poor growth performance , whereas the Asian tigers ( South Korea , Taiwan , Hong Kong , and Singapore ) , although predominantly nondemocratic in 1970s and 1980s , have had both high growth rates and scarce nat- ural resources .
+These East Asian countries have man- aged to establish an effective meritocratic bureaucracy ( Evans and Rauch 1999 , 2000 ; see also Gehlbach and Keefer 2006 on the role of institutionalized parties in autocracies ) .
+Again , it is perhaps not coincidental that Gorbachev chose glasnost as the Soviet Union faced a substantial decline in the price of oil,9 its major com- modity export .
+In contrast , with oil prices rising , Putin ’ s Russia has experienced a significant decline in media freedom ( Figure 3 ) .
+Instead of free media , dictators might create moni- toring/control agencies , often including secret services , to spy on the bureaucrats .
+Unlike decentralized free media , such agencies can commit to producing infor- mation for the dictator without leaking it to the pub- lic .
+However , they could potentially also collude with bureaucrats in concealing information about their dis- mal performance .
+In some countries , dictators prevent collusion by creating multiple monitoring agencies ( se- cret services ) to spy on each other .
+By making these security services compete , a dictator not only reduces the danger of collusion between them and bureaucrats , but also incurs a risk of information leakage to the public , not to mention substantial technical costs and delays .
+This has been especially visible in “ sultanistic regimes ” ( Chehabi and Linz 1998 ; Egorov and Sonin n.d. ) —–examples include Idi Amin in Uganda , Fran- cisco Machas Nguema in Equatorial Guinea , Claude Duvalier in Haiti , Fulgencio Batista in Cuba , Rafael Trujillo in the Dominican Republic , Reza Shah Pahlavi in Iran , Mobutu in Zaire , and Ferdinand Marcos in the Philippines , who combined dictatorial oppression with dismal economic performance .
+Introducing a collection of case studies , Chehabi and Linz ( 1998 ) specifically point out that such regimes were especially likely to occur in resource-rich countries ; under these regimes , the media were tightly controlled , and quality of gov- ernment was very low .
+The rest of the chapter is organized as follows .
+The next section discusses related literature , and the the- ory section introduces the theoretical model and de- rives empirical predictions .
+In the Evidence section , we present empirical support for our theory and describe robustness checks .
+The final Section concludes .
+RELATED LITERATURE Both political scientists and economists have been long aware that countries that have abundant natural re- sources and are not mature democracies perform , on average , less successfully than resource-poor countries 9 Although the policy of perestroika was proclaimed in 1985 , it was not until 1987 that glasnost was introduced on a large scale .
+In 1985–1986 , Gorbachev focused on uskorenie ( accelera- tion/modernization ) .
+In 1986 , a sharp oil price decline and the Cher- nobyl disaster occurred ; both events may have revealed the need for glasnost to the Soviet leaders .
+650 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 26 Ju l 2 01 9 at 1 7 : 12 :0 3 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 09 99 02 19 American Political Science Review Vol .
+103 , No .
+4 ( see , e.g. , Auty 2001 ; Gylfason , Herbertsson , and Zoega 1999 ; Mehlum , Moene , and Torvik 2006 ; Sachs and Warner 1996 , 1997a , 1997b ) .
+The early economics liter- ature on the “ resource curse ” attributed the failure of growth-oriented strategies in resource-rich coun- tries to the “ Dutch disease ” : the inflow of oil revenues leads to appreciation of the domestic currency , which makes domestic tradable sectors less competitive ( see Krugman 1987 and Sachs and Warner 1996 ) .
+Yet , in the recent “ resource curse ” literature , there is an emerg- ing consensus that the major source of slow growth in resource-rich countries is the deterioration of in- stitutions rather than currency appreciation .
+( There is also a large recent empirical literature linking resource wealth to violent conflicts , see Ross 2003 . )
+The gen- eral mechanism of such deterioration was described by North ( 1981 , 1991 ) and , most recently , by Acemoglu and Robinson ( 2005 ) ; the crucial role of institutions in generating the “ resource curse ” is analyzed in Boschini Pettersson , and Roine ( 2006 ) ; Caselli ( 2006 ) ; Hodler ( 2006 ) ; Lane and Tornell ( 1996 ) ; Mehlum , Moene , and Torvik ( 2006 ) .
+We attempt to go beyond these gen- eral insights to explain the microeconomics of decision making in nondemocracies that leads to inefficient eco- nomic policy choices .
+In political science , there is an emerging literature that relates economic performance and regime stability to the presence of natural resources .
+In a now classic early study , Karl ( 1997 ) explained the failure of oil producers to fully employ the development potential of natural resources by adding political considerations to the standard “ Dutch disease ” explanation ( see also Chaudhry 1997 ; Gelb 1988 ; Shafer 1994 ) .
+Oil windfalls allow the state to develop a rent-oriented bureaucracy that does not need to encourage taxable domestic pro- duction and thus escapes political accountability .
+Ross ( 2001 ) notes that critical empirical contributions to the modernization debate by Przeworski and Limongi ( 1993 ) and Przeworski , et al .
+( 2000 ) did not consider oil-rich Middle East states ; in his own regressions , the Middle East dummy is significant and has a negative impact on democracy .
+However , Herb ( 2005 ) argues that rentierism ( i.e. , the government ’ s reliance on oil taxes to provide public goods ) , has no significant neg- ative effect on democracy .
+Morrison ( 2009 ) finds that the particular source of nontax revenue has no spe- cific impact on regime stability ; an increase in any of them ( e.g. , foreign aid or windfall oil profits ) leads to more social spending in dictatorships and more stability for both democratic and dictatorial regimes .
+Gandhi and Przeworski ( 2006 ) model and then test empirically whether governments in resource-rich countries use their resource rents in order to “ thwart threats ema- nating from the opposition. ” The authors assume that the presence of mineral resources decreases the need for the dictator to engage opposition in cooperation ; empirically , such a presence indeed leads to a smaller number of legislative parties ( the authors ’ proxy for actual cooperation ) .
+Wantchekon ( 2002 ) argues that resource wealth helps dictators stay in power by sharing rents with the would-be opposition .
+Dunning ( 2005 ) considers a model where the elites weigh the costs and benefits of diversification : both the structure of the resource sector in and outside the country and the extent of potential political opposition affect the trade-off .
+Sny- der ( 2006 ) proposes an alternative model in which the stability of the political regime rests on its ability to build institutions of extraction of lootable resources .
+Benjamin Smith ( 2004 ) uses panel data on 107 devel- oping states covering the period from 1960 to 1999 to argue that the presence of oil is associated with increased regime durability ( see also Ulfelder 2007 ) ; in individual countries , there is no robust impact of changes in oil prices on regime stability .
+Alastair Smith ( 2008 ) tests empirical implications from the selectorate model of Bueno de Mesquita et al .
+( 2003 ) , which re- late the survival of dictatorial regimes to the presence of natural resources .
+The existing evidence does sug- gest that the trade-off between incentives for bureau- cracy and the need to “ divide-and-rule ” ( see Debs 2007 ) by suppressing information flows is especially visible in developing countries abundant with natural resources .
+For our formal model , we use recent advances in political economics , with its emphasis on dynamic mod- els of strategic interaction between politicians and their citizenry ( e.g. , Acemoglu 2003 , 2006 ; Acemoglu and Robinson 2005 ; Acemoglu , Robinson , and Verdier 2004 ; Lagunoff 2006 ; Bueno de Mesquita et al .
+2003 ) .
+The literature on optimal sequencing between eco- nomic and political liberalization is discussed in Pers- son and Tabellini ( 2006 ) , who were also among the first to consider revolution as a global game ( our model might be considered an alternative approach to modeling a solution to the coordination problem in revolutions ; see also Boix and Svolik 2007 ) .
+Edmond ( 2005 ) models a global game among citizens , who need to coordinate to overthrow a regime , and studies the regime ’ s incentives to use propaganda to exploit het- erogeneity in individual beliefs .
+Bueno de Mesquita and Downs ( 2005 ) introduce the concept of a coordi- nation good and argue that media freedom is actually such a good because it helps citizens overcome the free-rider problem .
+Finally , there is the fast-growing literature on the political economy of the media ( see Gentzkow and Shapiro 2008 ) .
+Sen ( 1999 ) and Besley and Prat ( 2006 ) emphasize the role of independent media in enhanc- ing citizens ’ ability to choose the right politicians and policies , whereas our model emphasizes the role me- dia might play in providing incentives to bureaucrats .
+Reinikka and Svensson ( 2005 ) and Kaufman ( 2006 ) show empirically that media freedom helps reduce corruption .
+Dyck and Zingales ( 2002 ) consider a sit- uation where business reporting is endogenously bi- ased ; free competitive media is the only way to commit not to collude with the sources of exclusive informa- tion .
+Svaleryd and Vlachos ( 2006 ) demonstrate that increased political competition and extensive media coverage in a mature democracy reduce political rents .
+Our work contributes to this literature by analyzing the determinants the media freedom outside the demo- cratic world .
+651 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 26 Ju l 2 01 9 at 1 7 : 12 :0 3 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 09 99 02 19 Why Resource-poor Dictators Allow Freer Media November 2009 THEORY Political decisions that citizens and politicians make are inherently dynamic : citizens decide whether to reelect the incumbent or revolt against him by comparing the expected performance of the incumbent and of the con- tender ; similarly , the politician ’ s desire to stay in office depends on the rents of being in power in the future .
+However , the important trade-offs that we emphasize in this article are easier to demonstrate in a reduced- form , one-period model , where we take the citizens ’ decisions to overthrow the ruler as fixed .
+We thus start with the simple model , and then provide a sketch of a fully dynamic model , where citizens ’ decisions are endogenized .
+Setup There is a dictator , a bureaucrat , and a continuum of ex ante identical citizens .
+Following a standard theoret- ical framework ( e.g. , Acemoglu and Robinson 2005 ) , the economy includes two sectors : the resource sector and the modern sector .
+The resource sector produces a globally traded good , which yields YR = R ; the cost of production is normalized to zero .
+The total output in the modern sector depends on the provision of a public good such as property rights and contract enforcement , infrastructure , and education .
+The amount of public good provided , A ∈ { AH , AL } , depends both on the policy chosen by the dictator and the effort exerted by the bureaucrat .
+The dictator ’ s ability to chose a right policy from the policy space is imperfect : the probability of picking a right policy is v ∈ ( 0 , 1 ) .
+The bureaucrat does not observe whether the policy picked by the dictator is right or wrong , but may choose either high or low effort e ∈ { eH , eL } .
+The cost of high effort is c > 0 , whereas low effort is costless .
+We assume a perfect complementarity between the dictator ’ s policy choice and the bureaucrat ’ s effort .
+If bureaucrat exerts high effort eH , and the policy choice is right , then A = AH .
+If either effort is low ( e = eL ) or the policy is wrong , then A = AL < AH .
+The output of the modern sector is normalized to YM = A ; thus , the total output in the economy equals Y ≡ YR + YM = R + A .
+The dictator , if he stays in power , gets the proceeds from the resource sector and taxes the modern sector at an exogenous rate τ .
+However , if the dictator is re- placed , he gets nothing ( and the resources and taxes are consumed by the new dictator , who is not a player in the one-period model ) .
+The incumbent ’ s utility is therefore UD = ( τA + R ) I { stays in power } − [ payments to bureaucrat ] , ( 1 ) where I { X } is the indicator function , which takes the value of 1 if event X happens , and 0 otherwise .
+We assume that τ ( AH − AL ) > c ( 2 ) ( i.e. , the cost of high effort is sufficiently low ) , so that the dictator , if he were certain to stay in power , would choose high effort .
+Citizen i gets pretax income yi ∈ { yL , yH } , which is a noisy signal about the output of the modern sector .
+Thus , the probability of getting high income yH is γ ∈ ( 12 , 1 ) when YM = AH and 1 − γ if YM = AL : yH = γA H − ( 1 − γ ) AL 2γ − 1 , y L = γA L − ( 1 − γ ) AH 2γ − 1 ( both yL and yH are positive if γ is not too close to 12 ) .
+The aftertax income of citizen i is thus ( 1 − τ ) yi .
+Apart from the income yi , the citizens get a pub- lic signal spub about the policy outcome A , which is generated by mass media .
+This signal may take one of two values , AH and AL .
+We assume that without censorship , free media are able to generate truthful signal ( or , equivalently , are unable to conceal the true evidence ) , so then spub = A .
+However , if the media are censored , they always generate a high signal spub = AH .
+The dictator chooses an incentive scheme to the bu- reaucrat in order to maximize his utility UD , but he can only condition his payments to bureaucrat on the media report st ∈ { AL , AH } that he gets about this bureaucrat ’ s performance.10 Consequently , censorship prevents the dictator from providing proper incentives to bureaucrats .
+The incumbent dictator may be ousted in two ways .
+First , there are elections , where citizens can replace the dictator by the challenger .
+We assume that citizen i votes for the incumbent if and only if yi = yH and spub = AH ; otherwise , she votes for the challenger .
+If the incumbent obtains the majority of votes , he re- tains power .
+However , he may stay in power even if he loses : to capture the nature of nondemocratic politics , we assume that if the majority votes in favor of the challenger , the incumbent is ousted with probability α ∈ ( 0 , 1 ) .
+Parameter α captures the democratic con- straints on the dictator : in a perfect democracy ( α = 1 ) , the majority vote decides who is in power , whereas in a perfect dictatorship α = 0 , elections do not matter at all .
+If the incumbent wins the elections , the citizens decide whether to revolt .
+Again , we assume that cit- izen i participates in the revolt if spub = AL only ( in the dynamic game , this happens endogenously ) , and the revolt succeeds if a majority of citizens participate in it .
+Taking part in an unsuccessful revolt costs each participant r > 0 ; this assumption will be important in the dynamic game.11 10 Technically , the dictator may infer information on bureaucratic efforts from the tax revenues he recieves .
+In the working paper version of the model , we considered a more realistic setup with mul- tiple bureaucrauts and an opportunity to use a centralized source of information such as a secret service .
+We also considered setups with competing secret services and competitive media market , which pro- duce expected results at the cost of additional notation and length .
+11 Although we do not develop a full-scale theory of collective action in revolution ( see a recent discussion in Acemoglu and Robinson 652 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 26 Ju l 2 01 9 at 1 7 : 12 :0 3 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 09 99 02 19 American Political Science Review Vol .
+103 , No .
+4 The timing of the one-period game is as follows : 1 .
+The incumbent dictator picks a policy ( which turns out to be right with probability ν ) , chooses the de- gree of media freedom , and makes contracts with the bureaucracy ( payments wL and wH , depending on spub ∈ { AL , AH } ) 2 .
+The bureaucrat chooses the effort level et ∈ { eL , eH } .
+3 .
+The policy outcome A is realized ; each citizen i learns his or her individual payoff yi .
+4 .
+The dictator pays the bureaucrat according to the contract .
+5 .
+Media report the true outcome : spub = A if they are free , and spub = AH , otherwise .
+6 .
+Elections take place .
+7 .
+If the incumbent wins the elections , each citizen decides whether to revolt .
+If the revolt is successful , the dictator is replaced ; otherwise , he stays in power .
+Analysis We start the analysis by finding the optimal contract for the bureaucrat for the cases of free and censored media .
+Let wH denote the payment that the dictator makes to the bureaucrat if spub = AH , and let wL be the payment if spub = AL .
+When media are free , the bureaucrat compares the expected payoff of low ef- forts , wL , and that of high efforts , νwH + ( 1 − ν ) wL − c. Thus , the bureaucrat exerts high efforts if and only if v ( wH − wL ) ≥ c. ( 3 ) If the dictator chooses to induce a low effort level , then wL = wH = 0 .
+To induce the high effort level , the dic- tator chooses free media and sets ( wL , wH ) = ( 0 , c/ν ) .
+A more competent dictator ( one with higher ν ) is more interested in providing good incentives to the bureau- crat .
+Indeed , the expected cost of paying for high efforts does not vary with ν , but the benefits of high-powered incentives are greater for a more competent dictator .
+If an absolutely competent dictator ( ν = 1 ) chooses high-powered incentive schemes for the bureaucrats with the help of free media , then his policy results in the optimal level of public good , AH .
+Because good incentives are more important for a more competent dictator , he is more interested in free media .
+Essentially , the dictator has three regimes to choose from : censored media and low bureaucratic effort , free media and low effort , and free media and high ef- fort .
+The dictator never chooses the combination of free press and low effort , because this option is dom- inated by censored press and low effort .
+Given our assumptions about the citizens ’ preferences ( they re- place the incumbent if spub = AL ) , the probabilities of staying in power in the case of free and censored 2005 ; Edmond 2006 ; and Persson and Tabellini 2006 ) , these assump- tions allow us to illuminate the difference in the trade-offs each citizen faces with or without free media .
+Essentially , when media are nonfree , the free-rider problem makes revolution much less likely , whereas with free media , each citizen better assesses information available to his fellow citizens .
+media are ν and αν + ( 1 − α ) , respectively .
+Thus , free media and high incentives give the dictator utility UM = ν ( R + τAH ) − c , whereas censored media give him UL = ( αν + ( 1 − α ) ) ( R + τAL ) .
+Now let us intro- duce R ( α ) = c + τ ( ( αν + ( 1 − α ) ) AL − vAH ) 1 + ν − α + αν .
+The following proposition summarizes the previous discussion .
+Proposition 1 .
+Under assumption ( 2 ) , the following statements hold : ( i ) In a subgame perfect equilibrium , the dictator chooses free media if the amount of resource rent does not exceed the threshold R = R ( α ) ; the dictator chooses censorship otherwise .
+( ii ) In a more democratic country , the media freedom threshold is higher : R ( α ) is increasing in α .
+In a perfect democracy ( α = 1 ) , the dictator always prefers media freedom .
+Thus , the model generates a number of testable pre- dictions about the determinants of media freedom .
+The foremost prediction is that in a nondemocratic coun- try , resource abundance ( a high R ) results in a lower media freedom .
+In a democracy , the dictator and his bureaucracy are bound to cope with free media .
+As shown previously , if α = 1 , media freedom prevails in equilibrium under any level of resource richness R. If α is slightly below 1 ( and α > 1 − ν ) , then media free- dom is suppressed only if resource abundance is very high .
+Thus , we do not expect to find significant effects of natural resources on media freedom in democratic countries , where monitoring of bureaucracy is carried out via the division of powers , opposition parties , etc .
+Dynamic Extension In the dynamic model , the incumbent dictator and citi- zens are long lived ; if citizens opt to replace the incum- bent , there is a new player .
+Each period , the stage game is as in the previous one-period game : the dictator picks a policy , chooses the degree of media freedom , and provides a contract to the short-lived bureaucrat .
+Then the bureaucrat chooses the effort level , and each citizen receives two signals : one about her individual payoff , and a media report .
+At the end of each period , each citizen decides whether to participate in a revolt against the dictator .
+In the dynamic game , citizen i maximizes her expected lifetime welfare ∞∑ t′=t β ( t ′−t ) Et ( ( 1 − τ ) yit′ − r I × { i participates in unsuccessful revolt in period t′ } ) , 653 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 26 Ju l 2 01 9 at 1 7 : 12 :0 3 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 09 99 02 19 Why Resource-poor Dictators Allow Freer Media November 2009 whereas the incumbent dictator maximizes ∞∑ t′=t β ( t ′−t ) Et ( ( τAt + R ) I { stays in power in period t′ } − [ payments to B in period t′ ] ) .
+Because payoff-relevant variables may include all pri- vate signals that individuals got during the rule of the incumbent dictator , the widely used concept of the Markov perfect equilibrium ( Maskin and Tirole 2001 ) is not directly applicable .
+However , the set of all sub- game perfect equilibria is too large , thus necessitating a refinement that combines the main features of the two concepts .
+We impose the following intuitive assump- tions .
+In the dynamic setting , we modify the citizens pref- erences so that they rationally update their estimate of the dictator ’ s competence ; now , the dictator and any of his potential replacements might be of one of two types , either competent or incompetent .
+First , we assume that citizen i revolts if and only if ( 1 ) she knows that the probability of the incumbent dictator being competent is below µ , the probability that a random draw from the pool of challengers is competent ; and ( 2 ) she is certain that the share of those who want to replace the incumbent exceeds the revolution threshold γ .
+Second , we assume that the distribution of idiosyncratic noise F ( · ) , the revolution threshold γ , and parameters that reflect the dictator ’ s abilities are such that under a high- powered system for bureaucracts , a competent dictator can keep , if she chooses to , the share of potential rev- olutionaries below γ .
+Finally , we focus on stationary equilibria , in which the dictator ’ s strategy may depend only on the dictator ’ s type , but not on time .
+If the dictator is incompetent , there is a nontrivial probability that the policy chosen in period t is a wrong one .
+In this case , the probability that media report the truth ( st = AL ) is equal to 1 if media is free and to α > 0 , if not .
+Therefore , every rational citizen that receives public signal st = AL is bound to believe , regardless of her private information , that the incumbent is incom- petent ; the information that the dictator is incompetent becomes common knowledge .
+As a result , all citizens revolt , and the incumbent is replaced .
+Now consider a dictator who has had only positive media reports spub1 , .
+.
+.
+, s pub n for n periods since coming to power .
+By the Bayes ’ formula , citizen i attributes a nontrivial probability to the event that the incumbent dictator is competent , even if i ’ s personal income is consistently low .
+The problem is that a citizen who has received a stream of positive public signals can not be sure that the number of citizens who believe that the probability of the dictator being inept is above 1 − µ is sufficient for a revolt to succeed .
+Indeed , when a citizen becomes just ready to revolt , she believes that most other citizens lag behind her in their confidence that the dictator is inept , because otherwise the revolt would have already occurred .
+If media report failure , it becomes common knowledge that the dictator is in- ept , allowing the citizens to coordinate .
+Summing up , a dictator stays in power as long as the citizens get a pos- itive public report spub = AH .
+If citizens get a negative public report spub = AL , they revolt , and the dictator is replaced by a new one .
+Similarly to the one-period model , we can now check that if a competent dictator chooses a high-powered incentive scheme , there is no revolt .
+By providing no in- centives , the dictator saves c on the bureaucrat ’ s wage , but loses τ ( AH − AL ) because there is a chance of pol- icy failure .
+Assumption ( 2 ) implies that this outcome is strictly dominated by that of the high-powered incen- tives .
+The Bellman equation allows us to calculate the competent dictator ’ s expected lifetime utility : U = 1 1 − β ( v ( R + τAH ) − c ) .
+An inept dictator faces a similar choice between high incentives and free media ( we denote this choice M ) and low incentives ( L ) .
+Then the dictator ’ s expected utility at the beginning of a period when he is in power , U , is found as a solution to U = max { UM , UL } ; where UM = R + τ ( vAH + ( 1 − v ) AL ) − c + βvU ; UL = R + τAL + β ( 1 − α ) U .
+( 4 ) In an equilibrium , the dictator prefers free media to censorship as long as U∗M = R + τ ( vAH + ( 1 − v ) AL ) − c 1 − βν > U∗L = R + τAL 1 − β ( 1 − α ) .
+( 5 ) Denote R = τA ( 1 − βν ) − ( τ ( vA H + ( 1 − v ) AL ) − c ) ( 1 − β ( 1 − α ) ) β ( ν − ( 1 − α ) ) , the threshold level of resource abundance .
+When 0 < α < 1 − ν , ( 5 ) is equivalent to R ≤ R. If 1 − ν ≤ α ≤ 1 , ( 5 ) is equivalent to R ≥ R , but R < 0 in this case , so ( 5 ) holds for any R > 0 .
+The following proposition summarizes the previous discussion .
+Proposition 2 .
+At any period of his tenure , a com- petent dictator is strictly better off allowing free media and choosing a high-powered incentive scheme .
+The in- competent dictator ’ s equilibrium choice of the regime depends on the level of democracy α and the resource abundance R as follows : ( i ) If the democratic institutions are weak , 0 < α < 1 − ν , media freedom is chosen if and only if the resource abundance is low , R ≤ R. If the resource abundance is high R > R , the dictator chooses low incentives and no media freedom .
+( ii ) If the democratic institutions are sufficiently strong , 1 − ν ≤ α ≤ 1 , the dictator always prefers to pro- vide high incentives and allow for free media .
+654 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 26 Ju l 2 01 9 at 1 7 : 12 :0 3 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 09 99 02 19 American Political Science Review Vol .
+103 , No .
+4 EVIDENCE In this section , we use panel data to explore empirical evidence about the relationship between oil and media freedom .
+To check the main testable prediction that oil abundance has an adverse effect on media freedom in nondemocracies , we use data on natural resources , levels of democracy , media freedom , and economic per- formance .
+Data We employ several sources of data .
+We use the Press Freedom index available from Freedom House as a proxy for media freedom .
+Although certain informa- tion on media freedom is available for years as early as 1979 , the detailed data started only in 1993 , so we use the media freedom data for years 1993–2008 .
+Press Freedom is constructed by Freedom House as an in- teger between 0 ( perfectly free media ) and 100 ( no media freedom ) .
+To facilitate interpretation , we use ( 100—Freedom House Index ) as a measure of media freedom , so in this section , a greater media freedom index corresponds to freer media .
+Note that the Free- dom House data cover both printed and broadcast media .
+We use the Polity2 variable from the Polity IV data set as a proxy for the degree of democracy .
+This vari- able is essentially computed by subtracting Polity IV ’ s institutionalized autocracy score ( AUTOC ) from the institutionalized democracy score ( DEMOC ) ; the re- sulting Polity2 score ranges from +10 ( strongly demo- cratic ) to −10 ( strongly autocratic ) .
+This score mea- sures the competitiveness and openness of executive recruitment , the competitiveness of political partici- pation , and constraints on the executive , as well as other features of the political regime .
+The variable does not measure directly media freedom or freedom of speech .
+Therefore , it is the best available ( albeit imperfect ) proxy for α because it captures the effective- ness of removing an inept dictator from office through the political process rather than through revolt .
+We also try other variables from Polity IV and other sources as a proxy for democracy , and the results are similar .
+We proxy resource endowment by proven oil re- serves , which are presumably exogenous .
+Although in- vestment in geological exploration affects this variable , these investments need not depend on the level of eco- nomic development .
+Even if investment in exploration depends on a country ’ s level of development , it is more plausible that developed countries have had more time and resources to invest .
+Thus , ceteris paribus , proven re- serves should be higher in Organisation for Economic Co-operation and Development ( OECD ) countries ; hence , this effect would only bias our estimates toward zero .
+We focus on oil because ( 1 ) it is by far the most important natural resource ( see Tsui 2005 , who argues that the global market for oil is larger than the market for all other natural resources combined ) , ( 2 ) reliable data on oil reserves and production are easily available , and ( 3 ) oil is globally traded ( unlike , e.g. , natural gas ) .12 The existence of the world market price allows us to explore differential reactions to worldwide shocks .
+Cer- tainly , countries differ in terms of oil quality and extrac- tion costs , but the data on the latter are less reliable .
+Also , these differences are much less important once we control for country fixed effects .
+We use data from the Statistical Review of World Energy , available from BP ’ s Web site ( www.bp.com ) .
+The Statistical Review only contains data for countries that have positive oil reserves or produce a positive amount of oil ; therefore , we assume trivial oil reserves and production for other countries , unless clearly stated that the data are not available .
+We use reserves in billion barrels rather than in dollar terms ; our results are robust to this choice .
+Also , we control for oil price changes by including time dummies in our panel regressions .
+Note that proven re- serves include reserves that are economically relevant given the prevailing oil price ; this also makes this vari- able a proxy for the expected value of future resource rents .
+A number of important contributions to the study of the resource curse ( e.g. , Jensen and Wantchekon 2004 ; Mehlum , Moene , and Torvik 2006 ; Ross 2001 ) proxy resource endowments by using the share of nat- ural resources in GDP or exports .
+Unfortunately ( as discussed in , e.g. , Ross 2006 ) , these variables may be highly endogenous with respect to both growth ( or growth opportunities ) and institutions .
+In fact , because the mining industry does not usually require much hu- man capital—and if it does , it may be very well provided by foreign firms—the share of mining industry in GDP is actually a proxy for underdevelopment .
+For instance , the U.S. is well endowed with natural resources , includ- ing oil ; yet , extraction and drilling comprise a small part of GDP , because other industries are also highly developed .
+Moreover , high resource exports may also be , for any given resource endowment , a proxy for the lack of growth opportunities : the lack of internal demand for fuels makes producers export them .
+Using reserves rather than other measures of re- source richness is consistent with our model ’ s logic .
+Indeed , the dictator ’ s incentives to censor the media are driven by the future resource rents he expects to get while in office .
+It is therefore more important that oil rents will be appropriated in the future .
+Although using oil reserves facilitates interpretation of our find- ings , we also employed oil production and share of oil production or exports in GDP as alternative measures of resource richness and obtain the same results .
+Our results are also robust to using the dollar value of either reserves or production at current prices .
+To measure the effect of media freedom on the quality of bureaucracy , we use the World Bank ’ s data on government effectiveness and regulatory quality 12 We have also used the mineral resources depletion variable from the World Development Indicators ( see the discussion of the variable in Hamilton and Clemens 1999 and Ross 2006 ) .
+This variable includes all mineral resources .
+Although variable is available for a significantly smaller sample , the results ( available on request ) with this variable instead of oil reserves or oil production are similar .
+655 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 26 Ju l 2 01 9 at 1 7 : 12 :0 3 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 09 99 02 19 Why Resource-poor Dictators Allow Freer Media November 2009 ( from the Governance and Anti-Corruption Project of the World Bank Institute , www.worldbank.org/wbi/ governance , or Kaufman 2006 ) .
+Finally , we use data on GDP per capita ( purchasing power parity ) , population , government expenditure , and other relevant controls from the World Development Indicators .
+Empirical Methodology and Alternative Explanations To test whether oil endowment affects media freedom in nondemocratic countries , we estimate the following specification : MFi , t+1 = a0 + a1Oili , t + a2Democracyi , t + a3Xi , t + δi + λt + εit , ( 6 ) Where i indexes countries , t indexes years , Oil is the proxy for oil abundance ( log oil reserves or log oil production ) , MF is media freedom , Democracy is the proxy for democracy ( Polity2 or alternative measures ) , X is a vector of controls ( including log GDP per capita , log population , log share of government expenditures in GDP etc .
+) , δi are country fixed effects , and λt are year dummies .
+Our theory predicts that a1 < 0 , especially if the re- gression is run on a subsample of nondemocratic coun- tries , and a1 is not significantly different from zero for democratic countries .
+The other way to show that the relationship between resources and media freedom is stronger for nondemocratic countries is to add an in- teraction term a4Oili , tDemocracyi , t .
+Our theory implies a4 > 0 .
+Notice that as our vector of controls X includes log GDP per capita , log population , and log share of government expenditure in GDP , our specification ( 6 ) automatically controls for oil reserves per capita , oil production per capita , or ratio of oil reserves or oil pro- duction to GDP , as well as total GDP , or government expenditures per capita , etc .
+These variables are linear combinations of the variables that are already included in ( 6 ) .
+Similarly , time dummies automatically account for the world oil prices , and country dummies include all time-invariant , country-specific variables such as le- gal origin , culture , religion , and ethnic and linguistic characteristics .
+Our theory is not the only explanation of the rela- tionship between the natural resource endowment and media freedom in nondemocratic societies .
+For exam- ple , a benevolent dictator might want to reform his bureaucracy and be willing to do so via paying high efficiency wages to the bureaucrats .
+Resource rents allow him to finance strong incentives without distor- tionary taxation ; the greater the rents and the higher the efficiency wages , the less independent journalists the dictator needs .
+The bureaucrats are punished very rarely , but the punishment is large : the dictator takes away the high efficiency wage .
+This explanation is not very likely .
+It would imply that resource endowments would be correlated with lower corruption and better governance .
+We test this prediction directly and find that it is not consistent with the evidence : resource- rich countries are less well governed and more corrupt .
+A more realistic alternative explanation is a very sim- ple one : nondemocratic regimes do not like free media .
+However , citizens value media freedom per se ; hence , a dictator has to compensate them for censorship .
+Sim- ilarly , if foreign partners or international organizations exert pressure in favor of media freedom , a dictator has to be economically strong either to withstand this pressure or to buy off the citizens ’ or foreign partners ’ tacit acceptance of censorship .
+In both cases , resource rents provide a source of revenue that helps silence the media .
+However , this argument assumes that resource rents come as an additional revenue source .
+To con- trol for this alternative explanation , we include aggre- gate income ( GDP ) and total government spending , the dictator with a greater share of oil in GDP and in the government budget has an easier time buying off citizens or foreigners .
+Why are citizens happier to exchange media freedom for a dollar just because it is a petrodollar ?
+The argument that oil rents are less distortionary than taxes and therefore easier to use for comforting the citizens is not consistent .
+If taxes are distortionary , the dictator should pay off the voters by lowering taxes rather than by giving out petrodollars ( actually , many dictators do exactly this , granting voters “ no taxation ” in exchange for “ no representation ” ) .
+The other distinction between our theory and this alternative explanation is whether media freedom de- pends on the value of the future revenues ( i.e. , the value of oil reserves ) or the present resource rents ( i.e. , this year ’ s oil production ) .
+These two variables are certainly highly correlated ; hence , to see which explanation is supported by the data , one needs to run a “ horse race ” via adding both oil reserves and oil production in one regression .
+The second major alternative explanation suggests that the relationship between oil and media freedom is driven by a third variable , regime type .
+Oil-rich coun- tries tend to be less democratic , and less democratic countries also tend to have lower media freedom .
+To control for this explanation , we include democracy scores into regressions for media freedom .
+We also run regressions for subsamples of democracies and non- democracies ( using different thresholds for democracy scores ) .
+We also use a two-stage procedure , running media freedom on democracy first , and then estimat- ing the relationship between oil and media freedom residuals .
+Because the latter are not correlated with democracy scores , we obtain the effect of oil on media freedom .
+Yet another argument is that media freedom is a normal good , so it is more likely to occur in more af- fluent societies .
+Coincidentally , rich countries are also the ones that are oil poor .
+However , as we control for GDP per capita , this argument does not invalidate our results .
+Finally , media freedom as well as democracy can be driven by a long history of development of political and economic institutions , due to colonial history , legal origin , religion , culture , etc .
+We show that our results 656 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 26 Ju l 2 01 9 at 1 7 : 12 :0 3 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 09 99 02 19 American Political Science Review Vol .
+103 , No .
+4 hold even when we control for country fixed effects ; therefore , all long-term and slowly changing factors are accounted for .
+As an additional check , we also es- timate cross-sectional specifications , and find that the cross-sectional and panel estimation produce similar magnitudes of the effect .
+Results The results are consistent with the model ’ s predictions , and are robust to the choice of specification , econo- metric methodology , and sample selection .
+In particu- lar , the results hold in panel regressions with country fixed effects , in cross-country ordinary least squares ( OLS ) regressions , in regressions with oil reserves and oil production , etc .
+Main Results .
+In Table 1 , we report the results from the fixed effects regressions .
+Controlling for the level of development ( proxied by GDP per capita in purchasing power parity ) and democracy level , media freedom is negatively correlated with oil reserves .
+This correla- tion is stronger in the less democratic countries .
+In the regressions in column ( 1 ) , we control for the interac- tion term between democracy and oil abundance .
+The coefficient on oil reserves is negative and significant , and the coefficient on the interaction term is positive and significant .
+The less developed the democracy , the stronger the negative effect of oil reserves on media freedom .
+In Table 1 , we also report the results with alternative measures of oil abundance .
+In regression ( 2 ) , we use oil reserves valued at the current global oil price .
+The results provide strong evidence that oil prices nega- tively affect media freedom in oil-rich countries .
+In regression ( 3 ) , we replace oil reserves with current oil production in barrels , and in regression ( 4 ) , with oil production in dollar terms .
+We control for country size in terms of population ( land area is captured by the fixed effects ) .
+The effect of population may reflect the importance of media as a coordination device .
+The sign of the coefficient is consistent with our model .
+The more populous the country , the harder it is for people to coordinate without media ; thus , the media is vital for overthrowing the dictator , so the dictator prefers censorship .
+Including the country ’ s population in the regression also helps assure that we control for oil reserves per capita as well as total oil reserves .
+We also control for GDP per capita and for the size of the government ( log share of government expenditures in GDP ) .
+Controlling for the size of the government allows to take into account the amount of resources under direct government ’ s control .
+To provide a direct test for the prediction that re- source abundance affects media freedom in nondemo- cratic countries , we estimate the specification ( 6 ) for a subsample of nondemocratic countries .
+In columns ( 5 ) and ( 6 ) , we present the results for the subsample of countries where the Polity2 score of democracy in 1992 was less than or equal to 5 ( the median democracy score in our sample is between 5 and 6 ) .
+The results are consistent with our theory : oil affects media freedom negatively and significantly .
+In column ( 5 ) , the oil abun- dance is proxied by oil reserves , and in column ( 6 ) , we use oil production .
+Notice that as long as we estimate the original specification ( 6 ) without the interaction term , there is no difference between using barrels or dollar values of oil : current oil price is captured by time dummies .
+In column ( 7 ) , we include both oil reserves and oil production in the regression .
+Such a “ horse race ” al- lows us to distinguish between our theory and the alter- native explanations described previously .
+Our theory implies that dictators take into account oil reserves when making a decision on censorship .
+The alternative explanations predict relationships between media free- dom and current resource rents ( to silence the opposi- tion/citizens or to share with bureaucrats ) .
+Current oil production is the best proxy for current oil rents avail- able ( as we assume that country fixed effects control for cost differentials between countries ) .
+Because oil output and oil resources are highly correlated , one can only compare their effects , including them into regres- sion simultaneously .
+Column ( 7 ) shows that the effect of oil reserves is—as predicted by our theory—negative and significant .
+Once we control for the oil reserves , the oil production is not significant ; in a sense , our theory “ wins the horse race ” .
+In Table 2 , we provide further evidence .
+First , we split the sample into smaller subsamples .
+In columns ( 1 ) to ( 3 ) we present the evidence for three roughly equal subsamples of autocracies ( Polity2 ≤ 0 in 1992 , 58 countries ) , imperfect democracies ( Polity2 ∈ ( 0 , 8 ] , 46 countries ) , and democracies ( Polity2 > 8 , 46 coun- tries ) .
+We find that the effect of oil abundance on media freedom is negative and significant in autocracies and imperfect democracies , and that there is no relationship for democracies .
+These results are robust to choosing different cutting points for autocracies and imperfect democracies .
+To check whether our results are driven by outliers , we have run a jackknife test leaving out one country at a time .
+The results ( not reported here ; available on request ) are the same as with the full sample .
+( In fact , there is an influential observation that weakens our results : the results would be even stronger if we leave out Sudan .
+We discuss this case in more detail later in this section . )
+We have also estimated a median regression for the sample of nondemocracies ( Polity2 ≤ 8 ) and found that the results do not change ( column ( 4 ) in Table 2 ) .
+These estimates suggest that our results are not determined by outliers .
+In columns ( 5 ) to ( 8 ) , we replace the Polity2 score with the other proxies of democracies .
+First , we use DEMOC variable from the Polity IV data set and find similar results : for the specifications with interaction term ( column ( 5 ) ) and without interaction term for the subsample of nondemocracies ( Column ( 6 ) ) .
+Then , columns ( 7 ) and ( 8 ) report the evidence with the Po- litical Rights variable from the Freedom House .
+The results are again consistent with our model ’ s predic- tions .
+657 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 26 Ju l 2 01 9 at 1 7 : 12 :0 3 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 09 99 02 19 W hy R esource-poor D ictators A llow Freer M edia N ovem ber 2009 TABLE 1 .
+Fixed Effects Regressions for Media Freedom 1 2 3 4 5 6 7 Nondemocracies Nondemocracies Nondemocracies Oil Price∗ Oil Price ∗ ( Polity ≤ 5 ) , ( Polity ≤ 5 ) , ( Polity ≤ 5 ) , Oil Reserves Oil Reserves Oil Production Oil Production Reserves Production Res .
+& Prod .
+Log oil reserves −2.14 ( 1.14 ) ∗ Log oil reserves × Polity 0.16 ( 0.07 ) ∗∗ Log ( oil price ∗ oil reserves ) −2.3 −2.87 −2.46 ( 1.13 ) ∗∗ ( 1.14 ) ∗∗ ( 1.19 ) ∗∗ Log ( oil price ∗ oil reserves ) × Polity 0.07 ( 0.04 ) Log oil production −2.13 ( 0.70 ) ∗∗∗ Log oil production × Polity 0.06 ( 0.03 ) ∗∗ Log ( oil price ∗ oil production ) −2.12 −1.67 −0.64 ( 0.70 ) ∗∗∗ ( 0.61 ) ∗∗∗ −0.66 Log ( oil price ∗ oil production ) × Polity 0.06 ( 0.03 ) ∗∗ Polity 0.77 0.57 0.73 0.54 ( 0.10 ) ∗∗∗ ( 0.20 ) ∗∗∗ ( 0.10 ) ∗∗∗ ( 0.17 ) ∗∗∗ Log GDP per capita , PPP 1.17 1.26 3.04 3.15 −3.12 −1.74 −2.56 −1.38 −1.4 ( 1.40 ) ∗∗ ( 1.40 ) ∗∗ ( 1.43 ) ∗∗ −1.64 −1.74 Log population −14.15 −13.41 −9.62 −8.87 −18.34 −12.06 −17.92 ( 3.29 ) ∗∗∗ ( 3.43 ) ∗∗∗ ( 3.31 ) ∗∗∗ ( 3.37 ) ∗∗∗ ( 5.75 ) ∗∗∗ ( 5.45 ) ∗∗ ( 5.91 ) ∗∗∗ Log ( govt .
+exp/GDP ) −1.62 −1.68 −1.45 −1.48 0.17 0.53 0.19 ( 0.88 ) ∗ ( 0.89 ) ∗ ( 0.87 ) ∗ ( 0.87 ) ∗ −1.02 −1.01 −1.03 Observations 2,057 2,056 2,077 2,076 958 972 954 Number of countries 147 148 147 148 71 71 71 R-squared 0.12 0.12 0.12 0.12 0.05 0.04 0.05 Robust standard errors in parentheses .
+∗Significant at 10 % ; ∗∗significant at 5 % ; ∗∗∗significant at 1 % .
+Country fixed effects and time dummies are included but not reported .
+Notes : Regressions ( 1 ) – ( 4 ) differ in terms of the measure of oil abundance ( oil reserves in ( 1 ) , oil price∗ oil reserves in ( 2 ) , oil production in ( 3 ) , oil price∗ oil production in ( 4 ) ) .
+These regressions are run for the full sample and include an interaction of oil with democracy ( proxied by Polity ) .
+In regressions ( 5 ) – ( 7 ) , there is no interaction term , but the sample only includes nondemocratic countries ( with Polity value in 1992 not exceeding ( 5 ) .
+In regression ( 5 ) , we use oil reserves as proxy for resource abundance , in ( 6 ) we use oil production , and in ( 7 ) we include both .
+In all regressions , Polity is Polity IV ’ s POLITY2 variable .
+All variables are for the current year ; media freedom is for the next year .
+Dependent variable is ( 100—–media freedom , Freedom House ) .
+658 Downloaded from https : //www.cambridge.org/core .
+University of Melbourne Library , on 26 Jul 2019 at 17:12:03 , subject to the Cambridge Core terms of use , available at https : //www.cambridge.org/core/terms .
+https : //doi.org/10.1017/S0003055409990219 A m erican PoliticalScience R eview V ol.103 , N o.4 TABLE 2 .
+Additional Fixed Effects Regressions for Media Freedom 1 2 3 4 5 6 7 8 Imperfect Nondemocracies Democ Polit .
+Rights Autocracies Democracies Democracies Polity ≤ 8 Instead of Nondemocracies Instead of Nondemocracies Polity ≤ 0 0 ≤ Polity ≤ 8 Polity > 8 Median Reg .
+Polity Democ ≤ 8 Polity Polit .
+Rights ≤ 5 Log oil reserves −4.1 −5.63 −3.99 −3.59 −2.34 −4.52 −2.77 −3.15 ( 1.32 ) ∗∗∗ ( 2.16 ) ∗∗∗ ( 2.86 ) ( 0.00 ) ∗∗∗ ( 1.16 ) ∗∗ ( 1.35 ) ∗∗∗ ( 1.21 ) ∗∗ ( 1.34 ) ∗∗ Log oil reserves × democracy 0.4 ( 0.15 ) ∗∗∗ Democracy 1.33 ( 0.17 ) ∗∗∗ Log oil reserves × political rights 0.6 ( 0.35 ) ∗ Political rights 2.87 ( 0.29 ) ∗∗∗ Log GDP per capita , PPP −3.06 13.2 11.48 −4.16 1.91 1.22 0.97 −0.95 ( 1.37 ) ∗∗ ( 2.98 ) ∗∗∗ ( 2.97 ) ∗∗∗ ( 0.00 ) ∗∗∗ ( 1.52 ) −1.65 ( 1.4 ) ( 1.53 ) Log population −24.77 0.69 −40.08 −11.15 −12.59 −6.17 −11.6 −5.68 ( 6.87 ) ∗∗∗ ( 6.43 ) ( 5.77 ) ∗∗∗ ( 0.00 ) ∗∗∗ ( 3.27 ) ∗∗∗ −4.3 ( 3.23 ) ∗∗∗ ( 5.03 ) Log ( govt .
+exp/GDP ) 1.44 −4.55 −5.14 −0.62 −1.65 −0.69 −1.55 −2.3 ( 1.11 ) ( 1.46 ) ∗∗∗ ( 1.95 ) ∗∗∗ ( 0.00 ) ∗∗∗ ( 0.94 ) ∗ −1.07 ( 0.87 ) ∗ ( 1.03 ) ∗∗ Observations 772 669 643 1,441 2,001 1,343 2,080 1,272 Number of countries 58 46 46 105 147 95 150 93 R-squared 0.07 0.12 0.28 0.70 0.14 0.03 0.15 0.02 Robust standard errors in parentheses .
+∗Significant at 10 % ; ∗∗significant at 5 % ; ∗∗∗significant at 1 % .
+Country fixed effects and time dummies are included but not reported .
+Notes : In regressions ( 1 ) – ( 4 ) , Polity is POLITY2 variable from Polity IV ; in regressions ( 5 ) and ( 6 ) , Democracy is proxied by DEMOC from POLITY IV ; and in regressions ( 7 ) and ( 8 ) , by Political rights from Freedom House .
+In columns ( 1 ) – ( 3 ) , three different subsamples of countries are taken .
+Column ( 4 ) is a median regression on the sample of imperfect democracies .
+Columns ( 5 ) and ( 7 ) replicate regression ( 1 ) from Table 1 with a different measure for democracy .
+Columns ( 6 ) and ( 8 ) do the same for a subsample of imperfect democracies and without the interaction term .
+All variables are for the current year ; media freedom is for the next year .
+Dependent variable is ( 100—–media freedom , Freedom House ) .
+659 Downloaded from https : //www.cambridge.org/core .
+University of Melbourne Library , on 26 Jul 2019 at 17:12:03 , subject to the Cambridge Core terms of use , available at https : //www.cambridge.org/core/terms .
+https : //doi.org/10.1017/S0003055409990219 Why Resource-poor Dictators Allow Freer Media November 2009 TABLE 3 .
+Relationship Among Oil , Regime Type , and Media Freedom 1 2 3 4 5 6 7 Polity MF Residuals Imperfect Production Autocracies Democracies Democracies Instead of Full Sample Polity ≤ 0 0 ≤ Polity ≤ 8 Polity > 8 Reserves Reserves Production Log oil reserves −1.43 −1.83 −1.52 −1.02 −2.75 ( 0.38 ) ∗∗∗ ( 0.41 ) ∗∗∗ ( 0.60 ) ∗∗ ( 0.62 ) ∗ ( 1.08 ) ∗∗ Log oil production −0.71 −2.51 ( 0.22 ) ∗∗∗ ( 0.67 ) ∗∗∗ Log GDP per 0.07 −0.71 0.97 0.65 0.46 0.56 2.58 capita , PPP ( 0.35 ) ( 0.49 ) ( 0.77 ) ( 0.39 ) ∗ ( 0.43 ) ( 1.38 ) ( 1.40 ) ∗ Log population 2.8 −4.95 −4.3 −1.7 3.33 0.7 5.13 ( 1.02 ) ∗∗∗ ( 2.20 ) ∗∗ ( 1.92 ) ∗∗ ( 0.59 ) ∗∗∗ ( 1.04 ) ∗∗∗ ( 3.24 ) ( 3.25 ) Log ( govt .
+0.15 0.63 0.83 −0.84 0.21 0.01 0.25 exp/GDP ) ( 0.27 ) ( 0.4 ) ( 0.42 ) ∗∗ ( 0.29 ) ∗∗∗ ( 0.27 ) ( 0.88 ) ( 0.87 ) Observations 2,152 806 704 642 2,172 2,057 2,077 Number of 148 57 46 45 148 148 148 countries R-squared 0.06 0.3 0.06 0.09 0.06 Robust standard errors in parentheses .
+∗Significant at 10 % ; ∗∗significant at 5 % ; ∗∗∗significant at 1 % .
+Country fixed effects and time dummies are included but not reported .
+Notes : In regressions ( 1 ) – ( 5 ) , dependent variable is POLITY2 from Polity IV ; in regressions ( 6 ) and ( 7 ) , dependent variable is residuals from regression of media freedom ( 100—–media freedom , Freedom House ) on POLITY2 , country fixed effects , and other control variables except for oil .
+In columns ( 1 ) – ( 4 ) , we take different samples of countries and oil reserves , and in regression ( 5 ) , production instead of reserves and the full sample .
+Regressions ( 6 ) and ( 7 ) have reserves and production as proxies for oil , respectively .
+All variables are for the current year ; media freedom is for the next year .
+Natural Resources , Democracy , and Media Freedom .
+One of the main alternative explanations of the rela- tionship between the natural resource endowment and media freedom is the fact that both variables are corre- lated with the level of democracy .
+Indeed , as shown in Tables 1 and 2 , democracy ( proxied by Polity2 score ) al- ways has a positive and significant effect on media free- dom , even controlling for country fixed effects , time dummies , level of development , oil , etc .
+Table 3 shows that democracy is also correlated with oil abundance .
+Whether we use oil reserves ( regressions ( 1 ) – ( 4 ) ) or oil production ( regression ( 5 ) ) or whether we use the full sample ( regressions ( 1 ) and ( 5 ) ) or split it into autocracies ( regression ( 2 ) , Polity2 is not positive in 1992 ) , imperfect democracies ( regression ( 3 ) , Polity2 positive but not higher than 8 ) , or democracies ( re- gression ( 4 ) , Polity2 above 8 in 1992 ) , oil abundance has a negative and significant effect on democracy .
+Table 3 therefore reproduces the results from Ross ( 2001 ) , using the panel data and different proxies for oil abundance .
+However , these results do not reject our theory .
+First , in Tables 1 and 2 , the effect of oil on media freedom is negative and significant in controlling for democracy .
+Second , the effect of oil on democracy is negative and significant at all levels of democracy , whereas the effect of oil on media freedom is significant only for autoc- racies and imperfect democracies , as predicted by our theory .
+Finally , in columns ( 6 ) and ( 7 ) of Table 3 , we disentangle the effect of oil on democracy from the effect of oil on media freedom through the following two-stage procedure .
+In the first stage , we run media freedom on democracy , country fixed effects , and other control variables except for oil .
+Then we take the resid- uals , and estimate a regression for the residuals on oil , country fixed effects , and its other determinants and controls except for democracy .
+These results are differ- ent from those in Tables 1 and 2 precisely because of the correlation between democracy and oil ( and other regressors ) .
+Because this correlation is controlled for in the first stage , the second-stage regressions for the me- dia freedom residuals capture the relationship between oil and media freedom .
+The results are also consistent with our theoretical predictions : both oil reserves ( re- gression ( 6 ) ) and oil production ( regression ( 7 ) ) affect media freedom residuals negatively and significantly .
+Media Freedom and the Quality of Government .
+Table 4 reports the estimates of the effect of media freedom on the quality of bureaucracy .
+We use two de- pendent variables : government effectiveness and reg- ulatory quality ( both from the World Bank Institute ’ s Governance Project ) .
+Columns ( 1 ) and ( 2 ) report the fixed effect regressions for these two indices for 1996– 2007 .
+These regressions show that media freedom pos- itively and significantly affects the quality of bureau- cracy , controlling for country and time fixed effects , levels of development and democracy , and natural re- sources .
+Columns ( 3 ) and ( 4 ) present similar results of cross-country OLS regressions ; the dependent vari- ables are averages for the period of 1996–1907 , and the independent variables are taken at 1995 .
+Figure 4 presents the partial residual plot for media freedom and the government effectiveness as measured by 660 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 26 Ju l 2 01 9 at 1 7 : 12 :0 3 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 09 99 02 19 American Political Science Review Vol .
+103 , No .
+4 TABLE 4 .
+Regressions for Quality of Governance .
+1 2 3 4 5 6 Fixed Effects OLS IV Government Regulatory Government Regulatory Government Regulatory Effectiveness Quality Effectiveness Quality Effectiveness Quality Media freedom/100 0.4 0.93 1.53 1.44 6.23 5.47 ( 0.12 ) ∗∗∗ ( 0.15 ) ∗∗∗ ( 0.31 ) ∗∗∗ ( 0.30 ) ∗∗∗ ( 2.80 ) ∗∗ ( 2.51 ) ∗∗ Log oil reserves −0.19 −0.15 −0.17 −0.17 ( 0.02 ) ∗∗∗ ( 0.03 ) ∗∗∗ ( 0.05 ) ∗∗∗ ( 0.05 ) ∗∗∗ Log GDP per capita , PPP 0.6 0.49 0.54 0.48 0.29 0.25 ( 0.03 ) ∗∗∗ ( 0.03 ) ∗∗∗ ( 0.06 ) ∗∗∗ ( 0.05 ) ∗∗∗ ( 0.12 ) ∗∗ ( 0.11 ) ∗∗ Polity 0 0.01 −0.02 −0.01 −0.12 −0.1 ( 0 ) ( 0 ) ( 0.01 ) ∗ ( 0.01 ) ( 0.07 ) ∗ ( 0.06 ) Log population 0.1 0.05 0.11 0.07 0.1 0.05 ( 0.02 ) ∗∗∗ ( 0.02 ) ∗∗ ( 0.03 ) ∗∗∗ ( 0.03 ) ∗∗ ( 0.04 ) ∗∗ ( 0.04 ) Log ( govt .
+exp/GDP ) 0.13 0.11 0.14 0.05 −0.24 −0.3 ( 0.04 ) ∗∗∗ ( 0.05 ) ∗∗ ( 0.12 ) ( 0.1 ) ( 0.37 ) ( 0.33 ) Observations 1,199 1,199 135 135 135 135 Number of countries 146 146 135 135 135 135 R-squared 0.09 0.10 0.79 0.8 0.52 0.55 Robust standard errors in parentheses .
+∗Significant at 10 % ; ∗∗significant at 5 % ; ∗∗∗significant at 1 % .
+Country fixed effects and time dummies are included ( in columns ( 1 ) and ( 2 ) but not reported .
+Notes : In regressions ( 1 ) , ( 3 ) , and ( 5 ) , the dependent variable is Government Effectiveness , and in regressions ( 2 ) , ( 4 ) , and ( 6 ) , the dependent variable is Regulatory Quality ( both from World Bank Institute ’ s Governance Project ) .
+Columns ( 1 ) and ( 2 ) report fixed effects regressions .
+Columns ( 3 ) and ( 4 ) are OLS regressions for variables averaged over time .
+Columns ( 5 ) and ( 6 ) report IV regression , with Media Freedom instrumented by Log oil reserves and other covariates .
+In Columns ( 1 ) and ( 2 ) , all variables are for the current year ; media freedom is for the next year .
+In all regressions , Media Freedom is divided by 100 to scale the coefficients .
+FIGURE 4 .
+Media Freedom and Government Effectiveness , Residuals Kaufmann et al .
+( 2006 ) , whereas Figure 5 presents the partial residual plot for media freedom and the regu- latory quality ( also from Kaufmann et al .
+2006 ) .
+Finally , in regressions ( 5 ) and ( 6 ) , we instrument media freedom by natural resources , democracy , in- teraction of oil and democracy , log GDP per capita , etc .
+Again , the results are consistent with our theory .
+Notice that in all specifications , the direct effect of democracy on the quality of the governance ( control- ling for media freedom ) is not robust and usually not significant .
+Once again , it suggests that media freedom and democracy are not the same .
+Another interesting effect to study is the interac- tion among resource abundance , media freedom , and 661 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 26 Ju l 2 01 9 at 1 7 : 12 :0 3 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 09 99 02 19 Why Resource-poor Dictators Allow Freer Media November 2009 FIGURE 5 .
+Media Freedom and Regulatory Quality , Residuals bureaucratic incentives on long-run economic growth .
+A major obstacle is that there are no systematic media freedom data prior to 1993 .
+Cross-Sectional Evidence .
+In Table 5 , we run OLS regressions for the media freedom averaged for 1993– 2007 for each country on country characteristics .
+In column ( 1 ) , we present the results for the whole sample , column ( 2 ) reports the results for the sample of nondemocracies ( Polity2≤ 8 ) , and column ( 3 ) reports the results for democracies ( Polity2 > 8 ) .
+We find that the oil abundance affects media freedom negatively and significantly in the whole sample , but this result is driven by nondemocracies ; there is no effect in democ- racies .
+We also estimate a specification ( 4 ) , where we re- place contemporaneous measures of democracy with its average level in 1980–1992 .
+In column ( 5 ) , we in- strument democracy with a lagged democracy score , and the results remain the same .
+Columns ( 6 ) and ( 7 ) present the evidence on an al- ternative measure of media freedom .
+We use the media freedom index from Reporters Sans Frontières rather than the more conventional one from Freedom House ( unfortunately , RSF data are only available for a few years and can not be used in fixed effects regressions ) .
+Again , as we run the estimates for both nondemocra- cies ( 6 ) and democracies ( 7 ) , we find that oil affects media freedom in nondemocratic countries .
+Alternative Explanations and Robustness Checks .
+To check the robustness of our results , we have also run a number of additional tests .
+We have estimated all regressions in Tables 1 to 5 for the subsamples of countries with large oil reserves .
+For all specifications , we used both oil reserves and oil production .
+We con- trolled for inequality , Internet penetration , adult liter- acy , and other relevant variables .
+We tried all splits of the sample by democracy scores .
+These tests ( available on request ) have shown that our results are robust and consistent with our predictions .
+The results in Table 2 are also robust to a different choice of thresholds for autocracies .
+In Table 6 , we reproduce the regression from Table 2 , column ( 1 ) , for thresholds varying from −1 to −6 .
+In all cases , the coefficient at oil reserves is negative and statistically significant ( for thresholds −5 and −6 , the coefficient is significant at 10 % but not at 5 % level , which is due to smaller samples ) .
+Note that if the sample is restricted to more autocratic countries ( for thresholds −4 , −5 , and −6 ) , the estimated effect of oil is lower in magnitude .
+This is most likely explained by smaller sample size and by the attenuation bias .
+Because the data quality in autocracies is lower than in imperfect democracies , the measurement error is therefore higher .
+This pushes the estimates for the coefficient to zero for the subsample of the most autocratic countries .
+We have also verified that our results are not driven by outliers : excluding any single country or any region does not change the results qualitatively .
+Similarly , the results are not driven by countries that had very large shocks in oil reserves .
+In fact , there is one country that weakens our results in several specifications : Sudan .
+If we exclude Sudan , the estimated effect of oil on media freedom is even stronger .
+The reason is that in the 1990s , Sudan had a huge increase in measured oil reserves , perhaps explained by the change in territory controlled by the central government , which was not accompanied by a decrease in media freedom .
+The lat- ter was not surprising as Sudan ’ s media freedom was among the bottom ten in the world to start with .
+This episode does not contradict our theory ; however , the 662 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 26 Ju l 2 01 9 at 1 7 : 12 :0 3 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 09 99 02 19 A m erican PoliticalScience R eview V ol.103 , N o.4 TABLE 5 .
+Cross-Sectional Regressions 1 2 3 4 5 6 7 Polity RSF RSF Nondemocracies Democracies Lagged Polity Instrumented by Nondemocracies Democracies Full Sample Polity ≤ 8 Polity > 8 Included Lagged Polity Polity ≤ 8 Polity > 8 Log oil reserves in 1992 −3.14 −2.82 −1.64 −6.18 −2.39 −3.93 −0.78 ( 0.89 ) ∗∗∗ ( 1.03 ) ∗∗∗ ( 1.56 ) ( 1.24 ) ∗∗∗ ( 1.08 ) ∗∗ ( 1.85 ) ∗∗ ( 0.71 ) Polity , averaged 1993–2007 2.58 2.3 2.5 2.87 2.37 −0.2 ( 0.17 ) ∗∗∗ ( 0.20 ) ∗∗∗ ( 0.52 ) ∗∗∗ ( 0.25 ) ∗∗∗ ( 0.26 ) ∗∗∗ ( 1.49 ) Log GDP per capita , PPP , in 1992 5.69 3.68 6.89 6.53 4.97 2.85 6.25 ( 0.90 ) ∗∗∗ ( 1.29 ) ∗∗∗ ( 1.81 ) ∗∗∗ ( 1.40 ) ∗∗∗ ( 1.14 ) ∗∗∗ ( 1.78 ) ( 0.93 ) ∗∗∗ Log land area 1.55 1.53 1.91 2.65 1.38 2.92 −0.03 ( 0.61 ) ∗∗ ( 0.75 ) ∗∗ ( 1.02 ) ∗ ( 0.92 ) ∗∗∗ ( 0.65 ) ∗∗ ( 0.77 ) ∗∗∗ ( 0.47 ) Log population in 1992 −1.29 −1.62 −2.21 −1.39 −1.39 −5.86 −1.17 ( 0.71 ) ∗ ( 0.95 ) ∗ ( 0.99 ) ∗∗ ( 0.98 ) ( 0.72 ) ∗ ( 1.24 ) ∗∗∗ ( 0.64 ) ∗ Log ( govt .
+exp/GDP ) in 1992 2.38 −0.15 4.69 −0.94 3.01 2.06 −0.86 ( 2.18 ) ( 2.46 ) ( 4.06 ) ( 2.55 ) ( 2.31 ) ( 2.63 ) ( 2.26 ) Polity , averaged 1980–1992 1.46 ( 0.24 ) ∗∗∗ Log oil reserves in 1992 × 0.22 Polity , averaged 1980–1992 ( 0.12 ) ∗ Observations 134 92 42 130 130 91 41 R-squared 0.81 0.66 0.81 0.64 0.8 0.59 0.65 Robust standard errors in parentheses .
+∗Significant at 10 % ; ∗∗significant at 5 % ; ∗∗∗significant at 1 % .
+Notes : All regressions except column ( 5 ) are OLS .
+In regressions ( 1 ) – ( 5 ) , the dependent variable is Media Freedom , averaged for 1993–2007 .
+In ( 6 ) and ( 7 ) , the dependent variable is Reporters Sans Frontières , averaged for 2002–2007 .
+Regressions ( 1 ) – ( 3 ) include different sample of countries .
+In regression ( 4 ) , lagged Polity ( POLITY2 variable averaged for 1980–1992 ) is included .
+In regression ( 5 ) , Polity is instrumented by lagged Polity .
+Regressions ( 6 ) and ( 7 ) contain the samples of democratic and nondemocratic countries , respectively .
+All variables are averaged 1993–2007 unless stated otherwise .
+663 Downloaded from https : //www.cambridge.org/core .
+University of Melbourne Library , on 26 Jul 2019 at 17:12:03 , subject to the Cambridge Core terms of use , available at https : //www.cambridge.org/core/terms .
+https : //doi.org/10.1017/S0003055409990219 Why Resource-poor Dictators Allow Freer Media November 2009 TABLE 6 .
+Robustness of Relationship Between Oil Reserves and Media Freedom in Autocratic Countries with Regard to Choice of Autocracy Threshold Polity2 ≤ −1 Polity2 ≤ −2 Polity2 ≤ −3 Polity2 ≤ −4 Polity2 ≤ −5 Polity2 ≤ −6 Subsample in 1992 in 1992 in 1992 in 1992 in 1992 in 1992 Log oil reserves −3.99 −3.3 −3.74 −2.87 −2.5 −2.79 ( 1.57 ) ∗∗ ( 1.48 ) ∗∗ ( 1.51 ) ∗∗ ( 1.43 ) ∗∗ ( 1.51 ) ∗ ( 1.53 ) ∗ Log GDP per −2.44 −2.59 −2.22 −2.39 −3.64 −3.22 capita , PPP ( 1.58 ) ( 1.58 ) ( 1.60 ) ( 1.60 ) ( 1.64 ) ∗∗ ( 1.62 ) ∗∗ Log population −24.95 −26.01 −24.73 −12.59 −14.5 −19.13 ( 7.00 ) ∗∗∗ ( 7.14 ) ∗∗∗ ( 7.10 ) ∗∗∗ ( 7.29 ) ∗ ( 7.37 ) ∗∗ ( 7.74 ) ∗∗ Log ( govt .
+1.86 1.94 2.29 1.89 1.1 1.45 exp/GDP ) ( 1.25 ) ( 1.23 ) ( 1.25 ) ∗ ( 1.29 ) ( 1.31 ) ( 1.30 ) Observations 729 699 669 574 537 477 Number of 53 51 49 42 39 35 countries R-squared 0.06 0.06 0.06 0.04 0.04 0.05 Robust standard errors in parentheses .
+∗Significant at 10 % ; ∗∗significant at 5 % ; ∗∗∗significant at 1 % .
+Notes : The table contains panel regression estimates for media freedom with country fixed effects and time dummies .
+Dependent variable is ( 100—–media freedom , Freedom House ) .
+All variables are for the current year ; media freedom is for the next year .
+Each column reproduces the results from column ( 1 ) , Table 2 , with a different threshold for autocracy ; instead of Polity2 = 0 ( Table 2 ) , we use the thresholds from Polity2 = −1 to Polity2 = −6 in 1992 .
+TABLE 7 .
+Relationship Among Oil , Regime Type , and Media Freedom in Subsamples Excluding Countries with Largest Oil Shocks Except Five Countries Except Thirteen Countries Full Sample Except Sudan with Largest Oil Shocks with Largest Oil Shocks Sample 1 2 3 4 Log oil reserves −2.14 −4.68 −7.51 −6.17 ( 1.14 ) ∗ ( 1.24 ) ∗∗∗ ( 1.71 ) ∗∗∗ ( 3.22 ) ∗ Log oil reserves x Polity 0.16 0.16 0.18 0.17 ( 0.07 ) ∗∗ ( 0.07 ) ∗∗ ( 0.07 ) ∗∗∗ ( 0.08 ) ∗∗ Polity 0.77 0.75 0.74 0.77 ( 0.10 ) ∗∗∗ ( 0.10 ) ∗∗∗ ( 0.10 ) ∗∗∗ ( 0.10 ) ∗∗∗ Log GDP per capita , PPP 1.17 1.29 1.55 4.81 ( 1.38 ) ( 1.37 ) ( 1.38 ) ( 1.79 ) ∗∗∗ Log population −14.15 −14.22 −13.91 −11.78 ( 3.29 ) ∗∗∗ ( 3.29 ) ∗∗∗ ( 3.29 ) ∗∗∗ ( 3.44 ) ∗∗∗ Log ( govt .
+exp/GDP ) −1.62 −2.15 −2.23 −3.08 ( 0.88 ) ∗ ( 0.90 ) ∗∗ ( 0.90 ) ∗∗ ( 0.99 ) ∗∗∗ Observations 2,057 2,042 2,010 1,903 Number of countries 148 147 143 135 R-squared 0.12 0.13 0.13 0.13 Robust standard errors in parentheses .
+∗Significant at 10 % ; ∗∗significant at 5 % ; ∗∗∗significant at 1 % .
+Country fixed effects and time dummies are included but not reported .
+Notes : Dependent variable is ( 100—–media freedom , Freedom House ) .
+Regression ( 1 ) replicates regression ( 1 ) from Table 1 .
+Regression ( 2 ) excludes Sudan .
+Regression ( 3 ) excludes Qatar , Sudan , Angola , Mexico , and Azerbaijan ( five countries with the largest oil shocks in 1993–2007 , with the ratio of maximum to minimum oil reserves during the period above 3.5 ) .
+Regression ( 4 ) excludes , in addition , Vietnam , Canada , Gabon , Brazil , Equatorial Guinea , Libya , Congo Republic , and Colombia ( countries with the ratio of maximum to minimum oil reserves during the period above 1.65 ) .
+empirical estimates of the relationship are weakened .
+In Table 7 ( columns ( 1 ) and ( 2 ) ) , we replicate the main regression with and without Sudan and show that ex- clusion of Sudan sharply increases the magnitude of the coefficient .
+We emphasize , however , that even among the countries that experienced a very large oil shock , Sudan is not a typical case .
+The five nondemocratic countries with the largest shock in oil reserves dur- ing the period are Qatar , Sudan , Vietnam , Equatorial Guinea , and Libya .
+These countries , except Sudan , ex- hibit a negative relation between oil and media free- dom , and for Vietnam , Equatorial Guinea , and Libya , this relation is particularly strong , as shown in Figure 6 .
+Thus , Sudan is an outlier that would weaken our esti- mates , and even with it our results are significant and consistent with the theory .
+Our results are not driven by countries that experi- enced very large changes in oil reserves .
+We identified thirteen countries for which the difference between the maximum and the minimum of log oil reserves in the period of 1992–2006 exceeded 0.5 .
+These are ( in decreasing order ) : Qatar , Sudan , Angola , Mexico , Azerbaijan , Vietnam , Canada , Gabon , Brazil , Equa- torial Guinea , Libya , Congo Republic , and Colombia .
+664 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 26 Ju l 2 01 9 at 1 7 : 12 :0 3 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 09 99 02 19 A m erican PoliticalScience R eview V ol.103 , N o.4 FIGURE 6 .
+Pairwise Correlations Between Oil Reserves and Media Freedom in Autocracies that Experienced the Largest Changes in Oil Reserves , 1993–2007 19923 1994 1995 1996 1997819992000 20012 2003 2004 2005 2006 10 20 30 40 50 M ed ia fr ee do m n ex t y ea r 1.5 2 2.5 3 3.5 Log of oil reserves in billion barrels Qatar 1992 1993 1994 1995619 78 2000 20012002 20032004 2005 2006 10 20 30 40 50 M ed ia fr ee do m n ex t y ea r 0 .5 1 1.5 2 Log of oil reserves in billion barrels Sudan 1992 199319941995 1996 1997 1998 1999 20002001 20022003 2004 2005 2006 10 20 30 40 50 M ed ia fr ee do m n ex t y ea r 0 .5 1 1.5 Log of oil reserves in billion barrels Vietnam 1992 1993 1994 19956 1997 81999 2000 2001 2002 2003 200420052006 10 20 30 40 50 M ed ia fr ee do m n ex t y ea r .2 .4 .6 .8 1 Log of oil reserves in billion barrels Equatorial Guinea 1992 1993 1994 19956 1997 89 20002001 2002 20032004 2005 2006 10 20 30 40 50 M ed ia fr ee do m n ex t y ea r 3.2 3.4 3.6 3.8 Log of oil reserves in billion barrels Libya Source : Freedom House , BP , authors ’ calculations .
+665 Downloaded from https : //www.cambridge.org/core .
+University of Melbourne Library , on 26 Jul 2019 at 17:12:03 , subject to the Cambridge Core terms of use , available at https : //www.cambridge.org/core/terms .
+https : //doi.org/10.1017/S0003055409990219 Why Resource-poor Dictators Allow Freer Media November 2009 These changes correspond to a ratio of maximum and minimum oil reserves of at least 1.65 , and for the first five countries in the list , this ratio exceeds 3.5 .
+In Table 7 , we also provide the results for the subsam- ples excluding these five countries in column ( 3 ) and excluding the thirteen countries in column ( 4 ) .
+Let us now return to the discussion of the alternative explanations we introduced previously .
+The tests imply the following .
+First , the evidence is consistent with our theory , even controlling for the alternative explana- tions .
+Second , the alternative explanations are not ro- bust to the choice of specification : ( 1 ) the coefficients at the GDP per capita and government spending are of- ten not significant , ( 2 ) the coefficient at oil production is not significant once we control for the effect of oil reserves , and ( 3 ) democracy ’ s effect on the quality of governance is not significant .
+Finally , we show that , in line with our theory and contrary to the predictions of the alternative explanations , the relationship between oil and media freedom holds only for nondemocracies .
+CONCLUSION We study determinants of media freedom in nondemo- cratic countries .
+In such societies , a dictator needs an independent source of information on the outcomes of his policies .
+Otherwise , he can not provide incentives for his bureaucracy , which may result in poor eco- nomic performance and eventually cost him his job .
+The independent and competitive media do provide this information , but can not commit not to leak it to the citizens .
+Such leakage undermines the very basis of the nondemocratic regime : the collective action problem in organizing a revolution .
+If the citizens receive a public signal about the poor outcomes of the dictator ’ s poli- cies ( e.g. , with the help of mass media ) , they solve the coordination problem and overthrow the dictator .
+To understand the dictator ’ s choice of the extent of media freedom , we use the variation in resource endowments .
+In resource-rich countries , the value of remaining in office is relatively high , and the need to provide in- centives to bureaucracy is less important .
+Therefore , our theory predicts a negative relationship between re- source abundance and media freedom ; this relationship should be especially strong in less democratic countries .
+Our analysis of panel data for 1993–2007 is consis- tent with the model ’ s predictions .
+It is striking that the relationship between oil and media shows up in such a short time period as 14 years .
+This distinguishes our article from the other literature on the so-called resource curse .
+This literature considers the effect of resource abundance on economic and political insti- tutions ( property rights , political competition , party system , constraints on the executive ) that change very slowly .
+Therefore , studies of these relationships can only be based on cross-sections .
+However , media free- dom is affected almost immediately ( Figure 2 ) , which allows us to run fixed effects regressions .
+We find that the estimates of the magnitude of the effect on media in panel regressions and in cross-sectional regressions are similar .
+More recently , two authoritarian regimes have seem- ingly defied this article ’ s logic : Belarus and China .
+Both are ( relatively ) resource poor and have tightly controlled media , while being apparently successful in terms of economic growth .
+Our model helps us un- derstand these cases .
+Belarus has been receiving sub- stantial support from Russia , mostly in terms of heav- ily subsidized prices for oil and natural gas .
+BRATT ( 2006 ) estimates the direct benefits due to these subsi- dies in terms of oil and gas prices alone to be around 15 % of the Belarussian GDP .
+Essentially , Alexander Lukashenko , the Belarussian president , can afford cen- sorship and heavy reliance on secret service ; support from Russia provides sufficient rents as if Belarus were a resource-rich country.13 In China , the ruling party is facing exactly the same “ Gorbachev ’ s dilemma ” that is the focus of our arti- cle .
+On the one hand , the tight control over the me- dia stands in the way of attempts to improve the bu- reaucratic performance , as the SARS epidemic vividly demonstrated .
+On the other hand , free media would have produced a challenge to the rule of the Chinese Communist Party .
+One way to deal with the informa- tion problem , which has been adopted by the Chi- nese leadership , is to decentralize economic decision making and even to introduce elections at the mu- nicipal and provincial levels .
+China has also recently passed a law requiring a major opening up of govern- ment information to the citizens , somewhat along the lines of the U.S. Freedom of Information Act ( Yardley 2007 ) .
+Both government openness and local elections ( as well as local riots , see Lorentzen 2007 ) 14 provide the central government with relatively reliable infor- mation on the performance of provincial bosses .
+In principle , such mechanisms might prevent nationwide information aggregation , but for the very same rea- son they only partially mitigate the incentive costs of censorship .
+REFERENCES Acemoglu , Daron .
+2003 .
+“ Why Not a Political Case Theorem ?
+So- cial Conflict , Commitment and Politics. ” Journal of Comparative Economics , 31 : 620–52 .
+Acemoglu , Daron .
+2006 .
+“ Modeling Inefficient Institutions. ” In Ad- vances in Economics and Econometrics—Theory and Applica- tions : Ninth World Congress , eds .
+R. Blundell , W. Newey , and T. Persson , 341-80 .
+New York : Cambridge University Press .
+Acemoglu , Daron , and James Robinson .
+2005 .
+Economic Origins of Dictatorship and Democracy .
+New York : Cambridge University Press .
+13 We wrote the first draft of this article before the 2006 presidential elections in Belarus .
+Well in line with our argument , due to the com- plete absence of free media , the opposition failed to gather sufficient number of protesters to overthrow the president .
+Also , the failed attempt demonstrated the tangible risks for revolution participants .
+Many protesters , including both opposition presidential candidates , were arrested and/or beaten up .
+14 See also Lohmann ( 1994 ) , who studies the informational role of the Leipzig demonstrations in 1989–1991 .
+She argues that the demon- strations provided East German citizens with information on the true extent of dissatisfaction with the regime .
+Once this informational task was completed , the demonstrations began to subside .
+666 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 26 Ju l 2 01 9 at 1 7 : 12 :0 3 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 09 99 02 19 American Political Science Review Vol .
+103 , No .
+4 Acemoglu , Daron , James Robinson , and Thierry Verdier .
+2004 .
+“ Kleptocracy and Divide-and-Rule : A Model of Personal Rule. ” The Alfred Marshall Lecture .
+Journal of the European Economic Association Papers and Proceedings 2 : 162–92 .
+Auty , Richard .
+2001 .
+Resource Abundance and Economic Develop- ment .
+Oxford : Oxford University Press .
+Besley , Timothy , and Andrea Prat .
+2006 .
+“ Handcuffs for the Grab- bing Hand ?
+Media Capture and Political Accountability. ” Ameri- can Economic Review 96 ( 3 ) : 720–36 .
+Boschini , Anne , Jan Pettersson , and Jesper Roine .
+2006 .
+“ Resource Curse or Not : A Question of Appropriability. ” Stockholm School of Economics .
+Mimeo .
+Boix , Carles , and Milan Svolik .
+2007 .
+“ The Foundations of Lim- ited Authoritarian Government : Institutions and Power-Sharing in Dictatorships. ” Princeton University .
+Mimeo .
+BRATT .
+2006 .
+“ Russian Money Pipeline to Belarus. ” Belorussian- Russian Analytical Think Tank Report # 6 , March .
+Bueno de Mesquita , Bruce , Alastair Smith , Randolph Silverson , and James Morrow .
+2003 .
+The Logic of Political Survival .
+Cambridge , MA : MIT Press .
+Bueno de Mesquita , Bruce , and George W. Downs .
+2005 .
+“ Develop- ment and Democracy. ” Foreign Affairs 84 ( 5 ) : 77–86 .
+Chehabi , H. E. , and Juan J. Linz .
+1998 .
+Sultanistic Regimes .
+Balti- more : The Johns Hopkins University Press .
+Caselli , Franchesco .
+2006 .
+“ Power Struggle and the Natural Resource Curse. ” London School of Economics .
+Mimeo .
+Chaudhry , Kiren .
+1997 .
+The Price of Wealth .
+Ithaca , NY : Cornell University Press .
+Chwe , Michael .
+2003 .
+Rational Ritual : Culture , Coordination , and Common Knowledge .
+Princeton , NJ : Princeton University Press .
+Debs , Alexandre .
+2007 .
+“ Divide-and-Rule and the Media. ” MIT .
+Mimeo .
+Dunning , Thad .
+2005 .
+Resource Dependence , Economic Perfor- mance , and Political Stability .
+Journal of Conflict Resolution 49 ( 4 ) : 451–82 .
+Dyck , Alexander , and Luigi Zingales .
+2002 .
+“ The Corporate Gov- ernance Role of the Media. ” In The Right to Tell : The Role of the Media in Development , ed .
+R. Islam .
+Washington , DC : World Bank .
+Edmond , Chris .
+2005 .
+“ Information Manipulation , Coordination and Regime Change. ” New York University .
+Mimeo .
+Egorov , Georgy , and Konstantin Sonin .
+n.d. “ Dictators and Their Viziers : Endogenizing the Loyalty-Competence Trade-off. ” Journal of the European Economic Association .
+Forthcoming .
+Evans , Peter B. , and James Rauch .
+1999 .
+“ Bureaucracy and Growth : A Cross-National Analysis of the Effects of ‘ Weberian ’ State Structures on Economic Growth. ” American Sociological Review 64 ( 5 ) : 748–65 .
+Evans , Peter B. , and James Rauch .
+2000 .
+“ Bureaucratic Structure and Bureaucratic Performance in Less Developed Countries. ” Journal of Public Economics 75 : 49–71 .
+Gandhi , Jennifer , and Adam Przeworski .
+2006 .
+“ Cooperation , Cooptation , and Rebellion under Dictatorships. ” Economics and Politics 18 : 1–26 .
+Gehlbach , Scott , and Philip Keefer .
+2006 .
+“ Investment With- out Democracy : Ruling-Party Institutionalization and Credible Commitment in Autocracies. ” University of Wisconsin–Madison .
+Mimeo .
+Gehlbach , Scott , and Konstantin Sonin .
+2008 .
+“ Government Conrol of Media. ” New Economic School .
+Mimeo .
+Gelb , Alan .
+1988 .
+Oil Windfalls : Blessing or Curse ?
+Oxford : Oxford University Press .
+Gentzkow , Matthew , and Jesse M. Shapiro .
+2008 .
+“ Competition and Truth in the Market for News. ” Journal of Economic Perspectives .
+22 ( 2 ) : 133–54 .
+Gylfason , Thorvaldur , Tryggvi Herbertsson , and Gylfi Zoega .
+1999 .
+“ A Mixed Blessing : Natural Resources in an Endogenous Growth Model. ” Macroeconomic Dynamics 3 : 204–25 .
+Hamilton , Kirk , and Michael Clemens .
+1999 .
+“ Genuine Savings Rates in Developing Countries. ” World Bank Economic Review 13 ( 2 ) : 333–56 .
+Hardin , Russel .
+1995 .
+One for All : The Logic of Group Conflict .
+Princeton , NJ : Princeton University Press .
+Herb , Michael .
+2005 .
+“ No Representation Without Taxation ?
+Rents , Development , and Democracy. ” Comparative Politics 37 ( 3 ) : 297– 316 .
+Hill , Fiona .
+2005 .
+Beyond the Colored Revolutions .
+Keynote speech at the 6th Annual Conference of the Central Eurasia Studies Society , Boston .
+Hodler , Roland .
+2006 .
+“ The Curse of Natural Resources in Frac- tionalized Countries. ” European Economic Review 50 : 1367– 86 .
+Jakes , Susan .
+2003 “ Beijing Hoodwinks WHO Inspectors , ” Time , 18 April .
+Jensen , Nathan , and Leonard Wantchekon .
+2004 .
+“ Resource Wealth and Political Regimes in Africa. ” Comparative Political Studies 37 ( 7 ) : 816–41 .
+Karl , Tierry .
+1997 .
+The Paradox of Plenty : Oil Booms and Petro-State .
+Berkeley : University of California Press .
+Kaufmann , Daniel .
+2006 .
+“ Media , Governance and Development .
+Challenging Convention : An Empirical Perspective. ” World Bank Institute .
+Mimeo .
+Krugman , Paul .
+1987 .
+“ The Narrow Moving Band , the Dutch Dis- ease , and the Economic Consequences of Mrs. Thatcher : Notes on Trade in the Presence of Dynamic Economies of Scale. ” Journal of Development Economics 27 ( 1–2 ) : 41–55 .
+Lagunoff , Roger .
+2006 .
+“ Markov Equilibrium in Models of Dy- namic Endogenous Political Institutions. ” Georgetown University .
+Mimeo .
+Lane , Philip , and Aaron Tornell .
+1996 .
+“ Power , Growth and the Voracity Effect. ” Journal of Economic Growth 1 : 213–41 .
+Lenin , Vladimir .
+1921 .
+Lenin : Collected Works .
+Moscow : Progress .
+Lohmann , Susanne .
+1994 .
+“ The Dynamics of Informational Cas- cades : The Monday Demonstrations in Leipzig , 1989–91. ” World Politics 47 : 42–101 .
+Lorentzen , Peter .
+2007 .
+“ Regularized Rioting : The Strategic Tolera- tion of Public Protest in China. ” Stanford University .
+Mimeo .
+Maskin , Eric , and Jean Tirole .
+2001 .
+“ Markov Perfect Equilibrium I. Observable Actions. ” Journal of Economic Theory 100 ( 2 ) : 191– 219 .
+McFaul , Michael .
+2005 .
+“ Transitions from Postcommunism. ” Journal of Democracy 16 ( 3 ) : 5–19 .
+Mehlum , Halvor , Karl Ove Moene , and Ragnar Torvik .
+2006 .
+“ Insti- tutions and the Resource Curse. ” Economic Journal 116 : 1–20 .
+Morrison , Kevin .
+2009 .
+“ Oil , Nontax Revenue , and the Redistribu- tional Foundations of Regime Stability. ” International Organiza- tion 63 : 107–38 .
+North , Douglass .
+1981 .
+Structure and Change in Economic History .
+New York : Norton .
+North , Douglass .
+1991 .
+“ Institutions .
+” Journal of Economic Perspec- tives 5 ( 1 ) : 97–112 .
+Peterson , Glen .
+1997 .
+The Power of Words : Literacy and Revolution in South China , 1949–95 .
+UBC Press .
+Pomfret , John .
+2003 .
+“ Outbreak Gave China ’ s Hu an Opening ; President Responded to Pressure Inside and Outside Country on SARS , ” Washington Post , 13 May .
+Przeworski , Adam , Michael Alvarez , Jose Antonio Cheibub , and Fernando Limongi .
+2000 .
+Democracy and Development : Politi- cal Institutions and Well-Being in the World .
+Cambridge Studies in the Theory of Democracy .
+New York : Cambridge University Press .
+Przeworski , Adam , and Fernando Limongi .
+1993 .
+“ Political Regimes and Economic Growth. ” Journal of Economic Perspectives 7 : 51– 69 .
+Reinikka , Ritva , and Jakob Svensson .
+2005 .
+“ Fighting Corruption to Improve Schooling : Evidence from a Newspaper Campaign in Uganda. ” Journal of European Economic Association 3 ( 2 ) : 259– 67 .
+Ross , Michael .
+2001 .
+“ Does Oil Hinder Democracy ? ” World Politics 53 ( 3 ) : 325–61 .
+Ross , Michael L. 2003 .
+“ The Natural Resource Curse : How Wealth Can Make You Poor. ” In Natural Resources and Violent Conflict : Options and Actions , eds .
+I. Bannon and P. Collier .
+Washington , DC : World Bank , 17–42 .
+Ross , Michael .
+2006 .
+“ A Closer Look at Oil , Diamonds , and Civil War. ” Annual Review of Political Science 9 : 265–300 .
+Sachs , Jeffrey , and Andrew Warner .
+1996 .
+“ Achieving Rapid Growth in the Transition Economies of Central Europe. ” Working Paper 116 .
+Stockholm : SITE .
+Sachs , Jeffrey , and Andrew Warner .
+1997a .
+“ Sources of Slow Growth in African Economies. ” Journal of African Economies 6 ( 3 ) : 335– 76 .
+667 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 26 Ju l 2 01 9 at 1 7 : 12 :0 3 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 09 99 02 19 Why Resource-poor Dictators Allow Freer Media November 2009 Sachs , Jeffrey , and Andrew Warner .
+1997b .
+“ Fundamental Sources of Long Run Growth. ” American Economic Review 87 ( 2 ) : 184–88 .
+Saich , Anthony .
+2003 .
+The Real Fallout from China ’ s Chernobyl , ” Financial Times , 27 May .
+Saich , Anthony .
+2005 .
+“ SARS : China ’ s Chernobyl or Much Ado about Nothing. ” In SARS in China : Prelude to Pandemic , eds .
+A. Kleinman and J. Watson .
+Palo Alto , CA : Stanford University Press , 71–104 .
+Sen , Amartya .
+1999 .
+Development as Freedom .
+Oxford : Oxford Uni- versity Press .
+Shafer , Michael .
+1994 .
+Winners and Losers : How Sectors Shape the Developmental Prospects of States .
+Ithaca , NY : Cornell University Press .
+Smith , Alastair .
+2008 .
+“ Revolutionary Pressures and the Survival of Political Leaders. ” New York University .
+Mimeo .
+Smith , Benjamin .
+2004 .
+“ Oil Wealth and Regime Survival in the De- veloping World , 1960–1999. ” American Journal of Political Science 48 ( 2 ) : 232–46 .
+Snyder , Richard .
+2006 .
+“ Does Lootable Wealth Breed Disorder ?
+A Political Economy of Extraction Framework. ” Comparative Polit- ical Studies 39 ( 8 ) : 943–68 .
+Svaleryd , Helena , and Jonas Vlachos .
+2006 .
+“ Political Rents in a Mature Democracy. ” SITE , Stockholm .
+Mimeo .
+Tilly , Charles .
+1978 .
+From Mobilization to Revolution .
+Reading , MA : Addison-Wesley .
+Tsui , Kevin .
+2005 .
+“ More Oil , Less Democracy ?
+: Theory and Evi- dence from Crude Oil Discoveries. ” The University of Chicago .
+Mimeo .
+Ulfelder , Jay .
+2007 .
+“ Natural-Resource Wealth and the Sur- vival of Autocracy. ” Comparative Political Studies 40 ( 8 ) : 995– 1018 .
+Yardley , Jim .
+2007 .
+“ China Sets Out to Cut Secrecy , But Laws Leave Big Loopholes , ” New York Times , 25 April .
+Wantchekon , Leonard .
+2002 .
+“ Why Do Resource Abundant Coun- tries Have Authoritarian Governments ? ” Journal of African Fi- nance and Economic Development 2 : 57–77 .
+668 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 26 Ju l 2 01 9 at 1 7 : 12 :0 3 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. h tt ps : // do i.o rg /1 0 .
+10 17 /S 00 03 05 54 09 99 02 19

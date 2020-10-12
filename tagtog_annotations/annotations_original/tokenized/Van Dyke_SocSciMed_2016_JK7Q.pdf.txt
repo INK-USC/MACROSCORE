@@ -1,0 +1,522 @@
+Van Dyke_SocSciMed_2016_JK7Q.pdf
+av1ZcR7GzwjYVsGmAmd0paoAjNou-Van_Dyke_SocSciMed_2016_JK7Q.pdf.plain.html
+
+lable at ScienceDirect Social Science & Medicine 153 ( 2016 ) 141e147Contents lists avaiSocial Science & Medicine journal homepage : www.elsevier .com/locate/socscimedSocioeconomic status discrimination is associated with poor sleep in African-Americans , but not Whites Miriam E. Van Dyke a , Viola Vaccarino a , Arshed A. Quyyumi b , Tene T. Lewis a , * a Department of Epidemiology , Rollins School of Public Health , Emory University , 1518 Clifton Rd , NE , Atlanta , GA 30322 , USA b Division of Cardiology , School of Medicine , Emory University , 1462 Clifton Road , NE , Suite 507 , Atlanta , GA 30322 , USAa r t i c l e i n f o Article history : Received 7 September 2015 Received in revised form 18 January 2016 Accepted 8 February 2016 Available online 11 February 2016 Keywords : African-Americans Social discrimination Sleep* Corresponding author .
+Department of Epidemiol Health , Emory University , 1518 Clifton Rd , NE , CNR R USA .
+E-mail addresses : Mvandy2 @ emory.edu ( M.E .
+Va ( V. Vaccarino ) , aquyyum @ emory.edu ( A.A. Quyyu ( T.T .
+Lewis ) .
+http : //dx.doi.org/10.1016/j.socscimed.2016.02.012 0277-9536/© 2016 Elsevier Ltd. All rights reserved.a b s t r a c t Rationale : Research on self-reported experiences of discrimination and health has grown in recent de- cades , but has largely focused on racial discrimination or overall mistreatment .
+Less is known about reports of discrimination on the basis of socioeconomic status ( SES ) , despite the fact that SES is one of the most powerful social determinants of health .
+Objective : We sought to examine the cross-sectional association between self-reported SES discrimi- nation and subjective sleep quality , an emerging risk factor for disease .
+We further examined whether associations differed by race or SES .
+Methods : We used logistic and linear regression to analyze data from a population-based cohort of 425 African-American and White middle-aged adults ( 67.5 % female ) in the Southeastern United States .
+SES discrimination was assessed with a modified Experiences of Discrimination Scale and poor subjective sleep quality was assessed with the Pittsburgh Sleep Quality Index .
+Results : In logistic regression models adjusted for age , gender , and education , reports of SES discrimi- nation were associated with poor sleep quality among African-Americans ( OR ¼ 2.39 95 % , CI ¼ 1.35 , 4.24 ) , but not Whites ( OR ¼ 1.03 , 95 % CI ¼ 0.57 , 1.87 ) , and the race SES discrimination interaction was sig- nificant at p ¼ 0.04 .
+After additional adjustments for reports of racial and gender discrimination , other psychosocial stressors , body mass index and depressive symptoms , SES discrimination remained a sig- nificant predictor of poor sleep among African-Americans , but not Whites .
+In contrast to findings by race , SES discrimination and sleep associations did not significantly differ by SES .
+Conclusion : Findings suggest that reports of SES discrimination may be an important risk factor for subjective sleep quality among African-Americans and support the need to consider the health impact of SES-related stressors in the context of race .
+© 2016 Elsevier Ltd. All rights reserved.1 .
+Introduction In the United States ( U.S. ) there are substantial disparities in health ( Feagin and Bennefield , 2014 ) that disproportionately impact African-Americans and persons of lower socioeconomic status ( SES ) ( Adler and Newman , 2002 ) .
+These disparities have led many to conclude that these groups may have different life expe- riences in comparison to others .
+Research suggests thatogy , Rollins School of Public oom 3027 , Atlanta , GA 30322 n Dyke ) , lvaccar @ emory.edu mi ) , tene.t.lewis @ emory.edudiscrimination , or “ the practice of unfairly treating a person or group of people differently from other people or groups of people ( Merriam-Webster , 2015 ) , ” may be a part of these differential life experiences ( Sennett and Cobb , 1972 ) .
+Self-reported experiences of discrimination are conceptualized as a form of psychosocial stress ( Slopen and Williams , 2014 ) and have been associated with important and costly pre-clinical and clinical endpoints such as breast cancer ( Taylor et al. , 2007 ) , depression ( Schulz et al. , 2006 ) , cardiovascular disease ( Lewis et al. , 2014 ) , asthma ( Coogan et al. , 2014 ) , and obesity ( Hunte and Williams , 2009 ; Lewis et al. , 2011 ) .
+The majority of research on discrimination and health has focused on racial discrimination or overall mistreatment ( Lewis et al. , 2015 ) , but other forms of discrimination , specifically discrimination on the basis of SES , may also be important to consider given the well-documented association between SES and M.E .
+Van Dyke et al .
+/ Social Science & Medicine 153 ( 2016 ) 141e147142health ( Adler and Stewart , 2010 ) .
+SES has been a consistently powerful determinant of health in U.S. society historically and may gain greater significance in future decades as income inequality increases ( Congressional Budget Office , 2011 ) .
+However , SES is related to race ( Braveman , 2005 ) .
+In 2010 , Whites earned twice as much in income and had accumulated six times as much wealth , on average , than their African-American counterparts ( McKernan et al. , 2013 ) .
+Further , research suggests that SES factors may operate differentially in African-Americans compared to Whites , particularly in relation to health ( Williams and Mohammed , 2009 ) .
+In a study examining the association be- tween race , education , and weight change in 2,019 African- American and White women from the Study of Women 's Health Across the Nation ( SWAN ) , educational attainment was associated with lower body mass index ( BMI ) as education level increased among White women , whereas in African-American women , the “ protective ” effect of educational attainment on BMI was not observed ( Lewis et al. , 2005 ) .
+A more recent longitudinal study examining educational attainment and change in inflammation levels among 2,670 African-American and White young adults , aged 18e30 years , found that each additional year of education reported inWhites was associated with a 7-mg/dl lower increase in fibrinogen levels over the 15-year follow-up .
+However , educational attainment was not associated with a lower rate of increase in fibrinogen levels over time in African-Americans ( Fuller-Rowell et al. , 2015 ) .
+Results from these studies in addition to others ( Braveman et al. , 2014 ; LaVeist , 2005 ) suggest that the impact of SES processes on health may differ by race .
+However , most of this research has focused on actual SES indicators .
+Few studies have examined the effect of SES-related stressors , particularly SES discrimination , on health in the context of race .
+Research suggests that African- Americans may be more vulnerable to the health effects of SES- related stressors as compared to Whites , because they have ac- cess to fewer economic , cultural , and social resources to cope with stress from negative SES-related events ( Hardaway and McLoyd , 2009 ; Keene et al. , 2014 ) .
+Thus , the current study was designed to examine the indepen- dent effects of SES discrimination on sleep quality in a cohort of African-American and White middle-aged adults .
+To date , we are aware of only one other study that has examined the association between SES discrimination and any indicator of health .
+In a na- tionally representative sample of 1659 individuals in the United States , Ren , et al .
+( Ren et al. , 1999 ) found independent associations between SES discrimination , racial discrimination and each of their three outcomes : depressive symptoms , general health status , and mental health status .
+However , their cohort was predominantly White ( 86.3 % ) , and they did not control for important confounders ( Hall et al. , 2008 ; Slopen and Williams , 2014 ) , including financial stress , overall stress , and gender discrimination .
+Sleep quality , our outcome of interest , is an emerging risk factor for chronic disease , that has been associated with an increased risk of obesity ( Buxton and Marcelli , 2010 ; Jean-Louis et al. , 2014 ) , stroke ( Qureshi et al. , 1997 ) , diabetes ( Ayas et al. , 2003 ) , cancer ( Marshall et al. , 2014 ) , cardiovascular disease ( Jackson et al. , 2015 ) , and mortality ( Gallicchio and Kalesan , 2009 ) .
+According to the Centers for Disease Control and Prevention ( CDC ) , the lack of quality sleep has become a “ public health epidemic ( Centers for Disease Control and Prevention ) . ” Across studies , African- Americans and lower SES individuals have poorer quality sleep than Whites and higher SES individuals , respectively ( Chen et al. , 2015 ; Patel et al. , 2010 ; Petrov and Lichstein , 2015 ; Piccolo et al. , 2013 ) .
+Additionally , studies suggest that psychosocial stressors eincluding both racial and overall discrimination– may be a risk factor for adverse sleep outcomes ( Lewis et al. , 2013 ; Slopen andWilliams , 2014 ; Thomas et al. , 2006 ; Tomfohr et al. , 2012 ; Vaughn et al. , 2015 ) .
+However , it is currently unknown whether discrimination based on SES is independently associated with sleep quality .
+Based on previous research , we hypothesized that self-reported experiences of SES discrimination would be independently associ- ated with worse subjective sleep quality .
+The need to examine discrimination within the “ larger social context of the multiple stressful exposures within which it is embedded ” ( Williams and Mohammed , 2009 ) has been recommended in recent work ( Lewis et al. , 2015 ) ; thus , we examined whether this association was in- dependent of other stressors ( i.e .
+perceived stress ) , stressors related to socioeconomic status ( i.e .
+financial stress ) as well as other forms of discriminatory stress ( i.e .
+both racial and gender discrimination ) .2 .
+Methods 2.1 .
+Participants Participants were a subset of 469 non-Hispanic African-Amer- ican and White adults from the Morehouse & Emory Team up to Eliminate Cardiovascular Health Disparities ( META-HEALTH ) Study .
+The META-HEALTH study aimed to examine psychosocial , cultural , and biological correlates of cardiovascular health and was a two- stage cross-sectional study of randomly sampled African- American and White males and females ages 30e65 .
+Participants were selected from four distinct Metropolitan Atlanta , GA counties , stratified by county median income to ensure the inclusion of an adequate representation of individuals from varying levels of SES backgrounds .
+During the first stage , from March 2006 to October 2009 , a total of 3,391 participants were contacted using random digit dialing methodology and completed phone interviews .
+Of these , 469 participated in the second stage of the study , which included an extended interview ( with sleep assessment ) and a clinical exam .
+In total , 44 participants were excluded due tomissing information on experiences of SES discrimination and/or subjective sleep quality .
+Our final analytic sample of 425 included 215 African- Americans and 210 Whites , and was 67.5 % female .
+An additional 14 participants were excluded due to missing data on covariates dur- ing analyses .
+This study was approved by the Emory and More- house institutional review boards and all participants provided written informed consent.2.2 .
+Reports of discrimination Experiences of SES-discrimination were measured using a pre- viously modified version of the Experiences of Discrimination Scale ( Krieger et al. , 2005 ) .
+Participants were asked if they had ever “ been prevented from doing something ” , or “ been hassled or made to feel inferior ” because of their SES , in seven different settings : at school , getting a job , at work , getting housing , getting medical care , from the police or in the courts on the street or in a public setting .
+Two additional questionnaires asked about experiences of discrimina- tion in the same seven scenarios , but inquired whether experiences could be attributed to race , or gender , respectively .
+The Experiences of Discrimination scale has been widely used in both African- American and White study populations and has demonstrated high levels of validity and reliability ( Krieger et al. , 2005 ) .
+In the current cohort , discrimination scores were highly skewed , with most participants reporting no or only one experience of discrim- ination ; thus , a dichotomous ever/never variable was created for each type of discrimination ( Hunte and Williams , 2009 ) .
+Table 1 Selected demographic and psychosocial characteristics of African-American and White adults ( N ¼ 425 ) by race in the META-HEALTH study .
+Characteristic African- Americans ( N ¼ 215 ) Whites ( N ¼ 210 ) % Mean ( SD ) % Mean ( SD ) p Age 49.3 ( 9.6 ) 51.6 ( 9.4 ) 0.02 Female 69.8 65.2 0.32 College education 39.5 71.6 < 0.01 Experiences of discrimination Socioeconomic Ever 52.1 31.9 < 0.01 Number of Settings 1.5 ( 2.0 ) 0.71 ( 1.4 ) < 0.01 Racial Ever 71.5 41.4 < 0.01 Number of Settings 2.6 ( 2.2 ) 0.8 ( 1.2 ) < 0.01 Gender Ever 56.1 56.2 0.98 Number of Settings 1.4 ( 1.6 ) 1.3 ( 1.5 ) 0.18 Depressive symptoms 6.7 ( 6.8 ) 6.5 ( 6.9 ) 0.63 Body Mass Index ( kg/m2 ) 31.5 ( 8.1 ) 28.2 ( 6.6 ) < 0.01 Perceived stress 21 ( 7.8 ) 20.4 ( 7.4 ) 0.55 Financial stress 1.5 ( 1.2 ) 0.85 ( 1.1 ) < 0.01 Subjective sleep quality 6.3 ( 3.8 ) 5.1 ( 3.1 ) < 0.01 Poor sleep qualitya 62.8 49.1 < 0.01 Note .
+p-values result from t-tests and Chi-square tests for racial differences .
+META-HEALTH ¼ Morehouse & Emory Team up to Eliminate Cardiovascular Health Disparities ; SD ¼ Standard deviation .
+a Poor Sleep Quality ¼ Scores of 5 and greater on the Pittsburgh Sleep Quality Index .
+M.E .
+Van Dyke et al .
+/ Social Science & Medicine 153 ( 2016 ) 141e147 1432.3 .
+Subjective sleep quality Subjective sleep quality wasmeasuredwith the Pittsburgh Sleep Quality Index ( PSQI ) ( Buysse et al. , 1989 ) , a 19-item questionnaire that measures aspects of sleep over the preceding month .
+Ques- tions inquire about sleep duration , sleep disturbance , sleep latency ( time spent falling asleep ) , dysfunction during the day due to sleepiness ( i.e .
+trouble staying awake while driving ) , sleep effi- ciency ( time in bed spent asleep ) , and sleep medication use .
+Composite scores on the PSQI range from 0 to 21 , with higher scores indicating lower quality sleep and more sleep complaints .
+The PSQI has been widely used across study populations with good validity and high test-retest reliability ( Backhaus et al. , 2002 ) .
+Scores of 5 and greater on the PSQI indicate poor sleep quality ( Buysse et al. , 1989 ) .
+2.4 .
+Demographics Age in years , race ( non-Hispanic African-American , non-His- panic White ) , and gender were all assessed via self-report .
+Educa- tion was used as an indicator of SES because it remains fairly constant throughout adulthood , is believed to be a major deter- minant of SES , and is less likely than other measures of SES ( e.g .
+income , wealth ) to have a large amount of missing values ( Krieger et al. , 1997 ) .
+Education was self-reported , and a dichotomous col- lege education/no college education variable was created based upon the distribution of education in the sample .
+Those who re- ported completing at least a college education were considered to be in the high SES category , and those not reporting the completion of a college education were considered to be in the low SES category .
+2.5 .
+Covariates Covariates including BMI , depressive symptoms , financial stress and perceived stress were selected based on previous literature identifying them as conceptual or empirical correlates of discrim- ination and/or sleep ( Hall et al. , 2008 ; Slopen and Williams , 2014 ; Tomfohr et al. , 2012 ) .
+BMI was calculated utilizing measured height and weight ( BMI ¼ weight ( kg ) /height ( m2 ) ) and was assessed during the clinic visit .
+Depressive symptoms were assessed with the Beck Depression Inventory-II ( BDI-II ) ( Beck et al. , 1961 ) , a 21-item questionnaire assessing depressive symptoms in the past twoweeks .
+The question assessing sleep quality in the BDI- II was removed for the purposes of these analyses and a composite BDI-II score was calculated by summing the remaining questions with a potential range of 0e60 .
+Perceived stress was assessed via the Perceived Stress Scale , a valid and reliable 14-item scale measuring global feelings of stress ( Cohen et al. , 1983 ) , with possible scores ranging from 0 to 56 .
+Financial stress was measured using three questions examining stress related to paying for food , medical care , or bills .
+Those reporting financial stress once in a while , fairly often , or very often were given a score of 1 for each respective question , and responses were summed to create an ordinal measure ranging from 0 to 3 .
+2.6 .
+Statistical analysis Descriptive and correlation analyses were conducted to char- acterize study variables by race in our sample .
+Race- and SES- stratified regression analyses were conducted to examine the as- sociation between reports of SES discrimination and subjective sleep quality .
+We ran stratified models based on prior research noting the differential impact of SES-related processes on African- Americans compared to Whites ( Fuller-Rowell et al. , 2015 ; LaVeist , 2005 ; Lewis et al. , 2005 ) and the potential salience of SES discrimination as a stressor for lower SES individuals ( Lauderdale et al. , 2006 ; Myers , 2009 ) .
+Logistic regression models were used to model subjective sleep quality as a dichotomous outcome , and linear regression models were used tomodel continuous subjective sleep quality scores .
+Models were adjusted for age , gender ( Step 1 ) , reports of racial and gender discrimination ( Step 2 ) , BMI , perceived stress , financial stress ( Step 3 ) , and depressive symptoms ( Step 4 ) .
+In addition to those covariates , education was adjusted for in race- stratified models , and race was adjusted for in SES-stratified models in Step 1 .
+We also formally tested for race SES discrimi- nation and SES SES discrimination interactions in minimally and fully adjusted non-stratified logistic and linear models .
+Finally , because participants reporting SES discrimination may be more likely to also report other forms of discrimination ( i.e .
+racial or gender discrimination ) , we tested for multicollinearity .
+All analyses were conducted using SAS software version 9.4 ( SAS Institute , Inc. , Cary , NC , USA ) .
+An alpha level of 0.05 was used for all analyses.3 .
+Results 3.1 .
+Participant characteristics Descriptive statistics of the analytic sample are presented in Table 1 .
+In comparison toWhites , African- Americans were younger ( p ¼ 0.02 ) , less likely to be college educated ( p < 0.01 ) and more likely to report SES and racial discrimination overall and in a greater number of settings ( p < 0.01 ) .
+African-Americans also reported worse subjective sleep quality ( p < 0.01 ) , had a higher BMI ( p < 0.01 ) and were more likely to report financial stress ( p < 0.01 ) than their White counterparts .
+In correlation analyses ( Supplementary Tables 1 and 2 ) , racial and gender discrimination were moderately correlated with SES discrimination in both races ( rs ¼ 0.29 to 0.46 ; all p-values < 0.001 ) .
+Table 3 Fully adjusted logistic regression model examining the Association between SES discrimination and subjective sleep qualitya stratified by race .
+Predictor African-Americans ( N ¼ 206 ) Whites ( N ¼ 205 ) OR , 95 % CI OR , 95 % CI SES Discrimination 2.32 ( 1.14 , 4.72 ) 0.60 ( 0.28 , 1.29 ) Education ( College ) 0.83 ( 0.42 , 1.63 ) 0.41 ( 0.20 , 0.83 ) Age 1.00 ( 0.96 , 1.03 ) 0.99 ( 0.96 , 1.03 ) Gender 0.93 ( 0.46 , 1.87 ) 1.19 ( 0.57 , 2.49 ) Racial Discrimination 0.68 ( 0.30 , 1.57 ) 1.42 ( 0.70 , 2.90 ) Gender Discrimination 0.77 ( 0.37 , 1.60 ) 1.50 ( 0.69 , 3.10 ) Body Mass Indexb 1.00 ( 0.96 , 1.03 ) 0.97 ( 0.92 , 1.02 ) Perceived Stress 1.04 ( 0.99 , 1.09 ) 1.03 ( 0.98 , 1.09 ) Financial Stress 1.17 ( 0.87 , 1.57 ) 0.82 ( 0.59 , 1.15 ) Depressive Symptoms 1.08 ( 1.01 , 1.15 ) 1.16 ( 1.08 , 1.24 ) Abbreviations : CI ¼ Confidence Interval ; META-HEALTH ¼ Morehouse & Emory Team up to Eliminate Cardiovascular Health Disparities ; OR ¼ Odds Ratio ; SES ¼ Socioeconomic status .
+a Poor Sleep Quality ¼ Scores of 5 and greater on the Pittsburgh Sleep Quality Index .
+b Body Mass Index ¼ weight ( in kg ) /height ( in m2 ) .
+M.E .
+Van Dyke et al .
+/ Social Science & Medicine 153 ( 2016 ) 141e1471443.2 .
+Primary analyses In race-stratified , fully-adjusted logistic regression models ( Table 2 ) , African-Americans reporting SES discrimination were significantly more likely to have poor sleep quality ( PSQI scores 5 and greater ) than African-Americans not reporting SES discrimi- nation ( OR ¼ 2.32 , 95 % Confidence Interval [ CI ] ¼ 1.14e4.72 ) .
+However , no significant association between reports of SES discrimination and sleep quality was observed within Whites ( OR ¼ 0.60 , 95 % CI ¼ 0.28e1.29 ) ( Table 2 ) .
+The race SES discrimination interaction was significant in the age , gender and education adjusted model ( p ¼ 0.04 ) , but was reduced to marginal significance in the fully-adjustedmodel ( p¼ 0.06 ) .
+In fully adjusted , race-stratified models , the only other significant covariate in the final logistic models for African-Americans was depressive symp- toms .
+None of the other stress-related variables ( including racial discrimination ) were significant for African-Americans ( Table 3 ) .
+For Whites , only education and depressive symptoms were signif- icant covariates in the final logistic model ( Table 3 ) .
+Results from race-stratified , linear regression models with subjective sleep quality as a continuous variable were similar to those observed in logistic models .
+Self-reported SES discrimination was significantly associated with worse subjective sleep quality in African-Americans after adjustment for age , gender and education ( b ¼ 1.58 , p < 0.01 ) .
+The association remained significant after adjustment for racial and gender discrimination , BMI , financial stress , and perceived stress ( b ¼ 1.49 , p < 0.01 ) .
+After further adjustment for depressive symptoms , the association was reduced to marginal significance ( b ¼ 1.04 , p ¼ 0.06 ) .
+Again , no significant association between reports of SES discrimination and sleep quality was observed in Whites in linear models after adjustment for de- mographics and other forms of discrimination ( b ¼ 0.27 , p ¼ 0.59 ) ; the race SES discrimination interaction term , however , was not significant ( p ¼ 0.24 ) .
+No consistent or significant associations emerged in SES- stratified logistic or linear regression models ( data available upon request ) , and the SES SES discrimination interaction was not significant in non-stratified , fully-adjusted logistic or linear regression models ( p ¼ 0.74 , p ¼ 0.90 ) , respectively .
+Multi- collinearity was not observed.Table 2 Logistic regression models examining Association between SES discrimination and poor META-HEALTH study .
+Model Model 1 SES Discrimination Crude association , no adjustments Model 2 SES Discrimination Adjusted for age , gender , and education Model 3 SES Discrimination Adjusted for model 2 covariates þ racial and gender discrimination Model 4 SES Discrimination Adjusted for model 3 covariates þ body mass index , financial stress , and perceived str Model 5 SES Discrimination Adjusted for model 4 covariates þ depressive symptoms Abbreviations : CI ¼ Confidence Interval ; META-HEALTH ¼ Morehouse & Emory SES ¼ Socioeconomic status .
+a Poor Sleep Quality ¼ Scores of 5 and greater on the Pittsburgh Sleep Quality Index.3.3 .
+Exploratory analyses Given our significant findings for SES discrimination among African-Americans only , we ran exploratory descriptive analyses to better understand racial differences in SES discrimination ( Supplementary Table 3 ) .
+These analyses were stratified by SES , in order to determine whether the low-SES African-Americans were driving the elevated reports of SES discrimination among this group .
+In comparison to Whites without a college degree , African- Americans without a college degree were significantly more likely to report SES discrimination in only 1 out of 7 settings , with 3 additional settings reaching marginal significance .
+However , among college-educated participants , African-Americans were significantly more likely to report SES discrimination than their White counterparts in 6 out of 7 settings ( Supplementary Table 3 ) .4 .
+Discussion In this population-based cohort of African-American and White Adults , reports of SES discrimination were independently associ- ated with poor sleep quality among African-Americans , but notsubjective sleep qualitya by race among African-American and White adults in the African-Americans Whites OR , 95 % CI N OR , 95 % CI N 2.37 ( 1.35 , 4.18 ) 215 1.11 ( 0.62 , 1.97 ) 210 2.39 ( 1.35 , 4.24 ) 215 1.03 ( 0.57 , 1.87 ) 208 2.68 ( 1.38 , 5.19 ) 213 0.77 ( 0.40 , 1.50 ) 208 2.68 ( 1.34 , 5.37 ) 207 0.76 ( 0.37 , 1.55 ) 205 ess 2.32 ( 1.14 , 4.72 ) 206 0.60 ( 0.28 , 1.29 ) 205 Team up to Eliminate Cardiovascular Health Disparities ; OR ¼ Odds Ratio ; M.E .
+Van Dyke et al .
+/ Social Science & Medicine 153 ( 2016 ) 141e147 145Whitesdeven after controlling for important confounding factors .
+Thus , consistent with research on other SES-related stressors ( Szanton et al. , 2008 ) , our results suggest that African-Americans may be more vulnerable to the effects of SES-discrimination on health than their White counterparts .
+In descriptive analyses , we found that African-Americans , regardless of SES , were significantly more likely to report SES discrimination and reported SES discrimination in more settings than Whites .
+Consequently , educational attainment appeared to be protective against reports of SES discrimination for Whites , but not African-Americans .
+This is in line with prior work , which argues that middle-class African-Americans may be less likely to benefit from higher SES due to their race ( Cose , 1993 ; Feagin and Sikes , 1994 ; Jackson and Williams , 2006 ) .
+In a recent study of 41,088 African-American and White adults from the National Health Interview Survey , Jackson and colleagues ( Jackson et al. , 2013 ) found that with increasing occupational prestige , the prevalence of short sleep decreased amongWhites , but increased among African-Americans , such that African-Americans from higher SES backgrounds had worse sleep than African-Americans from lower SES backgrounds .
+Although not the primary focus of our analyses , we observed similar findings .
+In race-stratified logistic regression models , edu- cation was protective against poor sleep in Whites , but was not significantly associated with poor sleep in African-Americans .
+Thus , SES discrimination was a stronger correlate of poor sleep than actual SES in our sample for African-Americans .
+It is unclear why the association between SES discrimination and sleep was stronger than the association between racial discrimination and sleep for African-Americans in our cohort .
+One possible explanation relates to the very strong link between race and SES in U.S. society .
+Because race and class are highly correlated ( Braveman , 2005 ) , it is possible that even high SES African- Americans are frequently assumed to be lower SES and thus experience ( and are impacted by ) SES discrimination in a range of contexts more frequently than their White counterparts .
+Therefore , these individuals would actually be experiencing SES-related discrimination ( e.g .
+in stores and restaurants ) , but the assump- tions underlying the perception of them as low SES would be pri- marily driven by their race .
+Similarly , it is also possible that African-Americans are actually experiencing racial discrimination , but are misattributing these experiences of racial discrimination to SES .
+Prior research ( Levin et al. , 2002 ) suggests that attributes of discrimination may be confused when study participants hold multiple statuses ( i.e. , African-American and perceived or actual low SES ) , so it is possible that the African-Americans reporting SES discrimination in our cohort are attributing mistreatment to SES discrimination even when it could be partially due to racial discrimination .
+The mod- erate to strong correlation between reports of racial and SES discrimination in this study provide some support for this concept , suggesting that SES discrimination and racial discrimination may be interconnected .
+Yet , our finding that reports of SES discrimina- tion were significantly associated with sleep quality in African- Americans independent of reports of racial discrimination sug- gests that SES discrimination may be an important form of discrimination to consider in future studies .
+In exploratory analyses , we found that college educated African- Americans reported more SES discrimination than college- educated Whites .
+It is possible that SES discrimination is more salient for African-Americans compared to Whites because even at similar levels of education and occupational prestige , African- Americans have less wealth and fewer financial resources than their White counterparts ( LaVeist , 2005 ; McKernan et al. , 2013 ) .
+Childhood SES may also play a role .
+Heflin and Patillo found that African-Americans who were considered to be middle-class werefour times more likely to have come from a poor background than their White middle-class counterparts ( Heflin and Patillo , 2006 ) .
+Thus , it may be that the college-educated African-Americans reporting SES discrimination in this study weremore likely to come from a low SES childhood background in comparison to college- educated Whites ( Hardaway and McLoyd , 2009 ) .
+While informa- tion on childhood SES was not available in this cohort , childhood SES may be an important confounding factor to consider in the context of our study as evidence suggests that childhood SES is associated with sleep outcomes ( Tomfohr et al. , 2010 ) .
+Given our exploratory descriptive findings among high SES African-Americans , we also conducted exploratory regression models stratified by high and low SES for African-Americans and Whites , separately , to further examine associations among race , SES , SES discrimination and sleep quality .
+This analysis was done because results from at least one prior study suggest that discrimination may have a differential impact on health among higher SES African-Americans ( Fuller-Rowell et al. , 2012 ) .
+Consis- tent with this notion , a significant association between reports of SES discrimination and sleep quality emerged for high SES African- Americans in our cohort in exploratory analyses , although it was attenuated once depressive symptoms were controlled for .
+Reports of both racial and overall discrimination have been consistently associated with depressive symptoms in prior studies ( Barnes et al. , 2004 ; Lewis et al. , 2013 ) .
+Thus , some have argued that individuals with symptoms of depression may simply be over-reporting discrimination .
+However , prospective studies have found that discrimination typically precedes depressive symptoms ( Brody et al. , 2006 ; Brown et al. , 2000 ; Schulz et al. , 2006 ) .
+However , because these analyses were largely exploratory in nature , these results should be interpreted with some caution .
+Additional research is needed to fully understand the associations among SES discrimination , depressive symptoms , and physical health out- comes among college-educated African-American adults.4.1 .
+Limitations First , while it is the most widely usedmethodology for assessing discrimination , our primary exposure , reports of discrimination , was self-reported which may need to be considered when inter- preting results ( Lewis et al. , 2015 ) .
+Sleep quality was also self- reported .
+Although there is evidence in the sleep literature that objective and subjective forms of sleep quality are similarly corre- lated with discrimination ( Lewis et al. , 2013 ) , the use of objective measures , such as polysomnography , or actigraphy , is preferred .
+Further , the PSQI does not measure regular sleep schedules .
+Research suggests that a regular sleep schedule may be important for health ( Buysse , 2014 ) , and future studies should consider the association between discrimination and sleep timing and regular- ity .
+Second , the cross-sectional nature of our study limits the ability of causal inference of the effect of reports of SES discrimination on sleep quality .
+Further , reports of discrimination involved “ ever ” reporting discrimination , while self-reports of sleep reflected the past month ; thus , the temporal dynamics around this cross- sectional association are unclear .
+Third , since our sample was relatively small , there may have been low power for detecting in- teractions between race or SES and reports of SES discrimination in our study .
+Finally , although the META-HEALTH study sample is population-based and consists of a cohort that is nearly half African-American , it is comprised of only non-Hispanic African- Americans and Whites from four counties in Georgia .
+This poten- tially weakens the ability to generalize the results of this study to other racial/ethnic groups and populations in other geographic locations .
+M.E .
+Van Dyke et al .
+/ Social Science & Medicine 153 ( 2016 ) 141e1471465 .
+Conclusions To our knowledge , this is the first study to examine the associ- ation between reports of SES discrimination and sleep quality .
+In this sample of non-Hispanic African-American and White men and women from a population based cohort , reports of SES discrimi- nation were independently associated with reports of poor sleep quality in African-Americans , but notWhites .
+These findings add to the growing literature documenting the effects of SES-related stressors on health among African-Americans ( Simons et al. , 2016 ) .
+Additionally , although replication is needed , our findings expand upon the current discrimination and sleep literature by incorporating SES discrimination as a factor independently asso- ciated with adverse sleep quality .
+Thus , SES discrim- inationeparticularly in the context of racedmay be an important psychosocial construct and SES-related stressor to consider in future public health research and policy .
+Acknowledgments This study was supported by the following funding : NIH/NHLBI 1 U01 HL79214-01 ; NIH/NHLBI 1 U01 HL079156-01 ; M01- RR00039 ; NIH/NCRR 5P20RR11104 ; NIH/NCRR 5U54RR022814 .
+TT Lewis was supported by NIH/NHLBI K01HL92591 .
+V Vaccarino was supported by NIH/NHLBI K24 HL077506 .
+We would like to thank the META-HEALTH study participants and staff .
+Appendix A .
+Supplementary data Supplementary data related to this article can be found at http : // dx.doi.org/10.1016/j.socscimed.2016.02.012 .
+References Adler , N.E. , Newman , K. , 2002 .
+Socioeconomic disparities in health : pathways and policies .
+Health Aff .
+( Millwood ) 21 ( 2 ) , 60e76 .
+Adler , N.E. , Stewart , J. , 2010 .
+Preface to the biology of disadvantage : socioeconomic status and health .
+Ann .
+N. Y. Acad .
+Sci .
+1186 , 1e4 .
+http : //dx.doi.org/10.1111/ j.1749-6632.2009.05385.x .
+Ayas , N.T. , White , D.P. , Al-Delaimy , W.K. , Manson , J.E. , Stampfer , M.J. , Speizer , F.E. , Hu , F.B. , 2003 .
+A prospective study of self-reported sleep duration and incident diabetes in women .
+Diabetes Care 26 ( 2 ) , 380e384 .
+Backhaus , J. , Junghanns , K. , Broocks , A. , Riemann , D. , Hohagen , F. , 2002 .
+Test-retest reliability and validity of the Pittsburgh Sleep Quality Index in primary insomnia .
+J. Psychosom .
+Res .
+53 ( 3 ) , 737e740 .
+Barnes , L.L. , Mendes De Leon , C.F. , Wilson , R.S. , Bienias , J.L. , Bennett , D.A. , Evans , D.A. , 2004 .
+Racial differences in perceived discrimination in a commu- nity population of older blacks and whites .
+J .
+Aging Health 16 ( 3 ) , 315e337 .
+http : //dx.doi.org/10.1177/0898264304264202 .
+Beck , A. , Ward , C. , Mendelson , M. , Mock , J. , Erbaugh , J. , 1961 .
+An inventory for measuring depression .
+Arch .
+Gen. Psychiatry 4 , 561e571 .
+Braveman , P. , 2005 .
+The question is not : “ is race or class more important ? ” .
+J. Epidemiol .
+Community Health 59 ( 12 ) , 1029 .
+Braveman , P. , Heck , K. , Egerter , S. , Marchi , K.S. , Dominguez , T.P. , Cubbin , C. , Curtis , M. , 2014 .
+The role of socioeconomic factors in black-white disparities in preterm birth .
+Am .
+J .
+Public Health e1ee9 .
+http : //dx.doi.org/10.2105/ AJPH.2014.302008 .
+Brody , G.H. , Chen , Y.F. , Murry , V.M. , Ge , X. , Simons , R.L. , Gibbons , F.X. , Cutrona , C.E. , 2006 .
+Perceived discrimination and the adjustment of African American youths : a five-year longitudinal analysis with contextual moderation effects .
+Child .
+Dev .
+77 ( 5 ) , 1170e1189 .
+http : //dx.doi.org/10.1111/j.1467-8624.2006.00927.x .
+Brown , T. , Williams , D. , Jackson , J. , Neighbors , H. , Torres , M. , Sellers , S. , Brown , K. , 2000 .
+Being black and feeling blue ” : the mental health consequences of racial discrimination .
+Race Soc .
+2 ( 2 ) , 117e131 .
+Buxton , O.M. , Marcelli , E. , 2010 .
+Short and long sleep are positively associated with obesity , diabetes , hypertension , and cardiovascular disease among adults in the United States .
+Soc .
+Sci .
+Med .
+71 ( 5 ) , 1027e1036 .
+http : //dx.doi.org/10.1016/ j.socscimed.2010.05.041 .
+Buysse , D.J. , 2014 .
+Sleep health : can we define it ?
+Does it matter ?
+Sleep 37 ( 1 ) , 9e17 .
+http : //dx.doi.org/10.5665/sleep.3298 .
+Buysse , D.J. , Reynolds , C.F. , Monk , T.H. , Berman , S.R. , Kupfer , D.J. , 1989 .
+The Pitts- burgh Sleep Quality Index : a new instrument for psychiatric practice and research .
+Psychiatry Res .
+28 ( 2 ) , 193e213 .
+Centers for Disease Control and Prevention .
+Insufficient Sleep is a Public HealthEpidemic .
+from .
+http : //www.cdc.gov/features/dssleep/ .
+Chen , X. , Wang , R. , Zee , P. , Lutsey , P.L. , Javaheri , S. , Alcantara , C. , Redline , S. , 2015 .
+Racial/ethnic differences in sleep disturbances : the multi-ethnic study of atherosclerosis ( MESA ) .
+Sleep 38 ( 6 ) , 877e888 .
+http : //dx.doi.org/10.5665/ sleep.4732 .
+Cohen , S. , Kamarck , T. , Mermelstein , R. , 1983 .
+A global measure of perceived stress .
+J .
+Health Soc .
+Behav .
+24 ( 4 ) , 385e396 .
+Congressional Budget Office , 2011 .
+Trends in the Distribution of Household Income between 1979 and 2007 .
+Coogan , P.F. , Yu , J. , O'Connor , G.T. , Brown , T.A. , Cozier , Y.C. , Palmer , J.R. , Rosenberg , L. , 2014 .
+Experiences of racism and the incidence of adult-onset asthma in the Black Women 's Health Study .
+Chest 145 ( 3 ) , 480e485 .
+http : //dx.doi.org/ 10.1378/chest.13-0665 .
+Cose , E. , 1993 .
+The Rage of a Privileged Class .
+Harper Collins .
+Feagin , J. , Bennefield , Z. , 2014 .
+Systemic racism and U.S. health care .
+Soc .
+Sci .
+Med .
+103 , 7e14 .
+http : //dx.doi.org/10.1016/j.socscimed.2013.09.006 .
+Feagin , J. , Sikes , M. , 1994 .
+Living with Racism .
+The Black Middle-class Experience .
+Beacon Press Books .
+Fuller-Rowell , T.E. , Curtis , D.S. , Doan , S.N. , Coe , C.L. , 2015 .
+Racial disparities in the health benefits of educational attainment : a study of inflammatory trajectories among African American and white adults .
+Psychosom .
+Med .
+77 ( 1 ) , 33e40 .
+http : //dx.doi.org/10.1097/PSY.0000000000000128 .
+Fuller-Rowell , T.E. , Doan , S.N. , Eccles , J.S. , 2012 .
+Differential effects of perceived discrimination on the diurnal cortisol rhythm of African Americans and Whites .
+Psychoneuroendocrinology 37 ( 1 ) , 107e118 .
+http : //dx.doi.org/10.1016/ j.psyneuen.2011.05.011 .
+Gallicchio , L. , Kalesan , B. , 2009 .
+Sleep duration and mortality : a systematic review and meta-analysis .
+J .
+Sleep .
+Res .
+18 ( 2 ) , 148e158 .
+http : //dx.doi.org/10.1111/ j.1365-2869.2008.00732.x .
+Hall , M. , Buysse , D.J. , Nofzinger , E.A. , Reynolds , C.F. , Thompson , W. , Mazumdar , S. , Monk , T.H. , 2008 .
+Financial strain is a significant correlate of sleep continuity disturbances in late-life .
+Biol .
+Psychol .
+77 ( 2 ) , 217e222 .
+http : //dx.doi.org/ 10.1016/j.biopsycho.2007.10.012 .
+Hardaway , C.R. , McLoyd , V.C. , 2009 .
+Escaping poverty and securing middle class status : how race and socioeconomic status shape mobility prospects for African Americans during the transition to adulthood .
+J .
+Youth Adolesc .
+38 ( 2 ) , 242e256 .
+http : //dx.doi.org/10.1007/s10964-008-9354-z .
+Heflin , C.M. , Patillo , M. , 2006 .
+Poverty in the family : race , siblings , and socioeco- nomic heterogeneity .
+Soc .
+Sci .
+Res .
+35 ( 4 ) , 804e822 .
+Hunte , H.E. , Williams , D.R. , 2009 .
+The association between perceived discrimination and obesity in a population-based multiracial and multiethnic adult sample .
+Am .
+J .
+Public Health 99 ( 7 ) , 1285e1292 .
+http : //dx.doi.org/10.2105/ AJPH.2007.128090 .
+Jackson , C.L. , Redline , S. , Emmons , K.M. , 2015 .
+Sleep as a potential fundamental contributor to disparities in cardiovascular health .
+Annu .
+Rev .
+Public Health 36 , 417e440 .
+http : //dx.doi.org/10.1146/annurev-publhealth-031914-122838 .
+Jackson , C.L. , Redline , S. , Kawachi , I. , Williams , M.A. , Hu , F.B. , 2013 .
+Racial disparities in short sleep duration by occupation and industry .
+Am .
+J. Epidemiol .
+178 ( 9 ) , 1442e1451 .
+http : //dx.doi.org/10.1093/aje/kwt159 .
+Jackson , P.B. , Williams , D. , 2006 .
+The intersection of race , gender , and SES : : health paradoxes .
+In : Gender , Race , Class , & Health : Intersectional Approaches .
+Jossey- Bass , San Francisco , CA .
+Jean-Louis , G. , Williams , N.J. , Sarpong , D. , Pandey , A. , Youngstedt , S. , Zizi , F. , Ogedegbe , G. , 2014 .
+Associations between inadequate sleep and obesity in the US adult population : analysis of the national health interview survey ( 1977- 2009 ) .
+BMC Public Health 14 ( 1 ) , 290. http : //dx.doi.org/10.1186/1471-2458-14- 290 .
+Keene , D.E. , Lynch , J.F. , Baker , A.C. , 2014 .
+Fragile health and fragile wealth : mortgage strain among African American homeowners .
+Soc .
+Sci .
+Med .
+118 , 119e126 .
+http : //dx.doi.org/10.1016/j.socscimed.2014.07.063 .
+Krieger , N. , Smith , K. , Naishadham , D. , Hartman , C. , Barbeau , E.M. , 2005 .
+Experiences of discrimination : validity and reliability of a self-report measure for population health research on racism and health .
+Soc .
+Sci .
+Med .
+61 ( 7 ) , 1576e1596 .
+http : // dx.doi.org/10.1016/j.socscimed.2005.03.006 .
+Krieger , N. , Williams , D.R. , Moss , N.E. , 1997 .
+Measuring social class in US public health research : concepts , methodologies , and guidelines .
+Annu .
+Rev .
+Public Health 18 , 341e378 .
+http : //dx.doi.org/10.1146/annurev.publhealth.18.1.341 .
+Lauderdale , D.S. , Knutson , K.L. , Yan , L.L. , Rathouz , P.J. , Hulley , S.B. , Sidney , S. , Liu , K. , 2006 .
+Objectively measured sleep characteristics among early-middle-aged adults : the CARDIA study .
+Am .
+J. Epidemiol .
+164 ( 1 ) , 5e16 .
+http : //dx.doi.org/ 10.1093/aje/kwj199 .
+LaVeist , T.A. , 2005 .
+Disentangling race and socioeconomic status : a key to under- standing health inequalities .
+J .
+Urban Health 82 ( 2 Suppl .
+3 ) , iii26eiii34 .
+http : // dx.doi.org/10.1093/jurban/jti061 .
+Levin , S. , Sinclair , S. , Veniegas , R.C. , Taylor , P.L. , 2002 .
+Perceived discrimination in the context of multiple group memberships .
+Psychol .
+Sci .
+13 ( 6 ) , 557e560 .
+Lewis , T.T. , Cogburn , C.D. , Williams , D.R. , 2015 .
+Self-reported experiences of discrimination and health : scientific advances , ongoing controversies , and emerging issues .
+Annu .
+Rev .
+Clin .
+Psychol .
+http : //dx.doi.org/10.1146/annurev- clinpsy-032814-112728 .
+Lewis , T.T. , Everson-Rose , S.A. , Sternfeld , B. , Karavolos , K. , Wesley , D. , Powell , L.H. , 2005 .
+Race , education , and weight change in a biracial sample of women at midlife .
+Arch .
+Intern Med .
+165 ( 5 ) , 545e551 .
+http : //dx.doi.org/10.1001/ archinte.165.5.545 .
+Lewis , T.T. , Kravitz , H.M. , Janssen , I. , Powell , L.H. , 2011 .
+Self-reported experiences of M.E .
+Van Dyke et al .
+/ Social Science & Medicine 153 ( 2016 ) 141e147 147discrimination and visceral fat in middle-aged African-American and Caucasian women .
+Am .
+J. Epidemiol .
+173 ( 11 ) , 1223e1231 .
+http : //dx.doi.org/10.1093/aje/ kwq466 .
+Lewis , T.T. , Troxel , W.M. , Kravitz , H.M. , Bromberger , J.T. , Matthews , K.A. , Hall , M.H. , 2013 .
+Chronic exposure to everyday discrimination and sleep in a multiethnic sample of middle-aged women .
+Health Psychol .
+32 ( 7 ) , 810e819 .
+http : // dx.doi.org/10.1037/a0029938 .
+Lewis , T.T. , Williams , D.R. , Tamene , M. , Clark , C.R. , 2014 .
+Self-reported experiences of discrimination and cardiovascular disease .
+Curr .
+Cardiovasc Risk Rep. 8 ( 1 ) , 365. http : //dx.doi.org/10.1007/s12170-013-0365-2 .
+Marshall , N.S. , Wong , K.K. , Cullen , S.R. , Knuiman , M.W. , Grunstein , R.R. , 2014 .
+Sleep apnea and 20-year follow-up for all-cause mortality , stroke , and cancer inci- dence and mortality in the busselton health study cohort .
+J. Clin .
+Sleep .
+Med .
+10 ( 4 ) , 355e362 .
+http : //dx.doi.org/10.5664/jcsm.3600 .
+McKernan , S.-M. , Ratcliffe , C. , Steuerle , C.E. , Zhang , S. , 2013 .
+Less than Equal : Racial Disparities in Wealth Accumulation .
+Merriam-Webster , 2015 .
+Discrimination , from .
+http : //www.merriam-webster.com/ dictionary/discrimination .
+Myers , H.F. , 2009 .
+Ethnicity- and socio-economic status-related stresses in context : an integrative review and conceptual model .
+J. Behav .
+Med .
+32 ( 1 ) , 9e19 .
+http : // dx.doi.org/10.1007/s10865-008-9181-4 .
+Patel , N.P. , Grandner , M.A. , Xie , D. , Branas , C.C. , Gooneratne , N. , 2010 .
+Sleep disparity ” in the population : poor sleep quality is strongly associated with poverty and ethnicity .
+BMC Public Health 10 , 475. http : //dx.doi.org/10.1186/ 1471-2458-10-475 .
+Petrov , M. , Lichstein , K. , 2015 .
+Difference between sleep in black and white adults : an update and future directions .
+Sleep .
+Med .
+http : //dx.doi.org/doi : 10.1016/j .
+sleep.2015.01.011 .
+Piccolo , R.S. , Yang , M. , Bliwise , D.L. , Yaggi , H.K. , Araujo , A.B. , 2013 .
+Racial and so- cioeconomic disparities in sleep and chronic disease : results of a longitudinal investigation .
+Ethn .
+Dis .
+23 ( 4 ) , 499e507 .
+Qureshi , A.I. , Giles , W.H. , Croft , J.B. , Bliwise , D.L. , 1997 .
+Habitual sleep patterns and risk for stroke and coronary heart disease : a 10-year follow-up from NHANES I. Neurology 48 ( 4 ) , 904e911 .
+Ren , X.S. , Amick , B.C. , Williams , D.R. , 1999 .
+Racial/ethnic disparities in health : the interplay between discrimination and socioeconomic status .
+Ethn .
+Dis .
+9 ( 2 ) ,151e165 .
+Schulz , A.J. , Gravlee , C.C. , Williams , D.R. , Israel , B.A. , Mentz , G. , Rowe , Z. , 2006 .
+Discrimination , symptoms of depression , and self-rated health among african american women in detroit : results from a longitudinal analysis .
+Am .
+J .
+Public Health 96 ( 7 ) , 1265e1270 .
+http : //dx.doi.org/10.2105/AJPH.2005.064543 .
+Sennett , R. , Cobb , J. , 1972 .
+The Hidden Injuries of Class .
+W. W. Norton & Company .
+Simons , R. , Lei , M. , Beach , S. , Philibert , R. , Cutrona , C. , Gibbons , F. , Barr , A. , 2016 .
+Economic hardship and biological weathering : the epigenetics of aging in a US sample of black women .
+Soc .
+Sci .
+Med .
+150 , 192e200 .
+http : //dx.doi.org/10.1016/ j.socscimed.2015.12.001 .
+Slopen , N. , Williams , D.R. , 2014 .
+Discrimination , other psychosocial stressors , and self-reported sleep duration and difficulties .
+Sleep 37 ( 1 ) , 147e156 .
+http : // dx.doi.org/10.5665/sleep.3326 .
+Szanton , S.L. , Allen , J.K. , Thorpe , R.J. , Seeman , T. , Bandeen-Roche , K. , Fried , L.P. , 2008 .
+Effect of financial strain on mortality in community-dwelling older women .
+J. Gerontol .
+B Psychol .
+Sci .
+Soc .
+Sci .
+63 ( 6 ) , S369eS374 .
+Taylor , T.R. , Williams , C.D. , Makambi , K.H. , Mouton , C. , Harrell , J.P. , Cozier , Y. , Adams- Campbell , L.L. , 2007 .
+Racial discrimination and breast cancer incidence in US black women : the black Women 's health study .
+Am .
+J. Epidemiol .
+166 ( 1 ) , 46e54 .
+http : //dx.doi.org/10.1093/aje/kwm056 .
+Thomas , K.S. , Bardwell , W.A. , Ancoli-Israel , S. , Dimsdale , J.E. , 2006 .
+The toll of ethnic discrimination on sleep architecture and fatigue .
+Health Psychol .
+25 ( 5 ) , 635e642 .
+http : //dx.doi.org/10.1037/0278-6133.25.5.635 .
+Tomfohr , L.M. , Ancoli-Israel , S. , Dimsdale , J. , 2010 .
+Childhood socioeconomic status and race are associated with adult sleep .
+Behav .
+Sleep .
+Med .
+8 ( 4 ) , 219e230 .
+http : //dx.doi.org/10.1080/15402002.2010.509236 .
+Tomfohr , L.M. , Pung , Edwards , Dimsdale , 2012 .
+Racial differences in sleep archi- tecture : the role of ethnic discrimination .
+Biol .
+Psychol .
+89 ( 1 ) , 34e38 .
+http : // dx.doi.org/10.1016/j.biopsycho.2011.09.002 .
+Vaughn , M. , Salas-Wright , C. , White , N. , Kremer , K. , 2015 .
+Poor sleep and reactive aggression in a nationally representative sample of African-American adults .
+J .
+Psychiatric Res .
+( 66e67 ) , 54e59 .
+Williams , D.R. , Mohammed , S.A. , 2009 .
+Discrimination and racial disparities in health : evidence and needed research .
+J. Behav .
+Med .
+32 ( 1 ) , 20e47 .
+http : // dx.doi.org/10.1007/s10865-008-9185-0 .

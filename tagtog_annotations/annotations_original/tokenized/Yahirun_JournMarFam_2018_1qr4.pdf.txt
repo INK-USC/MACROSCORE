@@ -1,0 +1,623 @@
+Yahirun_JournMarFam_2018_1qr4.pdf
+ajxMS_aDZGdy67ssnJuFML_4liW8-Yahirun_JournMarFam_2018_1qr4.pdf.plain.html
+
+Jenjira J. Yahirun University of Hawai ’ i at Mānoa Erika Arenas University of California , Santa Barbara∗ Offspring Migration and Parents ’ Emotional and Psychological Well-being in Mexico In Mexico , offspring migration disrupts familial norms of coresidence and geographic proxim- ity .
+This article examines how an adult child ’ s migration , both domestically and to the United States , affects the emotional and psychological well-being of parents who remain in the place of origin .
+Using nationally representative lon- gitudinal data from the Mexican Family Life Survey ( N = 4,718 ) , the authors found limited evidence that parents whose offspring emigrated to the United States experience worse outcomes than parents of offspring who did not migrate .
+Although they found that offspring U.S. migra- tion was not associated with changes in par- ents ’ overall depressive syndrome , a child ’ s U.S. migration increased the likelihood of experienc- ing loneliness and led to a lower likelihood of recovery from parental sadness over time .
+Chil- dren ’ s domestic migration did not affect parental well-being .
+These findings add to a growing body of literature that should be considered when assessing the broader impact of migration on family members who remain behind .
+Center on the Family , University of Hawai ’ i at Mānoa , Miller Hall 103 , 2515 Campus Road , Honolulu , HI 96822 ( jyahirun @ hawaii.edu ) .
+∗Centro de Análisis y Bienestar Social , A.C and Department of Sociology , University of California , Santa Barbara , Social Studies and Media Science Bldg .
+3123 , Santa Barbara , CA 93106 .
+Key Words : depression , immigrants/migrants , intergenera- tional relationships , mental health , transnational research .
+The disruption of family life is a formidable consequence of migration .
+When migrants depart , their absence affects the emotional and psychological well-being of young children ( Dreby , 2010 ; Hochschild , 2002 ; Parreñas , 2005 ) and partners left behind ( Kanaiaupuni , 2000 ; Nobles , Rubalcava , & Teruel , 2015 ; De Snyder , 1993 ) .
+Although an adult child ’ s departure may appear less consequential , off- spring migration presents a challenge to parents in low- and middle-income countries where intergenerational proximity and coresidence are the norm and intergenerational assistance is often based on propinquity ( Angel , Vega , & López-Ortega , 2017 ; De Vos , Solis , & De Oca , 2004 ) .
+This article explores how offspring migration affects parents ’ emotional and psychological well-being in Mexico , a middle-income coun- try where emigration is common .
+We extend previous work in a number of important ways .
+First , rather than treat all migrant destinations equally , we assess how parents ’ emotional and psychological well-being varies across children who migrate domestically versus to the United States .
+Second , we include parents across the age spectrum and ask whether a child ’ s migra- tion affects older parents , who are more likely to rely on offspring to fulfill instrumental , finan- cial , and emotional support , differently than younger parents ( Angel , Angel , López-Ortega , Robledo , & Wallace , 2016 ) .
+Third , we examine whether mothers are more negatively impacted by offspring migration than fathers given their roles as kinkeepers ( Diaz-Loving , 2006 ) , their Journal of Marriage and Family 80 ( August 2018 ) : 975–991 975 DOI:10.1111/jomf.12479 976 Journal of Marriage and Family more limited social networks ( Fuller-Iglesias & Antonucci , 2016 ) , and their greater reliance on adult children for support in later life ( Angel et al. , 2017 ) .
+Finally , this study improves on prior research designs that use cross-sectional data ( Antman , 2010 ; Silver , 2011 ) by includ- ing longitudinal data on parental emotional and psychological health before and after a child ’ s migration , allowing us to examine how migration affects change in parental well-being over time .
+Background Geographic Proximity and Parent–Child Relationships in the Context of Migration In Mexico , cultural norms of familism and a historical scarcity of social services encour- age the maintenance of strong familial ties ( Diaz-Loving , 2006 ) .
+Coresidence and geo- graphic proximity between parents and children is common ( Kanaiaupuni , 2000 ; Monkkonen , 2011 ; Ruggles & Heggeness , 2008 ) .
+From the offspring perspective , the majority of adult children live outside of the natal home , but in the same city as parents ( Gomes , 2007 ) .
+Proximity to parents offers a reliable source of child care , an extra set of hands during unexpected events such as the loss of a job , or family transitions such as the birth of a new child ( Jiménez , 2012 ; Partidas , 2004 ) .
+Later , the balance of transfers is tipped when adult children provide instrumental , financial , and emotional support to elderly parents ( Angel et al. , 2017 ; Grajeda & Ward , 2012 ) .
+Instrumen- tal assistance is especially important , as parents need children close by to help with everyday tasks .
+In addition , shorter distances provide more accurate information about the well-being of elderly parents , which helps offspring deter- mine the types of support parents need in a timelier manner ( Dewit & Frankel , 1988 ) .
+In Mexico , 55 % of individuals aged 65 and older live with a child or grandchild ( Saad , 2010 ) , and the vast majority of older adults live in commu- nities with their family members ( Monkkonen , 2011 ) .
+Migration disrupts the expectations of sus- tained intergenerational ties that are based on geographic propinquity ( Angel et al. , 2017 ; Kanaiaupuni , 2000 ) .
+Yet how migration affects relationships between parents and children likely depends on the type of support considered and the destination of migrant children .
+On one hand , parents are more likely to receive instrumental support when children reside within the same community or country com- pared to when offspring live abroad ( Quashie & Zimmer , 2013 ; Zimmer , Rada , & Stoica , 2014 ) .
+However , children ’ s migration , espe- cially when labor related , may induce a greater likelihood of material and financial support to parents than domestic migration .
+In Romania , for example , financial support is more likely among parents with offspring who lived abroad than those who lived in the country ( Zimmer et al. , 2014 ) .
+Long-distance and cross-border caregiving becomes possible when new commu- nication technologies allow migrant offspring to be informed about parental needs and children can respond by providing quick financial or emotional support ( Baldock , 2000 ; Knodel & Saengtienchai , 2007 ; Knodel , Kespichayawat- tana , Saengtienchai , & Wiwatwanich , 2010 ; Litwak , 1960 ) .
+Migrant children may also coor- dinate care with siblings such that those who live closer to parents provide necessary instrumental support , whereas migrant siblings provide finan- cial and emotional support from afar ( Miltiades , 2002 ; Quashie , 2015 ; Sun , 2012 ) .
+A growing body of research points to the wide variation in how parents respond to chil- dren ’ s migration , ranging from distress and sadness , to ambivalence , and even pride ( Abas et al. , 2009 ; Antman , 2010 ; Baldassar , Baldock , & Wilding , 2007 ; Grant , Falkingham , & Evan- drou , 2009 ; Guo , Aranda , & Silverstein , 2009 ; Marchetti-Mercer , 2012 ; Miltiades , 2002 ; Sil- ver , 2011 ; Silverstein , Cong , & Li , 2006 ; Sun , 2012 ; Zimmer et al. , 2014 ) .
+Because migration signals the disruption and potential breakdown in support for parents , a number of studies document negative mental health outcomes ( Abas et al. , 2009 ; Adhikari , Jampaklay , Cham- ratrithirong , Pattaravanich , & Vapattanawong , 2014 ; Antman , 2010 ; Guo et al. , 2009 ; Silver , 2011 ; Silverstein et al. , 2006 ) .
+In addition , par- ents who remain behind may find themselves taking on new roles prompted by the child ’ s absence , for example , as primary caregivers to grandchildren , which may increase their own stress ( Dreby , 2010 ; Jiménez , 2012 ) .
+In Mexico , one study using data from the first wave of the Mexican Family Life Survey ( MxFLS ) found that parents , especially mothers , with children in the United States are more likely to be depressed than parents with no migrant children Offspring Migration and Parents ’ Mental Health 977 ( Silver , 2011 ) .
+A separate study , using data from the Mexican Health and Aging Study and an instrumental variable approach , also found that parents with U.S. migrant children report worse mental health outcomes when compared with parents with no children in the United States ( Antman , 2010 ) .
+Studies of domestic migration in China ( Guo et al. , 2009 ; Silver- stein et al. , 2006 ) , Thailand ( Adhikari et al. , 2014 ) , and international migration from India ( Miltiades , 2002 ) , Moldova ( Grant et al. , 2009 ) , and South Africa ( Marchetti-Mercer , 2012 ) also point to greater depression among parents of migrants .
+However , a second perspective emphasizes how migration may not be as damaging to par- ents ’ emotional and psychological well-being as assumed .
+Litwak ’ s ( 1960 ) discussion of the modified extended family suggests that prox- imity is not a prerequisite for all families and that family members tailor the type of support they provide based on their geographic location .
+For example , migrant children may provide parents with remittances that help compensate for wages , debt , and income lost when children leave ( Farfán et al. , 2014 ; Knodel et al. , 2010 ; Quashie , 2015 ; Zimmer et al. , 2014 ) .
+These monies may also be used to purchase formal instrumental support for parents ( Rindfuss , Piotrowski , Entwisle , Edmeades , & Faust , 2012 ) .
+In China , rural parents with children who migrated to urban areas received more transfers than parents with no migrant children ( Song , 2016 ) .
+Framed in this light , offspring migration can be beneficial for parents and other household members , and remittances can be viewed as part of a diversified household economic strategy ( Garip , 2017 ; Rapoport & Docquier , 2005 ; Stark & Bloom , 1985 ) .
+For some parents , children ’ s international migration represents a form of social mobility that is a source of pride , especially when the destination country is perceived as more economically developed compared to the home country ( Sun , 2012 ) .
+Parents may perceive better opportuni- ties and express happiness on behalf of their children and grandchildren , even if they them- selves profess loneliness ( Miltiades , 2002 ) .
+These feelings of pride and even happiness may intermingle with the sorrow associated with the physical , financial , and social gaps that emerge when children leave , leading to emotional ambivalence ( Marchetti-Mercer , 2012 ) .
+Offspring Migration and Parents ’ Well-being : Age and Gender The emerging research on the effects of chil- dren ’ s migration is rich in many ways .
+However , we highlight at least two areas that have received less attention .
+First , the vast majority or prior work focuses on the effects of offspring migration on older parents ( Abas et al. , 2009 ; Antman , 2010 ; Baldassar et al. , 2007 ; Grant et al. , 2009 ; Guo et al. , 2009 ; Knodel et al. , 2010 ; Marchetti-Mercer , 2012 ; Miltiades , 2002 ; Silverstein et al. , 2006 ; Sun , 2012 ; Zimmer et al. , 2014 ) .
+This emphasis relates in part to what is known about the intensity of intergen- erational support that increases with age , when disabilities and other limiting health conditions intensify ( Angel et al. , 2016 , 2017 ) .
+In Mex- ico , similar to other low- and middle-income countries , adult children retain important roles of support for older parents ( Finkler , 1994 ; Mendez-Luck , Kennedy , & Wallace , 2009 ) , and although most older adults do not have access to formal retirement benefits ( Angel et al. , 2017 ) , informal transfers from adult children to older parents are common ( Wong & Palloni , 2009 ) .
+For those aged 70 and older , family transfers , mostly from offspring , constitute a larger share of total income than money from pensions , assets , property , or public transfers ( Aguila , Diaz , Fu , Kapteyn , & Pierson , 2011 ) .
+The vast majority of informal transfers to older adults come from household members , followed by offspring who do not coreside with parents ( Angel et al. , 2017 ; Saad , 2010 ) .
+It is important to note that whereas much of the earlier research in this area depicted a child ’ s migration in terms of “ abandoning ” elderly parents , newer findings demonstrate greater nuance where a child ’ s migration has both positive and negative effects on parental support ( for a review , see Knodel et al. , 2010 ) .
+Middle-age parents , however , may frame a child ’ s migration in different terms altogether .
+Middle-age parents have a longer time hori- zon than their older peers and thus may be more likely to see ( and believe that they will see ) their children again in the future .
+Even if a child moves far away , her or his migra- tion may not seem drastic when it is consid- ered part of a broader home-leaving strategy ( Garip , 2017 ) .
+Nonetheless , because offspring fill the care gap when parents age ( Angel et al. , 2017 ) , it is likely that parents who are older , rather than the middle aged , are more negatively 978 Journal of Marriage and Family impacted by offspring migration .
+However , no studies have assessed how offspring migration affects parents differentially across the age spec- trum .
+In one of the few studies to use data on par- ents aged younger than 50 , children ’ s migration is associated with increased depressive symp- toms ( Silver , 2000 ) , but the study did not explic- itly examine whether age moderates the associa- tion between children ’ s emigration and parents ’ well-being .
+Similarly , the effect of offspring migra- tion may differ for mothers versus fathers .
+In Latin America , patriarchal tradition and motherhood ideals historically combine to make family a more central force in women ’ s lives ( Kanaiaupuni , 2000 ; Menjivar , Abrego , & Schmalzbauer , 2016 ) .
+Women are more likely to be the primary caregivers for children and young grandchildren and as such are more likely to be the kinkeepers of the family—using significant emotional labor to maintain family ties over time and distance ( Diaz-Loving , 2006 ; Menjívar & Abrego , 2016 ) .
+Women ’ s social net- works are also more likely to include family and household members than men ( Fuller-Iglesias & Antonucci , 2016 ) .
+Part of this is due to women ’ s more tenuous ties to the labor market ( International Labor Organization , 2012 ) , despite narrowing gender gaps in employment over the past decades ( Parrado & Zenteno , 2001 ; Villareal & Yu , 2007 ) .
+Because a larger share of women work in the informal sector than men ( International Labor Organization , 2012 ) , they are less likely to receive formal benefits through employ- ers , such as pensions and retirement benefits ( Arizpe , 2013 ) .
+Thus , in later life , older mothers may be more reliant on children to fulfill their own economic and instrumental needs given their comparative socioeconomic disadvantage ( Ross & Mirowsky , 2006 ) .
+Offspring support may be especially important given women ’ s greater longevity , but also higher morbid- ity when compared with men ( Angel et al. , 2017 ) .
+Domestic and International Migration in Mexico Understanding how differences in offspring location shape parental well-being is espe- cially relevant in Mexico , where both domestic migration and migration to the United States are well established .
+Historically , domestic migrants tended to move from rural to urban areas , although this trend has slowed in recent years with many urban migrants moving to other smaller urban , industrial areas close to the U.S. border ( Pérez & Santos , 2013 ) .
+With respect to international migration , more than 16 million Mexicans moved to the United States between 1965 and 2015 ( Krogstad , 2016 ) .
+Although emigration to the United States slowed in recent years , Mexico is still the chief sending country of immigrants ( Passel , Cohn , & Gonzalez-Barrera , 2012 ) with slightly less than half of all Mexican immigrants residing without legal authoriza- tion ( Gonzalez-Barrera , 2015 ) .
+Their presence shapes the availability of kin for families in Mexico .
+According to recent estimates , one in five Mexicans aged 50 and older have at least one child living north of the border ( Wong , 2011 ) .
+The emotional and psychological toll of having children who move to the United States likely differs from having offspring who move internally within Mexico .
+For one , travelling across the U.S.–Mexico border , especially as an undocumented migrant , is more difficult than traveling within Mexico ( Holmes , 2013 ) .
+Parents who are aware of a child ’ s undocumented status may experience greater anxiety when thinking about children crossing the Mexican–U.S .
+bor- der to enter the country .
+U.S. migrant offspring , if undocumented , may find it impossible to return when parents express the need for them .
+In ethnographic accounts , offspring frequently felt remorse at not being able to visit sick parents and must eventually confront not being present when a parent dies ( Schmalzbauer , 2014 ) .
+Parents who are aware that U.S. migrant children face obsta- cles to visiting may thus be more affected by the child ’ s initial migration—through increased levels of sadness—than those with children who move within Mexico .
+Second , Mexican immigrants in the United States face a host of barriers with respect to locating housing , employment , and developing support networks in a foreign country ( Donato & Armenta , 2011 ) .
+These barriers are compounded for the undocumented .
+Parents who are aware of the often precarious conditions of their chil- dren ’ s lives in the United States will likely experience worse emotional and psychological outcomes than those with domestic migrant children only .
+Offspring Migration and Parents ’ Mental Health 979 Other Factors That Contribute to Parental Well-being Although this article focuses on the effects of offspring migration , we can not ignore numer- ous other characteristics that may also affect par- ents ’ psychological and emotional well-being .
+First , several demographic characteristics are consistently associated with emotional and psy- chological well-being during the life course .
+These include an individual ’ s age , gender , and socioeconomic status .
+Previous research shows that aging is correlated with increased levels of depression in developing countries ( Aguila et al. , 2015 ; Das , Do , Friedman , McKenzie , & Scott , 2007 ) .
+In addition , similar to developed countries , women in developing countries are more likely to suffer from depression than their male counterparts ( Gaviria & Rondon , 2010 ) .
+Likewise , divorced , never married , or widowed individuals are more likely to suffer from poor mental health outcomes in later life than those who are partnered ( Yan , Huang , Huang , Wu , & Qin , 2011 ) .
+As an indicator of socioeconomic status , less formal education is associated with poorer psychological outcomes in Latin Amer- ica ( Rojas , 2011 ) .
+Employment tends to decrease the likelihood of poorer mental health outcomes , although this varies by gender ( Aneshensel , 1992 ) .
+In addition , parents and their spouses who are former migrants may be less likely to suf- fer when offspring migrate because they them- selves have either accumulated sufficient capital allowing them to rely less on offspring ( Wong , Espinoza , & Palloni , 2007 ) or are more likely to be embedded in a culture of migration and have normative expectations of offspring leaving ( Kandel & Massey , 2002 ) .
+Second , remittances may also compensate for the absence of children after migration .
+Prior research from China finds that remittances reduce the negative effect of offspring domes- tic labor migration on parental depression by approximately half ( Lu , Hu , & Treiman , 2012 ) .
+Recent work ( Flippen , 2015 ) also suggests that remittances to elderly parents in Latin America from U.S. migrants is much more common than previously assumed and that these monies are increasingly important for an aging population with limited access to formal retirement savings .
+Finally , we account for other household char- acteristics at baseline .
+These include whether the parents had a partner or spouse living in the household and the number of total living off- spring , both of which hint at the potential safety net of respondents in the sample .
+Rural status is included as a control for the MxFLS survey design .
+Research Aims In this article , we ask how offspring migration affects parents ’ emotional and psychological well-being in Mexico .
+We distinguish between domestic migrants within Mexico and interna- tional migrants to the United States to exam- ine whether migration affects parents differently depending on the child ’ s destination .
+This is an important distinction given the challenges associated with migration to the United States , especially for those who cross the border ille- gally ( Donato & Armenta , 2011 ; Holmes , 2013 ) .
+We hypothesize , based on prior research , that children ’ s migration will negatively affect par- ents ’ well-being regardless of destination , but the negative effects will be stronger for parents of U.S. migrants .
+Next , we ask whether the effect of a child ’ s migration varies by parental age .
+We expect that children ’ s migration will have greater negative effects on older parents com- pared to younger parents given that older adults rely more on adult children for everyday caregiv- ing needs .
+Finally , we ask how offspring migra- tion affects mothers and fathers differently .
+We predict that mothers , as opposed to fathers , face greater negative consequences as a result of chil- dren ’ s migration given their closer ties to off- spring throughout the life course as well as their relative socioeconomic disadvantage .
+Method Data We use data from the first two waves of the MxFLS ( http : //www.ennvih-mxfls.org ) , an ongoing nationally representative longitudinal survey of individuals , households , and com- munities with more than 35,000 individuals who were interviewed at baseline in 2002 .
+The MxFLS comprises a probabilistic , stratified , and multistaged sample of Mexican households that was designed by the National Institute of Statistics and Geography .
+The sample is repre- sentative at the national level as well as at the urban and rural levels .
+All individuals residing in the selected households were interviewed .
+Household members ages 15 and older were interviewed directly , and information about 980 Journal of Marriage and Family children younger than age 15 was collected through caregivers .
+Recontact rates in 2005 and 2006 were more than 90 % at the household level and approximately 85 % at the individual level .
+The MxFLS is unique in that it follows and interviews Mexican migrants who cross the U.S. border , facilitating an understanding of family processes in both countries .
+The survey includes a mental health module that was conducted at both waves for all respondents aged 15 or older , allowing us to examine changes in aspects of emotional and psychological well-being that may be triggered by offspring migration .
+The data also allow us to distinguish between parents whose offspring migrated to the United States and parents whose offspring migrated within Mexico .
+In this article , we focus on parents whose off- spring migrated out of their homes in 2002 and were not living in the same household as parents in 2005 .
+We limit our sample to coresident chil- dren in 2002 in part because of data constraints ; because the MxFLS is a household-based survey , detailed information about the location of non- resident children was not collected in 2002 .
+We address this constraint in our discussion .
+Sample Our age-eligible sample consists of parents with coresident children ages 15 or older in 2002 ( n= 7,564 ) .
+From this sample , we dropped par- ents who died between waves ( n= 245 ) and those whose children migrated to countries other than the United States ( n= 2 ) .
+Given our interest in parents who remain behind , we also dropped parents who migrated domestically or to the United States ( n= 77 ) and parents who moved to an unknown location at Wave 2 ( n= 247 ) .
+These conditions left us with an eligible sample of 6,993 parents .
+Among these 6,993 parents , our analytical sample was produced by dropping individuals who did not complete the mental health mod- ule at Wave 1 ( n= 1,017 ) .
+These included those who did not complete the survey at Wave 1 ( n= 583 ) and among those present , the mental health module at Wave 1 ( n= 434 ) .
+Next , we dropped a number of respondents who did not have information on the mental health questions asked at Wave 2 ( n= 787 ) .
+These are individu- als who did not respond to the survey at Wave 2 ( attrite , n= 401 ) and who did not complete the mental health module at Wave 2 ( n= 386 ) .
+We further dropped respondents who lacked infor- mation on children ’ s destinations ( n= 421 ) and any of the other independent variables ( e.g. , pre- vious migration history , spouse in the house- hold ; n= 50 ) .
+These exclusions resulted in an analytical sample of 4,718 parents with at least one coresident child living in Mexico in 2002 .
+Because of the household sampling strategy in the MxFLS , 66 % of respondents in our sam- ple lived in households where both parents were interviewed .
+To address potential bias in our analytical sample ( n= 4,718 ) , we first assessed whether our analytical sample differed from the eligi- ble sample ( n= 6,993 ) based on demographic characteristics .
+We found that individuals in the analytical sample were more likely to be younger , rural , female , and less educated .
+Next , we assessed potential bias in our outcome variables by analyzing results from a series of logistic regression models where we predicted whether respondents were more or less likely to be present in the analytical sample based on depressive syndrome , anxiety , sadness , loneli- ness , and a wish to die at Wave 1 , respectively , while controlling for age , sex , rural status , and education at Wave 1 ( results not shown here ) .
+Ideally , we would have estimated these regressions using the 6,993 observations in the eligible sample ; however , given that not all the individuals answered the mental health module at Wave 1 , we conducted this analysis on a smaller sample of 5,980 observations .
+We found that our analytical sample did not differ from the eligible sample on depressive syndrome ( p > .10 ) , anxiety ( p > .10 ) , sadness ( p > .10 ) , or wish to die ( p > .10 ) .
+However , we found that the respondents in our analytical sample were 20 % less likely to report loneliness ( p < .005 ) .
+The results from the attrition analysis suggest that in the analysis that follows , any effects of migration on loneliness may be underestimated .
+Measures The MxFLS mental health module included 21 questions assessing several aspects of indi- viduals ’ psychological health and well-being .
+The questions came from the Clinical Ques- tionnaire for the Diagnosis of Depressive Syn- drome ( Cuestionario Clinico para el Diagnos- tico del Sindrome Depresivo [ CCDSD ] ) that was designed by the Mexican Institute of Psychia- try ( Calderón , 1997 ) .
+A full list of the mental Offspring Migration and Parents ’ Mental Health 981 health module questions is provided online in Appendix Table A1 .
+Our dependent variables captured a range of indicators .
+The first variable assessed depressive syndrome and was based on the Calderón depression scale ( CCDSD ) , which included the first 20 questions of the mental health module .
+Items included how often the respondent experienced sadness , lack of energy , difficulty concentrating , less appetite , or felt obsessive , nervous or anxious , tired , insecure , useless , and has a wish to die , among oth- ers ( see online Appendix Table A1 ) .
+Possible answers ranged from 1= no to 4= all the time using a 4-point scale .
+One measure that was included in the original Calderón scale that we removed from our depressive syndrome scale was the following question about sexual inter- est : “ In the last 4 weeks , has your sexual inter- est decreased ? ” Due to its sensitive nature , the response rates on this item were low ( about 20 % of the eligible respondents did not answer in MxFLS-2 ) .
+However , an additional question , which was not part of the original CCDSD scale but was also included in the mental health mod- ule , asked the respondent the following : “ In the last 4 weeks , have you felt lonely ? ” We included this item on loneliness in our depressive syndrome scale .
+The final depressive syndrome scale was created by summing these values with a potential range from 20 to 80 .
+A higher score indicates a greater number of depressive symp- toms .
+We note that these questions are only a first assessment of depression , and a clinical diagnosis necessitates a more intensive exam ( Calderón , 1997 ) .
+In our study , the measure was highly reliable ( 𝛼 = 0.90 in 2002 and 𝛼 = 0.93 in 2005 ) .
+Other outcome variables that we exam- ined included separate items drawn from the depressive syndrome scale to create outcome measures that captured a respondent ’ s feeling of anxiety , wishes to die or suicidal thoughts , loneliness , and sadness .
+The items used to cre- ate these outcome variables are listed online in Appendix Table A1 .
+The outcome variables assessed changes in overall depressive syndrome , anxiety , wishes to die or suicidal thoughts , loneliness , and sadness across waves .
+Respondents either experienced an increase in the symptom ( worse health ) , a decrease in the symptom ( better health ) , or reported no change in the symptom across waves .
+We included the overall depressive syndrome scale as well as more specific mea- sures because they captured a broad range of responses of which parents left behind are susceptible .
+The depressive syndrome scale represented a wide variety of symptoms , includ- ing less severe signs of stress ( less appetite ) to more acute indicators ( wishes to die or suicidal thoughts ) .
+We included the separate measures of anxiety , wishes to die or suicidal thoughts , loneliness , and sadness because they offer a more nuanced portrait of the types of symptoms that parents can experience .
+In addition , we used these measures to compare our results with other studies that used the same mea- sures from the MxFLS ( Nobles et al. , 2015 ; Silver , 2011 ) .
+Our main independent variable of interest is whether the respondent has an adult child who migrated between Waves 1 and 2 .
+Parents are categorized by children ’ s residential status in both waves .
+At Wave 1 , the child must be liv- ing at home with her or his parents .
+At Wave 2 , the child must be living elsewhere ( in a dif- ferent locality or in the United States ) to be considered a migrant .
+In our analysis we did not consider cases in which offspring migrated between waves , but returned home by Wave 2 .
+Parents may have ( a ) no offspring who left home ; ( b ) at least one child who migrated to the United States ; ( c ) at least one child who migrated domestically ( i.e. , to a different locality ) , but no children who migrated to the United States ; or ( d ) at least one child who left home but remained within the same locality and no other children migrated domestically or to the United States .
+We did not distinguish between offspring who moved to different localities , municipalities , or states ; all were considered domestic migrants in our analysis .
+However , we know that in our analytical sample of domestic migrant children ( n= 197 ) , 22 % moved to a different locality within the same municipality , 32 % moved to another municipality within the same state , and 44 % moved to another state within Mexico .
+Demographic characteristics included paren- tal age in 2002 , which we measured in years .
+We also included dummy variables captur- ing whether the respondent was a female and another capturing whether the respondent was employed in 2002 .
+Educational attainment was measured using a continuous variable for total years of schooling in 2002 .
+We included household expenditure as a continuous variable , which we transformed using the natural loga- rithm .
+Household expenditure may be a better indicator of permanent income than household 982 Journal of Marriage and Family income alone , which can suffer from financial and economic shocks ( Atkinson , 1992 ; Deaton , 1997 ) and is subject to lower measurement error in household surveys ( Deaton & Zaidi , 2002 ) .
+The respondent ’ s migration history , which indicated his or her own familiarity with a “ culture ” of migration , was also included as a dummy variable indicating whether the respon- dent ever lived for at least 1 year in a different locality from where he or she was living at age 12 .
+This included both domestic and interna- tional migration histories , although only 1 % of parents in our analytic sample had ever migrated to the United States and 35 % had a previous domestic migration history with no experience of U.S. migration .
+Thus , variation in this vari- able is largely captured by previous domestic migration .
+An indicator assessing the net difference in respondents ’ household transfers between Waves 1 and 2 was also added .
+The transfer measure is the sum of transfers received from children who migrated between waves as well as transfers from other children who live in different households , regardless of location .
+The respondents were categorized by whether they ( a ) reported sending and receiving no transfers within the past 12 months , ( b ) transferred more money to their children than they received from their children within the past 12 months ( “ net senders ” ) , or ( c ) transferred less money to their children compared to the money they received from their children within the past 12 months ( “ net receivers ” ) .
+We should note that less than 1 % of parents in the analytical sample had incoming and outgoing transfers that were equal in amount .
+Therefore , we included these parents with those who reported no transfers received or sent within the past 12 months .
+A “ don ’ t know category ” also accounts for individuals who did not respond to these questions .
+To assess household characteristics at baseline , we included a dummy variable for whether the respondent had a coresident spouse or partner as well as the total number of living offspring at Wave 1 .
+We also added a rural area dummy variable to account for the MxFLS survey design .
+Method We begin by describing our analytical sample , distinguishing between parents of offspring who did not experience a move , offspring who moved out of the parental home but remained within the same locality , offspring who migrated domestically between waves , and offspring who migrated to the United States between waves .
+We then present results from zero-order multi- nomial regression models that assessed the association between offspring migration and changes in parents ’ emotional and psycholog- ical well-being .
+The outcome variable was the change in the measured outcomes between waves ( depressive syndrome , expressing anx- iety , a wish to die , loneliness , or sadness ) .
+Next , we included controls for the respondent ’ s demographic characteristics , financial transfers between parents and nonresident children , and baseline characteristics at Wave 1 .
+Finally , we assessed important differences across groups .
+We tested for the significance of interaction terms by parents ’ age and type of offspring ’ s migration to see whether older parents experi- enced offspring migration differently from their younger counterparts .
+In addition , we assessed whether parents ’ gender moderates the relation- ship between offspring migration and parental well-being .
+In analyzing the moderating effects of age and gender , we do not discuss the full model results , although all results can be found online in Appendix B .
+We adjusted standard errors to account for clustering at the household level given that both mothers and fathers of the same migrant child may be included in the analytical sample .
+All analyses were conducted using Stata 14 ( StataCorp , 2015 ) .
+Results Table 1 presents the characteristics of the ana- lytical sample .
+The first column shows that approximately 23 % of parents reported hav- ing at least one child who left home between waves .
+More parents reported having at least one child who migrated to the United States between waves ( 7 % ) compared to having at least one domestic migrant child , but no U.S. migrant children ( 3 % ) .
+The average respondent was age 50 at baseline , although the ages ranged from 27 to 98 .
+The sample was mostly women with approximately 5 years of formal schooling , and slightly more than half of all parents were employed in 2002 .
+More than one third of all par- ents reported previous domestic or international migrations .
+The vast majority of parents reported no transfers received or sent across households Offspring Migration and Parents ’ Mental Health 983 Table 1 .
+Descriptive Statistics of Parents by Offspring Migration All parents Offspring did not move U.S. migrant offspring Domestic migrant offspring Offspring moved within same locality Variable Mean SD Mean SD Mean SD Mean SD Mean SD Offspring migration No move 0.77 – – – – – – – – – U.S. migrant 0.07 – – – – – – – – – Domestic migrant 0.03 – – – – – – – – – Same locality 0.14 – – – – – – – – – Demographic characteristics Age 50.16 11.03 50.50 11.53 47.48 8.25 50.63 8.96 49.43 9.39 Female 0.37 – 0.36 – 0.37 – 0.40 – 0.40 – Years of education 5.19 4.31 5.38 4.34 4.66 4.39 3.80 3.89 4.69 4.08 Employed 0.54 – 0.53 – 0.51 – 0.53 – 0.59 – Household expenditure 7,549 27,985 7,649 31,194 7,315 9,231 6,473 7,751 7,314 14,298 Previous migration history 0.37 – 0.37 – 0.34 – 0.35 – 0.35 – Transfersa None 0.77 – 0.80 – 0.60 – 0.62 – 0.72 – Household net sender 0.08 – 0.08 – 0.08 – 0.05 – 0.11 – Household net receiver 0.13 – 0.11 – 0.29 – 0.26 – 0.17 – Do not know 0.01 – 0.01 – 0.04 – 0.07 – 0.004 – Household characteristics Coresident spouse/partner 0.83 – 0.82 – 0.83 – 0.91 – 0.91 – Number of offspring 3.74 2.23 3.57 2.17 4.68 2.51 4.44 2.65 4.11 2.17 Rural 0.28 – 0.27 – 0.43 – 0.56 – 0.25 – N 4,718 3,608 391 138 581 Source .
+Mexican Family Life Survey 2002 and 2005 .
+Note .
+Calculations are weighted .
+Demographic characteristics , previous migration history , and household characteristics are all taken from Wave 1. aFinancial transfers received or sent within the past 12 months before the second wave of the Mexican Family Life Survey was collected in 2005. by Wave 2 ( 77 % ) .
+At baseline , most lived with a spouse or partner and had three to four living children .
+Slightly more than a quarter lived in rural areas .
+The second to fifth columns of the second panel of Table 1 show the sample ’ s charac- teristics by offspring migration .
+We conducted tests ( not shown here ) to assess differences across parent groups .
+With respect to socioe- conomic status , U.S. migrant parents reported more schooling than domestic migrants ’ parents , although this difference was not statistically sig- nificant ( p > .10 ) .
+Yet parents of nonmigrants reported greater years of schooling than par- ents of migrants ( p < .001 ) .
+Parents ’ own migra- tion history did not vary much across groups .
+With respect to transfers , we found small dif- ferences between parents who were net senders , yet larger differences between parents who were net receivers .
+Parents of domestic and U.S. migrants were more likely to be net receivers than those with offspring who did not move ( p < .001 ) .
+Parents of domestic and U.S. migrant offspring reported more living children , on aver- age , than those parents with nonmigrant off- spring ( p < .001 ) .
+Finally , those with domestic migrant children were most likely to live in rural regions ( 56 % ) when compared with other par- ents ( p < .01 ) , whereas parents of offspring who moved within the same locality were less likely to live in rural areas ( 25 % ) compared to parents with offspring who moved outside the locality ( p < .001 ) .
+Table 2 presents the results from zero-order multinomial regression models for the five different outcome variables assessing changes to parental well-being between waves by chil- dren ’ s migration status .
+In Panel A , the results from the first column indicate that children ’ s migration was not significantly correlated with 984 Journal of Marriage and Family Table 2 .
+Multinomial logistic regression predicting changes in emotional and psychological well-being among Mexican parents , no controls ( N=4,718 ) Depressive syndrome Anxiety Wish to die Increase vs. No change Decrease vs. No change Increase vs. No change Decrease vs. No change Increase vs. No change Decrease vs. No change Panel A Coeff .
+SE Coeff .
+SE Coeff .
+SE Coeff .
+SE Coeff .
+SE Coeff .
+SE Offspring migration ( ref : No move ) U.S. migrant 0.20 0.22 0.09 0.22 0.04 0.16 −0.11 0.13 0.26 0.18 0.30 0.17 Domestic migrant 0.15 0.35 0.23 0.35 −0.02 0.24 −0.10 0.19 0.16 0.34 0.43 0.30 Same locality 0.14 0.17 0.09 0.16 −0.02 0.13 −0.17 0.10 −0.09 0.16 −0.02 0.17 Constant 1.38*** 0.06 1.71*** 0.06 −1.36*** 0.05 −0.83*** 0.04 −2.20*** 0.06 −2.34*** 0.06 R2 0.0003 0.0004 0.0013 Pseudo-LogLikelihood −4,372.98 −4,444.35 −2,762.80 Loneliness Sadness Increase vs. No change Decrease vs. No change Increase vs. No change Decrease vs. No change Panel B Coeff .
+SE Coeff .
+SE Coeff .
+SE Coeff .
+SE Offspring migration ( ref : No move ) U.S. migrant 0.37* 0.15 0.22 0.14 −0.23 0.16 −0.43** 0.15 Domestic migrant −0.40 0.32 −0.29 0.24 0.11 0.69 −0.20 0.21 Same locality −0.02 0.14 −0.23 0.13 0.03 0.81 −0.23 0.12 Constant −1.61*** 0.05 −1.42*** 0.05 −1.41 0.00 −1.02*** 0.04 R2 0.0019 0.0017 Pseudo-LogLikelihood −3,893.74 −4,267.12 Source : Mexican Family Life Survey 2002 and 2005 .
+*p < .05 .
+**p < .01 .
+***p < .001. parents ’ depressive syndrome .
+Moving across the columns , we found similar results for anxi- ety and a parent ’ s wish to die .
+However , Panel B shows that parents of U.S. migrant offspring were more likely to experience negative changes to sadness and loneliness compared to parents of nonmovers .
+Specifically , in contrast to parents of nonmovers , parents of a U.S. migrant child were 1.4 times ( 1 − EXP [ 0.37 ] ) more likely to experience an increase in loneliness rather than no change ( p < .05 ) .
+Parents with at least one U.S. migrant child were 35 % ( 1 − EXP [ −0.43 ] ) less likely to experience reductions in sadness over time rather than experiencing no change when compared with parents whose children never left home ( p < .01 ) .
+We added controls to our models , and the results remained robust .
+Full models are presented in Table 3 .
+For loneliness and sad- ness , having a U.S. migrant child was still significantly associated with negative health consequences .
+Furthermore , the strength of the coefficients remained almost the same as the models without controls , suggesting that demographic factors and remittances did little to explain the effect of offspring U.S. migration on parental loneliness and sadness .
+Parents of U.S. migrant children remain 1.4 times more likely to report a rise in loneliness after chil- dren depart when compared with parents of nonmovers ( b= 0.35 , p < .05 ) , and they were also 34 % less likely to report a decrease in sadness over time when compared with their peers with nonmigrant children ( b=−0.41 , p < .01 ) .
+In addition , we found a number of consistent effects of the control variables across the outcomes .
+We found that older parents were more likely to experience increases in depressive syndrome , anxiety , a wish to die , and loneliness compared to younger peers .
+On the other hand , when compared with fathers , mothers experienced greater emotional and psychological instability across waves .
+Greater income , as measured by household expendi- ture , tended to buffer against health declines .
+Also , we found that receiving more transfers than sending them did not mediate the effect of migration on emotional and psychological Offspring Migration and Parents ’ Mental Health 985 Table 3 .
+Multinomial logistic regression predicting changes in emotional and psychological well-being among Mexican parents , with controls ( N=4,718 ) Depressive syndrome Anxiety Wishes to die Worse vs. No change Better vs. No change Worse vs. No change Better vs. No change Worse vs. No change Better vs. No change Panel A Coeff .
+SE Coeff .
+SE Coeff .
+SE Coeff .
+SE Coeff .
+SE Coeff .
+SE Offspring migration ( ref : No move ) U.S. migrant 0.21 0.23 0.07 0.22 0.12 0.16 −0.10 0.14 0.27 0.19 0.17 0.18 Domestic migrant 0.16 0.35 0.22 0.35 0.01 0.24 −0.13 0.20 0.16 0.34 0.33 0.30 Same locality 0.16 0.17 0.09 0.17 0.03 0.13 −0.17 0.11 −0.07 0.17 −0.04 0.17 Demographic characteristics Age 0.03*** 0.01 0.02*** 0.01 0.01** 0.00 −0.01 0.00 0.02** 0.01 0.00 0.01 Female 0.59*** 0.15 0.57*** 0.14 −0.31** 0.11 −0.21* 0.10 0.30* 0.14 0.69*** 0.17 Years of education −0.03* 0.01 −0.05** 0.01 0.03* 0.01 −0.02 0.01 −0.03 0.02 −0.08*** 0.02 Employed 0.21 0.14 0.12 0.13 −0.03 0.11 −0.15 0.09 −0.11 0.13 −0.14 0.14 Log of Household Expenditure −0.13* 0.06 0.00 0.06 −0.18*** 0.05 0.01 0.04 −0.07 0.06 −0.04 0.06 Previous migration history 0.09 0.12 0.16 0.11 0.05 0.09 0.06 0.07 −0.23* 0.11 −0.05 0.12 Transfers ( ref : no change ) Household net sender −0.06 0.21 −0.06 0.21 0.09 0.17 −0.09 0.14 −0.15 0.22 0.34 0.20 Household net receiver 0.22 0.18 −0.13 0.18 0.14 0.13 −0.49*** 0.12 −0.17 0.16 0.11 0.15 Do not know −0.45 0.50 0.00 0.49 −0.26 0.46 0.38 0.32 −0.14 0.56 0.42 0.51 Household characteristics Coresident spouse/partner 0.15 0.18 −0.06 0.17 0.05 0.13 −0.07 0.11 0.08 0.15 −0.01 0.15 Number of offspring 0.01 0.03 0.03 0.03 −0.04* 0.02 0.00 0.02 0.01 0.02 0.01 0.02 Rural −0.31* 0.12 −0.11 0.12 −0.09 0.09 0.16 0.08 −0.02 0.12 0.07 0.12 Constant 0.51 0.69 0.47 0.68 −0.33 0.53 −0.26 0.44 −2.40*** 0.66 −2.07** 0.66 R2 0.015 0.012 Pseudo-LogLikelihood −4,307.50 −4,392.88 Loneliness Sadness Worse vs. No change Better vs. No change Worse vs. No change Better vs. No change Coeff .
+SE Coeff .
+SE Coeff .
+SE Coeff .
+SE Offspring migration ( ref : No move ) U.S. migrant 0.35* 0.15 0.17 0.14 −0.15 0.17 −0.41** 0.15 Domestic migrant −0.42 0.32 −0.30 0.24 0.15 0.28 −0.21 0.23 Same locality 0.02 0.14 −0.19 0.14 0.04 0.13 −0.23 0.12 Demographic characteristics Age 0.01 0.00 −0.01 0.00 0.01* 0.00 −0.01 0.00 Female 0.53*** 0.12 0.88*** 0.12 −0.48*** 0.12 −0.20* 0.10 Years of education −0.03* 0.01 −0.07*** 0.01 0.02 0.01 0.00 0.01 Employed 0.06 0.11 −0.06 0.10 0.13 0.11 0.14 0.09 Log of Household Expenditure −0.09 0.05 −0.03 0.05 −0.19** 0.06 −0.04 0.04 Previous migration history −0.05 0.09 0.05 0.09 −0.01 0.09 0.07 0.08 Transfers ( ref : no change ) Household net sender 0.09 0.17 −0.22 0.18 0.17 0.17 −0.25 0.16 Household net receiver 0.13 0.13 −0.17 0.13 −0.01 0.13 −0.43** 0.13 Do not know 0.30 0.39 0.13 0.40 −0.65 0.45 −0.18 0.36 Household characteristics Coresident spouse/partner −0.03 0.12 −0.24* 0.11 0.24 0.14 0.11 0.11 Number of offspring −0.02 0.02 −0.03 0.02 −0.02 0.02 0.01 0.02 Rural 0.00 0.10 0.15 0.09 −0.14 0.10 0.12 0.08 Constant −1.38** 0.53 −0.91 0.51 −0.24 0.56 −0.37 0.46 R2 0.028 0.017 Pseudo-LogLikelihood −3,791.87 −4,202.53 Source : Mexican Family Life Survey 2002 and 2005 .
+*p < .05 .
+**p < .01 .
+***p < .001 .
+986 Journal of Marriage and Family well-being , but was linked to slower improve- ments in anxiety and sadness .
+Finally , the presence of a partner and the number of off- spring had little bearing on changes to parents ’ well-being .
+To assess whether the effects of chil- dren ’ s migration are stronger for older versus middle-age parents , we modeled the interac- tion between our main independent variable and parental age .
+We found few consistent moderating effects of parents ’ age .
+In addi- tion , we tested for whether parents ’ gender moderated the relationship between offspring migration and parents ’ health and found no gender pattern in parental responses to a child ’ s departure .
+We present these models online in Appendix B .
+Discussion Contrary to our expectations , this study provides limited evidence that parents of U.S.-migrant children experience generally worse psycho- logical and emotional health outcomes once offspring leave compared to parents of off- spring who do not leave home .
+Specifically , we found no effect of children ’ s domestic or U.S. migration on overall depressive syndrome , measured through a modified version of the CCDSD scale , which counters results from a previous cross-sectional analysis of the MxFLS survey ( Silver , 2011 ) .
+However , our use of spe- cific indicators from the MxFLS mental health module offers a more nuanced description of some of the ways in which parents may be affected when children depart .
+Specifically , we found that a child ’ s U.S. migration decreased the chances that parents recover from sadness and increased parents ’ likelihood of experienc- ing loneliness when compared with parents of nonmovers .
+Notably , our results that parents of U.S. migrants were more likely to experience increases in loneliness echoes results from previ- ous research ( Silver , 2011 ) and also mirrors prior work citing associations between a husband ’ s migration and wives ’ subsequent loneliness using MxFLS panel data ( Nobles et al. , 2015 ) .
+We note that our finding regarding loneliness is likely underestimated due to the analytical sample bias we addressed earlier .
+In Mexico , similar to the United States , loneliness is corre- lated with increased frailty and physical health decline among older adults ( Herrera-Badilla , Navarrete-Reyes , Amieva , & Avila-Funes , 2015 ; Luo , Hawkley , Waite , & Cacioppo , 2012 ) .
+Public health officials have called for more effective tools to combat a potential “ loneliness epidemic ” that is driven in part by population aging ( Luo et al. , 2012 ) .
+Findings from our study highlight how a child ’ s migration may contribute to population-level concerns about social iso- lation and subjective feelings of loneliness in countries where international migration is common .
+Because we found no significant results for overall depressive syndrome , wishes to die , or anxiety , our results suggest that the disruption of intergenerational ties triggers very specific emotions for parents of U.S. migrants .
+On one hand , from a public health standpoint , our find- ing that suicidal thoughts were not significantly correlated with a child ’ s U.S. migration is affirm- ing in that offspring departure did not lead to such acute reactions .
+On the other hand , given that we found results for sadness and loneliness , why not anxiety ?
+It is possible that the role of new technologies allows for more sustained con- tact between parents and children that serves to dampen the concerns of parents when children cross the border ( Knodel et al. , 2010 ) .
+Another potential explanation is that out-migration has already left its strong presence on communities and departures are now normalized as part of the Mexican family experience ( Garip , 2017 ) , which results in less concern and worry among parents of U.S. migrants .
+Although we also predicted negative effects for parents of domestic migrants , we found no significant association between internal migra- tion and any of the psychological and emotional well-being indicators used in our analysis .
+In addition , we found no consistent moderating effects of age and gender on children ’ s migra- tion and parents ’ well-being .
+We expected that older parents , who rely on offspring more in later life to fulfill necessary instrumental , finan- cial , and emotional support , would be more negatively impacted by a child ’ s migration than younger parents .
+Our results suggest that this is not true .
+With respect to gender , we also anticipated that children ’ s migration would substitute for women ’ s own lack of resources ( Ross & Mirowsky , 2006 ; Yahirun , Sheehan , & Hayward , 2017 ) .
+However , we did not find that mothers were more vulnerable to the neg- ative consequences of offspring migration than fathers .
+Our findings indicate that the elderly and mothers , members of society who rely more Offspring Migration and Parents ’ Mental Health 987 on adult offspring for support , were not more susceptible to the negative consequences of a child ’ s departure .
+More research is needed to understand these patterns .
+We are aware of limitations to our study .
+First , our findings are specific to a subgroup of par- ents with coresident offspring in 2002 .
+Although our analytical strategy was strengthened by prior research showing how the majority of informal transfers to ( older ) parents comes from house- hold members ( Saad , 2010 ) , we acknowledge that our results may be biased by excluding chil- dren not living with parents at Wave 1 .
+For example , offspring living at home are likely to be younger than those who already established their own homes , and parent–child relationships may be closer than with offspring who do not live with parents .
+In addition , the migration of younger offspring may also signal the emptying of the parental nest , which may trigger any num- ber of outcomes for parents .
+In supplemental analyses ( not shown here ) we divided the sam- ple into those with only one child and those with two or more children living at home to assess whether there truly was an “ empty nest ” effect .
+We found that indeed , parents with only one coresident child at Wave 1 experienced worse outcomes for sadness and loneliness once chil- dren migrated to the United States , compared to reporting no change , than parents with more than one child at home .
+On the other hand , our results may also be weaker if our sample of parents in the nonmover category included parents of children who migrated previously .
+Although 12 % of parents with no children who moved between waves had other children liv- ing in the United States at the first survey wave , additional results ( not shown here ) found that controlling for children who were already liv- ing in the United States did not change our findings .
+Second , although available , this analysis did not account for the characteristics of the migrant children themselves .
+Parents ’ reactions to chil- dren ’ s migration may vary depending on the child ’ s gender , education , employment status , or premigration relationship with the parent , to name only a few characteristics .
+In addition , our analysis did not consider instrumental or social support provided by children to parents prior to migration , which is likely to affect parents ’ reac- tions when children leave .
+However , quantifying the characteristics of all children is extremely challenging when parents have more than one child , and children have the option of moving to more than one destination , as is the case with our data .
+Although we believe this to be a fruitful area for future research , accounting for the full range of offspring characteristics and behaviors prior to migration was beyond the scope of this article .
+Finally , although the MxFLS mental health module questions capture symptom severity ( e.g. , not , sometimes , often , always feeling a symptom ) , our measurement of the individual items that capture parents ’ sadness , loneliness , anxiety , or wishes to die assess symptom pres- ence only .
+By collapsing the scales for sadness , loneliness , anxiety , or wishes to die , our analysis did not assess the magnitude of the changes in parents ’ mental health over time .
+Thus , our results for sadness and loneliness can be inter- preted as a very general estimate of changes to parents ’ health .
+Despite these limitations , our use of lon- gitudinal data helps to mitigate some of the problems plaguing prior work .
+Using MxFLS panel data , we can confirm that a child ’ s migra- tion occurred in between our two measures of parents ’ emotional and psychological health in 2002 ( Wave 1 ) and 2005 to 2006 ( Wave 2 ) .
+We were also able to account for parents ’ characteristics in 2002 that potentially affect both offspring ’ s decision to migrate and parents ’ emotional and psychological well-being , such as parents ’ socioeconomic status and prior migra- tion history .
+Beyond the use of longitudinal data , our study also departs from previous research by distinguishing between migrant destinations .
+We ultimately found no significant effects of chil- dren ’ s domestic migration on parents ’ emotional and psychological well-being or from offspring who leave home but remain nearby when com- pared with parents of nonmovers .
+This allowed us to focus specifically on the process of moving to the United States that may be especially dis- tressing for parents .
+It is important to reiterate that most of the offspring in the MxFLS study who crossed the border between waves did so without legal authorization .
+One interpretation of our findings on loneliness and sadness is that parents whose children emigrated to the United States react to the distance as well as the chal- lenges of travelling between the two countries .
+Interviews with parents of U.S. migrants in other contexts attest to how parents perceive children ’ s migration as a significant loss , with some even comparing it to death ( Marchetti-Mercer , 2012 ) .
+988 Journal of Marriage and Family Parents , having lost an important source of social support , talked about ways in which they were forced to rearrange their lives after chil- dren left ( Marchetti-Mercer , 2012 ) .
+Although our data did not allow us to examine whether children discussed the length of their migration intentions with parents , the findings demonstrate that children ’ s migration has specific negative effects on parents ’ feelings of sadness and loneliness .
+In low- and middle-income countries such as Mexico , domestic and international migration play an important role in family life .
+For many households , a spouse ’ s , parent ’ s , or child ’ s migration enhances potential family resources by increasing the available pool of financial resources and social capital .
+Although prior research finds that a child ’ s international migra- tion can have a number of negative effects on parents ’ emotional health and well-being ( Abas et al. , 2009 ; Adhikari et al. , 2014 ; Antman , 2010 ; Guo et al. , 2009 ; Silver , 2011 ; Silver- stein et al. , 2006 ) , the results from our study provided only limited support for this , with findings specifically highlighting a greater likelihood of increases in parental loneliness and a lower likelihood of recovering from sadness once children migrate to the United States .
+These findings add to a growing body of work that points to the potential consequences of migration for the health and well-being of family members who remain in the place of origin .
+Note This article was presented at the annual meeting of the Population Association of America , April 15–17 , 2010 , Dallas , TX .
+The authors are grateful for fellowship sup- port to Yahirun from the National Institute of Aging ( T32-AG033533 ) at the California Center for Population Research at the University of California , Los Angeles and from the Eunice Kennedy Shriver National Institute of Child Health and Human Development ( T32-HD007081-35 ) at the Population Research Center at the University of Texas at Austin and to Arenas from the Fogarty International Center .
+The project was also supported in part by the California Center for Population Research , which receives infrastruc- ture support from National Institute of Child Health and Human Development ( R24-HD041022 ) and from funding by the Wilshire Foundation at the University of California , Los Angeles School of Public Health .
+The authors are grateful to Robert D. Mare , Graciela Teruel , members of the Mare-Seltzer research group at the University of California , Los Angeles , and the population health lab at the University of Texas at Austin for comments on earlier drafts of this article .
+Supporting Information Additional supporting information may be found online in the Supporting Information section at the end of the article .
+Table A1 .
+Questions from MxFLS Mental Health Module , 2002 and 2005/6 .
+Table B1 .
+Multinomial logistic regression predicting changes in well-being among Mexican parents with interac- tions for age ( N= 4,718 ) Table B2 .
+Multinomial logistic regression predicting changes in well-being among Mexican parents with interactions for gender ( N= 4,718 ) References Abas , M. A. , Punpuing , S. , Jirapramukpitak , T. , Guest , P. , Tangchonlatip , K. , Leese , M. , & Prince , M. ( 2009 ) .
+Rural–urban migration and depression in ageing family members left behind .
+British Journal of Psychiatry , 195 , 54–60 .
+https : //doi.org/ 10.1192/bjp.bp.108.056143 Adhikari , R. , Jampaklay , A. , Chamratrithirong , A. , Pattaravanich , U. , & Vapattanawong , P. ( 2014 ) .
+The impact of parental migration on the men- tal health of children left behind .
+Journal of Immigrant and Minority Health , 16 , 781–789 .
+https : //doi.org/10.1007/s10903-013-9809-5 Aguila , E. , Diaz , C. , Fu , M. M. , Kapteyn , A. , & Pier- son , A .
+( 2011 ) .
+Living longer in Mexico : Income security and health .
+Santa Monica , CA : RAND .
+Aneshensel , C. S. ( 1992 ) .
+Social stress—Theory and research .
+Annual Review of Sociology , 18 , 15–38 .
+https : //doi.org/10.1146/annurev.so.18.080192 .000311 Angel , J. L. , Angel , R. J. , López-Ortega , M. , Robledo , L. M. G. , & Wallace , R. B .
+( 2016 ) .
+Institutional context of family eldercare in Mexico and the United States .
+Journal of Cross-Cultural Gerontol- ogy , 31 , 327–336 .
+https : //doi.org/10.1007/s10823- 016-9291-3 Angel , J. L. , Vega , W. , & López-Ortega , M. ( 2017 ) .
+Aging in Mexico : Population trends and emerging issues .
+The Gerontologist , 57 , 153–162 .
+https : //doi .org/10.1093/geront/gnw136 Antman , F. M. ( 2010 ) .
+Adult child migration and the health of elderly parents left behind in Mex- ico .
+American Economic Review , 100 , 205–208 .
+https : //doi.org/10.1257/aer.100.2.205 Arizpe , L. ( 2014 ) .
+Women in the informal labour sector : The case of Mexico City .
+In L. Arizpe ( Ed .
+) , A Mexican pioneer in anthropology ( pp .
+103–114 ) .
+Cham : Springer International .
+Atkinson , A .
+B .
+( 1992 ) .
+Measuring poverty and differ- ences in family composition .
+Economica , 59 ( 233 ) , 1–16 .
+https : //doi.org/10.2307/2555062 Baldassar , L. , Baldock , C. V. , & Wilding , R. ( 2007 ) .
+Families caring across borders : Migration , ageing and transnational caregiving .
+New York : Palgrave Macmillan .
+Offspring Migration and Parents ’ Mental Health 989 Baldock , C. V. ( 2000 ) .
+Migrants and their parents— Caregiving from a distance .
+Journal of Family Issues , 21 , 205–224 .
+https : //doi.org/10.1177/ 019251300021002004 Calderón , G. N. ( 1997 ) .
+Un cuestionario para sim- plicar el diagnóstico del síndrome depresivo .
+Revista de Neuro-Psiquiatría , 60 , 127–135 .
+Das , J. , Do , Q.-T. , Friedman , J. , McKenzie , D. , & Scott , K. ( 2007 ) .
+Mental health and poverty in developing countries : Revisiting the relationship .
+Social Science & Medicine , 65 , 467–480 .
+https : // doi.org/10.1016/j.socscimed.2007.02.037 De Snyder , V. N. S. ( 1993 ) .
+Family-life across the border—Mexican wives left behind .
+Hispanic Journal of Behavioral Sciences , 15 , 391–401 .
+https : //doi.org/10.1177/07399863930153008 De Vos , S. , Solis , P. , & De Oca , V. M. ( 2004 ) .
+Receipt of assistance and extended family residence among elderly men in Mexico .
+International Journal of Aging & Human Development , 58 , 1–27 .
+https : // doi.org/10.2190/dv0c-8na9-8xk1-r9qx Deaton , A .
+( 1997 ) .
+The analysis of household surveys : A microeconometric approach to development pol- icy .
+Washington , DC : The World Bank .
+Deaton , A. , & Zaidi , S. ( 2002 ) .
+Guidelines for constructing consumption aggregates for wel- fare analysis .
+Washington , DC : The World Bank .
+Dewit , D. J. , & Frankel , B. G. ( 1988 ) .
+Geographic distance and intergenerational contact—A critical- assessment and review of the literature .
+Journal of Aging Studies , 2 , 25–43 .
+https : //doi.org/10.1016/ 0890-4065 ( 88 ) 90012-6 Diaz-Loving , R. ( 2006 ) .
+Mexico .
+In G. Berry , J. W. James , F. J. R. van de Vijver , Ç. Kagitçibasi , & Y. H. Poortinga ( Eds .
+) , Families across cultures : A 30-nation psychological study ( pp .
+394–401 ) .
+New York : Cambridge University Press .
+Donato , K. M. , & Armenta , A .
+( 2011 ) .
+What we know about unauthorized migration .
+Annual Review of Sociology , 37 , 529–543 .
+https : //doi.org/10.1146/ annurev-soc-081309-150216 Dreby , J .
+( 2010 ) .
+Divided by borders : Mexican migrants and their children .
+Berkeley : University of California Press .
+Farfán , G. , Genoni , M. , Rubalcava , L. , Teruel , G. , Thomas , D. & Velasquez , A .
+( 2014 , May ) .
+Inter- national transfers by Mexican migrants in the United States .
+Paper presented at the Popula- tion Association of America Annual Meeting , Boston , MA .
+Finkler , K. ( 1994 ) .
+Women in pain : Gender and mor- bidity in Mexico .
+Philadelphia : University of Penn- sylvania Press .
+Flippen , C. ( 2015 ) .
+Lifelines : The implications of migrant remittances and transnational elder care for the financial security of low-income Hispanic immigrants in the United States .
+In J. Angel , K. Markides , W. Vega , & F. Torres-Gil ( Eds .
+) , Challenges of Latino aging in the Americas ( pp .
+121–140 ) .
+New York : Springer .
+Fuller-Iglesias , H. , & Antonucci , T. C. ( 2016 ) .
+Familism , social networks characteristics , and well-being among older adults in Mexico .
+Jour- nal of Cross-Cultural Gerontology , 31 ( 1 ) , 1–17 .
+https : //doi.org/10.1007/s10823-015-9278-5 Garip , F. ( 2017 ) .
+On the move : Changing mechanisms of Mexico–U.S .
+migration , Princeton : Princeton University Press .
+Gaviria , S. L. , & Rondon , M. B .
+( 2010 ) .
+Some consid- erations on women ’ s mental health in Latin Amer- ica and the Caribbean .
+International Review of Psy- chiatry , 22 ( 4 ) , 363–369 .
+https : //doi.org/10.3109/ 09540261.2010.500868 Gomes , C. ( 2007 ) .
+Intergenerational exchanges in Mexico : Types and intensity of support .
+Current Sociology , 55 , 545–560 .
+https : //doi.org/10.1177/ 0011392107 Gonzalez-Barrera , A .
+( 2015 ) .
+More Mexicans leaving than coming to the U.S. Washington , DC : Pew Research Center .
+Grajeda , E. D. , & Ward , P. M. ( 2012 ) .
+Inheritance and succession in informal settlements of Latin Amer- ican cities : A Mexican case study .
+Latin American Research Review , 47 , 139–162 .
+https : //doi.org/10 .1353/lar.2012.0057 Grant , G. , Falkingham , J. , & Evandrou , M. ( 2009 ) .
+The impact of adult children ’ s migration on well- being in later life : Voices from Moldova ( Center for Research on Ageing Discussion Paper ) .
+Uni- versity of Southhampton .
+Guo , M. , Aranda , M. , & Silverstein , M. ( 2009 ) .
+The impact of out-migration on the inter-generational support and psycho- logical wellbeing of older adults in rural China .
+Ageing and Society , 29 ( 7 ) , 1085–1104 .
+https : //doi.org/10.1017/S0144686X0900871X Herrera-Badilla , A. , Navarrete-Reyes , A. P. , Amieva , H. , & Avila-Funes , J .
+A .
+( 2015 ) .
+Loneliness is asso- ciated with frailty in community-dwelling elderly adults .
+Journal of the American Geriatrics Society , 63 , 607–609 .
+https : //doi.org/10.1111/jgs.13308 Hochschild , A .
+( 2002 ) .
+Love and gold .
+In B. Ehren- reich & A. Hochschild ( Eds .
+) , Global woman : Nannies , maids and sex workers in the new econ- omy ( pp .
+34–46 ) .
+New York : Metropolitan .
+Holmes , S. M. ( 2013 ) .
+`` Is it worth risking your life ?
+`` : Ethnography , risk and death on the US-Mexico border .
+Social Science & Medicine , 99 , 153–161 .
+https : //doi.org/10.1016/j.socscimed.2013.05.029 .
+International Labour Organization .
+( 2012 ) .
+Statistical update on employment in the informal economy .
+Jiménez , P. A .
+( 2012 ) .
+Acercamiento a la situación de las abuelas que cuidad a nietos y nietas en una localidad rural del estado de Hidalgo .
+Alegatos , 79 , 847–874 .
+Kanaiaupuni , S. M. ( 2000 ) .
+Leaving parents behind : Migration and elderly living arrangements in 990 Journal of Marriage and Family Mexico .
+Madison , WI : University of Wisconsin : Center for Demography and Ecology .
+Kandel , W. , & Massey , D. S. ( 2002 ) .
+The culture of Mexican migration : A theoretical and empirical analysis .
+Social Forces , 80 ( 3 ) , 981–1004 .
+https : // doi.org/10.1353/sof.2002.0009 Knodel , J. , Kespichayawattana , J. , Saengtienchai , C. , & Wiwatwanich , S. ( 2010 ) .
+How left behind are rural parents of migrant children ?
+Evidence from Thailand .
+Ageing & Society , 30 , 811–841 .
+https : // doi.org/10.1017/s0144686x09990699 Knodel , J. , & Saengtienchai , C. ( 2007 ) .
+Rural parents with urban children : Social and economic impli- cations of migration for the rural elderly in Thai- land .
+Population Space and Place , 13 ( 3 ) , 193–210 .
+https : //doi.org/10.1002/psp.436 Krogstad , J. M. ( 2016 ) .
+5 facts about Mexico and immigration to the U.S. Washington , DC : Pew Research Center .
+Litwak , E. ( 1960 ) .
+Geographic mobility and extended family cohesion .
+American Sociological Review , 25 , 385–394 .
+https : //doi.org/10.2307/2092085 Lu , Y. , Hu , P. , & Treiman , D. J .
+( 2012 ) .
+Migra- tion and depressive symptoms in migrant-sending areas : Findings from the survey of internal migra- tion and health in China .
+International Journal of Public Health , 57 , 691–698 .
+https : //doi.org/10 .1007/s00038-011-0314-0 Luo , Y. , Hawkley , L. C. , Waite , L. J. , & Cacioppo , J. T. ( 2012 ) .
+Loneliness , health , and mortality in old age : A national longitudinal study .
+Social Science & Medicine , 74 , 907–914 .
+https : //doi.org/10.1016/ j.socscimed.2011.11.028 Marchetti-Mercer , M. C. ( 2012 ) .
+Those easily for- gotten : The impact of emigration on those left behind .
+Family Process , 51 , 376–390 .
+https : //doi .org/10.1111/j.1545-5300.2012.01407.x Mendez-Luck , C. A. , Kennedy , D. P. , & Wallace , S. P. ( 2009 ) .
+Guardians of health : The dimensions of elder caregiving among women in a Mexico City neighborhood .
+Social Science & Medicine , 68 , 228–234 .
+https : //doi.org/10.1016/j.socscimed .2008.10.026 Menjivar , C. , Abrego , L. , & Schmalzbauer , L. ( 2016 ) .
+Immigrant families .
+Cambridge : Polity Press .
+Miltiades , H. B .
+( 2002 ) .
+The social and psycho- logical effect of an adult child ’ s emigration on non-immigrant Asian Indian elderly parents .
+Jour- nal of Cross-Cultural Gerontology , 17 , 33–55 .
+https : //doi.org/10.1023/A:1014868118739 Monkkonen , P. ( 2011 ) .
+The housing transition in Mex- ico : Expanding access to housing finance .
+Urban Affairs Review , 47 , 672–695 .
+https : //doi.org/10 .1177/10780874114 Nobles , J .
+( 2008 , August ) .
+The sending experience of Mexican migration : Psychological distress among wives in Mexico .
+Paper presented at the American Sociological Association Annual Meeting , Boston , MA .
+Nobles , J. , Rubalcava , L. , & Teruel , G. ( 2015 ) .
+After spouses depart : Emotional wellbeing among nonmigrant Mexican mothers .
+Social Science & Medicine , 132 , 236–244 .
+https : //doi.org/10.1016/j .socscimed.2014.11.009 Parrado , E. A. , & Zenteno , R. M. ( 2001 ) .
+Economic restructuring , financial crises , and women ’ s work in Mexico .
+Social Problems , 48 , 456–477 .
+https : // doi.org/10.1525/sp.2001.48.4.456 Parreñas , R. S. ( 2005 ) .
+Children of global migration : Transnational families and gendered woes .
+Stan- ford , CA : Stanford University Press .
+Partidas , R. ( 2004 ) .
+Trabajadoras de la electrónica en Jalisco : Las abuelas como proveedoras del cuidado infantil .
+El Cotidiano , 19 ( 125 ) , 68–77 .
+Passel , J. , Cohn , D. V. , & Gonzalez-Barrera , A .
+( 2012 ) .
+Net migration from Mexico falls to zero—And perhaps less .
+Washington , DC : Pew Hispanic Center .
+Pérez , C. E. , & Santos , C. C. ( 2013 ) .
+Tendencias recientes de la migración interna en México .
+Pape- les de Población , 19 ( 76 ) , 53–88 .
+Quashie , N. , & Zimmer , Z .
+( 2013 ) .
+Residential prox- imity of nearest child and older adults ’ receipts of informal support transfers in Barbados .
+Ageing & Society , 33 , 320–341 .
+https : //doi.org/10.1017/ s0144686x1100122x Quashie , N. T. ( 2015 ) .
+Intergenerational transfers in urban Mexico : Residential location of children and their siblings .
+In W. A. Vega , K. S. Markides , J. L. Angel , & F. M. Torres-Gil ( Eds .
+) , Challenges of Latino Aging in the Americas ( pp .
+247–266 ) .
+New York : Springer .
+Rapoport , H. , & Docquier , F. ( 2005 ) .
+The economics of migrants ’ remittances ( IZA Institute of Labor Economics Discussion Paper No .
+1531 ) .
+Bonn : IZA Institute of Labor Economics .
+Rindfuss , R. R. , Piotrowski , M. , Entwisle , B. , Edmeades , J. , & Faust , K. ( 2012 ) .
+Migrant remittances and the web of family obligations : Ongoing support among spatially extended kin in north-east Thailand , 1984–94 .
+Population Studies , 66 , 87–104 .
+https : //doi.org/10.1080/00324728 .2011.644429 Rojas , M. ( 2011 ) .
+Poverty and psychological distress in Latin America .
+Journal of Economic Psychol- ogy , 32 , 206–217 .
+https : //doi.org/10.1016/j.joep .2010.01.014 Ross , C. E. , & Mirowsky , J .
+( 2006 ) .
+Sex differences in the effect of education on depression : Resource multiplication or resource substitution ?
+Social Sci- ence & Medicine , 63 , 1400–1413 .
+https : //doi.org/ 10.1016/j.socscimed.2006.03.013 Ruggles , S. , & Heggeness , M. ( 2008 ) .
+Intergen- erational coresidence in developing countries .
+Population and Development Review , 34 , 253–281 .
+https : //doi.org/10.1111/j.1728-4457 .2008.00219.x Offspring Migration and Parents ’ Mental Health 991 Saad , P. M. ( 2010 , June ) .
+Recent trends in intergen- erational coresidence and transfers in Latin Amer- ica and the Caribbean .
+Paper presented at the 7th Global NTA Meeting : Population Aging and the Generational Economy , Honolulu , HI .
+Schmalzbauer , L. ( 2004 ) .
+Searching for wages and mothering from afar : The case of Honduran transnational families .
+Journal of Marriage and Family , 66 , 1317–1331 .
+https : //doi.org/10.1111/j .0022-2445.2004.00095.x Schmalzbauer , L. ( 2014 ) .
+The last best place ?
+Gender , family , and migration in the new West .
+Stanford , CA : Stanford University Press .
+Silver , A .
+( 2011 ) .
+Families across borders : The emo- tional impacts of migration on origin families .
+International Migration , 52 ( 3 ) , 194–220 .
+https : // doi.org/10.1111/j.1468-2435.2010.00672.x Silverstein , M. , Cong , Z. , & Li , S. ( 2006 ) .
+Intergener- ational transfers and living arrangements of older people in rural China : Consequences for psycho- logical well-being .
+Journals of Gerontology Series B : Psychological Sciences and Social Sciences , 61 ( 5 ) , S256–S266 .
+Song , Q .
+( 2016 ) .
+Facing “ double jeopardy ” ?
+Depressive symptoms in left-behind elderly in rural China .
+Journal of Aging and Health .
+https : //doi.org/10.1177/0898264316659964 Stark , O. , & Bloom , D. E. ( 1985 ) .
+The new economics of labor migration .
+American Economic Review , 75 , 173–178 .
+StataCorp .
+( 2015 ) .
+Stata statistical software : Release 14 .
+College Station , TX : StataCorp LP .
+Sun , K. C. ( 2012 ) .
+Fashioning the reciprocal norms of elder care : A case of immigrants in the United States and their parents in Taiwan .
+Journal of Fam- ily Issues , 33 , 1240–1271 .
+https : //doi.org/10.1177/ 0192513x12445564 Villarreal , A. , & Yu , W. ( 2007 ) .
+Economic global- ization and women ’ s employment : The case of manufacturing in Mexico .
+American Sociologi- cal Review , 72 , 365–389 .
+https : //doi.org/10.1177/ 000312240707200303 Wong , R. ( 2011 ) .
+Mexican health and aging study results to date .
+Retrieved from http : //www.utmb.edu/experts/profile137.aspx Wong , R. , Espinoza , M. , & Palloni , A .
+( 2007 ) .
+Mexican older adults with a wide socioeconomic perspective : health and aging [ Adultos mayores mexicanos en contexto socioeconomico amplio : salud y envejecimiento . ] .
+Salud publica de Mexico , 49 ( Suppl 4 ) , S436–S447 .
+Wong , R. , & Palloni , A .
+( 2009 ) .
+Aging in Mex- ico and Latin America .
+In P. Uhlenburg ( Ed .
+) , International handbook of population aging ( pp .
+231–252 ) .
+Dordrecht , the Netherlands : Springer .
+Yahirun , J. J. , Sheehan , C. M. , & Hayward , M. G. ( 2017 ) .
+Adult children ’ s education and changes to parents ’ physical health in Mexico .
+Social Sci- ence and Medicine , 181 , 93–101 .
+https : //doi.org/ 10.1016/j.socscimed.2017.03.034 Yan , X. Y. , Huang , S. M. , Huang , C. Q. , Wu , W. H. , & Qin , Y .
+( 2011 ) .
+Marital status and risk for late life depression : A meta-analysis of the pub- lished literature .
+Journal of International Medical Research , 39 , 1142–1154 .
+https : //doi.org/10.1177/ 147323001103900402 Zimmer , Z. , Rada , C. , & Stoica , C. A .
+( 2014 ) .
+Migra- tion , location and provision of support to older parents : The case of Romania .
+Journal of Popula- tion Ageing , 7 , 161–184 .
+https : //doi.org/10.1007/ s12062-014-9101-z

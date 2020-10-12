@@ -1,0 +1,480 @@
+Talukdar_JournMarket_2013_mykV.pdf
+ahBCv46mXscj5DYyXS.V8nfFmXbG-Talukdar_JournMarket_2013_mykV.pdf.plain.html
+
+124 Journal of Marketing Volume 77 ( March 2013 ) , 124 –138 © 2013 , American Marketing Association ISSN : 0022-2429 ( print ) , 1547-7185 ( electronic ) Debabrata Talukdar & Charles Lindsey To Buy or Not to Buy : Consumers ’ Demand Response Patterns for Healthy Versus Unhealthy Food The authors integrate research on impulsivity from the psychology area with standard economic theories of consumer demand to make novel predictions about the effects of market price changes on consumers ’ food consumption behavior .
+The results from multiple studies confirm that consumers exhibit undesirable asymmetric patterns of demand sensitivity to price changes for healthy and unhealthy food .
+For healthy food , demand sensitivity is greater for a price increase than for a price decrease .
+For unhealthy food , the opposite holds true .
+The research further shows that the undesirable patterns are attenuated or magnified for key policy-relevant factors that have been shown to decrease or increase impulsive purchase behavior , respectively .
+As the rising obesity trend brings American consumers ’ food consumption behavior under increased scrutiny , the focal findings hold significant implications for both public policy makers and food marketers .
+Keywords : pricing , food , health , social networks , fear Debabrata Talukdar is Professor of Marketing ( e-mail : dtalukda @ buffalo .
+edu ) , and Charles Lindsey is Assistant Professor of Marketing ( e-mail : clindsey @ buffalo.edu ) , School of Management , State University of New York at Buffalo .
+Both authors contributed equally to this work .
+The authors thank the three anonymous JM reviewers for their invaluable feedback during the review process .
+Barbara Kahn served as area editor for this article .
+Obesity has recently reached epidemic levels in theUnited States , and as a result , U.S. consumers ’ foodconsumption behavior has come under increased scrutiny ( Seiders and Petty 2004 ) .
+The public health litera- ture suggests that a large percentage of food products pur- chased from grocery stores are unhealthy ( Treuhaft and Karpyn 2010 ) .
+Thus , a natural public policy imperative is to identify avenues that may nudge consumers from the con- sumption of unhealthy food choices to healthier food options ( Thaler and Sunstein 2008 ) .
+A potential avenue for altering the composition of consumers ’ food baskets that has received increased attention of late is the link between food prices and consumers ’ food consumption behavior ( Drewnowski and Darmon 2005 ) .
+In particular , emphasis has been on the role of economic policy tools , in the form of surcharges and subsidies on food products , to promote healthier food consumption behavior ( Brownell and Frieden 2009 ) .
+An important prerequisite to effective design of such economic policy tools is a clear understanding of the under- lying nature of consumers ’ demand response patterns to price changes for healthy and unhealthy foods ( Epstein et al .
+2010 ) .
+In this context , imagine the following typical market setting for a hi-lo grocer .
+Assume that the price for a healthy and an unhealthy food item is $ 1 each in March , $ .90 in April , and $ 1 again in May .
+In addition , assume that the ini- tial quantity demanded in March is 100 units for each item .
+On the one hand , if the underlying nature of consumers ’ demand response pattern to price changes is symmetric ( say , with a price elasticity of –.75 for a price increase/ decrease for each item ) , the quantity demanded for each item in April and May will be 107.5 units and 99.99 units , respectively .
+On the other hand , if the underlying nature of consumers ’ demand response pattern to price changes is asymmetric ( say , with a price elasticity of –.5 for a price increase and –1 for a price decrease for the healthy item , and –1 for a price increase and –.5 for a price decrease for the unhealthy item ) , the quantity demanded for the healthy item in April and May will be 105 units and 93.45 units , respec- tively ; the quantity demanded for the unhealthy item in April and May will be 110 units and 103.95 units , respectively .
+Note that in the preceding example , the average price elasticity values for both types of food items are the same between and across the symmetric and asymmetric scenar- ios , and yet the final quantities demanded are substantially different between the symmetric versus asymmetric scenar- ios for each food item .
+Equally noteworthy are the contrast- ing final demand quantities between the two food items under the asymmetric scenario .
+Specifically , even though the price in May is back to its initial value , quantity demanded is lower than the original quantity demanded for the healthy item but higher than the original quantity demanded for the unhealthy item .
+In other words , from a public health perspective , this illustrates a case of undesir- able asymmetry in consumers ’ demand response patterns .
+The previous example highlights how a clear under- standing of the underlying nature of demand response pat- terns to price changes—whether they are symmetric or asymmetric and the specific direction of asymmetry—is essential to evaluating how such price changes will affect To Buy or Not to Buy / 125 consumers ’ food consumption behavior .
+Unfortunately , despite the recent research focus on food consumption in the face of rising obesity , there is still a paucity of research that investigates demand response patterns to price changes for both healthy and unhealthy food , employing grounded theory and using primary and secondary data sources— thereby limiting the current level of understanding for developing effective economic policy tools to promote healthier food consumption ( Andreyeva , Long , and Brownell 2010 ; Epstein et al .
+2010 ) .
+The current article integrates impulsivity research from psychology with standard economic theories to make novel predictions about the effect of price changes on demand response sensitivity for healthy and unhealthy food .
+We first test these predictions by using extensive supermarket scan- ner data , consisting of consumers ’ demand responses to price increases and decreases across multiple product cate- gories .
+A unique prediction and finding is that not only do consumers exhibit asymmetric patterns of demand sensitiv- ity to price changes for both healthy and unhealthy food , but they do so in opposite and undesirable directions .
+Specifically , demand sensitivity for healthy food is greater for a price increase than for a price decrease , whereas the pattern is reversed for unhealthy food .
+An experimental sur- vey and a controlled experiment conceptually replicate the key results from the supermarket study .
+From a public policy perspective , the preceding finding implies that the effectiveness of economic interventions in inducing healthier food consumption—through price increases ( decreases ) from surcharges ( subsidies ) on un - healthy ( healthy ) food—will be much more limited than typically projected , on the basis of the default but misplaced premise of symmetric patterns of demand response in the current public policy discourse .
+From a food marketing per- spective , the preceding finding sheds important new light on the relative efficacy of price promotions for healthy ver- sus unhealthy food .
+For example , demand for a healthy food item is likely to receive a more limited boost than expected from a price promotion and may actually fall below its baseline demand level after the promotional price reverts to its regular price .
+Finally , our series of studies further predicts and shows that the undesirable asymmetric demand response patterns are moderated by several policy-relevant variables , which have been shown to either attenuate or exacerbate impulsive purchase behavior .
+Perhaps the most notable one , from both food marketing and public policy perspectives , is that food demand response patterns may be nudged in a healthier direction by merely priming participants to think about the enabling peer support aspects of social networks or by exposing participants to specifically constructed social net- work appeals .
+Next , we discuss our conceptual framework , followed by a delineation of the associated hypotheses .
+Conceptual Framework Rational Demand The economic theory underlying consumers ’ demand response to price changes is well established and follows the so-called law of demand ( Marshall 1895 ) .
+The law states that , except for a few products called “ Giffen goods , ” for which demand increases in response to a price increase , there is an inverse relationship in the directionality between price change for products and consumers ’ demand response ( Jensen and Miller 2008 ) .
+This law implies that the rational response for consumers is to demand less of a product whenever its price increases , and vice versa .
+A fundamental concept related to the law is the notion of price elasticity , which measures the sensitivity of consumers ’ demand response to price changes ( i.e. , the percentage change in demand for a 1 % change in price ) .
+A typical premise in studies of price elasticity , including those focusing on food items , is that while consumers ’ demand response exhibits a negative relationship with price change , the sensitivity of such response is identical or sym- metric with respect to the directionality of the price change ( Andreyeva , Long , and Brownell 2010 ; Bijmolt , Van Heerde , and Pieters 2005 ; Epstein et al .
+2010 ) .
+In other words , while the price elasticity value will always have a negative sign , the value itself will remain the same irrespec- tive of a price increase or decrease .
+However , there is empirical evidence from studies in the marketing area that , for some consumer packaged goods , consumers may exhibit an asymmetric pattern of demand response sensitiv- ity with respect to the directionality of the price changes ( Johnson and Meyer 1994 ) .
+In the context of the present study , this raises the following important questions : Should we expect an asymmetric pattern of demand sensitivity to price changes for common food items ?
+If so , should such patterns be the same for healthy and unhealthy foods ?
+If not , why and how should we expect them to differ ?
+We next discuss relevant theoretical perspectives from the psychol- ogy area , which , when integrated with those from the eco- nomics area , help address these questions .
+Impulsive Demand Prior research in consumer psychology has shown that con- sumers exhibit natural consumption tendencies for both unhealthy and healthy food , but in opposite directions—an overconsumption impulse for unhealthy food and an under- consumption impulse for healthy food ( e.g. , Finkelstein and Fishbach 2010 ; Loewenstein 1996 ; Raghunathan , Naylor , and Hoyer 2006 ; Wansink and Huckabee 2005 ) .
+The under- lying reason for these natural impulses reflects fundamental perceptual and sensory differences in palatability for unhealthy and healthy food .
+For example , researchers have found systematic evidence suggesting that people operate under the implicit intuition that “ unhealthy food = tasty ” ( Raghunathan , Naylor , and Hoyer 2006 , p. 170 ) .
+In con- trast , healthy foods are intuitively assumed to be bland .
+Several studies have explored the sensory basis for such perceptions and have demonstrated that unhealthy food is typically considered more palatable than healthy food , with palatability ratings being positively correlated to fat content and macronutrient intake ( Stubbs and Whybrow 2004 ) .
+Researchers posit that these natural over- and undercon- sumption impulses for unhealthy and healthy foods , and their perceptual and sensory drivers , have an evolutionary basis .
+For example , Wansink and Huckabee ( 2005 , p. 8 ) note that “ fatty foods helped our ancestors weather food shortages , … [ and ] sugar and the sweetness associated with it helped them distinguish edible berries from poisonous ones. ” Furthermore , studies show that energy-dense ( i.e. , unhealthy ) foods , while worse for long-term health , are bet- ter than non-energy-dense foods in providing short-term energy stores , which human beings have been hardwired to favor ( Ostan et al .
+2010 ) .
+Exacerbating and Mitigating Factors for Impulsive Demand The previously discussed natural impulses to overconsume unhealthy food and underconsume healthy food runs counter to the desire of “ most people to cherish long and healthy lives ” ( Thomas , Desai , and Seenivasan 2011 , p. 127 ) .
+This tension highlights the inherent conflict between the impul- sive and reflective or regulatory behavioral systems ( Loewenstein 1996 ; Metcalfe and Mischel 1999 ) , most recently denoted as Systems 1 and 2 by Kahneman ( 2011 ) .
+System 1 is present oriented and driven by emotion and desire , while System 2 is future based and driven by cogni- tion and willpower .
+For example , “ urges to consume … junk food occur in System 1 and lead to impulsive behavior when System 2 is not able to control System 1 ” ( Lades 2012 , p. 5 ) .
+A key finding in this research domain is that the degree of impulsive behavior for a person in any specific decision scenario is contingent on the level of willpower that System 2 exerts on System 1 ( Loewenstein 1996 ) .
+Thus , factors that have been shown to moderate reflec- tive or regulative behavior can be expected to influence the intensity of consumers ’ natural impulses to overconsume unhealthy food and underconsume healthy food .
+Such fac- tors may be attributable to individual differences or be con- textual in origin .
+For example , research has shown that income and age can influence regulatory behavior and thus impulsive consumption ( Killgore and Yurgelun-Todd 2005 ) .
+Recent research has also shown that the method of payment at the time of a purchase can make it either viscerally more difficult to resist or easier to give in to impulsive urges ( Thomas , Desai , and Seenivasan 2011 ) .
+Summary of Key Elements Our focus is on demand response to price changes in the marketplace for healthy and unhealthy food .
+Taking into account only rational economic forces , demand response should have a negative relationship with price change , but the sensitivity of such response should be identical or sym- metric in terms of directionality of the change ( Andreyeva , Long , and Brownell 2010 ; Bijmolt , Van Heerde , and Pieters 2005 ; Epstein et al .
+2010 ) .
+However , consumers are also subject to psychological impulses when it comes to food consumption behavior—to overconsume unhealthy food and underconsume healthy food ( e.g. , Finkelstein and Fish- bach 2010 ) .
+In addition , given the presence of dual or com- peting ( impulsive vs. regulatory ) behavioral systems ( Kah- neman 2011 ; Loewenstein 1996 ; Metcalfe and Mischel 1999 ) , factors that influence willpower can exacerbate or mitigate these natural consumption impulses .
+We next inte- grate the aforementioned three key elements of our concep- tual framework to develop a set of empirically testable hypotheses in terms of consumers ’ demand response pat- terns to price changes for healthy and unhealthy foods .
+Hypotheses Main Asymmetric Effect As we noted previously , people ’ s sensory- and perceptual- based preferences for unhealthy versus healthy food result in an impulsive tendency to overconsume the former and underconsume the latter ( e.g. , Hausman 2012 ) .
+When this impulsive behavioral tendency is considered in light of the rational economic behavioral tendency as per the law of demand , the following suppositions unfold .
+For healthy food , the rational economic response to decrease quantity demanded for a price increase is reinforced by the natural impulse to underconsume .
+Moreover , the rational economic response to increase quantity demanded for a price decrease is counteracted by the natural impulse to underconsume .
+Consequently , for healthy food , we expect the rational demand response to reduce quantity when faced with a price increase to be stronger than the rational demand response to increase quantity when faced with a price decrease .
+In contrast , because of the natural impulse to overconsume unhealthy food , analogous reasoning implies the opposite outcome for unhealthy food .
+In this context , it is pertinent to note that prior research has indicated that consumers perceive price changes in the marketplace in relation to some internal reference prices ( IRPs ; Mazumdar , Raj , and Sinha 2005 ) .
+For example , as Winer ( 1988 , p. 35 ) states , “ defining p¢¢ to be the observed retail price and p¢ to be the individual ’ s internal reference price , the underlying assumption of this ( behavioral pric- ing ) literature is that positive values of ( p¢¢ – p¢ ) are per- ceived negatively … while negative values of ( p¢¢ – p¢ ) are viewed positively. ” Previous research has measured IRP either through the most recent price at which a product was purchased or through an extrapolative model based on a given number of past prices encountered ( Janiszewski and Lichtenstein 1999 ) .
+In our study , we operationalize IRP in terms of the most recent or last purchase price .
+The preceding discussion implies that for unhealthy ( healthy ) food , a given percentage increase in price relative to the last purchase price will elicit a smaller ( larger ) decrease in demand quantity from consumers than the increase in demand quantity triggered by the same percent- age decrease in price .
+In other words , although the quantity that consumers demand for both unhealthy and healthy food should rise or fall as price decreases or increases ( as per the first law of demand ) , we expect each food type to exhibit an asymmetric pattern of demand sensitivity to price changes , but in opposite directions .
+Stated formally : H1 : For unhealthy food , consumers ’ demand response sensi- tivity is greater for a price decrease than that for a price increase , relative to the last purchase price .
+H2 : For healthy food , consumers ’ demand response sensitivity is greater for a price increase than that for a price decrease , relative to the last purchase price .
+126 / Journal of Marketing , March 2013 To Buy or Not to Buy / 127 Exacerbating Factors Naturally , any factor that exacerbates consumers ’ impulsive food consumption behavior will accentuate the relative effect of impulsive demand on rational demand , thereby magnifying the main asymmetric patterns in demand response to price changes noted previously .
+Here , we dis- cuss three specific exacerbating factors highlighted in impulsivity research and delineate the related hypotheses .
+Bank card usage .
+When consumers pay with a credit card , the pleasure derived from acquiring goods is tempo- rally divorced from the “ pain of payment , ” making it easier to give in to impulsive urges ( Soman and Gourville 2001 ) .
+In terms of food choice , recent research has shown that the pain of paying in cash decreases the likelihood that con- sumers will purchase vice foods , whereas paying with a bank card ( credit and debit ) increases the likelihood of such purchases ( Thomas , Desai , and Seenivasan 2011 ) .
+The rea- son cited for this is that both credit and debit card payments are less “ vivid and emotionally more inert ” than paying in cash and viscerally less painful .
+Thus , bank card purchases reinforce consumers ’ impulsive tendency for overconsump- tion already present for unhealthy foods .
+The upshot will be more resistance against the rational economic response to decrease quantity demanded for a price increase but a re - inforcement of the rational response to increase quantity demanded for a price decrease .
+Stated formally : H3 : The undesirable asymmetric pattern of demand response sensitivity for unhealthy food is magnified for bank card purchases by consumers .
+Younger consumers .
+Research has shown that the ten- dency to make impulsive food selections is greater for chil- dren , teenagers , and young adults than for older people ( Killgore and Yurgelun-Todd 2005 ) .
+One reason for such age-based differences in food preference is that the region of the brain that governs impulsive and risky behavior , the limbic system , is hypersensitive during adolescence , whereas the prefrontal cortex , the rational part of the brain , continues to develop throughout the third decade of life ( Dumontheil et al .
+2010 ) .
+In the context of food choice , lower age will thus accentuate the relative effect of impul- sive demand ( i.e. , to overconsume unhealthy and undercon- sume healthy food ) on rational demand , leading to more pronounced asymmetric patterns of demand response for unhealthy and healthy food for younger consumers .
+Stated formally : H4 : The undesirable asymmetric pattern of demand response sensitivity is magnified for younger ( vs. older ) consumers , with regard to ( a ) unhealthy food and ( b ) healthy food .
+Lower-income consumers .
+From the famous Stanford University marshmallow study ( Mischel et al .
+1989 ) , which tested the ability of 600 hungry four- to six-year-old chil- dren to delay gratification ( and then tracked them as adults ) to more methodologically rigorous neurological studies ( e.g. , Matthews et al .
+2000 ) , research has shown an inverse correlation between impulsiveness and income .
+Thus , we hypothesize that the relative effect of impulsive demand ( i.e. , to overconsume unhealthy and underconsume healthy food ) on rational demand will be higher for lower-income people .
+Furthermore , low-income populations have fewer “ slack ” resources ( Bertrand , Mullainathan , and Shafir 2006 ) , and healthy food is more expensive than unhealthy food on a per-calorie basis ( see Drewnowski and Darmon 2005 ) .
+This implies that the natural impulse to undercon- sume healthy foods will be reinforced even more for lower- income consumers .
+Thus , the negative link between income and impulsivity as well as the reality of a tighter resource constraint versus food cost will further accentuate the asym- metric patterns of demand response for unhealthy and healthy food for lower income consumers .
+Stated formally : H5 : The undesirable asymmetric pattern of demand response sensitivity is magnified for lower- ( vs. higher- ) income con- sumers , with regard to ( a ) unhealthy food and ( b ) healthy food .
+Mitigating Factors Any factor that enhances consumers ’ willpower should reduce the relative impact of impulsive demand on rational demand—thereby mitigating the main asymmetric patterns in demand response to price changes noted in H1 and H2 .
+Here , we discuss two specific mitigating factors that have been highlighted in impulsivity research and in a key explanatory health behavior model ( protection motivation theory ; Rogers 1983 ) and offer corresponding hypotheses .
+Specifically , pro- tection motivation theory identifies four variables critical to the success of any health behavior change ( Witte 1992 ) .
+The first two variables , perceived susceptibility/ vulnerability and severity , involve threat appraisal , and the second two variables , self-efficacy and response-efficacy , involve cop- ing appraisal .
+Both sets of variables have been shown to regulate impulsive behavior .
+We discuss each in turn .
+Fear .
+The first set of variables advanced here , “ threat appraisal , ” is defined as a person ’ s assessment of the level of his or her own personal vulnerability and susceptibility to experiencing a particular negative outcome ( Boer and Seydel 1996 ) and is typically activated through a viscerally aversive cue ( Witte 1992 ) .
+Prior research has suggested that viscerally aversive cues can be effective in the regulation of vice-related products , which tend to be impulsively pur- chased and consumed ( Metcalfe and Mischel 1999 ; Thomas , Desai , and Seenivasan 2011 ) .
+One such viscerally aversive cue is fear ( Witte 1992 ) .
+“ Fear salience ” is defined as the momentary increase in a person ’ s awareness of being afraid of a particular activity or event ( Gore et al .
+1998 ) .
+A credible fear cue leads to increased threat appraisal percep- tions ( Witte and Allen 2000 ) .
+This has important implica- tions in the food domain , in that the short-term health- related costs of eating unhealthy are not always obvious ( Schlosser 2001 ) .
+Thus , the use of a credible fear cue should increase threat appraisal perceptions surrounding unhealthy eating .
+When threat appraisal perceptions increase ( and self- efficacy is adequate ) , people are more likely to adopt adap- tive health protection behaviors ( Witte and Allen 2000 ) .
+Given that self-efficacy perceptions related to nutrition are at moderate levels ( e.g. , Bartfield et al .
+2010 ) , the use of a fear cue should lead to positive and adaptive healthy behav- ior .
+Thus , threat appraisal perceptions ( through fear ) should cause consumers to muster more willpower to resist the natural impulsive urge to overconsume ( underconsume ) unhealthy ( healthy ) food .
+Even though the use of fear is arguably the most widely used public service announce- ment archetype ( Witte and Allen 2000 ) , little research has examined its effect on food selection .
+Peers ( social networks ) .
+The second set of variables advanced here , coping appraisal ( e.g. , efficacy ) , is fre- quently activated through peer or social support ( Brissette , Scheier , and Carver 2002 ) .
+While the negative effects of social influence on health outcomes such as obesity , ciga- rette smoking , and drinking have been well documented ( Christakis and Fowler 2008 ) , recent research has begun to examine the positive effects of social influence on such out- comes through the modification of people ’ s social networks ( Umberson , Crosnoe , and Reczek 2010 ) .
+A social network is defined as a “ social structure made up of a set of actors ( such as individuals or organizations ) ” ( Wasserman and Faust 1994 , p. 2 ) .
+Social networks can be either positive or negative , depending on the type of influence they wield ( i.e. , good or bad ) .
+Such modifications can take the form of “ smoking- and alcohol-cessation programs and weight-loss interventions that provide peer support—that is , that modify the person ’ s social network ” ( Christakis and Fowler 2008 , p. 377 ) .
+Prior research has demonstrated that people who have access to supportive social networks show a greater likelihood of engaging in social support–based coping , through potential interactions with groups and people with a like-minded or common objective ( Umberson , Crosnoe , and Reczek 2010 ) .
+Such support-based coping has been positively linked to increased feelings of self-efficacy ( Brissette , Scheier , and Carver 2002 ) .
+Self-efficacy is defined as “ the belief in one ’ s ability to execute a recommended course of action success- fully ” ( Boer and Seydel 1996 , p. 98 ) .
+In particular , self- efficacy has been shown to be one of the most impactful predictors of healthy eating ( Luszczynska , Tryburcy , and Schwarzer 2007 ) .
+Indeed , “ enhancing self-efficacy results in nutritional change ” ( Luszczynska , Tryburcy , and Schwarzer 2007 , p. 630 ) .
+Thus , enhanced feelings of self- efficacy ( induced by social network salience ) should lead to increased confidence in a person ’ s ability to regulate or decrease consumption of unhealthy foods and increase con- sumption of healthy foods .
+Notably , although several stud- ies have examined the effect of social network membership or modification ( e.g. , Christakis and Fowler 2008 ) on health behaviors , no research to date has examined the effect of merely making social networks salient on health behavior .
+The preceding discussion on fear and peer sources leads to the following predictions : H6a : The undesirable asymmetric pattern of demand response sensitivity is attenuated for consumers when fear is made salient , with regard to ( i ) unhealthy food and ( ii ) healthy food .
+H6b : The undesirable asymmetric pattern of demand response sensitivity is attenuated for consumers when positive social networks are made salient , with regard to ( i ) unhealthy food and ( ii ) healthy food .
+H7a : The effect of making fear salient on demand response sensitivity for food is mediated by consumers ’ threat appraisal perceptions .
+H7b : The effect of making positive social networks salient on demand response sensitivity for food is mediated by con- sumers ’ self-efficacy perceptions .
+We next present our first empirical study , which uses supermarket scanner data .
+The nature of the scanner data allows us to test the first three hypotheses : the main asym- metric effects and the first exacerbating factor ( mode of payment ) .
+We subsequently conduct two other studies that use primary data to test our other hypotheses .
+Supermarket Scanner Data : Study 1 Data The supermarket study uses individual household-level transaction scanner data in eight food categories , from one store of a large regional supermarket chain in the northeast- ern United States .
+The transaction data cover 52 consecu- tive weeks during 2003–2004 .
+The categories included four relatively healthy ( fresh broccoli , grapes , raisins , and wholegrain bread ) and four relatively unhealthy ( fresh non- lean beef , potato chips , nondiet soft drink , and white bread ) food categories .
+These categories are generally considered relatively unhealthy or healthy in the existing literature ( e.g. , Martikainen , Brunner , and Marmot 2003 ) .
+Healthy foods are defined as those that are “ low [ in ] fat , ... low [ in ] saturated fat , ... and contain at least 10 % of daily value ... for vitamins A , C , calcium , iron , protien or fiber , ” and are lim- ited in amount of sodium and cholesterol ( U.S. Food and Drug Administration 2012 ) .
+Unhealthy food is defined as those foods not meeting these standards .
+Nonetheless , it is relevant to note that our conceptual framework is based on perceived or subjective rather than objective groupings of healthy and unhealthy food categories .
+At the same time , as might be expected , groupings based on subjective percep- tions and objective criteria are highly correlated in this domain ( e.g. , Stubbs and Whybrow 2004 ) .
+For each category , we obtained the sample of house- holds from the participating store ’ s customer database , and each sample household met the following criteria : ( 1 ) It used the participating store as its primary store , and ( 2 ) it made at least one purchase in the category each month dur- ing the year .
+Table 1 presents key sample descriptive statis- tics .
+In addition to category-specific transaction-level data for each sample household , we had access to information on the mode of payment ( e.g. , bank card , cash ) , household size , and census block group code of the household ’ s resi- dence .
+In absence of direct income information for each household , we used mean household income at the census block group level to capture relative income levels for our sample households ( Talukdar , Gauri , and Grewal 2010 ) .
+Finally , for our participating store , which has a weekly price cycle , we also had information on the overall store price index ( OSPI ) on a weekly basis .
+This index is a sales- share-weighted composite price covering top-selling items ( using stockkeeping units [ SKUs ] ) across key product cate- 128 / Journal of Marketing , March 2013 To Buy or Not to Buy / 129 gories and reflects relative differences in overall store price promotion intensity across weekly price cycles .
+Analysis For each product category , we analyzed the data using a household-level random-effects regression model in log-log form ( for the model , see Table 2 ) .
+The price movement indi- cator ( PMI ) variable captures the three cases of price move- ment in terms of the current price paid compared with the last purchase price paid by a household : ( 1 ) no change , ( 2 ) price went up , and ( 3 ) price went down .
+As in many exist- ing studies ( Mazumdar , Raj , and Sinha 2005 ) , we used the last purchase price to operationalize consumers ’ IRP .
+Specifically , we measured the last purchase price as the price paid per relevant standardized unit ( PR ) ( e.g. , ounces , pounds ) on the last purchase occasion by a household in a given category .
+It is relevant to note here that although IRP is often modeled at the brand level ( e.g. , Winer 1986 ) , it is also modeled at the category level ( Mazumdar , Raj , and Sinha 2005 ) .
+The latter approach is used in this study and is justi- fied in our context for two reasons .
+First , the brand-level approach is not applicable in nonbranded categories—such as the fresh broccoli , grapes , and beef used in our study .
+Second , even for branded categories , the category-level approach is especially reasonable when relatively small price differentials exist across brands such that the cognitive cost of attempting to retain price data for various brands is perceived to be greater than the benefits derived ( Mazum- dar , Raj , and Sinha 2005 ) .
+In our one-year data for the five branded categories , the differentials in mean prices among the most purchased brands ( i.e. , those accounting for 90 % or more of category sales ) in each category ranged between only 1 % and 3 % of the mean category price .
+We used the bank card usage indicator ( BCUI ) variable to capture the following four distinct situations of bank card usage : ( 1 ) not used , ( 2 ) used when price did not change , ( 3 ) used when price went up , and ( 4 ) used when price went down .
+In addition to our three focal independent variables ( PR , PMI and BCUI ) , we also used several relevant control variables—BCCI , LQ , TLP , HS , HI , WD , and OSPI ( for definitions of these variables , see Table 2 ) .
+We used the BCCI control variable only for the analysis in the branded categories to control for individual-level differences in brand loyalty propensity within a given category .
+It is measured as a Herfindahl concentration index in terms of a household ’ s choice shares across the brands in a category ( Sudhir and Talukdar 2004 ) .
+A higher value of the index reflects a higher level of brand loyalty in the household ’ s choice behavior .
+In addition , for white bread and whole-grain bread , which are close substitute product categories and for which we have price data , we explicitly use respective cross-category prices to control for any direct substitution effect between these two categories .
+The household- and trip-specific control variables capture observed heterogeneity across households , and the random- effects term helps our regression model account for unob- served household heterogeneity .
+For each category , we esti- mate the regression model using the generalized estimating equation technique with our transaction panel data across TABle 1 Study 1 : Scanner Data Summary Statistics A : Healthy Food Categories Descriptive Variable Broccoli Grapes Raisins Whole-Grain Bread Number of all households 993 1029 1107 1094 % of single households 31 29 29 30 Mean number of transactions per household 22 21 27 31 Total number of transactions 21,846 21,609 29,889 33,914 Number of SKUs involved in the transactions 1 2 8 13 % of households using bank card at least once 100 100 100 100 % of transactions on bank card 48 51 50 52 % of transactions with same last purchase price 42 44 43 45 % of transactions with higher last purchase price 30 29 28 30 % of transactions with lower last purchase price 28 27 29 25 B : Unhealthy Food Categories Descriptive Variable Beef Potato Chips Soft Drinks White Bread Number of all households 1038 1059 1127 1098 % of single households 28 30 27 31 Mean number of transactions per household 34 34 42 33 Total number of transactions 35,292 36,006 47,334 36,234 Number of SKUs involved in the transactions 8 16 23 14 % of households using bank card at least once 100 100 100 100 % of transactions on bank card 52 49 47 51 % of transactions with same last purchase price 45 42 43 44 % of transactions with higher last purchase price 30 28 31 30 % of transactions with lower last purchase price 25 30 26 26 Notes : The SKUs for beef used in the study exclude all fresh beef labeled as “ lean , ” and the SKUs for soft drinks used in the study exclude all soft drinks labeled as “ diet. ” households ( Liang and Zeger 1986 ) .
+The technique allows for heteroskedasticity as well as clustering across house- holds .
+The clustering enables within-household serial corre- lation in the error term to account for the expected noninde- pendence in within-household observations across different purchase occasions .
+The log-log functional form of our regression model is consistent with the dominant approach in the literature for empirically estimating a consumer demand function as a multiplicative model , especially when the primary focus is on estimating consumers ’ price elastic- ity ( Bijmolt , Van Heerde , and Pieters 2005 ) .
+The log-log functional form of our regression model means that the parameters , b1–b3 , are of focal interest to us because they capture consumers ’ demand response sensitivities to price and bank card usage .
+Per the first law of demand , we expect b1 < 0—that is , own price elasticity should be negative .
+The parameters b2 and b3 test H1 , H2 , and H3 .
+For example , a negative ( positive ) sign for b2 indicates that a specific direction of price movement since last purchase increases ( decreases ) consumers ’ demand sensitivity to price .
+Results Table 3 presents the results of our regression analyses .
+The coefficient of current price paid in our model estimates the base level of consumers ’ own price elasticity , and it is nega- tive and significant ( p < .01 ) for all eight categories .
+Next , the coefficient of the indicator for price change since last purchase is negative and significant ( p < .01 ) when prices went up but insignificant ( p > .1 ) when prices went down for all the healthy food categories .
+In contrast , for all the unhealthy food categories , the coefficient is negative and significant ( p < .01 ) when prices went down but insignifi- cant ( p > .1 ) when prices went up .
+Thus , for healthy food , consumers ’ demand sensitivity ( i.e. , absolute value of own price elasticity ) exhibits a greater relative increase in response to a price increase than a price decrease since last purchase .
+However , we found the opposite for unhealthy foods .
+Thus , H1 and H2 are supported .
+As for the coefficient of the indicator for bank card usage , we found it to be insignificant ( p > .1 ) for the healthy food categories .
+In contrast , for the unhealthy food cate- gories , we found the coefficient to be positive and signifi- cant ( p < .01 ) when bank cards are used in conjunction with a price increase since last purchase and negative and sig- nificant ( p < .01 ) when bank cards are used in conjunction with a price decrease since last purchase .
+Thus , for the unhealthy food categories , consumers ’ demand sensitivity is accentuated when bank cards are used in conjunction with a price decrease since last purchase but mitigated when bank cards are used in conjunction with a price increase since last purchase .
+Thus , H3 is supported .
+Finally , although we advanced no formal predictions with regard to the control variables , we briefly note the fol- lowing findings .
+The results show that the coefficients of the cross-category prices between white and whole-grain breads are positive and significant ( p < .05 or less ) , indicating the expected demand substitution effects between the two cate- gories .
+In addition , for each of the branded categories , the coefficient of the brand choice concentration index is posi- tive and significant ( p < .05 or less ) .
+This finding is again consistent with the expectation that a higher level of a con- sumer ’ s brand-loyal behavior in a category will lower the absolute value of his or her price elasticity for the category .
+Discussion The supermarket study confirms our predictions regarding asymmetric and opposite patterns of demand response for unhealthy and healthy food .
+From a nutritional standpoint , the asymmetries in demand response are in undesirable directions for both types of food .
+Thus , an important next step is to understand the various factors that might mitigate or accentuate the observed asymmetric patterns .
+Toward this end , the supermarket study already demonstrates that 130 / Journal of Marketing , March 2013 TABle 2 Study 1 : Regression Model for each Product Category ln ( Qij ) = b0 + ( b1 + b2PMIij + b3BCUIij + b4BCCIi ) ln ( PRij ) + b5ln ( lQij ) + b6ln ( TlPij ) + b7ln ( OSPIij ) + b8ln ( HSi ) + b9ln ( HIi ) + b10WDij + μi + εij Variable Definition Qi Quantity purchased in category relevant standardized unit ( e.g. , oz .
+or lb . )
+by household i on purchase occasion j PR Price paid per relevant standardized unit PMI Price movement indicator BCUI Bank card usage indicator BCCI Brand choice concentration index ( only for a branded category ) LQ Quantity purchased in relevant standardized unit on the last purchase occasion TLP Time ( in days ) since the last purchase occasion HS Household size HI Household income level WD Whether the current purchase occurred on a weekend OSPI Overall store price index on the current purchase occasion i Household-specific random effects ij Random error term b0 … b10 Model coefficients , where b1 estimates consumers ’ base level of own price elasticity ; b2 estimates how the base level elasticity is affected by the price movement direction since the last purchase occasion ; and b3 estimates how the base level elasticity is affected by the price movement direction and by its interaction with bank card usage To Buy or Not to Buy / 131 paying with a bank card ( vs. cash ) magnifies the asymmetry for unhealthy food .
+Unfortunately , the nature of typical supermarket scanner data does not lend itself to testing the other factors from our conceptual framework ( i.e. , fear , social networks , age , and income ) that are predicted to moderate the observed asymmetric patterns of demand .
+Therefore , to test the other factors , we turn to primary data collected through experimental studies .
+TABle 3 Study 1 : Scanner Data–Based Regression Analysis Results for Quantity Purchased A : Healthy Food Categories Coefficient estimate ( Se ) Whole-Grain Independent Variables Broccoli Grapes Raisins Bread Current price paid –.593 ( .113 ) ** –.624 ( .133 ) ** –.609 ( .125 ) ** –.686 ( .098 ) ** Indicators for Price Change Since last Purchase Remained same ( base ) — — — — Went up –.384 ( .077 ) ** –.297 ( .056 ) ** –.326 ( .071 ) ** –.298 ( .052 ) ** Went down –.107 ( .087 ) –.134 ( .101 ) –.121 ( .098 ) –.124 ( .097 ) Indicators for Bank Card Usage Context No usage ( base ) — — — — Used and price remained same .026 ( .027 ) .012 ( .011 ) .029 ( .033 ) .038 ( .042 ) Used and price went up .019 ( .018 ) .016 ( .012 ) .021 ( .017 ) .023 ( .017 ) Used and price went down –.008 ( .006 ) –.011 ( .010 ) –.006 ( .005 ) –.002 ( .002 ) Brand choice concentration index N.A .
+N.A .
+.044 ( .020 ) * .051 ( .025 ) * Current price for white bread N.A .
+N.A .
+N.A .
+.127 ( .063 ) * Last purchase quantity –.119 ( .060 ) * –.126 ( .062 ) * –.114 ( .052 ) * –.164 ( .059 ) ** Time since last purchase .188 ( .091 ) * .133 ( .067 ) * .098 ( .048 ) * .116 ( .045 ) ** Household size .114 ( .075 ) .101 ( .078 ) .076 ( .049 ) .131 ( .050 ) ** Household income .271 ( .094 ) ** .212 ( .081 ) ** .186 ( .066 ) ** .242 ( .108 ) * If purchased on weekend .009 ( .010 ) .109 ( .107 ) .008 ( .006 ) .002 ( .002 ) Overall store price index in current purchase week –.441 ( .127 ) ** –.204 ( .055 ) ** –.164 ( .057 ) ** –.184 ( .059 ) ** Intercept .182 ( .021 ) ** .095 ( .010 ) ** .326 ( .038 ) ** .376 ( .040 ) ** N 20,853 20,580 28,782 32,820 Pseudo R2 .64 .69 .72 .77 B : Unhealthy Food Categories Coefficient estimate ( Se ) Independent Variables Beef Potato Chips Soft Drinks White Bread Current price paid –.681 ( .123 ) ** –.688 ( .112 ) ** –.707 ( .102 ) ** –.679 ( .090 ) ** Indicators for Price Change Since last Purchase Remained same ( base ) — — — — Went up –.012 ( .013 ) –.006 ( .004 ) –.011 ( .008 ) –.142 ( .117 ) Went down –.329 ( .059 ) *** –.414 ( .076 ) *** –.476 ( .082 ) *** –.352 ( .060 ) *** Indicators for Bank Card Usage Context No usage ( base ) — — — — Used and price remained same .019 ( .016 ) –.006 ( .006 ) –.008 ( .006 ) –.024 ( .023 ) Used and price went up .221 ( .083 ) ** .155 ( .058 ) ** .183 ( .066 ) ** .103 ( .038 ) ** Used and price went down –.276 ( .092 ) ** –.299 ( .086 ) ** –.301 ( .090 ) ** –.246 ( .080 ) ** Brand choice concentration index N.A .
+.093 ( .040 ) * .106 ( .037 ) ** .032 ( .016 ) * Current price for whole-grain bread N.A .
+N.A .
+N.A .
+.188 ( .067 ) ** Last purchase quantity –.196 ( .076 ) ** –.177 ( .067 ) ** –.211 ( .076 ) ** –.187 ( .063 ) ** Time since last purchase .242 ( .118 ) * .328 ( .144 ) * .384 ( .163 ) * .162 ( .061 ) ** Household size .438 ( .121 ) ** .251 ( .103 ) * .295 ( .123 ) * .138 ( .052 ) ** Household income .225 ( .075 ) ** .153 ( .106 ) .123 ( .085 ) .197 ( .125 ) If purchased on weekend .184 ( .068 ) ** .181 ( .052 ) ** .148 ( .049 ) ** .012 ( .006 ) * Overall store price index in current purchase week –.152 ( .073 ) * –.018 ( .016 ) –.007 ( .005 ) –.129 ( .081 ) Intercept .474 ( .044 ) ** .407 ( .041 ) ** .576 ( .049 ) ** .376 ( .040 ) ** N 34,254 34,947 46,207 35,136 Pseudo R2 .73 .71 .76 .74 *p < .05 .
+**p < .01 .
+Notes : N.A .
+= not applicable .
+experimental Data : Studies 2a and 2b We conducted two experimental studies that complement one another by incorporating competing alternatives on two important aspects of the experimental design .
+The first aspect focuses on how different forms of salience for fear and social network stimuli can moderate the observed asymmetrical patterns of demand found in the supermarket study .
+Research suggests that salience can be manipulated through environmental primes or through specifically con- structed advertisements/appeals ( e.g. , Obermiller and Span- genberg 2000 ) .
+Second , in situations in which a topic is per- ceived to be of a sensitive nature , as may be the case with diet , existing literature suggests that people may respond differently to questions depending on whether they or oth- ers are the focus of inquiry ( Mick 1996 ) .
+Thus , another aspect of our experimental studies is to examine both people ’ s own demand estimates in response to changes in food prices as well as their cognitions about how others will respond to such price changes .
+Accordingly , we designed one experimental study ( Study 2a ) to examine participants ’ cognitions about how others will react to price changes for food items and the effect of fear and social network environmental primes ( in the form of actual newspaper articles ) on those cognitions .
+The other experimental study ( Study 2b ) involves a con- trolled experiment that assesses participants ’ own estimates of demand in response to price changes for food items and examines the effect of specifically constructed fear and social network appeals on those demand estimates .
+Taken together , the two experimental studies thus provide a stronger basis on which to draw our empirical conclusions than would be the case with either one on its own .
+Experimental Survey : Study 2a Method .
+Participants for the experimental survey were employees of a large nonprofit organization in the northeast- ern United States ( male = 52 % , Mage = 36 years , Mincome = $ 47.5K/year ) .
+Experimental surveys were distributed through the organization ’ s internal mail system and/or were dropped off to respondents .
+The survey was administered in a stag- gered manner over a five-week period in 2010 .
+Participa- tion was based on a pre-request , comprising 613 respon- dents , or 73 % of those initially surveyed .
+In-person follow-up resulted in a 100 % response rate for the subse- quent survey .
+The survey was a 3 ( newspaper article : pro– unhealthy food prime [ Fernandez 2010 ] , fear prime [ Leeder 2009 ] , and peer prime [ Landro 2006 ] ) × 2 ( food category : healthy , unhealthy ) × 2 ( price change : increase , decrease ) mixed design , with newspaper article serving as the between-subjects factor .
+All participants responded to the same question pertaining to a 20 % price increase and 20 % price decrease for a healthy ( broccoli ) and unhealthy ( soda ) food category ( for article excerpts and links to full articles , article pretesting , and experimental survey procedures , see the Web Appendix at www.marketingpower.com/ jm_ webappendix ) .
+Results ( demand asymmetry ) .
+Statistical tests show no significant difference ( p > .1 ) across the three experimental conditions in terms of age , income , or general food attitude scores .
+As such , we dropped these variables from further analysis .
+We calculated the degree of demand response asymmetry , kc , for respondent k in product category c as kc = |єpdkc | – |єpikc | , where |єpdkc | is the absolute value of theestimated price elasticity in response to a price decrease since last purchase and |єpikc | is the absolute value of theestimated elasticity in response to a price increase since last purchase .
+A nonzero value of kc indicates an asymmetry in demand sensitivity in response to a price decrease versus a price increase since last purchase in a product category .
+Note that from a public policy perspective , it is desirable for kc to exhibit positive or higher values for healthy food and negative or lower values for unhealthy food categories .
+As Table 4 , Panel A , indicates , the experimental survey results show that the mean values of kc for the pro– unhealthy food condition ( i.e. , the typical media/advertising environment consumers face ) are significantly different than zero in the predicted undesirable directions ( kc Healthy = –.46 , t ( 207 ) = 3.29 , p < .01 ; kc Unhealthy = .68 , t ( 207 ) = 3.29 , p < .01 ) .
+Thus , the intention data in Study 2a provide a replication of the revealed data in Study 1 for H1 and H2 .
+Results ( primes ) .
+Table 4 , Panel A , also demonstrates that the fear and peer primes attenuate the undesirable asymmetry of demand sensitivity for unhealthy/healthy food .
+For healthy food , an analysis of variance ( ANOVA ) shows a significant difference across values of kc for the three conditions ( F ( 2 , 610 ) = 12.94 , p < .01 ) .
+Furthermore , Dunnett tests show that relative to the pro–unhealthy food condition ( kc = –.46 ) , the value of kc is higher for both the fear prime ( kc = .05 , p < .01 ) and the peer prime ( kc = .29 , p < .01 ) .
+For unhealthy food , an ANOVA also shows a sig- nificant difference across values of kc for the three condi- tions ( F ( 2 , 610 ) = 14.27 , p < .01 ) .
+Moreover , Dunnett tests again show that relative to the pro–unhealthy food condi- tion ( kc = .68 ) , the value of kc is lower for both the fear prime ( kc = .16 , p < .01 ) and the peer prime ( kc = –.11 , p < .01 ) .
+Thus , the experimental survey data also provide pre- liminary support for H6a and H6b , that is , the ability of the selected noneconomic policy factors to mitigate the unde- sirable patterns of demand asymmetry .
+Discussion .
+Using cognitions about other consumers in the marketplace , the experimental survey corroborates the patterns of demand response observed in the supermarket scanner data from Study 1 .
+Study 2a also demonstrates that merely exposing people to environmental fear and social network primes can mitigate the undesirable pattern of demand response ( in the form of cognitions about how oth- ers will react to price changes for food items ) .
+Study 2b , which we present next , uses a traditional media operational- ization—specifically constructed appeals—to assess the impact of fear and peer ( social networks ) salience on par- ticipants ’ own demand estimates for food .
+Given that Study 2b investigates participants ’ own demand estimates , we are also able to test the exacerbating influences predicted for age and income ( H4 and H5 ) .
+Finally , Study 2b also exam- ines the underlying mechanisms posited to mediate the 132 / Journal of Marketing , March 2013 To Buy or Not to Buy / 133 effect of fear and peer salience on demand response ( H7a and H7b ) .
+Controlled Experiment : Study 2b Participants and data .
+One hundred twenty working adults ( male = 45 % , Mage = 28 years , Mincome = $ 34.3K/year ) from local firms in a large northeastern city in the United States were offered gift cards in return for partic- ipation .
+Data were collected over one day in 2011 .
+Stimuli and cover story .
+The experiment consisted of three conditions : control , a fear appeal , and a peer ( social network ) appeal ( for stimuli , see the Appendix ) .
+To minimize the likelihood of demand effects , a cover story advised par- ticipants that they would be taking part in multiple , indepen- dent school of management research studies .
+This included examining the income statement of a firm for numerical discrepancies , which also served as a filler task , and answering questions regarding shopping behavior .
+In addi- tion , in accordance with previous research , participants in the treatment conditions received an extra set of cover story instructions for the stimuli ( e.g. , Starcke , Catrin-Ludwig , and Brand 2012 ) .
+Specifically , treatment participants were informed that another feature of the multiple , independent research studies , was to gauge ad error rates for certain magazines over the past three years .
+In keeping with this aspect of the cover story , the participants were told to view the ad appeals as they normally would at home but to also pay attention to copy editing ( modified from Hoch and Ha 1986 ) .
+This was a further attempt to minimize hypothesis guessing ( for calibration testing and controlled experiment procedures , see the Web Appendix at www.marketing- power.com/jm_webappendix ) .
+Measures .
+The experiment uses the same demand response question as in the experimental survey , except for two modifications .
+First , participants were asked to estimate their own changes in demand .
+Second , the unhealthy and healthy product categories were different ( unhealthy food category : potato chips ; healthy food category : raisins ) .
+The following depicts the price increase scenario for raisins : “ Suppose that the price of raisins went up by 20 % com- pared to what was the last purchase price .
+( a ) I would still buy the same quantity as purchased last time or ( b ) I would buy less ( more ) than the quantity purchased last time , by about ________ % . ” Participants responded to the price increase and price decrease scenarios for each food cate- gory .
+We counterbalanced the categories and the pricing scenarios ( p > .1 ) .
+Participants also estimated what their changes in demand would be for the same price increase and same price decrease scenarios for four non-food- related , decoy categories ( i.e. , bath soap , ballpoint pens , socks , and notepads ) .
+The healthy and unhealthy items appeared in the second or fifth position to minimize pri- macy and recency exposure effects .
+We evaluated participants ’ “ threat appraisal percep- tions ” ( i.e. , severity plus vulnerability feelings ) related to not eating healthy using the following scale ( modified from Witte 1992 ) : ( a ) severity dimension (  = .92 ) : “ I believe that the health consequences of unhealthy eating can be severe , ” “ I believe that unhealthy eating can have serious health consequences , ” and “ I believe that unhealthy eating can be extremely harmful to a person ’ s health ” ; ( b ) vulnera- bility dimension (  = .94 ) : “ It is likely that I will experience unfavorable health consequences if I eat unhealthy , ” “ I am at risk for experiencing negative health consequences if I eat unhealthy , ” and “ It is possible that I will experience negative health consequences if I eat unhealthy ” ( anchored by 1 = “ highly disagree , ” and 7 = “ highly agree ” ) .
+The cor- relation between the two threat appraisal dimensions in our study is .61 ( p < .01 ) .
+We measured self-efficacy perceptions regarding par- ticipants ’ ability to eat a healthy diet as follows ( modified from Witte 1992 ) : “ I am confident that I can adhere to the TABle 4 Demand Sensitivity Results A : Study 2a : experimental Survey Mean Value of Demand Demand Sensitivity Measures experimental Sensitivity Healthy Unhealthy Condition Measures Food Food 1 .
+( N = 208 ) |єpdkc | .48 1.02 Pro–unhealthy prime |єpikc | .94 .34 kc –.46a .68a 2 .
+( N = 201 ) |єpdkc | .72 .67 Fear prime |єpikc | .67 .51 kc .05b .16b 3 .
+( N = 204 ) |єpdkc | .81 .55 Peer prime |єpikc | .52 .66 kc .29b –.11b B : Study 2b : Controlled experiment Mean Value of Demand Demand Sensitivity Measures experimental Sensitivity Healthy Unhealthy Condition Measures Food Food 1 .
+( N = 40 ) |єpdkc | .66 1.12 Control group |єpikc | 1.30 .53 kc –.64c .59c 2 .
+( N = 40 ) |єpdkc | 1.07 .54 Fear appeal |єpikc | .92 .84 kc .15d –.30e 3 .
+( N = 40 ) |єpdkc | 1.22 .58 Peer appeal |єpikc | .69 .96 kc .53f –.38e aSignificantly different than zero at p < .01 level .
+bComparison with pro–unhealthy prime condition is significant at p < .01 level .
+cSignificantly different than zero at p < .05 level .
+dComparison with control group is significant at p < .1 level .
+eComparison with control group is significant at p < .05 level .
+fComparison with control group is significant at p < .01 level .
+Notes : kc = |єpdkc | – |єpikc | , where |єpdkc | and |єpikc | are the absolute val- ues of estimated price elasticity for a price decrease and increase , respectively .
+USDA ’ s nutritional guidelines for healthy eating , ” “ I can easily adhere to the USDA ’ s nutritional guidelines for healthy eating , ” and “ I am able to adhere to the USDA ’ s nutritional guidelines for healthy eating ” ( anchored by 1 = “ highly disagree , ” and 7 = “ highly agree ” ;  = .90 ) .
+Finally , we measured response efficacy with the following ques- tions ( modified from Witte 1992 ) : “ Following the USDA ’ s nutritional guidelines for healthy eating reduces the likeli- hood of harmful health consequences ” ; “ If I follow the USDA ’ s nutritional guidelines for healthy eating , I am less likely to experience negative health consequences ” ; and “ Following the USDA ’ s nutritional guidelines for healthy eating works to lower my chances of experiencing serious health consequences ( anchored by 1 = “ highly disagree , ” and 7 = “ highly agree ” ;  = .86 ) .
+The correlation between our self-efficacy and response efficacy measures is .41 ( p < .01 ) .
+Neither threat appraisal dimension is significantly cor- related with self- or response-efficacy ( p > .1 ) .
+Results ( manipulation check ) .
+A manipulation check assessed the effectiveness of the fear and peer appeals with the following questions : “ I am fearful of eating unhealthy , ” and “ I am scared of eating unhealthy ” ( anchored by 1 = “ highly disagree , ” and 7 = “ highly agree ” ) ( r = .81 ; fear manipulation check : Mcontrol = 4.56 vs. Mfear appeal = 5.25 , p = .01 ; Mpeer appeal = 4.63 vs. Mfear appeal = 5.25 , p < .05 ) ; “ I have access to social support for eating healthy , ” and “ I have access to social backing for eating healthy ” ( anchored by 1 = “ highly disagree , ” and 7 = highly agree ) ( r = .83 ; social network manipulation check : Mcontrol = 4.16 vs. Mpeer appeal = 4.75 , p < 05 ; Mfear appeal = 4.04 vs. Mpeer appeal = 4.75 , p < .01 ) .
+Results ( demand asymmetry ) .
+As we noted in the exper- imental survey , from a public policy perspective , it is desir- able for kc to exhibit positive or higher values for healthy food categories and negative or lower values for unhealthy food categories .
+As Table 4 , Panel B , shows , the mean val- ues of kc for the control condition are significantly differ- ent than zero in the predicted directions ( kc Healthy = –.64 , t ( 39 ) = 2.40 , p < .05 ; kc Unhealthy = .59 , t ( 39 ) = 2.15 , p < .05 ) .
+Thus , H1 and H2 ( i.e. , undesirable patterns of demand asymmetry for unhealthy and healthy food ) are also sup- ported by the controlled experimental data .
+Next , the results also demonstrate that the fear and peer appeals exhibit the same capacity to attenuate the undesir- able asymmetry of demand sensitivity for unhealthy and healthy food as the primes we used in the experimental sur- vey ( Study 2a ) .
+For healthy food , an ANOVA shows a sig- nificant difference across values of kc for the three condi- tions ( F ( 2 , 117 ) = 4.25 , p < .05 ) .
+Furthermore , Dunnett tests show that compared with the control condition ( kc = –.64 ) , the value of kc is higher for both the fear appeal ( kc = .15 , p < .1 ) and the peer appeal ( kc = .53 , p < .01 ) .
+For unhealthy food , an ANOVA also shows a significant differ- ence across values of kc for the three conditions ( F ( 2 , 117 ) = 4.64 , p < .05 ) .
+Moreover , Dunnett tests again show that compared with the control condition ( kc = .59 ) , the value of kc is lower for both the fear appeal ( kc = –.30 , p < .05 ) and the peer appeal ( kc = –.38 , p < .05 ) .
+Thus , H6a and H6b are again supported , this time using controlled experimental data ( for a summary of results , see Table 4 , Panel B ) .
+Results ( age and income ) .
+We also found that the unde- sirable patterns of demand response for healthy and unhealthy food are magnified as age and income decrease .
+We found that the relationships hold across all three condi- tions .
+Thus , H4 and H5 are supported .
+We report the results from the control group condition here ( for a full summary of age and income effects for all conditions , see Table 5 ) .
+The control group results are as follows : Age : bHealthy = .081 , F ( 1 , 38 ) = 7.03 , p < .05 ; bUnhealthy = –.089 , F ( 1 , 38 ) = 9.28 , p < .01 ; Income : bHealthy = .032 , F ( 1 , 38 ) = 5.29 , p < .05 ; and bUnhealthy = –.042 , F ( 1 , 38 ) = 11.10 , p < .01 .
+Results ( process ) .
+We conducted mediation analyses using recent bootstrapping techniques ( Hayes 2009 ) , and we report our results in accordance with recent recommen- dations for mediation reporting best practices ( Zhao , Lynch and Chen 2010 ) ( for a full summary of mediation analysis results , see Table 6 ) .
+Specifically , we perform a multipath analysis ( appeal vs. control ) .
+The positive b values for path A indicate that the appeals ( i.e. , fear and peer ) influence their mediators in the same direction ( i.e. , threat appraisal and self-efficacy ) .
+For paths B and C , in the case of healthy food , positive b values represent attenuation of the undesir- able demand response asymmetry ; in contrast , for unhealthy food , negative b values represent attenuation of the undesirable demand response asymmetry .
+Finally , for path A × B , as the confidence intervals indicate , the unde- sirable patterns of demand response asymmetry are medi- ated by threat appraisal for a fear appeal ( unhealthy food ) and self-efficacy for a peer ( social network ) appeal ( unhealthy and healthy food ) .
+Thus , the process hypotheses , H7a and H7b , are supported .
+134 / Journal of Marketing , March 2013 TABle 5 Income and Age Results ( Study 2b ) Healthy Unhealthy Control Fear Appeal Peer Appeal Control Fear Appeal Peer Appeal b income .032* .041* .034* –.042** –.031* –.028* b age .081* .070* .102** –.089** –.065* –.069** *p < .05 .
+**p < .01 .
+Notes : For healthy food , positive b values represent attenuation of the undesirable demand response asymmetry ; for unhealthy food , negative b values represent attenuation of the undesirable demand response asymmetry .
+Thus , as age and income increase , the undesirable patterns of demand response asymmetry are attenuated .
+To Buy or Not to Buy / 135 Discussion .
+Using participants ’ own estimates of demand and specifically constructed appeals , Study 2b cor- roborates the findings on demand response patterns from Studies 1 and 2a .
+Study 2b also demonstrates that the unde- sirable demand patterns are magnified for younger and lower-income participants—groups that have shown a ten- dency to consume more impulsively than older and higher- income consumers .
+Moreover , we find supporting evidence for the cognition process by which the appeals are predicted to attenuate the undesirable patterns of demand response— that is , through a threat appraisal for a fear appeal and self- efficacy for a peer appeal .
+General Discussion Theoretical Implications Our study , employing an integrative framework and using multiple data sources and analysis approaches , demon- strates and explains important and novel aspects of con- sumers ’ demand response patterns for unhealthy and healthy food .
+Specifically , using research on impulsivity as well as standard economic theory , we predict and show that not only do consumers exhibit asymmetric patterns of demand sensitivity to price changes for both healthy and unhealthy food , but they do so in opposite and undesirable directions .
+This is a unique insight , which runs counter to the conventional premise of symmetric patterns of demand response .
+This finding was supported across both supermar- ket scanner data and primary experimental data .
+From a nomological standpoint , the research further highlights the interplay of the impulsive and reflective regulatory systems ( i.e. , Systems 1 and 2 ; Kahneman 2011 ) and shows that several policy-relevant variables that either exacerbate or regulate impulsive consumption also magnify or mitigate the undesirable patterns of demand response , respectively .
+Of particular note , while recent research has explored the effect of social network modification on inten- tions/ behaviors ( e.g. , Christakis and Fowler 2008 ) , the cur- rent study demonstrates that in certain cases , food demand response can be nudged in a healthier direction by merely making the peer support aspect of social networks salient .
+This salience can be operationalized through either environ- mental primes or specifically constructed appeals .
+Along these same lines , our research is also one of the first to inves- tigate the influence of fear salience in the nutritional domain .
+In a broader sense , our research contributes to the ongo- ing interdisciplinary effort to meld research streams from economics and psychology to better understand how and when human behavior deviates from the standard rational economic model ( Kahneman 2011 ) .
+It also contributes to the recent call for marketing scholars to be more responsive to addressing ongoing public policy issues ( Talukdar 2008 ; Wansink and Huckabee 2005 ) .
+In this context , given that obesity is now a health epidemic in the United States on par with cigarette smoking , food consumption behavior is a key contemporary public policy issue ( Seiders and Petty 2004 ) .
+Substantive Implications For public policy makers , our findings imply that the effi- cacy of economic policy interventions in inducing healthier food consumption behavior will be much more limited than what is expected under the conventional premise of sym- metric patterns of demand response .
+This may warrant that public policy officials lower their level of expectations regarding the effectiveness of so-called sin tax initiatives in curbing demand for unhealthy food .
+By the same token , our findings suggest that such food-based sin taxes are thus likely to generate more public revenues than expected .
+For example , given the observed higher-than-expected resis- tance of consumers to reduce consumption of unhealthy food in the face of a price increase , such measures are likely to extract still more consumer surplus ( e.g. , by charging extra for unhealthy food in some contexts such as school vending machines ) .
+From a managerial standpoint , understanding the pat- terns of demand sensitivities highlighted here with respect to price increases and decreases across healthy and unhealthy food items should allow for more effective pric- ing decisions at both the SKU and category management TABle 6 Mediation Results ( Study 2b ) Path A Path B ( Independent Variable– ( Mediator– Path A × B Path C Mediator ) Dependent Variable ) ( Indirect effect ) ( Direct effect ) b fear appeal ( healthy food ) .55 .09 .01 .83 95 % CI : –.32 to .35 b fear appeal ( unhealthy food ) .55 –.65 –.60** –.90 95 % CI : –.88 to –.32 b peer appeal ( healthy food ) .80 .56 .46* 1.21 95 % CI : .11 to .81 b peer appeal ( unhealthy food ) .80 –.61 –.54** –.98 95 % CI : –.81 to –.27 *p < .05 .
+**p < .01 .
+Notes : For healthy food , positive b values represent attenuation of the undesirable demand response asymmetry ; for unhealthy food , negative b values represent attenuation of the undesirable demand response asymmetry .
+Thus , both appeals attenuate the undesirable patterns of demand response asymmetry , and this effect is mediated by threat appraisal for a fear appeal and self-efficacy for a peer ( social net- work ) appeal .
+CI = confidence interval .
+level ( especially for hi-lo grocers ) .
+For example , if the goal is short-term revenue generation , coupons and discounts are likely to be more effective when offered in conjunction with unhealthy food items .
+At the same time , our finding that food demand response patterns may be nudged in a health- ier direction by merely priming participants to think about the enabling peer support aspects of social networks implies that investing in “ virtual community ” programs holds more promise for not only public policy makers but firms that aim to promote healthy lifestyles .
+Such firms may include supermarket chains ( e.g. , Whole Foods ) and companies pro- moting consumer and employee wellness programs .
+Given the changing nature of communication and the influence of virtual communities ( Chan and Li 2010 ) , this appears to be a high-yield area in terms of influencing healthier food selection and consumption .
+Further Research Although our study replicates findings across multiple product categories using actual market as well as experi- mental data , its geographic scope was limited to the north- eastern United States .
+Thus , a useful avenue for further research would be to investigate other generalizations of our findings across other geographic areas and product cate- gories .
+In this context , one worthwhile direction would be to explore cross-country , cross-cultural differences pertain- ing to our key findings on demand response .
+From a theo- retical standpoint , a related literature stream suggests that because vice products are driven by emotion , they are thus best regulated by viscerally painful cues ( e.g. , Metcalfe and Mischel 1999 ; Thomas , Desai , and Seenivasan 2011 ) .
+We use this notion when discussing the effects of some of the moderating variables in our conceptual framework .
+As such , visceral regulation of vice theory remains an area for future research exploration to identify additional modera- tors in the domain of food consumption and nutrition .
+Further research would also benefit from a more in- depth focus on stimuli typology and manipulation of salience .
+In terms of stimuli type , the current research examines the effects of fear and social networks .
+Further research should investigate additional types of stimuli such as those that are purely educational and those that rely on positive affect ( e.g. , humor ) .
+In addition , while the current research manipulates salience through primes and appeals and investigates their effect on demand response indepen- dently , another useful direction would be to directly com- pare the relative efficacy of primes versus appeals .
+For example , literature shows that unlike environmental primes ( e.g. , actual articles ) , advertisements/appeals are more open to counterarguing ( e.g. , Obermiller and Spangenberg 2000 ) .
+Thus , priming methods may prove a more effective avenue than traditional media , in some cases , for inducing behavior change ( see studies on priming theory ; e.g. , Dahlen 2005 ) .
+Individual characteristics are an area in which such differ- ences in efficacy between primes and appeals are likely to manifest .
+For example , while generation Y features the most educated and technologically savvy consumers as a group , they are also extremely distrusting of advertising and “ canned messages ” ( Acquino 2012 ) .
+Thus , it may be that the relative efficacy of primes versus appeals will vary across educational levels and life stages .
+Finally , while Study 1 uses actual consumer behavior data from supermarkets , both our experimental studies rely on behavioral intention data in an effort to gauge the impact of the focal public policy levers ( primes in Study 2a and appeals in Study 2b ) on consumers ’ demand response .
+There- fore , another fruitful direction for further research would be to test the impact of such policy initiatives on demand response by employing actual or simulated behavioral data .
+Some possible options ( from more to less artificial , but more costly ) in this regard are computer-simulated shop- ping experiments , test markets in laboratory-based stores , and/ or natural test-market field-based studies ( Burke 1996 ) .
+136 / Journal of Marketing , March 2013 APPeNDIx Study 2b : Controlled experiment A : Fear Appeal Eating Can Be a Dangerous Experience … Did you know that an overwhelming majority of Americans ’ diets do not meet Federal Food Guide Pyramid recommen- dations ?
+The unhealthy diets of a majority of Americans result in more deaths each year than smoking , drug-use , and firearms combined and is one of the two leading causes of premature death in the United States ( American Medical Association ) .
+Such a diet contributes to four of the six leading causes of death : •Heart disease .
+•Diabetes .
+•Stroke .
+•Many cancers ( colon , prostate , mouth , throat , esopha- gus , lung , stomach ) .
+Please follow the USDA ’ s nutritional guidelines for healthy eating .
+B : Peer Appeal Eating Can Be a Social Experience … Did you know that an overwhelming majority of Americans belong to one or more social networking sites ?
+The unhealthy diets of a majority of Americans have resulted in the development of various nutrition-related sites which feature social networks and user groups .
+Such sites foster social interaction on nutrition-related topics , and include the following : •The Daily Plate—Connect with others .
+•MD Junction—Find online support groups .
+•Food Fan—A social network for anyone who wants to connect with others for support with food-related issues .
+It includes lots of community-based stuff like groups , message boards and blogs .
+•Foodzy—The website provides a social network .
+Please follow the USDA ’ s nutritional guidelines for healthy eating .
+To Buy or Not to Buy / 137 Gore , Prasanna , Suresh Madhavan , David Curry , Gordon McClurg , Mary Castiglia , Sidney A. Rosenbluth , et al .
+( 1998 ) , “ Persuasive Messages , ” Marketing Health Services , 18 ( 4 ) , 32–43 .
+Hausman , Angela ( 2012 ) , “ Hedonistic Rationality : Healthy Food Consumption Choice Using Muddling-Through , ” Journal of Business Research , 65 ( 6 ) , 794–801 .
+Hayes , Andrew F. ( 2009 ) , “ Beyond Baron and Kenny : Statistical Mediation Analysis in the New Millennium , ” Communication Monographs , 76 ( 4 ) , 408–420 .
+Hoch , Steven J. and Young-Won Ha ( 1986 ) , “ Consumer Learning : Advertising and the Ambiguity of Product Experience , ” Jour- nal of Consumer Research , 13 ( 2 ) , 221–33 .
+Janiszewski , Chris and Donald R. Lichtenstein ( 1999 ) , “ A Range Theory Account of Price Perception , ” Journal of Consumer Research , 25 ( 4 ) , 253–68 .
+Jensen , Robert and Nolan Miller ( 2008 ) , “ Giffen Behavior and Subsistence Consumption , ” American Economic Review , 97 ( 4 ) , 1553–77 .
+Johnson , Eric J. and Robert J. Meyer ( 1994 ) , “ Choice in Context : Empirical Generalizations About Consumer Choice , ” working paper , Wharton School , University of Pennsylvania .
+Kahneman , Daniel ( 2011 ) , Thinking Fast and Slow .
+New York : Macmillan Publishing .
+Killgore , William D.S .
+and Deborah A. Yurgelun-Todd ( 2005 ) , “ Developmental Changes in the Functional Brain Responses of Adolescents to Images of High and Low-Calorie Foods , ” Developmental Psychobiology , 47 ( 4 ) , 377–97 .
+Lades , Leonard K. ( 2012 ) , “ Impulsive Consumption and Reflex- ive Thought : Nudging Ethical Consumer Behavior , ” Papers on Economics and Evolution , No .
+1203 , ( accessed November 12 , 2012 ) , [ available at http : //hdl.handle.net/10419/57569 ] .
+Landro , Laura ( 2006 ) , “ Social Networking Comes to Healthcare , ” The Wall Street Journal , ( December 29 ) , ( accessed November 12 , 2012 ) , [ available at http : //online.wsj.com/article/ SB116717686202159961.html ] .
+Leeder , Jessica ( 2009 ) , “ Fat Guzzling Ads Not So Sweet , ” Toronto Globe , ( December 17 ) , ( accessed November 12 , 2012 ) , [ avail- able at http : //www.theglobeandmail.com/life/health-and-fitness/ fat-guzzling-ads-not-so-sweet/article1209847/ ] .
+Liang , Kung-Yee and Scott L. Zeger ( 1986 ) , “ Longitudinal Data Analysis Using Generalized Linear Models , ” Biometrika , 73 ( 1 ) , 13–22 .
+Loewenstein , George ( 1996 ) , “ Out of Control : Visceral Influences on Behavior , ” Organizational Behavior and Human Decision Processes , 65 ( 3 ) , 272–92 .
+Luszczynska , Aleksandra , Maciej Tryburcy , and Ralf Schwarzer ( 2007 ) , “ Improving Fruit and Vegetable Consumption : A Self- Efficacy Intervention Compared with a Combined Self-Efficacy and Planning Intervention , ” Health Education Research , 22 ( 5 ) , 630–38 .
+Marshall , Alfred ( 1895 ) , Principles of Economics .
+New York : Macmillan Publishing .
+Martikainen , Pekka , Eric Brunner , and Michael Marmot ( 2003 ) , “ Socioeconomic Differences in Dietary Patterns Among Middle- Aged Men and Women , ” Social Science and Medicine , 56 ( 7 ) , 1397–1410 .
+Matthews , Karen , Janine Flory , Matthew Muldoon , and Stephen Manuck ( 2000 ) , “ Does Socioeconomic Status Relate to Central Serotonergic Responsivity in Healthy Adults ? ” Psychosomatic Medicine , 62 ( 2 ) , 231–37 .
+Mazumdar , Tridib , S.P .
+Raj , and Indrajit Sinha ( 2005 ) , “ Reference Price Research : Review and Propositions , ” Journal of Market- ing , 69 ( October ) , 84–101 .
+ReFeReNCeS Acquino , Judith ( 2012 ) , “ Gen Y : The Next Generation of Spenders , ” DestinationCRM.com , ( February ) , ( accessed November 12 , 2012 ) , [ available at http : //www.destinationcrm .
+com/ Articles/ Editorial/Magazine-Features/Gen-Y-The-Next-Generation-of- Spenders-79884.aspx ] .
+Andreyeva , Tatiana , Michael W. Long , and Kelly D. Brownell ( 2010 ) , “ The Impact of Food Prices on Consumption : A Sys- tematic Review of Research on the Price Elasticity of Demand for Food , ” American Journal of Public Health , 100 ( 2 ) , 216–22 .
+Bartfield , Jessica K. , Norma Ojehomon , Karen W. Huskey , Roger B. Davis , and Christina C. Wee ( 2010 ) , “ Preferences and Self- Efficacy for Diet Modification Among Primary Care Patients , ” Obesity , 18 ( 2 ) , 430–32 .
+Bertrand , Marianne , Sendhil Mullainathan , and Eldar Shafir ( 2006 ) , “ Behavioral Economics and Marketing in Aid of Deci- sion Making Among the Poor , ” Journal of Public Policy & Marketing , 25 ( Spring ) , 8–23 .
+Bijmolt , Tammo H.A. , Harald J .
+Van Heerde , and Rik G.M .
+Pieters ( 2005 ) , “ New Empirical Generalizations on the Determinants of Price Elasticity , ” Journal of Marketing Research , 42 ( May ) , 141–56 .
+Boer , Henk and Erwin R. Seydel ( 1996 ) , “ Protection Motivation Theory , ” in Predicting Health Behaviour : Research and Prac- tice with Social Cognition Models .
+Buckingham , UK : Open University Press , 95–120 .
+Brissette , Ian , Michael F. Scheier , and Charles S. Carver ( 2002 ) , “ The Role of Optimism in Social Network Development , Cop- ing , and Psychological Adjustment During a Life Transition , ” Journal of Personality and Social Psychology , 81 ( 1 ) , 102–111 .
+Brownell , Kelly D. and Thomas R. Frieden ( 2009 ) , “ Ounces of Prevention : The Public Policy Case for Taxes on Sugared Bev- erages , ” New England Journal of Medicine , 360 ( 18 ) , 1805–1808 .
+Burke , Raymond R. ( 1996 ) , “ Virtual Shopping : Breakthrough in Market Research , ” Harvard Business Review , 74 ( March/ April ) , 120–31 .
+Chan , Kimmy Wa and Stella Yiyan Li ( 2010 ) , “ Understanding Consumer to Consumer Interactions in Virtual Communities : The Salience of Reciprocity , ” Journal of Business Research , 63 ( 9/10 ) , 1033–40 .
+Christakis , Nicholas A. and James H. Fowler ( 2008 ) , “ The Collec- tive Dynamics of Smoking in a Large Social Network , ” The New England Journal of Medicine , 358 ( 21 ) , 2249–58 .
+Dahlen , Micael ( 2005 ) , “ The Medium as a Contextual Cue , ” Jour- nal of Advertising , 34 ( 3 ) , 89–98 .
+Drewnowski , Adam and Nicole Darmon ( 2005 ) , “ Food Choices and Diet Costs : an Economic Analysis , ” Journal of Nutrition , 135 ( 4 ) , 900–904 .
+Dumontheil , Iroise , Bano Hassan , Sam J. Gilbert , and Sarah-Jayne Blakemore ( 2010 ) , “ Development of the Selection and Manipulation of Self-Generated Thoughts in Adolescence , ” Journal of Neuroscience , 30 ( 22 ) , 7664–71 .
+Epstein , Leonard H. , Kelly K. Dearing , Lora G. Roba , and Eric Finkelstein ( 2010 ) , “ The Influence of Taxes and Subsidies on Energy Purchased in an Experimental Purchasing Study , ” Psy- chological Science , 21 ( 3 ) , 406–414 .
+Fernandez , Manny ( 2010 ) , “ Let Us Now Praise the Great Men of Junk Food , ” The New York Times , ( August 7 ) , ( accessed November 12 , 2012 ) , [ available at http : //www.nytimes.com/ 2010/08/08/weekinreview/08manny.html ] .
+Finkelstein , Stacey R. and Ayelet Fishbach ( 2010 ) , “ When Healthy Food Makes You Hungry , ” Journal of Consumer Research , 37 ( 3 ) , 357–67 .
+Metcalfe , Janet and Walter Mischel ( 1999 ) , “ A Hot/Cool System Analysis of Delay of Gratification : Dynamics of Willpower , ” Psychological Review , 106 ( 1 ) , 3–19 .
+Mick , David Glen ( 1996 ) , “ Are Studies of Dark Side Variables Confounded by Socially Desirable Responding ?
+The Case of Materialism , ” Journal of Consumer Research , 23 ( 2 ) , 106–119 .
+Mischel , Walter , Yuichi Shoda , and Monica L. Rodriguez ( 1989 ) , “ Delay of Gratification in Children , ” Science , 244 ( May 26 ) , 933–38 .
+Obermiller , Carl and Eric R. Spangenberg ( 2000 ) , “ On the Origin and Distinctiveness of Skepticism Toward Advertising , ” Mar- keting Letters , 11 ( 4 ) , 311–22 .
+Ostan , Iztok , Borut Poljšak , Marjan Simčič , and L.M.M .
+Tijskens ( 2010 ) , “ Appetite for the Selfish Gene , ” Appetite , 54 ( 3 ) , 442–49 .
+Raghunathan , Rajagopal , Rebecca Walker Naylor , and Wayne D. Hoyer ( 2006 ) , “ The Unhealthy = Tasty Intuition and Its Effects on Taste Inferences , Enjoyment , and Choice of Food Products , ” Journal of Marketing , 70 ( October ) , 170–84 .
+Rogers , Ronald W. ( 1983 ) , “ Cognitive and Physiological Pro- cesses in Fear Appeals and Attitude Change : A Revised Theory of Protection Motivation , ” in Social Psychophysiology , J. Cacioppo and R. Petty , eds .
+New York : Guilford Press , 153–76 .
+Schlosser , Eric ( 2001 ) , Fast Food Nation .
+Boston : Houghton Mifflin .
+Seiders , Kathleen and Ross D. Petty ( 2004 ) , “ Obesity and the Role of Food Marketing : A Policy Analysis of Issues and Remedies , ” Journal of Public Policy & Marketing , 23 ( Fall ) , 153–69 .
+Soman , Dilip and John Gourville ( 2001 ) , “ Transaction Decou- pling : How Price Bundling Affects the Decision to Consume , ” Journal of Marketing Research , 38 ( February ) , 30–44 .
+Starcke , Katrin , Anne Catrin Ludwig , and Matthias Brand ( 2012 ) , “ Anticipatory Stress Interferes with Utilitarian Moral Judg- ment , ” Judgment and Decision Making , 7 ( 1 ) , 61–68 .
+Stubbs , James R. and Stephen Whybrow ( 2004 ) , “ Energy Density , Diet Composition and Palatability : Influences on Overall Food Energy Intake in Humans , ” Physiological Behavior , 81 ( 5 ) , 755–64 .
+Sudhir , K. and Debabrata Talukdar ( 2004 ) , “ Does Store Brand Patronage Improve Store Patronage ? ” Review of Industrial Organization , 24 ( 2 ) , 143–60 .
+Talukdar , Debabrata ( 2008 ) , “ Cost of Being Poor : Retail Price and Consumer Price Search Difference Across Inner-City and Sub- urban Neighborhoods , ” Journal of Consumer Research , 35 ( 3 ) , 457–71 .
+——— , Dinesh Gauri , and Dhruv Grewal ( 2010 ) , “ An Empirical Analysis of the Extreme Cherry Picking Behavior of Con- sumers in the Frequently Purchased Goods Market , ” Journal of Retailing , 86 ( 4 ) , 336–54 .
+Thaler , Richard H. and Cass R. Sunstein ( 2008 ) , Nudge : Improv- ing Decisions About Health , Wealth , and Happiness .
+New Haven , CT : Yale University Press .
+Thomas , Manoj , Kalpesh Desai , and Satheeshkumar Seenivasan ( 2011 ) , “ How Credit Card Payments Increase Unhealthy Food Purchases : Visceral Regulation of Vices , ” Journal of Consumer Research , 38 ( 1 ) , 126–39 .
+Treuhaft , Sarah and Allison Karpyn ( 2010 ) , “ The Grocery Gap : Who Has Access to Healthy Food and Why It Matters , ” policylink .
+org , ( accessed November 12 , 2012 ) , [ available at http : // www .
+policylink.org/site/c.lkIXLbMNJrE/b.5860321/k.A5BD/The_ Grocery_Gap.htm ] .
+Umberson , Debra , Robert Crosnoe , and Corinne Reczek ( 2010 ) , “ Social Relationships and Health Behavior Over the Life Course , ” Annual Review of Sociology , 36 , 139–57 .
+U.S. Food and Drug Administration ( 2012 ) , ( accessed August , 6 , 2012 ) , [ available at http : //www.fda.gov/Food/GuidanceCom- pliance RegulatoryInformation/GuidanceDocuments/FoodLa- belingNutrition/FoodLabelingGuide/ucm064916 ] .
+Wansink , Brian and Mike Huckabee ( 2005 ) , “ De-Marketing Obe- sity , ” California Management Review , 47 ( 4 ) , 6–18 .
+Wasserman , S. and K. Faust ( 1994 ) , Social Network Analysis : Methods and Applications .
+Cambridge , UK : Cambridge Uni- versity Press .
+Winer , Russell S. ( 1986 ) , “ A Reference Price Model of Brand Choice for Frequently Purchased Products , ” Journal of Con- sumer Research , 13 ( 2 ) , 250–56 .
+——— ( 1988 ) , “ Behavioral Perspectives on Pricing : Buyer ’ s Sub- jective Perceptions of Price Revisited , ” in Issues in Pricing : Theory and Research , Timothy M. Devinney , ed .
+Lexington , MA : Lexington Books .
+Witte , Kim ( 1992 ) , “ Putting the Fear Back into Fear Appeals : The Extended Parallel Process Model , ” Communication Mono- graphs , 59 ( December ) , 329–34 .
+——— and Mike Allen ( 2000 ) , “ A Meta-Analysis of Fear Appeals : Implications for Effective Public Health Campaigns , ” Health Education and Behavior , 27 ( 5 ) , 591–615 .
+Zhao , Xinshu , John G. Lynch Jr. , and Qimei Chen ( 2010 ) , “ Recon- sidering Baron and Kenny : Myths and Truths About Mediation Analysis , ” Journal of Consumer Research , 37 ( 2 ) , 197–206 .
+138 / Journal of Marketing , March 2013

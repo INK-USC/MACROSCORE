@@ -1,0 +1,620 @@
+Aksoy_AmJourPoliSci_2012_YNDQ.pdf
+ay6w4N5DoQpw.QsDpeZ5Uqv.4MHm-Aksoy_AmJourPoliSci_2012_YNDQ.pdf.plain.html
+
+Institutional Arrangements and Logrolling : Evidence from the European Union Deniz Aksoy This article illustrates how voting rules used to pass a piece of legislation and the structure of the legislation , in terms of whether or not it has single or multiple issue dimensions , influence the frequency and the purpose of position changes in legislative negotiations .
+Through analysis of data on a set of legislative proposals negotiated in the European Union , I show that position changes are less common under unanimity rule than under majority rule .
+More importantly , I argue and show that when the negotiated legislation is multidimensional ( i.e. , contains multiple issues ) and the voting rule is unanimity , position changing is a lucrative strategy for legislators .
+Multidimensional legislation creates opportunities for logrolling , and legislators ’ veto power under the unanimity rule enables them to exploit these opportunities .
+Accordingly , under this scenario , legislators often engage in what I call a within-legislation logroll and secure favorable legislative outcomes .
+On December 19 , 2009 , Senator Ben Nelson ofNebraska announced his intention to “ vote forhealth care reform. ” 1 The senator , who was the last Democratic holdout on the bill , was changing his po- sition .
+Only a month earlier , Senator Nelson was opposed to the bill because he did not “ .
+.
+.
+want a big govern- ment , Washington-run operation that would undermine the private insurance that 200 million Americans now have. ” 2 In the course of changing his position , Nelson , whose support was critical to stop a Republican filibuster , worked to extract several important concessions .
+In ex- change for a compromise on abortion that allowed the bill to go forward , he received an assurance of massive federal health care aid for his home state.3 In other words , Nelson and the rest of the Democrats created a logroll .
+Senator Nelson ’ s position changing during the negotiations was not an isolated phenomenon .
+Several other senators ( e.g. , Joseph Lieberman ) changed their stance on the very same bill .
+Deniz Aksoy is Associate Research Scholar and Lecturer in the Department of Politics and the Woodrow Wilson School of International and Public Affairs , Princeton University , 302 Robertson Hall , Princeton , NJ 08544-1013 ( daksoy @ princeton.edu ) .
+For their helpful comments on this project , I would like to thank Cliff Carrubba , David Carter , Lucy Goodhart , Bjørn Høyland , Joe Jupille , Tasos Kalandrakis , Amie Kreppel , Christiane Lemke , Bonnie Meguid , Sophie Meunier , Andrew Moravcsik , Mark Pollack , Bing Powell , Nils Ringe , Robert Thomson , and the participants of the Third Annual Princeton Workshop on European Integration and the participants of the 2011 New Frontiers of EU Institutions Workshop of University of Colorado at Boulder .
+Any problems in the article remain my responsibility .
+Data used in this article are available at http : //www.princeton.edu/∼daksoy .
+1 “ Democrats Clinch Deal for Deciding Vote on Health Bill. ” The New York Times , December 12 , 2009 .
+2 “ Centrist Senators Say They Oppose Health Care Bill. ” The New York Times , November 22 , 2009 .
+3 “ Deal on Bill Is Reached. ” Washington Post , December 20 , 2009 .
+4 I use the term “ logrolling ” in this article to refer to explicit logrolling , not implicit logrolling .
+See Tullock ( 1959 ) for details .
+A wealth of anecdotal evidence and several influen- tial theoretical studies in the literature suggest that leg- islators often engage in logrolling during legislative ne- gotiations ( Carrubba and Volden 2000 ; Ferejohn 1986 ; Riker and Brams 1973 ; Stratmann 1992 ; Tullock 1959 , 1970 ) .4 However , despite the fact that logrolling and po- sition changing seems to be quite common in legisla- tures , the dynamics of such behavior are understudied empirically .
+The vast majority of empirical research in legislative studies focus on voting records ( Binder 1999 ; Clinton , Jackman , and Rivers 2004 ; Jones 2003 ; Martin 2001 ; Poole and Rosenthal 1999 ) .
+Undoubtedly , research on voting behavior contains much insight into legislative behavior .
+However , voting is often the final step of a leg- islative process , and legislators ’ behavior during the leg- islative negotiations is at least as interesting as their voting records .
+During the legislative process , position changing is observed often and has important policy consequences .
+For example , without Senator Nelson ’ s position change , American Journal of Political Science , Vol .
+56 , No .
+3 , July 2012 , Pp .
+538–552 C© 2012 , Midwest Political Science Association DOI : 10.1111/j.1540-5907.2012.00574.x 538 INSTITUTIONAL ARRANGEMENTS AND LOGROLLING 539 Senate Democrats would be unlikely to successfully move the bill forward .
+Besides illustrating the importance of position changes in legislatures , the above example points to an important relationship between key legislative institu- tional arrangements , such as voting rules , and position changes .
+In the Senate , Democrats needed all of their 60 votes to break a Republican filibuster .
+They needed to reach a unanimous decision , which gave each Demo- cratic senator effective veto power .
+Accordingly , unsat- isfied Democrats had the opportunity to use their veto power to extract concessions from others in return for changing their positions .
+In contrast , Democrats in the House of Representatives needed a simple majority of the votes to pass the legislation .
+Given that the Democrats had 38 members more than a simple majority of the House , unsatisfied members had a harder time extract- ing concessions from others in return for changing their positions .
+House Democrats could more easily afford de- fections , and some of the unsatisfied members could be left out of a winning coalition .
+This example suggests that we should observe important differences in legislators ’ position changing behavior in bargaining over legislation subject to different voting rules .
+The scarcity of quantitative empirical research on position changes in legislatures is surprising given the prominence of such behavior in legislative politics .
+Undoubtedly , data limitations are a major reason for the lack of empirical research on the topic .
+First , obtaining in- formation on legislators ’ position changes and how such changes relate to their “ success ” in bargaining is difficult .
+Second , in many legislatures , voting rules do not vary in a straightforward manner and are endogenous in ways that complicate the analysis.5 Thus , there have been sev- eral significant barriers to empirical work that explores how institutional arrangements affect position changes and the potential for logrolls among legislators .
+I sidestep these difficulties by using a rich dataset containing information on the most preferred policy al- ternatives of the European Union ( EU ) member-state representatives before and after legislative negotiations in the European Union ’ s Council of Ministers ( Thomson and Stokman 2003 ) .
+During the EU legislative process , 5 For instance , in the U.S. Senate example , the fact that each Demo- cratic senator had effective veto power was an artifact of the Demo- cratic caucus being composed of exactly 60 members and the fact that any Republican support was exceedingly unlikely .
+In the U.S. Senate , this dynamic changes both across different legislative ses- sions and even across bills within each session .
+Furthermore , in many legislative bodies , voting rules are endogenous in the sense that they are decided by a portion of the membership on a bill-to- bill basis ( e.g. , the role of the Rules Committee in the U.S. House of Representatives ) .
+the member states ’ government ministers represent their countries in a manner similar to legislators represent- ing different constituents in a national legislature .
+Thus , understanding the way institutional arrangements shape member-state representatives ’ position changing behav- ior can help us understand position changes in national legislatures .
+Moreover , the EU is a particularly interest- ing case to study the influence of legislative institutional arrangements as it has multiple voting rules ( e.g. , quali- fied majority voting and unanimity ) and legislative pro- cedures ( e.g. , codecision and consultation ) .
+Importantly , the procedures employed to pass a particular piece of leg- islation can be treated as exogenous , as they are explicitly codified in the EU Treaties .
+Thus , the EU provides us with a unique opportunity to study the influence of different institutional arrangements on legislative behavior .
+Fur- thermore , detailed information on legislators ’ positions during legislative negotiations in the EU ’ s Council of Min- isters is available .
+This information is essential to assess whether legislators changed their positions and what they gained from doing so .
+Through statistical analysis of negotiations on a set of EU legislative proposals , I illustrate how voting rules used to pass a piece of legislation , and the structure of the legislation , in terms of whether or not it has single or multiple issue dimensions , influence the frequency and the purpose of position changes during the negotiations on that proposal .
+Having veto power under the unanim- ity voting rule empowers legislators and enables them to stand firm during negotiations .
+Accordingly , on average we observe fewer position changes under the unanimity voting rule than under the majority voting rule .
+More importantly , I argue and show that the voting rule and the structure of the legislation determine what legislators gain from position changes .
+When the negotiated piece of legislation is multidimensional and the voting rule is unanimity , legislators have both the opportunity and the power to use position changing as a strategy to obtain a favorable outcome in bargaining over that particular legislation .
+Under this condition , I show that legislators often engage in what I call a within-legislation logroll , which increases their success in obtaining outcomes close to their preferences .
+The arguments and findings in this article are relevant to the literatures on legislative behavior , EU policymak- ing , and issue linkages in international negotiations .
+As I noted above , in the Council member states ’ ministers rep- resent their countries in a manner similar to the legislators representing different constituents in a national legisla- ture .
+Thus , studying position changes in the EU can help us understand position changes in national legislatures .
+Moreover , given that the member states ’ representatives 540 DENIZ AKSOY are negotiating within the highly institutionalized setting of an international organization , the findings of the arti- cle are relevant for the literature on international negoti- ations which emphasize the prominence of issue linkages and vote trading ( Davis 2004 ; Morgan 1990 ; Odell 2000 ; Sebenius 1984 ; Tollison and Willett 1979 ) .
+In the next section , I introduce the dataset on the EU legislative negotiations and briefly discuss the exist- ing studies which study position changes using these data .
+I follow this section with a presentation of my main ar- gument and hypotheses .
+In the analysis section , I develop a measure of legislators ’ negotiation success in obtain- ing outcomes close to their preferences .
+The measure is novel in that it is proposal specific and takes into ac- count the multidimensional structure of each legislation .
+In the analysis section , I first explore the relationship between voting arrangements and position changes and second , and more importantly , the relationship between position changes and negotiation success .
+The findings show that voting rules play a central role in determining whether legislators change their positions during negotia- tions and what they gain from position changing .
+Finally , I discuss potential objections to the results , discuss some broader implications for the study of legislatures , and conclude .
+Position Changes in EU Legislative Negotiations Legislators ’ position changing behavior during the leg- islative process has been relatively unexplored in the lit- erature .
+This is unfortunate given the wide range of stud- ies that emphasize the prominence of logrolling during legislative negotiations in general ( Carrubba and Volden 2000 ; Riker 1986 ; Riker and Brams 1973 ; Stratmann 1992 ) and position changes and logrolling during EU legislative negotiations in particular ( Heisenberg 2005 ; König and Junge 2009 ; Matilla and Lane 2001 ; Stokman and den Bos 1994 ; Thomson et al .
+2006 ) .
+However , an innovative dataset , Decision Making in the European Union ( DEU ) , makes it possible to systematically study position changes and logrolling .
+The DEU dataset was collected through detailed in- terviews with experts working at the main EU institu- tions and actively observing legislative negotiations .
+The dataset contains information on a set of legislative pro- posals negotiated between January 1999 and December 2000 .
+The proposals differ from each other with respect to the Council voting rule and the legislative procedure they were subject to .
+Some were decided by unanimity voting and others by qualified majority voting ( QMV ) .
+In terms of legislative procedure , they were all subject to one of the two most often employed EU legislative proce- dures : codecision and consultation.6 For each proposal in the dataset , the experts identi- fied the main negotiation issues .
+For example , one of the proposals is on a community action program in educa- tion .
+The experts identify two issues for the proposal .
+The first issue is about the amount of funding to be allocated for the program .
+The second issue is whether the wording used to describe the program should be ambitious and emphasize “ integration , ” or be more modest and em- phasize “ cooperation. ” The experts describe each issue in terms of a scale ranging between 0 and 100 and locate initial and final positions of each EU member-state rep- resentative on the scales for each issue of each proposal .
+The initial positions are the policy alternatives the members favored most right after the introduction of the proposal prior to the beginning of negotiations .
+The initial positions also indicate the outcomes members ide- ally wanted to obtain in negotiations .
+In existing research conducted by scholars who collected the DEU data , the concepts “ initial position ” and “ ideal position ” are used interchangeably ( Bailer 2004 ; König and Junge 2009 ) .
+Moreover , in a special issue introducing the dataset , Stokman and Thomson ( 2004 ) note that the interviewed experts did not distinguish between the terms “ initial po- sition ” and “ preference , ” suggesting that the experts do not consider a member ’ s initial position as an indicator of nonsincere position taking , but as an expression of the member ’ s actual preference .
+Another scholar who was in- volved in data collection also emphasizes that the experts have detailed insight into members ’ interests and ideal preferences and that a member ’ s initial position is closer to that member ’ s “ preference ” than to a “ stated position ” ( Arregui 2008 , 872 ) .7 The final positions are the policy alternatives the members favored most after the negoti- ations and right before a decision was adopted ( Arregui 2008 , 859 ) .
+Along with the initial and final positions , the experts also estimated the salience of issues for the members .
+Finally , the dataset contains expert estimates 6 The consultation procedure ( Article 192 of the EC Treaty ) begins with the Commission ’ s introduction of a piece of legislation ( i.e. , Commission proposal ) .
+Under consultation , the European Parlia- ment can only suggest amendments .
+The Council adopts the law via QMV or unanimity depending on the Treaty article .
+The code- cision procedure ( Article 251 of the EC Treaty ) also begins with the Commission ’ s proposal .
+Under this procedure , the EP and the Council are co-legislatures as the EP can amend or veto legislation .
+7 In a study on the EU ’ s conciliation committees , König et al .
+( 2007 ) compare the expert estimates on seven proposals from the DEU data with data they themselves collected though interviews .
+They find very high similarity between expert judgments in their data and the DEU data , with respect to the estimates of actors ’ initial positions .
+INSTITUTIONAL ARRANGEMENTS AND LOGROLLING 541 of the position of the negotiation outcome and the sta- tus quo outcome .
+The negotiation outcome is the policy alternative the actors eventually accepted , while the sta- tus quo outcome is the policy alternative that would have prevailed if there were no agreement on the proposal ( Thomson et al .
+2006 , 38 ) .
+Several studies utilize the DEU dataset ( Aksoy 2010a ; Arregui 2008 ; Arregui and Thom- son 2009 ; Bailer 2004 ; König and Junge 2009 ; Pajala and Widgrèn 2004 ; Schalk et al .
+2007 ; Selck and Steunen- berg 2004 ; Thomson 2008 ; Thomson and Hosli 2006 ; Thomson et al .
+2006 ; Warntjen 2008 ) , with the main study being Thomson et al .
+( 2006 ) .
+However , Arregui , Stokman , and Thomson ( 2004 ) and Arregui ( 2008 ) are the only studies that specifically study position changes using the dataset .
+Thus , I focus the remainder of the discussion on these two papers and related work that discusses logrolling in the EU .
+The main focus of Arregui , Stokman , and Thomson ( 2004 ) is to tie position switching to the key models of decision making discussed in Thomson et al .
+( 2006 ) , among other studies .
+Importantly , Arregui , Stokman , and Thomson first establish that position changing indeed occurs often .
+Second , the authors calculate the final po- sitions members should move to given their initial po- sitions and alternative theoretical conceptualizations of the legislative process .
+For example , one of their models , the “ compromise model , ” predicts members ’ final posi- tions to be the weighted average of all the members ’ initial positions .
+The authors assess the predictive accuracy of alternative models but do not explore the extent to which institutional arrangements in general or voting rules in particular motivate changes .
+Arregui ( 2008 ) builds upon Arregui , Stokman , and Thomson ( 2004 ) and explores how several country-level ( e.g. , voting power ) and proposal-level factors ( e.g. , type of policy instrument , policy area ) influence position changes .
+The author also uncovers some interesting re- lationships between position changes , voting rules , and legislative procedures .
+For example , one of the findings suggests that changes are more common under QMV than unanimity when the legislative procedure is codecision .
+Thus , the study highlights potential connections between position changes and institutional arrangements .
+How- ever , it also suggests a need for better understanding of why and how position changes and institutional arrange- ments are linked .
+I argue that we can better understand the connections between institutional rules and position changes by theorizing about what legislators can obtain from position changing .
+Given that legislators ultimately aim to secure favorable legislative outcomes , studying the extent to which position changing helps or hurts them in this respect under different voting rules is of central importance .
+Several other studies in the literature also empha- size the importance of logrolling and position changing in the EU .
+Scholars suggest that the EU ’ s institutional setting facilitates logrolling ( Heisenberg 2005 ) and that logrolling can provide an explanation for the large num- ber of consensual EU decisions ( König and Junge 2009 ; Matilla and Lane 2001 ) .
+In an interesting study , König and Junge ( 2009 ) argue that logrolling can happen across pro- posals negotiated within similar time periods or within similar issue areas .
+While this is an intriguing argument and seems to be consistent with general patterns in the data , it is difficult to actually marshal direct evidence of logrolling across proposals .
+Furthermore , I argue that scholars have overlooked a type of logrolling , within- legislation , that is more plausible in the EU and can be more directly analyzed .
+Overall , the emphasis that re- search on the EU generally places on logrolling suggests that more direct evidence of logrolling is much needed .
+Exploring the connections between legislators ’ position chaging behavior and their negotiation success on each legislative proposal will bring us closer to providing more direct evidence for logrolling .
+Argument : Dimensions , Voting Rules , Position Changes Voting rules in large part determine the extent to which the members of a decision-making body can be influen- tial and the alternative negotiation strategies available to them.8 For instance , voting rules are a significant reason why minority party members in the U.S. Senate have a lot more influence than minority party members in the U.S. House of Representatives ( e.g. , cloture rule or unan- imous consent in the Senate ) .
+In the EU ’ s Council of Ministers , representatives decide by either unanimity or qualified majority voting .
+Under qualified majority rule , representatives ’ voting weights are proportional to their country ’ s population , and a qualified majority of the votes is reached when a specific threshold of votes is in favor of 8 A large number of theoretical studies show the importance of key legislative institutional arrangements such as voting and proposal- making rules ( Baron and Ferejohn 1989 ; Kalandrakis 2006 ; Romer and Rosenthal 1978 ) and the vote of confidence procedures in leg- islatures ( Baron 1998 ; Diermeier and Feddersen 1998 ) .
+While a full review of this literature is beyond the scope of this article , this literature strongly suggests that legislative institutional arrange- ments shape both legislators ’ behavior and legislative outcomes in profound ways .
+542 DENIZ AKSOY the legislation.9 Under unanimity rule , all members have effective veto power .
+I argue that voting rules significantly influence both the frequency and consequences of posi- tion changes by legislators .
+My argument unfolds in two main parts .
+First , I discuss how I expect voting rules to affect position-changing behavior in general .
+Second , I discuss how voting rules and the structure of legislation , i.e. , the number of issue dimensions , interact to determine what legislators can gain from position changing .
+In general , I expect legislators to be less likely to move away from their preferred position when they have the power and influence to obtain what they ideally want .
+Ac- cordingly , I argue that whether or not a legislator has veto power is a key factor that influences his or her propen- sity to change positions .
+I expect that having veto power under the unanimity rule will make it easier for a leg- islator to stand firm ( Arregui 2008 , 857 ) .
+Consequently , we should observe fewer position changes on proposals subject to unanimity voting relative to those subject to qualified majority voting .
+To assess the empirical veracity of this idea , I test the following hypothesis .
+Hypothesis 1 : Under the unanimity voting rule , legisla- tors change their positions less often than they do under the qualified majority voting rule .
+Despite their veto powers under the unanimity rule , some members will still be willing to change positions .
+Legislators often change their positions if they obtain satisfactory concessions from their colleagues in return , meaning they engage in a logroll ( Carrubba and Volden 2000 ; Riker and Brams 1973 ; Stratmann 1992 ) .
+There are two potential ways in which legislators can benefit from position changing .
+First , they can change their po- sitions on some of the issues negotiated within a piece of legislation in return for concessions on other issues within the same piece of legislation .
+Second , they can change their positions on a piece of legislation in return for concessions on another , otherwise unrelated , piece of legislation .
+Thus , position changes might be motivated by what I call , first , within-legislation logrolling , or second , cross-legislation logrolling .
+I focus on within-legislation logrolling in this article because it is more substantively plausible and much easier to identify empirically .
+While cross-legislation logrolling is a theoretically appealing idea , it is harder to engage in cross-legislation logrolling than within-legislation logrolling in the EU ’ s Council of Ministers relative to many national legisla- tures .
+In the Council , the proposals within each policy area are negotiated by a different set of member-state 9 The threshold has changed over time with the signing of different treaties between the member states .
+representatives .
+For instance , agriculture proposals are negotiated by the agriculture ministers , while justice and home affairs proposals are negotiated by the justice and home affairs ministers .
+However , in national legislatures the same set of legislators negotiate on all the bills .
+Even though an EU member state ’ s minister of agriculture and minister of home affairs can presumably share informa- tion , it is difficult for them to be fully informed about the status of everyday negotiations in Council meetings other than their own .
+Thus , I argue that cross-legislation logrolling is generally more difficult to accomplish than within-legislation logrolling in the EU.10 Although cross-legislation logrolling is more plau- sible within a given policy area , a point nicely made by König and Junge ( 2009 ) , I argue that cross-legislation logrolls are still difficult relative to within-legislation logrolls .
+Ferejohn ( 1986 ) argues that theoretically , cross- legislation logrolling is difficult to sustain because it is rel- atively hard for legislators to commit to hold together any given logroll across different pieces of legislation .
+He uses an example from the U.S. Congress to show that bundling issues together , i.e. , producing a within-legislation logroll , leads to a much more stable logroll ( Ferejohn 1986 ) .
+Additionally , cross-legislation logrolling is very diffi- cult to observe empirically as we need to know whether two or more separate pieces of seemingly unrelated leg- islation are linked during negotiations.11 In contrast , within-legislation logrolling is easier to identify as it can only occur when legislation is multidimensional and con- nections across issues are obvious .
+The fact that I have data that are much better suited to the identification of within-legislation logrolling is further justification for making that my focus in this article .
+10 An anonymous reviewer pointed out that the difficulty of es- tablishing cross-legislation versus within-legislation logrolls might be influenced by the committees responsible for preparing the Council ’ s work , COREPER I and II .
+COREPER II consists of member states ’ ambassadors to the EU and deals with political , commercial , economic , or institutional matters while COREPER I consists of deputy ambassadors to the EU and deals with tech- nical matters ( http : //europa.eu/legislation˙summaries/glossary/ coreper˙en.htm ) .
+It is plausible that cross-legislation logrolling op- portunities emerge often for COREPER II legislation .
+However , I do not have data to distinguish the proposals prepared by COREPER I or II .
+Most importantly , regardless of the involvement of the preparatory committees , eventually the proposals within each pol- icy area are negotiated by a different set of member-state represen- tatives in the Council ( e.g. , agriculture ministers , finance ministers , or justice and home affairs ministers ) .
+Thus , overall it is easier to establish within-legislation logrolls than cross-legislation logrolls in the EU compared to in national legislatures .
+11 For an international relations example , see Davis ( 2004 ) .
+Unfor- tunately , there are no data comparable to that used in Davis ( 2004 ) for the EU or another legislature .
+INSTITUTIONAL ARRANGEMENTS AND LOGROLLING 543 Position changes can only be motivated by within- legislation logrolling when the legislation under consid- eration contains multiple issue dimensions .
+Specifically , legislators can use position changing as a lucrative strat- egy to gain a better negotiation outcome on a piece of legislation by changing their positions on issues they do not care much about in return for a better bargaining out- come on issues they greatly care about.12 However , I ar- gue that voting arrangements play an important modify- ing role on legislators ’ ability to exploit within-legislation logrolling opportunities .
+Under unanimity rule , legisla- tors can strongly press for concessions by threatening to veto legislation .
+In contrast , under qualified majority rule it is harder for legislators to push for concessions , as a win- ning coalition excluding some legislators can be formed .
+Accordingly , I expect legislators to be more successful at exploiting within-legislation logrolling opportunities when the voting rule is unanimity .
+Thus , position changes on multidimensional legislation will have a positive effect on members ’ negotiation success when the voting rule is unanimity .
+To explore this possibility , I test the following hypothesis : Hypothesis 2 : Position changers will obtain higher levels of negotiation success on a particular piece of leg- islation when ( 1 ) the negotiated piece of legislation is multidimensional rather than single-dimensional , and ( 2 ) the voting rule is unanimity rather than qual- ified majority voting .
+In sum , I expect that legislators will be less likely to change their position when they have veto powers .
+How- ever , they will be willing to do so if they are engaged in a logroll and are able to get something in return .
+Multi- dimensional legislation creates opportunities for within- legislation logrolling , and having veto power enables leg- islators to capitalize on such opportunities .
+Accordingly , position changes in negotiations over multidimensional legislation under the unanimity voting rule are likely to be motivated by within-legislation logrolling .
+If this is true , we will find that position changes bring legislators higher levels of negotiation success under this particular scenario .
+Data and the Main Variables I use information available in the DEU dataset for my empirical analysis .
+For the DEU dataset , information on members ’ final positions was collected only for a subset of 12 See the following section for a precise definition of negotiation success under multiple dimensions .
+randomly selected proposals .
+I am able to use information on 33 different legislative proposals.13 Eleven of the pro- posals were subject to unanimity rule , while 22 of them were subject to qualified majority rule .
+The proposals also vary in terms of the number of issues they contain .
+The majority of them are multidimensional , and the median proposal contains three issues .
+I construct several variables essential to testing my arguments .
+First , to indicate whether a legislator moved away from his or her initial position on a proposal , I code a variable , “ Position Change. ” For each proposal and legis- lator “ Position Change ” is coded 1 if the legislator moved away from his or her initial position on at least one of the issues within that proposal .
+Second , I construct another variable , “ Negotiation Sucess , ” measuring the extent to which a legislator obtained a policy outcome close to his or her ideal policy preference in bargaining over a pro- posal .
+A meaningful measure of success in bargaining over a proposal must take into account the position of the sta- tus quo outcome , the importance of the issues under the proposal for the member whose success we are measur- ing , and the multidimensional structure of the proposal .
+I briefly elaborate on these points below .
+Ignoring the position of the status quo would lead us to erroneously conclude that a member is successful if the outcome is close to the member ’ s ideal policy , even if the status quo policy was exactly what the member wanted .
+Let us assume that the ideal policies of members A and B on a single-dimensional proposal are 20 and 100 , respec- tively , the outcome of the negotiations is 60 , and the status quo is 20 .
+Without taking the status quo into account , we would conclude that both members are equally successful since they are equally distant from the outcome .
+However , note that A would be much better off if the status quo had prevailed after the negotiations and the outcome of the negotiations put A in a worse situation than it was in be- fore the negotiations .
+However , B considerably improved its situation after the negotiations .
+Thus , it is essential to take into account the position of the status quo outcome to measure success .
+The measure of success must also account for the salience of each issue under the proposal for the member whose success we are measuring .
+Consider the following 13 The subset of DEU dataset I use contains all the proposals that were included in the previous studies which employ the same dataset to study position changes except the ones for which ei- ther the status quo outcome or the ideal positions of the EP , the Commission , or some of the members are missing .
+My subset of the data includes several proposals that are excluded in previous studies despite the fact that relevant information is available in the DEU data .
+If I only use the 28 proposals which were used in the previous studies of position changes , my results remain completely robust .
+Results are in the online appendix .
+544 DENIZ AKSOY scenario .
+Assume that B ’ s ideal policies on two different proposals are 20 and 30 and the bargaining outcomes are 80 and 90 , respectively .
+Assume that the first proposal is very important for B , while the second one is not .
+The simple distance between the outcome and B ’ s ideal policy on each proposal is 60 .
+Based on this calculation , we would conclude that B is equally successful on these proposals .
+However , this conclusion is not substantively meaningful as it suggests that a member who secures an outcome close to his ideal position on a salient proposal is less successful than a member who got exactly what he wanted from negotiations on a proposal he does not even care about .
+Finally , to properly assess legislators ’ negotiation suc- cess in bargaining over a proposal , I need to take into account the connections between the issues within that proposal .
+Correctly dealing with the multidimensional structure of proposals is essential to the investigation of within-legislation logrolling .
+Furthermore , treating the issues negotiated under a proposal separately would be essentially analogous to breaking up a piece of legislation voted on as a whole by the U.S. Congress into separate issues and assuming that they are independent of one another .
+This assumption would be problematic as the issues under a proposal are closely linked and the legisla- tors decide on the fate of the proposal as a whole .
+In sum , I measure legislators ’ success in bargaining over each pro- posal , taking into account the multidimensional structure of the proposals , the position of the status quo outcomes , and the salience of the issues under the proposals .
+Consider a set of legislators N = { 1 , .
+.
+.
+, 15 } nego- tiating on a proposal , t , in a three-dimensional policy space.14 Each member is denoted by i .
+Let X ⊂ 3 de- note the policy space .
+Every x ∈ X is a policy vector , and x = { x1 , x2 , x3 } .
+Let o ∈ X , o = { o1 , o2 , o3 } denote the negotiation outcome and s q ∈ X , s q = { s q1 , s q2 , s q3 } denote the status quo .
+Each member i ∈ N has an ini- tial and final position in the policy space .
+Let pi ∈ X , pi = { pi1 , pi2 , pi3 } denote i ’ s initial position .
+pi1 is the ini- tial position of i on the first issue in the policy space , pi2 is i ’ s initial position on the second issue , etc .
+Each member i also attaches some salience to each of the issues.15 Let s i , s i = { s i1 , s i2 , s i3 } , denote vector of salience scores for i .
+To measure i ’ s negotiation success , I first calculate the weighted distance between the outcome ( o ) and i ’ s ideal policy ( pi ) , where the weights are the salience of the issues 14 We assume t is three-dimensional for the sake of illustration .
+In the DEU dataset there are proposals with as many as six dimensions .
+15 The values of salience in the data range from 0 to 100 , and higher values indicate that the issue is very important .
+I scale this variable to range between 0 and 1. under the proposal for member i .
+|pi − o| = √ ( pi1 −o1 ) 2 ∗ s i1 + ( pi2 −o2 ) 2 ∗ s i2 + ( pi3 −o3 ) 2 ∗ s i3 , ( 1 ) This calculation guarantees that the distance between i ’ s ideal policy and the outcome on an issue important to i will exert more influence in determining the distance be- tween pi and o .
+Second , I calculate the weighted distance between s q i and pi as follows : |pi − s q | = √ ( pi1 −s q1 ) 2 ∗s i1 + ( pi2 −s q2 ) 2 ∗s i2 + ( pi3 −s q3 ) 2 ∗s i3 .
+( 2 ) Legislator i ’ s negotiation success is measured by dividing equation ( 1 ) by equation ( 2 ) .
+To facilitate comparability of the measure across proposals with a different number of dimensions , I normalize the measure .
+Normalization also guarantees that the measure is well defined ( i.e. , the denominator is never 0 ) .
+Let us denote the maximum possible distance between two points on a proposal t as Maxt .
+Negotiation success for i in proposal t is calculated as follows : Negotiation Success = Maxt − |p i − o| + 1 Maxt − |pi − s q | + 1 .
+( 3 ) For a proposal and a legislator , an increase in the value of the variable indicates an increase in the negotiation success level of the legislator in bargaining over that proposal .
+Analysis I expect voting rules to be an important determinant of positionchanging behavior and the consequences of po- sition changes for legislators ’ negotiation success .
+First , I assess the relationship between the frequency of position changing behavior and voting rules , i.e. , Hypothesis 1 , us- ing cross-tabulations.16 Second , I assess the relationship between position changing and negotiation success , i.e. , Hypothesis 2 , with a multivariate model .
+Finally , I discuss 16 I also estimate a multivariate model of position changes and find the same results .
+I controlled for the influence of other factors that were found to influence position changes in the previous studies , specifically legislative procedure , position extremity , policy area , policy instrument , duration of negotiations ( Arregui 2008 ) .
+The results show that under qualified majority rule , changes occur less often than under unanimity rule .
+Given that the finding is identical using the more complicated model , I report the cross-tabulations here in the interest of both space and ease of exposition .
+Please see the online appendix for details .
+INSTITUTIONAL ARRANGEMENTS AND LOGROLLING 545 TABLE 1 Position Changes and Voting Type Position Position Change=1 Change=0 Row Sum Qualified Majority 234 58 292 ( 214.9 ) ( 77.1 ) Unanimity 92 59 151 ( 111.1 ) ( 39.9 ) Column Sum 326 117 443 Note : Observed values in bold , expected values in parentheses .
+Pearson chi-square = 18.9 with 1 d.f .
+; p-value = 0.01. the limitations of this study and the possibility that some- thing other than within-legislation logrolling explains the findings .
+Recall that Hypothesis 1 states that under unanimity , changes will occur less often than under qualified major- ity rule .
+Table 1 illustrates the frequency of changes across proposals subject to different voting rules .
+The bold num- bers are the observed number of observations in each cat- egory , while the numbers in parentheses are the expected number of observations under the assumption that po- sition changing and the voting rule are independent .
+In 326 out of 443 observations ( 73 % ) we observe position changes.17 There is a clear difference in position chang- ing behavior across voting rules .
+While changes occur in 80 % of the proposals under the qualified majority voting rule , they occur in around 60 % of the proposals under the unanimity rule .
+Furthermore , the numbers in parenthe- ses suggest that we should observe less position changing under the qualified majority rule and more under the unanimity rule if voting type and position changing are indeed independent .
+I conducted a chi-square test of in- dependence to assess whether voting rule and position changing are independent from each other .
+The Pearson chi-square test value is 18.9 with one degree of freedom and is statistically significant at any conventional level ( i.e. , p-value < 0.01 ) .
+This suggests that position chang- ing is not independent of voting rule .
+Even though members can veto legislation under unanimity , this does not mean that they will never change positions .
+Specifically , when legislation is multidimen- sional , legislators might be willing to change positions on 17 It was not possible to identify whether a member state changed its position under two scenarios : first , for a set of one-dimensional proposals where final position for a member state was missing ; second , for a set of multidimensional proposals where final position was known only for a subset of the issues and the known final positions were equal to the known initial positions .
+Under the latter case , we do not know whether there was a position shift because we do not know whether for the issues with unknown final positions there was a position shift .
+TABLE 2 Unanimity : Dimensionality and Position Changes Position Position Change=1 Change=0 Row Sum Single-dimensional 31 39 70 ( 42.6 ) ( 27.4 ) Multidimensional 61 20 81 ( 49.4 ) ( 31.6 ) Column Sum 92 59 151 Note : Observed values in bold , expected values in parentheses .
+Pearson chi-square = 15.2 with 1 d.f .
+; p-value < 0.01. some issues of the proposal if they extract concessions on other issues .
+I argue that the availability of multiple is- sues on the bargaining table combined with members ’ potential veto power create opportunities for within- legislation logrolling .
+Accordingly , Hypothesis 2 posits that under unanimity rule , position changers on multi- dimensional legislation will obtain increased levels of ne- gotiation success .
+Before moving to a test of Hypothesis 2 , I assess a simple corollary that provides a link between Hypotheses 1 and 2 .
+The corollary to Hypothesis 2 is that since members can logroll within legislation and extract concessions us- ing their veto powers , position changing should be more common on multidimensional unanimity proposals than single-dimensional unanimity proposals .
+Table 1 demon- strates that position switching is less common under una- nimity when we examine all proposals , single dimen- sional and multidimensional .
+However , if legislators are able to extract concessions when negotiating on multi- dimensional proposals under unanimity , we should see more position switching when unanimity proposals are multidimensional relative to single dimensional .
+Table 2 shows the frequency of position changes across multidi- mensional and single-dimensional proposals under una- nimity rule .
+The frequencies of observed changes are in bold , and the frequencies of expected changes assuming independence are in parentheses .
+Consistent with expec- tations , members only change positions around 44 % ( i.e. , 31 times out of 70 ) of the time in negotiations on single- dimensional proposals and 75 % of the time on multidi- mensional proposals .
+The Pearson test of independence suggests that under the unanimity rule , position chang- ing is significantly related to the dimensionality of the proposals ( i.e. , chi-square value = 15.2 , p-value < 0.01 ) .
+To systematically examine the relationship be- tween position changes and negotiation success , i.e. , Hypothesis 2 , I conduct multivariate regression analy- sis .
+The dependent variable is “ Negotiation Success , ” and 546 DENIZ AKSOY the main independent variable is “ Position Change. ” Be- fore presenting the findings , I discuss the control variables included in the analysis .
+I include several variables that are found to deter- mine members ’ success in EU legislative negotiations in the existing literature ( Arregui and Thomson 2009 ; Bailer 2004 ) .
+First of all , many influential accounts of the EU legislative process emphasize that along with the repre- sentatives negotiating in the Council , the two suprana- tional EU bodies , the European Parliament ( EP ) and the Commission , have important legislative roles ( Hix 1999 ; Nugent 2006 ) .
+Thus , the Council members may have ex- tra leverage in negotiations when they have the support of the EP and the Commission ( Arregui and Thomson 2009 ; Bailer 2004 ) .
+However , the support of the EP should mat- ter most under the codecision procedure when the EP and the Council co-legislate , while under consultation the Council is the only legislature with real power ( Bailer 2004 , 104 ) .
+The Commission initiates the proposals and often acts as a mediator between the EP and the Council ( Dinan 2005 ; Hix 1999 ) .
+Some scholars posit that due to the Commission ’ s proposal initiation power , members who share the Commission ’ s preferences can succeed in negotiations ( Bailer 2004 , 103 ) , while others find that the Commission ’ s support only matters under consulta- tion ( Arregui and Thomson 2009 , 660 ) .
+In my analysis , “ Closeness to Commission ” and “ Closeness to EP ” con- trol for the EP and the Commission ’ s potential influence .
+DEU data have information on ideal positions of the EP and the Commission and issue salience scores for these two institutions .
+For each member and proposal , I calcu- late the multidimensional distance between the member ’ s and the EP and between the member ’ s and the Commis- sion ’ s ideal positions.18 The higher values of these two variables occur the closer the member to the EP and the Commission .
+Members with extreme or outlier preferences have been found to be less successful in EU legislative negoti- ations ( Arregui and Thomson 2009 ; Bailer 2004 ) .
+Thus , I use a control variable , “ Distance to Mean , ” to assess the extent to which a member has an outlier position on a proposal .
+“ Distance to Mean ” is the distance between a member ’ s ideal position on a proposal and the mean ideal position of all the members on the proposal .
+The higher 18 If the Commission ’ s ideal policy on proposal t is pcom , I find the distance between the Commission and the member i on proposal t as follows : |pi − pcom| = ( Maxt − |pi − pcom| + 1 Maxt + 1 ) .
+( 4 ) a member ’ s “ Distance to Mean ” score for a proposal , the more extreme that member ’ s preference.19 The models also include variables controlling for in- dividual characteristics of the legislators ’ country of ori- gin .
+Some representatives can be more influential because of their country ’ s economic power and size ( Bailer 2004 ) , individual voting power in the Council ( Bailer 2004 ; Carrubba 1997 ; Rodden 2002 ) , or position as the Council President at the time of negotiations ( Aksoy 2010b ; Schalk et al .
+2007 ; Thomson 2008 ; Warntjen 2008 ) .
+Thus , I con- trol for GDP and population size .
+“ SSI ” ( Shapley-Shubik Index ) controls for members ’ individual voting power.20 “ Presidency ” is a dummy variable coded 1 for the legisla- tor whose country held the Presidency when the decision on the proposal was reached .
+Several studies find that representatives of the country holding the Presidency in the final adoption stage of a proposal secure favorable outcomes ( Schalk et al .
+2007 ; Thomson 2008 ; Warntjen 2008 ) , while others do not corroborate this evidence ( Arregui and Thomson 2009 ) .
+Finally , for each proposal and legislator I control for “ Proposal Salience ” and “ Duration of Negotiations. ” “ Proposal Salience ” is the salience of the proposal for the legislator .
+It is calculated by finding the mean salience score of each issue under the proposal for a legislator .
+A member who finds a proposal important is more likely to spend time and effort to succeed in negotiations .
+Thus , I expect “ Proposal Salience ” to have a positive influence on “ Negotiation Success. ” “ Duration of Negotiations ” is the number of months between the introduction of the proposal and the date on which a decision was reached .
+Table 3 presents the results from three different ran- dom effects models , with proposal-specific random ef- fects.21 The models differ from each other in terms of 19 For a single-dimensional proposal , the mean ideal position is the simple average of 15 numbers , each of which is the ideal position of a legislator .
+For multidimensional proposals , I find the simple average of members ’ ideal positions on each dimension of the pro- posal .
+The mean ideal position for a multidimensional proposal is a point on a multidimensional space .
+Each coordinate of this point is the average of members ’ ideal positions on one of the issues of the proposal .
+Similar to the other variables in the analysis , “ Distance to Mean ” is normalized to ensure that the values are comparable across proposals with a different number of dimensions .
+20 Calculations of voting power indices like Shapley-Shubik and Banzhaf indices are based on finding how pivotal a member is in turning a losing coalition into a winning one by joining it or in turning a winning coalition into a losing one by leaving it .
+For a discussion of power indices , see Garrett and Tsebelis ( 1996 ) .
+The source of this variable is also the DEU dataset .
+21 I tested for country- and proposal-specific effects with F-tests .
+I also tested for random effects using the Breusch and Pagan Lagrange multiplier tests .
+The results suggest that there are individual effects for each proposal but not for each country .
+Hausman specification INSTITUTIONAL ARRANGEMENTS AND LOGROLLING 547 TABLE 3 The Impact of Position Changes on Negotiation Success Model I Model II Model III Position Change .68 .68 .69 ( .52 ) ( .54 ) ( .52 ) QMV 1.79∗∗∗ 1.88∗∗∗ 1.79∗∗∗ ( .35 ) ( .41 ) ( .48 ) Multidimensional .042 .057 .20 ( .08 ) ( .10 ) ( .20 ) Position Change × QMV −1.76∗∗∗ −1.75∗∗∗ −1.67∗∗∗ ( .64 ) ( .66 ) ( .66 ) Position Change × −.40 −.43 −.45 Multidimensional ( .56 ) ( .57 ) ( .53 ) Multidimensional × QMV −1.57∗∗∗ −1.60∗∗∗ −1.68∗∗∗ ( .39 ) ( .42 ) ( .52 ) Position Change × 1.60∗∗∗ 1.62∗∗∗ 1.59∗∗∗ Multidimensional × QMV ( .73 ) ( .76 ) ( .80 ) Proposal Salience .011∗∗∗ .013∗∗∗ .013∗∗∗ ( .003 ) ( .004 ) ( .003 ) Population ( log ) −.17 −.17 ( .17 ) ( .17 ) GDP ( log ) .079 .064 ( .13 ) ( .12 ) SSI 2.62 3.73 ( 5.55 ) ( 5.19 ) Closeness to −.43 Commission ( .45 ) Closeness to 1.83∗∗∗ Commission × Codecision ( .55 ) Closeness to EP −.063 ( .57 ) Closeness to EP × .10 Codecision ( .74 ) Codecision −1.14 ( .60 ) President .28 ( .33 ) Distance to Mean .09 ( .25 ) Duration of .0003 Negotiations ( .004 ) Constant .44 1.18 1.54 ( .20 ) ( 1.97 ) ( 1.60 ) Note : ∗∗ significant at 5 % , ∗∗∗ 1 % levels .
+Models are random effects GLS models .
+Robust standard errors are in parentheses .
+Number of observations is 410 and number of proposals is 31 .
+TABLE 4 Marginal Coefficients of “ Position Change ” Across Voting Rules and Dimension Standard Coefficient Error Multidimensional , Unanimity .25∗∗∗ .14 Single-dimensional , Unanimity .68 .53 Multidimensional , QMV .12 .20 Single-dimensional , QMV −1.07∗∗∗ .36 Note : Coefficient and standard error calculations are based on the estimation of Model II .
+Calculations based on the estimation of Models I and III produce very similar results .
+the included control variables .
+All the models include interactive terms between “ Position Change , ” “ Multidi- mensional ” and “ QMV , ” since I expect the influence of position changes to be conditional on voting rules and the proposal structure .
+“ Multidimensional ” is a dummy variable coded 1 for proposals with more than one issue .
+“ QMV ” is a dummy variable coded 1 when the voting rule is qualified majority .
+Since the models include three inter- acted variables , I add interactions between every possible pair of the three variables ( Braumoeller 2004 ) .
+Model I is the base model , with only my main independent vari- ables and the control for proposal salience .
+Model II in- cludes controls for essential country-specific characteris- tics .
+Model III includes all the other control variables .
+In Model III , “ Closeness to EP ” and “ Closeness to Commis- sion ” are interacted with “ Codecision , ” a dummy variable indicating when the procedure is codecision , as the influ- ence of these two variables should vary across legislative procedures.22 To facilitate easier interpretation , I present the marginal coefficients and standard errors of “ Position Change ” in Table 4 .
+The second column shows the co- efficient of “ Position Change ” conditional on the values of the variables with which it is interacted ( i.e. , “ Mul- tidimensional , ” “ QMV ” ) and the third column lists the standard errors .
+test results also suggest that the individual effects of each proposal are uncorrelated with the other variables in the models .
+Thus , the random effects model is a better alternative as it offers flexibility in the inclusion of variables that do not vary across proposals .
+See Greene ( 2000 , 577 ) and Johnston and DiNardo ( 1997 , 404 ) for more information on the Hausman test and Greene ( 2000 , 509–10 ) for more information on the Breusch and Pagan Lagrange multiplier test .
+22 As a robustness check , I estimated the models with policy area fixed effects , since some procedures and voting rules are more commonly used in some policy areas than others .
+The results are robust , and the models are in the online appendix .
+548 DENIZ AKSOY The results provide considerable support for Hypoth- esis 2 .
+The first two rows of Table 4 present the coefficients and standard errors for the main independent variable , “ Position Change , ” under unanimity .
+Specifically , the first row shows that the marginal coefficient for multidimen- sional unanimity proposals is positive and statistically sig- nificant .
+Thus , on average , position changing is affiliated with an increased level of negotiation success .
+Under this scenario , position changers are able to secure concessions .
+Two main theoretical points explain this pattern .
+First , multiple issues on the negotiation table create oppor- tunities for within-legislation logrolling .
+Second , mem- bers successfully exploit these opportunities using their veto powers .
+This finding is in line with the expectations and supports Hypothesis 2 .
+In contrast , position chang- ers do not systematically benefit on single-dimensional unanimity proposals , as the coefficient is positive and statistically insignificant ( Table 4 , second row ) .
+As ar- gued above , single-dimensional proposals do not lend themselves to within-legislation logrolling .
+Thus , I did not expect to find any evidence that position changers on single-dimensional proposals systematically extract a better overall outcome on that proposal .
+The findings for qualified majority voting proposals are also consistent with Hypothesis 2 .
+“ Position Change ” has a negative and significant impact on “ Negotiation Success ” for single-dimensional proposals subject to qual- ified majority voting ( Table 4 , fourth row ) .
+All else equal , a change in position is affiliated with an average of a 1.07 unit decrease in success .
+Since the success measure is an index , it is difficult to gauge the substantive mean- ing of this coefficient .
+However , we can illustrate with a simple example .
+The average level of success score in the dataset is 1.51 .
+For a single-dimensional proposal for which the status quo outcome is 0 , a member ’ s score of 1.51 would correspond to a situation as follows .
+The member ’ s ideal position is approximately at 40.7 , while the outcome is approximately at 50.7 , and the member attaches the highest level of salience to the proposal ( i.e. , salience score = 1 ) .
+In this scenario , if we observed a change in the member ’ s position we would observe that its success score on average drops to .44 .
+This means that all else equal the negotiation outcome would be around 74.5 , quite far from the member ’ s ideal position .
+This finding that position changers experience less negotia- tion success under single-dimensional qualified majority proposals accords with expectations .
+While bargaining on single-dimensional proposals , position changers can- not be compensated for concessions on one issue with concessions on other issues within the same proposal .
+For multidimensional proposals subject to qualified majority voting , the marginal coefficient of “ Position Change ” is positive and statistically insignificant ( Table 4 , third row ) .
+Within-legislative logrolling opportunities are available for multidimensional proposals regardless of voting rule .
+However , the availability of such opportu- nities is not a guarantee that the members will be able to exploit them .
+The ability of legislators to extract con- cessions through within-legislation logrolls is limited un- der qualified majority voting relative to under unanimity voting .
+Thus , even though the structure of the proposals creates opportunities for logrolling , we find no evidence that members are able to extract concessions from others in return for a position change under qualified majority voting .
+In sum , the results of Table 4 are all consistent with Hypothesis 2 .
+Among the control variables , “ Proposal Salience ” has a statistically significance impact in all the three mod- els .
+As the importance of a proposal for a member in- creases , the member ’ s negotiation success on that pro- posal also increases .
+It is likely that legislators spend more resources to secure favorable outcomes on legislation that is particularly important .
+Moreover , when a proposal is salient for a member , others might be more inclined to make concessions.23 Additionally , this finding provides some preliminary evidence suggesting that there might be cross-legislation logrolling .
+Legislators give in on negoti- ations on less salient legislation and obtain lower success scores , while they succeed in negotiations on highly salient legislation .
+The variables controlling for the SSI scores , economic power , size of legislators ’ country of origin , and the Presi- dency do not have statistically significant influence.24 This set of findings is in line with some of the existing stud- ies which suggest that exogenous sources of power hardly help member-state representatives ( Bailer 2004 , 114 ) and that holding the Presidency has only a modest impact under limited conditions ( Arregui and Thomson 2009 ) .
+Regarding the supranational EU institutions , I find that having the EP ’ s support has no statistically signifi- cant influence while the Commission ’ s support does only 23 This would be in line with the arguments in the literature which highlight the prominence of cooperative forms of decision making in the EU ( Achen 2006 ) .
+24 I examined the bivariate correlations between the independent variables and checked for collinearity using the variance inflation factor ( VIF ) diagnostic statistic .
+Overall , the multicollinearity di- agnostics ( e.g. , variance inflation factor ) suggest high correlation between GDP and population .
+However , if I drop these variables completely , or include only either one of them , the results regard- ing the main variables of interest remain robust .
+Even though SSI and population also seem like likely collinear variables , their cor- relation coefficient is only .54 .
+Only for proposals subject to QMV , the correlation between SSI and population is high since voting weights are proportional to population size .
+The correlation is very low under unanimity rule .
+INSTITUTIONAL ARRANGEMENTS AND LOGROLLING 549 under codecision .
+This finding is partly in line with Bailer ( 2004 ) , which shows that being close to the Commission is a negotiating advantage , but being close to the EP is not .
+The relative unimportance of the EP ’ s influence is also evident in Arregui and Thomson ( 2009 ) who find a relatively weak evidence that being close to the EP under codecision helps.25 Finally , while some studies ( Arregui and Thomson 2009 ; Bailer 2004 ) show that having an ex- treme position is on average detrimental when success is measured at the issue level , I do not find that this is the case at the proposal level .
+Cross-Legislation Logrolling Before discussing the broader implications of this article , I would like to address a potential limitation : the focus on within-legislation logrolling rather than cross-legislation logrolling .
+It is possible that some of the position changes in the data are driven by cross-legislation logrolling .
+For example , under unanimity position changes are observed in 31 of the 70 single-dimensional proposals ( Table 2 , first row ) .
+In this set of cases , members changed their posi- tions despite the fact that they had veto powers and could not possibly obtain any within-legislation favors .
+At least some of these changes could be driven by cross-legislation logrolls : legislators changing positions and gaining con- cessions on other proposals .
+I argued above that cross- legislation logrolling is theoretically less plausible rela- tive to within-legislation logrolling , a point that Ferejohn ( 1986 ) makes in the context of the U.S. Congress .
+Here I argue that even if cross-legislation logrolling sometimes occurs , it does not pose a problem for my analysis .
+A key argument of this article is that by study- ing the relationship between position changes and ne- gotiation success at the proposal level we can deter- mine whether or not changes are driven by within- legislation logrolling .
+The changes that are driven by within-legislation logrolling will systematically influence negotiation success scores .
+However , I do not expect any changes that are driven by cross-legislation logrolling to systematically influence success scores .
+Legislators link separate proposals to each other while cross-legislation logrolling .
+They give in on one or more issues within a proposal in return for concessions on issues within a separate proposal .
+Accordingly , in bargaining over the proposals on which they are giving concessions , legisla- tors can change their positions in a manner that hurts their negotiation success scores .
+However , in bargaining over the proposals on which they are gaining concessions , 25 The relevant coefficient is significant only at the 10 % level and its significance changes across different specifications .
+they can change their positions in a way that helps fur- ther increase their success scores .
+The direction of the relationship between position switching and negotiation success will be negative for proposals on which a leg- islator is giving concessions and positive for proposals on which the legislator is extracting concessions .
+Con- sequently , changes driven by cross-legislation logrolling will not systematically increase or decrease negotiation success scores at the proposal level .
+In contrast , position changes driven by within- legislation logrolling systematically occur only in individual multidimensional proposals .
+Moreover , they will be systematically affiliated with higher levels of suc- cess whenever legislators are able to successfully engage in a within-legislation logroll .
+I show that the proposals that are most likely candidates for successful within- legislation logrolling are multidimensional proposals subject to unanimity voting rule and find evidence for within-legislation logrolling where it is the most plausible .
+Compromise , Logrolling , and the EU One possible objection to my argument is that agree- ment occurs in the EU due to compromises rather than within-legislation logrolls .
+Some members just change their positions to compromise to other members .
+How- ever , this objection needs to be more precise , as a logroll is a type of compromise .
+A within-legislation logroll is a compromise in which a legislator agrees to give up his or her preferred position on one issue in exchange for a concession on another .
+Although all logrolls are a form of compromise , not all forms of compromise are con- sistent with logrolling .
+For instance , if legislators change their position on only one issue of a multidimensional legislation , it is not possible for explicit within-legislation logrolling to occur .
+If within-legislation logrolling is tak- ing place , legislators should be changing their positions across different issues of a proposal .
+To ensure that my re- sults actually capture within-legislation logrolling rather than compromises on a single issue , I explored whether it is common for position changing to occur on only one dimension of a multidimensional proposal .
+I find that changes on only one dimension rarely occur and have no effect on my main results .
+There are 24 multidimensional proposals in the data .
+Only in four of them , two subject to unanimity and two subject to qualified majority voting , position changes are observed on only a single dimension .
+Thus , in 83 % of multidimensional proposals , position changers moved on more than one dimension , which is a pattern consistent with the logic of within-legislation logrolling .
+Further- more , if I drop the four proposals in which changes occur 550 DENIZ AKSOY only on a single dimension and re-estimate my models , the results remain completely robust.26 Thus , I find that position changes on only one dimension of multidimen- sional proposals rarely happen and do not have an effect on my main results .
+My findings are driven by cases in which exchange of positions was possible .
+While it is clear that position changes on a single di- mension are not common and do not affect the results , it is worth discussing why we see such behavior .
+Under unanimity , changes observed only on a single dimension of a multidimensional proposal can be an indicator of a compromise given to the steadfast members to ensure that they do not veto legislation .
+Moreover , if position changers change their position on an issue that is not salient for them and ensure that the proposal passes , they still can obtain a relatively high level of negotiation suc- cess .
+In fact , for the two multidimensional unanimity proposals with position changes observed only on a sin- gle issue , position changers changed their position on the issue which was the least salient for them .
+In such cases , changes can still be affiliated with high negotiation success ( especially when the status quo is undesirable ) , even though these cases do not exhibit within-legislation logrolling .
+Broader Implications The arguments and findings of this article have several interesting implications for decision-making institutions and legislatures more generally .
+I continue with the ex- ample of the American Congress since it was discussed in the introduction .
+Long-time Speaker of the House Sam Rayburn of Texas famously stated that “ [ i ] f you want to get along , go along. ” He was referring to the need for legislators to be flexible on some issues to win on others .
+This article provides insight into when legisla- tors change their positions and exploit possible logrolling opportunities .
+First , I show evidence that when a negotiated piece of legislation is multidimensional and institutional rules provide legislators with veto power , legislators change po- sitions to engage in logrolling .
+The findings suggest that logrolling should be more prominent in the U.S. Senate than the House for this reason .
+Second , the presence of institutional rules that make logrolling necessary and at- tractive explains why incredibly complex “ omnibus ” legis- lation is so common in the U.S. Congress ( Davidson and Oleszek 2006 , 297–99 ) .
+The findings suggest that when legislators have veto power , bargaining on a complex piece of legislation with multiple issues increases the chances 26 See the online appendix for results .
+that a logroll can be found .
+Thus , in a body like the U.S. Senate , it may just be necessary to produce “ omnibus ” legislation , even if such legislation is less “ transparent ” to the public and harder for analysts to understand .
+Conclusion Even though legislators change their positions often dur- ing legislative negotiations , there is very little empirical work that explains when and why position changes occur .
+Position changing can be a lucrative strategy for legislators if they are able to gain significant concessions in return for changing their positions .
+Legislators can receive such con- cessions through within-legislation or cross-legislation logrolling .
+Voting rules used to pass a piece of legislation , and the structure of the legislation , in terms of whether or not it has single or multiple issue dimensions , play an important role in determining the availability of these logrolling opportunities and the ability of the legislators to exploit these opportunities .
+Multidimensional pieces of legislation provide leg- islators with many opportunities for within-legislation logrolling which are absent in negotiations over single- dimensional legislation .
+Legislators can potentially ex- ploit such opportunities by changing their positions on some of the issues of the legislation in return for conces- sions on others .
+Unanimity voting rule helps legislators to successfully exploit such opportunities by empowering them with veto powers .
+Thus , when a negotiated piece of legislation is multidimensional and the voting rule is unanimity , legislators successfully use position changing as a lucrative strategy to create within-legislation logrolls .
+Using available information on a set of multidimensional legislation negotiated in the EU ’ s Council of Ministers , I test the validity of my main argument .
+This article fills an important gap in the legislative studies literature .
+Students of legislative institutions ac- knowledge the importance of logrolling and position changing in legislative bargaining .
+However , systematic empirical exploration of whether and how such behaviors relate to legislative outcomes has been lacking .
+I fill this gap through an analysis of the extent to which position changes assist legislators in securing favorable outcomes .
+The article also takes us a step further in our attempts to understand the connections between legislative institu- tional arrangements and legislative behavior as empirical exploration of legislators ’ nonvoting behavior is lacking in the literature .
+The findings illustrate the important im- pact of a particular set of institutional arrangements ( i.e. , voting rules ) on a particular nonvoting behavior ( i.e. , po- sition changing ) during the legislative process .
+Finally , the INSTITUTIONAL ARRANGEMENTS AND LOGROLLING 551 article provides further insight into how decision mak- ing in the EU has managed to remain rather consensual across time .
+Within-legislation logrolling on multidimen- sional proposals is a mechanism that can help explain how this consensus has been maintained as the Council deals with ever more complex issues .
+The evidence that position changing is beneficial under unanimity suggests that within-legislation logrolling also plays an important role in EU decision making .
+References Achen , Christopher H. 2006 .
+“ Evaluating Political Decision- Making Models. ” In The European Union Decides , ed .
+Robert Thomson , Frans N. Stokman , Christopher H. Achen , and Thomas König .
+Cambridge : Cambridge University Press , 264–99 .
+Aksoy , Deniz .
+2010a .
+“ It Takes a Coalition ” : Coalition Potential and Legislative Decision Making. ” Legislative Studies Quar- terly 35 ( 4 ) : 453–598 .
+Aksoy , Deniz .
+2010b .
+“ Who Gets What , When , and How Revis- ited : Voting and Proposal Powers in the Allocation of the EU Budget. ” European Union Politics 11 ( 2 ) : 171–94 .
+Arregui , Javier .
+2008 .
+“ Shifting Policy Positions in the European Union. ” European Journal of Political Research 47 : 852–75 .
+Arregui , Javier , Frans Stokman , and Robert Thomson .
+2004 .
+“ Bargaining in the European Union Union and Shifts in Ac- tors ’ Policy Positions. ” European Union Politics 5 ( 1 ) : 47–72 .
+Arregui , Javier , and Robert Thomson .
+2009 .
+“ States ’ Bargaining Success in the European Union. ” Journal of European Public Policy 16 ( 5 ) : 655–76 .
+Bailer , Stefanie .
+2004 .
+“ Bargaining Success in the European Union. ” European Union Politics 5 ( 1 ) : 99–123 .
+Baron , David .
+1998 .
+“ Comparative Dynamics of Parliamen- tary Governments. ” American Political Science Review 92 ( 3 ) : 593–609 .
+Baron , David P. , and John A. Ferejohn .
+1989 .
+“ Bargaining in Leg- islatures. ” American Political Science Review 83 : 1181–1206 .
+Binder , Sarah .
+1999 .
+“ The Dynamics of Legislative Grid- lock , 1947–1996. ” American Political Science Review 93 ( 3 ) : 519–33 .
+Braumoeller , Bear .
+2004 .
+“ Hypothesis Testing and Multiplica- tive Interaction Terms. ” International Organization 58 ( 4 ) : 807–20 .
+Carrubba , Clifford .
+1997 .
+“ Net Financial Transfers in the Euro- pean Union : Who Gets What and Why ? ” Journal of Politics 59 ( 2 ) : 469–96 .
+Carrubba , Clifford J. , and Craig Volden .
+2000 .
+“ Coalitional Pol- itics and Logrolling in Legislative Institutions. ” American Journal of Political Science 44 ( 2 ) : 261–77 .
+Clinton , Joshua , Simon Jackman , and Douglas Rivers .
+2004 .
+“ The Statistical Analysis of Roll Call Data. ” American Political Science Review 98 ( 2 ) : 355–70 .
+Davidson , Roger H. , and Walter J. Oleszek .
+2006 .
+Congress and Its Members .
+Washington , DC : Congressional Quarterly Press .
+Davis , Christina .
+2004 .
+“ International Institutions and Is- sue Linkage : Building Support for Agricultural Trade Liberalization. ” American Political Science Review 98 ( 1 ) : 153–69 .
+Diermeier , Daniel , and Timothy J. Feddersen .
+1998 .
+“ Cohe- sion in Legislatures and the Vote of Confidence Procedure. ” American Political Science Review 92 ( 3 ) : 611–21 .
+Dinan , Desmond .
+2005 .
+Ever Closer Union .
+Boulder , CO : Lynne Rienner .
+Ferejohn , John .
+1986 .
+“ Logrolling in an Institutional Context : A Case Study of Food Stamps Legislation ” .
+In European Com- munity Decision Making : Models , Applications , and Compar- isons , ed .
+Gerald Wright , Leroy Rieselbach , and Lawrence Dodd .
+New York City : Agathon Press , 223–53 .
+Garrett , Geoffrey , and George Tsebelis .
+1996 .
+“ Agenda Setting Power , Power Indices , and Decision Making in the Euro- pean Union. ” International Review of Law and Economics 16 : 345–61 .
+Greene , William .
+2000 .
+Econometric Analysis .
+Upper Saddle River , NJ : Prentice-Hall .
+Heisenberg , Dorothee .
+2005 .
+“ The Institution of ‘ Consensus ’ in the European Union : Formal versus Informal Decision- Making in the Council. ” European Journal of Political Re- search 44 ( 1 ) : 65–90 .
+Hix , Simon .
+1999 .
+The Political System of the European Union .
+New York : Palgrave .
+Johnston , Jack , and Jihn DiNardo , eds .
+1997 .
+Econometric Meth- ods .
+Princeton , NJ : McGraw-Hill .
+Jones , David R. 2003 .
+“ Position Taking and Position Avoidance in the U.S. Senate. ” Journal of Politics 65 ( 3 ) : 851–63 .
+Kalandrakis , Tasos .
+2006 .
+“ Proposal Rights and Political Power. ” American Journal of Political Science 50 ( 2 ) : 441–48 .
+König , Thomas Thomas , and Dirk Junge .
+2009 .
+“ Why Don ’ t Veto Players Use Their Power ? ” European Union Politics 10 ( 4 ) : 507–34 .
+König , Thomas , Bjorn Lindberg , Sandra Lechner , and Win- fried Pohlmeier .
+2007 .
+“ Bicameral Conflict Resolution in the European Union : An Empirical Analysis of Conciliation Committee Bargains. ” British Journal of Political Science 37 : 281–312 .
+Martin , Andrew D. 2001. “ Congressional Decision Making and the Separation of Powers. ” American Political Science Review 95 ( 2 ) : 361–78 .
+Matilla , Mikko , and Jan-Erik Lane .
+2001 .
+“ Why Unanimity in the Council ? ” European Union Politics 2 ( 1 ) : 31–52 .
+Morgan , T. Clifton .
+1990 .
+“ Issue Linkages in International Crisis Bargaining. ” American Journal of Political Science 34 ( 2 ) : 311–33 .
+Nugent , Neil .
+2006 .
+The Government and Politics of the European Union .
+Durham , NC : Duke University Press .
+Odell , John .
+2000 .
+Negotiating the World Economy .
+Ithaca , NY : Cornell University Press .
+Pajala , Antti , and Mika Widgrèn .
+2004 .
+“ A Priori versus Empir- ical Voting Power in the EU Council of Ministers. ” European Union Politics 5 ( 1 ) : 73–97 .
+Poole , Keith T. , and Howard Rosenthal .
+1999 .
+“ Patterns of Congressional Voting. ” American Journal of Political Science 35 ( 1 ) : 228–78 .
+552 DENIZ AKSOY Riker , William .
+1986 .
+The Art of Political Manipulation .
+New Haven , CT : Yale University Press .
+Riker , William , and Steven Brams .
+1973 .
+“ Paradox of Vote Trading. ” American Political Science Review 67 ( 4 ) : 1235–47 .
+Rodden , Jonathan .
+2002. “ Strength in Numbers ?
+Representation and Redistribution in the European Union. ” European Union Politics 3 ( 2 ) : 151–75 .
+Romer , T. , and H. Rosenthal .
+1978 .
+“ Political Resource Alloca- tion , Controlled Agendas , and the Status Quo. ” Public Choice 33 : 27–44 .
+Schalk , Jelmer , Renè Torenvlied , Jeroen Weesie , and Frans Stok- man .
+2007 .
+“ The Power of the Presidency in EU Council Decision-Making. ” European Union Politics 8 : 229–50 .
+Sebenius , James K. 1984 .
+Negotiating the Law of the Sea .
+Cam- bridge , MA : Harvard University Press .
+Selck , Thorsten , and Bernhard Steunenberg .
+2004 .
+“ Between Power and Luck : The European Parliament in the EU Leg- islative Process. ” European Union Politics 5 ( 1 ) : 25–46 .
+Stokman , Frans , and Robert Thomson .
+2004 .
+“ Winners and Losers in the European Union. ” European Union Politics 5 ( 1 ) : 5–23 .
+Stokman , Frans , and Jan Van den Bos .
+1994 .
+“ The Exchange of Voting Positions in the EC Council. ” In European Com- munity Decision Making : Models , Applications , and Compar- isons , ed .
+Bruce Bueno de Mesquita and Frans Stokman .
+New Haven , CT : Yale University Press , 161–84 .
+Stratmann , Thomas .
+1992 .
+“ The Effects of Logrolling on Congressional Voting. ” American Economic Review 82 ( 5 ) : 1162–76 .
+Thomson , Robert .
+2008 .
+“ The Council Presidency in the Euro- pean Union : Responsibility with Power. ” Journal of Common Market Studies 46 ( 3 ) : 593–617 .
+Thomson , Robert , and Madeline Hosli .
+2006 .
+“ Who has Power in the EU ?
+The Commission , Council and Parliament in Legislative Decision-Making. ” Journal of Common Market Studies 44 ( 2 ) : 391–417 .
+Thomson , Robert , and Frans N. Stokman .
+2003 .
+“ Decision Making in the European Union. ” Machine-readable data set .
+Groningen , The Netherlands Research School ICS , De- partment of Sociology , University of Groningen .
+Thomson , Robert , Frans N. Stokman , Christopher H. Achen , and Thomas König , eds .
+2006 .
+The European Union Decides .
+Cambridge , MA : Cambridge University Press .
+Tollison , Robert D. , and Thomas D. Willett .
+1979 .
+“ An Eco- nomic Theory of Mutually Advantageous Issue Linkages in International Negotiations. ” International Organization 33 ( 4 ) : 425–49 .
+Tullock , Gordon .
+1959 .
+“ Problems of Majority Voting. ” Journal of Political Economy 67 ( 6 ) : 571–79 .
+Tullock , Gordon .
+1970. “ A Simple Algebraic Logrolling Model. ” American Economic Review 60 ( 3 ) : 419–26 .
+Warntjen , Andreas .
+2008 .
+“ The Council Presidency : Power Bro- ker or Burden ?
+An Empirical Analysis. ” European Union Pol- itics 9 : 315–38 .
+Supporting Information Additional Supporting Information may be found in the online version of this article : Table A1 : The Impact of Voting Rule on Position Changes Table A2 : Alternative Results Table A3 : Models in Table 3 of the Article with Policy Area Fixed Effects Please note : Wiley-Blackwell is not responsible for the content or functionality of any supporting materials sup- plied by the authors .
+Any queries ( other than missing material ) should be directed to the corresponding author for the article .

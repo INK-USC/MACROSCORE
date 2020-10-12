@@ -1,0 +1,263 @@
+dessalegn2008.pdf
+a5QiGeY4jdOosmsS__2gO7jRpAXa-dessalegn2008.pdf.plain.html
+
+Research Article More Than Meets the Eye The Role of Language in Binding and Maintaining Feature Conjunctions Banchiamlack Dessalegn and Barbara Landau Johns Hopkins University ABSTRACT—We investigated the effects of language on vi- sion by focusing on a well-known problem : the binding and maintenance of color-location conjunctions .
+Four-year- olds performed a task in which they saw a target ( e.g. , a split square , red on the left and green on the right ) followed by a brief delay and thenwere asked to find the target in an array including the target , its reflection ( e.g. , red on the right and green on the left ) , and a square with a different geometric split .
+Errors were overwhelmingly reflections .
+This finding shows that the children failed to maintain color-location conjunctions .
+Performance improved when targets were accompanied by sentences specifying color and direction ( e.g. , ‘ ‘ the red is on the left ’ ’ ) , but not when the conjunction was highlighted using a nonlinguistic cue ( e.g. , flashing , pointing , changes in size ) , nor when sen- tences specified a nondirectional relationship ( e.g. , ‘ ‘ the red is touching the green ’ ’ ) .
+The relation between chil- dren ’ s matching performance and their long-term knowl- edge of directional terms suggests two distinct mechanisms by which language can temporarily bridge delays , pro- viding more stable representations .
+There is a natural tension in the cognitive sciences between the view that cognitive systems are specialized and possibly mod- ular and the fact that these systems regularly interact in ev- eryday tasks .
+A paradigm case involves language and vision : The two systems have structures that are quite different , em- bodying different representational bases and computational properties , yet the systems obviously interact , as people can talk about what they see .
+Little is known , however , about the mechanisms underlying the interactions between language and vision , and even less is known about how they emerge during development .
+In this article , we report experiments showing that language serves at least one clear function as it interacts with the visual system : It can help maintain the conjunction of visual features—color and location—that is otherwise quite fragile .
+Our framework for thinking about language-vision interac- tions starts with Jackendoff ’ s ( 1987 ) observation that although language and vision are specialized , each can enhance functions that are weak in the other .
+For example , language can naturally capture the distinction between a category exemplar ( ‘ ‘ a chair ’ ’ ) and a token of that category ( ‘ ‘ my chair ’ ’ ) ; vision can naturally capture the distinctions among geese , ducks , and swans ( e.g. , neck length ) .
+Thus , language and vision are complementary , each adding selectively to the expressive power of the other .
+Using this framework , we tested the possibility that language enhances cognitive representations , affording additional ex- pressive power beyond what vision alone provides .
+This possi- bility fits squarely within current debates about the effects of language on thought .
+Views range from strongly Whorfian , suggesting that language causes new kinds of representations in domains such as space and number ( Carey , 2001 ; Hermer- Vazquez , Spelke , & Katsnelson , 1999 ; Levinson , 1996 ) , to strongly anti-Whorfian , suggesting that language merely reflects what people can already represent ( Munnich & Landau , 2003 ; Papafragou , Massey , & Gleitman , 2002 ) .
+Through our studies , we explored a third possibility : Language may temporarily en- rich areas of visual representation that are fragile on their own .
+We considered a test case that is well known to vision scientists : the difficulty of forming and maintaining feature conjunctions ( e.g. , color and location ) .
+This process appears to require fo- cused attention in adults ( e.g. , Treisman & Gelade , 1980 ; Wheeler & Treisman , 2002 ) .
+We asked whether language can play a role in forming or maintaining such conjunctions in young children , who have underdeveloped control of attention and for whom language may therefore play an especially crucial role .
+Evidence suggests that in adults , attention is required to form and maintain feature conjunctions .
+When people search for a single feature in a display ( e.g. , a redO among greenOs ) , search Address correspondence to Banchiamlack Dessalegn , Cognitive Sci- ence Department , Johns Hopkins University , Room # 237 , Krieger Hall , 3400 N. Charles St. , Baltimore , MD 21218 , e-mail : banchi @ cogsci.jhu.edu .
+PSYCHOLOGICAL SCIENCE Volume 19—Number 2 189Copyright r 2008 Association for Psychological Science at NANYANG TECH UNIV LIBRARY on May 26 , 2015pss.sagepub.comDownloaded from time does not vary as a function of set size , but when they search for a feature conjunction ( e.g. , a red O among green Os and red Ls ) , search time increases linearly with set size .
+The latter finding suggests that in conjunction search , individual items must be attended separately .
+More dramatic is the occasional failure to bind : When people observe a briefly presented display containing a red O next to a green L , they may mistakenly report that they have seen either a red L or a green O .
+Such illusory conjunctions reflect failure to bind color and shape , a process requiring active allocation of attention to the target ’ s location ( Treisman & Schmidt , 1982 ) .
+If attention is the mechanism for binding and maintaining feature conjunctions , then young children , who undergo pro- longed development of attention ( Ruff & Capozzoli , 2003 ) , might bind features incorrectly more often than adults .
+Although we know of no direct evidence for illusory conjunctions in young children , binding color and location and maintaining such conjunctions may be difficult for them .
+Hoffman , Landau , and Pagani ( 2003 ) found that 6-year-olds given a complex matching task with targets that were internally split by color ( e.g. , red on the left and green on the right ) often erroneously matched these targets to their reflections ( e.g. , green on the left and red on the right ) .
+Language might help children maintain such color-location conjunctions .
+Spivey , Tyler , Eberhard , and Tanenhaus ( 2001 ) showed that adults ’ performance in traditional conjunction search is modulated on-line by language .
+In that study , partic- ipants searched for targets defined by two features , for example , a red vertical line among green vertical and red horizontal lines .
+When participants heard a question instructing them what to look for ( e.g. , ‘ ‘ Is there a red vertical ? ’ ’ ) just prior to onset of the display , Spivey et al .
+found the standard increase in reaction time as set size increased .
+But this effect was reduced when the instructions were presented concurrently with the onset of the display .
+Spivey et al .
+argued that as soon as the color word was heard ( e.g. , ‘ ‘ red ’ ’ ) , participants narrowed their attention to items that had the named property ( e.g. , the red items ) , essentially creating an efficient search for a single feature ( e.g. , vertical orientation ) .
+Spivey et al .
+concluded that language can tempo- rarily drive attention , thus modulating visual feature processing .
+Language might have especially pronounced effects in chil- dren .
+Smith and her colleagues argued that during word learn- ing , language comes to automatically direct young children ’ s attention to relevant object properties ( e.g. , Smith , Jones , & Landau , 1996 ) .
+In this view , naming an object drives attention to that object .
+The same mechanism might also result in enhanced binding and maintenance of object-internal properties .
+Such a mechanism is similar to temporary deictic pointers ( or indexes ) , which have been argued to powerfully modulate cognitive ac- tivities ( Ballard , Hayhoe , Pook , & Rao , 1997 ; Pylyshyn , 2003 ) .
+Encoding spatial relationships ( e.g. , color and location ) might be especially susceptible to effects of language .
+Gentner ( e.g. , Loewenstein & Gentner , 2005 ) has proposed that relational la- bels invite children to extract abstract properties and relations , moving them away from analyses of single properties .
+For ex- ample , 3-year-olds match using object identity when instructed to look for ‘ ‘ the same ’ ’ object , but match using relational ( size- based ) concepts when instructed to look for ‘ ‘ the baby ’ ’ ( i.e. , smallest ) object ( Ratterman & Gentner , 1998 ) .
+Language could also be crucial to forming and maintaining visual property conjunctions that are fragile on their own .
+In our experiments , we asked whether children experience failures to maintain feature conjunctions , whether language can play a role in strengthening these representations , and , if so , what aspects of language work and by what mechanism .
+We first asked whether labeling the target with an object name increases the likelihood of correctly binding and maintaining color and location .
+EXPERIMENT 1 Participants Twenty-four 4-year-olds ( mean age5 4 years 6 months , range5 4 years 0 months through 5 years 0 months ) were randomly as- signed to a label ( n 5 12 ) or a no-label ( n 5 12 ) condition .
+Design , Stimuli , and Procedure On each trial in the no-label condition ( see Fig .
+1a ) , one of eight different targets appeared at the top center of a computer screen .
+All targets were square blocks split in half by color ( red , green ) along one of three axes ( vertical , horizontal , or diagonal ; see Fig .
+1 .
+Illustration of the target and test stimuli ( a ) and of the eight target types ( b ) .
+In all four experiments , children were shown a target block at the top center of a computer screen .
+The block then disappeared , and after a 1-s delay , three test items ( the match , the target ’ s reflection , and a different distractor ) appeared at the bottom of the screen .
+190 Volume 19—Number 2 Role of Language in Binding Visual Properties at NANYANG TECH UNIV LIBRARY on May 26 , 2015pss.sagepub.comDownloaded from Fig .
+1b ) .
+The children were told , ‘ ‘ Look at this .
+I want you to help me find one that is exactly the same. ’ ’ The target then disap- peared , and after a 1-s delay , three test objects appeared at the bottom of the screen : the target ’ s match , its reflection , and a differently partitioned square ( referred to hereafter as the dif- ferent distractor ; see Fig .
+1a ) .
+The children were asked to select the square that ‘ ‘ looks exactly the same as the one you just saw. ’ ’ The label condition was identical , except that the children were told , ‘ ‘ Look ! ’ ’ and then heard a sentence labeling the target with one of eight novel nouns ( ‘ ‘ This is a dax/wazzle/tam/dige/zav/ feingle/jic/bevit ’ ’ ) .
+They were then told , ‘ ‘ I want you to help me find one that is exactly the same , ’ ’ and when the test items ap- peared , they were prompted to find the one that ‘ ‘ looks exactly the same as the ___ you just saw. ’ ’ Thus , we used a mixed design including one between-subjects factor ( condition : no-label or label ) and one within-subjects factor ( target type : vertical , hori- zontal , or diagonal split ) .
+Each target was presented three times , for a total of 24 trials , ordered randomly .
+Before the experiment , the children received 6 practice trials , 2 using familiar targets ( e.g. , animals ) and test items from different categories , and 4 using novel symmetric shapes split in half by color and test items that included the target , its reflection , and a second distractor .
+Results and Discussion As Figure 2 shows , the children chose the match more often than expected by chance ( 33 % ) , both in the no-label condition , t ( 11 ) 5 7.23 , p < .001 , prep > .99 , and in the label condition , t ( 11 ) 5 6.42 , p < .001 , prep > .99 .
+They also chose more reflections than different distractors in both the no-label condition , Wilcoxon t ( 11 ) 5 2.87 , p < .01 , prep > .96 , and the label condition , Wil- coxon t ( 11 ) 5 2.28 , p < .01 , prep > .96 .
+The children accurately represented the internal geometry of the square ( vertical , hori- zontal , or diagonal split ) , as 92 % of the choices were the match ( 64 % ) or the reflection ( 28 % ) .
+Errors largely involved incorrect assignment of color to location , with 77 % of the errors being reflections .
+Thus , the children had difficulty maintaining the conjunction of color and location , a finding consistent with previous results ( Hoffman et al. , 2003 ) , and with abundant work with adult participants showing fragility of such visual conjunctions .
+The presence of a novel label had no effect on performance .
+A mixed analysis of variance with condition ( no label or label ) and target type ( vertical , horizontal , or diagonal split ) as factors showed only a significant effect of target type , F ( 2 , 44 ) 5 3.36 , p < .05 , prep > .88 .
+The children performed significantly better with horizontally split targets ( 70.8 % correct ) thanwith vertically split targets ( 56.9 % correct ) , t ( 23 ) 5 2.32 , p < .05 , prep > .90 .
+Our main manipulation , labeling the target , was not effective in improving children ’ s performance above the level in the no- label condition , so naming the objects did not enhance main- tenance of the property conjunctions .
+Given that the crucial distinguishing factor between targets and their reflections was the relation between color and location , we hypothesized that relational terms might be required to enhance performance .
+In Experiment 2 , we provided relational terms that gave explicit color and location information .
+EXPERIMENT 2 Method Twenty-four 4-year-olds participated ( mean age 5 4 years 6 months , range 5 4 years 2 months through 4 years 11 months ) .
+The design , stimuli , and procedures were identical to those in Experiment 1 except for the verbal instructions .
+After the children looked at the square , the experimenter said , ‘ ‘ Let ’ s ask where the red is .
+Where is the red ? ’ ’ She then clicked on the target , saying , ‘ ‘ The red is .
+.
+. , ’ ’ and an audio file played a voice that completed the sentence appropriately ( e.g. , ‘ ‘ on the left ’ ’ ) .
+For the vertically split targets , the recorded voice said ‘ ‘ left ’ ’ or ‘ ‘ right ’ ’ ; for the horizontally split targets , the voice said ‘ ‘ top ’ ’ or ‘ ‘ bottom. ’ ’ For the diagonally split squares ( which could be la- beled either way ) , half of the children were told the red was on Fig .
+2.Mean percentage of trials on which the match , reflection , and different distractor were chosen in each condition of Experiments 1 , 2 , 3 , and 4 .
+Error bars indicate standard errors of the means .
+Volume 19—Number 2 191 Banchiamlack Dessalegn and Barbara Landau at NANYANG TECH UNIV LIBRARY on May 26 , 2015pss.sagepub.comDownloaded from the ‘ ‘ left ’ ’ or ‘ ‘ right , ’ ’ and the other half were told it was on the ‘ ‘ top ’ ’ or ‘ ‘ bottom. ’ ’ 1 Then , as in Experiment 1 , the children were told , ‘ ‘ I want you to help me find one that is exactly the same , ’ ’ and when the test items appeared , the children were prompted to find the one that ‘ ‘ looks exactly the same as the one you just saw. ’ ’ To evaluate the children ’ s understanding of these terms , we carried out two posttests , following Landau and Hoffman ( 2005 ) .
+In the production test , the children viewed a square on the computer screen , and a small face appeared four times next to each of the four sides .
+The 16 trials were presented in random order .
+On each trial , the children were asked , ‘ ‘ Where is the face to the square ? ’ ’ and they were prompted with , ‘ ‘ The face is ___. ’ ’ Next , in the comprehension task , the children were asked to put an X on the left , right , top , or bottom of a solid square presented on a sheet of paper .
+Each instruction was presented four times , in random order , for a total of 16 trials .
+Results and Discussion The children again chose the match more often than expected by chance , t ( 23 ) 5 30.5 , p < .001 , prep > .99 , and when they made an error , they selected the reflection more often than the different distractor , Wilcoxon t ( 23 ) 5 4.34 , p < .001 , prep > .99 ; see Fig .
+2 ) .
+They performed better with horizontally split targets ( 92.36 % correct ) than with vertically split targets ( 78.5 % cor- rect ) or diagonally split targets ( 75.7 % correct ) , both ts ( 23 ) > 3.00 , ps < .01 , preps > .96 .
+The overall percentage correct was reliably higher in Exper- iment 2 than in the no-label condition of Experiment 1 , t ( 34 ) 5 4.13 , p < .001 , prep > .99 , d5 1.30 .
+Thus , hearing the location of the red part helped children select the target .
+How did this verbal information help ?
+One possibility is that the children correctly represented the directional word on each trial ( top , bottom , left , or right ) and used this word plus their visual rep- resentation of the target ’ s split to encode and retain the location of the red part over the delay .
+This explanationmight work for the terms top and bottom , but it does not work for left and right .
+In the production test , the children correctly produced top and bottom on 98.3 % of the trials calling for these terms , and in the com- prehension test , they placed the X in the correct location on 89.7 % of the trials asking them to indicate the top or bottom .
+Thus , they knew the spatial meanings of these terms .
+However , the same children produced left and right correctly on only 64.3 % of the trials in the production test calling for these terms , and placed the X in the correct location on only 66.5 % of the trials asking them to indicate the right or left .
+Errors on left and right trials showed that the children ’ s knowledge of these two terms included the correct ( horizontal ) axis , but not the direc- tion : Left and right confusion errors accounted for 94 % of the errors in production and 91 % of the errors in comprehension .
+Production was reliably worse for left and right than for top and bottom , t ( 21 ) 5 4.03 , p < .01 , prep > .96 , d 5 1.25 , as was comprehension , t ( 21 ) 5 3.54 , p < .01 , prep > .95 , d 5 1.09 .
+2 Did children use their long-term knowledge of the four di- rectional terms to select the correct test item ?
+It seems unlikely : Neither children ’ s production accuracy for left and right nor their comprehension accuracy for these terms was reliably correlated with their overall accuracy in the matching task , Pearson ’ s r ( 20 ) 5 .14 and r ( 20 ) 5 .24 , ps > .10 , respectively.3 Nor were these measures of production and comprehension correlated with accuracy on trials with the vertically split tar- gets , rs ( 20 ) < .37 , ps > .10 .
+We return to this issue in Experi- ment 4 .
+Directional language helped children retain the color and location structure of the targets , but how ?
+One possibility is that directional language drew attention to the red part and its lo- cation .
+If so , one might expect nonlinguistic attentional cues to work as well .
+We tested this possibility in Experiment 3 .
+EXPERIMENT 3 Method Thirty-six 4-year-olds ( mean age5 4 years 5 months , range5 4 years 0 months through 4 years 11 months ) were randomly as- signed to the flashing ( n5 12 ) , growing ( n5 12 ) , or pointing ( n 5 12 ) condition .
+The design , stimuli , and procedure were the same as in Experiments 1 and 2 , except that after the children were told ‘ ‘ Look ! ’ ’ the red part of the target was made salient .
+In the flashing condition , the red part flashed on for 200 ms and off for 200 ms , and this was repeated five times ; in the growing condition , the red part grew for 200 ms and shrunk for 200 ms , and this was repeated five times ; and in the pointing condition , children were told ‘ ‘ Point to the red part. ’ ’ All children complied .
+After the attentional manipulation and while the target was still on the screen , the children were told , ‘ ‘ I want you to help me find one that is exactly the same. ’ ’ Results and Discussion In each condition , the children again chose thematchmore often than expected by chance , all ts ( 11 ) > 4.9 , ps < .001 , preps > .98 , and when they made an error , they chose the reflection more often than the different distractor , all ts ( 11 ) > 2.94 , ps < .01 , preps > .97 ( see Fig .
+2 ) .
+A 3 ( condition ) 3 ( target type ) mixed analysis of variance showed only a main effect of target type , F ( 2 , 66 ) 5 3.83 , p < .05 , prep > .91 ; performance was better for horizontally and diagonally split targets than for vertically split targets , both ts ( 35 ) > 2.1 , ps < .05 , preps > .87 .
+1The labels used for the diagonally split targets ( i.e. , left or right vs. top or bottom ) had no significant effect in this experiment or in Experiment 4 ; hence , we collapsed the data across these conditions .
+2Two participants did not complete these tasks .
+3Performance was at ceiling for top and bottom , so only performance for left and right was entered into correlations .
+192 Volume 19—Number 2 Role of Language in Binding Visual Properties at NANYANG TECH UNIV LIBRARY on May 26 , 2015pss.sagepub.comDownloaded from Remarkably , the average percentage correct for each of these conditions was no different from the percentage correct in the no-label condition of Experiment 1 , ts ( 22 ) < 1 , but was sig- nificantly lower than the percentage correct in Experiment 2 , all ts ( 34 ) > 3.5 , ps < .001 , preps > .98 , ds > 1.12 .
+Directional terms ( Experiment 2 ) were more effective than the nonlinguistic at- tention-grabbers in helping children maintain the conjunction of color and location .
+How did directional expressions improve performance ?
+The directional phrases used in Experiment 2—for example , ‘ ‘ x is on the left [ of y ] ’ ’ —are both relational ( i.e. , left defines a relation between x and y ) and directional ( i.e. , ‘ ‘ x is on the left of y ’ ’ entails that ‘ ‘ y is on the left of x ’ ’ is false ) .
+In our final experiment , we investigated whether the relational nature of the terms alone was sufficient to improve performance .
+To do this , we replicated Experiment 2 , adding nondirectional ( neutral ) relational terms , such as touching .
+EXPERIMENT 4 Method Thirty-six 4-year-olds ( mean age5 4 years 6 months , range5 4 years 0 months through 4 years 11 months ) were randomly as- signed to the neutral ( n5 12 ) or directional ( n5 24 ) condition .
+The design , stimuli , and procedure were the same as in Exper- iment 2 except that in the neutral condition , targets were labeled using relational but nondirectional terms : ‘ ‘ The red is touching/ connected to/next to/up against the green. ’ ’ Children in the di- rectional condition heard the same sentence , except with di- rectional terms : ‘ ‘ The red is to the left/right/top/bottom of the green. ’ ’ As in Experiment 2 , we administered production and comprehension tasks to evaluate the children ’ s knowledge of the directional terms .
+Results and Discussion In each condition , the children again chose thematchmore often than expected by chance , ts ( 11 ) > 7.0 , ps < .001 , preps > .99 , and when they made errors , they chose the reflection more often than the different distractor , ts ( 11 ) > 3.0 , ps < .01 , preps > .98 ( see Fig .
+2 ) .
+A 2 ( condition ) 3 ( target type ) mixed analysis of variance on percentage correct showed a main effect of condi- tion , F ( 1 , 34 ) 5 5.8 , p < .05 , prep > .90 , d5 0.82 , but no effect of target type and no interaction .
+Children who heard directional terms chose more matches than those who heard neutral terms .
+Because both the directional terms and the neutral terms were relational , this finding indicates that the relational nature of the labels alone was not sufficient to enhance children ’ s perfor- mance .
+As in Experiment 2 , children ’ s performance in the production and comprehension tasks did not predict their performance on the matching task .
+In the production test , the children correctly produced top and bottom on 98.9 % of the trials calling for these terms , and in the comprehension test , they placed the X in the correct location on 96.9 % of the trials asking them to indicate the top or bottom .
+However , the same children produced left and right correctly on only 65.5 % of the trials calling for these terms , and placed the X in the correct location on only 79.0 % of the trials asking them to indicate the left or right .
+Production and comprehension were reliably worse for left and right than for top and bottom , ts ( 23 ) > 3.20 , ps < .01 , preps > .96 , ds > 0.78 .
+There was no reliable correlation between children ’ s accuracy in producing and comprehending left and right and their overall accuracy on the matching task , nor was there a correlation be- tween these measures of production and comprehension and children ’ s accuracy on trials with the vertically split targets , rs ( 23 ) < .29 , ps > .08 .
+In a final set of comparisons , we examined the performance of all children who heard directional terms ( those in Experiments 2 and 4 , N 5 48 ) .
+These children performed significantly better than children in the no-label condition of Experiment 1 , t ( 58 ) 5 3.38 , p < .001 , prep > .98 , d5 0.95 , and significantly better than the children in each of the attention conditions of Experiment 3 , ts ( 58 ) > 3.47 , ps < .001 , preps > .98 , ds > 0.88 .
+4 Directional labels apparently trump all other instructional conditions .
+However , even for this larger group , there was still no significant correlation between matching accuracy and accuracy of pro- ducing and comprehending left and right , all rs < .32 , n.s .
+The scatter plots in Figure 3 suggest why : Some children might have used their long-term understanding of left and right to help them in the matching task , and therefore did well on both tasks .
+But a substantial number of children did well on the matching task despite doing poorly on the production and comprehension tasks .
+In the General Discussion , we propose two different mech- anisms to explain these two performance patterns .
+GENERAL DISCUSSION We asked whether language can modulate children ’ s ability to bind and maintain conjunctions of color and location—feature combinations that are known to be fragile even in adults .
+We found that 4-year-olds robustly encode the internal geometry of a target ( i.e. , the vertical , horizontal , or diagonal split ) , but have difficulties maintaining color-location conjunctions .
+The chil- dren ’ s retention of these conjunctions was enhanced when they heard sentences with directional terms , relative to when they heard no label , an object label , or a nondirectional term , or when the relevant part was made more salient by flashing , changes in 4Percentage correct was higher in Experiment 2 ( 82 % ) than in the directional condition of Experiment 4 ( 75 % ) , t ( 46 ) 5 2.41 , p < .05 , prep > .92 .
+However , even children in the directional condition of Experiment 4 performed signifi- cantly better than those in the no-label condition of Experiment 1 , t ( 32 ) 5 2.29 , p < .05 , prep > .87 , and in each attentional condition of Experiment 3 , ts ( 56 ) > 2.0 , ps < .05 , preps > .89 .
+Volume 19—Number 2 193 Banchiamlack Dessalegn and Barbara Landau at NANYANG TECH UNIV LIBRARY on May 26 , 2015pss.sagepub.comDownloaded from size , or having the child point to it .
+The failure of the nonlin- guistic manipulations suggests that the language effects were not due to general attentional enhancement ; the failure of the relational nondirectional terms ( e.g. , touching ) suggests that the effects were specific to directional terms .
+We suggest two possible mechanisms to account for these results .
+Both mechanisms entail the momentary use of language to enhance the maintenance of color-location combinations .
+We propose that some children used their long-term , stable knowledge of the directional terms to maintain the conjunctions of color and location .
+Although the children retained the geo- metric split ( e.g. , vertical ) with or without language ( as shown by the high percentage of trials on which either the match or the reflection was chosen in all conditions ) , children who also had strong knowledge of the directional terms and their syntax could use this knowledge to create a ‘ ‘ hybrid ’ ’ representation that al- lowed both geometry and the color-location conjunction to be maintained over the 1-s delay .
+This mechanism would be short- lived in that it would operate solely to bridge the brief delay , but it would depend on long-term knowledge of the directional meanings of the terms .
+The linguistic representation would serve to represent the conjunction of color and location—not well retained with vision alone—but it would not be required to represent the geometry of the target ( which was maintained with or without language ) .
+A different mechanism is required , however , to explain the performance of children who did not have strong knowledge of the terms , that is , those who knew that left and right were op- posite ends of the horizontal axis , but did not know which end was which .
+We suggest that for these children , the directional terms may have acted as temporary directional pointers .
+When children saw the target and heard ‘ ‘ The red is on the left , ’ ’ their ( partial ) understanding of left could have been temporarily matched to their current representation of the red part ’ s location , in effect , telling them which direction was left .
+This represen- tation—again temporary—could have been used to bridge the delay , allowing a correct match .
+Ten minutes later , when these children were given the production and comprehension tasks , this representation was gone , resulting in failure to distinguish between left and right .
+Both of these mechanisms suggest that language and vision can interact to create powerful but temporary hybrid represen- tational schemes .
+These schemes were used to augment the representation of the target in the context of the task , working to maintain the conjunction of color and location in the moment of test .
+Our proposed mechanisms are consistent with recent findings showing that language provides a powerful but temporary modulation of attention ( Smith et al. , 1996 ; Spivey et al. , 2001 ) , and also consistent with the growing recognition that many cognitive functions are mediated by temporary ‘ ‘ pointers ’ ’ or ‘ ‘ indexes ’ ’ that can enhance performance , especially by reduc- ing the burden of visual-spatial memory ( Ballard et al. , 1997 ; Pylyshyn , 2003 ) .
+The fact that our nonlinguistic manipulations did not have the same effects as language suggests that language provides a particularly powerful means of encoding and carrying forward visual information , at least in children .
+We do not know whether this is also true for adults ; however , preliminary findings in our lab show that verbal shadowing in this task drives adults ’ performance down to that of 4-year-olds , with the same pre- dominance of errors of reflection .
+This suggests that language might be automatically and obligatorily recruited in adults when they perform tasks such as ours , a notion that is consistent with other findings supporting the idea that adults automatically use language in complex cognitive tasks ( e.g. , Spelke & Tsivkin , 2001 ) .
+Over development , language may become an obligatory driver of attention , fostering selective but temporary encoding of certain properties of the world ( see Landau , Dessalegn , & Goldberg , in press , for discussion ) .
+Our broader conclusions point to a resolution of some current issues regarding language and thought .
+We take a position consistent with a strongly anti-Whorfian view and suggest that for children to use the language of left and right correctly , they must first be able to represent these directions nonlinguistically .
+Fig .
+3 .
+Results from Experiment 4 : each participant ’ s percentage correct on the matching task and percentage correct on the left and right trials of the production and comprehension tasks .
+Separate scatter plots present results for ( a ) all targets and ( b ) the vertically split targets only .
+194 Volume 19—Number 2 Role of Language in Binding Visual Properties at NANYANG TECH UNIV LIBRARY on May 26 , 2015pss.sagepub.comDownloaded from Language can maintain only what is already represented .
+However , our findings suggest that using language to enrich a visual representation might really enhance one ’ s capabilities .
+Our specific example is limited , but it opens up the possibility that many so-called Whorfian effects are , in fact , effects of the temporary modulation of attention through language .
+The po- tential power of such effects should not be underestimated .
+Acknowledgments—We appreciate input from James Hoffman and the Johns Hopkins University Language and Cognition Lab .
+This research was supported in part by Research Grant FY-12- 04-46 from the March of Dimes Birth Defects Foundation , Grant RO1-050876 from the National Institute of Neurological Dis- orders and Stroke , and the National Science Foundation ’ s In- tegrated Graduate Education and Research Training grant to the Cognitive Science Department at Johns Hopkins University .
+REFERENCES Ballard , D. , Hayhoe , M. , Pook , P. , & Rao , R. ( 1997 ) .
+Deictic codes for the embodiment of cognition [ Target article and commentaries ] .
+Behavioral and Brain Sciences , 20 , 723–767 .
+Carey , S. ( 2001 ) .
+Bridging the gap between cognition and developmental neuroscience : The example of number representation .
+In C.A .
+Nelson & M. Luciana ( Eds .
+) , Handbook of developmental cogni- tive neuroscience ( pp .
+415–431 ) .
+Cambridge , MA : MIT Press .
+Hermer-Vazquez , L. , Spelke , E.S. , & Katsnelson , A.S. ( 1999 ) .
+Sources of flexibility in human cognition : Dual-task studies of space and language .
+Cognitive Psychology , 39 , 3–36 .
+Hoffman , J. , Landau , B. , & Pagani , B .
+( 2003 ) .
+Spatial breakdown in spatial construction : Evidence from eye fixations in children with Williams syndrome .
+Cognitive Psychology , 46 , 260–301 .
+Jackendoff , R. ( 1987 ) .
+On beyond zebra : The relation of linguistic and visual information .
+Cognition , 26 , 89–114 .
+Landau , B. , Dessalegn , B. , & Goldberg , A .
+( in press ) .
+Language and space : Momentary interactions .
+In P. Chilton & V. Evans ( Eds .
+) , Language , cognition and space : The state of the art and new di- rections .
+London : Equinox .
+Landau , B. , & Hoffman , J.E .
+( 2005 ) .
+Parallels between spatial cog- nition and spatial language : Evidence from Williams syndrome .
+Journal of Memory and Language , 53 , 163–185 .
+Levinson , S.C. ( 1996 ) .
+Language and space .
+Annual Review of An- thropology , 25 , 353–382 .
+Loewenstein , J. , & Gentner , D. ( 2005 ) .
+Relational language and the development of relational mapping .
+Cognitive Psychology , 50 , 315 .
+Munnich , E. , & Landau , B .
+( 2003 ) .
+The effects of spatial language on spatial representation : Setting some boundaries .
+In D. Gentner & S. Goldin-Meadow ( Eds .
+) , Language in mind : Advances in the study of language and thought ( pp .
+113–155 ) .
+Cambridge , MA : MIT Press .
+Papafragou , A. , Massey , C. , & Gleitman , L. ( 2002 ) .
+Shake , rattle , ‘ n ’ roll : The representation of motion in language and cognition .
+Cognition , 84 , 189–219 .
+Pylyshyn , Z .
+( 2003 ) .
+Seeing and visualizing : It ’ s not what you think .
+Cambridge , MA : MIT Press .
+Ratterman , M. , & Gentner , D. ( 1998 ) .
+More evidence for a relational shift in the development of analogy : Children ’ s performance on a causal-mapping task .
+Cognitive Development , 13 , 453–478 .
+Ruff , H. , & Capozzoli , M. ( 2003 ) .
+Development of attention and dis- tractibility in the first 4 years of life .
+Developmental Psychology , 39 , 877–890 .
+Smith , L. , Jones , S. , & Landau , B .
+( 1996 ) .
+Naming in young children : A dumb attentional mechanism ?
+Cognition , 60 , 143–171 .
+Spelke , E.S. , & Tsivkin , S. ( 2001 ) .
+Language and number : A bilingual training study .
+Cognition , 78 , 45–88 .
+Spivey , M.J. , Tyler , M.J. , Eberhard , K.M. , & Tanenhaus , M.K .
+( 2001 ) .
+Linguistically mediated visual search .
+Psychological Science , 12 , 282–286 .
+Treisman , A. , & Gelade , G. ( 1980 ) .
+A feature integration theory of attention .
+Cognitive Psychology , 12 , 97–136 .
+Treisman , A. , & Schmidt , H. ( 1982 ) .
+Illusory conjunctions in the perception of objects .
+Cognitive Psychology , 14 , 107–141 .
+Wheeler , M. , & Treisman , A .
+( 2002 ) .
+Binding in short-term visual memory .
+Journal of Experimental Psychology : General , 131 , 48–64 .
+( RECEIVED 5/9/07 ; REVISION ACCEPTED 8/1/07 ) Volume 19—Number 2 195 Banchiamlack Dessalegn and Barbara Landau at NANYANG TECH UNIV LIBRARY on May 26 , 2015pss.sagepub.comDownloaded from

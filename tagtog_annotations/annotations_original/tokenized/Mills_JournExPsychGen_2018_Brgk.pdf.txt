@@ -1,0 +1,320 @@
+Mills_JournExPsychGen_2018_Brgk.pdf
+aN5.BqJw0lv_aD61le5Nf1xYIEBe-Mills_JournExPsychGen_2018_Brgk.pdf.plain.html
+
+BRIEF REPORT Attention Goes Both Ways : Shifting Attention Influences Lexical Decisions Mark Mills , Paul Boychuk , Alison L. Chasteen , and Jay Pratt University of Toronto Spatial components of concepts can influence the speed with which peripheral targets are responded to ( e.g. , the word God speeds responses to targets presented above fixation ; devil speeds responses to targets presented below fixation ) .
+The basic premise underlying these conceptual cueing effects is that thinking of a spatial metaphor activates an internal spatial representation which in turn influences the allocation of attention in the visual field .
+An important step forward in understanding conceptual cues is deter- mining whether the underlying process is bidirectional : Do shifts of attention facilitate activation of corresponding conceptual information ?
+To test this , a peripheral cue was used to induce shifts of attention to a peripheral location , and the effect of this shift on concept processing was measured with a standard lexical-decision task in which participants made word/nonword responses to a letter string presented at fixation ( Experiments 1 and 3 ) , or with a modified lexical-decision task in which participants made English/Dutch judgments of a word presented auditorily ( Experiment 2 ) .
+If shifts of attention activate spatially compatible concepts , then shifting attention to a peripheral location should speed lexical decisions for spatially compatible concepts such that leftward shifts lead to faster lexical decisions of left relative to right concepts ( and likewise for rightward , upward , and downward shifts ) .
+Our results support this prediction , suggesting that behaviors in the visual field can influence the activation of internal representations .
+Keywords : spatial attention , conceptual cueing , congruency effects , embodied cognition Conceptual cueing of visual attention refers to an effect of conceptual processing on the allocation of attention in the visual field .
+The most concrete example of this is the use of explicit directional cues .
+For example , Hommel , Pratt , Colzato , and Godijn ( 2001 ) presented a centrally located directional arrow ( , ) or word ( left , right ) which was followed by a peripheral target re- quiring a simple detection response .
+Targets were detected faster when appearing at locations indicated by the cue ( compatible condition ) than at another location ( incompatible condition ) .
+This occurred even though these cues were entirely irrelevant to the detection task and observers were explicitly told that the cues did not predict the location of the target , suggesting that processing concepts involves automatic activation of corresponding sensori- motor spatial components .
+Similar results have been observed for a myriad of concepts , including those with implicit spatial meaning such as valenced concepts ( e.g. , polite , rude ; Meier & Robinson , 2004 ) , time-related concepts ( e.g. , tomorrow , yesterday ; Weger & Pratt , 2008 ) , concepts of number ( Fischer , Castel , Dodd , & Pratt , 2003 ) and letter ( Dodd , Van der Stigchel , Adil Leghari , Fung , & Kingstone , 2008 ) , words referring to concrete concepts with a typical location in space ( e.g. , hat , boot ; Estes , Verges , & Barsa- lou , 2008 ) , as well as abstract religious ( e.g. , god , devil ; Chasteen , Burdzy , & Pratt , 2010 ) and political ( e.g. , liberal , conservative ; Mills , Smith , Hibbing , & Dodd , 2015 ) concepts .
+The implicit assumption underlying these studies is that conceptual cues invoke shifts of visual attention .
+That is , the processing of a concept activates a corresponding internal spatial representation that in turn causes attention to be oriented to the spatially compatible region of the visual field .
+An important step forward in understanding conceptual cues is examining the directionality of their association with space .
+So far , studies of conceptual cueing have been unidirec- tional : A conceptual cue is centrally presented and the effect of that cue on some measure of peripheral attention is examined .
+If , however , concepts cause shifts of attention , then it may be possible for shifts of attention to activate spatially compatible concepts ( e.g. , shifting at- tention up should activate upper regions of the visual field , which in turn should facilitate lexical access to concepts explicitly or implicitly associated with up ) .
+That is , the relationship between conceptual cues and space in the visual field may be bidirectional .
+If so , then moving attention leftward should improve processing for spatially compatible concepts in much the same way as processing a concept improves attentional performance .
+Experiment 1 To test whether the relationship between conceptual cues and space in the visual field is bidirectional , a classic peripheral cue ( i.e. , flash of light ) is used to induce shifts attention to a peripheral Mark Mills , Paul Boychuk , Alison L. Chasteen , and Jay Pratt , Depart- ment of Psychology , University of Toronto .
+This research was supported by NSERC Discovery Grants to Jay Pratt and Alison L. Chasteen and has been presented previously at the 2017 Annual Meeting of the Vision Science Society .
+Correspondence concerning this article should be addressed to Mark Mills , Department of Psychology , University of Toronto , 100 Street George Street , Toronto , ON M5S 3G3 Canada .
+E-mail : mark.mills @ utoronto.ca T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+Journal of Experimental Psychology : General © 2018 American Psychological Association 2018 , Vol .
+147 , No .
+2 , 282–291 0096-3445/18/ $ 12.00 http : //dx.doi.org/10.1037/xge0000388 282 location in the visual field , and the effect of this shift on concept processing is measured with a standard lexical-decision task .
+Thus , participants oriented to a peripheral cue and then performed a word/nonword judgment of a letter string presented at fixation .
+If shifts of attention activate spatially compatible concepts , then shifting attention to a peripheral location should lead to faster word/nonword judgments of spatially compatible concepts .
+For example , leftward shifts of attention should lead to faster word/ nonword judgments of left relative to right concepts ( and likewise for rightward , upward , and downward shifts ) .
+Method Participants .
+Participants were required to be English-first speakers and to have normal or corrected-to-normal vision .
+During data collection , however , we discovered that although all partici- pants were English-first speakers , more than half were multilin- gual .
+As such , we doubled our target sample size to evaluate multilingualism as a potential between-subjects covariate .
+Accord- ingly , 48 undergraduates from the University of Toronto partici- pated in exchange for course credit ( see Table 1 for demograph- ics ) , each of which was naïve to the purpose of the experiment and was informed of their rights of participation according to the Research Ethics Board at the University of Toronto .
+Apparatus .
+Testing took place in a dimly lit , sound attenuated room .
+Participants were seated 48 cm from a 60-Hz CRT monitor ( 1,024 768 resolution ) , with chin/forehead rests to maintain their viewing position and distance .
+An IBM compatible Pentium- equipped PC running Experiment-Builder 1.10.1241 ( SR Research Ltd. , Mississauga , Ontario , Canada ) controlled stimulus presenta- tion .
+All stimuli were displayed on a black background ( 1.25 cd/m2 ) .
+Stimuli and procedure .
+Appendices A and B lists the word and nonword lexical decision stimuli , respectively .
+Figure 1 illus- trates the procedure .
+Each trial started with a gray fixation cross ( 45.6 cd/m2 , 1° 1° with 0.04° thickness ) in the center of the display along with two gray peripheral placeholders ( 45.6 cd/m2 , 4° 4° with 0.04° thickness ) for 750 , 1,000 , or 1,250 ms .
+The distance between fixation and the center of each placeholder was 8° of visual angle .
+Subsequently , one of the placeholders was brightened and thickened ( 87.7 cd/m2 with 0.32° thickness ) .
+Par- ticipants were instructed to fixate the location of this peripheral cue , which could appear along either the vertical or horizontal axis .
+Vertical and horizontal cues were blocked , with block order coun- terbalanced across participants .
+After 100 ms , the display was cleared and a lexical decision stimulus was presented in the center of the display .
+Lexical decision stimuli were letter strings and consisted of pronounceable nonwords ( e.g. , jur , ryped , scrorched ) and four different conceptual word categories : words associated with up ( e.g. , bird , lord , ceiling ) , down ( e.g. , ants , hell , basement ) , left ( e.g. , enter , birth , before ) , and right ( e.g. , exit , death , after ) .1 Letters were capitalized ( Times New Roman font ) , gray in color ( 45.6 cd/m2 ) , and measured 0.80° of visual angle .
+By pressing the “ F ” or “ J ” key on a keyboard , participants made speeded word/ nonword judgments ( response key mappings were counterbal- anced across participants ) .
+Letter strings were presented for 4,000 ms or until a response was registered , after which the display was cleared .
+The intertrial interval was 1,500 ms. Design .
+Each participant completed two blocks of 200 trials .
+One block contained vertical peripheral cues and up/down con- ceptual words , whereas the other contained horizontal peripheral cues and left/right conceptual words .
+Within each block there were 100 nonwords and 100 conceptual words ( 50 conceptual words per dimension ) .
+In each trial within a block , the peripheral cue location ( above , below/left , right ) and type of letter string ( word , nonword ) were equally likely .
+Within the word condition , each word cate- gory ( up , down/left , right ) was equally likely .
+1 Pronounceable nonwords were generated as follows .
+First , Medler and Binder ’ s ( 2005 ) online tool MCWord was used to compute the word length ( number of characters in a letter string ) , number of orthographic neighbors ( number of different words that can be generated by changing only a single letter ) , and summed frequency of orthographic neighbours ( how often an orthographic neighbor is used in speech/text per 1,000,000 words ) for each conceptual word .
+Next , Rastle , Harrington , and Coltheart ’ s ( 2002 ) ARC Nonword Database was used to generate pronounceable nonwords that matched the conceptual words on the parameters above .
+Thus , words and nonwords were matched on word length ( M 5.8 / 2.1 letters ) , number of orthographic neighbors ( M 4.2 / 5.6 neighbors ) , and summed frequency of orthographic neighbors ( M 176.4 / 2007.1 occur- rences ) .
+Table 1 Participant Characteristics in Experiments 1–3 Characteristic Experiment 1 Experiment 2 Experiment 3 n % n % n % Participants 48 100.0 22 100.0 100 100.0 Language Unilingual 21 43.7 5 22.7 37 37.0 Multilingual 27 56.3 17 77.3 63 63.0 Gender Male 19 39.6 9 40.9 34 34.0 Female 28 58.3 12 54.6 66 66.0 Other 1 2.1 1 4.5 0 .0 Handedness Left 4 8.4 2 9.1 2 2.0 Right 44 91.6 20 90.9 98 98.0 + + PRIOR + + GOD Peripheral cue Fixation Word or non-word Peripheral cue Fixation Word or non-word Intertrial interval Intertrial interval 750 , 1000 , or 1250 ms 100 ms 4000 ms or until response 1500 ms Figure 1 .
+Example trial sequence for horizontal and vertical cue condi- tions .
+T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+283SHIFTING ATTENTION , LEXICAL DECISIONS Results and Discussion Incorrect responses ( 5.12 % ) and responses less than 250 ms or greater than 2,000 ms ( 1.17 % ) were discarded .
+Correct response times ( RTs ) were analyzed with a 2 ( block : vertical , horizontal ) 3 ( cue-word compatibility : compatible , incompatible , nonword ) 2 ( language : unilingual , multilingual ) linear mixed effects model with crossed random intercepts for subjects and words and random subject slopes for the effects of block , cue-word compatibility , and their interaction ( Barr , Levy , Scheepers , & Tily , 2013 ; Hoffman , 2014 ) .
+Effect size was assessed using pseudo-R2 statistics ( Singer & Willett , 2003 ) , which express the proportion of variance reduced in a given variance component after inclusion of a relevant fixed effect .
+Figure 2 shows the mean RTs , collapsing across the multilin- gualism factor .
+Critically , there was a significant main effect of cue-word compatibility , F ( 2 , 123.4 ) 18.77 , p .001 , pseudo- R2 19.2 % , where responses were faster in the compatible ( M 661 ms ) than in the incompatible ( M 680 ) condition , t 2.00 , p .049 .
+This is the predicted cue-word compatibility effect .
+Responses were also faster in the compatible and incompatible conditions than in the nonword ( M 727 ms ) condition , ts 4.34 , ps .001 , which is the typical lexical decision result .
+The main effect of block was not significant , F ( 1 , 96.0 ) 1.96 , p .165 , pseudo-R2 1.5 % , and did not interact significantly with cue- word compatibility , F ( 2 , 173.2 ) .30 , p .743 , pseudo-R2 1.0 % .2 Looking at Figure 2 , however , it is somewhat surprising that the main effect of block was not significant given that re- sponses appear to be consistently faster in the vertical relative to horizontal block .
+A post hoc power analysis conducted with GPower 3.1 software ( Faul , Erdfelder , Lang , & Buchner , 2007 ) indicated that the statistical power of this test was .69 , which is slightly less than ideal and thus may reflect a type II error .
+In sum , Experiment 1 investigated whether the processes under- lying conceptual cueing effects are bidirectional .
+Specifically , if conceptual processing activates internal spatial representations that in turn influence behaviors in the visual field , do behaviors in the visual field also influence the activation of internal representa- tions ?
+The results suggest this is the case : lexical decisions were speeded when preceded by a spatially compatible behavior ( e.g. , the word up preceded by an up behavior ) than an incompatible one ( e.g. , the word up preceded by a down behavior ) .
+Experiment 2 Before we can reasonably conclude that shifts of attention modulated lexical access , one potential alternative must be ad- dressed .
+Specifically , because lexical decision stimuli were pre- sented at fixation , participants had to shift attention to the cued location then back to fixation .
+As such , it is unclear whether the speeding of lexical decisions is attributable to a spatially compat- ible behavior .
+Our interpretation , however , is not that the shift of attention per se was responsible for activating spatially compatible concepts but rather that selection of a particular region of space— via a shift of attention—was responsible .
+To rule out the possibility that a shift of attention from a peripheral location back to fixation was somehow responsible for the cue-word compatibility effect , a second experiment was conducted in which a shift back to fixation was not required .
+This was achieved by presenting lexical decision stimuli auditorily .
+Thus , rather than responding to lexical decision stimuli at fixation ( Experiment 1 ) , responses were to auditory stimuli ( Experiment 2 ) , which obviates the need to shift attention back to fixation .
+In addition , because of difficulty in generating nonwords that a computer program could pro- nounce , rather than word/nonword responses to letter strings non-Dutch speakers instead discriminated whether auditory stimuli were English or Dutch words .
+Method Participants .
+Participation criteria were the same as Experi- ment 1 with the addition that participants were non-Dutch speakers ( effectively making Dutch words ‘ nonwords ’ ) .
+An a priori power analysis conducted with GPower 3.1 software ( Faul et al. , 2007 ) indicated that with an alpha level of .05 and a power level of .80 , a sample size of 24 would be necessary to observe an effect size of pseudo-R2 19.2 % ( i.e. , the size of the cue-word compatibility effect in Experiment 1 ) .
+Because of this , and the fact that multi- lingualism did not influence the size of the cue-word compatibility effect in Experiment 1 and therefore was not considered in this experiment , 24 undergraduates from the University of Toronto participated in exchange for course credit .
+Two participants were excluded from analysis for responding incorrectly on 75 % of trials .
+The error rate for each of the 22 remaining subjects was 18 % ( see Table 1 for demographics ) .
+All participants were naïve to the purpose of the experiment and were informed of their rights of participation according to the Research Ethics Board at the University of Toronto .
+Apparatus , stimuli , procedure , and design .
+Auditory stim- uli were presented binaurally with iCAN headphones in the range of 60–70 dB ( peak volume ) .
+English words were the same con- 2 A possible moderating role of multilingualism was examined given the reliance of the present experiment on linguistic ability .
+This turned out to be a rather inconsequential factor , however .
+There was a significant lan- guage by block interaction , F ( 1 , 46.6 ) 4.23 , p .045 , pseudo-R2 7.2 % , such that the effect of block ( horizontal minus vertical ) was larger for multilinguals ( M 33.23 , t 2.52 , p .014 ) than unilinguals ( M 3.19 , t .22 , p .827 ) , but no other effects were significant ( Fs 1 , pseudo-R2s 1.0 % ) .
+Thus , multilinguals were significantly faster to respond in the horizontal versus vertical condition , whereas unilinguals did not differ in speed of response between horizontal and vertical conditions .
+Uni- and multilinguals , however , did not differ on the size of the cue-word compatibility effect .
+600 625 650 675 700 725 750 775 Compatible Incompatible Non-word ) s m ( e miT esnopse R Horizontal Vertical Figure 2 .
+Mean correct response times in Experiment 1 , collapsing across the language factor .
+Error bars represent / 1 standard error .
+T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+284 MILLS , BOYCHUK , CHASTEEN , AND PRATT ceptual words as in Experiment 1 .
+Appendix C lists the Dutch words used in place of nonwords for the modified lexical-decision task .
+As participants did not speak Dutch , English and Dutch words were matched only on spoken duration ( MEnglish 712 / 136 ms ; MDutch 739 / 158 ms ) .
+Auditory stimuli were generated using developer tools within Google Translate ( https : //translate.google.ca ) .
+All other aspects were the same as Experiment 1 .
+Results and Discussion Response times were defined as the time interval between the onset of the auditory stimulus and the response.3 Incorrect re- sponses ( 6.45 % ) were omitted from analysis .
+Correct RTs ( see Figure 3 ) were analyzed with the linear mixed effects model of Experiment 1 , but omitting multilingualism .
+There was a signifi- cant main effect of cue-word compatibility , F ( 2 , 58.8 ) 11.35 , p .001 , pseudo-R2 16.0 % , where responses were faster in the compatible ( M 901 ms ) than in the incompatible ( M 925 ) condition , t 2.09 , p .040 ; this replicates the effect from Experiment 1 with slightly different stimuli , suggesting a robust effect .
+Responses were also faster in the compatible and incom- patible conditions than in the Dutch word ( M 983 ms ) condition , ts 3.32 , ps .001 , which is similar to the typical lexical decision result .
+The main effect of block was not significant and did not interact significantly with cue-word compatibility ( Fs 1 , pseudo-R2s 1.0 % ) .
+Experiment 3 Two concerns warrant further consideration.4 First , there are legitimate concerns about replication in areas related to conceptual cueing ( e.g. , Doyen , Klein , Pichon , & Cleeremans , 2012 ; Meier , Fetterman , & Robinson , 2015 ) .
+Indeed , effect size estimates for conceptual cueing effects can change drastically when sample sizes are increased .
+For example , Meier et al .
+( 2015 ) conducted a replication of one of their earlier studies and found that the effect size in the high-powered study was about half of that in their earlier study .
+It seems prudent , therefore , to conduct a high- powered replication .
+Second , there is concern that the nature of a concept—whether concrete or abstract—may differentially affect the relationship between space and concepts .
+Experiments 1 and 2 examined the relationship between conceptual cues and space without regard to the specific nature of the concept—that is , whether the concept was abstract ( e.g. , God ) or concrete ( e.g. , roof ) in nature was not directly considered .
+Accordingly , the purpose of Experiment 3 was to conduct a high-powered replica- tion with better control over the specific nature of the concept .
+To that end , 100 subjects participated in Experiment 3 , in which abstract and concrete concepts associated with vertical space were tested .
+Method Participants .
+Participation criteria were the same as Experi- ment 1 .
+The initial sample consisted of 115 undergraduates from the University of Toronto who participated in exchange for course credit .
+Fifteen of these were not English-first speakers and were discarded , resulting in a sample size of 100 ( see Table 1 for demographics ) .
+All participants were naïve to the purpose of the experiment and were informed of their rights of participation according to the Research Ethics Board at the University of To- ronto .
+Apparatus .
+Testing took place in a dimly lit , sound attenuated room , with participants seated 57 cm from a 144-Hz LCD monitor ( 2,560 1,440 resolution ) .
+Chin/forehead rests were used to maintain viewing position and distance .
+An IBM compatible Pentium-equipped PC running Experiment-Builder 1.10.1241 ( SR Research Ltd. , Mississauga , Ontario , Canada ) controlled stimulus presentation .
+All stimuli were displayed on a black background ( 1.25 cd/m2 ) .
+Stimuli and procedure .
+These were the same as in Experi- ment 1 with two exceptions .
+First , only the vertical dimension was used .
+The horizontal dimension was not included here because most of the horizontal word items were abstract and therefore did not permit strict control over the balance of concrete versus ab- stract items .
+Second , the word and nonword lexical decision stim- uli were only a subset of those used in Experiment 1 rather than the full set .
+Again , this was necessary to ensure balance in the number of concrete and abstract items .
+There were 20 up words ( concrete : SKY , CLOUD , BIRD , HEAD , EYES , ROOF , HAT , HELICOPTER , CHIMNEY , ATTIC ; abstract : ALMIGHTY , GOD , HEAVEN , CREATOR , LORD , JOYOUS , HAPPY , JOLLY , GLAD , CHEERFUL ) and 20 down words ( concrete : GROUND , FISH , ROOTS , TOES , FLOOR , BOOTS , BASEMENT , SUBMARINE , RUG , TIRES ; abstract : DEVIL , HELL , SATAN , LUCIFER , DEMON , MELANCHOLY , SORROW , DEPRESSED , SAD , UNPLEASED ) .5 Words and nonwords were matched on word length ( M 5.6 / 1.9 letters ) , number of orthographic neighbors ( M 5.9 / 6.7 3 We also analyzed response times defined as the time interval between the offset of the auditory stimulus and the response .
+This analysis yielded identical inferential statistics as those reported in the text .
+4 We thank an anonymous reviewer for bringing these concerns to our attention .
+5 Nonwords were as follows : ERV , BLEAF , ROUN , PUNK , PSAB , PRAP , NUP , PHREIGHTHS , SHROUND , WROUL , SKEAGUED , JUR , KIMPED , SPAGUED , CUNK , GNEGGS , DULTS , WUMPS , PEUM , PHLARLED , FROUSE , JUMB , KNUSH , GUDE , CLIFE , BROUT , SPRIMPED , GHEIGHTHS , VOM , RIKES , JEBBS , LYPE , SMOOF , SHRALTS , CLETT , STREIGHTHS , TEIGNS , THROURSED , ZAV , SHRILCHED .
+825 850 875 900 925 950 975 1000 1025 Compatible Incompatible Non-word ) s m ( e miT esnopse R Horizontal Vertical Figure 3 .
+Mean correct response times in Experiment 2 .
+Error bars represent / 1 standard error .
+T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+285SHIFTING ATTENTION , LEXICAL DECISIONS neighbors ) , and summed frequency of orthographic neighbors ( M 42.9 / 102.8 occurrences ) .
+Design .
+Each participant responded to each of 80 unique lex- ical decision items ( 20 concrete words , 20 abstract words , and 40 nonwords ) twice , once with an above peripheral cue and once with a below peripheral cue , for a total of 160 trials .
+In each trial , the peripheral cue location ( above or below fixation ) and type of letter string ( word or nonword ) were equally likely .
+Within the word condition , the nature of the concept ( abstract or concrete ) was equally likely .
+Results and Discussion Incorrect responses ( 3.0 % ) and responses less than 250 ms or greater than 2,000 ms ( 1 % ) were discarded .
+Correct RTs were analyzed with a 3 ( cue-word compatibility : compatible , incompat- ible , nonword ) 2 ( word group : abstract , concrete ) nested linear mixed effect model ( the effect of word group was nested within the compatible and incompatible conditions of cue-word compatibility given that nonwords are neither abstract nor concrete ) with crossed random intercepts for subjects and words and random subject slopes for the effect of cue-word compatibility and its interaction with word group .
+Figure 4 shows the mean RTs .
+Once again , there was a signif- icant main effect of cue-word compatibility , F ( 2 , 119.0 ) 22.15 , p .001 , pseudo-R2 34.3 % , where responses were faster in the compatible ( M 631 ms ) than in the incompatible ( M 650 ms ) condition , t 3.05 , p .003 .
+This is the predicted cue-word compatibility effect .
+Responses were also faster in the compatible and incompatible conditions than in the nonword ( M 716 ms ) , which is the typical lexical decision result .
+Notice that the effect size for the cue-word compatibility effect was nearly twice as large as in Experiments 1 and 2 , likely owing to the reduced set of word items .
+Critically , the nested effect interaction of cue-word com- patibility ( compatible , incompatible ) and word group ( abstract , concrete ) was not significant , F ( 2 , 96.1 ) .47 , p .627 , pseudo- R2 1.0 % , indicating the magnitude of the cue-word compatibil- ity effect did not reliably differ between abstract ( M 22 ms ) and concrete ( M 16 ms ) conceptual word groups .
+These results replicate and extend Experiments 1 and 2 by demonstrating that the nature of the internally represented concept—whether concrete or abstract—does not differentially impact the relationship be- tween space and concepts .
+General Discussion Direct experience with the physical dimension of space is thought to structure our understanding of concepts for which direct sensory experience is unavailable ( e.g. , to be divine is to be up in space ; to be conservative is to be right in space ) , and previous evidence suggests that conceptual processing indeed biases visual attention toward spatially compatible locations ( e.g. , Chasteen et al. , 2010 ; Dodd et al. , 2008 ; Estes et al. , 2008 ; Fischer et al. , 2003 ; Hommel et al. , 2001 ; Meier & Robinson , 2004 ; Mills et al. , 2015 ; Weger & Pratt , 2008 ) .
+The present study examined whether the processes underlying these conceptual cueing effects are bidirec- tional : can shifts of attention to a particular location in the visual field facilitate the processing of corresponding concepts ?
+Experi- ment 1 observed a cue-word compatibility effect such that lexical decisions were speeded when preceded by a spatially compatible cue ( e.g. , the word up preceded by an up cue ) than an incompatible one ( e.g. , the word up preceded by a down cue ) on both vertices .
+Thus , just as activated internal representations are capable of influencing behaviors in the visual field , behaviors in the visual field can also influence the activation of internal representations .
+Because Experiment 1 required a shift of attention to the loca- tion of the peripheral cue then back to fixation , it is unclear whether the speeding of lexical decisions is attributable to a spatially compatible behavior .
+To rule out this possibility , Exper- iment 2 presented lexical decision stimuli auditorily , thus remov- ing the need to shift attention back to fixation .
+Again , a cue-word compatibility effect was observed .
+Our interpretation , therefore , is not that the shift of attention per se was responsible for activating spatially compatible concepts but rather that selection of a partic- ular region of space—via a shift of attention—was responsible .
+The present work contributes to the conceptual metaphor and embodied cognition literature ( Barsalou , 1999 , 2008 ; Gozli , Chas- teen , & Pratt , 2013 ; Lakoff & Johnson , 1980 , 1999 ; Landau , Meier , & Keefer , 2010 ) by demonstrating how visual positioning of information along the vertical or horizontal dimension can affect accessibility of conceptual representations .
+In the literature , two interrelated mechanisms are discussed as underlying these language-space associations ( compatibility effects ) : ( a ) metaphor- ical mapping and ( b ) automatic reactivation of experiential traces during language understanding .
+Conceptual metaphor theory ( La- koff & Johnson , 1980 , 1999 ; Landau et al. , 2010 ) focuses on how people perceive and represent items that have no direct sensory experience .
+It proposes that the human cognitive system is struc- tured around a set of concepts that emerge directly from experi- ence .
+The general principle of conceptual metaphor theory—that less concrete concepts can be understood metaphorically in terms of more concrete ones—implies a unidirectional nature to compatibility effects .
+Indeed , as remarked by Landau et al .
+( 2010 ) , “ metaphorical mappings between dissimilar concepts tend to go in the direction of a concrete source concept to a relatively more abstract target concept , but not the other way around ” ( pp .
+1052 ) .
+Support for the metaphor account ( i.e. , unidirectional mapping ) is found in Meier and Robinson ( 2004 ; Experiment 3 ) .
+Their participants first responded vocally as to whether a spatial prime appeared above or below fixation .
+Immediately afterward , a pos- 600 625 650 675 700 725 750 775 Compatible Incompatible Non-word ) s m ( e miT esnopse R Abstract Concrete Figure 4 .
+Mean correct response times in Experiment 3 .
+Error bars represent / 1 standard error .
+T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+286 MILLS , BOYCHUK , CHASTEEN , AND PRATT itively or negatively valenced word was presented at fixation and participants determined as quickly and as accurately as possible whether the word conveyed positive or negative meaning .
+In contrast to the present findings , Meier and Robinson failed to observe a compatibility effect between the location of the prime and the meaning of the word such that participants were no faster to evaluate positive words when preceded by a prime appearing above fixation than when the prime appeared below fixation ( and likewise for negative words—participants were no faster to eval- uate negative words when preceded by a prime appearing below fixation than when the prime appeared above fixation ) .
+Thus , whereas the present results suggest a bidirectional relationship between concepts and space , the Meier and Robinson study sug- gests a unidirectional one whereby affective judgments activate spatial attention , but this does not prime evaluations .
+According to Meier and Robinson ( 2004 ) , this was attributable to the asymmet- rical nature of affective metaphor .
+Individuals can use their sen- sory system to determine the location of an item in space and , as such , do not need to borrow metaphor to achieve an understanding of vertical position .
+The present study questions the general valid- ity of the metaphor view , as the findings suggest that perception and cognition may have a common neuronal basis , thereby allow- ing for a bidirectional relationship between the two .
+This common neuronal basis is consistent with notions that action and perception share representations .
+In this perspective , conceptual processing is thought to automatically activate percep- tual features associated with the meaning of the concept ( i.e. , simulation ; Barsalou , 1999 , 2008 ) .
+Thus , activating a concept representation also activates a corresponding spatial representation stored during experience of the concept ’ s referent , which in turn causes attention to be shifted to the spatially compatible region of space .
+The implication is that conceptual processing invokes brain activity associated with the processing of spatial information ( Bar- salou , 1999 , 2008 ) .
+If so , then the relationship between conceptual and perceptual representations should be bidirectional : activating a spatial representation ( e.g. , via shift of spatial attention ) should also activate corresponding conceptual representations , which in turn should facilitate access to conceptually compatible concepts .
+This is precisely what was found in the present study—shifting attention facilitated lexical access when the spatial aspects of the behavior and the lexical item matched ( e.g. , the word up followed by a behavior that activates upward space ) .
+The present findings are in line with a recent study by Berndt , Dudschig , and Kaup ( 2016 ) .
+They examined bidirectionality be- tween space and concepts using perceptual cues in which anagram problems ( e.g. , dolphin “ dplhion ” or cloud “ cdulo ” ) were presented at different locations in the visual field ( top or bottom of the display ) .
+They found that anagrams were solved faster when the position of the anagram was compatible with the typical location of the solution ’ s referent in the real world ( cloud is top ; dolphin is bottom ) .
+Importantly , however , this effect depended on the presence of a background ocean-sky picture , suggesting that experiential traces can activate associated concepts only within a supporting context .
+Berndt et al .
+( 2016 ) therefore interpret these findings as reflecting a mixture of automatic activation processes and the integration of the context information provided by the background picture .
+It is unclear why a supporting context was not necessary to obtain a compatibility effect in the present studies .
+A likely possibility may have to do with the difference between studies in how attention was shifted to peripheral locations .
+Spe- cifically , the manner by which attention is shifted ( either via endogenous task-goals in Berndt et al .
+or exogenous stimulation in the current study ) may impact the relationship between space and concepts .
+Despite all this evidence that activating experiential traces in- deed activates related concepts , there is a remaining possibility that language use might account for concept-space mappings , such that conceptual cueing effects are driven by the frequent use of spatial terms with target concepts ( e.g. , God above ; Goodhew , McGaw , & Kidd , 2014 ; Louwerse , 2008 ) .
+Thus , participants may shift their attention upward upon processing God because they have fre- quently and systematically been exposed to the term in conjunction with above and up , such that this spatial information has become associated with the concept itself .
+Such accounts predict that the magnitude of conceptual cueing effects is explained by linguistic collocations of the concept word and spatial words ( i.e. , frequency of use of the words together ) .
+The present study can not rule out this account ; however , it seems that such an account requires two associations ( upper space with the word above , and the word above with the word ‘ God ’ ) , whereas our interpretation requires only one ( that upper space be associated with the word ‘ God ’ ) and is therefore more parsimonious and thus preferred , at least for the time being .
+Context of the Research Spatial representation is critical for perceiving and acting on objects in the world given that identifying and/or acting upon an object usually requires that the object first be located in space .
+Recent work indicates that spatial representations continue to influence higher cognition , such as conceptual understanding .
+This is evident in studies demonstrating that processing concepts refer- ring to objects with typical locations in space ( e.g. , head , foot ) or abstract concepts that are metaphorically associated with locations in space ( e.g. , God , Devil ) influence where attention is allocated in the visual field .
+Consistent with the essential role of perceptual ( spatial ) features in concept representation , the present studies found that cueing location ( up , down , left , and right ) influenced the processing of semantically related concepts .
+This work helps es- tablish boundary conditions in embodied cognition as it challenges explanations that have been offered for conceptual cueing , such as conceptual metaphor theory , which assume a unidirectionality of this effect .
+References Barr , D. J. , Levy , R. , Scheepers , C. , & Tily , H. J .
+( 2013 ) .
+Random effects structure for confirmatory hypothesis testing : Keep it maximal .
+Journal of Memory and Language , 68 , 255–278 .
+http : //dx.doi.org/10.1016/j.jml .2012.11.001 Barsalou , L. W. ( 1999 ) .
+Perceptual symbol systems .
+Behavioral and Brain Sciences , 22 , 577–609 .
+Barsalou , L. W. ( 2008 ) .
+Grounded cognition .
+Annual Review of Psychol- ogy , 59 , 617–645 .
+http : //dx.doi.org/10.1146/annurev.psych.59.103006 .093639 Berndt , E. , Dudschig , C. , & Kaup , B .
+( 2016 ) .
+Activating concepts by activating experiential traces : Investigations with a series of anagram solution tasks .
+The Quarterly Journal of Experimental Psychology .
+Advance online publication .
+http : //dx.doi.org/10.1080/17470218.2016 .1261913 T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+287SHIFTING ATTENTION , LEXICAL DECISIONS Chasteen , A. L. , Burdzy , D. C. , & Pratt , J .
+( 2010 ) .
+Thinking of God moves attention .
+Neuropsychologia , 48 , 627–630 .
+http : //dx.doi.org/10.1016/j .neuropsychologia.2009.09.029 Dodd , M. D. , Van der Stigchel , S. , Adil Leghari , M. , Fung , G. , & King- stone , A .
+( 2008 ) .
+Attentional SNARC : There ’ s something special about numbers ( let us count the ways ) .
+Cognition , 108 , 810–818 .
+http : //dx.doi .org/10.1016/j.cognition.2008.04.006 Doyen , S. , Klein , O. , Pichon , C. L. , & Cleeremans , A .
+( 2012 ) .
+Behavioral priming : It ’ s all in the mind , but whose mind ?
+PLoS ONE , 7 , e29081 .
+http : //dx.doi.org/10.1371/journal.pone.0029081 Estes , Z. , Verges , M. , & Barsalou , L. W. ( 2008 ) .
+Head up , foot down : Object words orient attention to the objects ’ typical location .
+Psycho- logical Science , 19 , 93–97 .
+http : //dx.doi.org/10.1111/j.1467-9280.2008 .02051.x Faul , F. , Erdfelder , E. , Lang , A.-G. , & Buchner , A .
+( 2007 ) .
+GPower 3 : A flexible statistical power analysis program for the social , behavioral , and biomedical sciences .
+Behavior Research Methods , 39 , 175–191 .
+http : // dx.doi.org/10.3758/BF03193146 Fischer , M. H. , Castel , A. D. , Dodd , M. D. , & Pratt , J .
+( 2003 ) .
+Perceiving numbers causes spatial shifts of attention .
+Nature Neuroscience , 6 , 555–556 .
+http : //dx.doi.org/10.1038/nn1066 Goodhew , S. C. , McGaw , B. , & Kidd , E. ( 2014 ) .
+Why is the sunny side always up ?
+Explaining the spatial mapping of concepts by language use .
+Psychonomic Bulletin & Review , 21 , 1287–1293 .
+http : //dx.doi.org/10 .3758/s13423-014-0593-6 Gozli , D. G. , Chasteen , A. L. , & Pratt , J .
+( 2013 ) .
+The cost and benefit of implicit spatial cues for visual attention .
+Journal of Experimental Psy- chology : General , 142 , 1028–1046 .
+http : //dx.doi.org/10.1037/a0030362 Hoffman , L. ( 2014 ) .
+Longitudinal analysis : Modeling within-person fluc- tuation and change .
+New York , NY : Routledge Academic .
+Hommel , B. , Pratt , J. , Colzato , L. , & Godijn , R. ( 2001 ) .
+Symbolic control of visual attention .
+Psychological Science , 12 , 360–365 .
+http : //dx.doi .org/10.1111/1467-9280.00367 Lakoff , G. , & Johnson , M. ( 1980 ) .
+Metaphors we live by .
+Chicago , IL : University of Chicago Press .
+Lakoff , G. , & Johnson , M. ( 1999 ) .
+Philosophy in the flesh .
+New York , NY : Basic Books .
+Landau , M. J. , Meier , B. P. , & Keefer , L. A .
+( 2010 ) .
+A metaphor-enriched social cognition .
+Psychological Bulletin , 136 , 1045–1067 .
+http : //dx.doi .org/10.1037/a0020970 Louwerse , M. M. ( 2008 ) .
+Embodied relations are encoded in language .
+Psy- chonomic Bulletin & Review , 15 , 838–844 .
+http : //dx.doi.org/10.3758/PBR .15.4.838 Medler , D. A. , & Binder , J. R. ( 2005 ) .
+MCWord : An on-line orthographic database of the English language .
+Retrieved from http : //www.neuro .mcw.edu/mcword/ Meier , B. P. , Fetterman , A. K. , & Robinson , M. D. ( 2015 ) .
+Black and white as valence cues : A large-scale replication effort of Meier , Robinson , and Clore ( 2004 ) .
+Social Psychology , 46 , 174–178 .
+http : //dx.doi.org/10 .1027/1864-9335/a000236 Meier , B. P. , & Robinson , M. D. ( 2004 ) .
+Why the sunny side is up : Association between affect and vertical position .
+Psychological Science , 15 , 243–247 .
+http : //dx.doi.org/10.1111/j.0956-7976.2004.00659.x Mills , M. , Smith , K. B. , Hibbing , J. R. , & Dodd , M. D. ( 2015 ) .
+Obama cares about visuo-spatial attention : Perception of political figures moves attention and determines gaze direction .
+Behavioural Brain Research , 278 , 221–225 .
+http : //dx.doi.org/10.1016/j.bbr.2014.09.048 Rastle , K. , Harrington , J. , & Coltheart , M. ( 2002 ) .
+358,534 nonwords : The ARC nonword database .
+The Quarterly Journal of Experimental Psy- chology A : Human Experimental Psychology , 55 , 1339–1362 .
+http : //dx .doi.org/10.1080/02724980244000099 Singer , J. D. , & Willett , J .
+B .
+( 2003 ) .
+Applied longitudinal data analysis : Modeling change and event occurrence .
+New York , NY : Oxford Uni- versity Press .
+http : //dx.doi.org/10.1093/acprof : oso/9780195152968.001 .0001 Weger , U. W. , & Pratt , J .
+( 2008 ) .
+Time flies like an arrow : Space-time compatibility effects suggest the use of a mental timeline .
+Psychonomic Bulletin & Review , 15 , 426–430 .
+http : //dx.doi.org/10.3758/PBR.15.2 .426 T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+288 MILLS , BOYCHUK , CHASTEEN , AND PRATT Appendix A List of Conceptual Words Used in Experiments 1 and 2 Horizontal Vertical Left words Right words Up words Down words BAD BIG UP BED MR. END CAP RUG DUSK JR. GOD SAD LEFT OLD HAT ANTS MRS. SR .
+HOT BASE PAST DAWN JOY DARK TINY EAST SKY DEEP WEST EXIT TOP DOWN ZERO FAIR ATOP FISH BIRTH GOOD BIRD FOOT EARLY JUST EYES HELL ENTER LAST GLAD SEED FALSE LATE GROW TOES FIRST LIFE HEAD WEAK PRIOR NEXT HIGH BELOW SMALL OPEN LORD BOOTS START TRUE PEAK DEPTH WRONG AFTER ROOF DEVIL YOUNG DEATH STAR DRAIN ARRIVE DRIVE TREE EMPTY BEFORE GREAT ABOVE FLOOR CLOSED LARGE ANGEL FROWN CLUMSY LATER ATTIC ROOTS REJECT LEAVE CLOUD SATAN SIMPLE MORAL CROWN SHOES SUNSET OLDER HAPPY SOLES AWKWARD RIGHT JOLLY SOUTH DUBIOUS ACCEPT LIGHT TIRES EARLIER ATTEND NORTH UNDER LEFTIST BIGGER SMILE UPSET LIBERAL FUTURE TOWER BOTTOM NEGLECT LATEST COLLAR CARPET REVERSE BIGGEST HEAVEN CELLAR SMALLER COMPLEX JOYOUS GLOOMY WESTERN EASTERN LEAVES GROUND YOUNGER FORWARD STRONG HOOVES DEMOCRAT SUNRISE CEILING SHRINK EARLIEST FAIRNESS CHMINEY SORROW LEFTWARD POSITIVE CREATOR SUBWAY NEGATIVE PROGRESS PLEASED WHEELS PREVIOUS TOMMOROW STEEPLE FALLING SINISTER AFTERHAND ALMIGHTY LUCIFER SMALLEST CLOCKWISE CHEERFUL UNHAPPY TERRIBLE IMPORTANT DOMINANT BASEMENT BACKWARDS RIGHTWARD ELEVATED DEPRESSED COMMUNISM REPUBLICAN HIGHRISE SUBMARINE SOCIALISM SUBSEQUENT EVAPORATE UNPLEASED YESTERDAY APPROPRIATE EXCITEMENT MELANCHOLY BEFOREHAND TRADITIONAL HELICOPTER SUBMISSIVE ANTICLOCKWISE CONSERVATIVE SKYSCRAPER UNDERGROUND ( Appendices continue ) T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+289SHIFTING ATTENTION , LEXICAL DECISIONS Appendix B List of Non-Words Used in Experiment 1 Horizontal Vertical SKU MENGE BLEENED EK VAUGE KNAFED KIB GWETT SCOURTS KEL GNEEK CRUICE SKO GWILL GWUSQUE JUR WROUL CLOAMS ONG GNASP BROGGED NUP BLEAF FROUSE DWA WUILD SMOLFED CEB SILED BLOWNS URB RYPED GWUGGED NUD DULTS NEAVES OMP SHUBS SPLEIGNS ERV WUMPS TEIGNS PROG MENTS SCRASSED WUD COVED PSULTS ALLS SLAWN THWOURNS ZOF PLENT PSOOMS NEPH SHUSS SHRAMPED VOM DAWLS BRAWNED FOLS LALKS GAUNCHED ZAV CLOWS SHROUND YEMS RAMES PRUNCHED SMOO TWOOR SPAGUED WOBS PLOOST THWEALED ROUN BROUT MOOTHED ZAMN DWERBS NAUNCHED PSAB CLETT WHARMED PABE YEERED GNERCHED PEUM JEBBS TERB LUNK RHOPSE DWINCHED MAFT KIRTH SHRALTS SKOD MEEVED GREETHED PUNG PHUMF SPLOONS NOMB HOLLED THREPPED TULP CLIFE SKEAGUED VAZE SWIEGE THAUNCHED CUNK MERKS PHLARLED POUL HARMTH SPLERCHED YABS KNUSH STRILMED SPLY KNYMES SCROOTHED PRAP SMOOF SCRILLED BAMS DONKED SHRITCHED SNAB PASKS DWEAGUES NAMS BOATHE PHRANCHED WOBE RULLS SPRIMPED DINC STERKS PHREACHED PERB MOAMS KNAUNCHED VOED KNARGED SCRORCHED BRAM RIKES THROURSED GUKE STRORTS FREIGHTHS KUGS DWIPE GHEIGHTHS WOUTS PHLAINT THRAUNCHED FUMS GHYPT SHRILCHED NOIDS CLOOVED STRAUNCHED TWED DRIKES SHRAUNCHED SPONK SWEILED THREIGHTHS JUMB KIMPED PHREIGHTHS VIQUE FLURVES BREIGHNDGED TADS GNEGGS SHREIGHTHS GNULB WOOCHED SCKREIGHTHS LYPE PRAWLS STREIGHTHS PLISK BLOULED GHLOUGHPHTHS YOND THREWS SCKRAUNCHED SMIME PHLUNCH SCKREIGHNDGED GUDE FRENES SPROARPHTHS HOOTH PEEF ( Appendices continue ) T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+290 MILLS , BOYCHUK , CHASTEEN , AND PRATT Appendix C List of Dutch Words Used in Experiment 2 Horizontal Vertical DAK LOPEN BEWEGEN NA KWAAD ZONDER HUN KOPEN BETALEN MOE NAAST HUIDIG ALS HOREN GROEIEN VAN BOVEN LEKKER DUS WETEN BLIJVEN BIJ ONDER SCHOON DOEN LEREN ZWANGER WIT TEGEN LELIJK OOIT LEZEN VANDAAG DIK ANDER DONKER SOMS HALEN GEDRAGEN DUN BETER ORANJE MEER LENEN GENIETEN DOM ENIGE GELIJK DOOD KUNNEN VERKOPEN LUI VROEG ZELFDE MIJN VOELEN SCHIJNEN NOG JUIST VROLIJK HAAR VOLGEN GOEDKOOP ERG KLAAR VERRAST ZIJN HOUDEN VOLGENDE BOOS GROOT BENEDEN GEEN KENNEN ALGEMEEN BLIJ KLEIN BEROEMD VAAK VINDEN VERGETEN NAAR LICHT EENZAAM VLAK WILLEN GEBEUREN ROND ZWAAR KRIJGEN TAAI HEBBEN BEDOELEN KORT ZACHT SPREKEN ZWAK WORDEN PROBEREN LANG GROEN WACHTEN OOST VRAGEN UITGEVEN LAAT BLAUW VERVELEN ZUID KIJKEN GEBRUIKEN VRIJ PAARS ONRUSTIG GAAN PRATEN VERTELLEN ECHT ZWART OPGEWEKT ETEN ZEGGEN ONTMOETEN LEEG GRIJS TEVREDEN ZIEN DENKEN AANBIEDEN VIES BRUIN MOGELIJK LATEN WERKEN LUISTEREN MOOI BREED VERKEERD MAKEN BELLEN SCHRIJVEN SAAI BEIDE VERVELEND NEMEN REGENEN BESLISSEN RIJK RECHT DUIDELIJK KOMEN HAGELEN VERLIEZEN SNEL DROOG MAKKELIJK GEVEN BEWOLKT VERTREKKEN KOUD STERK BIJZONDER HATEN VRIEZEN VERWACHTEN DUUR AARDIG CHAGRIJNIG DELEN DRAAIEN HERINNEREN HOOG ZIELIG VERDRIETIG NIETS GELOVEN ONDUIDELIJK ROOD ACHTER ONGEDULDIG ALLES BRENGEN VOORZICHTIG GEEL TUSSEN BELANGRIJK BIJNA SLUITEN GEBRUIKELIJK ROZE BINNEN ANTWOORDEN MEEST SNIJDEN TELEURGESTELD PLAT BUITEN BESCHIKBAAR NOORD DRUK Received April 21 , 2017 Revision received October 17 , 2017 Accepted October 17 , 2017 T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+291SHIFTING ATTENTION , LEXICAL DECISIONS

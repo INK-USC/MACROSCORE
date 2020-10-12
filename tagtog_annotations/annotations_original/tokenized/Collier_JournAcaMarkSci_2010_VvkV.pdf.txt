@@ -1,0 +1,842 @@
+Collier_JournAcaMarkSci_2010_VvkV.pdf
+aGvnTRWTwecVts6yh_BrNJhkuAXu-Collier_JournAcaMarkSci_2010_VvkV.pdf.plain.html
+
+ORIGINAL EMPIRICAL RESEARCH Examining the influence of control and convenience in a self-service setting Joel E. Collier & Daniel L. Sherrell Received : 22 August 2008 /Accepted : 20 October 2009 /Published online : 10 November 2009 # Academy of Marketing Science 2009 Abstract The constructs of perceived control and conve- nience have been identified in previous qualitative studies of self-service technology ( SST ) use as important factors ; yet empirically their effects are relatively unknown .
+Based on the theory of planned behavior , this study explores how control and convenience perceptions influence customers ’ utilitarian ( speed of transaction ) and hedonic ( exploration ) motivations for using an SST .
+In addition , we explore how trust in a service provider influences customers ’ future SST intentions .
+Two studies were undertaken to assess both users and nonusers ’ evaluations of an SST .
+The results revealed that perceived control and convenience do impact the intentions of customers to use an SST in the future ; however , their impact was mediated through the constructs of speed of transaction , exploration , and trust .
+Increased control and convenience perceptions influenced explora- tion , trust and speed evaluations , which in turn were associated with stronger perceived value , higher SST satisfaction judgments , and increased SST usage intentions .
+Managerial implications stemming from the empirical findings are discussed along with directions for future research .
+Keywords Self-service technology .
+Control .
+Trust .
+Convenience .
+Exploration With the popularity of self-service applications increasing , more service providers are now looking to leverage one of their most important assets , the customer , in the delivery of a service .
+The potential benefits from utilizing a self-service technology ( SST ) have encouraged providers to move contact with customers to technology-based encounters in order to increase efficiency , lower costs , and add consis- tency to service delivery ( Berry 1999 ; Dabholkar 1996 ) .
+One of the primary advantages for customers ’ taking on a co-production role in a service experience is the idea of control .
+Through use of a well-designed SST , customers can dictate the pace of the transaction , the level of desired interactivity , and ultimately the outcome of the service .
+The paradox of a self-service experience is that this potential strength can also be one of the key weaknesses in self- service adoption .
+With retailers often implementing SSTs where the customer is expected to search through the technology with no formal instruction and little to no employee support , customers can often feel a lack of control , where the technology instead of the customer is leading the service experience .
+This lack of control has not only frustrated customers but ultimately discouraged further self-service transactions ( Dabholkar et al .
+2003 ) .
+Since the earliest qualitative studies on self-service , the idea of control has been frequently mentioned as an important factor in adoption ( Bateson 1985 ; Langeard et al .
+1981 ) .
+Previous research has shown that perceived control ultimately influences customers ’ overall evaluations about an SST ( Dabholkar 1996 ) , but outside of this direct linkage we know very little about the influence of this J. E. Collier ( * ) Department of Marketing , Quantitative Analysis , and Business Law , College of Business , Mississippi State University , P.O .
+Box 9582 , Mississippi , MS 39762 , USA e-mail : jcollier @ cobilan.msstate.edu D. L. Sherrell Department of Marketing & Supply Chain Mgmt. , Fogelman College of Business , University of Memphis , Memphis , TN 38152 , USA e-mail : dsherrll @ memphis.edu J. of the Acad .
+Mark .
+Sci .
+( 2010 ) 38:490–509 DOI 10.1007/s11747-009-0179-4 construct .
+Specifically , does perceived control have a stronger influence on other SST-related constructs rather than overall intentions ?
+Along with perceived control , convenience is another construct that emphasizes the customer ’ s ability to dictate the service experience .
+With customers choosing when and where an SST transaction can take place , convenience can play a crucial role on whether a customer uses a full or a self-service option .
+While perceived control deals with customers ’ ability to specify the details of an SST interaction ( such as pace of the interaction or nature of the information flow ) , convenience concerns the customer ’ s ability to find and facilitate an SST transaction with the least amount of time and effort .
+To date , no self-service study has examined how convenience influences customers ’ decisions about intentions to use an SST .
+With customers using SSTs to overcome the perceived time and location constraints of a full service offering , the convenience of the technology can be the deciding factor on which service channel to use .
+With service providers ceding power to customers when they take on a co-production role , both convenience and perceived control are essential concepts in the successful implementation of self-service technology .
+Surprisingly , empirical research with these two constructs is sparse and provides a vague picture on their impact of SST use .
+In order to address this under-researched area , this article explores the influence of control and convenience with both users and nonusers of a self-service technology .
+Drawing from prior research and using the theory of planned behavior , the authors conceptualize and test an empirical model examining the influence of control and convenience on three important constructs in SST use .
+The first construct encompasses the utilitarian benefits of using a self-service technology : speed of transaction ( i.e. , the ability to save time in an SST service encounter relative to the full-service alternative ) .
+The perceived speed of an SST transaction has been frequently mentioned in qualitative studies as a driver of satisfaction ( Howard and Worboys 2003 ) .
+To address the hedonic component of a self-service transaction , the construct of exploration is examined .
+Unless SST users can be motivated to investigate the available information and decision options that are typically provided by an SST , the full benefits of using an SST may not be appreciated by customers , potentially reducing the chances of their continued use .
+Lastly , previous research has emphasized the importance of trust with service providers in customers ’ continued patronage behavior ( e.g. , Ha and Stoel 2009 ) .
+However , in a self-service context where the buyer and seller are separated during the transaction , we still know very little about how trust influences a customer ’ s decision to use an SST .
+By examining these constructs and their role in SST patronage decisions , managerial under- standing of how control and convenience influence a self- service transaction will be strengthened .
+Thus , the purpose of this research is to explore and explain the importance of convenience and control and their relationships with the influential components of an SST experience .
+In order to explore these relationships , a survey was conducted with patrons of a national entertainment company serving three southeastern states in the U.S .
+Responses from two samples , users and nonusers , were collected to examine the influence of perceived control and convenience in the proposed model .
+Before detailing the results of both studies , the authors first present a brief discussion on the theoretical justification of our conceptualization along with a literature review of the relevant constructs .
+Next , the empirical results of the studies are presented , followed by a discussion of the managerial implications and future research directions .
+Theory of planned behavior The theory of planned behavior ( TPB ) is an extension of the widely accepted theory of reasoned action ( Ajzen 1985 ) .
+TPB builds on existing attitudinal theories by proposing that perceived behavioral control is a necessary antecedent to the prediction of intentions and behavior .
+Ajzen ’ s TPB was formulated to address situations where the successful performance of a behavior is not totally under the individual ’ s control ( non-volitional behavior ) .
+Ajzen ( 1991 ) added perceived behavioral control as a predictor of intentions to accompany Attitude Toward the Behavior and Subjective Norm as antecedent constructs .
+Perceived behavioral control is conceptualized as a function of an individual ’ s perceived ability to perform a behavior of interest .
+In conjunction with control , Triandis ( 1979 ) states that when an individual has less than complete control over a behavior , one must account for “ facilitating conditions ” .
+These conditions , also labeled as situational factors by Bobbitt and Dabholkar ( 2001 ) , refer to the availability of resources needed to engage in a behavior .
+These resources include factors such as time availability , accessibility of the technology , presence or absence of crowds , financial payment options , and other specialized resources needed to facilitate a behavior ( Bobbitt and Dabholkar 2001 ) .
+One could make the argument that all of these facilitating conditions are encompassed by the idea of convenience .
+While perceived control directly influences the ability to specify the nature of the customer ’ s interaction with the technology , convenience accounts for the necessary resources to access or enhance the benefits derived from the transaction .
+Using these two constructs , the authors examine how control and convenience influence motivational factors ( speed of transaction , trust , and exploration ) , consumer J. of the Acad .
+Mark .
+Sci .
+( 2010 ) 38:490–509 491 attitudes , and SST intentions .
+Instead of only examining the direct influence of control and convenience on intentions , we explore how these constructs impact customers ’ motivations for using an SST , which in turn impact attitudes of perceived value and satisfaction , along with SST intentions .
+Previous research on the theory of planned behavior has shown a weak relationship between perceived control and customer intentions , noting that control in itself does not drive intentions without the variables that create a desire to engage in the behavior ( Eagly and Chaiken 1993 ) .
+For example , a customer may feel the ability and have the opportunity to shoplift from a retailer , but that does not mean he or she will do so .
+Control and convenience are the starting points that influence other SST variables in determining future intentions to use an SST .
+Before examining the relationships of control and convenience , a review of the existing research on these constructs from a self-service perspective is warranted .
+Perceived control Perceived control from a self-service perspective is defined as a belief in one ’ s ability to command and exert power over the process and outcome of a self-service encounter .
+With self-service technology , perceived control refers to the ability to dictate the pace of the transaction , the nature of the information flow , and the level of interactivity .
+Addition- ally , perceived control also relates to customers ’ ability to determine the handling , packaging , and , ultimately , the outcome of the service experience .
+With appropriately designed self-service technology , customers should have the ability to determine/customize the service offering instead of accepting a standardized performance .
+This aspect of control lets the customer tailor the service offering to match their ability , needs , and desires for the service outcome .
+Numerous studies have included perceived control as a necessary dimension of “ interactivity ” between humans and technology ( Bezjian-Avery et al .
+1998 ; Guedj et al .
+1980 ; Lombard and Snyder-Dutch 2001 ) .
+Specifically , Jensen ( 1998 ) stated that interactivity is “ a measure of a media ’ s potential ability to let the user exert an influence on the content and/or form of the mediated communication ” ( p. 201 ) .
+In Korgaonkar and Wolin ’ s ( 1999 ) online study , the authors found that customers ’ need for control was one of the biggest motivators of web usage .
+Early research on self-service , such as Langeard et al .
+( 1981 ) and Bateson ( 1985 ) , surveyed self-service customers and found they preferred options that favored efficiency and increased control .
+Bateson ( 1985 ) found that control was an important factor to users of self-service technology , even when monetary incentives were absent .
+More recently , two qualita- tive studies profiling self-service users identified perceived control as one of the discriminating factors between users and nonusers ( Howard and Worboys 2003 ; Walker et al .
+2002 ) .
+Empirically , perceived control has shown a relationship with customers ’ overall evaluation of a self-service technol- ogy .
+Initial studies found that customers ’ perceived control influenced self-service quality evaluations ( Dabholkar 1996 ; Dabholkar et al .
+2003 ) and lowered risk perceptions ( Lee and Allaway 2002 ) .
+More recently , Zhu et al .
+( 2007 ) found that enhancing interactivity and providing comparative information in an SST influenced users ’ feelings of control .
+From these studies , it ’ s clear that customers are concerned with the idea of control when they are asked to take on more responsibilities for the completion of a transaction .
+However , to date , SST research has provided little insight into how perceived control influences customers beyond their overall evaluation of self-service technology .
+Convenience The construct of convenience has primarily been researched from a full service perspective .
+Previous conceptualizations have focused on the interaction between employees and customers in regards to time and effort requirements .
+With self-service technology , the dynamics of the service experi- ence change , and previous ideas on convenience are not as directly applicable .
+In Brown ’ s ( 1990 ) initial conceptualiza- tion of service convenience , he argued convenience was a continuum ranging from having someone perform the service for you ( totally convenient ) to doing the service yourself ( totally inconvenient ) .
+In a self-service context , this idea of convenience is reversed .
+As perceived SST conve- nience increases , customers will be more likely to perform the service themselves , whereas a heightened level of SST inconvenience will push customers to use a full service method .
+Convenience in a self-service perspective can be defined as the perceived time and effort required in finding and facilitating the use of a self-service technology .
+With customers performing a service apart from employee involvement , convenience entails the situational dimensions that can aid customers in the initiation and completion of a transaction .
+Similar to Berry et al. ’ s ( 2002 ) conceptualiza- tion of access convenience , customers ’ SST effort percep- tions are influenced by the physical location , operating hours , and overall availability of the SST .
+These situational conditions surrounding an SST can determine the perceived ease in facilitating a transaction .
+In a self-service experi- ence , convenience is the ability to reduce the physical and sometimes cognitive effort to initiate a transaction indepen- dent of employee involvement .
+As stated in the discussion of TPB , when a customer does not have complete control over a behavior , situational factors or convenience perceptions can influence an individual ’ s 492 J. of the Acad .
+Mark .
+Sci .
+( 2010 ) 38:490–509 decision making .
+With SSTs , service providers will regularly provide more convenience benefits to customers to compen- sate for the loss of employee interaction .
+Thus , customers are often given the ability to dictate when and where a self-service transaction will take place through the use of SSTs placed at satellite locations or 24/7 operating hours , or the use of the Internet to provide similar time and location flexibility .
+Numerous qualitative studies on self-service technology have frequently mentioned convenience type reasons for customer satisfaction .
+Meuter et al .
+( 2000 ) mentioned that satisfaction from using the technology was determined by “ when I want ” and “ where I want ” considerations ( p. 55 ) .
+Similarly , Pujari ( 2004 ) found that the accessibility of information on the customer ’ s timetable was highly valued .
+In a study profiling self-service users , Durkin ( 2004 ) used customers ’ perceived convenience as a discriminating factor .
+Surprisingly , the empirical examination of this frequently mentioned construct is absent .
+To date , no study has explored the influence of convenience or how it impacts customers ’ evaluations of a self-service technology .
+In order to explore the impact of convenience , the authors analyze how the facilitating conditions of time and location accessibility influence customers ’ evaluation of a self-service experience .
+The underlying theme of conve- nience with a self-service transaction is the ability of the customer to choose when and where the transaction will take place .
+Subsequently , we examine how these compo- nents of convenience determine the benefits of using a self- service technology .
+Conceptual framework and hypotheses To understand how control and convenience influence SST decisions , the authors examined how different motivations for SST use are affected by these constructs .
+To explore the utilitarian-based benefits of using an SST , speed of transaction was chosen .
+The perceived speed of a self- service transaction has been identified as one of the primary reasons why customers are willing to take on a heavier role in a service experience ( Meuter et al .
+2000 ) .
+The benefit of a quicker transaction has also been noted as a reason customers prefer to interact with technology rather than an employee ( Durkin 2004 ) .
+To address the hedonic or enjoyment benefit of an SST , the construct of exploration was examined .
+With SSTs typically having numerous applications , menus , and search functions , customers ’ willingness to explore the technology is necessary for retailers to obtain the full benefits from implementing an SST as well as for customers to derive the maximum value from a self-service experience .
+Service providers who have constantly changing product and price information need customers to actively search out and explore updated content .
+Hence , we examine how customers ’ percep- tions of control and convenience influence an individual ’ s desire to explore the features of a self-service technology .
+Trust is another concept that takes on an important role with a self-service transaction .
+With customers executing a transaction apart from employee involvement , trust in the company takes on an influential role in SST evaluations .
+Customers must trust that the company will accurately process and complete SST transactions and not misuse their information .
+As customers gain more control and acknowl- edge the convenience of an SST , the trust in a service provider should be influenced .
+In order to examine how these variables impact the overall evaluation of a self-service experience , three com- monly included outcome constructs in service decision making were incorporated in our conceptual model : satisfac- tion , perceived value , and behavioral intentions .
+Understand- ing how constructs such as speed , exploration , and trust influence customers ’ satisfaction , value evaluations , and overall intentions provides a complete picture of how convenience and control ’ s effect can be mediated through other constructs .
+Figure 1 details our conceptualization along with the hypothesized relationships between the proposed constructs .
+Next , a brief discussion will be provided on the importance of these potential mediating constructs and why they were chosen for our study .
+Speed of transaction Speed of transaction in a self-service experience is defined as the time it takes to actively complete a transaction via a self-service technology ( Dabholkar 1996 ) .
+Lovelock and Young ( 1979 ) noted that some customers prefer a self- service experience simply because of the reduced time in the service delivery compared to the full-service alternative .
+Meuter et al .
+( 2000 ) noted that “ saved time ” was a prominent reason given by respondents for a satisfying self-service experience .
+Howard and Worboys ’ s ( 2003 ) qualitative study classified some self-service users as “ functionals ” who valued speed and who ultimately wanted the fastest result with the least amount of interpersonal contact .
+Though numerous qualitative studies have mentioned this as an important component for SST use , empirical research with this construct has found little support for its relationship to behavioral intentions .
+Currently , we still know very little about how and why speed of transaction is important in a self-service experience .
+One area that has not been explored is how control and convenience influence customers ’ perceptions of time required to complete a transaction .
+When customers under- stand their role and learn what actions need to be performed with the use of an SST , the time it takes to actively perform the service will be reduced .
+Customers who lack a sense J. of the Acad .
+Mark .
+Sci .
+( 2010 ) 38:490–509 493 of control in a self-service transaction will require more reassurance and/or assistance from employees and even other customers , which can lengthen the transaction and lower speed perceptions .
+Customers who feel in control of the self- service process can quickly move through menu options and more efficiently direct the transaction compared to others whose lack of control can slow down the process in order to verify the correct steps needed to complete the transaction .
+H1 : A customer ’ s control perceptions will have a positive relationship with the speed of transaction evaluations of a self-service experience .
+One of the crucial components that directly influence customers ’ perception of speed is the convenience of the SST .
+If a self-service technology is located in an environ- ment that is crowded or prevents the customer from fully interacting with the technology , these factors can greatly reduce the speed of the transaction because of the cognitive load around the technology .
+Additionally , when customers can overcome time and location constraints through the flexibility provided by the SST ( e.g. , in-home availability or 24/7 SST access ) , the convenience of the technology can reduce travel time or allow the transaction to be initiated in an off-peak time , hence , creating a quicker transaction .
+By reducing the time and effort in finding and facilitating a service transaction , the perceived convenience of a self- service technology will result in a faster transaction for the customer .
+H2 : A customer ’ s convenience perceptions will have a positive relationship with the speed of transaction evaluations of a self-service experience .
+Exploration The construct of exploration is defined as the tendency to interact spontaneously with self-service technology to browse and obtain consumption-relevant knowledge .
+This construct has been studied in numerous contexts including shopping ( Babin et al .
+1994 ) , variety seeking ( Kahn 1995 ) , and sales promotion ( Chandon et al .
+2000 ) , suggesting that exploration is an important concept in retailing environ- ments .
+From an online perspective , exploration has also been associated with the term playfulness ( Venkatesh 2000 ) or the enjoyment and cognitive absorption of an online experience .
+For a self-service technology to be successfully imple- mented in a retail operation , customers must be willing to explore different screens and options in order to find new and updated information on products .
+Often , no formal instructions are given to customers on how to use an SST .
+Customers may be expected to explore and discover the functions of the technology on their own .
+If customers are unwilling or unable to explore and discover new informa- tion or options , then a retailer is severely limited in providing a beneficial self-service experience .
+Similarly , if users or potential users do not believe that they can easily fix an error or find their way back to a starting point , then a customer ’ s exploration is likely to be considerably limited , thus restricting use to the most basic functions of the technology .
+As customers gain more control over an SST , the ability to dictate information flow and interactivity will enhance customers ’ confidence to explore different func- tions of the technology .
+The ability to control the service process will encourage customers to customize their experience by exploring the information and options that best match their needs .
+H3 : A customer ’ s control perceptions will have a positive relationship with the exploration motivation associated with a self-service transaction .
+The perceived convenience of a self-service technology will directly influence customers ’ likelihood of exploration .
+Since the earliest studies on convenience , customers have Perceived Control Exploration Trust in Service Provider Speed of Transaction Perceived Convenience Perceived Value Satisfaction Intentions to use SST H1 H2 H3 H4 H5 H6 H7 H8 H9 H10 H11 H12 H13 H14 H16 H15 H17 Figure 1 Conceptual framework for users of SST .
+494 J. of the Acad .
+Mark .
+Sci .
+( 2010 ) 38:490–509 noted that a convenient location of a retailer will lead to exploration and comparison shopping ( Gehrt and Yale 1993 ) .
+Additionally , previous research in information technology has suggested that the convenience of a technology will increase customer playfulness or the willingness for exploration ( Ahn et al .
+2007 ) .
+With SSTs located in an inconvenient location , customers will focus more on simply completing the transaction rather than investigating the numerous options of the technology .
+When customers are allowed to enact a transaction at their convenience , the desired time and location provides a more conducive environment for customers to explore the features offered by the technology .
+The convenience of a self-service technology allows customers to search and explore at a level that is compatible with their skill level .
+As well , the convenience of an SST can reduce time pressure to match the retailer ’ s hours of operation , which can encour- age customers to further explore the options and menus without the implied pressure to complete a transaction as fast as possible .
+Thus : H4 : A customer ’ s convenience perceptions will have a positive relationship with the exploration motivation associated with a self-service transaction .
+Trust Trust in a self-service context is a customer ’ s willingness to become vulnerable with a self-service technology after taking the retailer ’ s characteristics into consideration ( Pavlou 2003 ) .
+With a self-service experience , the idea of trust is conceptually different than a traditional service transaction due to the separation of the buyer and seller along with a lack of feedback and learning that may be available from interpersonal interactions ( Mukherjee and Nath 2007 ; Yoon 2002 ) .
+Egger ( 2000 ) noted that a lack of trust can be a psychological barrier that prevents customers from using an e-commerce method for a retail transaction .
+With customers performing a service without employee involvement , evaluations of risk and uncertainty can be increased , leading to more apprehension of using a self- service technology ( Pavlou 2003 ) .
+One of the most effective tools in reducing this risk is the trust customers place in the service provider .
+Customers ’ trust of a service provider can reduce uncertainty and promote a sense of safety with a transaction .
+Previous research has noted that trust can play a pivotal role in customers ’ intentions and behaviors to use a technology to facilitate a transaction ( Ha and Stoel 2009 ) .
+The customer ’ s perceived control in a self-service transac- tion can have a tremendous influence on the evaluation of trust .
+Customers who have little experience with technology will often use performance measures such as navigation and perceived control to determine their level of trust ( Lee and Turban 2001 ) .
+In a study of 25 different websites , Bart et al .
+( 2005 ) found that website characteristics related to perceived control ( navigation and advice giving ) along with brand strength had a greater influence on online trust than concerns about privacy and security .
+Additionally , Eastlick et al .
+( 2006 ) noted that perceived control was extremely influential to online trust in settings where personal information was required of a customer .
+As service providers try to transfer the existing trust built with customers from an offline context to an online or self- service context , the amount of control the customer has in the transaction will further enhance trust perceptions .
+With the buyer and seller physically separated during a self- service experience , customers ’ trust in a service provider will be directly influenced by their perceived control during the transaction .
+H5 : A customer ’ s control perceptions will have a positive relationship with the trust placed in a service provider .
+The perceived convenience of a self-service transaction should be positively associated with customers ’ evaluation of trust .
+With customers having to exert less effort because of the convenience of a self-service application , the trust placed in an SST provider should be heightened .
+By giving customers more options on when and where to enact a transaction , a service provider will signal the credibility and quality of their offering , which directly influence trust perceptions ( Yang et al .
+2006 ) .
+As stated in the theory of planned behavior , the convenience or situational factors of an SST experience will influence the variables that encourage customers to engage in a self-service transaction .
+When customers perceive the convenience in finding and facilitating a self-service transaction , the ease of initiating a transaction can reduce some of the potential risks ( social or financial ) , subsequently influencing the trust placed in a service provider .
+H6 : A customer ’ s convenience perceptions will have a positive relationship with the trust placed in a service provider .
+Perceived value The concept of perceived value in an online or a self- service context directly relates to the benefits that are derived from using a self-service technology .
+Zeithaml ( 1988 ) defines perceived value as the customer ’ s overall assessment of the utility of a product based on perceptions of what is received and what is given .
+Numerous researchers have identified perceived value as one of the critical factors in a customer ’ s decision making process ( Baker et al .
+2002 ; Parasuraman and Grewal 2000 ; Rust and Oliver 1994 ) .
+J. of the Acad .
+Mark .
+Sci .
+( 2010 ) 38:490–509 495 With many customers , the amount of time it takes to complete a transaction has a crucial impact on the value of a specific channel option .
+Indeed , some customers prefer not to interact with employees in order to increase the speed of the transaction ( Lovelock and Young 1979 ) .
+In this situation , the perceived speed of the transaction is what drives the determination of value .
+Additionally , if an SST has a very utilitarian function , such as paying bills , the speed of the transaction is likely to be strongly associated with increases in perceived value .
+H7 : A customer ’ s speed of transaction evaluation will have a positive relationship with the perceived value of a self-service experience .
+Kerin et al .
+( 1992 ) found that a customer ’ s exploration and shopping experience had a stronger impact on value perceptions than did price or product quality .
+Lovelock ( 2001 ) argued that value is also associated with non- monetary costs such as time , physical effort , and mental effort .
+As customers become more familiar with a tech- nology and are willing to browse and explore through different screens or options , the value of the service experience will be increased because customers are taking full advantage of all the possibilities of the technology .
+The exploration of an SST can enhance both the intrinsic and the extrinsic value of a transaction by satisfying customers ’ desires for novelty seeking or acquisition of consumption related information .
+In addition , the increased information derived from exploration should allow the customer to more precisely match the outcome of the service transaction to their needs .
+Use of SST options discovered through exploration should enable the user to specify customized outcomes , thus enhancing perceptions of value .
+H8 : A customer ’ s exploration with a self-service tech- nology will have a positive relationship with the perceived value of a self-service experience .
+In an online context , the trust-value relationship has been found in respondent evaluations of retail websites , travel websites , and even PC banking ( Harris and Goode 2004 ; Johnson 2007 ) .
+Each of these examples supports the idea that as customers come to trust the retailer of a technology they are more likely to recognize the value in a firm ’ s service offering .
+H9 : A customer ’ s evaluation of trust in a service provider will have a positive relationship with the perceived value of a self-service experience .
+Satisfaction Previous research has noted that as customers experience more benefits or value in a service , their satisfaction increases ( Eggert and Ulaga 2002 ; Tam 2004 ) .
+Consequently , we expect to find a positive relationship between respondents ’ perceptions of value from using an SST and their satisfaction with the experience .
+As customers receive more benefits in comparison to effort , satisfaction with a self-service tech- nology will increase .
+H10 : A customer ’ s perceived value from a self-service transaction will have a positive relationship with the satisfaction from a self-service experience .
+Customers are actively looking for ways to cut down the time it takes to complete a transaction and increase the efficiency of utilitarian based tasks .
+The perceived speed to complete the task will directly influence a customer ’ s satisfaction level after taking on the added effort of self- service .
+As customers acknowledge the speed of an SST transaction , this should lead to a more satisfying experience by exceeding the expectations of the perceived time to complete a transaction .
+H11 : A customer ’ s speed of transaction evaluation will have a positive relationship with the satisfaction from a self-service experience .
+By fully discovering the numerous options and features of an SST , customers can enjoy the complete benefits of the technology , thus , increasing customer satisfaction .
+The exploration of an SST can promote variety seeking and create an enjoyable experience regardless of an actual transaction .
+Customers value the ability to seek out and find novel information , as well as the potential to customize the results of the service encounter with the SST .
+Consequently , satisfaction levels will increase as customers discover increased capability to customize their experience .
+Explo- ration of a self-service technology allows customers to maximize the service experience , leading to greater enjoy- ment and satisfaction .
+H12 : A customer ’ s exploration with a self-service tech- nology will have a positive relationship with the satisfaction from a self-service experience .
+The idea that trust drives a customer ’ s satisfaction evaluation in an online context has found ample support ( Harris and Goode 2004 ; Lee et al .
+2007 ; Lee and Lin 2005 ; Yoon 2002 ) .
+With self-service technology , where the buyer and seller are separated during the transaction , the concept of trust takes on a stronger role in the customer ’ s confidence in a satisfactory self-service transaction .
+If a retailer can foster perceptions of trust to accurately and efficiently handle a customer ’ s transaction , then the customer ’ s satisfaction with the self-service transaction will increase because a successful SST transaction will help validate their judgments of trust in the provider .
+As customers are more willing to put their faith in a service provider , the firm ’ s ability to meet expectations 496 J. of the Acad .
+Mark .
+Sci .
+( 2010 ) 38:490–509 should become greater , creating more satisfaction from the self-service experience .
+H13 : A customer ’ s evaluation of trust in a service provider will have a positive relationship with the satisfaction from a self-service experience .
+Intentions to use SSTs Cronin et al .
+( 2000 ) found support for a model in which perceived service value and service satisfaction had direct effects on service usage intentions .
+We expand that applica- tion by proposing those linkages in our model and adding perceived control and convenience as additional , relevant factors in a self-service technology setting .
+Previous research has found a relationship between perceived control and behavioral intentions ( Taylor and Todd 1995 ) .
+From an online perspective , Lee and Allaway ( 2002 ) showed that higher perceptions of predictability , controllability , and outcome desirability ( defined as per- ceived control dimensions ) had a significant positive rela- tionship with intentions to use a shopping service .
+Pavlou and Fygenson ( 2006 ) found a direct relationship between perceived control and online purchase intentions .
+In addition to testing perceived control ’ s influence on speed , explora- tion , and trust , we propose a direct relationship between perceived control and intentions .
+By examining this rela- tionship , we can determine where perceived control has the greatest relative influence .
+Along with perceived control , the convenience of a self- service transaction will influence customers ’ intentions to use the technology .
+As customers overcome time pressures and location constraints , the desirability of the technology will be increased , ultimately influencing the intentions to use an SST .
+The ease in finding and facilitating the use of an SSTwill encourage customers to take on a co-production role and perform a self-service transaction .
+Lastly , the higher the perceptions of value delivered by an SST , the stronger the customer ’ s intentions should be to use the technology .
+Likewise , as satisfaction with a self- service experience increases , customers will reinforce this positive experience by forming an intention to continue to use the SST .
+For example , Collier and Bienstock ( 2006 ) in their study of the dimensions of e-service quality found a direct relationship between satisfaction and behavioral intentions .
+Consequently , we propose that perceived value and satisfaction should have positive relationships with behavioral intentions to use an SST .
+H14 : A customer ’ s perceived control will have a positive relationship with the intentions to use an SST in the future .
+H15 : A customer ’ s convenience perceptions will have a positive relationship with intentions to use an SST in the future .
+H16 : A customer ’ s perceived value with a self-service technology will have a positive relationship with the intentions to use an SST in the future .
+H17 : A customer ’ s satisfaction from a self-service expe- rience will have a positive relationship with the intentions to use an SST in the future .
+Research methodology Study 1 In order to test our conceptual model , we developed a survey consisting of 30 items .
+The measures for each construct were adapted from existing research , with the wording of each item slightly changed to apply to the specific self-service technology of this study .
+Measures for the constructs of perceived control and speed of transaction were adapted from the research of Dabholkar ( 1996 ) , Yen and Gwinner ( 2003 ) , and Zhu ( 2002 ) .
+Convenience , trust , and exploration scales were adapted from Baumgartner and Steenkamp ( 1996 ) , Chandon et al .
+( 2000 ) , Childers et al .
+( 2001 ) , and Gefen et al .
+( 2003 ) .
+The remaining constructs ’ measures were adapted from Oliver and Swan ( 1989 ) , Tax et al .
+( 1998 ) , Mathwick ( 2002 ) , and Sweeney et al .
+( 1999 ) .
+Our selection of items from these constructs was based on the ability to apply them to the context of this study with as little alteration as possible .
+With the exception of Intentions to Use an SST , the responses to all other construct items were measured on a seven point Likert scale with 1 equaling strongly disagree and 7 strongly agree .
+Responses for Intentions to Use an SST were measured on a five point semantic differential scale with 1equaling strongly disagree and 5 strongly agree .
+The different format of scale items for the SST intentions measure was designed to encourage a psychological break in the survey in order for respondents to think more cognitively about their future behavioral intentions rather than processing scale items in an automatic manner .
+This construct specifically asked respondents their likelihood of using the SST on their next visit .
+Before testing the model , the authors decided to utilize a control variable : technical anxiety .
+Technical anxiety is the fear that customers feel when considering or actually using an SST ( Cambre and Cook 1985 ) .
+Kruglanski and Freund ( 1983 ) noted that technical anxiety causes cognitive inter- ference and prevents customers from processing information thoroughly , thus slowing down the evaluation process .
+J. of the Acad .
+Mark .
+Sci .
+( 2010 ) 38:490–509 497 Additionally , Doronina ( 1995 ) argued that customers with high technical anxiety look to reduce the amount of time spent using computers .
+By controlling for technical anxiety with the dependent variables of speed of transaction , exploration , trust , and intentions , a more accurate represen- tation should be presented on the influence of control and convenience in a self-service setting .
+Technical anxiety was operationalized as the anxiety that customers feel in using the SST of this study , not the overall anxiety of using technology in general .
+The scale items for technical anxiety were adapted from Meuter et al .
+( 2003 ) .
+Study setting For Study 1 , a national entertainment company that special- izes in providing movies , sports , and music entertainment to customers via a broad-band technology was approached .
+Customers using this SST could search , order and watch entertainment products on their television at their conve- nience , paying for the service through a monthly billing process .
+The service and the SST user interface were initially introducedwhere customers could access the technology from the comforts of their home .
+Before the main study , the survey was pretested on 500 patrons of the entertainment company that had varying levels of self-service technology use .
+At the conclusion of the pretest , the coefficient alpha for each construct measure was calculated and all scales exhibited an acceptable level of reliability ( α ≥.70 , Nunnally and Bernstein 1994 ) .
+An exploratory factor analysis was also conducted , showing each item loading on its respective construct with sufficient evidence of convergent validity ( i.e. , all loadings > .50 ) .
+One item for technical anxiety was dropped following the pretest because of its vague wording and emphasis on self- service technology in general rather than the specific SST of the study .
+All of the other items from the pretest were retained in preparation for the main study .
+After establishing the internal consistency and unidimen- sionality of the scale items , an invitation for the survey was mailed to 11,770 patrons of the entertainment company that had previously used its self-service application .
+These patrons spanned three southeastern states and included both rural and urban customers .
+All patrons that returned a completed survey were given a credit to their monthly bill .
+The invitation asked patrons to go to a website and fill out a survey about their experience with the self-service tech- nology from the entertainment company .
+All patrons who wanted an actual survey mailed to them were asked to tear off a postage paid perforated postcard at the bottom of the invitation and mail it back to the company .
+These patrons were then mailed a hardcopy survey along with a self- addressed return envelope .
+A total of 1,506 patrons responded to the initial invitation and filled out an online survey .
+Requests for a hard copy survey were received from 213 patrons , though only 107 were returned .
+Three weeks after the initial invitation , all patrons who had not responded to the survey were mailed a follow up postcard .
+An additional 604 patrons filled out the online survey and 27 hardcopy surveys were returned .
+A total of 2,246 patrons responded to the survey , producing a response rate of 19 % .
+From this sample , 57 % were female with 80 % of the sample between the ages of 25– 55 .
+The largest category of household income was over $ 96,000 , and 33 % of respondents held a college degree .
+In order to account for nonresponse bias , we followed Armstrong and Overton ’ s ( 1977 ) recommendation by extrap- olating and comparing results across waves of respondents .
+We compared the first wave and second wave of respondents on both demographic and study variables and found no significant difference between the groups .
+A confirmatory factor analysis was performed using AMOS 7.0 to determine the measurement model fit .
+The results of the confirmatory factor analysis indicate that each item loaded on its respective underlying concept and all loadings were significant .
+To view the complete list of items and loadings , see Table 1 .
+The fit indices also suggest that the measurement model was a good fit to the data ( χ2= 1153.53 , df=316 , NFI=.98 , IFI=.98 , CFI=.98 , TLI=.98 , RMSEA=.03 ) .
+We chose these particular fit indices because of their ability to account for bias in large sample sizes ( Byrne 2001 ) .
+Additionally , the reliability of the scale items was calculated by computing coefficient alpha .
+All constructs had an acceptable level of reliability ( α≥.70 , see Table 1 ) .
+To further assess the convergent and discriminant validity of the measures , we followed Fornell and Larcker ’ s ( 1981 ) framework by calculating the average variance for each construct and comparing that to the shared variance between constructs .
+Each construct had an average variance extracted over .50 , providing evidence of convergent validity .
+No shared variance between constructs exceeded the average variance extracted per construct , which supports the discrim- inant validity of the construct items .
+The authors also tested for common method bias using the marker variable technique ( Lindell and Whitney 2001 ) to assess if common method variance would be a problem .
+Following Lindell and Whitney ’ s recommendations , we chose a marker variable that was measured at the time of the study but was unrelated to the constructs of the model .
+The marker variable used was price consciousness .
+Assessing the correlation between price consciousness and perceived control , we then used this correlation ( .04 ) to create an adjusted correlation between constructs in the model .
+Using the marker variable correlation , we parti- alled out its effect from the uncorrected correlations in the 498 J. of the Acad .
+Mark .
+Sci .
+( 2010 ) 38:490–509 model .
+After getting the adjusted correlation between constructs , we assessed if the adjusted correlation was significantly different from the uncorrected correlation .
+After testing all the correlations , we found no significant difference , implying that common method bias was not substantial .
+The sample covariance matrix was then used in AMOS 7.0 to the test the structural model displayed in Fig .
+1 .
+The Table 1 Confirmatory factor and reliability analysis Self-service items Standardized factor loadings t-values Perceived control ( α=.901 ) - I feel in control using ( this SST ) .93 46.23 - ( This SST ) lets the customer be in charge .94 48.79 - While using ( this SST ) , I feel decisive .67 31.86 - ( This SST ) gives me more control over renting movies .87 a Perceived convenience ( α=.922 ) - This SST allows me to initiate a transaction whenever I choose .84 a - This SST allows me to initiate a transaction at a convenient time .88 67.67 - I value the ability to initiate a transaction from the comfort of home .85 44.66 - I like the ability to rent movies without leaving home .84 40.56 Satisfaction ( α=.938 ) - I am happy with the service of ( this SST ) .94 a - I am pleased with the quality of the service of ( this SST ) .93 76.79 Speed of Transaction ( α=.948 ) - I am able to complete a transaction with ( this SST ) without spending too much time .91 89.85 - ( This SST ) saves me time .89 73.33 - ( This SST ) lets me complete a transaction quickly .92 a Trust ( α=.945 ) - I trust ( this company ) will not misuse my personal information .86 a - Based on my experience with ( this company ) , I know they are honest .87 42.26 - I feel safe initiating a transaction with ( this company ) .96 44.89 - Based on my experience with ( this company ) , I know they are trustworthy .87 41.68 Perceived value ( α=.934 ) - Based on the service I receive , ( this SST ) is a good value for the money .88 a - The entertainment I purchase with ( this SST ) is worth every cent .90 61.44 - I am happy with the service I received compared to the money I spend with ( this SST ) .92 52.79 Exploration ( α=.898 ) - I like browsing ( this SST ) to get new ideas on what to watch .86 37.21 - I like browsing ( this SST ) to see what new movies are available .88 38.01 - I enjoy browsing through the movie offerings provided by ( this SST ) .76 a Intentions of Use SSTs ( α=.962 ) *semantic differential – Very Likely–Very Unlikely .91 41.55 *semantic differential – Very Probable–Not Probable .89 33.56 *semantic differential – Possible–Impossible .85 a Technical anxiety ( α=.872 ) - I hesitate to use ( this SST ) for fear of making a mistake I can not correct .82 a - I feel insecure about my ability to use ( this SST ) .82 21.83 - I have avoided ( this SST ) because it can be intimidating .71 20.61 Model fit statistics χ2=1153.53 , df=316 p < .001 NFI=.98 , IFI=.98 , TLI=.98 , CFI=.98 , RMSEA=.03 a denotes a constrained relationship to 1.00 in order for identification * all factor loadings have a p-value of < .001 J. of the Acad .
+Mark .
+Sci .
+( 2010 ) 38:490–509 499 results of the analysis show that the model fit the data relatively well ( χ2=74.29 , df=9 , NFI=.99 , IFI= .99 , CFI=.99 , TLI=.97 , RMSEA=.05 ) .1 The individual indicators for each construct resulting from the CFA were summated to form a composite index for use in estimating the structural model.2 After establishing the model fit , the relationships between constructs were analyzed .
+Table 2 displays the scale means , standard deviations , and inter-correlations between constructs .
+Table 3 shows the standardized path estimates and t-values for each of the hypothesized model relationships , along with the squared multiple correlation for each dependent construct .
+From this analysis , perceived control had a positive relationship with speed , exploration and trust , supporting H1 , H3 and H5 .
+The strength of the structural path coefficients were roughly equivalent with exploration having the largest standardized regression coeffi- cient ( γ11=.39 , t=14.90 , p≤ .001 ) .
+These results highlight the importance of perceived control on the potential benefits and trust a customer places in a self-service transaction .
+Convenience also showed a positive relationship with speed , exploration and trust , supporting H2 , H4 , and H6 .
+Of the three relationships , convenience had the strongest rela- tionship with speed of transaction based on the standardized coefficient ( γ32=.53 , t=34.58 , p≤.001 ) and the results of chi-square difference tests conducted between the hypothe- sized relationships ( convenience→speed/trust −χ2=110.8 , df=1 , p < .001 ; convenience→speed/explore −χ2=201.3 , df=1 , p < .001 ) .
+The relationships of convenience to explo- ration and trust were significant , but weaker than with speed .
+As expected , the time and effort in finding and facilitating a self-service transaction is positively associated with increased perceptions of speed , customers ’ willingness to explore the technology , and overall trust in the retailer .
+Customers ’ willingness to explore ( β41=.37 , t=19.53 , p≤ .001 ) and trust ( β42=.36 , t=20.00 , p≤ .001 ) had a strong relationship with perceived value , providing support for H8 and H9 .
+Respondents ’ perceptions of speed with an SST had a weaker relationship ( β43=.11 , t=7.03 , p≤ .001 ) with perceived value ( H7 ) compared to exploration and trust , based on the results of chi-square difference tests conducted between the hypothesized relationships ( trust/speed→value −χ2=34.6 , df=1 , p < .001 ; exploration/speed→value −χ2= 69.7 , df=1 , p < .001 ) .
+As a result , it appears that the value of an SST transaction is positively associated with the perceived speed of a transaction , but what customers really value is the ability to explore the technology to take full advantage of the options and abilities of the SST from a service provider they trust .
+All three constructs of exploration , trust , and speed were strongly associated with the satisfaction derived from a self- service experience , supporting H11 , H12 , and H13 .
+The perceived value derived from a self-service transaction was also found to have a significant relationship to satisfaction ( H10−β54=.30 , t=16.43 , p≤.001 ) .
+Consistent with previous qualitative work on SSTs , customers ’ perception of speed , trust , and even willingness for exploration can enhance the satisfaction from a self-service experience .
+As for behavioral intentions , both perceived value and satisfaction had strong relationships with respondents ’ intentions to use an SST , supporting H16 and H17 .
+The relationship between perceived control and intentions to use an SST was significant ( H14 −γ61=.06 , t=2.80 , p≤ .01 ) , though the coefficient was weaker than other relationships with intentions that were tested ( based on chi-square difference tests ) .
+The direct relationship of convenience to intentions ( H15 ) was nonsignificant and further emphasizes that convenience perceptions alone do not influence customers ’ decisions to use an SST .
+It appears that both perceived control and convenience have a greater influence on SST intentions through the mediating constructs of speed , exploration and trust .
+Previous studies have found a relatively strong link between perceived control and intentions ( c.f. , Lee and Allaway 2002 ) .
+However , our conceptualization shows support for a mediation process , supporting the explanation based on the theory of planned behavior that control and convenience do not drive inten- tions , but influence variables that create a desire to enact in a self-service transaction .
+As for the control variable of technical anxiety , it was negatively related to perceptions of speed , exploration motivation , and trust , although at a relatively low level .
+This result is not surprising , given that the sample for Study 1 was composed of respondents who had used the SST in the past .
+Technical anxiety had no relationship to customers ’ future behavioral intentions to use an SST .
+To test the mediation of speed , trust , and exploration , we followed Baron and Kenny ’ s ( 1986 ) recommendations to examine the direct and indirect effects on perceived value and satisfaction .
+Determination of mediation effects con- sisted of assessing the size and statistical significance of the 1 To account for possible alternative models , the authors performed an analysis with two different models to see if the current model was a better fit .
+The first alternative model excluded perceived value and satisfaction and had a direct link from trust , exploration , and speed of transaction to intentions .
+The second alternative model excluded control and convenience and had trust , speed of transaction , and exploration as the initial predictor variables .
+Both alternative models did not have a good fit to the data ( Alt 1 χ2=256 , df 3 ; Alt 2 χ2= 40.5 , df 3 ) providing initial evidence against the possibility of alternatives models being superior to the conceptualized model of the study .
+2 The authors also performed an analysis with the full structural model , including all individual measurement items , and found that none of the relationships altered from the path model .
+Since none of the relationships changed , we decided to use the path model for parsimony reasons .
+500 J. of the Acad .
+Mark .
+Sci .
+( 2010 ) 38:490–509 direct paths from perceived control to perceived value and satisfaction along with comparing the strength of these direct path estimates to the size of the indirect effects between the same constructs .
+This process was then repeated for the mediation assessment for convenience .
+The results of this analysis are displayed in Table 4 .
+The direct path from perceived control to perceived value was significant ( γ41=.12 , p≤ .001 ) .
+The indirect effects of control on perceived value when mediated by trust and exploration were significant and equivalent in size to the direct effects of control , indicating partial mediation for these two constructs .
+The indirect effect of speed of transaction from perceived control to perceived value was not significant , indicating no mediation effect .
+The direct path from perceived control to satisfaction was not statistically significant ( γ51=.035 , p≤ .095 ) , indi- cating full mediation of perceived control ’ s influence on satisfaction through all three mediating constructs ( shown by the significant indirect effect coefficients through each of the mediating constructs between control and satisfaction in Table 4 ) .
+The direct path from convenience to perceived value was fully mediated by all three variables .
+There is no significant direct effect from convenience to perceived value and all three indirect effect coefficients are statistically significant , although their strength is small .
+The influence of convenience on respondent SST satisfac- tion was partially mediated by speed and by exploration motivation , but not mediated by company trust .
+Convenience had a significant direct effect on satisfaction , but the size of the effect coefficient was small ( γ52=.07 , p≤ .002 ) .
+In summary , perceived control ’ s influence on perceived value is partially mediated by trust and exploration , but not by speed .
+Perceived control ’ s influence on satisfaction is totally mediated by all three mediation constructs .
+Con- venience ’ s influence on perceived value is totally mediated by all three mediating constructs , although the indirect effects are small in size .
+The influence of convenience on satisfaction is partially mediated by speed and by explora- tion , but is not mediated by trust .
+Again , the indirect effects of convenience on satisfaction are small in strength .
+One point that needs to be emphasized is that the relationships of convenience to satisfaction and control to perceived value had a significant direct effect .
+This high- lights the possibility that additional relationships may be present that were not included in the proposed model .
+The partial mediation of these relationships adds value to our understanding of how customers are influenced in a self- service setting , but additional research is needed to fully explore the direct relationships found in this analysis .
+Study 2 Concerns about the generalizability of the study findings based solely on previous users of the SST led us to examine a related model of non-users ’ SST perceptions from the same entertainment company .
+Examining only SST user perceptions raised the possibility of limited variation in responses about the relationships among the conceptual model constructs .
+The nonuser respondents were aware of the SST technology and its applications , but had not initiated a transaction using the SST at the time of the survey .
+Specifically , we were interested in nonusers ’ perceptions of the potential control and convenience benefits offered by the SST and how those perceptions might impact their evaluations of speed of transaction , trust in a service provider , and future use intentions for the SST in question .
+The nonusers ’ conceptual model is shown in Fig .
+2 .
+Using the same sampling procedure and incentive as in Study 1 , a total of 3,028 invitations to participate in an online survey were mailed to SST nonuser customers of the Table 2 Means , standard deviations and correlations of constructs for users of SST Intercorrelation of constructs Mean Standard deviation 1 2 3 4 5 6 7 8 9 1 .
+Perceived control 5.83 1.26 ( .74 ) 2 .
+Technical anxiety 2.00 1.36 −.29 ( .57 ) 3 .
+Satisfaction 5.64 1.34 .53 −.24 ( .88 ) 4 .
+Trust in service provider 5.36 1.39 .41 −.15 .63 ( .79 ) 5 .
+Perceived value 5.17 1.41 .47 −.17 .69 .62 ( .81 ) 6 .
+Exploration 5.53 1.32 .48 −.21 .67 .57 .63 ( .70 ) 7 .
+Intentions to use SST 6.16 .82 .37 −.16 .53 .36 .54 .47 ( .78 ) 8 .
+Perceived convenience 6.27 1.19 .70 −.33 .47 .32 .36 .40 .29 ( .73 ) 9 .
+Speed of transaction 6.11 1.28 .77 −.33 .53 .37 .42 .46 .35 .82 ( .82 ) Values on the diagonal are the average variance extracted for each construct J. of the Acad .
+Mark .
+Sci .
+( 2010 ) 38:490–509 501 entertainment firm .
+The obtained response rate from the non-user customers was 11 % , with 317 responses gathered online and 17 responses via mail questionnaire .
+The same scale items were used as in Study 1 , with the wording changed slightly to apply to non-users ’ beliefs or perceptions about potentially using the SST ( e.g. , “ Based on everything I know about the ( SST ) … while using the ( SST ) , I would feel decisive ” ) .
+A test of measurement invariance was performed across the responses of the users and nonusers on common scale items measuring : ( a ) perceived control ; ( b ) convenience ; ( c ) speed of transaction ; ( d ) trust in the service provider ; and ( e ) SST use intentions .
+The results of the invariance test for consistent indicator factor loadings for each common construct showed a non- significant difference across both groups of respondents ( χ2=21.47 , df=16 , p≤ .161 ) .
+Confirmatory factor analysis of the non-user measurement items showed all items loaded significantly on their respective constructs , displaying an acceptable level of reliability ( > .70 ) and evidence of acceptable convergent and discriminant validity .
+The structural model shown in Fig .
+2 was tested using a covariance matrix of the summed indicators for each construct via AMOS 7.0 .
+The proposed structural model displayed a good fit to the data ( χ2=5.74 , df=2 , p≤ .057 ; NFI=.99 ; IFI=.99 ; CFI=.99 ; TLI=.94 ; RMSEA=.07 ) .
+The results of this analysis are shown in Table 5 .
+Table 3 Structural model test results for users of SST Hypothesized relationship Standardized estimate t-values Hypothesis supported H1 Perceived control → speed of transaction .37 24.25* Yes H2 Perceived convenience→speed of transaction .53 34.57* Yes H3 Perceived control →exploration .39 14.90* Yes H4 Perceived convenience→exploration .09 3.52* Yes H5 Perceived control → trust in service provider .36 13.02* Yes H6 Perceived convenience→trust in service provider .05 1.99*** Yes H7 Speed of transaction → perceived value .11 7.03* Yes H8 Exploration → perceived value .37 19.53* Yes H9 Trust in service provider → perceived value .36 20.00* Yes H10 Perceived value → satisfaction .30 16.43* Yes H11 Speed of transaction → satisfaction .20 13.40* Yes H12 Exploration → satisfaction .25 14.15* Yes H13 Trust in service provider → satisfaction .22 12.97* Yes H14 Perceived control → intentions to use SST .06 2.80*** Yes H15 Perceived convenience → intentions to use SST .002 .06 ns No H16 Perceived value → intentions to use SST .32 12.06* Yes H17 Satisfaction → intentions to use SST .27 9.78* Yes Control variable Technical anxiety → exploration −.09 −4.71 * Technical anxiety → speed of transaction −.05 −4.36 * Technical Anxiety → Trust in Service Provider −.04 −2.24 *** Technical anxiety→ intentions to use SST −.02 −1.37 n.s Model fit statistics χ2=74.29 , df=9 , p < .001 NFI=.99 , IFI=.99 , CFI=.99 , TLI=.97 , RMSEA=.05 Squared multiple correlations Exploration .25 Trust in service provider .17 Speed of transaction .74 Perceived value .51 Satisfaction .63 Intentions to use SST .35 *p < .001 , **p < .01 , ***p < .05 ns not significant 502 J. of the Acad .
+Mark .
+Sci .
+( 2010 ) 38:490–509 Technical anxiety was again used as a control variable to account for non-users ’ varying levels of anxiety towards technology influencing the dependent variables .
+Technical anxiety had a significant relationship with speed of transaction perceptions and intentions to use an SST , but not with trust placed in a service provider .
+Non-users ’ perceptions of SST control were significantly related to both SST speed and trust ( γ21=.44 ; p≤.001 ; γ22=.58 , p≤.001 ) , while perceived SST convenience was significantly related only to perceived SST speed of transaction .
+Both speed of transaction and trust were significantly related to SST intentions ( β31=.18 , t= 2.97 , p≤ .003 ; β32=.36 , t=4.43 , p≤.001 ) .
+The non-user responses were tested for the mediating impact of speed and trust between control / convenience perceptions and SST intentions .
+Neither perceived control nor convenience exhibited significant direct effects on SST intentions , suggesting that their influence is fully mediated through the non-user respondents ’ speed or trust percep- tions .
+Perceived control ’ s influence on SST intentions was fully mediated through respondents ’ perceptions of trust placed in a service provider .
+Perceived speed played no significant role in this mediated linkage .
+For perceived convenience , the opposite result occurs , with speed fully mediating the influence of convenience , while trust plays no significant role .
+This second study suggests that nonusers are influenced by SST control and convenience perceptions , but the effects of these two initiating constructs are mediated through speed of transaction and trust .
+The perceived convenience of an SST transaction has a significant relationship with speed perceptions , but to non-users , perceived convenience in itself does not instill trust in a service provider .
+For non- users , trust was associated with the amount of control the patron perceived to be available during the SST transaction .
+This study of non-user responses further supports the conceptualization that control and convenience are impor- tant to understanding customers ’ evaluations of SST trans- actions , but without the mediating constructs of speed of transaction and trust , we capture very little of what drives customers to use or avoid an SST .
+Discussion One of the strongest selling points for a customer to not only try but continue to use a self-service technology is the ability to control the transaction .
+With self-service tech- nology , customers can dictate the service process to customize the transaction to meet their specific needs .
+Along with controlling the information flow and process of the transaction , customers can also have more influence over the completion of the transaction in the handling and packaging of a product .
+This potential strength for self-service technology has also become one of its greatest liabilities .
+Instead of feeling in control of the service process , many customers feel a Standardized direct effect Standardized indirect effect Control→perceived value .116 ( 4.91* ) Control→speed→perceived value .014 ( 1.51 n.s ) Control→trust→perceived value .127 ( 10.95* ) Control→explore→perceived value .142 ( 13.32* ) Control→satisfaction .035 ( 1.67 ns ) Control→speed→satisfaction .067 ( 6.31* ) Control→trust→satisfaction .079 ( 11.11* ) Control→explore→satisfaction .100 ( 14.46* ) Convenience→perceived value .001 ( −.002 ns ) Convenience→speed→perceived value .060 ( 3.98* ) Convenience→trust→perceived value .021 ( 14.98* ) Convenience→explore→perceived value .038 ( 4.54* ) Convenience→satisfaction .067 ( 3.02** ) Convenience→speed→satisfaction .076 ( 8.89* ) Convenience→trust→satisfaction .012 ( 1.83 ns ) Convenience→explore→satisfaction .026 ( 4.57* ) Table 4 Test for mediation in the model with users of SST Values in the parenthesis are t-value and *p < .001 ; **p < .01 ; ***p≤ .05 ; ns not significant control = perceived control ; convenience = perceived conve- nience ; speed = speed of transaction ; trust = trust in a service provider ; intentions = intentions to use an SST ; explore = exploration Perceived Control Speed of Transaction Trust in Service Provider Perceived Convenience Intentions to use SST Figure 2 Conceptual framework with nonusers of SST .
+J. of the Acad .
+Mark .
+Sci .
+( 2010 ) 38:490–509 503 lack of control where the technology is leading the process instead of the customer .
+This lack of control ultimately influences some of the most prominent components of a self-service evaluation such as customers ’ willingness to explore the technology , speed of transaction , and trust .
+Like perceived control , the construct of convenience has a substantial influence on a customer ’ s ability and desire to enact a self-service transaction .
+With customers having the ability to initiate a transaction on their time schedule and at a location of their choice , the convenience of the technol- Table 5 Results of Study 2–nonusers of self-service technology Means , standard deviations , and correlation of constructs Mean Standard deviation 1 2 3 4 5 6 1 .
+Perceived control 5.18 1.26 ( .71 ) 2 .
+Technical anxiety 3.26 1.74 −.28 ( .78 ) 3 .
+Trust in service provider 5.08 1.47 .47 −.19 ( .81 ) 4 .
+Intentions to use SST 5.19 1.16 .40 −.25 .32 ( .92 ) 5 .
+Perceived convenience 5.60 1.16 .66 −.31 .35 .30 ( .58 ) 6 .
+Speed of transaction 5.27 1.27 .76 −.34 .43 .33 .68 ( .78 ) Structural model test results for nonusers Hypothesized relationship in the model Standardized estimate t-Values Perceived control→trust in service provider .44 6.59 * Perceived convenience→trust in service provider .04 .59 n.s Perceived control→speed of transaction .58 13.50 * Perceived convenience→speed of transaction .25 5.91 * Trust in service provider →intentions to use SST .18 2.97 ** Speed of transaction→intentions to use SST .36 4.43 * Tech anxiety→trust in service provider −.05 −1.15 n.s Tech anxiety→speed of transaction −.08 −2.56 ** Tech anxiety→intentions to use SST −.12 −2.10 *** Model fit statistics : χ2=5.74 , df=2 , p < .057 NFI=.99 , IFI=.99 , CFI=.99 , TLI=.94 , RMSEA=.07 Squared multiple correlations Speed of transaction=.66 Trust in service provider=.23 Intentions to use SST=.18 Test for mediation in the model with nonusers of SST Standardized direct effect Standardized indirect effect Convenience→intent −.127 ( −1.26 ns ) Convenience→speed→intentions .15 ( 3.68 * ) Convenience→trust→intentions .01 ( .77 n.s ) Control→intentions .234 ( 1.33 n.s ) Control→speed→intentions .04 ( .39 n.s ) Control→trust→intentions .06 ( 3.72 * ) Values on the diagonal are the average variance extracted for each construct *p < .001 ; ns not significant control = perceived control ; convenience = perceived convenience ; speed = speed of transaction ; trust = trust in a service provider ; intentions = intentions to use an SST 504 J. of the Acad .
+Mark .
+Sci .
+( 2010 ) 38:490–509 ogy will enhance the interactive experience of the customer .
+When customers are prepared both mentally and physically to take on a self-service role , the convenience of an SST transaction directly influences perceptions of speed along with the desire to explore the functions and options available with the technology .
+One area that was surprising in our research was the weak relationship between convenience and trust .
+With both users and nonusers of the SST , convenience had very little impact on trust perceptions .
+Especially with nonusers , the convenience of the SST had relatively no bearing on a customer ’ s trust in an SST provider .
+This highlights a potential source of difficulty with implementing self-service technology , when retailers simply place an SST at a desirable satellite location and see little return for their investment because the convenience of the SST does not foster a feeling of trust .
+The trust that customers place in a service provider can have a substantial influence on the willingness to initiate a self-service transaction .
+When customers are asked to complete a transaction without employee involvement , a degree of trust must be established for the customer to agree to take on a co-production role .
+Customers must trust the company will not misuse their information and that a sufficient recovery can take place if a failure occurs at a satellite location .
+In both studies , trust had a strong relationship with the overall evaluation of the technology .
+With previous users of the technology , trust was strongly associated with both the perceived value derived from using the technology and the satisfaction from the self-service experience .
+The nonusers of the SST also indicated the importance of trust by showing a positive relationship to future intentions to use the technology .
+One construct that has not been extensively researched with self-service technology is the idea of exploration .
+With online websites , informational kiosks , and ticketing SSTs , one of the criteria necessary for continual use is the ability and desire of the customer to seek out and discover new information and options .
+This research showed that both perceived control and convenience had a positive association with customers ’ willingness to explore an SST .
+Compared to more traditional and established constructs in self-service research , it appears that the relatively ignored construct of exploration should have a greater role in the discussion of how customers evaluate a self-service transaction .
+Speed of transaction is another construct found to be positively associated with the evaluation of both users and nonusers of SSTs .
+The satisfaction and perceived value derived from a self-service experience was strongly asso- ciated with the perceived speed of transaction .
+When deciding between a full and a self-service option , the comparative advantage in regards to perceived speed can be a determining factor in channel choice .
+Especially , from a utilitarian value perspective , the perceived speed of the transaction can greatly influence a customer ’ s decision to use an SST to complete a transaction .
+Lastly , the control variable of technical anxiety demon- strated a significant and negative relationship on customers ’ perceptions of speed and willingness to explore the technology .
+When customers have a heightened level of anxiety about using an SST , this anxiety can create cognitive interference , reducing the speed of the transaction along with the desire to extend a transaction by exploring the technology .
+One surprising finding was that technical anxiety did not have an impact on future behavioral intentions for either users or nonusers .
+This finding further emphasizes the importance of the mediating variables listed in the model .
+Research contribution This model contributes to our theoretical understanding of what criteria are necessary to evaluate customers ’ intentions to use an SST in the future .
+From this research , perceived control and convenience were found to be key variables associated with what customers value from an SST experience .
+Previous studies have shown that perceived control has a direct relationship to future intentions ( Dabholkar and Sheng 2009 ; Lee and Allaway 2002 ) .
+However , this research found that control has a much stronger influence through mediating variables rather than as a direct link .
+Without accounting for the mediating variables of speed , exploration , and trust , the relationship between control and intentions is severely weakened and can provide an inaccurate picture of its true impact .
+Additionally , the mediating variables of speed , explora- tion , and trust have a strong influence on customer satisfac- tion and intentions .
+Traditional models have examined direct relationships to constructs such as intentions and service quality , but have failed to capture some of the explanatory power by not considering mediating variables .
+Our findings suggest that constructs such as exploration , speed , and trust have a heavy impact on the evaluation criteria of an SST and possess strong mediating properties .
+The consistency of these mediating variables across both studies of users and nonusers provides further evidence that a strong determinant of SST use is through the variables of speed , exploration , and trust .
+These relatively ignored constructs in previous SST research provide a more accurate understanding of how and why essential constructs such as control and convenience impact SST evaluations .
+Lastly , the exclusion of mediating variables could lead to a misinterpretation of the data and relationships between constructs .
+In Study 2 , among the nonusers neither conve- nience nor perceived control exhibited significant direct relationships with behavioral intentions .
+One could make the J. of the Acad .
+Mark .
+Sci .
+( 2010 ) 38:490–509 505 argument that neither of these constructs has a heavy influence on nonusers until the mediating variables of speed and trust are included .
+In Study 1 , with the user sample , convenience and control can have misleading results if just the direct relationship to satisfaction and perceived value are evaluated .
+By examining the mediating influence of these variables , we have an improved understanding of how customers judge a self-service experience compared to traditional methods .
+Managerial implications Our study offers numerous managerial implications for firms trying to implement a self-service technology strategy .
+First , if a service provider wants customers to take advantage of all the options of an SST and experience a faster transaction , it should start by letting the customer feel in control of the transaction .
+One area that many firms do a poor job of is fully informing customers on how the self-service technology will benefit them , along with providing informa- tion on how to start and complete a transaction .
+Many firms implementing SSTs will simply place the technology on the store room floor or at a satellite location and expect the customer to search through the technology with little to no instructions .
+As well , retailers trying to implement an SST often leave employees ill-prepared or overcommitted to help customers during a self-service failure .
+For many customers , a retailer must first educate them on the benefits of an SST before trial or adoption will occur .
+This means providing formal directions or a dedicated employee to assist customers during the initial implementation of an SST .
+Until a self-service technology has started to diffuse into a customer base , a self-service transaction will often be a collaboration between employees and customers during the service process rather than a standalone transaction .
+For example , American Airlines and Home Depot have employees recruit customers into self- service lines and complete the transaction for them in order to increase their familiarity with the technology .
+By educating customers about the technology , exploration should increase and also enhance the self-service experience via a quicker transaction .
+As well , the initial collaboration of the employee and customer to complete the SST transaction should also increase the perceived trust in the company .
+The idea of exploration is an area of growing concern to many retailers whose product is continually changing .
+These retailers need customers to seek out new information via SSTs in order to fully market all the possible options available to them .
+A major obstacle to exploration is the fear or anxiety of getting lost on the different menu screens .
+Retailers must ease some of these fears by letting users easily track their steps or start over .
+The functionality of an SST should be supported with subsections and hyperlinks allowing customers to explore only the desired material while preventing an overload of information .
+To encourage the exploration of an SST , retailers could include promo- tional offers on the introductory screen that can only be received after exploring a certain menu or option .
+Along with the functionality of the technology , the user needs to have the ability to dictate the information flow .
+This means giving customers the ability to select their own priorities and strategies for information search .
+Giving the customer the capability to control an information search process reduces the cognitive burden of the transaction and enhances the enjoyment and perceived value of the experience .
+The trade-off of providing this capability to customers is increased complexity , which in turn requires further training and employee support .
+Customers can have widely varying degrees of technical ability , which means self-service technology needs to be designed where the user can search for information in different ways .
+For instance , in the entertainment SST used for this study , some customers would rather use a directed search for a movie , while other customers wanted to search for a movie via genre .
+These different methods for finding the same information let the customer take control of the search process .
+This perceived control enhances the customer ’ s experience by catering to the comfort level of the customer during the transaction .
+As customers control the method and rate of information exposure , a self-service technology will have a greater chance of customer adoption .
+Lastly , like perceived control , the convenience of an SST can also attract or discourage customers .
+Once a retailer has started to increase the convenience of facilitating a self- service transaction , these decreased time and effort con- siderations have a tremendous influence on the speed of the transaction and customers ’ willingness to explore the technology .
+Clearly , the inconvenience of using an SST can not only create dissatisfaction , but also heighten a customer ’ s anxiety .
+Managers of retail operations must account for the differences in types of SSTs in regards to location .
+If an SST is positioned in an isolated location , anxiety can arise from having no one around to ask questions or offer help .
+With SSTs being accessed from home or in private locations , the proper support should be offered to easily and quickly resolve a problem .
+Unlike public SSTs , where customers can receive impromptu assistance from employees or even other patrons , this option is not available with private SSTs , further increasing the potential anxiety associated with the transaction .
+The paradox of a self-service location is that customers can often choose the setting for the transaction and at the same time self-select a place that can heighten anxiety .
+Service providers need to account for these varying locations to reduce the cognitive burden of the transaction or enhance their ability to answer questions and resolve problems .
+506 J. of the Acad .
+Mark .
+Sci .
+( 2010 ) 38:490–509 Ultimately , the convenience of an SST should lower the perceived time and effort required by the customer , adding value to a self versus a full service method .
+Limitations and future research There are a few important limitations of these studies that need to be addressed .
+First , the studies were cross sectional in nature , which limits the generalizability of the findings .
+Both studies were conducted in the same industry , and future research should try to expand these findings into different areas of self-service technology in order to determine if the relationships found here hold across different SSTs .
+As for the study of nonusers , our response rate was rather low compared to the study of users .
+Though we found no evidence of nonresponse bias , the low response rate is a concern in the generalization of these findings .
+Lastly , the presence of an online survey might have inflated the population of highly educated customers in this study .
+Although we made every effort not to exclude customers who would rather not participate in an online survey , we acknowledge that the sample had an elevated level of education compared to the general population .
+There is still an ample amount of research that needs to be performed on self-service technology .
+Future research in the self-service industry would benefit from using more diverse methods such as experiments to further our under- standing about customers ’ reactions to SSTs .
+By using a multi-methods approach , we can explore rich topics such as actual versus intended usage of an SST in the future .
+Our research specifically examined the effects of control and convenience , but future research should explore how to increase customers ’ perception of control and convenience .
+Outside of a full service context , few studies have examined the influential antecedents of these constructs in a self-service experience .
+Additional research is needed to fully explain the construct of convenience in a self-service context .
+The authors did not perform a qualitative analysis of this construct , but future research should explore this option to determine if other concepts should be included in the conceptualization of convenience .
+Time and location seem to be important components of convenience where SST use is concerned , but consideration of additional constructs could shed more light on this under-researched topic .
+Another area of interest that arose from our results is the influence of trust in an SST context .
+Both convenience and technical anxiety were found to be poor predictors of trust for both users and nonusers .
+Additional research is needed to explain how and why customers place their trust in a service provider implementing an SST .
+Further expanding this area , examining the trust that customers place in the actual self-service technology would also be a fruitful pursuit in understanding customers ’ behaviors in a co-production role .
+The use of technical anxiety in this research was measured and tested as a situational variable , but future research should examine the alternate perspective of technical anxiety as a personality variable and its influence on customers ’ evaluations .
+As well , personality variables such as social anxiety could also promote a further under- standing of the phenomenon .
+Other variables for future consideration would be the motivation of the customer during the transaction .
+A customer with a utilitarian objec- tive may have a very different perspective on speed and exploration than an individual with a hedonic objective for using an SST .
+Finally , little research has been performed on how to recover from a self-service failure .
+Specifically , we still know very little about how customers attribute causes for a failure .
+A fruitful pursuit would be to explore how often and under what circumstances the customer or company receives the blame attribution in a self-service failure .
+Additionally , what factors in an SST failure influence not only disadoption , but defection to another retailer ?
+The recent popularity of self-service technology along with retailers ’ desire to cut costs makes this field of research a rich topic , and it is our hope that this article furthers interest in understanding customers ’ behavior with self-service technology .
+References Ahn , T. , Ryu , S. , & Han , I .
+( 2007 ) .
+The impact of web quality and playfulness on user acceptance of online retailing .
+Information and Management , 44 ( 3 ) , 263–275 .
+Ajzen , I .
+( 1985 ) .
+From intentions to actions : a theory of planned behavior .
+In J. Kuhl & J. Beckmann ( Eds .
+) , Action control : from cognition to behavior ( pp .
+11–39 ) .
+New York : Springer Verlag .
+Ajzen , I .
+( 1991 ) .
+The theory of planned behavior .
+Organizational Behavior and Human Decision Processes , 50 ( 2 ) , 179–211 .
+Armstrong , J. S. , & Overton , T. S. ( 1977 ) .
+Estimating nonresponse bias in mail surveys .
+Journal of Marketing Research , 14 ( 3 ) , 396– 402 .
+Babin , B. J. , Darden , W. R. , & Griffin , M. ( 1994 ) .
+Work and/or fun : measuring hedonic and utilitarian shopping value .
+Journal of Consumer Research , 20 , 644–656 .
+Baker , J. , Parasuraman , A. , Grewal , D. , & Voss , G. B .
+( 2002 ) .
+The influence of multiple store environment cues on perceived merchandise value and patronage intentions .
+Journal of Marketing , 66 ( 2 ) , 120–141 .
+Baron , R. M. , & Kenny , D. A .
+( 1986 ) .
+The moderator-mediator variable distinction in social psychological research : conceptual , strategic , and statistical considerations .
+Journal of Personality and Social Psychology , 51 ( 6 ) , 1173–1182 .
+Bart , Y. , Shankar , V. , Sultan , F. , & Urban , G. L. ( 2005 ) .
+Are the drivers and role of online trust the same for all web sites and consumers ?
+A large-scale exploratory empirical study .
+Journal of Marketing , 69 ( 4 ) , 133–152 .
+J. of the Acad .
+Mark .
+Sci .
+( 2010 ) 38:490–509 507 Bateson , J. E. G. ( 1985 ) .
+Self-service consumer : an exploratory study .
+Journal of Retailing , 61 ( 3 ) , 49–76 .
+Baumgartner , H. , & Steenkamp , J.-B .
+E. M. ( 1996 ) .
+Exploratory consumer buying behavior : conceptualization and measure- ment .
+International Journal of Research in Marketing , 13 ( 2 ) , 121–137 .
+Berry , L. L. ( 1999 ) .
+Discovering the soul of service .
+New York : Free .
+Berry , L. L. , Seiders , K. , & Grewal , D. ( 2002 ) .
+Understanding service convenience .
+Journal of Marketing , 66 ( 3 ) , 1–17 .
+Bezjian-Avery , A. , Calder , B. , & Iacobucci , D. ( 1998 ) .
+New media interactive advertising vs traditional advertising .
+Journal of Advertising Research , 38 ( 4 ) , 23–32 .
+Bobbitt , L. M. , & Dabholkar , P. A .
+( 2001 ) .
+Integrating attitudinal theories to understand and predict use of technology-based self- service .
+International Journal of Service Industry Management , 12 ( 5 ) , 423–450 .
+Brown , L. G. ( 1990 ) .
+Convenience in services marketing .
+Journal of Service Marketing , 4 ( 1 ) , 53–59 .
+Byrne , B. M. ( 2001 ) .
+Structural equation modeling with amos : basic concepts , applications , and programming .
+Mahwah : Erlbaum .
+Cambre , M. A. , & Cook , D. L. ( 1985 ) .
+Computer anxiety : definition , measurement , and correlates .
+Journal of Educational Computing Research , 1 ( 1 ) , 37–54 .
+Chandon , P. , Wansink , B. , & Laurent , G. ( 2000 ) .
+A benefit congruency framework of sales promotion effectiveness .
+Journal of Marketing , 64 ( 4 ) , 65–81 .
+Childers , T. L. , Carr , C. L. , Peck , J. , & Carson , S. ( 2001 ) .
+Hedonic and utilitarian motivations for online retail shopping behavior .
+Journal of Retailing , 77 ( 4 ) , 511–535 .
+Collier , J. E. , & Bienstock , C. C. ( 2006 ) .
+Measuring service quality in e-retailing .
+Journal of Service Research , 8 ( 3 ) , 260–275 .
+Cronin , J. J. , Brady , M. K. , & Hult , G. T. M. ( 2000 ) .
+Assessing the effects of quality , value , and customer satisfaction on consumer behavioral intentions in service environments .
+Journal of Retailing , 76 ( 2 ) , 193–218 .
+Dabholkar , P. A .
+( 1996 ) .
+Consumer evaluations of new technology- based self-service options : an investigation of alternative models of service quality .
+International Journal of Research in Marketing , 13 ( 1 ) , 29–51 .
+Dabholkar , P. A. , & Sheng , X .
+( 2009 ) .
+The role of perceived control and gender in consumer reactions to download delay .
+Journal of Business Research , 62 ( 7 ) , 756–760 .
+Dabholkar , P. A. , Bobbitt , L. M. , & Lee , E.-J .
+( 2003 ) .
+Understanding consumer motivation and behavior related to self-scanning in retailing .
+International Journal of Service Industry Management , 14 ( 1 ) , 59–95 .
+Doronina , O. V. ( 1995 ) .
+Fear of computers : its nature , prevention , and cure .
+Russian Social Science Review , 36 ( 4 ) , 79–90 .
+Durkin , M. ( 2004 ) .
+In search of the internet banking customer .
+The International Journal of Bank Marketing , 22 ( 7 ) , 484–503 .
+Eagly , A .
+A. , & Chaiken , S. ( 1993 ) .
+Psychology of attitudes .
+Fort Worth : Harcourt Brace College .
+Eastlick , M. A. , Lotz , S. L. , & Warrington , P. ( 2006 ) .
+Understanding online B-to-C relationships : an integrated model of privacy concerns , trust , and commitment .
+Journal of Business Research , 59 ( 8 ) , 877–886 .
+Egger , F. N. ( 2000 ) .
+Trust me , I 'm an online vendor : towards a model of trust for e-commerce system design .
+CHI2000 conference proceedings : conference on human factors in computing systems .
+Eggert , A. , & Ulaga , W. ( 2002 ) .
+Customer perceived value : a substitute for satisfaction in business market ?
+Journal of Business and Industrial Marketing , 17 ( 2/3 ) , 107–118 .
+Fornell , C. , & Larcker , D. F. ( 1981 ) .
+Evaluating structural equation models and unobservable variables and measurement error .
+Journal of Marketing Research , 18 , 39–50 .
+Gefen , D. , Karahanna , E. , & Straub , D. W. ( 2003 ) .
+Trust and TAM in online shopping : an integrated model .
+MIS Quarterly , 27 ( 1 ) , 51– 90 .
+Gehrt , K. C. , & Yale , L. J .
+( 1993 ) .
+The dimensionality of the convenience phenomenon : a qualitative reexamimination .
+Journal of Business and Psychology , 8 ( 2 ) , 163–180 .
+Guedj , R. A. , tenHagen , P. J. W. , Hopgood , F. R. , Tucker , H. A. , & Duce , D. A .
+( 1980 ) .
+Methodology of Interaction .
+Amsterdam : New York : North-Holland .
+Ha , S. , & Stoel , L. ( 2009 ) .
+Consumer e-shopping acceptance : antecendents in a technology acceptance model .
+Journal of Business Research , 62 ( 5 ) , 565–571 .
+Harris , L. C. , & Goode , M. H. M. ( 2004 ) .
+The four levels of loyalty and the pivotal role of trust : a study of online service dynamics .
+Journal of Retailing , 80 ( 2 ) , 139–158 .
+Howard , M. , & Worboys , C. ( 2003 ) .
+Self-service—a contradiction in terms or customer-led choice ?
+Journal of Consumer Behavior , 2 ( 4 ) , 382–392 .
+Jensen , J. F. ( 1998 ) .
+Interactivity : tracing a new concept in media and communication studies .
+Nordicom Review , 19 ( 1 ) , 185–204 .
+Johnson , D. S. ( 2007 ) .
+Acheiving customer value from electronic channels through identity commitment , calculative commitment , and trust in technology .
+Journal of Interactive Marketing , 21 ( 4 ) , 2–22 .
+Kahn , B. E. ( 1995 ) .
+Consumer variety seeking among goods and services : an integrative review .
+Journal of Retailing and Consumer Services , 2 ( 3 ) , 139–148 .
+Kerin , R. A. , Jain , A. , & Howard , D. J .
+( 1992 ) .
+Store shopping experience and consumer price-quality-value perceptions .
+Journal of Retailing , 68 ( 4 ) , 376–397 .
+Korgaonkar , P. K. , & Wolin , L. D. ( 1999 ) .
+A multivariate analysis of web usage .
+Journal of Advertising Research , 39 ( 2 ) , 53–68 .
+Kruglanski , A. W. , & Freund , T. ( 1983 ) .
+The freezing and unfreezing of lay-inferences : effects on impressional primacy , ethnic stereo- typing , and numerical anchoring .
+Journal of Experimental Social Psychology , 19 ( 5 ) , 448–468 .
+Langeard , E. , Bateson , J. , Lovelock , C. H. , & Eiglier , P. ( 1981 ) .
+Service marketing : new insights from consumers and managers .
+Marketing science institute 's report no .
+81–104 .
+Cambridge : Marketing Science Institute .
+Lee , M. K. , & Turban , E. ( 2001 ) .
+A trust model for consumer internet shopping .
+International Journal of Electronic Commerce , 6 ( 1 ) , 75–91 .
+Lee , J. , & Allaway , A .
+( 2002 ) .
+Effects of personal control on adoption of self-service technology innovations .
+Journal of Service Marketing , 16 ( 6 ) , 553–572 .
+Lee , G.-G. , & Lin , H.-F. ( 2005 ) .
+Added customer perceptions of e-service quality in online shopping .
+International Journal of Retail & Distribution Management , 33 ( 2 ) , 161–176 .
+Lee , K. C. , Kang , I. , & McKnight , D. H. ( 2007 ) .
+Transfer from offline trust to key online perceptions : an empirical study .
+IEEE Transactions on Engineering Management , 54 ( 4 ) , 729–741 .
+Lindell , M. K. , & Whitney , D. J .
+( 2001 ) .
+Accounting for common method variance in cross-sectional research designs .
+Journal of Applied Psychology , 86 ( 1 ) , 114–121 .
+Lombard , M. , & Snyder-Dutch , J .
+( 2001 ) .
+Interactive Advertising and Presence : A Framework .
+Journal of Interactive Advertising , 1 , ( 2 ) : www.jiad.org .
+Lovelock , C. H. ( 2001 ) .
+Services Marketing : Prentice Hall .
+Lovelock , C. H. , & Young , R. F. ( 1979 ) .
+Look to consumers to increase productivity .
+Harvard Business Review , 57 ( 3 ) , 168– 178 .
+Mathwick , C. ( 2002 ) .
+Understanding the online consumer : a typology of online relational norms and behavior .
+Journal of Interactive Marketing , 16 ( 1 ) , 40–55 .
+Meuter , M. L. , Ostrom , A. L. , Bitner , M. J. , & Roundtree , R. ( 2003 ) .
+The influence of technology anxiety on consumer use and 508 J. of the Acad .
+Mark .
+Sci .
+( 2010 ) 38:490–509 experiences with self-service technologies .
+Journal of Business Research , 56 ( 11 ) , 899–906 .
+Meuter , M. L. , Ostrom , A. L. , Roundtree , R. I. , & Bitner , M. J .
+( 2000 ) .
+Self-service technologies : understanding customer satisfaction with technology-based service encounters .
+Journal of Marketing , 64 , 50–64 .
+Mukherjee , A. , & Nath , P. ( 2007 ) .
+Role of electronic trust in online retailing .
+European Journal of Marketing , 41 ( 9/10 ) , 1173– 1202 .
+Nunnally , J. C. , & Bernstein , I. H. ( 1994 ) .
+Psychometric theory .
+New York : McGraw-Hill .
+Oliver , R. L. , & Swan , J. E. ( 1989 ) .
+Consumer perceptions of interpersonal equity and satisfaction in transactions : a field survey approach .
+Journal of Marketing , 53 ( 2 ) , 21–35 .
+Parasuraman , A. , & Grewal , D. ( 2000 ) .
+The impact of technology on the quality-value-loyalty chain : a research agenda .
+Journal of the Academy of Marketing Science , 28 ( 1 ) , 168–174 .
+Pavlou , P. A .
+( 2003 ) .
+Consumer acceptance of electronic com- merce : integrating trust and risk with the technology accep- tance model .
+International Journal of Electronic Commerce , 7 ( 3 ) , 101–134 .
+Pavlou , P. A. , & Fygenson , M. ( 2006 ) .
+Understanding and prediction electronic commerce adoption : an extension of the theory of planned behavior .
+MIS Quarterly , 30 ( 1 ) , 115–143 .
+Pujari , D. ( 2004 ) .
+Self-service with a smile ?
+Self-service technology ( SST ) encounters among canadian business to business .
+International Journal in Service Industry Management , 15 ( 2 ) , 200–219 .
+Rust , R. T. , & Oliver , R. L. ( 1994 ) .
+Service quality : new directions in theory and practice .
+Thousand Oaks : Sage .
+Sweeney , J. C. , Soutar , G. N. , & Johnson , L. W. ( 1999 ) .
+The role of perceived risk in the quality-value relationship : a study in a retail environment .
+Journal of Retailing , 75 ( 1 ) , 77–105 .
+Tam , J. L. M. ( 2004 ) .
+Customer satisfaction , service quality , and perceived value : an integrative model .
+Journal of Marketing Management , 20 ( 7–8 ) , 897–917 .
+Tax , S. S. , Brown , S. W. , & Chandrashekaran , M. ( 1998 ) .
+Customer evaluations of service complaint experiences : implications for relationship marketing .
+Journal of Marketing , 62 , 60–76 .
+Taylor , S. , & Todd , P. A .
+( 1995 ) .
+Understanding information technology usage : a test of competing models .
+Information Systems Research , 6 ( 2 ) , 144–176 .
+Triandis , H. C. ( 1979 ) .
+Values , attitudes , and interpersonal behavior .
+In Nebraska symposium on motivation .
+Lincoln , NE : University of Nebraska Press , pp .
+195–259 .
+Venkatesh , V. ( 2000 ) .
+Determinants of perceived ease of use : integrating control , intrinsic motivation , and emotion into the technology acceptance model .
+Information Systems Research , 11 ( 4 ) , 342–365 .
+Walker , R. H. , Craig-Lees , M. , Hecker , R. , & Francis , H. ( 2002 ) .
+Technology-enabled service delivery .
+International Journal of Service Industry Management , 13 ( 1 ) , 91–106 .
+Yang , S.-C. , Hung , W.-C. , Sung , K. , & Farn , C.-K. ( 2006 ) .
+Investigating initial trust toward e-tailers from the elaboration likelihood model perspective .
+Psychology and Marketing , 23 ( 5 ) , 429–445 .
+Yen , H. J. R. , & Gwinner , K. P. ( 2003 ) .
+Internet retail customer loyalty : the mediating role of relational benefits .
+International Journal of Service Industry Management , 14 ( 5 ) , 483–500 .
+Yoon , S.-J .
+( 2002 ) .
+The antecedents and consequences of trust in online purchase decisions .
+Journal of Interactive Marketing , 16 ( 2 ) , 47–63 .
+Zeithaml , V. A .
+( 1988 ) .
+Consumer perceptions of price , quality , and value : a means-end model and synthesis of evidence .
+Journal of Marketing , 52 , 2–22 .
+Zhu , Z .
+( 2002 ) .
+Fix it or Leave it : Antecedents and consequences of perceived control in technology-based self-service failure encounters .
+Doctoral dissertation .
+University of Illinois at Chicago , Chicago .
+Zhu , Z. , Nakata , C. , Sivakumar , K. , & Grewal , D. ( 2007 ) .
+Self-service technology effectiveness : the role of design features and individual traits .
+Journal of the Academy of Marketing Science , 35 ( 4 ) , 492–506 .
+J. of the Acad .
+Mark .
+Sci .
+( 2010 ) 38:490–509 509 Copyright of Journal of the Academy of Marketing Science is the property of Springer Science & Business Media B.V. and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder 's express written permission .
+However , users may print , download , or email articles for individual use .

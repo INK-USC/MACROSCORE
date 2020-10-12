@@ -1,0 +1,644 @@
+Newman_BritJournPoliSci_2015_P7X7.pdf
+aRQpTd7ZkC1plEclr1sVcAwMw43G-Newman_BritJournPoliSci_2015_P7X7.pdf.plain.html
+
+B.J.Pol.S .
+45 , 583–607 Copyright r Cambridge University Press , 2013 doi:10.1017/S0007123413000410 First published online 26 November 2013 Easing the Heavy Hand : Humanitarian Concern , Empathy , and Opinion on Immigration BENJAMIN J. NEWMAN , TODD K. HARTMAN , PATRICK L. LOWN AND STANLEY FELDMAN* The bulk of the public opinion research on immigration identifies the factors leading to opposition to immigration .
+In contrast , we focus on a previously unexplored factor yielding support for immigration : humanitarianism .
+Relying upon secondary analysis of national public opinion survey data and an original survey experiment , we demonstrate that humanitarian concern significantly decreases support for restrictive immigration policy .
+Results from our survey experiment demonstrate that in an information environment evoking both threat and countervailing humanitarian concern regarding immigration , the latter can and does override the former .
+Last , our results point to the importance of individual differences in empathy in moderating the effects of both threat and humanitarian inducements .
+Within the public opinion research on immigration , there is a distinct asymmetry with respect to the way scholars have approached understanding the factors that shape mass attitudes – the research questions pursued are overwhelmingly framed in the negative : Why citizens dislike , are threatened by , and ultimately oppose immigration .
+The literature is replete with work addressing prejudice toward immigrant minorities,1 the personality traits from which this prejudice stems,2 the existence and impact of different types of threats posed by immigrants,3 studies focusing on public support for specific restrictive or ethno-nativist immigration policies,4 and the importance of the media in shaping opposition to immigration.5 Within all of this work there is little to no research examining the factors that lead people to be supportive of immigrants .
+Few published studies explicitly seek to explain pro-immigrant sentiment,6 and one of the only individual-level factors consistently identified throughout the opinion literature to weaken opposition to immigration is education.7 If anything , the question is left to be answered primarily by implication through inverting known findings ; in others words , if opposition is predicted by prejudice , * Newman : Department of Political Science , University of Connecticut ; Hartman : Department of Government & Justice Studies , Appalachian State University ; Lown and Feldman : Department of Political Science , Stony Brook University ( emails benj.newman @ uconn.edu , hartmantk @ appstate.edu , patrick.lown @ stonybrook.edu , stanley.feldman @ stonybrook.edu ) .
+An online appendix with supplementary materials is available at http : //dx.doi.org/doi : 10.1017/S0007123413000410 .
+1 Burns and Gimpel 2000 ; Quillian 1995 ; Stephan , Ybarra , and Bachman 1999 .
+2 Guimond et al .
+2010 ; Hetherington and Weiler 2009 ; Thomsen , Green , and Sidanius 2008 .
+3 Citrin et al .
+1997 ; Hood and Morris 1997 ; Sniderman , Hagendoorn , and Prior 2004 ; Stephan et al .
+2005 .
+4 Campbell , Wong , and Citrin 2006 ; Citrin et al .
+1990 ; Hood and Morris 2000 ; Tolbert and Grummel 2003 .
+5 Brader , Valentino , and Suhay 2008 ; Chavez 2008 ; Hopkins 2010 ; Waldman et al .
+2008 .
+6 Cf .
+Haubert and Fussell 2006 .
+7 Burns and Gimpel 2000 ; Haubert and Fussell 2006 ; Fetzer 2000. threat , and authoritarianism , for example , then support for immigration should exist among non-prejudiced , unthreatened , and non-authoritarian individuals .
+Inverting known findings , however , provides at best an incomplete account for understanding or predicting pro-immigrant sentiment .
+To be sure , identifying the relative absence of factors known to boost opposition to immigration is not synonymous with , and thus does not diminish the predictive importance of , identifying the factors , if present , that yield support for immigrants .
+Even intergroup contact , which has been shown to reduce antipathy toward immigrant minorities,8 is primarily theorized as an experiential factor connected to the varying situations of individuals ( such as the density of immigrants in their residential context and the degree of workplace contact ) rather than as an inherent characteristic of individuals ( for example , values or personality traits ) that generates support for immigrants .
+In short , scholars have spent considerably more time informing us about the negative aspects of individual citizens that foster hostility toward immigrants and much less time theorizing and empirically exploring the range of positive characteristics , values , or capacities that promote support for immigration .
+More importantly , the asymmetry in the opinion research is at odds with the actual political battlefield over immigration ; historically there have been and at present there are many pro-immigrant groups .
+In attempting to identify the sources of support for immigration , one need only look to the principles and messages of these groups .
+In sifting through the mission statements of many pro-immigrant organizations , there tend to be two common and preponderant themes that arise : human rights and humanitarian concern .
+For instance , the American Friends Service Committee ( AFSC ) , a religiously- based social justice , peace , and humanitarian service organization founded in 1917 , has long provided aid and relief to immigrants from countries around the world .
+When it comes to contemporary US immigration policy , the AFSC advocates ‘ humanely reforming immigration policy ’ .
+This position is founded on their religiously-based belief in the ‘ worth of every human-being ’ , as well as their organizational commitment to working toward the ‘ fair and humane treatment of all people , including immigrants ’ .9 The values of the AFSC are echoed by the Massachusetts Immigrant and Refugee Advocacy Coalition ( MIRA ) , the largest immigrant rights organization in New England , which advocates the reform of state and federal immigration laws toward more permissive policies aimed at upholding human rights .
+MIRA , for example , advocates decreasing the severity and intensity of immigration and customs enforcement , as well as increasing immigrants ’ eligibility and access to government services .
+In the battlefield over immigration policy , where anti-immigrant organizations argue for more restrictive policies often based upon notions of patriotism , nativism , or xenophobia , there are many pro-immigrant groups acting on behalf of concern for the welfare of others and the protection of their basic human rights .
+Thus , while immigration-related threat is a core impetus for anti-immigrant organizing and action , humanitarianism appears to be a common and powerful motivating force among those taking action on behalf of immigrants .
+In this article , we seek to assess the impact of humanitarianism as a core pro-social orientation on public preferences over government immigration policy .
+First and foremost , using national survey data from 1996 and 2005 , we test whether individual- level variation in concern over the welfare of others and a sense of duty to help those less 8 Dixon and Rosenbaum 2004 ; Hood and Morris 1997 ; Stein , Post , and Rinden 2000 ; Van Laar et al .
+2005 .
+9 See http : //afsc.org/ 584 NEWMAN , HARTMAN , LOWN AND FELDMAN well-off than oneself significantly reduces general opposition to immigration .
+Next , we replicate these secondary analyses with original survey data .
+Given the importance of media information in generating public concern over immigration , specifically in regards to the threats of immigration,10 we seek to assess , beyond extant individual differences in humanitarianism , whether media messages activating humanitarian concerns can generate permissiveness on immigration policies .
+More specifically , we aim to determine whether media information generating humanitarian concern can counteract or even override the effect of the more common threat-based messages found in media discourse .
+Utilizing an original survey experiment , we investigate whether exposure to information detailing the tribulations of an immigrant group in their home country enhances support for opening the border and allowing legal immigrants to enter the country .
+Last , we determine whether individual variation in empathy for others conditions the responsiveness of citizens to information intended to activate humanitarian concern for immigrants .
+HUMANITARIANISM AND IMMIGRATION The immigration-threat framework that dominates the literature has undeniably enriched our understanding of the beliefs , personality traits , and contextual factors that enhance opposition to immigration .
+Despite this contribution , the threat framework appears insufficient as a comprehensive account of opinion on immigration given levels of support for immigration that exist among the mass publics .
+For example , on the most basic policy issue in which American citizens ’ preferences are routinely solicited – determining the amount of legal immigration allowed by the government – a national poll conducted by Gallup in the summer of 2012 revealed that 21 percent of the public favored increasing the amount of legal immigration , 42 percent preferred keeping levels at their current amount , and only 35 percent wanted to decrease legal immigration.11 Thus , despite some citizens ’ opposition to immigration , a majority of Americans do not appear to be overtly anti- immigrant , and a sizable group of people go out of their way to support immigration by endorsing an increase in the number of immigrants permitted to enter the United States .
+To compliment the threat perspective , we offer a values-based approach that emphasizes the role of humanitarian concern in generating support for immigration .
+Humanitarianism has been defined as a ‘ pro-social orientation ’ which varies across individuals , consists of a sense of concern for the welfare of one ’ s fellow human beings , and leads to the belief of personal responsibility to help those who are in need.12 The relevance of humanitarianism to public preferences over government policy has been firmly established within the domain of social welfare policy , as existing research demonstrates that individual variation in concern for the well-being of others strongly predicts support for government spending on social programs and services,13 government programs specifically aimed at providing support to disadvantaged citizens in need of immediate relief,14 and old-age programs for the elderly.15 Building upon this work , we argue that humanitarianism should constitute an important foundation for shaping public opinion toward immigration policy .
+The principle basis for this 10 Chavez 2008 ; Waldman et al .
+2008 .
+11 This poll can be accessed at the following website : http : //www.gallup.com/poll/1660/immigration .
+aspx 12 Feldman and Steenbergen 2001 ; Staub 1989 .
+13 Malka et al .
+2011 .
+14 Feldman and Steenbergen 2001 ; Feldman and Zaller 1992 .
+15 Huddy , Jones , and Chard 2001 .
+Easing the Heavy Hand 585 extension , and thus the main source of the amenability of public preferences within the immigration policy domain to humanitarian concern , is that disadvantage and need tend to ( 1 ) underlie migration processes and ( 2 ) characterize immigrants as a general social category .
+Historically and contemporaneously , a predominant motive among those seeking entry into the United States and other Western industrial democracies is the evasion of some set of undesirable conditions in their country of origin .
+These conditions , conceptualized as ‘ push factors ’ driving immigrants away from their home country,16 may range from relatively poor access to education and gainful employment , which restrict opportunities for economic mobility , to more extreme degradations such as acute poverty , pervasive crime , and severe political repression .
+At present , the majority of immigrants into advanced industrial nations are from countries that are underdeveloped relative to these target host nations , where several of these push factors are operative in motivating the exodus of citizens .
+Therefore , at the outset , many individuals seeking entry into the United States and Western Europe tend to qualify as targets for the application of humanitarian concern given the moderate to acute state of need existing in their home countries , and thus their general disadvantage relative to the average citizen in these host nations .
+With this in mind , we believe humanitarian concern should help shape mass preferences relating to the amount of legal immigration allowed in the county by the government .
+Indeed , the determination of the amount of legal immigration is not only one of the most general policies for which citizens can clearly assume a permissive to restrictive position , but it is also the most analyzed policy dependent variable in the opinion research on immigration.17 Prior research informs us of the factors stimulating support for restricting our borders ; here , we argue that rejecting the restriction of our borders in favor of sustaining or increasing current levels of immigration may reflect the expression of humanitarian motives and concerns .
+Expressing support for a policy of permitting relatively disadvantaged individuals residing in less well-off countries to enter one ’ s country and potentially prosper constitutes a general position regarding immigration that embodies concern for the welfare of other human beings that are less well-off than oneself and the resulting motive to help those in need .
+Accordingly , we hypothesize : HYPOTHESIS 1 : Individuals with a stronger humanitarian orientation should be more permissive with respect to the amount of legal immigrants entering the country and thus less likely to support a policy of restricting our borders .
+Humanitarian Concern , Threat , and the Information Environment Moving beyond individual-level differences in humanitarianism , there are forces operating in citizens ’ environments , such as media messages and information , which presumably have the capacity to generate humanitarian concern pertaining to immigration .
+For example , media discourse on immigration in the United States is replete with messages about the economic , national security , and cultural threats of immigration,18 and research demonstrates that such messages are effective in generating support for restrictive immigration policies.19 However , media messages may also activate humanitarian concern by focusing on the difficult conditions faced by many immigrants in their home countries , such as natural disasters , 16 Cornelius and Rosenblum 2005 .
+17 E.g. , Brader , Valentino , and Suhay 2008 ; Burns and Gimpel 2000 ; Citrin et al .
+1997 ; Hood and Morris 1997 .
+18 Chavez 2008 ; Waldman et al .
+2008 .
+19 Brader , Valentino , and Suhay 2008 ; Sniderman , Hagendoorn , and Prior 2004 ; Stephan et al .
+2005 .
+586 NEWMAN , HARTMAN , LOWN AND FELDMAN poverty , crime , political repression , and violence , and the general absence of educational and economic opportunities .
+For example , public debate among nations in the Western Hemisphere over whether to grant temporary residence to tens of thousands of Haitians displaced by the massive earthquake that struck the country in January of 2010 focused heavily on the material devastation and humanitarian disaster caused by the earthquake.20 One question of substantive interest emerging from such crises that currently remains empirically unexplored is whether providing information about the trials and tribulations faced by immigrants in their home countries is effective in bolstering support for permissive policies .
+In theory , such media messages may influence policy preferences by providing information about the deservingness21 of immigrants , and by priming22 concern for the welfare of others and activating the associated motive to help those in need .
+By activating humanitarian considerations for immigrants , media messages should enhance immigration policy permissiveness among the mass public , specifically with respect to levels of support for opening our borders to individuals attempting to flee harsh living conditions .
+Formally stated , we hypothesize : HYPOTHESIS 2A : Messages evoking humanitarian concern – for example , exposure to information about negative conditions faced by immigrants in their home countries – should cause citizens to favor more permissive government policies concerning the amount of legal immigration into the country .
+One reality of the political information environment in which citizens are exposed is the presence of countervailing information on any one policy issue .
+For example , in the welfare policy domain , the widespread diffusion of countervailing values throughout American political culture has resulted in considerable ambivalence among the mass public with respect to the social welfare state.23 When it comes to media discourse on immigration , how will citizens react to a media environment with mixed messages , that is , to information activating both threat and humanitarian considerations ?
+Extant work on media framing suggests a neutralization effect may occur when citizens find themselves in the midst of cross-cutting information regarding specific electoral or policy choices.24 Thus , we hypothesize : HYPOTHESIS 2B : Information about the negative conditions faced by immigrants in their home countries will counteract , or neutralize , the effect of threatening information .
+Empathy and the Effect of Information One last matter to consider is potential heterogeneity across individuals that could serve to moderate the effects of media messages aimed at generating humanitarian concern for the welfare of immigrants .
+One individual difference that should be relevant is the degree to which information describing the experiences of others – such as the hardships they 20 Dinan 2010 ; Gentile 2010 .
+21 Peterson et al .
+2010 .
+22 Iyengar and Kinder 1987 .
+23 Feldman and Zaller 1992 .
+24 Chong and Druckman 2007 ; Sniderman and Theriault 2004 .
+Easing the Heavy Hand 587 face – has an emotional impact on the recipient .
+Extant research on empathy reveals that individuals differ in their natural capacity to ( 1 ) cognitively envision themselves in others ’ circumstances , and ( 2 ) experience a vicarious emotional reaction.25 In the present case , the effect of a humanitarian inducement – incarnate by information about the trials and tribulations faced by immigrants in their home countries – may be most effective among citizens possessing higher levels of empathy .
+More empathetic citizens should be more likely to generate mental scripts involving themselves in the situations experienced by immigrants , as conveyed by media information , and to feel a negative emotional reaction as a result .
+Extant research on empathy indicates that one main consequence of possessing a greater capacity to empathize with others is a greater tendency to take action to help those in need.26 While the work on empathy has not seen much application to political behavior , one study on the Second Gulf War found that more empathetic individuals were more supportive of a variety of humanitarian actions intended to enhance the welfare of the Iraqi people.27 In view of this work , we hypothesize : HYPOTHESIS 3 : Individual differences in empathy should moderate the effect of media information inducing humanitarian concern , such that the effects of this information on policy preferences will be the most operative among citizens who are empathetic .
+OVERVIEW OF DATA AND METHODS To test our hypotheses , we rely upon three datasets .
+In Study 1 , we utilize a nationally representative survey conducted in the United States in 1996 to assess the effect of individual differences in humanitarianism on the preferred amount of legal immigration .
+In Study 2 , we assess the robustness of the results from Study 1 by analyzing a nationally representative survey conducted in the United States nearly a decade later , in 2005 .
+In Study 3 , we embedded an experiment into a 2012 US statewide primary election survey conducted in North Carolina , in which respondents were exposed to one of four fabricated news stories about a federal plan to allow a group of Hondurans to migrate to the state .
+The primary manipulation concerned whether respondents viewed a story containing information inducing threat or humanitarian concerns , or both simultaneously .
+This survey experiment allowed us to assess the causal effects of threat and humanitarian inducements on respondents ’ policy preferences , as well as analyze whether the effects of such media messages are conditioned by individual-level variation in empathy .
+Additionally , the control condition of this survey experiment afforded us the opportunity to assess whether the results found for data collected in 1996 ( Study 1 ) and 2005 ( Study 2 ) hold when using data collected in 2012 .
+STUDY 1 : THE 1996 ANES POST-ELECTION SURVEY To provide an initial test of Hypothesis 1 , we utilize the American National Election Studies ( ANES ) 1996 Post-Election Study .
+This survey , conducted from November through December of 1996 , is comprised of 1,534 face-to-face and telephone interviews of adult Americans throughout the contiguous US .
+Of the 1,534 survey respondents , 1,210 25 Baron-Cohen 2011 ; Dymond 1949 ; Mehrabian and Epstein 1972 ; Stotland 1969 .
+26 Batson 1998 ; Batson et al .
+2002 .
+27 Pagano and Huo 2007 .
+588 NEWMAN , HARTMAN , LOWN AND FELDMAN identified their race as non-Hispanic , White .
+In keeping with prior opinion research on immigration aimed at assessing the dynamics of opinion among the Anglo majority toward immigrant minorities,28 the present analysis is restricted to these White respondents.29 To measure humanitarianism , we rely upon a scale constructed from four items included in the 1996 post-election study that originally appeared in the 1995 ANES Pilot Study .
+This four item scale ( a 5 0.60 ) , labeled Humanitarianism , represents a short-form of the eight-item scale from the 1995 Pilot Study demonstrated to be a valid and reliable measure of individual differences in humanitarianism.30 As an example , one of the four items comprising our scale asked respondents to report their level of agreement with the statement : ‘ One should always find ways to help others less fortunate than oneself ’ .
+The response options for this and the other items ranged from ( 1 ) ‘ agree strongly ’ to ( 5 ) ‘ disagree strongly ’ .
+Our Humanitarianism scale was constructed to range from low to high humanitarianism , and recoded to range from 0 to 1 for ease of interpretation .
+The mean of the scale was 0.70 , indicating considerable support for humanitarianism – a descriptive result found with other data in past research.31 For more information about question wording for the items in our scale see Supplemental Appendix A .
+The primary policy dependent variable for this analysis , labeled Amount of Immigration , is a standard item asking respondents to report their preferred level of immigration permitted into the country .
+More specifically , respondents were asked : ‘ Should the number of immigrants from foreign countries permitted to come to the US to live be ( 1 ) increased a lot , ( 2 ) increased a little , ( 3 ) left the same as it is now , ( 4 ) decreased a little , or ( 5 ) decreased a lot ’ ?
+This item has a mean of 3.8 and standard deviation of 0.92 , indicating a preference among the average white respondent in this survey for immigration to be decreased .
+Indeed , while only 4.4 percent of respondents preferred immigration be increased in any way , 58 percent preferred a moderate to severe decrease in the level of immigration into the country .
+Despite this clear restrictionist leaning among white Americans at the time of data collection , 37.6 percent preferred immigration be kept at its present levels , indicating that , while not supporting immigration by endorsing permissive policy , a large segment of the American public failed to signal any pronounced opposition to immigration .
+In addition to this core policy item of interest , the 1996 ANES also contained an item tapping preferences toward government policy and the eligibility of immigrants for government services .
+Respondents were asked : ‘ Do you think that immigrants who come to the US should be eligible as soon as they come here for government services such as Medicaid , Food Stamps , Welfare , or should they have to be here a year or more ? ’ From this item , we created a dichotomous variable , labeled Delay Welfare Benefits , and coded 1 for respondent ’ s preferring the more restrictive position of making immigrants wait one year for benefits and 0 for those preferring to make immigrants immediately eligible for services .
+This item has been used in prior opinion research on immigration32 and provides 28 Brader , Valentino and Suhay 2008 ; Campbell , Wong , and Citrin 2006 ; Citrin , Reingold , and Green 1990 ; Hood and Morris 1997 ; Rocha and Espino 2009 ; Stein , Post , and Rinden 2000 ; Tolbert and Grummel 2003 .
+29 In addition to being consistent with prior research , extant research suggests that theoretical models other than those developed to explain national majority group reactions to immigrant minorities may be appropriate for explaining the dynamics of opinion on immigration among immigrants and other minority groups ( e.g. , Hainmueller and Hopkins 2014 ; Dancygier and Saunders 2006 ; Nteta 2013 ) .
+30 Steenbergen 1996 .
+31 Feldman and Steenbergen 2001 .
+32 Citrin et al .
+1997 ; Newman , Hartman , and Taber 2012 .
+Easing the Heavy Hand 589 an opportunity to assess whether the hypothesized effect of humanitarianism on preferences over the amount of immigrants permitted to enter the country extends beyond the border to a policy aimed at providing support to immigrants once residing within the country .
+Our analysis included a variety of relevant control variables .
+First , we sought to ensure that the observed effect of our measure of humanitarianism was not capturing other potentially related constructs , such as egalitarianism or political ideology .
+Thus , we included a measure of both in our analysis .
+Egalitarianism was measured using five items tapping respondents ’ general level of support for the principle of equality , as well as support for active efforts by government to rectify existing social and economic inequalities in society .
+For example , one of the five items in the scale asked respondents their level of agreement with the statement : ‘ Our society should do whatever is necessary to make sure that everyone has an equal opportunity to succeed. ’ Response options for these items ranged from ( 1 ) ‘ Agree Strongly ’ to ( 5 ) ‘ Disagree Strongly. ’ When combined , these items formed a reliable scale ( a 5 0.68 ) , that was reverse coded to range from low to high levels of egalitarianism .
+Consistent with prior research,33 this egalitarianism measure is only weakly correlated with humanitarianism ( r5 0.24 ) .
+Thus , we can be reasonably sure that these two items are empirically distinct , and that the inclusion of both in our analysis will enable us to observe the effect of concern for the welfare of others on immigration policy attitudes after controlling for general beliefs about how equitably resources should be distributed in society .
+Next , we included a control for liberal– conservative ideological self-identification , labeled Ideology , by using an item asking respondents to place themselves on a seven-point scale ranging from ( 1 ) ‘ extremely Liberal ’ to ( 7 ) ‘ extremely Conservative. ’ The correlation between humanitarianism and ideology is 20.09 , indicating that our measure of concern for the welfare of others is empirically distinct from political ideology .
+As found in past research,34 we find that egalitarianism is negatively correlated with ideology ( r50.41 ) , such that liberals are more likely than conservatives to support a more equal distribution of income throughout society .
+In addition to these two core controls , we also included standard controls for Education , Gender ( 15male ) , Age , and partisanship , labeled Party ID ( standard seven- point scale , 75 strong Republican ) .
+To control for the potential effects of personal economic concerns on preferences over immigration , we included controls for individual Income , Unemployment ( 15unemployed ) , and Pocketbook Evaluations ( high5 experiencing financial distress ) .
+Beyond these standard controls , two additional individual-level factors of theoretical importance were included in our analysis .
+Prejudice toward ethnic minorities is a demonstrated predictor of opinion on immigration among citizens across a range of immigrant-receiving nations.35 Given that Hispanic immigrants are the largest , fastest growing , and most politically salient immigrant group in the United States , our analysis included a continuous measure of general negative affect toward Hispanics , labeled Hispanic Affect .
+This variable was coded to range from low to high negative feelings toward Hispanics .
+Second , our analysis included a control for the frequency of religious attendance to ensure that our humanitarianism measure is not simply picking up the effects of religiosity .
+For ease of interpretation , all variables were recoded to range from 0 to 1 .
+For more information about variable measurement and question wording , please see Supplemental Appendix A .
+33 E.g. , Feldman and Steenbergen 2001 .
+34 E.g. , Feldman and Steenbergen 2001 .
+35 Citrin et al .
+1997 ; Huddy and Sears 1995 .
+590 NEWMAN , HARTMAN , LOWN AND FELDMAN Results Given the ordinal nature of our primary dependent variable , we used an ordered logistic regression model to estimate the effect of humanitarianism on preferences over the amount of immigration into the United States .
+To assess the effect of humanitarianism on preferences over the delay of government benefits to immigrants , we estimated a logistic regression model .
+The results from these models are presented in Table 1 .
+Beginning with our core model concerning the Amount of Immigration , the results reveal , as hypothesized , that an increase in humanitarianism is associated with a significant decrease in support for restricting the amount of legal immigration into the country ( B5 20.75 , SE5 0.36 , p , 0.05 ) .
+In other words , citizens who are more concerned about the welfare of others – particularly those who are less fortunate than themselves – are significantly more permissive on immigration , as indicated by the decrease in their probability of endorsing a government policy of greatly reducing the amount of immigration .
+The magnitude of the effect of humanitarianism is provided in the bottom row of Table 1 ; as listed , moving from minimum to maximum levels of humanitarianism is associated with a 0.16 decrease in the probability of endorsing the most restrictive policy position with respect to the amount of immigration .
+Thus , in addition to being statistically significant , the effect of humanitarianism is substantively meaningful .
+In addition to reducing opposition to immigration at the border , the results in column 2 of Table 1 reveal that humanitarianism also reduces support for policies aimed at restricting the access of immigrants already residing within the country to vital government services .
+Indeed , an increase in humanitarianism is associated with a significant decrease ( B5 22.56 , SE5 0.70 , p , 0.01 in the probability of favoring a policy of making immigrants wait one year to become eligible to receive government services .
+In addition to being highly significant , this effect is also substantively comparable in size to its impact on preferences over the amount of immigration , as moving from minimum to maximum levels of humanitarianism is associated with nearly a 0.15 decrease in the probability of denying immigrants immediate access to government services and welfare .
+Turning to the controls in the Amount of Immigration model , we find that educated citizens and those scoring higher on egalitarianism were significantly less opposed to immigration , while those very concerned about their personal finances and reporting higher levels of prejudice toward Hispanics36 were more likely to favor a reduction in the amount of immigration into the United States .
+Within the Delay Welfare Benefits model , the only control to emerge significant was egalitarianism , with those scoring higher in egalitarianism significantly more opposed to denying immigrants immediate access to government services .
+One issue worth addressing is the possibility that the impact of humanitarianism varies across political orientations and prejudice , such that the effects we observe in Table 1 are attenuated among Republican , conservative , or prejudiced citizens .
+In estimating auxiliary moderated regression models including interaction terms between humanitarianism and partisanship , ideology , and prejudice , no significant interactions emerged between our measure of humanitarianism and partisanship , ideology , or prejudice toward Hispanics for either dependent variable .
+That is , our analyses indicate that possessing high levels of concern for the welfare of others translates 36 Given potential reciprocal causality between immigration policy preferences and prejudice toward Hispanics , we should note that the results for humanitarianism completely hold ( in both Study 1 and Study 2 ) when excluding our measure of prejudice from our models .
+Easing the Heavy Hand 591 into heightened permissiveness toward immigrants for Democrats and Republicans , liberals and conservatives , and the prejudiced and unprejudiced alike.37 The results presented above provide initial support for our humanitarianism hypothesis .
+More specifically , the findings from Study 1 demonstrate that citizens who are more concerned about the welfare of others , holding constant a range of competing factors , are much less likely to oppose immigration and more likely instead to support immigrants by endorsing a policy of keeping the nation ’ s borders open .
+Additionally , Study 1 demonstrates that the permissive benefit provided to immigrants by humanitarianism extended beyond the border to policy impacting the welfare of immigrants once within the country , as citizens scoring higher in humanitarian concern were more likely to support a policy of making immigrants immediately eligible for receiving needed government services .
+Given that Study 1 relies upon data collected in 1996 , we wanted to assess the robustness of the effect of humanitarianism on immigration policy preferences over time .
+In the following study , we provide an additional test of our first hypothesis using representative survey data collected in 2005 .
+TABLE 1 Humanitarianism and Immigration Policy Preferences ( 1996 ANES Post- Election Study ) Amount of Immigration Delay Welfare Benefits Humanitarianism 20.750* ( 0.363 ) 22.56*** ( 0.702 ) Education 21.33*** ( 0.233 ) 20.636 ( 0.425 ) Income 0.247 ( 0.235 ) 0.348 ( 0.432 ) Age 0.001 ( 0.003 ) 0.004 ( 0.006 ) Gender 20.142 ( 0.119 ) 20.086 ( 0.215 ) Unemployed 20.283 ( 0.334 ) 20.807 ( 0.515 ) Pocketbook Evaluations 0.723** ( 0.258 ) 0.355 ( 0.440 ) Ideology 0.297 ( 0.338 ) 0.522 ( 0.621 ) Party ID 20.231 ( 0.194 ) 0.569 ( 0.368 ) Egalitarianism 21.42*** ( 0.321 ) 22.42*** ( 0.590 ) Hispanic Affect 1.16*** ( 0.329 ) 0.691 ( 0.567 ) Religious Attendance 20.134 ( 0.149 ) 20.043 ( 0.273 ) Constant 4.54 ( 0.886 ) Thresholds Cut 1 25.86 ( 0.536 ) Cut 2 24.49 ( 0.484 ) Cut 3 21.57 ( 0.461 ) Cut 4 20.179 ( 0.458 ) N 1,207 1,207 Effect size D Pr ( Y5Max value ) due to D Humanitarianism 20.156 20.149 Notes : Entries are unstandardized coefficients from logistic and ordered logistic regressions .
+Reported effect sizes are based upon post-estimation analysis of predicted probabilities using CLARIFY ( King , Tomz , and Wittenberg 2000 ) in Statas .
+Reported effects represent the change in the probability of selecting the highest category of each dependent variable associated with moving from 0 to 1 on the recoded Humanitarianism Scale .
+*p , 0.05 , **p , 0.01 , ***p , 0.001 .
+Significance tests based upon two-tailed hypothesis tests .
+37 Given the potential for humanitarianism in serving as a ‘ pre-political ’ value orientation influencing political orientations , we should note that our results for humanitarianism ( across our three studies ) completely hold when excluding party identification and ideology , as potentially mediating variables , from our models .
+592 NEWMAN , HARTMAN , LOWN AND FELDMAN STUDY 2 : THE 2005 CID SURVEY To provide a replication test for Hypothesis 1 using more recent data , we utilize the 2005 Citizenship , Involvement , Democracy study ( CID ) conducted by the Center for Democracy and Civil Society at Georgetown University .
+This survey , fielded between May and July 2005 , is comprised of 1,001 face-to-face interviews of adult Americans throughout the contiguous United States .
+The response rate for this survey , based upon a cluster-sample design , is 40 percent .
+Of the 1,001 survey respondents , 725 identified their race as non-Hispanic , White .
+Consistent with Study 1 and prior research , the present analysis is restricted to these White respondents .
+To measure humanitarianism , we relied upon a survey item asking respondents to report how important they believed it to be to ‘ support people who are worse off than themselves ’ .
+This item strikes at the heart of the theoretical conceptualization of humanitarianism as a pro-social orientation consisting of the belief that one bears a personal responsibility to help others who are in need.38 Moreover , this question is comparable to items measuring humanitarianism from the 1995 and 1996 ANES studies .
+The response options for this item range from ( 0 ) ‘ Extremely Unimportant ’ to ( 10 ) ‘ Extremely Important ’ .
+The mean for this variable , labeled Humanitarianism , is 7.2 , with a standard deviation of 2.1 , indicating considerable importance attributed to humanitarianism in the sample – a descriptive result consistent with that from the 1996 ANES and prior research .
+For ease of interpretation , Humanitarianism was recoded to range from 0 to 1 .
+Consistent with Study 1 , we used respondents ’ preferences over the Amount of Immigration as the primary policy dependent variable for this analysis .
+Similar to the item from the 1996 ANES survey , respondents in the 2005 CID were asked : ‘ Should the number of immigrants from foreign countries permitted to come to the US to live be ( 1 ) increased a lot , ( 2 ) increased a little , ( 3 ) left the same as it is now , ( 4 ) decreased a little , or ( 5 ) decreased a lot ’ ?
+Two descriptive findings for this item are consistent with the item from the 1996 ANES used in Study 1 , and past research more generally.39 First , when it comes to the most general issue of how many immigrants should be allowed to enter the United States , as found in 1996 , white Americans in 2005 leaned toward a restrictionist position , as the mean response to the CID question was 3.6 on a scale ranging from 1 to 5 .
+Second , despite this restrictionist leaning , the modal response ( 34.3 percent ) among white respondents was to maintain the amount of immigrants admitted to the United States , at its current levels .
+Twenty-eight percent of Whites in our sample supported the most restrictive position of preferring immigration be ‘ decreased a lot , ’ ’ while only about 13 percent reported preferring the amount of immigration be either ‘ increased a little ’ or ‘ increased a lot ’ .
+Our analysis included the same set of controls included in Study 1 .
+First , Egalitarianism was measured using respondents ’ reported level of agreement with the statement : ‘ The government should take measures to reduce differences in income levels. ’ Response options ranged from ( 1 ) ‘ Agree Strongly ’ to ( 5 ) ‘ Disagree Strongly ’ .
+For clarity , we reverse coded this item from low to high support for reducing income inequality .
+This measure of egalitarianism is roughly comparable in question wording to items from the NES used in prior research,40 and consistent with past research and Study 1 , 38 Feldman and Steenbergen 2001 .
+39 E.g. , Hood and Morris 1997 .
+40 E.g. , Feldman 1988 ; Feldman , 1999 ; Feldman and Steenbergen 2001 ; Kluegel and Smith 1986 .
+Easing the Heavy Hand 593 egalitarianism is uncorrelated in the CID survey with humanitarianism ( r5 0.06 ) .
+Next , we control for Ideology with an item asking respondents to place themselves on an 11-point scale ranging from ( 0 ) ‘ Extremely Liberal ’ to ( 10 ) ‘ Extremely Conservative ’ .
+The correlation between humanitarianism and ideology is 0.01 , indicating that , consistent with Study 1 , our measure of humanitarianism is empirically distinct from political ideology .
+As found in Study 1 , we find that our measure of egalitarianism in the CID is negatively correlated with ideology ( r5 20.19 ) .
+As was done in Study 1 , we included standard controls for Education , Gender ( 15male ) , Age , Party ID ( standard 7-point scale , 75 strong Republican ) , Income , Unemployment ( 15unemployed ) , Pocketbook Evaluations ( high5 experiencing financial distress ) , Hispanic Affect , and Religious Attendance .
+Beyond these standard controls , the CID included a measure of the strength of national identity , which has been found to be an important predictor of public opinion on immigration.41 Therefore , our analysis included a measure of the strength of National Identity , coded to range from weak to strong attachment to American identity .
+In addition , research has demonstrated that personality traits , such as authoritarianism , influences attitudes toward immigration ; 42 given this , we include a control for Right Wing Authoritarianism .
+Last , intergroup contact theory suggests that having friends who are immigrants may reduce threat perceptions and increase support for permissive policy positions .
+To control for this possibility , our analysis included a dichotomous measure – labeled Immigrant Friend & Family – which captures whether respondents report having any close friends who are recent immigrants ( 15has immigrant friends/family ) .
+For ease of interpretation , all variables were recoded to range from 0 to 1 .
+For more information about variable measurement and question wording , please see Supplemental Appendix B .
+Results The results from an ordered logistic regression analysis of the effect of humanitarianism on preferences over the amount of immigration into the United States are presented in Table 2 .
+As hypothesized , and consistent with the results from Study 1 , we find that an increase in humanitarianism is associated with a significant decrease in support for restricting the amount of legal immigration into the country ( B5 20.67 , SE5 0.33 , p , 0.05 ) .
+To be sure , citizens who find it important to support people who are worse off than themselves , compared to those who find it of lesser importance , are significantly less opposed to immigration .
+The magnitude of the effect of humanitarianism is provided in the bottom row of Table 2 , which reveals that moving from minimum to maximum levels of humanitarianism is associated with a 0.14 decrease in the probability of endorsing the most restrictive policy position with respect to the amount of immigration .
+Thus , across two national surveys separated by nearly a decade , we find that the effects of humanitarianism are in the hypothesized direction , statistically significant , substantively meaningful , and strikingly comparable in effect size.43 41 Sides and Citrin 2007 ; Sniderman , Hagendoorn , and Prior 2004 .
+42 Hetherington and Weiler 2009 .
+43 While we are primarily interested in the impact of Humanitarianism on preferences over the Amount of Immigration , the 2005 CID Survey contains three additional items gauging respondents ’ perceptions regarding the economic , cultural , and public safety impacts of immigration into the nation .
+In estimating three additional regression models , we found that an increase in humanitarianism was associated with significant decreases in perceived economic , cultural , and crime threats related to immigration .
+For readers interested in viewing these results , see Supplemental Appendix C. 594 NEWMAN , HARTMAN , LOWN AND FELDMAN Turning to the controls , we find that , consistent with prior opinion research , educated citizens are significantly less opposed to immigration , while older adults , ideological conservatives , those very concerned about their personal finances , and those reporting higher levels of authoritarianism and prejudice toward Hispanics , are more likely to favor a reduction in the amount of immigration into the country .
+Additionally , consistent with null results found with the 1996 ANES , in estimating auxiliary moderated regression models , we found no significant interactions between our measure of humanitarianism and partisanship , ideology , or prejudice toward Hispanics .
+Thus , as was the case with the 1996 ANES data , our auxiliary analyses using the CID data indicate that possessing high levels of humanitarian concern for others translates into heightened permissiveness toward immigration among Democrats and Republicans , liberals and conservatives , and the prejudiced and unprejudiced alike .
+Further , given the presence of a measure of the strength of national identity , we sought to ascertain whether national attachment moderates the impact of humanitarianism , such that those scoring higher in attachment may be less inclined to extend humanitarian concern toward outgroup members , such as immigrants .
+Despite the theoretical plausibility of this possibility , we did not find a significant interaction between humanitarianism and national identity .
+TABLE 2 Humanitarianism and Support for Restricting the Amount of Immigration ( 2005 CID Survey ) B ( SE ) Humanitarianism 20.669* ( 0.333 ) Education 20.798** ( 0.298 ) Income 0.312 ( 0.358 ) Age 0.620* ( 0.311 ) Gender 20.185 ( 0.144 ) Unemployed 20.414 ( 0.294 ) Pocketbook Evaluations 1.07*** ( 0.305 ) Ideology 1.28*** ( 0.370 ) Party ID 0.046 ( 0.232 ) Egalitarianism 0.226 ( 0.241 ) National Identity 0.304 ( 0.462 ) Hispanic Affect 1.54*** ( 0.394 ) Right-Wing Authoritarianism 1.73*** ( 0.392 ) Immigrant friends & family 0.296 ( 0.228 ) Religious Attendance 0.058 ( 0.275 ) Thresholds Cut 1 20.882 ( 0.629 ) Cut 2 0.421 ( 0.614 ) Cut 3 2.47 ( 0.620 ) Cut 4 3.68 ( 0.627 ) N 721 Effect size D Pr ( Y5 ‘ decreased a lot ’ ) due to D Humanitarianism 20.142 Notes : Entries are unstandardized coefficients from an ordered logistic regression .
+The dependent variable is Amount of Immigration , coded so that highest category indicates support for decreasing the amount of immigration into the United States .
+Reported effect sizes are based upon post-estimation analysis of predicted probabilities using CLARIFY ( King , Tomz , and Wittenberg 2000 ) in Statas .
+Reported effect represents the change in the probability of preferring the amount of immigration be ‘ decreased a lot ’ associated with a 0 to 1 change in Humanitarianism .
+*p , 0.05 , **p , 0.01 , ***p , 0.001 .
+Significance tests based upon two- tailed hypothesis tests .
+Easing the Heavy Hand 595 The results presented thus far provide strong support for our humanitarianism hypothesis .
+In the study that follows , we seek to replicate these findings using original survey data collected in 2012 from respondents living in North Carolina , an American state that has seen large influxes of Hispanic immigrants over the past decade .
+We also embedded an original experiment within the survey which enabled us to test our remaining hypotheses concerning the effects of media messages inducing threat and humanitarian concern on policy preferences , as well as the role of empathy in moderating the impact of such inducements .
+STUDY 3 : THE 2012 NORTH CAROLINA PRIMARY ELECTION SURVEY EXPERIMENT We fielded our survey experiment roughly two weeks prior to the 2012 North Carolina Primary Election.44 To obscure the true nature of our study , respondents first answered a set of general questions about state politics such as their evaluations of the governor and state legislature , trust in state government , and attitudes toward local political issues .
+Next , respondents completed a series of items measuring three psychological constructs of interest , namely humanitarianism , empathy , and egalitarianism .
+Following these items , subjects were then randomly assigned to one of four experimental treatment conditions that involved reading a fabricated press release about a federal program to allow a group of Hondurans to immigrate to North Carolina .
+After exposure to the primary manipulation , respondents completed a post-treatment questionnaire measuring their attitudes toward various immigration policies , as well as some basic demographics .
+In terms of demographics , our North Carolina sample of 983 adults is relatively diverse.45 For example , respondents ’ ages ranged from 18 to 85 years old ( median age5 40 years old ) , and they reported living in ninety of the 100 counties within the state .
+Moreover , 34 percent of respondents identified themselves as Republicans , 37 percent as Independents , and 29 percent as Democrats .
+Ideologically , the sample consisted of 36 percent conservatives , 42 percent moderates , and 23 percent liberals .
+The median household income range of the sample is $ 25,000 to $ 50,000 , with 39 percent of respondents indicating that they had earned a four-year college degree .
+The only apparent anomaly with our uSamp data is that the sample is skewed heavily toward female respondents ( 79 percent ) , which is likely a function of the websites from which uSamp recruits panelists .
+Eighty-three percent of the sample identified their race as non-Hispanic , white , and we will focus on this subsample for the remaining analyses .
+Replication of Studies 1 and 2 To replicate our findings from Studies 1 and 2 , we analyzed the effects of individual differences in humanitarianism on immigration policy preferences for the 196 white 44 Data were collected from 27 April to 3 May 2012 , immediately before the NC Primary Election was held on 8 May 2012 .
+Respondents were recruited on the Internet by uSamp , a global provider of online market research panels .
+Recruiting from thousands of partners worldwide , uSamp boasts a panel of more than nine million highly diverse respondents worldwide , with an average of more than 200,000 unique visitors to their consumer websites every day .
+Panelists are offered their choice of monetary incentives for their participation such as cash , gift cards , virtual currency , or charitable contributions .
+45 To ensure the quality of our data , we embedded a quality control question in the psychological item batteries to filter out bad data .
+Of the original 1,069 respondents that completed our online survey , 86 individuals ( 8 percent of the sample ) did not answer the quality control question correctly , so they were dropped from further analyses .
+596 NEWMAN , HARTMAN , LOWN AND FELDMAN respondents in the control condition of our survey experiment.46 We measured individual differences in humanitarianism using the eight-item scale from the 1995 ANES pilot study and also used by Feldman and Steenbergen .
+From these items , we generated a scale , labeled Humanitarianism ( a 5 0.80 ) , coded so that high values reflect greater levels of this trait .
+For more information about these eight items , see Supplemental Appendix D. Our primary dependent variable in the NC statewide survey is the standard Amount of Immigration item , which is coded so that the highest category indicates a preference for a reduction in the level of immigration .
+In addition to soliciting preferences on this item in order to conduct a replication test of the results from the 1996 ANES and 2005 CID , we asked respondents to report their preferences on two additional immigration policy issues .
+The first of these items , labeled Delay Welfare Benefits , parallels the item from Study 1 and gauges whether legal immigrants should be immediately eligible for statewide government services and programs or should have to wait one year or more .
+We coded this three-category ordinal item so that the highest value ( 35 ‘ wait more than 1 year ’ ) indicates a preference for greatly delaying ( i.e. , restricting ) the access of legal immigrants to government services .
+The second policy item asks respondents whether they favor or oppose allowing the children of undocumented immigrants to attend public schools .
+This item , labeled Attend Public Schools , has five ordered response categories , ranging from ( 1 ) ‘ Strongly Support ’ to ( 5 ) ‘ Strongly Oppose ’ .
+In sum , our survey contained three unique immigration policy items , and each was coded so that higher values indicate a preference for restrictive policy .
+To analyze the effect of humanitarianism on preferences across these three items , we estimated ordered logistic regression models .
+All models included controls for Egalitarianism , Education , Income , Age , Gender ( 15male ) , Ideology ( 15 very conservative ) , and Party ID ( 15 strong Republican ) .
+For ease of interpretation , all independent variables – except age – were recoded to range from 0 to 1 .
+For more information about variable measurement and question wording , please see Supplemental Appendix D. The results from these analyses are presented in Table 3 .
+The first row of the table lists the effects of humanitarianism on each policy , and the bottom row lists the magnitude of the effect of humanitarianism on each policy in the form of the change in the probability of favoring the most restrictive position on each policy associated with a one unit change ( i.e. , moving from low to high levels ) in humanitarianism .
+First and foremost , the results in column 1 of Table 3 corroborate the results from the ANES and CID surveys by revealing that an increase in humanitarianism is associated with a significant decrease in the probability of preferring to limit the number of legal immigrants allowed to enter the United States .
+However , compared to Studies 1 and 2 , the effect size of humanitarianism is substantially larger , as moving from minimum to maximum levels of humanitarianism is associated with a 0.47 decrease in the probability of favoring a reduction in immigration .
+Thus , across three separate datasets spanning across sixteen years , we find consistent support for our first hypothesis that individuals who are higher in humanitarianism will be less opposed to immigration and more supportive of retaining an open border .
+Further , in each of the three studies , particularly Study 3 , we find that these effects are substantively meaningful .
+46 We chose to use respondents in the control condition of our survey experiment because these respondents essentially comprise a sub-sample of observational data and were not subjected to messages inducing threat or humanitarian concern .
+Thus , the use of those in the control condition enables us to perform an analysis of the effects of individual differences in humanitarianism on policy preferences devoid of any influence of exposure to different stimulus materials .
+Easing the Heavy Hand 597 The results in columns 2 and 3 of Table 3 present the effects of humanitarianism on the two additional policy items .
+The results reveal that the permissive benefit provided by humanitarianism with respect to a policy concerning the entry of immigrants into the country extends to policies concerning the availability of government services to immigrants once residing within the country .
+Consistent with the finding from Study 1 , the results in column 2 indicate that humanitarians are more likely to oppose making legal immigrants wait over a year to receive government services ; instead , those high in humanitarianism are more likely to endorse more immediate eligibility for such services .
+In column 3 , we see that those high in humanitarianism are also more likely to oppose a policy of barring the children of illegal immigrants from attending public schools .
+Further , the results in the bottom row of the table reveal that the magnitudes of these effects are quite large .
+Thus , when it comes to entry into the United States and access to government services , humanitarianism clearly provides a permissive benefit .
+Interestingly , the largest effect of humanitarianism pertains to arguably one of the most vulnerable segments of the immigration population – the children of illegal immigrants .
+When it comes to providing support to these children by allowing them access to public schools , humanitarianism drastically increases permissiveness .
+Results from the Survey-Embedded Experiment Having replicated the results from Studies 1 and 2 , we now turn to our survey-embedded experiment , in which respondents were randomly assigned to one of four experimental conditions ( information environment : control , threat , humanitarianism , and combined ) .
+TABLE 3 Humanitarianism and Immigration Policy Preferences ( 2012 NC Primary Election Statewide Survey ) Amount of Immigration Delay Welfare Benefits Attend Public Schools Humanitarianism 22.31* ( 0.975 ) 22.77** ( 0.965 ) 24.41*** ( 0.892 ) Education 20.351 ( 0.599 ) 21.65** ( 0.585 ) 20.516 ( 0.535 ) Income 0.033 ( 0.679 ) 0.883 ( 0.673 ) 20.322 ( 0.590 ) Age 0.016 ( 0.011 ) 0.018y ( 0.010 ) 0.023* ( 0.010 ) Gender 21.11** ( 0.355 ) 0.056 ( 0.343 ) 0.060 ( 0.318 ) Ideology 1.13 ( 0.890 ) 0.084 ( 0.864 ) 1.33y ( 0.820 ) Party ID 1.28 ( 0.832 ) 2.18** ( 0.815 ) 1.01 ( 0.775 ) Egalitarianism 1.31 ( 0.858 ) 1.39y ( 0.831 ) 20.227 ( 0.798 ) Constant Thresholds Cut 1 0.212 ( 1.26 ) 21.51 ( 1.16 ) 23.48 ( 1.15 ) Cut 2 2.70 ( 1.27 ) 0.184 ( 1.16 ) 21.99 ( 1.14 ) Cut 3 20.554 ( 1.13 ) Cut 4 0.942 ( 1.13 ) N 194 195 195 Effect size D Pr ( Y5Max Value ) due to D Humanitarianism 20.473 20.576 20.629 Notes : Entries are unstandardized coefficients from logistic and ordered logistic regressions .
+Results based upon 196 non-Hispanic White survey respondents in the control condition of the survey experiment that answered the quality control question correctly .
+Reported effect sizes are based upon post-estimation analysis of predicted probabilities using CLARIFY ( King , Tomz , and Wittenberg 2000 ) in Statas .
+Reported effects represent the change in the probability of selecting the highest category of each dependent variable associated with moving from 0 to 1 on the recoded Humanitarianism Scale .
+yp , 0.10 , *p , 0.05 , **p , 0.01 , ***p , 0.001 .
+Significance tests based upon two-tailed hypothesis tests .
+598 NEWMAN , HARTMAN , LOWN AND FELDMAN All subjects were presented with a fabricated press release informing them that the ‘ US Immigration and Customs Enforcement Office has drafted a plan to begin allowing hundreds of Hondurans to immigrate to North Carolina ’ ( for the exact wording of all stimulus materials , see Supplemental Appendix E ) .
+The four experimental conditions vary by the information that was presented following this information .
+In the threat condition , subjects read about a non-partisan report indicating that these new immigrants will ‘ require a wide range of tax-payer funded state services ’ , likely ‘ increase competition for jobs ’ , ‘ have limited English-language ability ’ , and ‘ take some time to fully assimilate into the US ’ .
+Our threat manipulation was designed to tap two distinct dimensions of immigration-related threat , namely realistic threats to the material well-being of the group47 and symbolic threats to citizens ’ values , norms , and cultural identity.48 Discussion of these types of threat pervades media discourse on immigration,49 and reliance upon this type of information to induce threat over immigration experimentally has been demonstrated to be effective in prior research.50 By contrast , subjects assigned to the humanitarianism condition read that the purpose of the immigration plan was to help these Hondurans escape ‘ harsh and unsafe conditions in their home country ’ such as ‘ poverty ’ , ‘ limited access to employment ’ , and ‘ government repression ’ .
+To be clear , our intention in this condition was to highlight the structural forces ‘ threaten [ ing ] the lives of many Hondurans ’ .
+In the combined condition , we included both of the threat and humanitarianism scripts , which serve to simulate a mixed message media environment .
+Finally , the control condition contained a relatively antiseptic description of Honduras ’ s climate , terrain , and natural resources .
+Following exposure to these stories , all respondents proceeded to complete the post- treatment questionnaire .
+In addition to filtering out respondents with a quality control item , we filtered the data from the survey experiment based upon respondents ’ recorded reading times in each condition .
+Using estimates based upon average reading rates , and what we believe to be reasonable reading times for each condition , we opted to filter 220 respondents or ( 21 percent of the sample ) from the data.51 This filtering procedure ensures that we removed respondents who most likely did not read the assigned news passage , and thus did not receive the respective experimental treatment .
+The remaining sample used to evaluate the effects of our treatments contained 726 respondents , of which we restrict our analyses to the 618 non-Hispanic whites .
+To assess the effects of our experimental treatments on respondents ’ immigration policy preferences , we created three dichotomous treatment dummy variables to correspond to 47 E.g. , Espenshade and Calhoun 1993 ; Passel and Fix 1994 .
+48 Sniderman , Hagendoorn , and Prior 2004 .
+49 Chavez 2008 ; Waldman et al .
+2008 .
+50 Brader , Valentino , and Suhay 2008 .
+51 Research on adult reading rates suggests that the average person can read approximately 200 to 250 words per minute ( Taylor 1965 ) .
+Using these speeds as a baseline , we estimated that ‘ slow ’ readers would be able to read at least 100 words per minute ( or half of the 200-word average ) , while ‘ fast ’ readers would be able to read no more than 500 words per minute ( or double the 250-word average ) .
+We acknowledge that these figures are somewhat arbitrary cutoffs ; yet , we felt that the benefits of removing non-attendant subjects outweighed the exclusion of a few exceptionally fast or slow readers from our analyses .
+Thus , based upon the word length of each experimental condition , our cutoffs were as follows : ( 1 ) Threat ( 136 words ) : 16 to 82 seconds ; ( 2 ) Humanitarianism ( 151 words ) : 18 to 91 seconds ; ( 3 ) Combined : 28 to 151 seconds ; and ( 4 ) Control : 10 to 54 seconds .
+One way to check whether these estimates are accurate is to compare the expected with the observed ( median ) reading rates for each condition ( using 250 words per minute as the baseline ) : ( 1 ) Threat : 33 vs. 35 seconds ; ( 2 ) Humanitarianism : 36 vs. 35 seconds ; ( 3 ) Combined : 56 vs. 54 seconds ; and ( 4 ) Control : 22 vs. 29 seconds .
+By all accounts , our estimates seem very close to the actual median reading rates in the data .
+Easing the Heavy Hand 599 being in either the threat , humanitarian , or combined condition , with the control condition serving as the baseline category of comparison .
+To test our hypotheses concerning the effects of media information on citizens ’ immigration policy attitudes , we focus on respondents ’ preferences for the Amount of Immigration , whose question wording and coding is described in the prior section .
+To test Hypothesis 3 pertaining to the potential role of individual differences in empathy in moderating the effect of our humanitarian treatment on policy preferences , we relied upon five items taken from the short form of the empathy quotient.52 From these five items , we generated an Empathy scale ( a 5 0.72 ) , recoded from 0 to 1 and ranging from low to high levels of empathy .
+Figure 1 ( see also Table F1 in Supplemental Appendix F ) displays the results from an ordered logistic regression of subjects ’ preferences for the amount of immigration by experimental treatment condition .
+The results reveal that survey respondents who were exposed to threatening media messages about the material and cultural consequences of allowing Hondurans to immigrate to North Carolina were significantly more likely to prefer a reduction in the amount of immigration ( B5 0.35 , SE5 0.23 , p , 0.10 ) than those in the control condition .
+This finding is entirely in keeping with prior research in the opinion literature on immigration , where induced economic and cultural threats were found to generate opposition to immigration.53 Consistent with Hypothesis 2A , the results also reveal that subjects receiving the humanitarian treatment , compared to those in the control , were significantly less likely to support a restrictive policy of reducing the amount of immigration ( B5 20.48 , SE5 0.22 , p , 0.05 ) .
+And last , the results reveal that subjects receiving both treatments were also significantly less likely ( B5 20.39 , SE5 0.22 , p , 0.05 ) than those in the control to prefer restricting the amount of immigration .
+This last finding is particularly interesting given that we expected a neutralization effect ( i.e. , Hypothesis 2B ) , as prior research suggested that countervailing pieces of information tend to cancel each other out .
+Rather , we find that receiving information about the hardships faced by immigrants actually increased permissiveness even in the presence of threatening media information about immigrants .
+0.8 0.6 0.4 0.2 Threat Humanitarianism 0.45 0.47 Combined Control 0.560.65Pr= 0 P ro ba bi lit y of F av or in g a R ed uc tio n in Im m ig ra tio n Fig .
+1 .
+Support for restrictive immigration policy by experimental condition Notes : Plotted effects are based upon post-estimation analysis of predicted probabilities with 90 percent confidence intervals using CLARIFY ( King , Tomz , and Wittenberg 2000 ) in Statas .
+N5 616 .
+52 Baron-Cohen and Wheelwright 2004 ; Wakabayashi et al .
+2006 .
+53 Brader , Valentino , and Suhay 2008 ; Sniderman , Hagendoorn , and Prior 2004 ; Stephan et al .
+2005 .
+600 NEWMAN , HARTMAN , LOWN AND FELDMAN One thing to note from the figure is that the effect of our humanitarian treatment , directionality aside , is roughly 20 percent larger than that of our threat treatment .
+Given this , it makes some sense that receiving both messages in the combined condition would still lead to an overall reduction in restrictiveness .
+Yet , these differences in effect sizes beg the question : Are the differences in effects we observe due to humanitarianism being a stronger force in shaping opinion than threat , or because our threat manipulation was weak in stimulus design relative to our humanitarianism inducement , thus rendering our results an artifact of experimental design ?
+To be sure , we view our threat treatment as a strong manipulation in that it was based upon , and is entirely comparable to , proven stimulus materials used in other immigration research.54 No obvious disparities stand out between our two treatments in terms of script length , as the two scripts are roughly equal in this regard .
+In short , we view our two treatments as roughly equal in strength and suspect that induced humanitarian concern may have produced larger effects due to the presence of a ‘ ceiling effect ’ 55 for threat induction .
+Given the pervasiveness of threatening messages in media discourse about immigration , the public may already have these considerations present when thinking about their policy preferences .
+In contrast , humanitarian-oriented information is much less ubiquitous relative to threat ; thus , our manipulation of humanitarian concerns may be more likely to activate new considerations not already present by default .
+So far , the results from our survey experiment reveal that media messages inducing humanitarian concern for immigrants , by conveying information about the hardships they face in their home countries , can increase permissiveness for policies about the amount of immigration , and that this effect , though slightly weakened , holds in the presence of information intended to activate economic and cultural threat from immigrants .
+Now , we consider the question of whether these types of messages about immigration resonate with citizens ’ differently depending upon their ability to empathize with others .
+To assess whether individual differences in empathy moderates the effect of our experimental treatments , we interacted our treatment dummies with empathy and regressed preferences for the amount of immigration on the treatment dummies , empathy , and multiplicative terms .
+The results from this moderated regression analysis are presented in Figure 2 ( and Table F2 in Supplemental Appendix F ) .
+Consistent with Hypothesis 3 , the results reveal that the decrease in support for restricting the amount of immigration into the United States for those in the humanitarian condition only occurred among respondents high in empathy .
+When empathy is at its minimum value , subjects receiving the humanitarian treatment did not significantly differ from those in the control condition in their preference for restricting immigration .
+However , the marginally significant coefficient for the interaction term ( B5 22.03 , SE5 1.55 , p , 0.10 ) , and the marginal effects plotted in Figure 2 , indicate that the effect of receiving the humanitarian treatment significantly changes when moving from minimum to maximum levels of empathy , such that receiving the humanitarian treatment among those highest in empathy substantially decreases support for restrictive policy .
+In essence , this interaction confirms the theoretical intuition that providing information about the tribulations of immigrants would generate humanitarian concern , and consequently , policy permissiveness , only among citizens most able to empathize with 54 E.g. , Brader , Valentino , and Suhay 2008 ; Stephan et al .
+2005 .
+55 Lipsey 1990 .
+Easing the Heavy Hand 601 the plight of others .
+In addition to supporting our hypothesis , this effect also provides some ex post facto validation of our humanitarian treatment .
+Presumably , the main effect of our humanitarian treatment is due to the activation of concern for others ; these interactive results support this presumption by revealing that this treatment was effective only among individuals more likely empathizing with , and thus feeling concern for , the immigrants in the story.56 Threat Condition 0.5 0.25 M ar gi na l E ffe ct s on P r ( R es tr ic tin g Im m ig ra tio n ) 0 –0.25 –0.5 Low Moderate High Levels of Empathy Humanitarianism Condition 0.5 0.25 M ar gi na l E ffe ct s on P r ( R es tr ic tin g Im m ig ra tio n ) 0 –0.25 –0.5 Low Moderate High Levels of Empathy Fig .
+2 .
+Marginal effects of experimental treatments on immigration policy preferences across levels of empathy Notes : Plotted estimates ( with 90 percent confidence intervals ) reflect the conditional marginal effects ( of moving from the control to the treatment condition ) on the probability of favoring a reduction in the amount of immigration into the United States .
+N5 615 .
+56 We should note that the interactions among empathy and the treatment dummy variables remain statistically significant even after re-estimating the models with empathy as a set of dummy variables ( by breaking levels of reported empathy into quartiles ) .
+That is , we find negative and significant interactions between the threat treatment and each successive empathy dummy , which indicates a decreasing marginal effect of the probability of favoring restrictive immigration policy .
+602 NEWMAN , HARTMAN , LOWN AND FELDMAN While this effect is in line with theoretical expectations , our analysis uncovered a significant interaction between the threat treatment and empathy ( B5 3.39 , SE5 1.59 , p , 0.05 ) , depicted in Figure 2 , that was not theoretically anticipated .
+Interestingly , the results for this interaction indicate that our threat induction was most effective in augmenting opposition to immigration among those lowest in empathy .
+Then , we find a significant reversal in the marginal effect , where the provision of information intended to induce a sense of economic and cultural threat about immigration actually reduced opposition to immigration among those highest in empathy .
+At present , we can only speculate as to the process underlying this finding , but one distinct possibility is that the effect is being partly driven by an association between empathy and political orientations , such as partisanship .
+Within our sample of white respondents , however , empathy and partisanship are only weakly correlated ( r5 20.19 ) , with those highest in empathy manifesting a slight leaning toward being a Democrat .
+Despite having the benefit of random assignment to control for differences in partisanship across experimental groups , we re-ran the model while interacting the treatments with empathy and included partisanship as a blocking factor .
+The results from this model revealed that the interaction between threat and empathy remained intact , suggesting that the observed effect is not simply due to empathy capturing the effects of partisanship .
+One remaining possibility , then , is that those high in empathy may react negatively to attempts to vilify others , specifically under-privileged or vulnerable groups , such as immigrants .
+One last point to note is that , similar to Studies 1 and 2 where individual differences in humanitarian did not influence policy attitudes differently for Democrats and Republicans , here , in running a moderated regression model where we interacted our treatment dummies with partisanship rather than empathy , we find that the effect of our humanitarian inducement did not vary across Democrats and Republicans .
+CONCLUSION To date , scholars examining the determinants of immigration attitudes have focused exclusively on the negative – how factors such as threats , prejudice , and authoritarianism predict anti-immigrant sentiment .
+While undoubtedly crucial to our understanding of public opinion on immigration , this one-sided approach ignores the other half of the political debate , which centers on humanitarian concern for the plight of immigrants in their home countries .
+Analyzing three distinct datasets , we address this void in the literature by demonstrating that concern for the welfare of one ’ s fellow human beings is a strong predictor of white Americans ’ immigration policy preferences .
+In Studies 1 through 3 , we revealed that humanitarianism significantly increases opposition to policies aimed at reducing the amount of immigration , even after controlling for important variables such as partisanship , ideology , egalitarianism , prejudice , and a number of other demographic and experiential factors .
+Additionally , in Studies 1 and 3 , we extended these core findings by showing that humanitarianism provides a permissive benefit when it comes to policies concerning the provision of government services to immigrants , and that this effect is especially pronounced for allowing the children of illegal immigrants to attend public schools .
+Another novel contribution of our research is that we examined how different media environments , which were specifically designed to mimic the dominant arguments from pro- and anti-immigration groups , affect immigration attitudes .
+Utilizing a survey- embedded experiment , we showed that if the media were to highlight the plight of Easing the Heavy Hand 603 prospective immigrants , the ‘ heavy hand ’ typically dealt immigrants by the public in many immigrant-receiving nations may be eased in favor of support for more permissive policies .
+Most interestingly , our research suggests that humanitarian appeals have the potential to mitigate opposition to immigration , even in the presence of countervailing threats .
+Last , our research highlights the relevance of empathy as a trait of central importance in shaping public reactions to immigration debates , as it was shown to enhance the effect of humanitarian information and undermine the effect of typical threat-based appeals .
+The strongly moderating effect of empathy in the experiment highlights that we are truly dealing with a humanitarian response to immigrants , not just a positive framing effect .
+One limitation of our research is that our results are based upon data solely from the United States .
+While not necessarily representative of other immigrant-receiving nations , the United States is an attractive location to study the dynamics of opinion on immigration given the drastic and persistent influx of immigrants from Latin America into the country over the past few decades .
+Indeed , future research could work to replicate the results from our studies using data from other high-profile immigrant-receiving nations .
+Scholars could also extend our research by exploring additional bases for inducing humanitarian concern for immigrants , such as the difficulties they face living and working within their host countries .
+Last , future research could explore whether boundaries exist for the effect of humanitarianism on opinion on immigration .
+Prior work finds that the impact of humanitarian concern on support for welfare programs has defined limits,57 and that support for values in the abstract does not always translate to support for specific policies aimed at actualizing such values.58 While this article demonstrates that humanitarian concern leads to support for immigrants , our analyses mostly focus on border permissiveness and policies concerning legal immigrants and children .
+One possible direction for future research could be to determine whether the permissive benefits of humanitarianism observed in this article extend to policies concerning undocumented workers , such as deportation and amnesty .
+REFERENCES Baron-Cohen , Simon .
+2011 .
+The Evolution and Diagnosis of Empathy .
+Evolutionary Review 2:55–7 .
+Baron-Cohen , Simon , and Sally Wheelwright .
+2004 .
+The Empathy Quotient : An Investigation of Adults with Asperger Syndrome or High Functioning Autism , and Normal Sex Differences .
+Journal of Autism and Developmental Disorders 34:163–75 .
+Batson , C. Daniel .
+1998 .
+Altruism and Prosocial Behavior .
+Pp .
+282–316 in Handbook of Social Psychology , 4th Edition , Volume 2 , edited by Daniel T. Gilbert , Susan T. Fiske and Gardner Lindzey .
+New York : McGraw-Hill .
+Batson , C. Daniel , Johee Chang , Ryan Orr , and Jennifer Rowland .
+2002 .
+Empathy , Attitudes , and Action : Can Feeling for a Member of a Stigmatized Group Motivate One to Help the Group ?
+Personality & Social Psychology Bulletin 28:1656–66 .
+Brader , Ted , Nicholas A. Valentino , and Elizabeth Suhay .
+2008 .
+What Triggers Public Opposition to Immigration ?
+Anxiety , Group Cues , and Immigration Threat .
+American Journal of Political Science 52:959–78 .
+Burns , Peter , and James G. Gimpel .
+2000 .
+Economic Insecurity , Prejudicial Stereotypes , and Public Opinion on Immigration Policy .
+Political Science Quarterly 1152:201–25 .
+57 Feldman and Steenbergen 2001 .
+58 E.g. , McCloskey and Zaller 1984 .
+604 NEWMAN , HARTMAN , LOWN AND FELDMAN Campbell , Andrea Louise , Cara Wong , and Jack Citrin .
+2006 .
+Racial Threat , Partisan Climate , and Direct Democracy : Contextual Effects in Three California Initiatives .
+Political Behavior 282:129–50 .
+Chavez , Leo Ralph .
+2008 .
+The Latino Threat : Constructing Immigrants , Citizens , and the Nation .
+Stanford , CA : Stanford University Press .
+Chong , Dennis , and James N. Druckman .
+2007 .
+Framing Public Opinion in Competitive Democracies .
+American Political Science Review 101:637–55 .
+Citrin , Jack , Beth Reingold , and Donald P. Green .
+1990 .
+American Identity and the Politics of Ethnic Change .
+Journal of Politics 52:1124–54 .
+Citrin , Jack. , Beth .
+Reingold , Evelyn .
+Walters , and Donald P. Green .
+1990 .
+The ‘ Official English ’ Movement and the Symbolic Politics of Language in the United States .
+Western Political Quarterly 433:535–59 .
+Citrin , Jack. , Donald P. Green , Christopher Muste , and Cara Wong .
+1997 .
+Public Opinion Toward Immigration Reform : The Role of Economic Motivations .
+Journal of Politics 59:858–81 .
+Cornelius , Wayne A. , and Marc R. Rosenblum .
+2005 .
+Immigration and Politics .
+Annual Review of Political Science 8:99–119 .
+Dancygier , Rafaela , and Elizabeth N. Saunders .
+2006 .
+A New Electorate ?
+Comparing Preferences and Partisanship between Immigrants and Natives .
+American Journal of Political Science 50 ( 4 ) :962–81 .
+Dinan , Stephan .
+2010 .
+Debate on Haitian Refugees Status Begins , Washington Times .
+Available from http : //www.washingtontimes.com/news/2010/jan/15/disaster-sets-off-debate-on-haitian- status-in-us/ ? page5all .
+Accessed 10 August 2012 .
+Dixon , Jeffrey C. , and Michael S. Rosenbaum .
+2004 .
+Nice to Know You ?
+Testing Contact , Cultural , and Group Threat Theories of Anti-Black and Anti-Hispanic Stereotypes .
+Social Science Quarterly 85:257–80 .
+Dymond , R. 1949 .
+A Scale for the Measurement of Empathic Ability .
+Journal of Consulting Psychology 13:127–33 .
+Espenshade , Thomas J. , and Charles A. Calhoun .
+1993 .
+An Analysis of Public Opinion Toward Undocumented Immigration .
+Population Research and Policy Review 123:189–224 .
+Feldman , Stanley .
+1988 .
+Structure and Consistency in Public Opinion : The Role of Core Beliefs and Values .
+American Journal of Political Science 31:416–40 .
+—— .
+1999 .
+Economic Values and Inequality .
+Pp .
+159–202 in Measures of Political Attitudes , edited by John P. Robinson , Phillip R. Shaver and Lawrence S. Wrightsman .
+New York : Academic Press .
+Feldman , Stanley , and John Zaller .
+1992 .
+The Political Culture of Ambivalence : Ideological Responses to the Welfare State .
+American Journal of Political Science 36:268–307 .
+Feldman , Stanley , and Marco R. Steenbergen .
+2001 .
+The Humanitarian Foundation of Public Support for Social Welfare .
+American Journal of Political Science 45:658–77 .
+Fetzer , Joel S. 2000 .
+Public Attitudes Toward Immigration in the United States , France , and Germany .
+New York : Cambridge University Press .
+Gentile , Carmen .
+2010 .
+Earthquake Leads US to Relax Policy on Haitian Refugees , Time .
+Available from http : //www.time.com/time/specials/packages/article/0,28804,1953379_1953494_1954262 , 00.html .
+Accessed 10 August 2012 .
+Guimond , Serge , Pierre De Oliveira , Rodolphe Kamiesjki , and Jim Sidanius .
+2010 .
+The Trouble with Assimilation : Social Dominance and the Emergence of Hostility Against Immigrants .
+International Journal of Intercultural Relations 34:642–50 .
+Hainmueller , Jesn , and Daniel J. Hopkins .
+2014 .
+Public Attitudes toward Immigration .
+Annual Review of Political Science [ Vol .
+17 , forthcoming ] .
+Haubert , Jeannie , and Elizabeth Fussell .
+2006 .
+Explaining Pro-Immigrant Sentiment in the US : Social Class , Cosmopolitanism , and Perceptions of Immigrants .
+International Migration Review 40:489–507 .
+Hetherington , Marc J. , and Jonathan D. Weiler .
+2009 .
+Authoritarianism and Polarization in American Politics .
+New York : Cambridge University Press .
+Easing the Heavy Hand 605 Hood , M.V. , and Irwin L. Morris .
+1997 .
+Amigo o Enemigo ?
+Context , Attitudes , and Anglo Public Opinion toward Immigration .
+Social Science Quarterly 782:7813–9 .
+—— .
+2000 .
+Brother , Can You Spare a Dime ?
+Racial/Ethnic Context and the Anglo Vote on Proposition 187 .
+Social Science Quarterly 81:194–206 .
+Hopkins , Daniel J .
+2010 .
+Politicized Places : Explaining Where and When Immigrants Provoke Local Opposition .
+American Political Science Review 104:40–60 .
+Huddy , Leonie , and David O. Sears .
+1995 .
+Opposition to Bilingual Education : Prejudice or the Defense of Realistic Interests ?
+Social Psychology Quarterly 58 ( 2 ) :133–43 .
+Huddy , Leonie , Jeffrey M. Jones , and Richard E. Chard .
+2001 .
+Compassionate Politics : Support for Old-Age Programs among the Non-Elderly .
+Political Psychology 22 ( 3 ) :443–71 .
+Iyengar , Shanto , and D.R .
+Kinder .
+1987 .
+News that Matters : Agenda-Setting and Priming in a Television Age .
+Chicago : Chicago University Press .
+King , Gary , Michael Tomz , and Jason Wittenberg .
+2000 .
+Making the Most of Statistical Analyses : Improving Interpretation and Presentation .
+American Journal of Political Science 44 ( 2 ) : 347–61 .
+Kluegel , James R. , and Elliot R. Smith .
+1986 .
+Beliefs about Inequality : Americans ’ Views of What Is and What Ought to Be .
+Piscataway , N.J. : Aldine Transaction .
+Lipsey , Mark W. 1990 .
+Design Sensitivity : Statistical Power for Experimental Research .
+Newbury Park , Calif. : Sage .
+Malka , Ariel , Christopher J. Soto , Adam B. Cohen , and Dale T. Miller .
+2011 .
+Religiosity and Social Welfare : Competing Influences of Cultural Conservatism and Prosocial Value Orientation .
+Journal of Personality 79 ( 4 ) :763–92 .
+McCloskey , Herbert , and John Zaller .
+1984 .
+The American Ethos : Public Attitudes Toward Democracy and Capitalism .
+Cambridge , Mass .
+: Harvard University Press .
+Mehrabian , Albert , and Norman Epstein .
+1972 .
+A Measure of Emotional Empathy .
+Journal of Personality 40:525–43 .
+Newman , Benjamin J. , Todd K. Hartman , and Charles S. Taber .
+2012 .
+Foreign Language Expo- sure , Cultural Threat , and Opposition to Immigration .
+Political Psychology 33 ( 5 ) :635–57 .
+Nteta , Tatishe M. 2013 .
+United We Stand ?
+African Americans , Self Interest , and Immigration Reform .
+American Politics Research 41 ( 1 ) :147–72 .
+Pagano , Sabrina J. , and Yuen J. Huo .
+2007 .
+The Role of Moral Emotions in Predicting Support for Political Actions in Post-War Iraq .
+Political Psychology 28:227–55 .
+Passel , Jeffrey S. , and Michael Fix .
+1994 .
+Myths About Immigrants .
+Foreign Policy 95:151–60 .
+Peterson , Michael B. , Rune Slothuus , Rune Stubager , and Lisa Togeby .
+2010 .
+Deservingness Versus Values in Public Opinion on Welfare : The Automaticity of the Deservingness Heuristic .
+European Journal of Political Research 50:24–52 .
+Quillian , Lincoln .
+1995 .
+Prejudice as a Response to Perceived Group Threat : Population Compo- sition and Anti-Immigrant and Racial Prejudice in Europe .
+American Sociological Review 60:586–611 .
+Rocha , Rene R. , and Rodolfo Espino .
+2009 .
+Racial Threat , Residential Segregation , and the Policy Attitudes of Anglos .
+Political Research Quarterly 62:415–26 .
+Sides , John , and Jack Citrin .
+2007 .
+European Opinion about Immigration : The Role of Identities , Interests , and Information .
+British Journal of Political Science 37:477–504 .
+Sniderman , Paul , Louk Hagendoorn , and Marcus Prior .
+2004 .
+Predisposing Factors and Situational Triggers : Exclusionary Reactions to Immigrant Minorities .
+American Political Science Review 981:35–49 .
+Sniderman , Paul M. , and Sean M. Theriault .
+2004 .
+The Structure of Political Argument and the Logic of Issue Framing .
+Pp .
+133–65 in Studies in Public Opinion : Attitudes , Nonattitudes , Measurement Error , and Change , ed .
+William Saris and Paul Sniderman .
+Princeton , N.J. : Princeton University Press .
+Staub , Ervin .
+1989 .
+Individual and Societal ( Group ) Values in a Motivational Perspective and Their Role in Benevolence and Harmdoing .
+Pp .
+45–61 in Social and Moral Values : Individual and 606 NEWMAN , HARTMAN , LOWN AND FELDMAN Societal Perspectives , ed .
+Nancy Eisenberg , Janusz Reykowski , and Ervin Staub .
+Hillsdale , N.J. : Erlbaum .
+Steenbergen , Marco R. 1996 .
+Compassion and American Public Opinion : An Analysis of the NES Humanitarianism Scale .
+NES Pilot Study Report .
+Stein , Robert M. , Stephanie Shirley Post , and Allison L. Rinden .
+2000 .
+Reconciling Context and Contact Effects on Racial Attitudes .
+Political Research Quarterly 53:285–303 .
+Stephan , Walter G. , C. Lausanne Renfro , Victoria M. Esses , Cookie White Stephan , and Tim Martin .
+2005 .
+The Effects of Feeling Threatened on Attitudes toward Immigrants .
+International Journal of Intercultural Relations 29:1–19 .
+Stephan , Walter G. , Oscar Ybarra , and Guy Bachman .
+1999 .
+Prejudice Toward Immigrants .
+Journal of Applied Social Psychology 2911:2221–37 .
+Stotland , E. 1969 .
+Exploratory Investigations of Empathy .
+Pp .
+271–314 in Advances in Experimental Social Psychology Volume 4 , edited by L. Berkowitz .
+New York : Academic Press .
+Taylor , Stanford E. 1965 .
+Eye Movements in Reading : Facts and Fallacies .
+American Educational Research Journal 4:187–202 .
+Thomsen , Lotte , Eva G.T .
+Green , and Jim Sidanius .
+2008 .
+We Will Hunt Them Down : How Social Dominance and Right-Wing Authoritarianism Fuel Ethnic Persecution of Immigrants in Fundamentally Different Ways .
+Journal of Experimental Social Psychology 44:1455–64 .
+Tolbert , Caroline J. , and John A. Grummel .
+2003 .
+Revisiting the Racial Threat Hypothesis : White Voter Support for California ’ s Proposition 209 .
+State Politics & Policy Quarterly 3:183–202 .
+Van Laar , Colette , Shana Levin , Stacey Sinclair , and Jim Sidanius .
+2005 .
+The Effect of University Roommate Contact on Ethnic Attitudes and Behavior .
+Journal of Experimental Social Psychology 41:329–45 .
+Wakabayashi , Akio , Simon Baron-Cohen , Sally Wheelwright , Nigel Goldenfeld , Joe Delaney , Debra Fine , Richard Smith , and Leonora Weil .
+2006 .
+Development of Short Forms of the Empathy Quotient ( EQ-Short ) and the Systemizing Quotient ( SQ-Short ) .
+Personality and Individual Differences 41:929–40 .
+Waldman , Paul , Elbert Ventura , Robert Savillo , Susan Lin , and Greg Lewis .
+2008 .
+Fear and Loathing in Prime Time : Immigration Myths and Cable News .
+Media Matters Action Network Report .
+http : //mediamattersaction.org/reports/fearandloathing/online_version .
+Accessed : August 28 , 2012 .
+Easing the Heavy Hand 607

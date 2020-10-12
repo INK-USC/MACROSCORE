@@ -1,0 +1,634 @@
+Francis_JournEnvPsych_2012_9BYl.pdf
+aKQeiuPzC4HkQsqaj6B.NlI3owOK-Francis_JournEnvPsych_2012_9BYl.pdf.plain.html
+
+at SciVerse ScienceDirect Journal of Environmental Psychology 32 ( 2012 ) 401e409Contents lists availableJournal of Environmental Psychology journal homepage : www.elsevier .com/locate/ jepCreating sense of community : The role of public space Jacinta Francis* , Billie Giles-Corti 1 , Lisa Wood , Matthew Knuiman Centre for the Built Environment and Health , School of Population Health , The University of Western Australia , 35 Stirling Hwy , Crawley 6009 , Australiaa r t i c l e i n f o Article history : Available online 24 July 2012 Keywords : Sense of community Built environment Public space Public open space Health Retail* Corresponding author .
+Tel .
+: þ618 6488 7809 ; fax : E-mail addresses : jfrancis @ meddent.uwa.edu.au unimelb.edu.au ( B. Giles-Corti ) , Lisa.Wood @ Matthew.Knuiman @ uwa.edu.au ( M. Knuiman ) .
+1 Present address : McCaughy Centre , School of Po Bouverie Street , University of Melbourne , Victoria 301 0272-4944/ $ e see front matter 2012 Elsevier Ltd. http : //dx.doi.org/10.1016/j.jenvp.2012.07.002a b s t r a c t A strong sense of community has been associated with improved wellbeing , increased feelings of safety and security , participation in community affairs and civic responsibility .
+Although interest in how the broader built environment influences sense of community is gaining momentum , there is a dearth of empirical research examining the association between sense of community and the quality of public space .
+This study investigates the relationship between four public spaces e Public Open Space ( POS ) , community centres , schools and shops e and sense of community in residents of new housing devel- opments in the Perth metropolitan area , Western Australia .
+Data was obtained from a cross-sectional survey ( n ¼ 911 ) , a POS audit , and Geographical Information Systems , and analysed using linear regression .
+The perceived quality of neighbourhood POS and shops was significantly and positively associated with sense of community .
+This relationship appears to be unaffected by how frequently people use these spaces .
+High quality public spaces may be important settings for enhancing sense of community within residents of new housing developments .
+2012 Elsevier Ltd. All rights reserved.1 .
+Introduction Feelings of safety and security , civic participation , voting , recy- cling and volunteering ( Sense of Community Partners , 2004 ) , and improved wellbeing ( Davidson & Cotter , 1991 ) , have all been associated with a strong sense of community .
+Sense of community is often defined as “ a feeling that members have of belonging , a feeling that members matter to one another and to the group , and a shared faith that members ’ needs will be met through their commitment to be together ” ( McMillan & Chavis , 1986 , p. 9 ) .
+This emphasis on affiliation and belonging has been used to distinguish sense of community from other place constructs .
+For example , place attachment has been identified with emotional bonding and behavioural commitment , while place dependence has been tied to available activities and quality comparisons with other communi- ties ( Pretty , Chipuer , & Bramston , 2003 ) .
+Sense of place has been described as an umbrella term encompassing place attachment , place identity and place dependence ( Jorgensen & Stedman , 2001 ) .
+Although there is undoubtedly theoretical and phenomenological overlap between the different place constructs , there are varied , and sometimes contradictory , definitions within the publishedþ618 6488 1188 .
+( J. Francis ) , b.giles-corti @ uwa.edu.au ( L. Wood ) , pulation Health , Level 5 , 207 0 , Australia .
+All rights reserved.literature .
+Recent years have seen a number of attempts to better define and interpret these constructs ( Bow & Buys , 2003 ; Lewicka , 2011 ; Mannarini , Tartaglia , Fedi , & Greganti , 2006 ; Pretty et al. , 2003 ) .
+Sense of community was chosen for this study as a particu- larly exhaustive measure of the peopleeplace relationship ( Mannarini et al. , 2006 ) .
+This reflects a focus on the social bonds within and between people and place , as well as the physical , symbolic , political and cultural implications of ‘ community ’ ( Mannarini et al. , 2006 ) .
+In this age of advanced technology and mobility , sense of community is not limited to a geographical region .
+However , the close proximity of neighbours provides unique opportunities for social interaction and support , such as collecting mail , watching children in emergencies , or surveillance of people ’ s homes ( Ife , 1995 ) .
+Furthermore , resources found within the neighbourhood , including neighbours , will always serve a function for less mobile residents such as peopleworking fromhome , the elderly , parents of young children , single car households and the socio-economically disadvantaged ( Kweon , Sullivan , & Wiley , 1998 ; Maas , van Dillen , Verheij , & Groenewegen , 2009 ) .
+Ironically , as our awareness of the benefits of a strong sense of community grows , there are concerns that sense of community is declining throughout theWesternworld ( Bonaiuto , Fornara , & Bonnes , 2003 ; Scopelliti & Giuliani , 2004 ) .
+This decline is attributed to a variety of reasons , including smaller family networks , suburbanisation , longer commutes , the prolonged inde- pendence of an ageing population , and the proliferation of leisure- time television and social media use ( Freeman , 2001 ; House , Landis , & Umberson , 1988 ; Oldenburg , 1989 ) .
+J. Francis et al .
+/ Journal of Environmental Psychology 32 ( 2012 ) 401e409402Identifying and creating the conditions that foster and strengthen sense of community within residential neighbourhoods is an important task for researchers and planners alike .
+In terms of the built environment , a stronger sense of community has been associated with less surface parking , higher levels of commercial floor space to land area ratios , lower levels of land use mix ( Wood , Frank , & Giles-Corti , 2010 ) , and living in neighbourhoods perceived as safe and interesting ( Lund , 2002 ) .
+Moreover , Mullan ( 2003 ) found vehicular traffic and car parking negatively affected perceptions of helpfulness and area friendliness and safety .
+Public spaces , such as parks and piazzas , are another element of the built environment that may foster sense of community by facilitating chance encounters between neighbours ( Talen , 2000 ) .
+There are many definitions of public space within the published literature .
+‘ True ’ public space is recognised as being accessible to all groups , providing freedom of action , temporary claim and ownership ( Altman & Zube , 1989 ; Carr , Francis , Rivlin , & Stone , 1992 ) .
+In contemporary society however , it is increasingly diffi- cult to distinguish between public and private space ( Voyce , 2006 ) .
+Indeed , many definitions of public space are said to be “ too narrow to be useful in an era of publiceprivate partnerships ” ( Smithsimon , 1999 , p. 2 ) .
+Government-owned lands can not always be accessed by the public , while privately owned and controlled land often appears to have public character ( Voyce , 2006 ) .
+Thus , locations that constitute public space vary along a continuum ranging from public to private , and can be cat- egorised according to concepts of ownership , management and accessibility ( Nemeth & Schmidt , 2007 ) .
+Ray Oldenburg coined the term “ third places ” to describe “ a generic designation for a great variety of public places that host the regular , voluntary , informal and happily anticipated gatherings of individuals beyond the realms of home and work ” ( Oldenburg , 1989 , p. 16 ) .
+The definition of public space adopted for this study was informed by Oldenburg ’ s description of third places e i.e. , the meeting or gathering places that exist outside the home and workplace that are generally accessible by members of the public , and which foster resident interaction and opportunities for contact and proximity .
+The emphasis of this definition is on public access , rather than public ownership or management , although e as exemplified above e both the uses and users are always limited ( Smithsimon , 1999 ) .
+Thus , public space includes parks , plazas , sidewalks , shopping malls , community centres and schoolyards ( Altman & Zube , 1989 ; Carr et al. , 1992 ) .
+In particular , this study focuses on common places of interaction within the neighbourhood e parks , shops , community centres and schoolyards .
+While investigations into public places and concepts are the mainstay of environmental psychology , there are few published articles within the public health literature that refer to ‘ public space ’ per se and not individual locations such as parks or community centres .
+Of the four public spaces relevant to this study , parks have been most frequently investigated , although generally in relation to physical activity rather than social interaction or sense of community .
+In contrast , a number of architects , urban designers , and sociologists have long investigated public space attributes that facilitate social interaction ( Carr et al. , 1992 ; Francis , 2003 ; Gehl , 2006 ; Jacobs , 1962 ; Lynch , 1960 ; Whyte , 1980 ) .
+As well as phys- ical environmental features , such as seating , food , shelter , people , and activities , urban designers and architects often refer to more subjective qualities when describing successful public spaces .
+For example , Carr et al .
+( 1992 ) note that good public space should be supportive , democratic and meaningful , and address basic human needs , such as comfort , passive and active engagement , and discovery .
+Architect Jan Gehl also advocates the importance of designing public spaces for people and social interaction ( Gehl,2006 ) .
+While he identifies a number of important physical elements of public space , such as traffic reduction schemes , walking paths , seating and spatial qualities , he emphasises the importance of first defining why and how people use public space ( Gehl , 2006 ) .
+Project for Public Spaces ( PPS ) , an American organisation based on the work of William H. Whyte , describe successful , or high quality , spaces as those that address issues of accessibility , activity and use , comfort and image , and sociability .
+That is , they are easy to access and connected to the surrounding community ; contain a range of activities for a variety of users ; feel safe , clean , and attractive , with adequate seating ; andmost importantly , act as venues for people to interact socially ( Project for Public Spaces , 2008 ) .
+However , while these sources provide valuable insights into the design of vibrant public spaces , many of their recommendations are based on personal experiences , case studies , interviews and observations .
+Furthermore , data collection methods are not always described , making it difficult to generalise or reproduce findings .
+Frumkin ( 2003 ) suggests that in order to prompt public health action , many commonly cited recommendations for successful public places need to be supported by rigorous empirical evidence .
+Simi- larly , Ewing , Handy , Brownson , Clemente , and Winston ( 2006 ) emphasise the need to test the qualities for active street life that are often presumed to be important .
+Few studies have investigated the extent to which the associa- tion between public space and sense of community is also influ- enced by the frequency of public space use .
+Given passive , face-to- face contact of repeated and increasing length is found to be one component of developing friendships ( Halpern,1995 ; Kuo , Sullivan , Coley , & Brunson , 1998 ; Leyden , 2003 ) , the frequent use of public space is a plausible pathway through which public space influences chance encounters .
+Published studies have tended to examine associations between sense of community and features of public space such as proximity to the home , accessibility and surrounding land use diversity ( Lund , 2002 ; Nasar & Julian , 1995 ; Plas & Lewis , 1996 ; Wilson & Baldassare , 1996 ; Wood et al. , 2010 ) .
+However , the mere existence of public space does not guarantee its use .
+Rather , well designed public spaces tend to attract more users and a greater range of activities than poor quality spaces , which tend to be used for “ necessary ” activities ( Gehl , 2006 ) .
+Although physical activity researchers have studied indicators of high quality public space ( Giles-Corti et al. , 2005 ; Sugiyama , Francis , Middleton , Owen , & Giles-Corti , 2010 ) , fewer empirical studies have examined the design of public space for social interaction ( Frumkin , 2003 ) .
+Quality features of the physical environment that have been theoretically or empirically associated with influencing social interaction in public space include the presence of focal points such as public art , food outlets , connected pathways and seating ( Bedimo-Rung , Mowen , & Cohen , 2005 ; Evans , 2003 ; Semenza , 2003 ) ; nature ( Coley , Sullivan , & Kuo , 1997 ; Kuo et al. , 1998 ) ; attractive buildings and landscapes ( Butterworth , 2000 ; Lund , 2002 ; Nasar , 1994 ) ; and the absence of incivilities , such as graffiti and litter ( Francis , 1989 ; Kruger , Reischl , & Gee , 2007 ; Perkins & Long , 2002 ) .
+In this paper , we use a socio-ecological framework to explore the association between sense of community , the presence of quality public space and frequency of use ( Fig .
+1 ) .
+A socio-ecological framework recognises that a range of factors can impact health and wellbeing , interacting in complex ways with varying levels of causality ( Commonwealth Department of Health and Aged Care , 2000 ) .
+The framework has been recognised as important in health research ( Sallis et al. , 2006 ; Stokols , 1996 ) and in the design of health promotion and public health interventions and policy ( Green & Kreuter , 1999 ) .
+This paper therefore recognises the multiple levels of influence on health outcomes ( i.e .
+individual , social , physical and socio-cultural environments ) ( Stokols , 1996 ) .
+Sense of Community Use of Public Space Factors Social Factors Physical Environmental Factors Individual Factors Policy Factors Fig .
+1 .
+Conceptual model of relationship between public space and sense of community .
+J. Francis et al .
+/ Journal of Environmental Psychology 32 ( 2012 ) 401e409 4032 .
+Methods 2.1 .
+Study context This was a cross-sectional sub-study of the RESIDential Envi- ronments ( RESIDE ) Project , a longitudinal study evaluating the impact of a State-government sub-division code in Perth , Western Australia ( Giles-Corti et al. , 2007 ) .
+All Perth residents buildinghomes in new housing developments between July 2003 and December 2005 were invited to participate .
+Eligible participants were profi- cient in English ; aged 18 years or over ; planning to move into their new home by December 2005 ; andwilling to complete a survey and wear a pedometer for seven days on three occasions over four years .
+Study participants completed self-administered surveys before moving into their new home ( T1 ; n¼ 1813 ) , and at 12 ( T2 ; n¼ 1379 ) and 36months ( T3 ; n¼ 1230 ) later .
+The sense of community sample comprised 911 respondents who completed the T3 survey between October 2006 and June 2008 .
+The study was approved by The University of Western Australia ’ s Human Research Ethics Committee .
+A more detailed description of recruitment procedures and methodology can be found elsewhere ( Giles-Corti et al. , 2008 ) .
+2.2 .
+Data collection A mixed-method approach was adopted , with data sources including a cross-sectional survey , a Public Open Space ( POS ) audit and Geographic Information Systems ( GIS ) data .
+These instruments and data sources were informed by a comprehensive literature review , the opinions of an expert panel and focus groups with residents of RESIDE neighbourhoods .
+The expert panel comprised community developers , an urban geographer , a community psychologist , an environmental psychologist , a property developer , a local government representatives and academics .
+2.2.1 .
+Survey instrument A detailed description of all variables , including copies of the survey instrument , can be found elsewhere ( Francis , 2010 ) .
+The survey instrument sought information about participants ’ psychosocial environment and use of public space , as well as neighbourhood and POS attributes .
+2.2.1.1 .
+Dependent variable .
+Sense of community was measured using the 12 item Sense of Community Index ( SCI ) ( Chavis , Hogge , McMillan , & Wandersman , 1986 ) .
+The Index is specifically designed to measure sense of community within neighbourhoods , and is the most widely used measure of the concept ( Pooley , Cohen , & Pike , 2005 ) .
+The Internal Consistency Reliability of the SCI is high , with studies reporting a Cronbach ’ s alpha coefficient of 0.80 ( Perkins , Florin , Rich , Wandersman , & Chavis , 1990 ) .
+Participants respon- ded true or false to 12 statements concerning their neighbourhood before responses were summed to provide an overall score ranging between 0 and 12 .
+The distribution of the data was assessed , with low ( score 0e6 ) , medium ( score 7e9 ) and high ( score 10e12 ) categories assigned to ensure a sufficient number of respondents in each category .
+2.2.1.2 .
+Independent self-reported variables .
+The four public spaces chosen for this study were based on the results of formative focus groups , in which participants identified POS , shops , community centres and schools as the most common sites for social interac- tion within the neighbourhood .
+Of the independent self-reported variables , physical environmental variables included subjective proximity and quality of the four public spaces .
+Subjective quality was measured by asking participants the extent to which they agreed or disagreed with statements about their local POS , shop , community centre and school .
+Statements addressed the atmo- sphere , comfort , safety , attractiveness and maintenance , the variety of things to do , and the presence of adequate seating , public art and other people ( including those known to the participant ) .
+After factor analysis , these items were summed to create an overall score , which was dichotomised into low and high quality .
+Social environmental variables included whether participants agreed there was a high level of crime in the neighbourhood , and participation in neighbourhood groups or activities during the last 12 months ( i.e .
+school or work , service , art or cultural , sport or recreation and neighbouring ) .
+Public space ‘ use ’ variables included frequency of public space use and mode of POS use .
+The frequency with which participants used public space was measured by asking participants how often they used these spaces , with ‘ frequent ’ use defined as at least once aweek , and ‘ infrequent ’ as less than once aweek .
+‘ Mode of POS use ’ was measured by asking participants if they used POS to undertake 14 activities .
+Factor analysis reduced the activities to five under- lying dimensions ( i.e. , ‘ watch or play sport ’ , ‘ attend an event ’ , ‘ walk or jog ’ , ‘ relax ’ and ‘ other activities ’ ) .
+Table 1 Associations between demographic factors and sense of community ( n ¼ 911 ) .
+Characteristic % Mean ( SD ) Single factor model p-valuea Gender Male 37.5 8.57 ( 2.48 ) 0.80 Female 62.5 8.61 ( 2.45 ) Age 20e39 years 41.6 8.50 ( 2.54 ) 0.63 40e59 years 44.7 8.66 ( 2.37 ) 0.37 60e79 years 13.7 8.66 ( 2.48 ) 0.52 Married or De-facto Yes 86.2 8.69 ( 2.42 ) 0.00 No 13.8 7.97 ( 2.60 ) Children < 18 yrs at home Yes 52.3 8.93 ( 2.39 ) 0.00 No 47.7 8.23 ( 2.48 ) Education Secondary or less 37.2 8.69 ( 2.36 ) 0.11 Trade/Apprentice/Certificate 38.3 8.69 ( 2.62 ) 0.99 Bachelor or higher 24.5 8.30 ( 2.33 ) 0.06 Work status Work 78.2 8.46 ( 2.46 ) 0.00 No work 2.6 8.13 ( 2.66 ) 0.51 Home duties 11.4 9.48 ( 2.15 ) 0.00 Retired 7.8 8.83 ( 2.54 ) 0.22 No .
+of hours worked Half time or less 12.4 8.26 ( 2.35 ) 0.00 > Half time to 38 h/week 26.2 8.74 ( 2.38 ) 0.08 > 38 to < 60 h/week 35.1 8.42 ( 2.54 ) 0.54 60þ hours/week 4.4 7.65 ( 2.39 ) 0.18 Not in workforce 21.8 9.08 ( 2.39 ) 0.00 Suburb SES ( SEIFA ) Lowest 21.2 8.65 ( 2.49 ) 0.85 Low 27.6 8.51 ( 2.45 ) 0.53 Middle 20.6 8.56 ( 2.46 ) 0.72 High 11.3 8.48 ( 2.47 ) 0.58 Highest 19.3 8.75 ( 2.43 ) 0.70 a Overall p-values are italicised .
+p-values are bolded if p 0.10 .
+J. Francis et al .
+/ Journal of Environmental Psychology 32 ( 2012 ) 401e409404Demographic variables included gender , age , marital status , children less than 18 years at home , education , work status , number of hours worked and area-level socio-economic status .
+Socio-Economic Status ( SES ) was measured using education as a proxy for individual SES and the 2006 Australian Bureau of Statistics ’ Socioeconomic Indexes for Areas ( SEIFA ) score ( ABS , 2008a ) as area-level SES .
+SEIFA scores were based on the combined Index of Relative Socio-economic Advantage and Disad- vantage ( ABS , 2008b ) .
+2.2.1.3 .
+Independent objective variables .
+Geographic Information Systems ( GIS ) were used to obtain POS size , the number of public spaces within a study participant ’ s neighbourhood , and the network distances ( i.e. , the road or pedestrian networks ) between participants ’ homes and their closest public space .
+‘ Neighbourhood ’ was defined as a 10e15 min walk from the participants ’ home .
+For objective environmental data , a 1600 m road network buffer was used to capture the neighbourhood within a 10e15 min walk ( Giles-Corti et al. , 2008 ) .
+The objective quality of public space measure was based on an audit of approximately 1900 public open spaces ( i.e. , parks , recre- ational grounds , sports fields , commons , esplanades and bushland ) within the Perth and Peel metropolitan areas between November 2005 and February 2006 .
+All POS two acres , and within 1600m of participants ’ homes , were audited by trained assessors using an adapted version of the Public Open Space Tool ( POST ) ( Broomhall , 1996 ; Giles-Corti et al. , 2005 ) .
+The quality of POS measure was computed as a weighted mean score of ten POS attributes , including walking paths , shade , water features , irrigated lawn , birdlife , lighting , sporting facilities , playgrounds , type of surrounding roads , and presence of nearby water ( Broomhall , 1996 ; Giles-Corti et al. , 2005 ) .
+These attributes and their weights were based on the opinions of an expert panel .
+A detailed description is reported elsewhere ( Broomhall , 1996 ) .
+In addition to the quality score , an incivilities score was created reflecting the presence of litter , graffiti and vandalism within POS , while an amenities score reflected the presence of amenities conducive to social interaction , such as barbecues , seating , picnic tables , rubbish bins , club rooms , toilets and public art .
+2.3 .
+Analyses Data analyses were undertaken using SPSS Version 15 .
+General Linear Models were used to examine the demographic , social environmental , use of public space and physical environmental factors relating to sense of community .
+The impact of participants clustering within residential developments was assessed using Generalised Estimating Equations ( GEE ) estimation , and subse- quently deemed unnecessary .
+Demographic factors were individually assessed in univariate models ( Table 1 ) .
+All other variables were initially individually assessed after adjustment for potential confounding by all demo- graphic variables .
+All physical environmental variables with p 0.1 in the single factor models were then entered into a multivariate model that also included forced entry of demographic variables .
+A backwards stepwise elimination procedure ( p 0.05 ) was used to remove the redundant variables , thereby identifying the significant and independent correlates of sense of community .
+This strategy was repeated for the remaining blocks of variables ( i.e. , social environmental and use of public space ) .
+Finally , a series of multivariate models were fitted to examine the relationship between sense of community and the selected physical environmental factors .
+The first of these models included all physical environmental factors after adjustment for demo- graphic variables only ( Model 1 ) .
+The second model furtheradjusted for the selected social environmental variables ( Model 2 ) , while the thirdmodel further adjusted for the selected use of public space variables ( Model 3 ) .3 .
+Results The mean sense of community score for the sample of 911 participants was 8.59 ( SD 2.46 ) .
+Of the eight demographic factors examined , univariate analyses indicated that mean sense of community was higher in participants who were married or de- facto , had children less than 18 years at home , were employed in home duties and were not in the workforce ( Table 1 ) .
+Although there is suggestion of higher mean sense of community in people with a Bachelor degree or higher ( p¼ 0.063 ) , the overall p-value for education was not significant ( p ¼ 0.114 ) .
+While the multivariate models forced the inclusion of the eight demographic factors , none remained significantly associated with sense of community in the multivariate models .
+Of the seven physical environmental factors included in the univariate models , sense of community was significantly associated with subjective distance to closest park and school ( negative associations ) , and with subjective quality of parks , community centres shops and schools ( positive associations ) .
+As shown in Table 2 ( Model 1 ) , these remained significant in the multivariate model resulting from the variable reduction strategy ( and having adjusted for demographics ) .
+Mean sense of community was higher in those who lived less than 5 min from their park ( p ¼ 0.22 ) and who reported high rather than low quality of public space ( p < 0.001 ) .
+However , only subjective distance to closest POS , and Table 2 Final models of the association between physical environmental factors and sense of community ( n ¼ 911 ) .a Characteristic % Model 1b Model 2c Model 3d b pe b pe b pe Subjective distance to closest POS < 5 min 68.8 0.00 0.02 0.00 0.04 0.00 0.06 5e15 min 26.1 0.47 0.00 0.43 0.01 0.40 0.02 > 15 min/don ’ t know 5.0 0.43 0.25 0.16 0.66 0.20 0.57 Subjective quality of public space POS Low 53.3 0.00 0.00 0.00 0.00 0.00 0.01 High 46.7 0.91 0.55 0.44 Community centres Low 71.1 0.00 0.02 0.00 0.26 0.00 0.55 High 28.9 0.41 0.19 0.10 Shops Low 53.0 0.00 0.00 0.00 0.00 0.00 0.00 High 47.0 0.97 0.80 0.72 Schools Low 57.4 0.00 0.00 0.00 0.33 0.00 0.60 High 42.6 0.66 0.23 0.13 Incivilities in highest quality POS 0e1 28.9 0.00 0.02 0.00 0.15 0.00 0.13 2e3 71.1 0.40 0.24 0.26 Distance to closest school 84e799 m 44.5 0.00 0.03 0.00 0.09 0.00 0.12 800e1599 m 35.8 0.43 0.01 0.31 0.06 0.29 0.08 1600þ m 19.8 0.02 0.94 0.07 0.74 0.11 0.69 Social factors High level of neighbourhood crime Disagree 71.4 0.00 0.00 0.00 0.00 Neutral 25.4 1.01 0.00 1.00 0.00 Agree 3.2 1.58 0.00 1.56 0.00 Neighbourhood groups or activities involved in during last 12 months School or work activities 0 73.0 0.00 0.00 0.00 0.05 1þ 27.0 0.64 0.45 Service activities 0 74.0 0.00 0.047 0.00 0.156 1 16.5 0.36 0.092 0.25 0.241 2þ 9.5 0.66 0.026 0.54 0.069 Art or cultural activities 0 70.4 0.00 0.081 0.00 0.254 1 20.5 0.43 0.025 0.32 0.107 2þ 9.1 0.15 0.590 0.03 0.928 Neighbouring activities 0 68.7 0.00 0.000 0.00 0.000 1 21.0 0.40 0.035 0.37 0.048 2þ 10.3 1.10 0.000 1.08 0.000 Use of public space factors Frequency use public space Shops Infrequent 25.7 0.00 0.117 Frequent 74.3 0.29 Child ’ s school Infrequent 73.9 0.00 0.186 Frequent 26.1 0.32 Usually use POS to : Undertake activities No 53.4 0.00 0.628 Yes 46.6 0.09 Watch or play sport No 67.4 0.00 0.484 Yes 32.6 0.12 Attend an event No 60.9 0.00 0.162 Yes 39.1 0.25 Relax No 70.0 0.00 0.039 Yes 30.0 0.35 a Table only displays variables that were significantly associated with sense of community in the multivariate models .
+b Model 1 : Adjusts for physical and demographic variables .
+c Model 2 : Adjusts for physical , demographic , and social variables .
+d Model 3 : Adjusts for physical , demographic , social and use of POS variables .
+e Overall p-values are italicised .
+p-values are bolded if p 0.05 .
+J. Francis et al .
+/ Journal of Environmental Psychology 32 ( 2012 ) 401e409 405 J. Francis et al .
+/ Journal of Environmental Psychology 32 ( 2012 ) 401e409406the subjective quality of a local POS and shop , remained signifi- cantly associated with sense of community in multivariate Model 2 ( Table 2 ) .
+The relationship between sense of community and subjective POS and shop quality attenuated in Model 3 , but remained highly significant ( p < 0.01 and p < 0.001 respectively ) .
+Participants who claimed to live 5e15 min from POS reported weaker sense of community than those living closer to POS , even after adjustment for POS use ( p ¼ 0.02 ) .
+Nevertheless , this rela- tionship attenuated in Model 3 suggesting the relationship between POS proximity and sense of community is partly explained by the fact POS is used for a variety of purposes involving social interactions .
+The objective measure of POS was not significantly associated with sense of community at any stage of the analysis .
+Subjective and objective measures of POS quality were significantly , but only modestly , correlated ( R ¼ 0.12 ; p < 0.001 ) .
+Of the six social environmental factors that emerged as signifi- cant in the univariate analysis , all but involvement in sport or recreation activities remained significant in the multivariate models arising from the backward elimination process .
+Only perceived neighbourhood crime and involvement in school or work and neighbouring activities remained significantly associated with sense of community in Model 3 , with mean sense of community scores higher in participants ’ who disagreed that there was a high level of crime in the neighbourhood and who were involved in one or more activities ( Table 2 ) .
+All nine POS use variables appeared significantly associatedwith sense of community in the univariate analyses , although frequent use of parks , frequent use of community centres , and usually using parks to walk or jog were removed in the backward elimination process .
+Using POS to relax was the only activity to remain signif- icantly associated with sense of community in Model 3 , with participants who usually used POS to relax demonstrating a slightly higher mean score ( p < 0.05 ) .
+Frequent use of POS was not signif- icantly associated with sense of community in the multivariate models , suggesting that it did not influence the relationship between POS quality and sense of community .
+It was not included in the final models ( Table 2 ) .4 .
+Discussion This paper used a social-ecological framework to explore the potential correlates of sense of community in RESIDE study participants , emphasising the quality and attributes of public space .
+In particular , sense of community was significantly asso- ciated with the subjective quality of local shops and POS , as well as perceived distance to POS , after adjusting for a range of demographic , use of public space and social environmental factors.4.1 .
+Correlates of sense of community The results support the study ’ s premise that public space quality is an equally , if not more important , correlate of sense of commu- nity than public space size and number .
+Zhang and Lawson ( 2009 ) also found the size and number of public spaces outside residential buildings were not significantly associated with social interaction , concluding that the key to social interaction in public spaces was the quality of the public space provided ( Zhang & Lawson , 2009 ) .
+The fact that only physical environmental variables relating to shops and POS were significantly associated with sense of community in this study may suggest these public spaces were more relevant to participants ’ life-stage than community centres or schools.4.1.1 .
+Shops Shop quality e a measure that incorporates both the presence and quality of local shops e was positively associated with sense of community , supporting the notion that shops are important meeting and gathering places within the neighbourhood , providing opportunities for proximity to others , passive social contact , and casual interactions ( Coley et al. , 1997 ; Lund , 2003 ) .
+Other studies have also linked the presence of neighbourhood shops to a greater sense of community ( Lund , 2002 ; Plas & Lewis , 1996 ) and casual interactions and territoriality among neighbours ( Coley et al. , 1997 ) .
+As Joung and Miller ( 2002 , p. 78 ) state , “ shopping centres often provide places where people meet friends , pass time , watch people and engage in other aspects of social exchange ” .
+While this study found a strong association between shop quality and sense of community , further studies are needed to explore the full range of features that contribute to high quality shopping environments .
+For example , there have been calls for measures of shop quality to include ratings of security , attractive- ness of décor , courtesy of personnel , variety of services , merchan- dise quality , atmosphere and shop cleanliness ( Bellenger , Robertson , & Greenberg , 1977 ) .
+Additional aspects of quality thought to encourage social interaction in public spaces include the presence of shaded plazas with benches positioned for conversa- tion , connected pedestrian pathways and meeting areas , and focal points such as neutral territory , visual prospect ( i.e. , observing a space prior to committing to it ) , and activity generators ( e.g. , food ) ( Carr et al. , 1992 ; Coley et al. , 1997 ; Evans , 2003 ; Whyte , 1980 ) .
+Indeed , features of the built environment that contribute to ‘ atmosphere ’ are potentially more appealing to customers of grocery stores than the products available , with focus group participants describing their ideal store as a relaxing environment that was spacious , bright , and green , with a nice atmosphere and appropriate music ( Geuens , Brengman , & S ’ Jegers , 2003 ) .
+As retail environments have often been associated with stressful experi- ences full of distracting stimuli ( Fram , 1994 ) , Joye , Willems , Brengman , and Wolf ( 2010 ) argue that introducing greenery into the retail environment may have a restorative effect on shoppers ( Joye et al. , 2010 ) .
+This follows research suggesting that exposure to natural environments can assist people in recovering from stress and mental fatigue ( Kaplan , 1995 ; Ulrich et al. , 1991 ) .
+Furthermore , greenery within shopping centres has the potential to influence a number of outcomes related to sense of community , such as increased helpfulness and friendliness towards customers ( Joye et al. , 2010 ) , and has been associated with increased interaction amongst people in the shopping centre ( Buber , Ruso , Gadner , Atzwanger , & Gruber , 2007 ) .
+The impact of greenery and shop quality on sense of community may also be influenced by the purpose of a shop visit , with shop décor shown to have a greater impact on psychosocial outcomes for people visiting shops for social or recreational purposes , rather than necessary or utilitarian shopping trips ( Bellenger & Korgaonkar , 1980 ; Pan & Zinkhan , 2006 ) .
+Conversely , Joye et al .
+( 2010 ) suggest that the potentially restorative impact of plants in retail environments is greater for people undertaking utilitarian shopping trips , as their need for restoration may be greater than those people shopping for more enjoyable social or recreational purposes ( Joye et al. , 2010 ) .
+The study setting of new residential developments may also explain the positive association found between shop quality and psychosocial outcomes .
+As new developments often lack a range of commercial options , and sense of community has been associated with smaller population size ( Wilson & Baldassare , 1996 ) , it is plausible that residents could form stronger attachments to exist- ing venues and proprietors .
+J. Francis et al .
+/ Journal of Environmental Psychology 32 ( 2012 ) 401e409 4074.1.2 .
+Public open space As with shops , the positive association between POS quality and sense of community is supported by published literature stating that the presence of green space within the neighbourhood has been associated with a number of positive psychosocial outcomes , including sense of community ( Kearney , 2006 ; Kweon et al. , 1998 ; Lund , 2003 ; Mesch & Manor , 1998 ; Nasar & Julian , 1995 ; Skjaeveland & Garling , 1997 ; Sugiyama , Leslie , Giles-Corti , & Owen , 2008 ) .
+For example , Nasar and Julian ( 1995 ) found easy access to common outdoor green space increased sense of community , while Kim and Kaplan ’ s ( 2004 ) comparison of new urbanist and tradi- tional developments attributed a greater sense of community in new urbanist communities to more natural features and shared spaces .
+Kuo et al .
+( 1998 ) also found that residents living near high- nature rather than low-nature areas were more socially active , knew more neighbours , felt neighbours were more helpful and supportive , and had a greater sense of belonging .
+More specifically , sense of community has been directly related to views of land- scaping and trails or pathways within natural areas , as well as the availability of both less developed nature areas ( e.g. , nature preserves and lakes ) and areas containing amenities ( e.g. , play- grounds and ball fields ) ( Kearney , 2006 ) .
+As with shop quality , POS quality may be more important for those people undertaking personal recreational activities , rather than obligatory activities ( e.g. , exercising a dog ) within the POS .
+Lund ( 2002 ) found that in the general neighbourhood , sense of community was positively correlated with strolling trips , and negatively correlated with destination trips .
+The modest , but positive , correlation between the subjective and objective measures of POS quality in this study suggests the two items were measuring correlated , but different aspects of POS quality .
+It may be that emotive , subjective qualities such as perceived friendliness and safety have a stronger association with sense of community than objective attributes , such as water features , birdlife and reticulation .
+4.1.3 .
+Other sense of community correlates This study ’ s finding of an association between perceived level of neighbourhood crime and sense of community reflects other research linking high crime or fear of crime with a lack of neigh- bourhood cohesion ( Conklin , 1971 ; Rohe & Burby , 1988 ) and less neighbourhood attachment ( Brown , Perkins , & Brown , 2003 ) .
+Ross and Jang ( 2000 ) also report that social ties with neighbours buffer the effects of neighbourhood disorder on fear and mistrust .
+Thus , while perceptions of crime may influence sense of community , it may also be that people with weaker sense of community perceive more crime in the neighbourhood .
+Similarly , the finding that involvement in more neighbouring activities ( comprised of Residents ’ Associations , street parties , community action groups , welcome evenings and mothers ’ groups ) and school or work activities was significantly and posi- tively associated with sense of community reflects research indicating leisure activities are highly social in nature and facili- tate the expansion of social networks and the development of friendships ( Coleman & Iso-Ahola , 1993 ) .
+Involvement in the neighbourhood , such as in neighbourhood organisations , may also contribute to a greater sense of community ( Chavis & Wandersman , 1990 ; Kingston , Mitchell , Florin , & Stevenson , 1999 ) .
+Indeed , local social involvement , particularly with friends and family , has been described as “ the most consistent and significant source of attachment to place ” ( Mesch & Manor , 1998 , p. 507 ) .
+Alternatively , it may be that having a larger network , and stronger sense of community increases ones likelihood of becoming involved in neighbouring activities ( Warde , Tampubolon , & Savage , 2005 ) .4.2 .
+Pathways between environmental correlates and sense of community This study showed that the frequencywithwhich people use POS and shopsonlyexplained a small portionof the relationship between POS or shop quality and sense of community .
+As direct associations betweenPOSor shopqualityandsenseof communitywereobserved , this study may indicate that as long as people visit public space , the frequency with which they do so does not influence their sense of community .
+By contrast , Kuo et al .
+( 1998 ) found that the relationship between green space and social ties was mediated by the use of common space in an inner-city housing development .
+Using the same study setting , Kweon et al .
+( 1998 ) found that use of the space predicted the strength of neighbourhood social ties and sense of community in older adults .
+A direct relationship has also been found between sense of community and residents ’ use of natural and semi- developedareas , such asplaygrounds andballfields ( Kearney , 2006 ) .
+However , as views of nature from the home also predicted sense of community , Kearneyconcluded that peoplemaybenefit fromshared nature spaces without physically using them .
+Other studies found significant associations between green space and supportive inter- actions were less to do with actual contacts with neighbours than green space ’ s ability to strengthen sense of community via place attachment and identity within its residents ( Kweon et al. , 1998 ; Maas et al. , 2009 ) .
+To the authors ’ knowledge , this is thefirst study to investigate the role of frequent shop visits in the relationship between shop quality and sense of community .
+4.3 .
+Study limitations As a cross-sectional study , one can not determine whether high quality public space strengthens sense of community , or if people with a stronger sense of community rate quality higher .
+Peoplewho spend more time in public spaces may also view them more favourably .
+Indeed , people with larger social networks have been said to visit shops more frequently as a result of their numerous social engagements , emphasis on personal appearance , and subsequent desire to purchase new clothes and beauty products ( Crask & Reynolds,1978 ; Hyun-Mee & Miller , 2002 ; Lumpkin,1985 ) .
+Longitudinal studies are also needed to clarify whether more affluent study participants have greater control over where they live .
+As more advantaged socio-economic suburbs have been shown to contain higher quality parks ( Crawford et al. , 2008 ) , all analyses within this study adjusted for individual and area-level socio-economic status .
+This study has focused on subjective measures of public space quality , although an objective measure of POS quality was also included .
+Given the limitations of self-administered surveys , such as the potential for recall bias , future studies would benefit from objective measures of other public spaces , such as community centres , shops and schools ( Schwarz , 1999 ) .
+In addition to the presence of various public space features , new measures of quality should also consider the condition of these features ( Bedimo-Rung et al. , 2005 ) .
+Objective measures of public space quality can also help to tease out those tacit features of public space that users appreciate , but are not necessarily aware of .
+For example , Carmona , Heath , Oc , and Tiesdell ( 2010 ) note that an important aspect of public space quality is visual and physical permeability e that is , the ability to bothmove through an environment and see the routes available to them ( Carmona et al. , 2010 ) .
+Studies into the configu- ration of space , i.e .
+space syntax , may also assist in this regard ( Hillier , 1996 ; Hillier , Penn , Hanson , Gajewski , & Xu , 1993 ) .
+The value that different ethnic cultures place on public space and sense of community also warrants further investigation .
+While home ownership , length of residence and ethnicity were J. Francis et al .
+/ Journal of Environmental Psychology 32 ( 2012 ) 401e409408potentially confounding variables of the association between physical environmental variables and sense of community , these variables could not be included in the analyses as study participants were all home owners , had been living in their homes for approximately the same amount of time , and the large majority ( 87 % ) were born in English-speaking countries .
+As previously noted , while there have been a number of attempts to distinguish between the many place concepts found within the social research literature ( Bow & Buys , 2003 ; Lewicka , 2011 ; Pretty et al. , 2003 ) , definitions and measures of these concepts are yet to be standardised .
+Collaborations between researchers and practi- tioners working in the fields of community psychology , environ- mental psychology , planning and public health may help clarify these concepts and prevent the duplication of research .
+There is debate amongst researchers as to whether sense of community is best measured as a community or individual-level attribute ( Chavis & Pretty , 1999 ) .
+Typically it is measured at the individual level and interpreted accordingly ( Brodsky , O ’ Campo , & Aronson , 1999 ; Townley & Kloos , 2009 ) .
+This has been the approach adopted in this study .
+However , researchers have also argued that sense of community should be viewed as an ecological attribute and , as such , measured as an aggregated , community- level characteristic ( Hill , 1996 ; Lochner , Kawachi , & Kennedy , 1999 ) .
+Using multi-level statistical techniques to investigate the association between public space and sense of community at the community level may therefore be warranted .
+Researchers should also recognise , however , that the most valid ways of measuring collective attributes are yet to be determined ( Lochner et al. , 1999 ) .
+This study has intentionally focused on the positive aspects of sense of community .
+However , concepts such as sense of community can also be detrimental to physiological and psycho- logical health , particularly in lower socio-economic areas ( Brodsky , 1996 ; Caughy , O ’ Campo , & Muntaner , 2003 ; Ellis , 2006 ; House , 2001 ; Kawachi & Berkman , 2001 ) .
+This is not to say that attempts to improve social outcomes in disadvantaged areas are unwarranted e high quality green spaces have been associated with fewer crimes , intra-family aggression and violence ( Kuo & Sullivan , 2001a , 2001b ) .
+Rather , more research is needed into ways of creating community ties while minimising potentially negative consequences .
+5 .
+Conclusion Perceived quality of POS and shops appears to be strongly associated with sense of community .
+The presence of high quality public spaces in local neighbourhoods e irrespective of whether used frequently or not e may be important for enhancing sense of community amongst residents .
+Nevertheless , further research is needed to explore causation .
+The benefits of a strong sense of community are numerous , and potentially include increased participation in community affairs and better physical and mental health .
+Policies that support high quality public spaces are warranted .
+References ABS .
+( 2008a ) .
+Census of population and housing : Socio-Economic Indexes for Areas ( SEIFA ) , Australia e Data only , 2006 .
+Canberra : Australian Bureau of Statistics .
+ABS .
+( 2008b ) .
+Socio-Economic Indexes for Areas ( SEIFA ) e A technical paper 2006 ( 2033.0.55.001 ) .
+Altman , I. , & Zube , E. ( 1989 ) .
+Public places and spaces , Vol .
+10 .
+New York : Plenum Press .
+Bedimo-Rung , A. L. , Mowen , A. J. , & Cohen , D. A .
+( 2005 ) .
+The significance of parks to physical activity and public health .
+American Journal of Preventive Medicine , 28 , 159e168 .
+Bellenger , D. N. , & Korgaonkar , P. K. ( 1980 ) .
+Profiling the recreational shopper .
+Journal of Retailing , 56 , 77e92.Bellenger , D. N. , Robertson , D. H. , & Greenberg , B .
+A .
+( 1977 ) .
+Shopping center patronage motives .
+Journal of Retailing , 53 , 29e38 .
+Bonaiuto , M. , Fornara , F. , & Bonnes , M. ( 2003 ) .
+Indexes of perceived residential environment quality and neighbourhood attachment in urban environments : A confirmation study on the city of Rome .
+Landscape andUrban Planning , 65 , 41e52 .
+Bow , V. , & Buys , L. ( 2003 ) .
+Sense of community and place attachment : The natural environment plays a vital role in developing a sense of community .
+In Social change in the 21st century conference .
+Centre for Social Change Research , Queensland University of Technology .
+Brodsky , A. E. ( 1996 ) .
+Resilient single mothers in risky neighborhoods : Negative psychological senseof community .
+Journal of Community Psychology , 24 , 347e363 .
+Brodsky , A. E. , O ’ Campo , P. J. , & Aronson , R. E. ( 1999 ) .
+PSOC in community context : Multi-level correlates of a measure of psychological sense of community in low- income , urban neighborhoods .
+Journal of Community Psychology , 27 , 659e679 .
+Broomhall , M. ( 1996 ) .
+Study of the availability and environmental quality of urban open space used for physical activity .
+Unpublished Masters dissertation thesis .
+Perth : The University of Western Australia .
+Brown , B. , Perkins , D. D. , & Brown , G. ( 2003 ) .
+Place attachment in a revitalizing neighborhood : Individual and block levels of analysis .
+Journal of Environmental Psychology , 23 , 259e271 .
+Buber , R. , Ruso , B. , Gadner , J. , Atzwanger , K. , & Gruber , S. ( 2007 ) .
+Evolutionary store design .
+How water , plants , animals and sight protection affect consumer behaviour .
+In Proceedings of the 2007 ANZMAC conference .
+Dunedin , New Zea- land : University of Otago .
+Butterworth , I .
+( 2000 ) .
+The relationship between the built environment and wellbeing : A literature review .
+Melbourne : Victorian Health Promotion Foundation .
+Carmona , M. , Heath , T. , Oc , T. , & Tiesdell , S. ( 2010 ) .
+Public places urban spaces : The dimensions of urban design .
+Burlington : Elsevier .
+Carr , S. , Francis , M. , Rivlin , L. G. , & Stone , A. M. ( 1992 ) .
+Public space .
+Cambridge : Cambridge University Press .
+Caughy , M. , O ’ Campo , P. J. , & Muntaner , C. ( 2003 ) .
+When being alone might be better : Neighbourhood poverty , social capital , and child mental health .
+Social Science & Medicine , 57 , 227e237 .
+Chavis , D. M. , Hogge , J. H. , McMillan , D. W. , & Wandersman , A .
+( 1986 ) .
+Sense of community through Brunswik lens : A first look .
+Journal of Community Psychology , 14 , 24e40 .
+Chavis , D. M. , & Pretty , G. M. H. ( 1999 ) .
+Sense of community : Advances in measurement and application .
+Journal of Community Psychology , 27 , 635e642 .
+Chavis , D. M. , & Wandersman , A .
+( 1990 ) .
+Sense of community in the urban envi- ronment : A catalyst for participation and community development .
+American Journal of Community Psychology , 18 , 55e81 .
+Coleman , D. , & Iso-Ahola , S. ( 1993 ) .
+Leisure and health : The role of social support and self-determination .
+Journal of Leisure Research , 25 , 111e128 .
+Coley , R. L. , Sullivan , W. C. , & Kuo , F. E. ( 1997 ) .
+Where does community grow ?
+The social context created by nature in urban public housing .
+Environment and Behavior , 29 , 468e494 .
+Commonwealth Department of Health and Aged Care .
+( 2000 ) .
+Promotion , prevention and early detection for mental health e A monograph .
+Canberra : Mental Health Branch , Commonwealth Department of Health and Aged Care .
+Conklin , J. E. ( 1971 ) .
+Dimensions of community response to crime problem .
+Social Problems , 18 , 373 .
+Crask , M. R. , & Reynolds , F. D. ( 1978 ) .
+An indepth profile of the department store shopper .
+Journal of Retailing , 54 , 23 .
+Crawford , D. , Timperio , A. , Giles-Corti , B. , Ball , K. , Hume , C. , Roberts , R. , et al .
+( 2008 ) .
+Do features of public open spaces vary according to neighbourhood socio- economic status ?
+Health & Place , 14 , 889e893 .
+Davidson , W. B. , & Cotter , P. R. ( 1991 ) .
+The relationship between sense of commu- nity and subjective well-being : A first look .
+Journal of Community Psychology , 19 , 246e253 .
+Ellis , J .
+A .
+( 2006 ) .
+Social ties and health .
+American Journal of Health , 96 , 1341 .
+Evans , G. W. ( 2003 ) .
+The built environment and mental health .
+Journal of Urban Health , 80 , 536e555 .
+Ewing , R. , Handy , S. , Brownson , R. C. , Clemente , O. , & Winston , E. ( 2006 ) .
+Identifying and measuring urban design qualities related to walkability .
+Journal of Physical Activity and Health , 3 , S223eS240 .
+Fram , E. H. A. R. ( 1994 ) .
+Globalization of markets and shopping stress : Cross- country comparisons .
+Business Horizons , 37 , 17 .
+Francis , M. ( 1989 ) .
+Control as a dimension of public-space quality .
+In I. Altman , & E. H. Zube ( Eds .
+) , Public places and spaces .
+Human behavior and environment : Advances in theory and research , Vol .
+10 ( pp .
+147e172 ) .
+New York : Plenum Press .
+Francis , M. ( 2003 ) .
+Urban open space : Designing for user needs .
+Washington , D.C. : Island Press : Landscape Architecture Foundation .
+Francis , J .
+( 2010 ) .
+Associations between public space and mental health in new resi- dential developments .
+Perth : The University of Western Australia .
+Freeman , L. ( 2001 ) .
+The effects of sprawl on neighborhood social ties .
+Journal of the American Planning Association , 67 , 69e77 .
+Frumkin , H. ( 2003 ) .
+Healthy places : Exploring the evidence .
+American Journal of Public Health , 93 , 1451e1456 .
+Gehl , J .
+( 2006 ) .
+Life between buildings : Using public space .
+Skive : The Danish Archi- tectural Press .
+Geuens , M. , Brengman , M. , & S ’ Jegers , R. ( 2003 ) .
+Food retailing , nowand in the future .
+a consumer perspective .
+Journal of Retailing and Consumer Services , 10 , 241e251 .
+Giles-Corti , B. , Broomhall , M. H. , Knuiman , M. , Collins , C. , Douglas , K. , Ng , K. , et al .
+( 2005 ) .
+Increasing walking : How important is distance to , attractiveness and size of public open space ?
+American Journal of Preventive Medicine , 28 , 169e176 .
+J. Francis et al .
+/ Journal of Environmental Psychology 32 ( 2012 ) 401e409 409Giles-Corti , B. , Knuiman , M. , Pikora , T. J. , Van Neil , K. , Timperio , A. , Bull , F. C. L. , et al .
+( 2007 ) .
+Can the impact on health of a government policy designed to create more liveable neighbourhoods be evaluated ?
+An overview of the RESIDential environment project .
+New South Wales Public Health Bulletin , 18 , 238e242 .
+Giles-Corti , B. , Knuiman , M. , Timperio , A. , Van Niel , K. , Pikora , T. J. , Bull , F. C. L. , et al .
+( 2008 ) .
+Evaluation of the implementation of a state government community design policy aimed at increasing local walking : Design issues and baseline results from RESIDE , Perth Western Australia .
+Preventive Medicine , 46 , 46e54 .
+Green , L. , & Kreuter , M. ( 1999 ) .
+Health promotion planning : An educational and ecological approach ( 3rd ed . ) .
+California : Mayfield Publishing Company .
+Halpern , D. ( 1995 ) .
+More than bricks and mortar ?
+Mental health and the built envi- ronment .
+London : Taylor & Francis Inc. Hill , J. L. ( 1996 ) .
+Psychological sense of community : Suggestions for future research .
+Journal of Community Psychology , 24 , 431e438 .
+Hillier , B .
+( 1996 ) .
+Cities as movement systems .
+Urban Design International , 1 , 47e60 .
+Hillier , B. , Penn , A. , Hanson , J. , Gajewski , T. , & Xu , J .
+( 1993 ) .
+Natural movement : Or configuration and attraction in urban pedestrian movement .
+Environment & Planning B : Planning & Design , 20 , 29e66 .
+House , J. S. ( 2001 ) .
+Social isolation kills , but how and why ?
+Psychosomatic Medicine , 63 , 273e274 .
+House , J. S. , Landis , K. R. , & Umberson , D. ( 1988 ) .
+Social relationships and health .
+Science , 241 , 540e545 .
+Hyun-Mee , J. , & Miller , N. ( 2002 ) .
+Effects of older ( 55þ ) female consumers ’ participation in social activities on apparel shopping behavior .
+Journal of Shopping Center Research , 9 , 77e89 .
+Ife , J .
+( 1995 ) .
+Community development : Creating community alternatives e Vision , analysis and practice .
+Melbourne : Longman Australia .
+Jacobs , J .
+( 1962 ) .
+The death and life of great American cities .
+London : Jonathan Cape .
+Jorgensen , B. S. , & Stedman , R. C. ( 2001 ) .
+Sense of place as an attitude : Lakeshore owners attitudes toward their properties .
+Journal of Environmental Psychology , 21 , 233e248 .
+Joung , H. , & Miller , N. J .
+( 2002 ) .
+Effects of older ( 55þ ) female consumers ’ partici- pation in social activities on apparel shopping behavior .
+Journal of Shopping Center Research , 9 , 78e89 .
+Joye , Y. , Willems , K. , Brengman , M. , & Wolf , K. ( 2010 ) .
+The effects of urban retail greenery on consumer experience : Reviewing the evidence from a restorative perspective .
+Urban Forestry & Urban Greening , 9 , 57e64 .
+Kaplan , S. ( 1995 ) .
+The restorative benefits of nature : Toward an integrative framework .
+Journal of Environmental Psychology , 15 , 169e182 .
+Kawachi , I. , & Berkman , L. F. ( 2001 ) .
+Social ties and mental health .
+Journal of Urban Health , 78 , 458e467 .
+Kearney , A. R. ( 2006 ) .
+Residential development patterns and neighborhood satis- faction e impacts of density and nearby nature .
+Environment and Behavior , 38 , 112e139 .
+Kim , J. , & Kaplan , R. ( 2004 ) .
+Physical and psychological factors in sense of community : New urbanist Kentlands and nearby Orchard Village .
+Environment and Behavior , 36 , 313e340 .
+Kingston , S. , Mitchell , R. , Florin , P. , & Stevenson , J .
+( 1999 ) .
+Sense of community in neighborhoods as a multi-level construct .
+Journal of Community Psychology , 27 , 681e694 .
+Kruger , D. J. , Reischl , T. M. , & Gee , G. C. ( 2007 ) .
+Neighborhood social conditions mediate the association between physical deterioration and mental health .
+American Journal of Community Psychology , 40 , 261e271 .
+Kuo , F. E. , & Sullivan , W .
+C. ( 2001a ) .
+Aggression and violence in the inner citye effects of environment via mental fatigue .
+Environment and Behavior , 33 , 543e571 .
+Kuo , F. E. , & Sullivan , W. C. ( 2001b ) .
+Environment and crime in the inner city e does vegetation reduce crime ?
+Environment and Behavior , 33 , 343e367 .
+Kuo , F. E. , Sullivan , W. C. , Coley , R. L. , & Brunson , L. ( 1998 ) .
+Fertile ground for community : Inner-city neighbourhood common spaces .
+American Journal of Community Psychology , 26 , 823e851 .
+Kweon , B. S. , Sullivan , W .
+C. , & Wiley , A. R. ( 1998 ) .
+Greencommonspaces and the social integration of inner-city older adults .
+Environment and Behavior , 30 , 832e858 .
+Lewicka , M. ( 2011 ) .
+Place attachment : How far have we come in the last 40 years ?
+Journal of Environmental Psychology , 31 , 207e230 .
+Leyden , K. M. ( 2003 ) .
+Social capital and the built environment : The importance of walkable neighborhoods .
+American Journal of Public Health , 93 , 1546e1551 .
+Lochner , K. , Kawachi , I. , & Kennedy , B. P. ( 1999 ) .
+Social capital : A guide to its measurement .
+Health & Place , 5 , 259e270 .
+Lumpkin , J .
+( 1985 ) .
+Shopping orientation segmentation of the elderly consumer .
+Journal of the Academy of Marketing Sciences , 13 , 271e289 .
+Lund , H. ( 2002 ) .
+Pedestrian environments and sense of community .
+Journal of Planning Education and Research , 21 , 301e312 .
+Lund , H .
+( 2003 ) .
+Testing the claimsofnewurbanism : Local access , pedestrian travel and neighboring behaviors .
+Journal of the American Planning Association , 69 , 414e429 .
+Lynch , K. ( 1960 ) .
+The image of the city .
+Cambridge , Mass : Massachusetts Institute of Technology .
+Maas , J. , van Dillen , S. M. E. , Verheij , R. A. , & Groenewegen , P. P. ( 2009 ) .
+Social contacts as a possible mechanism behind the relation between green space and health .
+Health & Place , 15 , 586e595 .
+McMillan , D. W. , & Chavis , D. M. ( 1986 ) .
+Sense of community : A definition and theory .
+Journal of Community Psychology , 14 , 6e23 .
+Mannarini , T. , Tartaglia , S. , Fedi , A. , & Greganti , K. ( 2006 ) .
+Imageof neighborhood , self- image and sense of community .
+Journal of Environmental Psychology , 26 , 202e214 .
+Mesch , G. S. , & Manor , O .
+( 1998 ) .
+Social ties , environmental perception , and local attachment .
+Environment and Behavior , 30 , 504e519.Mullan , E. ( 2003 ) .
+Do you think that your local area is a good place for young people to grow up ?
+The effects of traffic and car parking on young people ’ s views .
+Health & Place , 9 , 351e360 .
+Nasar , J. L. ( 1994 ) .
+Urban design aesthetics : The evaluative qualities of building exteriors .
+Environment and Behavior , 26 , 377e401 .
+Nasar , J. L. , & Julian , D. A .
+( 1995 ) .
+The psychological sense of community in the neighbourhood .
+Journal of the American Planning Association , 61 , 178 .
+Nemeth , J. , & Schmidt , S. ( 2007 ) .
+Toward a methodology for measuring the security of publicly accessible spaces .
+Journal of the American Planning Association , 73 , 283e297 .
+Oldenburg , R. ( 1989 ) .
+The great good place : Cafes , coffee shops , community centers , beauty parlors , general stores , bars , hangouts and how they get you through the day .
+New York : Paragon House .
+Pan , Y. , & Zinkhan , G. M. ( 2006 ) .
+Determinants of retail patronage : A meta- analytical perspective .
+Journal of Retailing , 82 , 229e243 .
+Perkins , D. D. , Florin , P. , Rich , R. C. , Wandersman , A. , & Chavis , D. M. ( 1990 ) .
+Partici- pation and the social and physical environment of residential blocks : Crime and community context .
+American Journal of Community Psychology , 18 , 83e115 .
+Perkins , D. D. , & Long , D. A .
+( 2002 ) .
+Neighborhood sense of community and social capital ( Chapter 15 ) .
+In A. T. Fisher , C. C. Sonn , & B. J. Bishop ( Eds .
+) , Psychological sense of community : Research , applications and implications .
+New York : Kluwer Academic/Plenum Publishers .
+Plas , J. M. , & Lewis , S. E. ( 1996 ) .
+Environmental factors and sense of community in a planned town .
+American Journal of Community Psychology , 24 , 109e143 .
+Pooley , J .
+A. , Cohen , L. , & Pike , L. T. ( 2005 ) .
+Can sense of community inform social capital ?
+The Social Science Journal , 42 , 71e79 .
+Pretty , G. H. , Chipuer , H. M. , & Bramston , P. ( 2003 ) .
+Sense of place amongst adolescents and adults in two rural Australian towns : The discriminating features of place attachment , sense of community and place dependence in relation to place identity .
+Journal of Environmental Psychology , 23 , 273e287 .
+Project for Public Spaces .
+( 2008 ) .
+What makes a successful place ? .
+Available from http : //www.pps.org/topics/gps/gr_place_feat [ 7th October 2008 ] .
+Rohe , W. M. , & Burby , R. J .
+( 1988 ) .
+Fear of crime in public-housing .
+Environment and Behavior , 20 , 700e720 .
+Ross , C. E. , & Jang , S. J .
+( 2000 ) .
+Neighborhood disorder , fear , and mistrust : The buffering role of social ties with neighbors .
+American Journal of Community Psychology , 28 , 401e420 .
+Sallis , J. E. , Cervero , R. B. , Ascher , W. , Henderson , K. A. , Kraft , M. K. , & Kerr , J .
+( 2006 ) .
+An ecological approach to creating active living communities .
+Annual Review of Public Health , 27 , 297e322 .
+Schwarz , N. ( 1999 ) .
+Self-reports : How the questions shape the answers .
+American Psychologist , 54 , 93e105 .
+Scopelliti , M. , & Giuliani , M. V. ( 2004 ) .
+Choosing restorative environments across the lifespan : A matter of place experience .
+Journal of Environmental Psychology , 24 , 423e437 .
+Semenza , J .
+( 2003 ) .
+The intersection of urban planning , art , and public health : The Sunnyside Piazza .
+American Journal of Public Health , 93 , 1439 .
+Sense of Community Partners .
+( 2004 ) .
+Exploring sense of community : An annotated bibliography .
+Calgary : Sense of Community Partners .
+Skjaeveland , O. , & Garling , T. ( 1997 ) .
+Effects of interactional space on neighbouring .
+Journal of Environment Psychology , 17 , 181e198 .
+Smithsimon , G. ( 1999 ) .
+The death of public space ?
+Histories of Jewish and Puerto Rican neighborhoods tell a different story .
+Columbia University Information Technology .
+Stokols , D. ( 1996 ) .
+Translating social ecological theory into guidelines for commu- nity health promotion .
+American Journal of Health Promotion , 10 , 282e298 .
+Sugiyama , T. , Francis , J. , Middleton , N. J. , Owen , N. , & Giles-Corti , B .
+( 2010 ) .
+Asso- ciations between recreational walking and attractiveness , size , and proximity of neighborhood open spaces .
+American Journal of Public Health , 100 , 1752e1757 .
+Sugiyama , T. , Leslie , E. , Giles-Corti , B. , & Owen , N. ( 2008 ) .
+Associations of neigh- bourhood greenness with physical and mental health : Do walking , social coherence and local social interaction explain the relationships ?
+Journal of Epidemiology and Community Health , 62 , 9 .
+Talen , E. ( 2000 ) .
+Measuring the public realm : A preliminary assessment of the link between public space and sense of community .
+Journal of Architectural and Planning Research , 17 , 344e360 .
+Townley , G. , & Kloos , B .
+( 2009 ) .
+Development of a measure of sense of community for individuals with serious mental illness residing in community settings .
+Journal of Community Psychology , 37 , 362e380 .
+Ulrich , R. S. , Simons , R. F. , Losito , B. D. , Fiorito , E. , Miles , M. A. , & Zelson , M. ( 1991 ) .
+Stress recovery during exposure to natural and urban environments .
+Journal of Environmental Psychology , 11 , 201e230 .
+Voyce , M. ( 2006 ) .
+Shopping malls in Australia : The end of public space and the rise of ‘ consumerist citizenship ’ ?
+Journal of Sociology , 42 , 269e286 .
+Warde , A. , Tampubolon , G. , & Savage , M. ( 2005 ) .
+Recreation , informal social networks and social capital .
+Journal of Leisure Research , 37 , 402e425 .
+Whyte , W. H. ( 1980 ) .
+The social life of small urban spaces .
+Washington , D.C. : The Conservation Foundation .
+Wilson , G. , & Baldassare , B .
+( 1996 ) .
+Overall ‘ sense of community ’ in a suburban region : The effects of localism , privacy and urbanisation .
+Environment and Behavior , 28 , 27e43 .
+Wood , L. , Frank , L. D. , & Giles-Corti , B .
+( 2010 ) .
+Sense of community and its relationship withwalking andneighborhooddesign .
+Social Science & Medicine , 70,1381e1390 .
+Zhang , W. , & Lawson , G. ( 2009 ) .
+Meeting and greeting : Activities in public outdoor spaces outside high-density urban residential communities .
+Urban Design International , 14 , 207e214 .

@@ -1,0 +1,15 @@
+Entity Name,Abbreviation,Label # Comments
+//Experimental,EX,<EX></EX> # 
+Sample Size,SS,<SS></SS> # only numbers
+//Independent Variable,IV,<IV></IV> # One for each variable. Annotation order: variable name > meaning > measurement
+//Dependent Variable,DV,<DV></DV>
+//Additional Factor,AF,<AF></AF> # covariates, confounds, moderators, mediators, demographics
+Test Name,TN,<TN></TN> # Name of statistical test / model
+Test,TE,<TE></TE> # (multiple tests only) one for each test. E.g., "Model 1", "Result 1"
+Study,SD,<SD></SD> # (multiple studies only) one for each study. E.g., "Study 1", "Experiment 1"
+Effect Size,ES,<ES></ES> # r, R2, Cohen’s d, f, Glass’ Δ, Hedges’ g, η2, ω2, Ψ, odds ratio, relative risk, Cohen’s h (currently only supports r and R2)
+P Value,PV,<PV></PV> #
+Sampling Method,SP,<SP></SP> #
+Preregistration,PR,<PR></PR> #
+//Hypothesis,HP,<HP></HP> # this is from provided metadata
+//Content of Focus,CF,<CF></CF> # 

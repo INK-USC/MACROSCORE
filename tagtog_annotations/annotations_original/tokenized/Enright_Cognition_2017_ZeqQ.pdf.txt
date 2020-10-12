@@ -1,0 +1,847 @@
+Enright_Cognition_2017_ZeqQ.pdf
+aZ7.FfDWfJabHE5.ha7.rdicT5JO-Enright_Cognition_2017_ZeqQ.pdf.plain.html
+
+Cognition 164 ( 2017 ) 8–21Contents lists available at ScienceDirect Cognition journal homepage : www.elsevier .com/locate /COGNITOriginal Articles ‘ To the victor go the spoils ’ : Infants expect resources to align with dominance structureshttp : //dx.doi.org/10.1016/j.cognition.2017.03.008 0010-0277/ 2017 Elsevier B.V. All rights reserved .
+⇑ Corresponding author .
+E-mail address : akee @ uw.edu ( E.A .
+Enright ) .Elizabeth A. Enright a , ⇑ , Hyowon Gweon b , Jessica A. Sommerville a aDepartment of Psychology , University of Washington , United States bDepartment of Psychology , Stanford University , United States a r t i c l e i n f o a b s t r a c tArticle history : Received 7 April 2016 Revised 7 March 2017 Accepted 17 March 2017 Available online 24 March 2017 Keywords : Resource distributions Social dominance Infant social cognition InequalityPrevious research has found that within the first year of life infants possess rich knowledge about social structures ( i.e. , that some individuals are dominant over other individuals ) as well as expectations about resource distributions ( i.e. , that resources are typically distributed equally to recipients ) .
+We investigated whether infants ’ expectations about resource distribution can be modulated by information about the dominance structure between the recipients .
+We first replicated the finding that infants attribute a stable dominance hierarchy to a pair of individuals when their goals conflicted and one individual yielded to the other ( Expt .
+1 ) , and that this sensitivity is not driven by lower-level perceptual factors ( Expt .
+2 ) .
+In Experiments 3–5 , we tested our main hypothesis that infants ’ attention to equal and unequal distribu- tions varies as a function of prior social dominance information .
+We first replicated and extended prior work by establishing that infants looked significantly longer to unequal than equal resource distributions when no prior information about dominance was provided about recipients ( Expt .
+3 ) .
+Critically , following social dominance information , infants looked significantly longer to an equal distribution of resources than a distribution that favored the dominant individual ( Expt .
+4 ) , and looked significantly longer when the submissive individual received more resources compared to when the dominant individual received more resources ( Expts .
+4 and 5 ) .
+Together , these findings suggest that infants expect resources to align with social dominance structures .
+2017 Elsevier B.V. All rights reserved.1 .
+Introduction Social dominance , or the tendency of a given individual to pre- vail over another individual in a conflict , is a defining feature of social relationships and social structures across a range of societies ( Cummins , 2000 ; Fiske , 2010 ) .
+Social dominance has consequences for an individual ’ s , or a group ’ s , well-being and success : socially dominant individuals are more likely to obtain advantageous out- comes and resources such as food , territory , and mates than sub- missive individuals ( Berger , Rosenholtz , & Zelditch , 1980 ; Cheng , Tracy , Foulsham , Kingstone , & Henrich , 2013 ; Ellis , 1995 ; Mascaro & Csibra , 2012 ) .
+In fact , social dominance affects not only the personal acquisition of resources , but the perception of social dominance often leads to a reinforcement of the status quo by others ( Van Berkel , Crandall , Eidelman , & Blanchar , 2015 ) .
+There- fore , the ability to detect social dominance , and the ability to rec- ognize the consequences of social dominance , are central to navigating the social world.Existing research suggests that the detection or recognition of dominance is ubiquitous , easily accessible , and fundamental to adults ’ social cognition .
+Indeed , social dominance is so readily per- ceived that adults can identify who is in charge based solely on non-verbal cues , such as body posture ( body expansion vs. body diminishment ) , and eye gaze ( direct vs. averted eye gaze ) ( Ellyson & Dovidio , 1985 ; Mast & Hall , 2004 ; Rule , Adams , Ambady , & Freeman , 2012 ; Shariff , Tracy , & Markusoff , 2012 ) .
+Adults also believe that where one stands in a social hierarchy is associated with particular benefits and outcomes .
+For example , researchers have argued that adults generally expect that higher status individuals are deserving of more resources than lower- status individuals ( Rai & Fiske , 2011 ) .
+Thus , adults recognize cues that define social hierarchies , link one ’ s position in a social hierar- chy to the possession of resources , and sometimes act to reinforce social hierarchies .
+1.1 .
+The development of representing social dominance Although much is known about how adults represent social dominance , the majority of research in developmental psychology E.A .
+Enright et al .
+/ Cognition 164 ( 2017 ) 8–21 9has focused on dominance within the context of children ’ s own social interactions and where they belong in social hierarchies ( Boulton & Smith , 1990 ; Edelman & Omark , 1973 ; Russon & Waite , 1991 ; Sluckin & Smith , 1977 ; Strayer & Strayer , 1976 ) .
+How- ever , some existing research has investigated children ’ s ability to detect differences in social status in groups of individuals as third-party observers .
+This work has demonstrated that children readily recognize social groups that differ in their status ( e.g. , groups with higher vs. lower academic achievement or drawing ability ) and develop preferences for higher-status groups over lower-status groups ( Bigler , Brown , & Markell , 2001 ; Nesdale & Flesser , 2001 ) .
+Moreover , children can detect differences in social status based on subtle cues such as posters in the classroom depicting one group as being more successful by having more of those group members win a spelling bee .
+Children recognize the difference between the higher- and lower- status groups and only demonstrate attitudes favoring their in-group when they are mem- bers of high-status groups ( Bigler et al. , 2001 ) .
+Subsequent studies have determined that preferences for higher-status social group members may be due to the fact that children associate high- status group members with the possession of material benefits : for example , children predict that White South Africans are wealthier than Black and multiracial South Africans ( Olson , Shutts , Kinzler , & Weisman , 2012 ) .
+Therefore , children recognize different groups based on their status , prefer high-status individu- als , and assume that differences in status are associated with pos- itive real-world consequences , such as material benefits .
+More work has also assessed children ’ s ability to detect and represent social dominance at the level of individual agents .
+Recent studies ( Brey & Shutts , 2015 ; Charafeddine et al. , 2015 ) have demonstrated that 3- to 5-year-old children can reliably identify who is in charge , or who is the boss , based on cues such as body posture , eye gaze , head tilt , age , physical supremacy , and the abil- ity to ‘ impose one ’ s decisions ’ on others .
+Children think that older individuals , individuals who win a play fight , and individuals who get to choose what game to play , are dominant .
+Children are also able to use resource cues to determine who is dominant : specifi- cally , they were significantly more likely to say that an individual with more resources is the boss .
+Therefore , children were explicitly able to use a number of different cues to represent social dominance .
+Several studies suggest that even infants show sensitivity to social dominance .
+In one study , researchers found that 10- and 13-month-old infants expected a smaller geometric shape to bow down and allow a larger geometric shape to pass in a confined physical space , suggesting that they can use size as a cue to dom- inance ( Thomsen , Frankenhuis , Ingold-Smith , & Carey , 2011 ) .
+Fur- thermore , infants as young as 6 months of age can use numerical group size to infer dominance ( Pun , Birch , & Baron , 2016 ) .
+Other studies have demonstrated that 15-month-old infants can identify dominance relations based solely on behavioral cues ( i.e. , prevail- ing at achieving a goal ) in the absence of perceptual cues such as size : when infants saw one individual chase another individual out of an enclosed space , they subsequently expected the previ- ously dominant individual to prevail in obtaining more resources in a resource competition than the submissive individual ( Mascaro & Csibra , 2012 ) .
+Infants also go beyond representing the relative dominance between two individuals : after learning that agent A prevails over agent B , and B prevails over C , infants expect A to prevail over C ( rather than vice versa ) , suggesting that infants make transitive inferences about dominance within the same context ( Gazes , Hampton , & Lourenco , 2015 ; Mascaro & Csibra , 2014 ) .
+Taken together , these findings suggest that early on in development , infants are sensitive to cues to dominance and recognize dominance as a stable characteristic of relationshipsbetween individuals ( but see General Discussion for a potential alternative casting of these findings ) .
+1.2 .
+The development of expectations about resource distributions A critical question addressed by the current set of experiments is whether infants take into account dominance information when reasoning about resource distributions .
+Both adults and children have expectations concerning how resources are , or should be , dis- tributed .
+Specifically , researchers have found that adults and chil- dren have strong preferences for equal distributions of resources in the absence of background information about the recipients ( Deutsch , 1975 ; Fehr & Schmidt , 1999 ; Haidt , 2007 ; Rochat et al. , 2009 ) .
+Children as young as 3 years of age will share or give out resources equally across individuals ( Baumard , Mascaro , & Chevallier , 2012 ; Damon , 1979 ; Hook & Cook , 1979 ; Olson & Spelke , 2008 ) and will act to reinstate equality when equality has been violated ( Shaw & Olson , 2013 ) .
+In fact , by 6–8 years of age , children ’ s inequity aversion is so strong that they would even dis- card a resource rather than distribute unequally across recipients who had equal merit ( Shaw & Olson , 2012 ) , and 8-year-olds will reject unequal offers even when the inequity advantages them- selves ( Blake & McAuliffe , 2011 ) .
+Recent work has suggested that even infants have expectations about how resources will be allocated .
+For instance , evidence sug- gests that 15-month-old infants will look longer at unequal com- pared to equal distributions when no prior information is given about the recipients ( Geraci & Surian , 2011 ; Schmidt & Sommerville , 2011 ; Sloane , Baillargeon , & Premack , 2012 ) .
+Infants also prefer individuals who distribute resources equally over those that do so unequally ( Burns & Sommerville , 2014 ; Geraci & Surian , 2011 ) .
+Therefore , infants seem to have an expectation for equal dis- tributions of resources when no information about the recipients is given , implying a norm of equality , and favor those that follow this norm .
+There is also evidence , however , that in appropriate situations , children adjust expectations about how resources are , and should be , distributed when background information about recipients is available .
+Five-year-old children will give more resources to indi- viduals who are poor ( i.e. , have few resources to begin with ) than individuals who are wealthy ( i.e. , have more resources to begin with ; Paulus , 2014 ) , and take wealth into account when deciding how to share resources ( Paulus , Gillis , Li , & Moore , 2013 ) .
+Children also consider merit when deciding how to distribute resources : children will share more resources such as stickers with a recipient who does more work than the recipient who does less work ( Baumard et al. , 2012 ; Kanngiesser & Warneken , 2012 ; Nelson & Dweck , 1977 ; Sigelman & Waitzman , 1991 ) .
+Other factors such as a child ’ s relationship with the recipient influence how children choose to share with recipients .
+For instance , children believe others should share more with a friend than a stranger and will themselves share more with friends ( Moore , 2009 ; Olson & Spelke , 2008 ) .
+Similarly , children share more resources when a child who is a part of their own in-group is watching the resource distribution than a child who is a member of the out-group is watching the resource distribution ( Engelmann , Over , Herrmann , & Tomasello , 2013 ) .
+Finally , a recent study finds cultural variability in the extent to which children and adults consider relative merit in their resource distributions ( Schäfer , Haun , & Tomasello , 2015 ) .
+New research has just begun to investigate whether infants take into account additional information when forming expectations regarding how resources are distributed .
+One study found that infants may use merit to form expectations about how resources will be distributed ( Sloane et al. , 2012 ) .
+Infants saw a video where either two individuals worked ( i.e. , cleaned up toys ) or a video in which one individual worked whereas the other individual did 10 E.A .
+Enright et al .
+/ Cognition 164 ( 2017 ) 8–21not .
+Following these videos , a third distributor came in and gave both individuals a sticker .
+Twenty-one-month-old infants looked significantly longer at the sticker distribution when one individual worked and the other did not than when both individuals worked .
+This indicates that infants expected resources to be distributed on the basis of effort or work .
+Similarly , infants sometimes prefer indi- viduals that violate the equality norm versus abide by the equality norm .
+Fifteen-month-old infants ’ preferences for individuals that produce equal versus unequal distributions depends on whether or not the inequality has positive benefits for same-race members ( Burns & Sommerville , 2014 ) .
+Under conditions in which other- race members benefit from inequality infants prefer individuals that distribute resources equally ; under conditions in which dis- tributors give more to same-race members infants prefer individu- als that distribute resources unequally .
+Together , these findings show that infants can take into account background information about recipients when forming expectations regarding how resources will be distributed .
+1.3 .
+Coordinating social dominance and resource distributions Research indicates that adults ’ knowledge of social dominance has consequences for expectations regarding resource possession and distribution .
+Although adults and children value equality in resource distributions ( Fehr & Schmidt , 1999 ; Rai & Fiske , 2011 ; Rand , Tarnita , Ohtsuki , & Nowak , 2013 ) , adults also recognize that dominant , higher-ranking individuals often receive more resources ( Jost , Banaji , & Nosek , 2004 ; Rai & Fiske , 2011 ) .
+In fact , one study found that when adults were under time pressure , they were sig- nificantly more likely to give more resources ( such as time and money ) to high-status individuals over lower-status individuals ( Van Berkel et al. , 2015 ) .
+Thus , adults consider dominance when distributing resources , and expect dominant individuals to receive more than submissive individuals .
+Charafeddine and colleagues ( 2015 ) found that 3–5 year olds , like adults , link dominance to obtaining more resources .
+In their study , after identifying one individual as dominant based on their posture , children inferred that the dominant individual had more resources .
+Therefore , there is some evidence showing that children expect individuals with more resources to be dominant , and that dominant individuals are more likely to have more resources .
+It remains unclear whether infants hold expectations that dominant individuals will have more than submissive individuals .
+The goal of the present work is to ask whether infants integrate information about social dominance with their expectations about resource distribution outcomes .
+More generally , the ability to link social dominance and resource distribution can be broadly con- strued as a case where information about properties of agents , or relationships between agents , can modulate expectations about event outcomes .
+Past work suggests that infants can use internal , dispositional properties of agents to shape their expectations regarding how events will play out .
+For instance , infants use infor- mation about agents ’ moral dispositions ( e.g. , helping or hindering a third agent ) to predict whom the third agent would approach ( Kuhlmeier , Wynn , & Bloom , 2003 ) .
+They also use agents ’ relative competence ( e.g. , relative frequency or distribution of successful vs. unsuccessful causal actions across agents ) to evaluate their actions ( Jara-Ettinger , Tenenbaum , & Schulz , 2015 ) or infer causes of their own failures ( Gweon & Schulz , 2011 ) .
+In these studies , infants had to infer these properties from the agents ’ actions with the physical or the social world , and integrate this information to form an expectation about another event .
+In the current study , infants faced a similar challenge ; they had to infer two agents ’ rel- ative dominance from their actions and use this information to modulate their predictions about how resources would be dis- tributed to the two agents.1.4 .
+The current set of experiments The goal of the present work is to ask whether infants integrate information about social dominance with their expectations about resource distribution outcomes .
+Prior work has found sensitivity to social dominance within the first year of life ( Gazes et al. , 2015 ; Pun et al. , 2016 ; Thomsen et al. , 2011 ) and expectations about resource distribution in the second year of life ( Geraci & Surian , 2011 ; Schmidt & Sommerville , 2011 ) .
+Since our main question was whether infants integrate these two concepts , we tested 17- month old infants , an age range we expected to see evidence for both .
+While our stimuli used conceptually similar scenarios ( conflict of goals and submission of one agent to another ) , several superfi- cial features of the stimuli were different from past research .
+Therefore , before we tested our main question of interest , we wanted to ensure that infants detected dominance in the videos we used for stimuli .
+We tested this in Experiment 1 and Experi- ment 2 .
+In Experiment 1 we replicated prior work on infants ’ abil- ity to represent dominance by investigating infants ’ sensitivity to changes to the dominance structure .
+In Experiment 2 we ruled out the possibility that low-level perceptual factors could explain infants ’ successful detection of changes to social dominance in Experiment 1 .
+These studies both replicate and extend prior work by adding convergent evidence that infants ’ sensitivity to domi- nance relations is robust across various contexts .
+In Experiments 3 – 5 , we used these stimuli to test our main hypothesis that infants ’ attention to equal and unequal distributions varies system- atically depending on the social dominance structure .
+In Experi- ment 3 we tested whether infants expect equal distributions in the absence of prior information about recipients using a novel dis- tribution task , given prior work demonstrating equality expecta- tions under similar conditions .
+In Experiments 4 and 5 , infants first saw videos conveying dominance information and then received the resource distribution task .
+This allowed us to ask whether infants suspend their expectations about equal distribu- tion of resources given information about the relative dominance structure ( i.e. , that the dominant individual will receive more resources than the submissive individual ) .2 .
+Experiment 1 Experiment 1 aims to replicate and extend past findings demonstrating that infants can detect reversals of social domi- nance ( Mascaro & Csibra , 2012 , 2014 ) , using a novel dominance sit- uation .
+Before going on to test our main question of interest in Experiments 3–5 , we wanted to determine whether , 17-month- old infants could detect and remember the dominance structure portrayed in our videos.2.1 .
+Method 2.1.1 .
+Participants Sixteen 17-month-old infants participated in Experiment 1 ( M = 17 months , 17 days , range = 16 months , 27 days to 18 months , 11 days ; 9 girls ) .
+In all of the experiments , we had a set of pre-determined exclusion criteria such that infants who were fussy and did not make it to the test videos , infants who did not meet the habituation criteria ( described below ) , infants who looked 2.5 SD above or below the mean at test , or infants for whom there was a procedural error , were excluded from the final sample .
+This exclusion criteria was used for all five of the experiments .
+In Experiment 1 , eleven additional infants were tested but were excluded from the experiment due to fussiness ( n = 7 ) , failure to habituate ( n = 2 ) , a procedural error of the com- 1 Pilot work suggested that a 1 s look-away criterion would lead to less attrition than a 2 s look-away criterion .
+Additionally , a 1 s look-away criterion has been used on other studies with 17-month olds ( Graf-Estes , Evans , Alibali , & Saffran , 2007 ) .
+E.A .
+Enright et al .
+/ Cognition 164 ( 2017 ) 8–21 11puter not starting to play the videos , ( n = 1 ) , and looking 2.5 SD below the mean at test ( n = 1 ) .
+All infants in all of the experiments who participated were full-term and typically developing .
+Partici- pants in all of the experiments were recruited from a database of parents who said they were interested in having their child partic- ipate in research .
+All parents of the participants in Experiment 1 completed their bachelor ’ s degree or higher .
+Of the participants , 11 were White , 2 were Asian , and 3 were Multiracial , as identified by their parents .
+All participants were treated according to the ‘ ‘ Ethical Principles of Psychologists and Code of Conduct ” ( Ameri- can Psychological Association , 2002 ) .
+2.1.2 .
+Procedure In all of the experiments , infants were seated on their parents ’ laps for the duration of the experiment .
+Parents were instructed to gaze neutrally at the top of their infants ’ heads in order to ensure that they would not influence their infants ’ looking or behavior .
+The primary experimenter ensured that parents com- plied with these instructions .
+Additionally , in all of the experiments , infants participated in a habituation phase where looking to the video outcomes was mea- sured .
+Once infants habituated , they viewed two test videos where again looking time was measured to the outcomes of the videos .
+Habituation and test videos for each of the experiments can be found at : https : //osf.io/je4hk/wiki/home/ .
+2.1.3 .
+Habituation phase Infants watched videos in which one puppet played a dominant role and a second puppet played a submissive role .
+These videos were loosely modeled off videos used in previous research ( Mascaro & Csibra , 2012 ; Thomsen et al. , 2011 ) .
+During habituation , infants saw a video featuring two objects and two puppets .
+One object was a purple chair and the other object was a brown stool ( see Fig .
+1a ) .
+The seat of the purple chair was higher than the brown stool .
+Both of the puppets were human- like .
+One of the puppets had short brown hair and was wearing a blue shirt with blue jeans and red shoes .
+The other puppet had short blonde hair and was wearing a primarily red shirt with one blue stripe in the middle with blue jeans and red shoes ( see Fig .
+1b ) .
+The chairs appeared first in the videos ( for 1 s ) and then the two puppets entered from opposite sides of the screen .
+Both puppets simultaneously approached and tried to take a seat in the more attractive purple chair ( Fig .
+1b ) .
+After bumping into the chair three times trying to compete for the attractive chair , the puppet playing the submissive role backed away from the purple chair , and bowed down .
+The puppet playing the dominant role then sat on the purple chair .
+After the dominant puppet was seated in the purple chair , the submissive puppet got up and sat on the brown stool .
+The video then cut to a static outcome depicting each puppet sitting on his respective chair/stool ( see Fig .
+1c ) .
+The dom- inance video was about 16 s long .
+2.1.4 .
+Test phase Following habituation , infants viewed two test trials .
+These test videos were structurally the same as the videos viewed during habituation where one puppet was dominant and ‘ achieved the goal ’ of sitting on a more attractive chair and the other puppet was submissive and ended up sitting on the brown stool .
+Although the videos were structurally the same , there were some changes .
+In both test videos , the location of the chair and stool were reversed in comparison to habituation trials ( see Fig .
+1d ) .
+Additionally , in one video the dominance structure was reversed and in one video the dominance structure was preserved .
+In the Dominance Pre- served test trial , the puppets switched sides ( compared to habitu- ation ) such that the dominance structure was preserved ( e.g. , Puppet A was still the dominant puppet and Puppet B was stillthe submissive puppet ) ( see Fig .
+1e and f ) .
+In the Dominance Rev- ersed test trial , the sides of the puppets were preserved resulting in a reversal of the dominance structure ( e.g. , Puppet A was now submissive and Puppet B was now dominant ) ( see Fig .
+1e and f ) .
+Thus , both test events were different from the habituation event but only the Dominance Reversed test event involved a change in the dominance structure .
+Infants ’ looking was timed to the static outcome of the test events until they looked away for one second .
+If infants detected the change in the dominance structure of the event , we predicted that infants would look longer to the Domi- nance Reversed test trial compared to the Dominance Preserved test trial .
+Test videos were also 16 s long .
+The side the puppets first entered on ( left versus right ) , the sides the objects first appeared on ( left versus right ) , the identity of the dominant puppet during habituation trials ( blond-haired versus brown-haired puppet ) , and the test trial order ( Dominance Preserved versus Dominance Reversed test trial first ) were counterbalanced .
+2.1.5 .
+Coding For all of the experiments , looking times were measured to the static outcomes of the habituation and test events by a primary online coder and a secondary offline coder both of whom were unaware of the particular events infants were watching .
+Coders used jHab , a computer program , ( Casstevens , 2007 ) to indicate when infants attended to the event .
+When infants looked away from the event for one second the trial ended and a new trial began.1 The habituation criteria was met when summed looking on a consecutive set of three trials fell to 50 % of summed looking on the first three trials .
+Additionally , for all experiments , there was a pre-set number of habituation trials such that infants needed to see a minimum of 6 trials during habituation , and at maximum 14 trials .
+For the habituation outcomes interrater reliability was high , r ( 108 ) = 0.99 , p < 0.001 .
+For the test trial outcomes interrater relia- bility was also high , r ( 30 ) = 0.99 , p < 0.001 .
+The live coder and off- line coder agreed on 93.75 % of look aways ( defined as the exact time that infants looked away from the screen to end the trial ) for the test trials .
+In addition , an offline coder coded infants ’ atten- tion to the habituation and test events themselves to ensure that infants attended to and encoded these events .
+2.2 .
+Results Habituation phase .
+On average , infants attended to the video 91.04 % of the time during the habituation events .
+On average , infants took 6.88 trials to habituate ( min = 6 , max = 9 ; SE = 0.26 ) .
+The mean looking time to the first 3 habituation outcomes was 31.85 s ( SE = 4.82 ) and the mean looking time on the last 3 habitu- ation outcomes was 12.43 ( SE = 1.71 ) .
+There was a significant decrease in attention from the first three habituation outcomes to the last three habituation outcomes , t ( 15 ) = 5.65 , p < 0.001 .
+Test phase .
+To ensure that infants attended equally to both videos , we compared infants ’ looking to the test videos .
+On aver- age , infants attended to the video 89.37 % of the time during the test videos .
+Infants ’ attended equally to the Dominance Reversed and Dominance Preserved test videos , t ( 15 ) = 0.39 , p = 0.70 .
+In our main analysis , we compared infants ’ mean looking times to the Dominance Preserved outcome ( the same puppet was dom- inant ) and the Dominance Reversed outcome ( the submissive pup- pet is now dominant ) which is shown in Fig .
+2 .
+As Fig .
+2 indicates , infants looked longer to the Dominance Reversed compared to the Experiment 2 Habituation a b c Habituation a b c Test Outcomes Dominance Preserved Dominance Reversed Experiment 1 Same Chair Different Chair Test Outcomes d e f Fig .
+1 .
+Habituation and Test Outcomes for Experiment 1 and 2 .
+Experiment 1 : During habituation , infants saw a brown stool and a more attractive purple chair ( a ) .
+Then , infants saw two puppets enter from opposite sides of the screen and try to sit in the chair ( b ) .
+After bumping into the chair three times , the submissive puppet bowed down and let the dominant puppet sit in the chair ( c ) .
+At test , infants saw two videos that were analogous to the habituation videos with a few minor changes .
+In both videos the chair and stool appeared in reverse locations in comparison to habituation ( d ) .
+In the Dominance Preserved outcome , the sides of the puppets reversed and the dominance/submissive roles were preserved ( e.g. , the puppet that was dominant during habituation was also dominant in this test event ) ( e , f ) .
+In the Dominance Reversed Outcome , the sides of the puppets stayed the same , but the dominance structure reversed such that the previously submissive puppet was dominant and the previously dominant puppet was now submissive ( e , f ) .
+Experiment 2 .
+During habituation , again infants saw a brown stool and a more attractive purple chair ( a ) .
+Then infants saw two puppets enter from opposite sides of the screen ( b ) .
+There was no conflict and the puppets just sat on whatever object ( i.e. , chair or stool ) that was closest to them ( c ) .
+At test , infants saw two videos analogous to the habituation videos , with the chair and stool in reversed locations ( d ) .
+In the Same Chair outcome the sides of the puppets switched , but the puppets sat on the same object as in habituation ( e , f ) .
+In the Different Chair outcome the puppets switched which objects they sat on such that they were sitting on the opposite objects than habituation ( e , f ) .
+12 E.A .
+Enright et al .
+/ Cognition 164 ( 2017 ) 8–21Dominance Preserved outcome , t ( 15 ) = 2.31 , p = 0.036 , d = 0.82 .
+This provides initial evidence that infants detected the dominance structure , and thus looked longer to the test event that disrupted versus preserved the dominance structure .
+2.3 .
+Discussion Experiment 1 showed that infants notice changes to the domi- nance structure .
+This is consistent with previous research findings ( Mascaro & Csibra , 2012 ; Thomsen et al. , 2011 ) and extends these findings to a novel dominance context .
+However , in Experiment 1 it is possible that the results were driven not by infants ’ ability to detect changes in the dominance structure , but instead were based merely on infants ’ ability to detect changes in the objects the pup- pets were sitting on .
+If this were the case , infants may just looklonger at the Dominance Reversed outcome because the objects the puppets sat on switched .
+To test for this possibility , Experiment 2 was conducted .
+3 .
+Experiment 2 In Experiment 2 , infants watched videos in which each puppet sat on the different objects , but there were no dominance cues ( i.e. , Puppet A sat on the purple chair and Puppet B sat on the brown stool ) .
+During test trials , infants saw events where the pup- pets entered from opposite sides of the screen and sat on either the same objects as habituation ( Same Chair Event : i.e .
+Puppet A would still sit on the purple chair and Puppet B would sit on the brown stool ) , or events in which the puppets entered from the same sides but sat on the opposite object ( Different Chair Event : i.e .
+Puppet A * Fig .
+2 .
+Average looking time to test outcomes for Experiment 1 and 2 .
+Error bars represent Standard Error .
+E.A .
+Enright et al .
+/ Cognition 164 ( 2017 ) 8–21 13would now be sitting on the brown stool and Puppet B would now be sitting on the purple chair ) .
+If in Experiment 2 , infants looked longer to the Different Chair test outcomes than the Same Chair outcomes then this would suggest that the results of Experiment 1 were simply driven by infants noticing that the puppets changed what objects they sat on .
+In contrast , if infants look equally to both the Same Chair and Different Chair test outcomes these findings would suggest that their attention in Experiment 1 was driven by their ability to detect the change in dominance structure .
+3.1 .
+Method 3.1.1 .
+Participants Sixteen 17-month-old infants participated in Experiment 2 ( M = 17 months , 10 days , range = 16 months , 28 days – 18 months , 5 days ; 8 girls ) .
+Ten additional babies were tested but excluded from the experiment due to fussiness ( n = 5 ) , failure to habituate ( n = 1 ) , a procedural error ( n = 2 ) , and for looking more than 2.5 SD above the mean at test ( n = 2 ) .
+For 11 infants both parents had their bachelor ’ s degree or higher , for 4 infants one parent had their bachelor ’ s degree and the other had some college , and for 1 infant one parent had their bachelor ’ s degree and the other had a high school diploma .
+Of the participants , 13 were White , 1 was Hispanic , and 2 were Multiracial as identified by their parents .
+3.1.2 .
+Procedure 3.1.2.1 .
+Habituation phase .
+In the habituation phase , infants watched videos that did not include any displays of dominance .
+In these videos without any displays of dominance , the same two objects ( ie .
+the purple chair and brown stool ) that were in Experi- ment 1 were shown ( see Fig .
+1a ) .
+The objects appeared first in the videos followed by two puppets who entered from opposite sides of the screen .
+Unlike in Experiment 1 where the puppets both approached and tried to sit in the attractive purple chair , in this experiment , both puppets simply approached the object they were closer to and stood in front of it ( Fig .
+1b ) .
+After standing in front of the closer object for about 3 s , the puppets sat on the object ( Fig .
+1c ) .
+The video then cut to a static frame ( see Fig .
+1c ) .
+The total length of the video was about 6 s long .
+3.1.2.2 .
+Test Phase .
+Following habituation , infants viewed two test trials .
+In both videos , the chair and the stool switched sides ( see Fig .
+1d ) .
+In the Same Chair test trial , the sides of the puppets were reversed and the same puppet that sat on the purple chair during habituation also sat on the purple chair during this test trial ( e.g. , Puppet A still sat on the purple chair and Puppet B still sat onthe brown stool ) ( see Fig .
+1e and f ) .
+In the Different Chair test trial , the chairs the puppets sat on were reversed ( e.g .
+if Puppet A sat on the purple chair during habituation , at test Puppet A sat on the stool , and Puppet B would now sit on the purple chair ) ( see Fig .
+1e and f ) .
+Again , the total length of the test videos was about 6 s long .
+The side the puppets were initially on ( left vs. right ) , the sides the objects were initially on ( left vs. right ) , the puppet originally sitting in the purple chair ( blond-haired vs. brown-haired ) , and test trial order ( Same Chair vs .
+Different Chair ) were all counterbal- anced .
+Infants ’ looking time was measured in the same way as in Experiment 1 .
+3.1.2.3 .
+Coding .
+For the habituation trial outcomes interrater relia- bility was high , r ( 130 ) 1.0 , p < 0.001 .
+For the test trial outcomes interrater reliability was also high , r ( 30 ) = 0.99 , p < 0.001 .
+The live coder and offline coder also agreed on 100 % of look aways on the test trials .
+3.2 .
+Results 3.2.1 .
+Habituation phase On average , infants attended to the video 88.49 % of the time during the habituation events .
+Infants on average took 8.25 trials to habituate ( min = 6 , max = 14 ; SE = 0.62 ) .
+The mean looking time to the first 3 habituation outcomes was 22.69 s ( SE = 2.34 ) and the mean looking time on the last 3 habituation outcomes was 8.72 s ( SE = 0.91 ) .
+There was a significant decrease in attention from the first three habituation outcomes to the last three habituation out- comes , t ( 15 ) = 8.79 , p < 0.001 .
+3.2.2 .
+Test phase On average , infants attended to the video 82.77 % of the time during the test videos .
+To ensure that infants watched both test videos , we compared infants ’ attention to both test videos .
+Infants equally attended to the Same Chair and Different Chair test events , t ( 15 ) = 0.44 , p = 0.66 .
+In our main analysis of interest , we compared infants ’ mean looking times to the Same Chair outcome ( the puppets sat on the same chairs ) and the Different Chair outcome ( the puppets sat on opposite chairs ) which is shown in Fig .
+2 .
+As Fig .
+2 indicates , infants looked at the Same Chair and Different Chair outcomes equally , t ( 15 ) = 0.89 , p = 0.39 , d = 0.31 .
+3.2.3 .
+Comparing Experiment 1 and Experiment 2 We compared results from Experiment 1 and 2 to test whether infants ’ looking time differed as a function of whether dominance information was present ( Experiment 1 ) or absent ( Experiment 2 ) which would provide additional evidence that infants were not just responding to the puppets sitting in different chairs .
+An ANOVA was conducted with Test Outcome ( Same Chair/Same Dominance Structure vs .
+Different Chair/Different Dominance Structure ) as the within-subjects measure and Experiment ( Exp1 vs. Exp2 ) as the between-subjects factor .
+There was no main effect of looking based on Test Outcome ( Same Chair/Same Dominance Structure vs .
+Different Chair/Different Dominance Structure ) , F ( 1 , 30 ) = 1.70 , p = 0.20 , g2 = 0.054 .
+There was a main effect of looking based on Experiment ( Exp1 vs. Exp2 ) , F ( 1 , 30 ) = 8.96 , p = 0.005 , g2 = 0.023 showing that infants looked longer at the test trial out- comes in Exp1 than the test trial outcomes from Exp2 .
+Critically , however , and as predicted , the analysis revealed a significant inter- action between Experiment and Test Outcome , F ( 1,30 ) = 5.65 , p = 0.024 , g2 = 0.16 .
+Follow-up analyses revealed that infants looked significantly longer at the Different Chair Outcome when dominance cues were displayed and the dominance structure changed in Experiment 1 14 E.A .
+Enright et al .
+/ Cognition 164 ( 2017 ) 8–21than when the puppets just sat on different chairs and no domi- nance cues were present in Experiment 2 , t ( 30 ) = 3.83 , p = 0.001 , d = 1.35 .
+In contrast , infants looked equally at the Same Chair Out- come across experiments , t ( 30 ) = 0.44 , p = 0.67 , d = 0.15 .
+These findings show that infants ’ attention varied as a function of whether dominance cues were present , and the differential looking based on the change in the dominance structure in Experiment 1 was due to the change in the Dominance Structure and not due to changing which chairs the puppets sat on .
+Additionally , if it were the case that infants noticed the chair swap in Experiment 1 because they were more attentive than Experiment 2 they should have looked longer to the habituation events in Experiment 1 .
+This was not the case , and across Experiments 1 and 2 infants attended equally to both displays , t ( 30 ) = 1.29 , p = 0.21 , d = 0.46 .
+3.3 .
+Discussion Experiment 2 provides evidence that infants did not attend more strongly to event outcomes in which the puppets switched chairs versus sat on the same chairs .
+Therefore , in Experiment 1 , infants noticed the change in the dominance structure and were not just paying attention to the outcome of the events.4 .
+Experiment 3 Before we could test whether infants can integrate information about dominance into resource distributions , Experiment 3 sought to replicate and extend previous research showing that infants have a baseline expectation that resources are distributed equally to recipients ( Geraci & Surian , 2011 ; Schmidt & Sommerville , 2011 ; Sloane et al. , 2012 ) .
+The current experiment was novel in that we tested 17-month-old infants ( a previously untested age group with this procedure ) , and featured events in which a person distributed resources to two puppets .
+In the current experiment , before seeing equal and unequal resource distributions , infants watched the videos from Experi- ment 2 ( no dominance cues ) during habituation .
+Before testing our main hypothesis that infants ’ expectations about equality can be modulated by familiarizing infants with dominance information between the subsequent recipients involved in the resource distri- bution , it was important to establish that these expectations are not influenced by other aspects of familiarization .
+Because the habituation videos did not differentiate the puppets in terms of their dominance status , we predicted that infants would expect equal resource distributions , mirroring past work ( Geraci & Surian , 2011 ; Schmidt & Sommerville , 2011 ; Sloane et al. , 2012 ) .
+4.1 .
+Method 4.1.1 .
+Participants Sixteen 17-month-old infants participated in Experiment 3 ( M = 17 months , 13 days , range = 16 months , 25 days – 18 months , 11 days ; 9 girls ) .
+An additional five infants were tested but were excluded from analyses due to not habituating ( n = 2 ) and fussiness ( n = 3 ) .
+No infants were excluded due to procedural errors or look- ing 2.5 SD above or below the mean .
+Infants in the sample came from highly educated families , for 15 infants both parents had their bachelor ’ s degree or higher , and for 1 infant one parent had their bachelor ’ s degree and the other had some college .
+Of the partici- pants , 10 were White , and 6 were Multiracial as identified by their parents .
+4.1.2 .
+Procedure 4.1.2.1 .
+Habituation phase .
+In the habituation phase infants viewed the videos that did not display any dominance information whereone puppet sat on a more attractive chair and the other puppet sat on the less attractive stool .
+These were the same videos that were shown in Experiment 2 during habituation ( see Fig .
+1a–c ) .
+4.1.2.2 .
+Test phase .
+Following habituation , infants viewed two test trials .
+During these test trials , infants watched distribution videos that ended in either an equal distribution ( Equal Test Event ) or a distribution that favored the puppet sitting in the more attractive chair ( Unequal Favors Attractive Test Event ) .
+In the Equal Test Event , infants first saw a male actor seated in between the two puppets that were in the habituation videos .
+Each puppet was holding a black plate .
+The experimenter first said ‘ ‘ hi ” to both of the puppets , and the puppets waved their hands in response ( Fig .
+3a ) .
+The actor then brought out a clear bowl that contained four red Legos and said ‘ ‘ Wow ” ( 3b ) .
+The puppets then moved clo- ser to the actor and the actor distributed two Legos to the puppet who sat on the more attractive chair in the previous videos while saying ‘ ‘ here ” ( 3c ) and then distributed two Legos to the puppet who sat on the less attractive stool in the previous videos while saying ‘ ‘ here ” ( 3d ) .
+After distributing all of the Legos , the actor lifted up the empty bowl and said , ‘ ‘ There , All gone ” ( 3e ) .
+The infants than viewed the actor holding up the empty bowl and smil- ing at the camera for one second ( 3e ) .
+Then , the video cut to a freeze frame where the actor ’ s face was covered by a black box so that the infants would focus on the distribution outcome ( 3f ) .
+Infants ’ looking was measured to this outcome .
+In the Unequal Favors Attractive Test Event , the same sequence of events occurred as in the Equal Test Event ( Fig .
+3a and b ) but instead of distributing the Legos equally , the actor distributed the Legos unequally such that the puppet who previously sat on the attractive chair received three Legos ( 3c ) and the puppet that previously sat on the less attractive stool received one Lego ( 3d ) .
+Just as in the equal videos , after the distribution , the actor lifted up the empty bowl and said , ‘ ‘ There , All gone ” ( 3e ) , and the infants viewed the actor holding up the empty bowl while smiling at the camera for one second .
+Following the event , the video cut to a freeze frame where again , the actor ’ s face was covered by a black box so that the infants would focus on the distribution outcome ( 3f ) .
+Infants ’ looking was measured to this static outcome .
+The total length of the test videos were about 22 s long .
+The side the puppets were initially on ( right vs. left ) , the sides the chairs were initially on ( right vs. left ) , the puppet originally sit- ting in the purple chair ( blond-haired vs. brown-haired ) , and test trial order for the first two test trials ( Equal vs .
+Unequal Favors Attractive ) were all counterbalanced .
+Infants ’ looking was mea- sured to the outcomes .
+4.1.2.3 .
+Coding .
+For the habituation trial outcomes interrater relia- bility was high , r ( 151 ) = 0.99 , p < 0.001 .
+For the test trial outcomes interrater reliability was also high , r ( 30 ) = 0.99 , p < 0.001 .
+The live coder and offline coder also agreed on 100 % of look aways on the test trials .
+4.2 .
+Results Habituation Phase .
+On average , infants attended to the video 85.11 % of the time during the habituation events .
+Infants on aver- age took 9.56 trials to habituate ( min = 6 , max = 14 ; SE = 0.70 ) .
+The mean looking time to the first 3 habituation outcomes was 23.59 s ( SE = 3.68 ) and the mean looking time on the last 3 habituation outcomes was 9.20 s ( SE = 1.36 ) .
+There was a significant decrease in attention from the first three habituation outcomes to the last three habituation outcomes , t ( 15 ) = 5.84 , p < 0.001 .
+Test phase .
+On average , infants attended to the video 98.32 % of the time during the test videos .
+To ensure that infants watched both test videos , we compared infants ’ looking to the videos .
+a b c d e f Distributions and Test Outcomes Equal Distribution Unequal Distribution a b c d e f Fig .
+3 .
+Distribution videos for Experiments 3–5 .
+In the distribution videos , a distributor is shown between two puppets ( a ) .
+Then , the distributor brings out a bowl of resources ( b ) , and gives resources to one puppet ( c- gives two resources in the equal distribution or three resources in the unequal distribution ) before giving resources to the other puppet ( d- gives two in the equal distribution or one resource in the unequal distribution ) .
+The distributor then holds out his empty bowl ( e ) .
+The video then cuts to a freeze frame focusing only on the puppets to show the number of resources each puppet received ( f ) .
+In the Unequal Test Event , the favored puppet was either the puppet who sat on the more attractive chair ( Exp 3 : Unequal Favors Attractive ) , the Dominant puppet ( Exp 4 : Unequal Favors Dominant ) , or the Submissive Puppet ( Exp 5 : Unequal Favors Submissive ) .
+E.A .
+Enright et al .
+/ Cognition 164 ( 2017 ) 8–21 15Infants equally attended to the Equal and Unequal Test Events , t ( 15 ) = 0.40 , p = 0.69 .
+In the main analysis , we compared infants ’ mean looking times to the Equal Outcome ( both puppets received an equal number of resources ) and the Unequal Favors Attractive Outcome ( the puppet who sat on the more attractive chair during habituation received more resources than the puppet who was sitting on the brown stool ) which is shown in Fig .
+4 .
+As Fig .
+4 indicates , infants looked significantly longer at the Unequal Favors Attractive Outcome , t ( 15 ) = 2.44 , p = 0.028 , d = 0.60.4.3 .
+Discussion Experiment 3 replicates and extends past studies showing that infants expect equality and look longer to unequal versus equal outcomes in the absence of differentiating information about the recipients ( Geraci & Surian , 2011 ; Schmidt & Sommerville , 2011 ; Sloane et al. , 2012 ) .
+Experiment 3 also showed that the mere presence of familiarity with the recipients and any of their actions ( e.g. , sitting in chairs that differ in salience ) do not change infants ’ expectations about the outcomes of resource distributions in the absence of informa- tion about relative dominance between the recipients .
+After seeing a video in which the puppets occupied different chairs prior to the resource distribution , infants expected resources to be distributed equally to recipients .
+Knowing that 17-month-old infants also expect equality when there are no differences in dominance status , we proceeded to test whether infants ’ expectations about resource distribution can be modulated by information about the domi- nance structure between the recipients.5 .
+Experiment 4 In the current experiment we hypothesized that infants would integrate prior information about the recipients such that infants would expect someone who is dominant to subsequently receive more resources than someone who is submissive .
+Not only would this provide further evidence that infants are sensitive to the dom-inance structure , this would also show that infants expect domi- nance to have downstream consequences for resource allocations .
+To test whether infants deviate from expecting equality given dominance information , we had infants view the same dominance videos as in Experiment 1 during habituation trials .
+After habituat- ing to a video in which one puppet was portrayed as dominant and one puppet was portrayed as submissive , infants watched an Equal and Unequal Distribution Event ( as in Experiment 3 ) .
+If the domi- nance information does not influence infants ’ expectations about resource distribution , infants should look longer at an outcome in which the dominant individual is favored compared to an equal outcome .
+If , however , the dominance information leads infants to suspend expectations of equality , then infants should look longer at the equal outcome compared to the outcome that favors the dominant individual .
+We hypothesized that infants would incorpo- rate the dominance structure into their expectations about resource distributions and therefore look longer at the equal outcome .
+5.1 .
+Method 5.1.1 .
+Participants Sixteen 17-month-old infants participated in Experiment 4 ( M = 17 months , 8 days , range = 16 months , 28 days – 18 months , 5 days ; 7 girls ) .
+Ten additional babies were tested but were not included in the final sample due to fussiness ( n = 6 ) , failure to habituate ( n = 3 ) , and a procedural error ( n = 1 ) , no infants were excluded due to looking 2.5 SD above or below the mean .
+Of the parents who had participating infants , for 12 infants both parents had their bachelor ’ s degree or higher , for 3 infants one parent had their bachelor ’ s degree and the other had some college , and for 1 infant their sole parent had their high school diploma .
+Of the participants , 14 were White , and 2 were Multiracial as identi- fied by their parents .
+5.1.2 .
+Procedure 5.1.2.1 .
+Habituation phase .
+In the habituation phase , infants viewed videos that portrayed dominance .
+These were the same videos that were shown in Experiment 1 ( see Fig .
+1a–c ) .
+Infants watched the dominance videos until they habituated .
+* * * * ns Fig .
+4 .
+Average looking time to test outcomes for Experiment 3 , 4 , and 5 .
+Error bars represent Standard Error .
+16 E.A .
+Enright et al .
+/ Cognition 164 ( 2017 ) 8–215.1.2.2 .
+Test phase .
+Following habituation , infants viewed two test trials .
+During these test trials , infants watched distribution videos that ended in either an equal distribution ( Equal Test Event ) or a distribution that favored the dominant puppet ( Unequal Favors Dominant Test Event ) .
+These videos were the exact same videos used in Experiment 3 .
+In the Equal test trial , the distributor gave 2 Legos to the Dom- inant puppet and 2 Legos to the Submissive Puppet .
+In the Unequal Favors Dominant test trial , the distributor gave 3 Legos to the Dominant puppet and 1 Lego to the Submissive Puppet ( Fig .
+3a– f ) .
+Infants ’ looking was measured to the static outcome .
+The side the puppets were initially on ( right vs. left ) , the sides the chairs were initially on ( right vs. left ) , the dominant puppet ( blond-haired vs. brown-haired ) , and test trial order for the first two test trials ( Equal vs .
+Unequal Favors Dominant first ) were all counterbalanced .
+5.1.2.3 .
+Coding .
+For the habituation trial outcomes interrater relia- bility was high , r ( 125 ) = 0.99 , p < 0.001 .
+For the test trial outcomes interrater reliability was also high , r ( 30 ) = 0.99 , p < 0.001 .
+The live coder and offline coder also agreed on 97 % of look aways on the test trials .
+5.2 .
+Results 5.2.1 .
+Habituation phase On average , infants attended to the video 84.90 % of the time during the habituation events .
+Infants on average took 7.94 trials to habituate ( min = 6 , max = 14 ; SE = 0.61 ) .
+The mean looking time to the first 3 habituation outcomes was 31.56 s ( SE = 4.91 ) and the mean looking time on the last 3 habituation outcomes was 10.48 ( SE = 1.67 ) .
+There was a significant decrease in attention from the first three habituation outcomes to the last three habituation out- comes , t ( 15 ) = 5.76 , p < 0.001 .
+5.2.2 .
+Test phase On average , infants attended to the video 98.37 % of the time during the test videos .
+To ensure that infants attended equally to both videos , we compared infants ’ looking to the test videos .
+Infants equally attended to the Equal and Unequal Favors Domi- nant test videos , t ( 15 ) = 0.16 , p = 0.88 .
+In our main analysis , we compared infants ’ mean looking times to the Equal Outcome ( both puppets received an equal number of resources ) and the Unequal Favors Dominant Outcome ( the domi- nant puppet received more resources than the submissive puppet ) which is shown in Fig .
+4 .
+As Fig .
+4 indicates , infants looked signif-icantly longer at the equal outcome , t ( 15 ) = 2.54 , p = 0.022 , d = 0.88.5.2.3 .
+Comparing Experiment 3 and Experiment 4 We compared results from Experiment 3 and 4 to examine infants ’ overall expectations about resource distributions in the absence and presence of dominance information .
+An ANOVA was conducted with Test Outcome ( Equal vs .
+Unequal ) as the within- subjects measure and Experiment ( Exp3 vs. Exp4 ) as the between-subjects factor .
+There was no main effect of looking based on Test Outcome ( Equal vs .
+Unequal ) , F ( 1 , 30 ) = 0.23 , p = 0.64 , g2 = 0.008 nor a significant main effect of looking based on Exper- iment ( Experiment 3 vs .
+Experiment 4 ) , F ( 1 , 30 ) = 1.12 , p = 0.30 , g2 = 0.036 .
+Critically , however , and as predicted , the analysis revealed a significant interaction between Experiment and Test Outcome , F ( 1,30 ) = 12.30 , p = 0.001 , g2 = 0.291 .
+Follow-up analyses revealed that infants looked significantly longer at the Equal Outcome in Experiment 4 ( when equal resources were given to the dominant and submissive puppets ) compared to Experiment 3 ( when equal resources were given to the puppets and neither puppet was dominant over the other ) , t ( 30 ) = 2.91 , p = 0.007 , d = 1.03 .
+Comparing the Unequal Test Out- comes across the experiments , there were no differences in infants ’ looking across experiments to the Unequal Test Outcomes , t ( 30 ) = 1.03 , p = 0.31 , d = 0.37 .
+These findings show that infants ’ atten- tion to inequality varied as a function of whether they previously viewed videos depicting dominance information .
+Thus , infants expected equality when no dominance information was previously provided , but when they learned about differences in dominance , they did not expect equality.5.3 .
+Discussion Experiment 4 provides initial evidence that given information about the dominance structure between two recipients , infants overturned their equality expectation and instead expected an unequal distribution .
+This indicates that infants may expect resources to be distributed in a way that is consistent with the dominance structure .
+Comparing the results of Experiments 3 and 4 revealed that infants had different expectations for resource distributions based on dominance information about the recipi- ents .
+Infants ’ attention to the equal outcome varied based on whether there was no information about dominance hierarchies or whether one puppet was previously portrayed as dominant over the other puppet .
+Overall , these two experiments provide support that infants use information about the dominance structure to E.A .
+Enright et al .
+/ Cognition 164 ( 2017 ) 8–21 17form expectations about how resources are or should be distributed .
+An alternate reading of the findings of Experiment 4 is that infants may not have specifically formed expectations that the dominant puppet will receive more than the submissive puppet , but instead may have just had an expectation that resources will be distributed unequally , in either direction , when provided with prior dominance information .
+To differentiate between these pos- sibilities , Experiment 5 was conducted.6 .
+Experiment 5 In Experiment 5 we tested to see whether infants merely expect general inequality after viewing dominance information , or whether they specifically expect a resource distribution to be aligned with the dominance structure .
+Thus , as in Experiment 4 , infants saw the dominance videos during Habituation ( same as Experiment 1 and 4 ) , followed by Equal or Unequal distribution test trials .
+The critical difference was that in the Unequal distribu- tion event , the submissive puppet received more Legos ( 3 ) than the dominant puppet ( 1 ) .
+Our questions in Experiment 5 were twofold .
+First , we wanted to investigate whether infants would view an outcome in which the submissive puppet was advantaged by the distribution as less expected than an equal outcome ( leading to longer looking to the event that favored the submissive puppet ) , or whether they would see both types of events as relatively unexpected ( leading to equiv- alent looking times ) .
+Second , we wanted to investigate whether infants would see inequality that favors the submissive recipient as more unexpected than an inequality that favors the dominant recipient .
+If infants vary their attention as a function of the nature of the inequality , this would provide compelling evidence that infants are linking dominance structures to resource distributions .
+6.1 .
+Method 6.1.1 .
+Participants Sixteen 17-month-old infants participated in Experiment 5 ( M = 17 months , 17 days , range = 17 months , 4 days – 18 months , 10 days ; 9 girls ) .
+There were eight infants who were excluded from analyses due to fussiness ( n = 4 ) and for failing to habituate ( n = 4 ) .
+No infants were excluded due to procedural errors or looking 2.5 SD above or below the mean at test .
+For 12 infants both parents had their bachelor ’ s degree or higher , for 1 infant one parent had their bachelor ’ s degree and the other had some college , for 1 infant both parents had some college , for 1 infant 1 parent had a bache- lor ’ s degree , and for 1 infant 1 parent had some college .
+Of the par- ticipants , 14 were identified as White , and 2 were identified as Multiracial by their parents .
+6.1.2 .
+Procedure 6.1.2.1 .
+Habituation phase .
+In the habituation phase , infants viewed videos that portrayed dominance .
+These were the same videos that were shown in Experiment 1 and Experiment 4 ( see Fig .
+1a–c ) .
+Infants watched the dominance videos until they habituated .
+6.1.2.2 .
+Test phase .
+Following habituation , infants viewed two test trials .
+During these test trials , infants watched distribution videos that ended in either an equal distribution ( Equal Test Event ) or an unequal distribution in which the submissive puppet received more resources ( Unequal Favors Submissive Test Event ) .
+The test events were exactly the same as Experiment 4 except in the Unequal Favors Submissive Test Event , the puppet that was sub- missive during the dominance videos received more resources than the dominant puppet ( see Fig .
+3a–f ) .
+As in Experiment 4 , afterthe distribution of resources occurred , the videos cut to a freeze frame where the actor ’ s face was covered by a black box so that the infants would focus on the distribution outcome ( 3f ) and infants ’ looking was measured to this outcome .
+Again , the side the puppets were initially on ( right vs. left ) , the sides the chairs were initially on ( right vs. left ) , the puppet origi- nally sitting in the purple chair ( blond-haired vs. brown-haired ) , and test trial order for the first two test trials ( Equal vs .
+Unequal Favors Submissive first ) were all counterbalanced .
+Infants ’ looking time was measured in the same way as in Experiment 1 , 2 , 3 , and 4.6.1.2.3 .
+Coding .
+For the habituation trial outcomes interrater relia- bility was high , r ( 127 ) = 0.99 , p < 0.001 .
+For the test trial outcomes interrater reliability was also high , r ( 30 ) = 0.99 , p < 0.001 .
+The live coder and offline coder also agreed on 94 % of look aways on the test trials.6.2 .
+Results Habituation phase .
+On average , infants attended to the video 86.18 % of the time during the habituation events .
+Infants on aver- age took 8.06 trials to habituate ( min = 6 , max = 14 ; SE = 2.72 ) .
+The mean looking time to the first 3 habituation outcomes was 28.24 s ( SE = 3.17 ) and the mean looking time on the last 3 habituation outcomes was 9.69 s ( SE = 1.22 ) .
+There was a significant decrease in attention from the first three habituation outcomes to the last three habituation outcomes , t ( 15 ) = 8.39 , p < 0.001 .
+Test phase .
+On average , infants attended to the video 97.62 % of the time during the test videos .
+To ensure that infants attended equally to both videos , we compared infants ’ looking to the test videos .
+Infants equally attended to the Equal and Unequal Favor Submissive Test videos , t ( 15 ) = 0.28 , p = 0.78 .
+In our main analysis , we compared infants ’ mean looking times to the Equal Outcome ( both puppets received an equal number of resources ) and the Unequal Favors Submissive Outcome ( the sub- missive puppet received more resources than the dominant pup- pet ) which is shown in Fig .
+4 .
+As Fig .
+4 indicates , infants looked equally long at the Equal Outcome and the Unequal Favors Submis- sive Outcome , t ( 15 ) = 1.22 , p = 0.24 , d = 0.26 .
+Comparing Experiment 4 and Experiment 5 .
+To determine infants ’ overall expectations for equality , favoring the dominant individual , and favoring the submissive individual , Experiment 4 and 5 were compared .
+An ANOVA was conducted with Test Outcome ( Equal vs .
+Unequal ) as the within-subjects measure and Experiment ( Exp4 vs. Exp5 ) as the between-subjects factor .
+There was no main effect of looking based on Test Outcome ( Equal vs .
+Unequal ) , F ( 1 , 30 ) = 2.14 , p = 0.15 , g2 = 0.067 nor a significant main effect of look- ing based on Experiment ( Experiment 4 vs .
+Experiment 5 ) , F ( 1 , 30 ) = 0.26 , p = 0.61 , g2 = 0.009 .
+Critically , however , and as predicted , the analysis revealed a significant interaction between Experiment and Test Outcome , F ( 1,30 ) = 7.81 , p = 0.009 , g2 = 0.206 .
+Follow-up analyses revealed that infants looked for similar amounts of time at the Equal Test Outcomes across experiments , t ( 30 ) = 0.93 , p = 0.36 , d = 0.33 .
+Comparing the Unequal Test Out- comes across the experiments , infants looked significantly longer at the Unequal Favors Submissive Outcome compared to the Unequal Favors Dominant Outcome , t ( 30 ) = 2.23 , p = 0.034 , d = 0.79 .
+These findings show that infants ’ attention to inequality varied as a function of who is being favored .
+Thus , rather than a having a general association between dominance structure and unequal distribution of resources , infants specifically expected the dominant puppet to receive more resources than the submis- sive puppet .
+18 E.A .
+Enright et al .
+/ Cognition 164 ( 2017 ) 8–216.3 .
+Discussion Overall , Experiment 5 showed that infants ’ expectations for the equal outcome and the outcome in which the submissive puppet was favored were equivalent ; infants ’ looking to these two types of outcomes did not differ significantly .
+Comparing the results of Experiments 4 and 5 revealed that infants expected the dominant puppet to be favored in the resource distribution over the submis- sive puppet .
+Infants ’ attention to the unequal outcome varied based on whether the favored recipient was dominant or submis- sive .
+Overall , these two experiments provide support that infants use information about the dominance structure to form expecta- tions about how resources are or should be distributed.7 .
+General discussion 7.1 .
+Summary and implications of the current findings The critical question addressed in the current experiments was whether infants ’ expectations about resource distributions can be modulated by the dominance structure between the recipients .
+First we replicated prior results that 17-month-old infants can detect social dominance ( Experiments 1 and 2 ) , and that infants have a baseline expectation for equality in the absence of relevant background information about recipients ( Experiment 3 ) .
+We then asked whether infants expect a dominant individual to receive more resources than a submissive individual in a resource distribu- tion event ( Experiments 4 and 5 ) .
+Our findings suggest that infants expect resource distributions to reflect the dominance hierarchy .
+After learning that one puppet was dominant and the other sub- missive , infants expect not only that resources will be distributed unequally , but also expect that unequal distributions will favor the dominant puppet over the submissive puppet .
+Prior work has demonstrated that preschool-age children explicitly expect domi- nant individuals to possess more resources than their submissive counterparts ( Charafeddine et al. , 2015 ) ; our findings add impor- tant new information to the literature by demonstrating that even at 17 months of age , infants expect resource distributions to align with the dominance structure .
+Prior work has shown that infants readily infer and represent social dominance ( Gazes et al. , 2015 ; Mascaro & Csibra , 2012 , 2014 ; Thomsen et al. , 2011 ) .
+Our results extend these findings , showing how such representations might be used ; infants used dominance information to form expectations about who will receive more resources , and who will receive less .
+In addition , our results may extend our knowledge of the flexibility of infants ’ expectations about resource distributions themselves .
+Previous research has shown that when infants receive either no back- ground information about recipients , or irrelevant background information , infants expect resources to be distributed equally to recipients ( Geraci & Surian , 2011 ; Schmidt & Sommerville , 2011 ) .
+In addition to replicating these results in Experiment 3 , our work critically demonstrates that infants do not always expect equality in resource distributions ; after learning that one puppet was dom- inant and another submissive , infants expected resource distribu- tions to be unequal .
+A recent study found that infants suspended expectations about equal resource distributions when the two recipients contributed unequal amounts of work ( Sloane et al. , 2012 ) .
+Consistent with this , the current findings also suggest that infants are not merely employing an equality heuristic to form expectations regarding how resources are distributed , but can adjust their expectations flexibly based on the information at hand .
+Our findings suggest that infants may use information about a recipient ’ s rank in the social hierarchy , or social status , to inform their expectations about resource distributions.Interestingly , recent work suggest that young preschoolers , but not older preschoolers , tend to explicitly default to an equality norm even when there are legitimate reasons to justify departure from this norm – such as differences in need , merit and agreed- upon rules or systems of resource allocation ( Schmidt , Svetlova , Johe , & Tomasello , 2016 ) .
+There are several reasons why the find- ings may differ across studies .
+First , Schmidt et al .
+( 2016 ) assessed explicit behavior and expectations whereas our work investigated infants ’ implicit expectations .
+Second , when , and the extent to which , children can take into account background information to reason about resource distributions may depend on the type of information provided about recipients .
+It may be the case that cer- tain types of information ( i.e. , dominance ) are easier to reason about than others ( i.e. , need ) .
+Or , perhaps more broadly , it may be the case that children more readily incorporate information about recipients that is constant and unchanging ( i.e. , an individ- ual ’ s social status ) before they can incorporate transient , situa- tional information ( i.e. , an individual ’ s current need ) .
+Future work can distinguish these possibilities .
+Although past work has defined or operationalized resource dis- tribution in terms of particular acts or events in which resources are visibly allotted to others , it is important to point out that our results may not strictly apply to acts of witnessed resource alloca- tion , but instead are consistent with a more inclusive definition of resource distribution .
+Specifically , our definition does not neces- sarily refer to any specific process by which goods are divided or given out to different individuals ; it just refers to the statistical state of something being ( or having been ) distributed .
+In our exper- iments , it could be that infants formed expectations based on the process of distributing resources such that they expected a third party to give more to dominant individuals .
+Another possibility is that infants may have formed expectations based on resource pos- session .
+From this perspective , infants in our experiments could have ignored the distribution events and focused only on the out- comes and the fact that one puppet possessed more resources than the other puppet .
+In line with this possibility , past work has shown that children expect dominant individuals to possess more resources than submissive individuals ( Charafeddine et al. , 2015 ) .
+Therefore , it may not be surprising that infants have similar expec- tations .
+Future work can seek to determine whether infants at this age hold expectations about the process by which resources are dis- tributed across individuals ( e.g. , the distributor ’ s behavior ) or the state of resource possession by individuals .
+7.2 .
+Are infants representing dominance per se ?
+Another question regarding the current findings and past work is how infants are representing ‘ ‘ dominance ” displays used in var- ious experimental paradigms .
+Because these displays contain mul- tiple behaviors that provide rich information about agents and their social interactions , it is possible that infants are attributing other properties in addition to ( or even instead of ) dominance .
+For example , infants may not be representing the actors in these events in terms of dominance , but may instead represent the actors in terms of competence and incompetence .
+In this set of experi- ments , infants saw two puppets trying to achieve a goal of sitting in a more attractive chair .
+One puppet achieved the goal and the other did not ; accordingly infants may have construed one puppet as more competent at achieving his goal than the other puppet .
+Similarly in Mascaro and Csibra ’ s ( 2012 ) stimuli , the ‘ ‘ dominant ” agent successfully collected more objects than the ‘ ‘ submissive ” agent .
+Again , it is possible that instead of construing the agents in terms of their relative dominance , infants could see the agent who collects the resources as more competent than the agent that does not collect the resources .
+This interpretation could also apply to Thomsen et al. ’ s ( 2011 ) work , where one agent succeeds in E.A .
+Enright et al .
+/ Cognition 164 ( 2017 ) 8–21 19crossing a platform , whereas the other does not , which could lead to differing attributions of competence to the agents .
+Another alternative is that infants may view ‘ ‘ dominance ” stim- uli in terms of differences in persistence between the two actors .
+In our stimuli , the submissive puppet relinquished his goal of sitting in the chair in favor of the dominant puppet , so infants may have viewed the submissive puppet as less persistent than the dominant puppet .
+Similarly , in Pun et al. ’ s ( 2016 ) work , when the submissive agent bows down to let the dominant agent cross the platform the submissive agent could be seen as less persistent than the domi- nant agent .
+Taken together , a review of these stimuli suggests that it is possible that infants are construing dominance displays in terms of other traits ( i.e. , competence or persistence ) .
+It could also be the case that infants are representing domi- nance , competence and/or persistence concurrently .
+In fact , several authors have suggested that attributions of dominance , compe- tence , and persistence may not be mutually exclusive such that dominant individuals are more likely to be competent ( Hawley , 2007 ) .
+It is possible that ( 1 ) representations of individual traits ( competence ) precede and support group-level representations like dominance , ( 2 ) dominance representations lead to additional individual trait attributions like competence , or ( 3 ) they are gen- uinely inter-related and emerge simultaneously from these dis- plays .
+The relations between these concepts might also depend on specific features of stimuli ( e.g. , Thomsen et al. , 2011 varied the size of agents ; Mascaro & Csibra , 2012 , 2014 had agents either fail or succeed in achieving their goals ; which could have provided explicit cues to individual competence/persistence ) .
+Discerning these possibilities — whether an understanding of competence supports reasoning about dominance ( and vice versa ) and what infants are actually evaluating— is an important question for future research .
+Distinguishing these concepts will also help us better understand which one of these possibilities plays a critical role in various social judgments like resource distribution , moral evalua- tion , and social learning .
+7.3 .
+What mechanisms Underlie infants ’ expectations of dominant individuals ?
+A critical open question concerns the nature of the representa- tions and mechanisms supporting infants ’ performance on our task .
+One explanation for our findings is that infants form prefer- ences for dominant over submissive individuals based on their ability to prevail in a competition to achieve a goal during the habituation phase .
+At test , infants may not specifically recall the dominance information , but instead merely remember that they liked one puppet more than the other , and therefore expect that puppet to receive more resources than the other puppet .
+Similar explanations have been advanced to account for children ’ s ten- dency to positively evaluate certain individuals ( Olson , Dunham , Dweck , Spelke , & Banaji , 2008 ) .
+However , because infants are cap- able of remembering dominance information in a novel setting ( Experiments 1 and 2 ) we believe this explanation is unlikely .
+Another explanation for the current results is that infants may be picking up on statistical regularities they see in the world .
+Infants who are exposed to real world manifestations of domi- nance , such as adults , older children , or siblings acquiring more resources ( i.e .
+snacks or toys ) than younger and smaller children , may learn that dominant individuals often receive more resources than submissive individuals .
+If infants frequently see outcomes where dominant individuals receive more than submissive individ- uals , they could pick up on these regularities using statistical pat- terns and anticipate an unequal distribution of resources that favors dominant individuals ( Vapnik , 2013 ) .
+Future work can seek to disentangle these possibilities .
+To investigate whether infants merely associate dominant individualswith more resources based on past experience without under- standing the causal connections between dominance and resource advantage , infants could be tested using paradigms that enable them to evaluate the outcome of resource distributions that either mirror or do not mirror the dominance structure .
+For example , future experiments could adopt a method developed by DesChamps , Eason , and Sommerville ( 2015 ) .
+Using an adaption of an intermodal matching paradigm called the Valenced Association Task ( VAT ) , DesChamps et al .
+( 2015 ) demonstrated that infants as young as 13 months of age associate praise and admonishment with fair distributors ( i.e. , distributors that previously allocated resources equally to recipients ) , and unfair distributors ( i.e. , distri- butions that previously allocated resources unequally to recipi- ents ) , respectively .
+Extending this paradigm to the current question of interest , we could ask whether infants associate dis- tributors that favor dominant individuals with positive stimuli , and distributors that favor submissive individuals with negative stimuli .
+Another possibility is that infants represent dominance and resource receipt at a more abstract level .
+For example infants may possess an abstract understanding of relational logical opera- tors such that they expect someone with ‘ ‘ more ” power to have ‘ ‘ more ” resources .
+Although this is an interesting possibility , this interpretation would require a somewhat rich interpretation of infants ’ ability to form abstract understandings of relational logical operators .
+In order to track more/less across domains , infants would need to recognize and map quantity from an abstract con- cept ( power ) to resource quantity .
+In fact , research within infants ’ understanding of number has suggested that there are distinct rep- resentational systems for tracking number ( Hyde & Spelke , 2011 ) which suggests that forming abstract representations of ‘ ‘ more ” or ‘ ‘ less ” across different numeric systems , alone , may be challeng- ing for infants .
+Therefore , it seems less likely that infants have a means for representing more or less that bridges both numeric and non-numeric domains .
+7.4 .
+Future directions One important outstanding question for future work concerns the scope of infants ’ understanding of social dominance and what cues of dominance infants are sensitive to .
+In our videos , infants had to rely on the dominance cues such as the conflict over the chair , the submissive agent bowing down , and the dominant agent obtaining the more desirable chair which provides support that infants can construe dominance based on cues such as prevailing in a goal and bowing down ( see also Mascaro & Csibra , 2012 for example ) .
+Children also rely on a variety of cues to infer domi- nance .
+For instance , Charafeddine and colleagues ( 2015 ) found that children infer dominance based on which agent issues directions or instructions and which agent follows these directions .
+Brey and Shutts ( 2015 ) found that children are sensitive to non-verbal cues such as head tilt and eyegaze that portray dominance .
+Subsequent work can ask whether infants can also use these cues to infer social dominance .
+Additionally , future research can assess whether infants con- sider other consequences of dominance ( besides receiving more resources ) .
+For instance , in the adult literature , dominance has been linked to stereotypes about personality traits such that adults believe that dominant individuals are more likely to be capable , ambitious , and intelligent ( Oldmeadow & Fiske , 2007 ) as well as affiliative benefits , such as having more friends or a broader social network ( Dion , Berscheid , & Walster , 1972 ) .
+Researchers could test whether infants and children expect dominant individuals to hold these traits and have these benefits .
+Furthermore , following recent work showing toddlers hold a competent agent more reprehensi- ble than an incompetent agent when both refused to help someone 20 E.A .
+Enright et al .
+/ Cognition 164 ( 2017 ) 8–21 ( Jara-Ettinger et al. , 2015 ) ; researchers could ask whether young children also expect more dominant agents to hold more moral obligations to help others .
+7.5 .
+Broader implications Studying the developmental origins of infants ’ understanding of dominance , expectations regarding resource distributions , and how these processes interact could help to inform classic and con- temporary issues in the field more broadly construed .
+One pressing question in the social psychology literature concerns whether egal- itarian values ( belief that resources and outcomes should be equal ) or social dominance values ( beliefs that resources and outcomes should be distributed based on the basis of hierarchies ) are more fundamental or privileged in human social reasoning ( Rand et al. , 2013 ; Van Berkel et al. , 2015 ) .
+By testing young infants , we can determine whether infants initially expect equality in the context of resource distributions , even in the context of information about the social dominance about the recipients , or whether information about social dominance is integrated into infants ’ expectations about resource distributions as soon as they form expectations about how resources will be distributed.8 .
+Conclusions The current experiments demonstrated that infants use social dominance information to modulate their expectations about who will receive or have more resources : infants expect dominant individuals to receive or have more resources than submissive individuals .
+Taken together with prior findings ( Gazes et al. , 2015 ; Mascaro & Csibra , 2012 , 2014 ; Thomsen et al. , 2011 ) , this work provides converging evidence that the ability to represent social dominance is part of infants ’ foundational social skills that allow them to make predictions about outcomes of social events .
+Moving beyond past work , our findings suggest that even early in life , humans can represent how particular outcomes , in this case receipt of resources , are associated with social dominance status .
+Thus , infants possess flexible and generative expectations about cues that define social hierarchies , and how social hierarchies align with resource allocations .
+Acknowledgements The authors would like to thank Julie Kim for helping to collect data and eyegaze coding .
+Additionally , the authors would like to thank Ari Eason , Germaine Ancheta , Michael Enright , and Benjamin Glassey for helping to film the videos used for stimuli .
+Thank you also to all the parents and infants who donated their time to par- ticipate in the studies .
+Thanks to the Early Childhood Cognition Lab and Kristina Olson and the Social Cognitive Development Lab for comments on previous drafts of this manuscript .
+This research was supported by a grant from NICHD ( NIH RO1-HD076949-01 ) and a grant from the John Templeton Foundation.Appendix A .
+Supplementary material Supplementary data associated with this article can be found , in the online version , at http : //dx.doi.org/10.1016/j.cognition.2017 .
+03.008 .
+References Baumard , N. , Mascaro , O. , & Chevallier , C. ( 2012 ) .
+Preschoolers are able to take merit into account when distributing goods .
+Developmental Psychology , 48 ( 2 ) , 492–498.Berger , J. , Rosenholtz , S. J. , & Zelditch , M. ( 1980 ) .
+Status organizing processes .
+Annual Review of Sociology , 6 ( 1 ) , 479–508 .
+Bigler , R. S. , Brown , C. S. , & Markell , M. ( 2001 ) .
+When groups are not created equal : Effects of group status on the formation of intergroup attitudes in children .
+Child Development , 72 ( 4 ) , 1151–1162 .
+Blake , P. R. , & McAuliffe , K. ( 2011 ) .
+‘ ‘ I had so much it didn ’ t seem fair ” : eight-year- olds reject two forms of inequity .
+Cognition , 120 ( 2 ) , 215–224 .
+Boulton , M. J. , & Smith , P. K. ( 1990 ) .
+Affective bias in children ’ s perceptions of dominance relationships .
+Child Development , 61 ( 1 ) , 221–229 .
+Brey , E. , & Shutts , K. ( 2015 ) .
+Children use nonverbal cues to make inferences about social power .
+Child Development , 86 ( 1 ) , 276–286 .
+Burns , M. P. , & Sommerville , J .
+A .
+( 2014 ) .
+‘ ‘ I pick you ” : the impact of fairness and race on infants ’ selection of social partners .
+Frontiers in Psychology , 5 , 93. http : //dx .
+doi.org/10.3389/fpsyg.2014.00093 .
+Casstevens , R. M. ( 2007 ) .
+jHab : Java habituation software ( version 1.0 .
+2 ) [ computer software ] .
+Chevy Chase , MD .
+Charafeddine , R. , Mercier , H. , Clément , F. , Kaufmann , L. , Berchtold , A. , Reboul , A. , & Van der Henst , J .
+B .
+( 2015 ) .
+How preschoolers use cues of dominance to make sense of their social environment .
+Journal of Cognition and Development , 16 ( 4 ) , 587–607 .
+Cheng , J. T. , Tracy , J. L. , Foulsham , T. , Kingstone , A. , & Henrich , J .
+( 2013 ) .
+Two ways to the top : evidence that dominance and prestige are distinct yet viable avenues to social rank and influence .
+Journal of Personality and Social Psychology , 104 ( 1 ) , 103 .
+Cummins , D. D. ( 2000 ) .
+How the social environment shaped the evolution of mind .
+Synthese , 122 ( 1–2 ) , 3–28 .
+Damon , W. ( 1979 ) .
+The social world of the child .
+Jossey-Bass .
+DesChamps , T. D. , Eason , A. E. , & Sommerville , J .
+A .
+( 2015 ) .
+Infants associate praise and admonishment with fair and unfair individuals .
+Infancy , 21 ( 2 ) , 1–27 .
+http : // dx.doi.org/10.1111/infa.12117 .
+Deutsch , M. ( 1975 ) .
+Equity , equality , and need : what determines which value will be used as the basis of distributive justice ?
+Journal of Social Issues , 31 ( 3 ) , 137–149 .
+Dion , K. , Berscheid , E. , & Walster , E. ( 1972 ) .
+What is beautiful is good .
+Journal of Personality and Social Psychology , 24 ( 3 ) , 285 .
+Edelman , M. S. , & Omark , D. R. ( 1973 ) .
+Dominance hierarchies in young children .
+Social Science Information/sur les Sciences Sociales , 12 ( 1 ) , 103–110 .
+Ellis , L. ( 1995 ) .
+Dominance and reproductive success among nonhuman animals : a cross-species comparison .
+Ethology and Sociobiology , 16 ( 4 ) , 257–333 .
+Ellyson , S. L. , & Dovidio , J. F. ( 1985 ) .
+Power , dominance , and nonverbal behavior : basic concepts and issues ( pp .
+1–27 ) .
+New York : Springer .
+Engelmann , J. M. , Over , H. , Herrmann , E. , & Tomasello , M. ( 2013 ) .
+Young children care more about their reputation with ingroup members and potential reciprocators .
+Developmental Science , 16 ( 6 ) , 952–958 .
+Fehr , E. , & Schmidt , K. M. ( 1999 ) .
+A theory of fairness , competition , and cooperation .
+Quarterly Journal of Economics , 114 ( 1 ) , 817–868 .
+Fiske , S. T. ( 2010 ) .
+Interpersonal stratification : status , power , and subordination .
+Handbook of Social Psychology .
+http : //dx.doi.org/10.1002/ 9780470561119.socpsy002026 .
+Gazes , R. P. , Hampton , R. R. , & Lourenco , S. F. ( 2015 ) .
+Transitive inference of social dominance by human infants .
+Developmental Science , 19 ( 2 ) , 1–10 .
+http : //dx.doi .
+org/10.1111/desc.12367 .
+Geraci , A. , & Surian , L. ( 2011 ) .
+The developmental roots of fairness : infants ’ reactions to equal and unequal distributions of resources .
+Developmental Science , 14 ( 5 ) , 1012–1020 .
+Graf-Estes , K. , Evans , J. L. , Alibali , M. W. , & Saffran , J. R. ( 2007 ) .
+Can infants map meaning to newly segmented words ?
+Statistical segmentation and word learning .
+Psychological Science , 18 ( 3 ) , 254–260 .
+Gweon , H. , & Schulz , L. ( 2011 ) .
+16-month-olds rationally infer causes of failed actions .
+Science , 332 ( 6037 ) , 1524 .
+Haidt , J .
+( 2007 ) .
+The new synthesis in moral psychology .
+Science , 316 ( 5827 ) , 998–1002 .
+Hawley , P. H. ( 2007 ) .
+Social dominance in childhood and adolescence : Why social competence and aggression may go hand in hand .
+In Aggression and adaptation : The bright side to bad behavior ( pp .
+1–29 ) .
+Hook , J. G. , & Cook , T. D. ( 1979 ) .
+Equity theory and the cognitive ability of children .
+Psychological Bulletin , 86 ( 3 ) , 429 .
+Hyde , D. C. , & Spelke , E. S. ( 2011 ) .
+Neural signatures of number processing in human infants : Evidence for two core systems underlying numerical cognition .
+Developmental Science , 14 ( 2 ) , 360–371 .
+Jara-Ettinger , J. , Tenenbaum , J .
+B. , & Schulz , L. E. ( 2015 ) .
+Not so innocent toddlers ’ inferences about costs and culpability .
+Psychological Science , 26 ( 5 ) , 633–640 .
+Jost , J. T. , Banaji , M. R. , & Nosek , B .
+A .
+( 2004 ) .
+A decade of system justification theory : accumulated evidence of conscious and unconscious bolstering of the status quo .
+Political Psychology , 25 ( 6 ) , 881–919 .
+Kanngiesser , P. , & Warneken , F. ( 2012 ) .
+Young children consider merit when sharing resources with others .
+PLoS One , 7 ( 8 ) .
+http : //dx.doi.org/10.1371/annotation/ 221e5f19-370e-4a52-add8-f882437bc85d .
+Kuhlmeier , V. , Wynn , K. , & Bloom , P. ( 2003 ) .
+Attribution of dispositional states by 12-month-olds .
+Psychological Science , 14 ( 5 ) , 402–408 .
+Mascaro , O. , & Csibra , G. ( 2012 ) .
+Representation of stable social dominance relations by human infants .
+Proceedings of the National Academy of Sciences , 109 ( 18 ) , 6862–6867 .
+Mascaro , O. , & Csibra , G. ( 2014 ) .
+Human infants ’ learning of social structures the case of dominance hierarchy .
+Psychological Science , 25 ( 1 ) , 250–255 .
+E.A .
+Enright et al .
+/ Cognition 164 ( 2017 ) 8–21 21Mast , M. S. , & Hall , J .
+A .
+( 2004 ) .
+Who is the boss and who is not ?
+Accuracy of judging status .
+Journal of Nonverbal Behavior , 28 ( 3 ) , 145–165 .
+Moore , C. ( 2009 ) .
+Fairness in children ’ s resource allocation depends on the recipient .
+Psychological Science , 20 ( 8 ) , 944–948 .
+Nelson , S. A. , & Dweck , C. S. ( 1977 ) .
+Motivation and competence as determinants of young children ’ s reward allocation .
+Developmental Psychology , 13 ( 3 ) , 192–197 .
+Nesdale , D. , & Flesser , D. ( 2001 ) .
+Social identity and the development of children ’ s group attitudes .
+Child Development , 72 ( 2 ) , 506–517 .
+Oldmeadow , J. , & Fiske , S. T. ( 2007 ) .
+System-justifying ideologies moderate status competence stereotypes : roles for belief in a just world and social dominance orientation .
+European Journal of Social Psychology , 37 ( 6 ) , 1135–1148 .
+Olson , K. R. , Dunham , Y. , Dweck , C. S. , Spelke , E. S. , & Banaji , M. R. ( 2008 ) .
+Judgments of the lucky across development and culture .
+Journal of Personality and Social Psychology , 94 ( 5 ) , 757 .
+Olson , K. R. , Shutts , K. , Kinzler , K. D. , & Weisman , K. G. ( 2012 ) .
+Children associate racial groups with wealth : evidence from South Africa .
+Child Development , 83 ( 6 ) , 1884–1899 .
+Olson , K. R. , & Spelke , E. S. ( 2008 ) .
+Foundations of cooperation in young children .
+Cognition , 108 ( 1 ) , 222–231 .
+Paulus , M. ( 2014 ) .
+The early origins of human charity : developmental changes in preschoolers ’ sharing with poor and wealthy individuals .
+Frontiers in Psychology , 5 , 344. http : //dx.doi.org/10.3389/fpsyg.2014.00344 .
+Paulus , M. , Gillis , S. , Li , J. , & Moore , C. ( 2013 ) .
+Preschool children involve a third party in a dyadic sharing situation based on fairness .
+Journal of Experimental Child Psychology , 116 ( 1 ) , 78–85 .
+Pun , A. , Birch , S. A. , & Baron , A. S. ( 2016 ) .
+Infants use relative numerical group size to infer social dominance .
+Proceedings of the National Academy of Sciences , 113 ( 9 ) , 2376–2381 .
+Rai , T. S. , & Fiske , A. P. ( 2011 ) .
+Moral psychology is relationship regulation : moral motives for unity , hierarchy , equality , and proportionality .
+Psychological Review , 118 ( 1 ) , 57 .
+Rand , D. G. , Tarnita , C. E. , Ohtsuki , H. , & Nowak , M. A .
+( 2013 ) .
+Evolution of fairness in the one-shot anonymous ultimatum game .
+Proceedings of the National Academy of Sciences , 110 ( 7 ) , 2581–2586 .
+Rochat , P. , Dias , M. D. , Liping , G. , Broesch , T. , Passos-Ferreira , C. , Winning , A. , & Berg , B .
+( 2009 ) .
+Fairness in distributive justice by 3-and 5-year-olds across seven cultures .
+Journal of Cross-Cultural Psychology , 40 ( 3 ) , 416–442 .
+Rule , N. O. , Adams , R. B. , Jr , Ambady , N. , & Freeman , J .
+B .
+( 2012 ) .
+Perceptions of dominance following glimpses of faces and bodies .
+Perception , 41 ( 1 ) , 687–706.Russon , A. E. , & Waite , B. E. ( 1991 ) .
+Patterns of dominance and imitation in an infant peer group .
+Ethology and Sociobiology , 12 ( 1 ) , 55–73 .
+Schäfer , M. , Haun , D. B. , & Tomasello , M. ( 2015 ) .
+Fair is not fair everywhere .
+Psychological Science , 26 ( 8 ) , 1252–1260 .
+Schmidt , M. F. , & Sommerville , J .
+A .
+( 2011 ) .
+Fairness expectations and altruistic sharing in 15-month-old human infants .
+PLoS One , 6 ( 10 ) , e23223 .
+http : //dx.doi .
+org/10.1371/journal.pone.0023223 .
+Schmidt , M. F. , Svetlova , M. , Johe , J. , & Tomasello , M. ( 2016 ) .
+Children ’ s developing understanding of legitimate reasons for allocating resources unequally .
+Cognitive Development , 37 ( 1 ) , 42–52 .
+Shariff , A. F. , Tracy , J. L. , & Markusoff , J. L. ( 2012 ) .
+( Implicitly ) Judging a book by its cover the power of pride and shame expressions in shaping judgments of social status .
+Personality and Social Psychology Bulletin , 38 ( 9 ) , 1178–1193 .
+Shaw , A. , & Olson , K. R. ( 2012 ) .
+Children discard a resource to avoid inequity .
+Journal of Experimental Psychology : General , 141 ( 2 ) , 382 .
+Shaw , A. , & Olson , K. R. ( 2013 ) .
+All inequality is not equal : children correct inequalities using resource value .
+Frontiers in Psychology , 4 , 393. http : //dx.doi .
+org/10.3389/fpsyg.2013.00393 .
+Sigelman , C. K. , & Waitzman , K. A .
+( 1991 ) .
+The development of distributive justice orientations : contextual influences on children ’ s resource allocations .
+Child Development , 62 ( 6 ) , 1367–1378 .
+Sloane , S. , Baillargeon , R. , & Premack , D. ( 2012 ) .
+Do infants have a sense of fairness ?
+Psychological Science , 23 ( 2 ) , 196–204 .
+http : //dx.doi.org/10.1177/ 0956797611422072 .
+Sluckin , A. M. , & Smith , P. K. ( 1977 ) .
+Two approaches to the concept of dominance in preschool children .
+Child Development , 48 ( 3 ) , 917–923 .
+Strayer , F. F. , & Strayer , J .
+( 1976 ) .
+An ethological analysis of social agonism and dominance relations among preschool children .
+Child Development , 47 ( 4 ) , 980–989 .
+Thomsen , L. , Frankenhuis , W. E. , Ingold-Smith , M. , & Carey , S. ( 2011 ) .
+Big and mighty : preverbal infants mentally represent social dominance .
+Science , 331 ( 6016 ) , 477–480 .
+Van Berkel , L. , Crandall , C. S. , Eidelman , S. , & Blanchar , J. C. ( 2015 ) .
+Hierarchy , dominance , and deliberation : egalitarian values require mental effort .
+Personality and Social Psychology Bulletin , 41 ( 9 ) , 1207–1222 .
+Vapnik , V. ( 2013 ) .
+The nature of statistical learning theory .
+Springer Science & Business Media .

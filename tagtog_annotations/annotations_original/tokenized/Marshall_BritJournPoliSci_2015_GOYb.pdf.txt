@@ -1,0 +1,1109 @@
+Marshall_BritJournPoliSci_2015_GOYb.pdf
+a3O_ppHODpAH0PycOHpvLafc81YC-Marshall_BritJournPoliSci_2015_GOYb.pdf.plain.html
+
+B.J.Pol.S .
+45 , 353–389 Copyright r Cambridge University Press , 2014 doi:10.1017/S0007123413000422 First published online 22 January 2014 Compensation or Constraint ?
+How Different Dimensions of Economic Globalization Affect Government Spending and Electoral Turnout JOHN MARSHALL AND STEPHEN D. FISHER* This article extends theoretical arguments regarding the impact of economic globalization on policy making to electoral turnout and considers how distinct dimensions of globalization may produce different effects .
+It theorizes that constraints on government policy that reduce incentives to vote are more likely to be induced by foreign ownership of capital , while compensation through increased government spending is more likely ( if at all ) to be the product of structural shifts in production associated with international trade .
+Using data from twenty-three OECD countries from 1970–2007 , the study finds strong support for the ownership-constraint hypothesis in which foreign ownership reduces turnout , both directly and – in strict opposition to the compensation hypothesis – indirectly by reducing government spending ( and thus the importance of politics ) .
+The results suggest that increased foreign ownership , especially the most mobile capital flows , can explain up to two-thirds of the large declines in turnout over recent decades .
+Industrialized democracies have become increasingly economically interdependent in recent decades with the rise in mobile capital and international trade .
+As a result of this economic globalization , governments in advanced democracies appear to be both less able to control the economic conditions ( and thus the prospects ) of their countries , and more cautious in doing so out of fear of harming their constituents ’ economic interests .
+Similar arguments have been applied to a variety of policy variables.1 We argue that if government policy options have become more constrained , then it will matter less to citizens who controls government .
+In so far as electoral turnout is a function of how much is perceived to be at stake , political participation may have declined as a consequence of globalization .
+More subtly , we hypothesize that the globalization of ownership ( direct and portfolio investment ) reduces turnout by constraining domestic policy .
+Policy constraints , however , are expected to be less sensitive to the globalization of trade because trade flows are less mobile and sensitive to government policy , and are arguably less consequential for the domestic economy .
+If correct , capital mobility is increasingly challenging the essence of democratic accountability and participation .
+* Marshall , Department of Government , Harvard University ( email : jlmarsh @ fas.harvard.edu – corresponding author ) ; Fisher , Department of Sociology , University of Oxford ( email : stephen .
+fisher @ sociology.ox.ac.uk ) .
+We are grateful to Mark Franklin for a copy of the aggregate data used in his book ; to Nicholas Fawcett and especially Mark Pickup for advice on statistical modelling ; and to Yves Dejaeghere , Nilesh Fernando , Mark Franklin , Torben Iversen , Philipp Rehm , Nils Steiner , Jack Vowles , Hugh Ward , three anonymous referees , and participants and presentations at Harvard University and the University of Oxford and the Elections , Public Opinion and Parties 2008 and American Political Science Association 2010 conferences for comments on earlier versions of the article .
+Data replication sets and online appendices are available at http : //dx.doi.org/doi : 10.1017/S0007123413000422 1 For example , Hellwig 2008 ; Hellwig and Samuels 2007 ; Rodrik 1997 ; Swank 2005 .
+This article considers our preferred constraint hypothesis alongside the competing compensation hypothesis , which argues that governments have recognized the social costs of globalization and have compensated globalization ’ s losers by increasing spending on social programmes.2 If globalization has caused a rise in government social spending , then that may instead encourage higher turnout by increasing the importance of distributive politics.3 Thus economic globalization could bolster turnout if the compensation hypothesis applies and proves to dominate the constraint effect .
+It is clear that since the 1960s there has been increasing global integration in industrialized democracies,4 while at the same time voter turnout has declined markedly.5 In our sample of twenty-three industrialized countries from 1970–2007 , the average country has seen turnout fall by 8.9 percentage points , while foreign direct investment ( FDI ) flows , FDI stock , portfolio equity stock and international trade have increased by 13.8 , 96.9 , 109.7 and 31.1 percentage points , respectively ( excluding Luxembourg ) .
+Even though there is good reason to link the two phenomena , any two trending variables will be correlated.6 To avoid this spurious correlation problem , we remove trends in turnout for each country and focus on variation in turnout within countries .
+Our results strongly support the constraint hypothesis operating through foreign ownership , while international trade has no systematic effect on turnout .
+Furthermore , contrary to the compensation hypothesis , this direct negative effect on turnout is reinforced by an indirect effect working through reductions in government spending .
+While recent research has also suggested a negative relationship between turnout and a composite index of economic globalization,7 its methods do not differentiate trends across countries or extract fixed country heterogeneity , so the results may be spurious.8 Substantively , the theory expounded here – which emphasizes that different dimensions of economic globalization have different effects – is new and finds support in our empirical analysis .
+We first present our theoretical argument in the context of previous research .
+Next we describe our data and methods , followed by our results and conclusions .
+THEORY AND PREVIOUS RESEARCH We broadly define economic globalization as the process of integration into global markets that is facilitated by reductions in transaction costs .
+Accordingly , economic globalization constitutes a threat of international economic competition and a dependence on foreign markets .
+This article develops the constraint and compensation hypotheses as possible mechanisms through which economic globalization could affect turnout .
+The constraint mechanism suggests that globalization decreases turnout by reducing perceptions of 2 Cameron 1978 ; Garrett and Mitchell 2001 ; Rodrik 1998 .
+3 Colomer 1991 .
+4 For example , Dreher , Gaston , and Martens 2008 .
+5 Blais 2000 ; Blais 2006 ; Franklin 2004 ; Gray and Caul 2000 .
+6 Granger and Newbold 1974 .
+7 Steiner 2010 .
+8 Here , spurious correlation due to trending would negatively bias estimates .
+Moreover , Steiner does not exclusively examine within-country variation , increasing the risk of omitted variable bias .
+Re-running his models with country fixed effects , no significant globalization relationships held up .
+Hausman ( 1978 ) tests that compare Steiner ’ s ordinary least square ( and random-effect ) models with fixed-effect models show significant coefficient differences , implying that Steiner ’ s controls are insufficient .
+354 MARSHALL AND FISHER government efficacy or polarization in the party system .
+The compensation hypothesis instead posits that governments compensate globalization ’ s losers for the social costs of globalization in the form of public spending ; this in turn raises turnout by increasing the role of government and thus the importance attached to voting .
+Although both mechanisms could operate simultaneously , we argue that the constraint mechanism dominates any compensation effect – particularly in the case of foreign ownership of capital .
+While we find the constraint mechanism more theoretically appealing , the widely cited compensation argument also demands consideration .
+This section first outlines these arguments and considers how each affects an individual ’ s decision to vote .
+We then develop the theory by arguing that a negative effect of economic globalization on voter turnout is far more likely to arise from foreign ownership , especially the most flexible forms of ownership , than from international trade .
+Economic Globalization as a Constraint Macroeconomic pressures The argument that international economic integration has restricted the range of viable options in certain domestic policy areas is not new .
+Economic globalization enhances the influence of the market in the domestic economy ; not only are foreign corporations and investors not accountable to the domestic government and its objectives , but domestic equivalents will be less encumbered by government decisions as operations can instead be focused abroad.9 Assuming that government objectives emphasize macroeconomic outcomes – because voters care about this10 and governments seek future election11 – the constraint theory argues that global economic integration restricts economic policy-making options , engendering ‘ race to the bottom ’ convergence across states competing for a fixed supply of internationally mobile capital.12 Similar arguments could apply to export competitiveness .
+The cycle is perpetuated as it becomes the market ’ s expectation that government will not interfere with the market .
+As Garrett and Mitchell13 succinctly summarize , ‘ Governments are held to ransom by mobile capital , the price is high , and punishment for non-compliance is swift. ’ These pressures may particularly affect left-wing parties if the median voter is not right wing,14 forcing such parties to give up more ground as the party system converges .
+Alderson15 finds that social democratic governments have experienced significantly greater capital outflows , especially in the post-1980 era of accelerating globalization .
+As international markets pervade the domestic economy , anti-market government intervention becomes costlier as economic success increasingly depends on the non- withdrawal of foreign capital and trade relations that sustain macroeconomic performance and domestic consumption patterns .
+Accordingly , governments are forced to cater to foreign constituencies.16 Political parties and governments in the most integrated polities recognize the constraints of an internationally mobile tax base,17 and 9 Garrett 2001 .
+10 For example , Duch and Stevenson 2010 .
+11 Alesina 1988 .
+12 Gordon 1986 ; Huber and Stephens 2001 ; Rodrik 1997 .
+13 Garrett and Mitchell 2001 , 151 .
+14 Ward , Ezrow , and Dorussen 2011 .
+15 Alderson 2004 .
+16 Hellwig 2001 .
+17 Plümper , Troeger , and Winner 2009 .
+Dimensions of Economic Globalization 355 converge on a narrower set of policy options following the loss of de facto government efficacy in the face of financial markets.18 Underpinning this argument is the assumption that parties seeking to govern will not commit to polarized policies that are economically suboptimal ; accordingly , parties struggle to differentiate their policies .
+Several policy domains stand out as particularly constrained by economic globalization .
+First , governments face pressure to remain competitive by reducing ( or at least not increasing ) the tax burden on potentially mobile firms .
+Mobile firms are also better placed to avoid high taxation .
+Importantly , if long-run revenue streams decline , then ultimately the scope of government programmes must also decline .
+Secondly , industrial , product market , labour market and trade regulations that affect the costs of conducting business face significant pressures .
+Thirdly , discretionary economic policy – both fiscal and monetary – is likely to be constrained .
+International capital markets come to expect that governments will not pursue radical discretionary policies – and can constrain such policies by the threat of capital flight .
+For example , the time-inconsistency literature implies that governments may only adjust output from its natural rate to the extent that inflation expectations lag behind policy.19 Again , mobile capital enhances this constraint where private sector actors are flexible enough to apprehend such policies .
+Fourthly , social policy options may be constrained , although the discussion below emphasizes that this is empirically uncertain .
+More generally , Cerny20 suggests that many types of government spending face downward pressure to minimize the crowding out of private sector investment .
+In sum , although economic globalization can not constrain all government policy domains ( and so does not signal the end of politics ) ,21 it appears capable of substantially reducing the set of feasible policies in important domains , as well as the capacity to spend .
+Deciding to turn out .
+Although our empirical tests are limited to countries over time , any aggregate association is compelling only if there are theoretical reasons to link macro phenomena to an individual ’ s decision to vote .
+The hypothesized effect of globalization on turnout is clear in the classical rational voting calculus.22 Individual i ’ s utility from voting ( Ui ) is a function of the probability that he or she will influence the outcome of the election ( Pi ) , the expected utility gained from successfully influencing the election 23 ( Bi ) and selective incentives ( costs Ci and a generic sense of duty Di ) derived from voting .
+If and only if Ui 5PiBi 2Ci 1Di .
+0 will i vote .
+If perceived government efficacy – manifested in a government ’ s scope for decision making and control of the economy – falls , i ’ s potential benefits ( operating through Bi ) fall and so , ceteris paribus , Ui falls .
+The comparative static implication is that aggregate turnout should decline as the expected benefits of voting wane as economic globalization constrains governments .
+However , despite successfully identifying some important empirical predictors,24 the classical model has received considerable criticism – much of which relates to Pi being inconsequentially small.25 18 Hellwig 2008 ; Hellwig and Samuels 2007 ; Swank 2005 .
+19 For example , Kydland and Prescott 1977 .
+20 Cerny 1997 .
+21 See also Mosley 2003 .
+22 Downs 1957 ; Riker and Ordeshook 1968 .
+23 Riker and Ordeshook ( 1968 ) reconceptualized Bi as perceived benefits .
+This fits better with the globalization thesis , but the argument is essentially identical .
+24 See Blais 2000 , 2006 ; Geys 2006 .
+25 Aldrich 1993 .
+356 MARSHALL AND FISHER The globalization-constraint argument could equally work through alternative turnout mechanisms .
+Including globalization in Aldrich ’ s26 model , we argue that as policy differentials become smaller , actors will allocate fewer resources to election campaigns and thereby produce a lower turnout .
+Globalization similarly reduces the perceived benefits to group leaders of providing selective incentives for their members to turn out27 and decreases the importance of the election and level of disagreement in ‘ ethical agent ’ 28 turnout models .
+Therefore , assuming the costs of motivating members to vote are constant , equilibrium turnout will decline .
+Finally , globalization reduces the differences between groups that arise from different policies and also reduces discussion within groups as politics becomes less salient , and thus reduces turnout in social network models that emphasize social approval.29 Given this article ’ s aggregate focus , we do not test which mechanism best captures an individual ’ s turnout decision .
+However , there is good reason to believe that economic globalization could reduce the incentive to vote in each of these models .
+The constraint mechanism assumes that economic globalization does not engender debate or motivate people to vote for parties according to their policy positions on globalization .
+The constraint theory effectively assumes that citizens feel domestic elections are useless as a means of influencing the development of globalization , or that they choose not to try to use their vote in this way , or that they have not considered the relationship between globalization and government policy .
+While there are certainly anti-globalization social movements – some of which have influenced particular referendums ( such as the 2005 French referendum on the proposed EU constitution ) – our impression is that national elections have not experienced systematic voter mobilization as a result of ( debate over ) economic globalization .
+Burgoon30 finds that a minor backlash can only be detected in Organisation for Economic Co-operation and Development ( OECD ) countries with very limited welfare provisions .
+Ultimately , this is an empirical question and we will only observe a constraint effect in the data if it dominates any reactionary mobilization .
+Evidence for the mechanisms underpinning the constraint hypothesis .
+We now consider evidence for the potential mechanisms underpinning the impact of the constraint hypothesis on turnout .
+Constraints on government might affect turnout indirectly by constraining parties and what they offer to voters , or more directly through citizens ’ own perceptions of their government ’ s room for manoeuvre .
+We discuss each of these in turn .
+First , whether globalization has led to a reduction in the expected policy benefits from voting depends on the extent to which economic outcomes constrain party policy preferences once it attains office .
+There has been substantial debate over whether economic and social policy are affected by the ideological complexion of the government.31 Pontusson and Rueda32 consider differences between mainstream parties in OECD countries using the Comparative Manifesto Project ( CMP ) left-right scale and find that while parties ( and the median voter ) have generally shifted to the right , there were also clear signs of party convergence during 1975–98 , particularly in the 1990s – a period of accelerating economic integration .
+26 Aldrich 1993 .
+27 Morton 1991 .
+28 Feddersen and Sandroni 2006 .
+29 Abrams , Iversen , and Soskice 2010 .
+30 Burgoon 2009 .
+31 Boix 2000 ; Castles 1998 ; Huber and Stephens 2001 ; Iversen 2001 ; Swank 2002 .
+32 Pontusson and Rueda 2008 .
+Dimensions of Economic Globalization 357 Directly testing this link in the causal chain , Steiner and Martin33 create a measure of left- right party dispersion based on CMP items and find that countries with higher levels of economic globalization on the composite KOF index34 are less polarized .
+Although supportive of the constraint mechanism , we should be cautious using CMP data : manifesto scores only reflect the emphasis put on certain issues ( not the actual policy proposals ) ,35 produce a systematic centralizing bias when measuring extreme parties,36 and may be insensitive to changing policy constraints and contexts.37 While there may be issues with the measurement of party polarization , it is clear that voters are sensitive to differences between parties : they tend to prefer parties they are ideologically close to,38 and citizens who see little difference between the parties are less likely to vote.39 Secondly , regardless of the perceptions of party positions , if there is a constraint on government it is more likely to have an impact on turnout if it is directly perceived and felt by citizens .
+Although Vowles40 finds no effect of trade or financial integration on perceptions of ‘ who is in power can make a difference ’ ,41 other research suggests that voters do think that globalization affects their own economic interests and their governments ’ ‘ room for manoeuvre ’ .
+Various studies show that attitudes toward globalization policies are sensitive to individual consumption , skills profiles and income.42 So there is evidence that citizens are aware of globalization and believe it has consequences for them .
+Citizens also think that economic outcomes in their country depend heavily on the global economy.43 In a recent study of ten OECD countries , Hellwig44 shows widespread attribution of national ‘ economic circumstances ’ to ‘ ups and downs in the world economy ’ , the more so the more globalized the economy .
+While most people in the United States ( by far the least globalized case ) held the government responsible , the world economy was the major culprit in the other nine countries and was chosen by a majority of respondents in five cases .
+The notion that voters in more globalized economies feel their governments have less power to influence economic outcomes is given further support by studies which show that objective and subjective economic performance is a weaker predictor of support for the incumbent government in more globalized countries.45 Moreover , those who believe that economic circumstances are mostly attributable to the global economy are least likely to hold their government to account for those outcomes.46 Part of the explanation for this is that economic outcomes are more a mixture of local and global effects in more globalized societies , which voters can identify and account for.47 It also seems that voters who believe 33 Steiner and Martin 2012 .
+34 See Dreher , Gaston , and Martens 2008 .
+35 Laver and Garry 2000 .
+36 Gabel and Huber 2000 .
+37 Benoit and Laver 2006 .
+38 For example , Aarts and Wessels 2005 .
+39 Aarts and Wessels 2005 ; Brockington 2009 ; Fisher et al .
+2008 .
+40 Vowles 2008 .
+41 This is likely to be for the same reasons highlighted in the concluding section regarding our analysis of the CSES data .
+42 Pandya 2010 ; Scheve and Slaughter 2001 .
+43 For example , Freeman 2008 .
+44 Hellwig 2011 .
+45 Hellwig 2001 ; Hellwig and Samuels 2007 .
+46 Hellwig 2011 .
+47 Duch and Stevenson 2010 ; Kayser and Peress 2012 .
+358 MARSHALL AND FISHER their government has relatively little economic power are more likely to base their votes on non-economic issues.48 Globalization may also reduce the clarity of government responsibility for outcomes , as Powell and Whitten49 argued some institutional arrangements do .
+So there is considerable evidence that many people perceive their governments to be constrained by economic globalization , that the extent to which they do varies with the level of globalization and that this is reflected in voters ’ choices .
+We also know that people are less likely to vote if they think it does not matter much who they vote for or who is in power,50 as should be more likely where governments are perceived to be and/or actually are more constrained .
+Thus perceptions of globalization-induced government weakness should lead to lower turnout .
+Note then that the constraint hypothesis may work without there necessarily being any real constraint – just the perception of constraint correlated with the levels of globalization .
+Moreover , the constraint hypothesis does not require that citizens perceive the source of any constraint to be globalization .
+The above evidence does suggest that globalization leads to perceptions of constraint from globalization and that perceptions of government unresponsiveness lead to lower turnout , but a causal mechanism in which voters abstain because of their accurate perceptions of globalization-induced constraint is just one possibility .
+While this subsection has identified some evidence for various links in different possible causal chain ( s ) between economic globalization and lower turnout , it has also illustrated data availability and measurement problems that may make it difficult to convincingly test potential mechanisms .
+Our empirical test focuses on the aggregate link between globalization and turnout .
+However , we conclude with a discussion of further work on the micro mechanisms .
+Hypothesis .
+The preceding arguments entail the constraint hypothesis ’ central aggregate-level prediction , which directly links globalization to turnout : HYPOTHESIS 1 : Economic globalization reduces turnout .
+The constraint hypothesis does not imply ‘ the end of turnout ’ ; there is no level of globalization that fully constrains economic policy , and political conflict is not solely based on cleavages constrained by economic globalization .
+We develop this hypothesis by arguing that distinct dimensions of economic globalization affect turnout differently .
+But first we consider the counterargument that globalization might have a positive effect on turnout .
+The compensation hypothesis By contrast , the compensation hypothesis posits that governments respond to public demand for insurance and institute policies that rectify the negatives associated with globalization .
+Such adverse consequences principally include job insecurity in threatened sectors , greater economic volatility , and rises in income inequality as income accrues to capital and skilled labour in sectors with a comparative advantage.51 Neoclassical trade theory predicts that negative effects will be concentrated in unskilled labour in industrialized economies .
+Although compensation could be manifested in a variety of policy domains , the literature has primarily examined how trade and financial openness have affected welfare spending in 48 Hellwig 2008 .
+49 Powell and Whitten 1993 .
+50 For example , Fisher et al .
+2008 .
+51 Bernauer and Achini 2000 ; Cameron 1978 ; Garrett and Mitchell 2001 ; Hicks and Zorn 2005 ; Rodrik 1998 .
+Dimensions of Economic Globalization 359 OECD countries .
+No consensus has yet been achieved .
+Burgoon52 finds that trade and FDI flows increase manifesto support for welfare and education policies among left parties .
+Looking at aggregated and decomposed welfare spending , the compensation hypothesis finds some support,53 while others argue that both effects occur concurrently and affect policy tools differently.54 However , similar samples have also found that spending has decreased in more open economies.55 The modal spending study fails to discern a clear effect.56 The compensation hypothesis could extend to electoral turnout if increased government spending increases electoral turnout .
+When the government spends more , elections may become more salient as voters and group leaders with different preferences over compensation compete over a larger pie and demand different mixes of taxes and spending .
+Colomer57 characterizes this as the ‘ importance of politics ’ ; his panel analysis of twenty-one countries finds that turnout increases by 0.33 percentage points for every 1 percentage point of gross domestic product ( GDP ) of additional public expenditure.58 Such distributional conflict could stimulate turnout among the winners or losers from increased spending .
+Hypotheses .
+Applying the compensation hypothesis to turnout implies the following mediated association at the aggregate level : HYPOTHESIS 2A : Economic globalization increases government spending .
+HYPOTHESIS 2B : Government spending increases electoral turnout .
+In theory , the constraint and compensation hypotheses could operate simultaneously , in which case we are interested in which effect dominates .
+As noted above , a significant literature posits that economic globalization constrains government activity and instead decreases spending by increasing competition between countries – the opposite of Hypothesis 2A .
+This could in turn decrease the importance of politics .
+Thus we set Hypothesis 2A against an indirect constraint alternative : HYPOTHESIS 3A : Economic globalization decreases government spending .
+HYPOTHESIS 3B/2B : Government spending increases electoral turnout .
+Dimensions of Globalization : Ownership and Trade Previous studies have typically ignored the possibility that different dimensions of economic globalization may not work equally through the constraint and compensation mechanisms .
+Empirical applications often use composite measures of globalization that 52 Burgoon 2012 .
+53 Bernauer and Achini 2000 ; Rodrik 1997 .
+54 Bretschger and Hettich 2002 ; Burgoon 2001 ; Margalit 2011 .
+55 Garrett 2001 ; Huber and Stephens 2001 .
+56 For example , Dreher , Gaston , and Martens 2008 ; Iversen and Cusack 2000 ; Swank 2002 ; Swank 2005 .
+57 Colomer 1991 .
+58 An alternative mechanism proposed by Hobolt and Klemmensen ( 2006 ) argues that education spending decreases the costs of voting by increasing political information and accentuating partisanship , which ultimately increases turnout .
+They find cross-country evidence for this and show that welfare spending increases information and partisanship at the individual level .
+360 MARSHALL AND FISHER include measures of foreign ownership and international trade , such as the KOF globalization indicator,59 or simply include multiple globalization variables without considering the differential effects of each component .
+In this subsection we explicitly consider how two dimensions of economic globalization – the globalization of ownership , or foreign ownership of capital , and the globalization of trade , or increasing trade dependence – differentially affect economic actors , political actors and voters .
+We first discuss the mobility and sensitivity of different cross-border transactions , before turning to the differential impact of globalization ’ s dimensions on economic performance and political decision making .
+We propose a hierarchy in which the most flexible forms of foreign ownership have the largest effects on turnout .
+Differing flexibility of transactions .
+Economic flows vary in their potential mobility and sensitivity to changing political and economic contexts .
+Capital is generally more mobile and sensitive to changes in government policy than international trade – and thus internationally mobile capital represents a more powerful constraint on politicians .
+Considerable evidence suggests that markets respond quickly to economic aggregates , government partisanship and policy reforms.60 Trading patterns change slowly because the factors of production that underlie comparative advantage change slowly .
+Moreover , more than half of trade in advanced democracies is intra-industry,61 which has made international trade more complementary and less competitive.62 Around one-third of trade in the OECD is intra-firm,63 which further decreases flexibility .
+Although capital investment is typically more flexible than trade , there is a hierarchy of flexibility among ownership variables .
+FDI stocks – which include controlling ( .10 per cent ) stakes , start-ups and property investment64 – are the least mobile ; thus they are relatively insensitive to structural changes because they include sunk and high exit cost investments .
+FDI flows are fresh investment decisions and so are more sensitive to current rates of return .
+However , because FDI often only travels within multinational enterprises ( for example , reinvesting profits ) or within industries , we should not think of FDI flows as highly mobile or sensitive .
+Finally , portfolio equity stock – defined as small , primarily stock market , investments65 – is highly flexible : these investments should be the most sensitive to changing rates of return ; they most closely approximate perfect capital mobility in the sense that they can move almost costlessly , immediately and across industries .
+Because transactions represent small stakes , or may be part of complex portfolio strategies , investors are not strongly tied to their stocks .
+Accordingly , we argue that capital can respond more quickly to changes in government policy than patterns of international trade .
+Thus , voters and governments may be more concerned by , and so feel constrained by , the risks and implicit threats associated with capital mobility than with international trade.66 Further , we expect a hierarchy such that the effects of portfolio equity stock exceed those of FDI flows and FDI stock .
+For these changes in 59 Dreher , Gaston , and Martens 2008 .
+60 For example , Bernhard and Leblang 2002 ; Leblang and Mukherjee 2005 ; Mosley 2003 ; Mosley and Singer 2008 .
+61 For example , Brülhart 2009 ; OECD 2002 .
+62 Burgoon 2001 .
+63 OECD 2002 .
+64 Lane and Milesi-Ferretti 2007 .
+65 Lane and Milesi-Ferretti 2007 .
+66 See Scheve and Slaughter 2004 .
+Dimensions of Economic Globalization 361 international flows to be consequential for voters , they must affect the macroeconomic outcomes that voters care about .
+Differing economic and political impacts .
+We now consider the implications of different dimensions of globalization for macroeconomic performance , and thus the cost-benefit analyses of policy makers who seek to win support from voters who care about economic growth , wages and employment .
+Foreign capital supports economic growth by providing additional investment and technological transfer in some cases,67 although disentangling the causal relationship has proved difficult.68 Crucially , the withdrawal of foreign capital entails considerable economic costs , which increase with dependence on foreign capital.69 If domestic capital does not plug the gap – which is particularly likely if firms make binary investment decisions or move en masse – swift capital flight can significantly harm voters in the real economy .
+Furthermore , Mosley and Singer70 find that open capital accounts increase a country ’ s stock market valuation ; this is important for voters , whose assets are increasingly tied to stock indices .
+The positive effect of trade on economic growth is arguably more ambiguous than foreign ownership .
+Although economies that are open to trade tend to grow faster , the long-run effects remain uncertain.71 Given that the merits of openness are often complex and contingent , the threat of losing trade – which is less flexible – is likely to constrain governments less than foreign capital .
+The distributional consequences of trade liberalization differ by type of trade , and so may not even be politically salient .
+In specific factor trade models , workers in uncompetitive industries with non-transferable skills may lose their jobs following trade liberalization and be forced into sectors where their marginal product ( and thus wages ) is lower.72 This picture typifies inter-industry trade between countries with different production functions and implies a demand for compensation .
+However , influential recent analyses have emphasized intra-industry trade in which advanced countries trade differentiated products , which is more likely to induce reallocations within industries toward the largest and most productive firms.73 Intra- industry trade should act as a weaker constraint on governments than inter-industry trade because changes in trade patterns and welfare are less politically salient,74 which suggests that the impact of increased trade dependence will be weaker than foreign ownership , and will thus induce larger sectoral reallocations according to comparative advantages.75 The impact of trade is further complicated by political responses that could divide citizens and make government more active , as suggested by the compensation hypothesis .
+Empirical evidence suggests that voter trade policy preferences respond to trade-related labour market outcomes,76 and that such labour market experiences influence political 67 For example , Borensztein , De Gregorio , and Lee 1998 .
+68 Li and Liu 2005 .
+69 Rajan and Zingales 1998 .
+70 Mosley and Singer 2008 .
+71 Rodrı́guez and Rodrik 2000 .
+72 Wood 1994 .
+73 Burgoon 2001 ; Eaton , Kramarz , and Kortum 2011 ; Melitz 2003 .
+74 For Melitz ( 2003 ) , trade liberalization unequivocally increases citizen welfare .
+75 Antràs 2003 ; Antràs and Helpman 2004 .
+76 Baker 2005 ; Scheve and Slaughter 2001 ; Walter 2010 .
+362 MARSHALL AND FISHER preferences.77 However , Margalit78 also finds that compensatory policies can mitigate negative voter responses to trade , and thus provides a rationale for increasing government activity in response to trade shocks .
+This evidence suggests that the negative consequences of trade can ignite as political issues ; if additional government activity is divisive , this could increase incentives for voters to turn out .
+While outward ( or non-domestic ) investment also hurts domestic actors , it is harder to identify losers from investments that were not made .
+This unobserveable concern is difficult for governments to address without recourse to the cross-border competition in economic incentives that underpins the constraint argument .
+Abiad and Mody79 find no effect of government partisanship on financial reform adoption .
+Accordingly , we expect that foreign investment will not make compensation such a salient political issue .
+Hypotheses .
+In sum , we argue that economic globalization as a constraint on domestic policy operates more powerfully through foreign ownership than international trade .
+Given the evidence that voters are sensitive to constraints on government and that economic policy polarization has declined , this implies that measures of the globalization of ownership – FDI flows and portfolio equity stock especially , but also FDI stocks – should have stronger negative effects on turnout than international trade : HYPOTHESIS 4A : Increases in foreign ownership ( FDI and portfolio equity ) transactions reduce turnout , and do so more than increases in international trade .
+Furthermore , the most flexible forms of ownership are expected to act as the most powerful constraints on government , and reduce turnout the most .
+The effect of the globalization of trade is ambiguous .
+Although increases in trade could induce similar negative effects on turnout and its intermediaries , we argue that trade is more likely than foreign ownership variables to affect government spending and support polarizing political cleavages .
+If international trade is more likely to lead to demand for compensation than foreign ownership , then we should find that trade has a stronger positive – or weaker negative – effect on government spending than indicators of foreign ownership ( depending on whether the compensation or constraint hypothesis holds ) .
+Therefore , if the compensation mechanism dominates the constraint mechanism : HYPOTHESIS 4B : Increases in international trade increase government spending , which in turn increases turnout .
+DATA AND METHODS To test the hypothesis outlined above , this article analyses two country panel datasets .
+This section first operationalizes economic globalization , then details our data and methods .
+While our theory may have more general applicability , data availability and concerns about causal homogeneity restrict our analysis to established OECD members – those who have been OECD members for all or most of the sample period , 1970–2007 .
+The start point was chosen for reasons of data availability while the end point is before 77 Margalit 2011 ; Walter 2010 .
+78 Margalit 2011 .
+79 Abiad and Mody 2005 .
+Dimensions of Economic Globalization 363 the 2008 financial crisis , although it also happens that globalization data availability after 2007 is problematic .
+Detailed variable sources , operationalization and descriptive statistics are provided in the Appendix .
+Measuring Economic Globalization Economic globalization presents complex operational issues .
+Unfortunately , there is no direct measure of voter perceptions of globalization or globalization ’ s constraint on government efficacy across our sample .
+Rather than using policy-based measures of economic openness , we use aggregate cross-border economic transactions as the most appropriate indicators of globalization for the theories being tested here .
+As discussed above , actual trade and capital flows are more likely to drive fear of investment and trade loss and to be noticed by citizens .
+Although policy is important , many other factors determine firm investment decisions.80 The popular KOF measure of economic globalization separates actual flows from capital market restrictions.81 Although useful as a summary , it assumes that ownership and trade represent a single underlying globalization dimension .
+As argued above , we believe that the effects of globalization may vary by transaction type , and therefore examine FDI Flows , FDI Stock , Portfolio Equity Stock and Trade separately – all are measured annually as a percentage of GDP .
+Data on trade is obtained from the World Bank.82 Capital account stocks come from an updated version of Lane and Milesi-Ferretti ’ s83 dataset , which uses a wealth of sources to compile estimates of capital stocks .
+Finally , data on FDI flows come from UNCTAD.84 In each case we combine assets and liabilities ( or outflows and inflows ) to provide an indicator of the overall dependence of an economy on international transactions .
+Assets and liabilities are compared below , but show little difference .
+We transform each globalization indicator x as follows .
+Rather than just employ the natural logarithm of x , we distinguish values of x above and below zero to capture diminishing effects in order to militate against the possibility that highly open economies such as Luxembourg drive our results.85 It is theoretically appealing to believe that a given Dx has a weaker effect for larger initial values of |x| .
+We add one to prevent the logarithmic function from approaching 2N near x5 0 .
+Accordingly , we use the following procedure to calculate adjusted values ~x : ~x5 lnðx1 1Þ if xo 0 lnðx1 1Þ if x 0 ð1Þ For ease of nomenclature we continue referring to this monotonic transformation as the log .
+Using a squared term instead confirms the diminishing effects of economic globalization .
+Unsurprisingly , the ( transformed ) globalization indicators are positively correlated .
+The large correlations between foreign ownership variables – FDI Flows has correlation 80 Unreported analyses available in our replication code unsurprisingly show weaker effects for capital restriction policies than for the transaction measures : KOF capital market restrictions produce a clear negative effect , while the more general Chinn-Ito index is marginally significant .
+81 Dreher , Gaston , and Martens 2008 .
+82 World Bank 2010 .
+83 Lane and Milesi-Ferretti 2007 .
+84 United Nations Conference on Trade and Development 2010 .
+See Appendix for further details .
+85 The FDI flows components can take negative values ; see UNCTAD website .
+364 MARSHALL AND FISHER coefficients of 0.83 and 0.76 with FDI Stock and Portfolio Equity Stock , respectively , while the correlation between FDI Stock and Portfolio Stock is 0.86 – suggest that these indicators reflect the latent ownership concept .
+However , the associations between ownership and trade variables are moderate – Trade has correlation coefficients of 0.48 , 0.50 and 0.31 with FDI Flows , FDI Stock and Portfolio Equity Stock , respectively .
+This supports our claim that foreign ownership and trade represent distinct dimensions of economic globalization .
+To examine the ownership variables together , we calculate Ownership Scale – the first factor in an analysis extracting country fixed effects.86 Government Spending Data The compensation hypothesis is typically tested on social welfare spending .
+However , general equilibrium shifts induced by economic globalization may not be limited to this sphere , while demand for many forms of social spending should be unaffected.87 Various types of targeted government spending – including active and passive labour market programmes , government investment , subsidy initiatives and human capital formation – represent alternative forms of spending that could compensate globalization ’ s losers .
+Accordingly , we remain agnostic to the source of spending and use Government Spending – total annual government disbursements as a percentage of GDP – as the dependent variable .
+The sample mean for such spending is 45.3 per cent of GDP .
+Our results are robust to using a traditional Social Benefits Spending variable , whose sample mean is 13.5 per cent of GDP .
+Both measures are from the OECD Economic Outlook database.88 We include a battery of control variables based on previous analyses of government spending.89 The baseline model includes measures of Deindustrialization , the Dependent Population , Partisanship , proportional representation ( PR system ) , lagged budget Deficit , Unexpected Growth and Strength of Labour .
+We address the cyclicality of spending by controlling for Automatic Transfers and Automatic Consumption.90 Data were available for an unbalanced panel of twenty-one OECD countries over the period 1970–2007,91 and unlike our election data are measured at annual intervals .
+To address missingness , almost exclusively on the automatic transfers variable , we use multiple imputation.92 Electoral Turnout Data Our primary dependent variable of Aggregate Electoral Turnout refers to elections to the lower legislative chamber .
+Two metrics are commonly used to measure turnout : as a 86 We take the Bartlett predicted value for the first factor in an analysis containing country dummies and the three ownership variables .
+The ownership variables load heavily on this factor .
+87 Burgoon 2001 .
+88 OECD 2010 .
+89 Bernauer and Achini 2000 ; Burgoon 2001 ; Garrett 1995 ; Garrett and Mitchell 2001 ; Hicks and Zorn 2005 ; Iversen and Cusack 2000 ; Rehm 2011 ; Rodrik 1997 ; Rodrik 1998 .
+90 Iversen and Cusack 2000 .
+91 The full list of countries can be found in Figure 1 .
+Greece and Iceland are excluded from the spending analysis because automatic consumption and strength of labour series were unavailable .
+92 We use Amelia II ( Honaker and King 2010 ) for this procedure because it can incorporate dynamics .
+We never impute data beyond the bounds of the available country series for any dependent variable .
+We impute ten datasets using all of the variables in Table 1 as well as other useful variables .
+Further details are available in the online appendix .
+Imputation increased the sample size from 459 to 700 , but removing the automatic transfers variable would do nearly as well .
+Dimensions of Economic Globalization 365 proportion of registered voters or as a proportion of the voting age population ( VAP ) .
+The VAP denominator is estimated relatively infrequently and can introduce errors that would otherwise be absent where registration procedures are high quality.93 Therefore we measure Turnout as the proportion of the registered electorate using data from the International Institute for Democracy and Electoral Assistance.94 However , following Franklin,95 we use the VAP measure for the United States , where registration operates differently .
+We check our analyses using the VAP measure and find identical results .
+In addition to adding Government Spending as an intermediary variable to test for the compensation path , we also control for alternative explanations of electoral turnout .
+Since many variables have been used to explain turnout,96 our baseline model only includes controls for which there are strong theoretical priors for inclusion .
+To capture the effect of socio-economic variables , we control for the size of the electorate97 and a life- cycle effect measured by the proportion of the VAP aged thirty to sixty-nine98 – Registered Voters Percent VAP Thirty to Sixty-nine , respectively .
+Economic growth was not included because there is no clear theoretical prior,99 while there is insufficient variation in GDP per capita across this sample to be meaningful ; the main results are unaffected by the inclusion of either .
+Given that we employ fixed-effect specifications , time-invariant political institutions are captured by country intercepts .
+However , because some countries have changed electoral formulas we include controls for PR System and Mixed System ; 100 in addition , we include a measure of vote-seat Disproportionality101 and a Compulsory Voting dummy.102 To capture electoral fatigue and the lower salience that is potentially attached to legislative elections not held concurrently with presidential elections , we include Years Since Last Election103 and a US Mid-term dummy variable .
+Finally , we control for contingent political variables – namely Margin of Victory104 and the effective number of political parties by seat share ( ENPS ) .105 We consider many other variables as robustness checks , focusing especially on European integration .
+Data availability and our OECD requirement generated a maximum sample of 259 elections across twenty-three countries , 1970–2007 , to be used in the subsequent analysis.106 93 Blais , Massicotte , and Dobrzynska 2003 .
+94 Institute for Democracy and Electoral Assistance 2009 .
+95 Franklin 2004 .
+96 See Blais 2006 ; Geys 2006 .
+97 See Geys 2006 .
+98 Blais , Gidengil , and Nevitte 2004 ; Gray and Caul 2000 .
+99 Radcliff 1992 .
+100 Blais and Carty 1990 ; Jackman 1987 .
+101 Blais and Aarts 2006 ; Blais and Dobrzynska 1998 ; Geys 2006 .
+102 Franklin 2004 .
+103 Franklin 2004 .
+104 Blais 2006 ; Geys 2006 .
+105 Blais 2006 ; Blais and Dobrzynska 1998 ; Gray and Caul 2000 .
+These political variables risk post- treatment bias but are included because of their prevalence in the extant literature .
+106 The full list of countries and year spans can be found in Table 3 .
+In addition to the countries for the government spending models , we were able to add Greece and Iceland .
+We include compulsory voting countries ( Australia and Belgium ) because full turnout is never actually achieved , although the results are strengthened by their exclusion .
+The maximum sample size is 236 election-years after first differencing removes the first election from each country series and is reduced further where FDI flows are included .
+366 MARSHALL AND FISHER Statistical Methods Panel data entail a number of important model specification issues , many of which are not adequately addressed in the existing literature .
+We start by examining Figure 1 , which depicts trends in electoral turnout on the left axis and government spending and the KOF summary measure of international financial flows – a weighted index containing trade , FDI flows , FDI stocks , portfolio investment and remittances107 – on the right axis for each of the twenty-three countries .
+Figure 1 shows that while electoral turnout has declined in most countries , this decline has occurred from varying starting points and to different extents .
+Although less pronounced , most countries have gradually increased expenditures over the period in which globalization increased .
+To test our hypotheses , we parametrically model the relationship between economic globalization and the dependent variables of Government Spending and Turnout .
+Diagnostic tests and Figure 1 inform our model specification .
+First , we address Fig .
+1 .
+Turnout , total government spending and economic globalization , 1970–2007 Note : left axis : D indicates turnout ; right axis : 1 indicates KOF economic globalization scale , 3 indicates total government spending ( as % GDP ) .
+107 Dreher , Gaston , and Martens 2008 .
+Dimensions of Economic Globalization 367 heteroskedasticity and clustering within countries by using cluster-robust standard errors.108 Secondly , a Wooldridge109 test of the baseline models unsurprisingly indicated the presence of first-order serial correlation.110 We model this with a lagged dependent variable ( LDV ) ; model diagnostics indicate that this is sufficient to remove residual ( and higher-order ) serial correlation .
+Thirdly , the presence of omitted country effects biases coefficient estimates .
+A Hausman111 test suggests the coefficients from a random-intercept model are biased by omitted country effects.112 Since cross-sectional variation is not required for identification ( even if it enhances efficiency in some cases ) and our theory is principally concerned with the effects of changes in globalization rather than levels , we include country fixed effects ( FEs ) .
+Ultimately , if changes in the extent of globalization are associated with changes in spending and turnout within countries , this constitutes more convincing evidence of a causal link than cross-sectional correlations would do.113 Examining turnout in US House elections , Clouse114 also finds cross-sectional models to be problematic and implements a similar first-differencing transformation .
+A final , and perhaps greatest , concern is spurious correlation,115 as economic globalization and government spending have generally increased over time while turnout has decreased .
+This is evident from Figure 1 , but is also indicated by a Fisher test.116 Furthermore , trends in turnout differ considerably across countries ; Australia and Belgium observe relative constancy , while Switzerland appears to experience a non-linear decline .
+There are a number of ways to address spurious correlation .
+One popular approach inserts common time trends .
+Alternatively , Garrett and Mitchell117 and Steiner,118 when examining government spending and turnout respectively , employ period dummies to capture common time effects .
+However , it is hard to believe that ‘ time ’ – which may proxy for cohort shifts or broad 108 The baseline models used to perform all diagnostic tests include the control variables shown in Tables 1 and 2 .
+For government spending , a likelihood ratio test strongly rejected the null hypothesis of homoskedastic errors in each imputed dataset .
+For turnout , the test also strongly rejected the null .
+These results are robust to including country-specific time trends and country fixed effects .
+We use the Arellano and Bond ( 1991 ) cluster-robust error correction .
+109 Wooldridge 2002 .
+110 For government spending , the Wooldridge test rejected the null hypothesis of no first-order serial correlation at the 0.01 per cent confidence level in each imputed dataset .
+For turnout , the test also strongly rejected the null hypothesis .
+The test for turnout is not rejected at the 10 per cent level once country-specific time trends are added to the model , but is rejected in all spending models .
+111 Hausman 1978 .
+112 For government spending , the Hausman test rejected the null hypothesis that the difference in coefficients between the fixed- and random-effect models is not systematic for the majority of imputed datasets ( and all datasets once country-specific time trends are included in the model ) .
+For turnout , the test strongly rejected the null hypothesis ; this result holds when time-invariant or slow-moving covariates and country-specific time trends are added to the model .
+113 Given the time-varying nature of economic globalization , any positive finding obtained from models utilizing cross-sectional variance that is not supported by within-country evidence strongly suggests the result is biased .
+114 Clouse 2011 .
+115 Granger and Newbold 1974 .
+116 A Phillips-Perron version of the Fisher test taking a single lag of the dependent variable failed to reject the null hypothesis of a unit root for government spending in each panel ( even after first-order serial correlation was removed ) for each imputed dataset .
+For turnout , the test also failed to reject the null .
+117 Garrett and Mitchell 2001 .
+118 Steiner 2010 .
+368 MARSHALL AND FISHER economic or political changes – works in the same way across heterogeneous countries , as common time trends and period dummies imply .
+Inappropriately extracting common time dynamics across countries where time affects countries differently may bias estimates , or at least fail to address the spurious correlation concern.119 In order to capture country-specific dynamics , and thus control for unobserved trends that might induce spurious correlation , we detrend the data by including quadratic trend terms specific to each country.120 Plümper , Troeger and Manow121 note that removing trends eliminates variation that may be explained by economic globalization , and thus our test is conservative .
+Nevertheless , because spurious regression is a major concern , only if we can show that economic globalization and turnout are related after detrending can we claim robust evidence that economic globalization has caused a decline in turnout .
+Besides , if globalization is related to turnout , it should be related to the variation in turnout around any polynomial decline .
+In addition to making the data stationary , country-by-country detrended data also mitigate the possibility that a LDV will absorb substantive effects in the presence of strong serial correlation.122 Combined , these specification choices imply the following regression equation : yit 5 ayit 1 1 ~xitb 1 zitc 1 yeartd1 1 year 2 t d2 1 mi 1 it i5 1 ; .
+.
+.
+; N ; t5 1 ; .
+.
+.
+; Ti ð2Þ where the subscripts denote observations from period t in country i , yit is the dependent variable , yit21 takes coefficient a , ~xit is a 13G vector of G globalization variables with G3 1 coefficient vector b , zit is a 13K vector of strictly exogenous control variables with K3 1 coefficient vector g , yeartd1 and year 2 t d2 denote 13N ( standardized ) quadratic country-specific time trends multiplied by N3 1 vectors of coefficients for each country , mi are N country FEs and eit is the error term .
+Note that , unlike annual government spending data , elections are not an annual event , and thus t differs across the spending and turnout models .
+Although the independent variables appear to only affect yit contemporaneously , the LDV gives the equation a dynamic structure and thus identifies long-run effects in addition to short-run ( contemporaneous ) effects.123 Estimating Equation 2 is problematic because the inclusion of a LDV alongside country FEs induces endogeneity and thus renders OLS inconsistent .
+Nickell124 demonstrates this inconsistency for fixed T , but shows that this dynamic bias disappears as T-N. Because the dimensions of the turnout and government spending datasets differ , we use different estimation techniques .
+For turnout , we estimate Equation 2 using the one-step Arellano and Bond125 ‘ difference GMM ’ estimator designed for panels with short T where dynamic bias is greatest .
+This estimator first-differences Equation 2 to eliminate mi and instruments for Dyit21 with structurally orthogonal lags of the level yit2s , sZ 2 ( and all other exogenous variables ) .
+Consistent estimation requires no s-order serial correlation in the differenced 119 Here the coefficient on a common time trend term is close to zero with a large standard error .
+As Figure 1 shows , this is clearly inappropriate for many countries in the sample .
+120 See Angrist and Pischke 2009 ; Phillips and Moon 2000 .
+Results are robust to using cubic trends instead .
+121 Plümper , Troeger , and Manow 2005 .
+122 Achen 2000 .
+123 The short-run effect of a change in xg is b̂gD ~xg .
+The long-run effect is b̂gD ~xg=ð1 âÞ .
+124 Nickell 1981 .
+125 Arellano and Bond 1991 .
+Dimensions of Economic Globalization 369 errors ( verifies orthogonality of lags ) and Dyit21 not overidentified ( instruments are exogenous ) .
+Although consistent in N , difference GMM is typically used for small-T- large-N panels , and so its small N properties may be in doubt .
+However , our estimation strategy is robust to more conventional but inconsistent OLS approaches ( see robust- ness section ) .
+For the imputed spending models , where T is large relative to N , we instead use a bias- corrected OLS estimator known as least squares dummy variable correction ( LSDVC ) , first proposed by Kiviet.126 Bruno127 extended LSDVC to our case of unbalanced panels .
+LSDVC computes the bias of OLS estimates relative to a consistent estimator – we use the difference GMM estimator – and then adjusts coefficient estimates for bias of order N21T22 .
+Bootstrapped standard errors are calculated using 500 simulations for each imputed dataset .
+Simulation studies show that LSDVC consistently outperforms GMM and OLS estimators of autoregressive models with unit FEs in terms of both bias and root mean squared error for relatively large T across a variety of parameter specifications.128 A detailed discussion of estimation issues is provided in the online appendix .
+All models were estimated using Stata 12 .
+RESULTS We now test our hypotheses using the data and methods described above .
+Our results provide strong support for the constraint hypothesis ( Hypothesis 1 ) – but operating only through foreign ownership , not trade ( Hypothesis 4A ) .
+The negative effect of the globalization of ownership on turnout is largest and most robust for the most flexible flows , FDI Flows and Portfolio Equity .
+In addition to this direct macro-level effect , we also find evidence of an indirect effect : contradicting the compensation hypothesis ( Hypotheses 2A , 4B ) , foreign ownership ( and perhaps also trade ) reduces total and social benefit government spending ( Hypothesis 3A ) , which in turn further decreases turnout ( Hypothesis 2B/3B ) .
+Government Spending To first evaluate the compensation hypothesis ( Hypothesis 2A ) and the argument that this operates through trade ( Hypothesis 4B ) , we examine the impact of economic globalization on government spending .
+Taking Government Spending as the dependent variable , Model 1 in Table 2 combines the LSDVC estimates for Equation 2 across the 10 imputed datasets using the baseline specification .
+Models 2–6 separately add the economic globalization variables .
+The coefficients on the control variables are generally consistent with the findings in the extant literature : not only is spending slow moving , but deindustrialization and union strength are positively correlated with spending .
+There is , however , no evidence to suggest that increases in the power of left-wing parties , budget surpluses , large dependent populations or countries with PR systems spend more .
+Replicating Iversen and Cusack,129 spending responds strongly to unexpected economic growth and automatic transfers .
+126 Kiviet 1995 .
+127 Bruno 2005 .
+128 For example , Beck and Katz 2004 ; Bruno 2005 ; Kiviet 1995 .
+129 Iversen and Cusack 2000 .
+370 MARSHALL AND FISHER Turning to Models 2–6 and Hypothesis 2A , the spending data provide no evidence to support the compensation hypothesis operating through either foreign ownership or trade .
+Rather , the data suggest that increases in foreign ownership decrease Government Spending—which is consistent with the constraint hypothesis ( Hypothesis 3A ) and the globalization of ownership .
+In the short run , the median country ’ s increase in FDI Stock , FDI Flows and Portfolio Equity Stock from 1970–2007 ( from 9.7 per cent to 91.7 per cent , 1.6 per cent to 11.4 per cent , and 0.7 per cent to 41.5 per cent of GDP , respectively ) reduced total spending as a proportion of GDP by 2.3 , 1.2 and 3.9 percentage points , respectively .
+Long-run feedback through the LDV quintuples the magnitude of these effects and thus represents a substantial reduction in spending .
+The ownership scale TABLE 1 Economic Globalization and Government Spending Model 1 Model 2 Model 3 Model 4 Model 5 Model 6 LDV 0.804 0.773 0.796 0.786 0.792 0.780 ( 0.034 ) *** ( 0.037 ) *** ( 0.039 ) *** ( 0.038 ) *** ( 0.038 ) *** ( 0.038 ) *** Deindustrialization 0.101 0.203 0.108 0.157 0.135 0.153 ( 0.030 ) *** ( 0.061 ) *** ( 0.057 ) * ( 0.058 ) *** ( 0.054 ) ** ( 0.057 ) *** Partisanship 20.011 20.019 20.008 20.013 20.001 20.036 ( 0.051 ) ( 0.053 ) ( 0.052 ) ( 0.052 ) ( 0.052 ) ( 0.054 ) Dependent population 20.075 20.114 20.106 20.182 20.166 20.121 ( 0.106 ) ( 0.099 ) ( 0.098 ) ( 0.098 ) * ( 0.102 ) ( 0.103 ) Deficit ( lag ) 20.029 20.051 20.027 20.015 20.007 20.064 ( 0.031 ) ( 0.032 ) ( 0.031 ) ( 0.033 ) ( 0.034 ) ( 0.032 ) ** PR 1.403 0.766 1.164 0.573 0.782 0.900 ( 0.578 ) ** ( 0.597 ) ( 0.645 ) * ( 0.594 ) ( 0.575 ) ( 0.628 ) Strength of labour 0.004 0.004 0.004 0.003 0.003 0.004 ( 0.002 ) ** ( 0.002 ) * ( 0.002 ) * ( 0.002 ) ( 0.002 ) ( 0.002 ) * Unexpected growth 20.378 20.417 20.392 20.372 20.372 20.398 ( 0.028 ) *** ( 0.032 ) *** ( 0.033 ) *** ( 0.034 ) *** ( 0.035 ) *** ( 0.033 ) *** Automatic transfers 0.994 0.911 0.813 0.784 0.730 0.896 ( 0.139 ) *** ( 0.146 ) *** ( 0.150 ) *** ( 0.148 ) *** ( 0.151 ) *** ( 0.146 ) *** Automatic consumption 20.040 20.047 20.030 20.027 20.022 20.059 ( 0.092 ) ( 0.086 ) ( 0.085 ) ( 0.084 ) ( 0.083 ) ( 0.087 ) FDI Stock ( log ) 21.073 ( 0.289 ) *** FDI Flows ( log ) 20.782 ( 0.134 ) *** Portfolio Equity Stock ( log ) 21.197 ( 0.199 ) *** Ownership Scale 22.309 ( 0.581 ) *** Trade ( log ) 21.197 ( 0.728 ) Country FE Y Y Y Y Y Y Country-specific time trends Y Y Y Y Y Y Observations 721 721 721 721 721 721 Countries 21 21 21 21 21 21 R2 ( within ) 0.954 0.955 0.955 0.955 0.955 0.954 Note : all models estimated with LSDVC using one-step difference GMM bias corrections of order N21T22 .
+Standard errors clustered by country were computed using 500 bootstrapped simulations and were combined across ten imputed datasets using Rubin averaging rules .
+The R2 term comes from the OLS FE model before adjustment , and is averaged across imputations .
+*p , 0.1 , **p , 0.05 , ***p , 0.01 .
+Dimensions of Economic Globalization 371 reinforces these results by showing that the first factor is also significantly negative .
+The uncertainty surrounding the coefficient on Trade– which is also negative but significant just outside the 10 per cent level– suggests that neither the constraint nor compensation hypotheses dominate , although we can not distinguish between trade having no impact on spending and the net effect of opposing forces being equal .
+For there to exist a negative indirect effect on electoral turnout , however , the coefficient on Government Spending in the turnout models must take a positive coefficient ( Hypothesis 2B/3B ) .
+We test this alternative hypothesis in the next subsection .
+Robustness checks .
+First , very similar results emerge if we estimate the models with OLS or difference GMM instead of LSDVC .
+Secondly , the results are robust to using the non- imputed data , with the sole exception that PR systems consistently have higher spending .
+Thirdly , to address possible common shocks we included year dummies , both instead of and in addition to country-specific time trends ( which may be insufficiently flexible to capture common shocks ) .
+The results are robust , except that Trade is significantly negative around the 1 per cent level in both cases .
+Fourthly , to address endogeneity concerns , we used suitable lagged levels as GMM instruments in difference GMMmodels , finding very similar results ; Trade was significant around the 5 per cent level .
+All unreported analyses and robustness checks cited can be found in our replication code .
+Finally , the findings for Government Spending are substantively similar to analyses using Social Benefits as a proportion of GDP ; 130 see the online appendix .
+The ( unreported ) decline in the globalization coefficient magnitudes is to be expected , since social benefits are a fraction of total spending .
+Trade again has a statistically significant negative effect on social benefits– providing further evidence against the compensation hypothesis .
+This suggests that even if party manifestos increasingly profess their support for welfare and education programmes,131 this is not reflected in spending .
+Electoral Turnout The results for electoral turnout obtained from estimating Equation 2 with difference GMM are shown in Table 2 .
+These models test the aggregate implications of the constraint hypothesis ( Hypothesis 1 ) and the hypothesis that foreign ownership is the driving force behind this effect ( Hypothesis 4A ) .
+Model 1 shows the baseline turnout specification .
+Models 2–10 include measures of economic globalization , first entering these variables separately before examining the inclusion of foreign ownership variables together with trade and spending variables simultaneously .
+The coefficients in Table 2 are instantaneous within-country marginal effects ; long-run effects are computed below .
+The coefficients on the control variables in Model 1– which are fairly consistent across subsequent models– generally exhibit the expected effects .
+Elections in more proportional electoral systems , with fewer parties , smaller and predominantly middle-aged populations , with longer periods between elections , and concurrent presidential elections ( in the United States ) experience higher turnout .
+Margin has the expected negative sign but fails to achieve significance in any model.132 The negative coefficient for Compulsory Voting contrasts with 130 OECD 2010 .
+131 Burgoon 2012 .
+132 This may be explained by the post hoc measurement of a variable that would ideally be measured before the election ( Geys 2006 ) if actual competition can not be captured at the national level ( Franklin 2004 ) or by the difference between the two largest parties ( Blais 2006 ) .
+372 MARSHALL AND FISHER TABLE 2 Economic Globalization and Aggregate Turnout Model 1 Model 2 Model 3 Model 4 Model 5 Model 6 Model 7 Model 8 Model 9 Model 10 LDV 20.164 20.163 20.199 20.187 20.229 20.168 20.235 20.224 20.243 20.226 ( 0.115 ) ( 0.081 ) ** ( 0.096 ) ** ( 0.077 ) ** ( 0.072 ) *** ( 0.116 ) ( 0.078 ) *** ( 0.097 ) ** ( 0.086 ) *** ( 0.103 ) ** Registered Voters ( log ) 220.207 222.528 222.139 222.734 225.956 220.171 217.053 219.400 217.475 219.367 ( 7.073 ) *** ( 7.750 ) *** ( 10.352 ) ** ( 6.361 ) *** ( 10.215 ) ** ( 7.186 ) *** ( 11.239 ) ( 7.741 ) ** ( 10.875 ) ( 7.679 ) ** % VAP , 30–69 0.140 0.181 0.208 0.54 0.212 0.146 0.198 0.224 0.200 0.226 ( 0.117 ) ( 0.116 ) ( 0.118 ) * ( 0.091 ) *** ( 0.108 ) * ( 0.119 ) ( 0.114 ) * ( 0.093 ) ** ( 0.123 ) ( 0.093 ) ** Years Since Last Election 0.387 0.409 0.512 0.463 0.507 0.387 0.563 0.513 0.578 0.515 ( 0.218 ) * ( 0.219 ) * ( 0.211 ) ** ( 0.218 ) ** ( 0.212 ) ** ( 0.218 ) * ( 0.211 ) *** ( 0.222 ) ** ( 0.210 ) *** ( 0.222 ) ** US Mid-term 213.511 213.725 213.333 213.482 213.194 213.438 212.400 212.700 212.279 212.662 ( 1.632 ) *** ( 1.146 ) *** ( 1.393 ) *** ( 1.078 ) *** ( 1.091 ) *** ( 1.683 ) *** ( 1.372 ) *** ( 1.507 ) *** ( 1.493 ) *** ( 1.600 ) *** Compulsory Voting 22.775 21.344 23.498 21.546 22.334 22.754 22.712 22.001 22.725 21.985 ( 1.107 ) ** ( 0.949 ) ( 1.125 ) *** ( 0.795 ) * ( 0.756 ) *** ( 1.072 ) *** ( 1.071 ) ** ( 0.973 ) ** ( 0.972 ) *** ( 0.999 ) ** Mixed System 20.344 0.801 20.219 0.762 0.076 20.359 20.528 5.268 0.012 5.253 ( 1.113 ) ( 1.880 ) ( 1.075 ) ( 1.018 ) ( 1.014 ) ( 1.121 ) ( 1.965 ) ( 1.351 ) *** ( 1.832 ) ( 1.343 ) *** PR System 2.953 3.429 4.046 2.547 3.094 2.967 3.936 7.244 3.364 7.209 ( 1.435 ) ** ( 2.021 ) * ( 1.428 ) *** ( 1.1160 ) ** ( 1.212 ) ** ( 1.363 ) ** ( 2.184 ) * ( 1.661 ) *** ( 2.036 ) * ( 1.640 ) *** Disproportionality 212.423 213.551 214.742 214.566 215.200 212.356 214.547 213.343 214.179 213.289 ( 3.510 ) *** ( 3.453 ) *** ( 3.551 ) *** ( 3.248 ) *** ( 3.415 ) *** ( 3.623 ) *** ( 3.197 ) *** ( 3.356 ) *** ( 3.385 ) *** ( 3.455 ) *** ENPS 20.718 20.765 20.994 20.765 21.092 20.703 21.032 20.611 20.944 20.596 ( 0.509 ) ( 0.554 ) ( 0.594 ) * ( 0.507 ) ( 0.601 ) * ( 0.517 ) ( 0.607 ) * ( 0.523 ) ( 0.615 ) ( 0.530 ) Margin 20.028 20.032 20.009 20.044 20.014 20.028 20.039 20.048 20.041 20.049 ( 0.045 ) ( 0.045 ) ( 0.049 ) ( 0.046 ) ( 0.051 ) ( 0.044 ) ( 0.050 ) ( 0.049 ) ( 0.049 ) ( 0.048 ) FDI Stock ( log ) 21.811 ( 0.865 ) ** FDI Flows ( log ) 22.030 21.529 21.719 ( 0.610 ) *** ( 0.630 ) ** ( 0.601 ) *** Portfolio Stock ( log ) 22.396 21.880 21.888 ( 0.524 ) *** ( 0.443 ) *** ( 0.442 ) *** Ownership Scale 23.519 ( 0.938 ) *** Trade ( log ) 0.505 2.678 0.433 ( 2.754 ) ( 2.172 ) ( 2.270 ) Government Spending 0.193 0.201 0.189 0.201 ( 0.076 ) ** ( 0.078 ) *** ( 0.081 ) ** ( 0.079 ) ** D im en sio n s o f E co n o m ic G lo b a liza tio n 3 7 3 TABLE 2 ( Continued ) Model 1 Model 2 Model 3 Model 4 Model 5 Model 6 Model 7 Model 8 Model 9 Model 10 Country FE Y Y Y Y Y Y Y Y Y Y Country-specific time trends Y Y Y Y Y Y Y Y Y Y Observations 234 230 202 227 202 234 194 212 194 212 Countries 23 23 22 23 22 23 22 23 22 23 ½CorrðDy ; DŷÞ2 0.83 0.83 0.85 0.84 0.85 0.83 0.86 0.86 0.86 0.86 AR2 test 21.64 21.57 21.26 21.95* 21.40 21.70* 22.06** 22.44** 22.04** 22.44** AR3 test 21.48 21.34 21.10 21.03 21.09 21.49 21.11 20.95 21.19 20.94 AR4 test 21.60 21.49 21.50 21.02 21.24 21.58 21.21 21.07 21.18 21.08 Sargan x2 107.93 118.53* 96.33 119.73 108.73 107.66 94.69 94.83 96.07 94.41 Note : all models estimated with one-step difference GMM .
+Differenced variables are used as standard instruments , and all level lags of the dependent variable exceeding two are used as GMM instruments , except in Models 1 , 3 , 6–10 , where third-order lags are used .
+Model 2 restricts the number of lagged-level instruments to nine to avoid overidentification .
+Country-clustered robust standard errors in parentheses .
+*p , 0.1 , **p , 0.05 , ***p , 0.01 .
+3 7 4 M A R S H A L L A N D F I S H E R analyses focusing on cross-sectional variation , but is based on only two instances of reform.133 The negative coefficient for the LDV represents reversion to trend ; its small size suggests the effect is immediate and relatively persistent.134 The serial correlation ( AR ) tests indicate that there are no problems instrumenting for the LDV,135 while the Sargan overidentification test is not rejected in any model.136 Direct effects of economic globalization .
+Entering the economic globalization variables separately in Models 2–6 , we find a negative effect working through foreign ownership .
+This provides strong support for Hypotheses 1 and 4A .
+FDI Stocks , and especially FDI Flows and Portfolio Equity Stock , exhibit large negative coefficients that are statistically significant .
+These results are consistent with our theory that the globalization of ownership reduces incentives to turn out .
+The Ownership Scale reflects the combination of these variables and is also negative and highly significant .
+There is no evidence for any effect of trade dependence .
+This supports our claim that the structural impacts of trade liberalization may not directly alter voter behaviour ( Hypothesis 4A ) .
+Table 3 presents the predicted long-run effect of changes in foreign ownership on turnout in each country over the sample period .
+Predictions for country i were computed recursively,137 accounting for the values of globalization variable g at each election t through dynamic feedback : b̂g XTi t5 2 âTi t ~xitg !
+~xi1g `` # : ð3Þ We treat the first observation ~xi1g as exogenous .
+Table 3 suggests foreign ownership has had a major effect in most countries , and has thus contributed considerably to the observed declines in turnout .
+On average across countries , of the 8.9 percentage point decline in turnout , changes in FDI Stock , FDI Flows and Portfolio Equity Stock have equated to 2.8 , 2.2 and 6.1 percentage point declines in turnout , respectively .
+Because these variables are highly correlated and were estimated in separate models , the sum of these effects should not be interpreted as a total foreign ownership effect .
+Given that the data have been detrended and the ownership variables may have contributed to time trends , these estimates are probably lower bounds .
+In some countries the predicted effect of economic globalization exceeds the actual decline because of countervailing forces .
+Indirect effects of economic globalization .
+Models 7 and 8 assess the indirect globalization hypothesis ( Hypothesis 2B/3B ) by including Government Spending as an additional covariate .
+133 Note that neither of the two instances of reform in the sample –Austria after 1982 and Italy after 1993 – shows a significant decline in turnout immediately following the shift away from compulsory voting .
+The large positive coefficient frequently obtained in statistical studies ( Geys 2006 ) arises from cross-sectional variation subsumed by the FEs in our analysis .
+All results are robust to removing the compulsory voting variable .
+134 Further analysis , available in our replication code , suggests that the large coefficient on the LDV found in previous research is due to the exclusion of country FEs and time trends .
+135 In Models 1 , 3 and 6–10 , where the AR2 tests for the differenced equation are rejected at the 5 per cent level , yit23 is instead the first lag used as an instrument .
+Whichever lags are used , the results are very similar , although fewer lags increase standard errors .
+136 To ensure non-rejection at the 5 per cent level , Model 2 removed higher-order lags ( z .
+10 ) .
+137 Note the standard assumption that b̂g and â do not vary across i and t ; we find support for b̂ig 5 b̂g using random-coefficient models as a robustness check .
+Dimensions of Economic Globalization 375 TABLE 3 Predicted Long-run Effect of Foreign Ownership on Turnout by Country Sample period FDI Stock ( % D ) FDI Flows ( % D ) Portfolio Equity Stock ( % D ) Ownership Scale ( D ) Turnout ( actual % D ) Australia 1972–2007 20.8 21.1 22.9 22.6 20.6 Austria 1970–2006 24.0 22.5 26.7 25.7 217.6 Belgium 1971–2007 24.8 21.3 26.5 21.6 20.4 Canada 1972–2006 0.2 21.4 22.0 22.3 212.3 Denmark 1971–2007 22.4 22.5 27.5 25.8 20.6 Finland 1970–2007 25.0 23.5 210.3 28.0 217.2 France 1973–2007 24.2 23.7 26.2 26.5 221.2 Germany 1972–2005 22.6 21.0 24.8 22.5 213.4 Greece 1974–2007 23.1 20.8 26.0 23.7 25.4 Iceland 1971–2007 25.8 28.3 210.0 212.6 26.8 Ireland 1973–2007 22.9 23.6 211.2 27.7 29.6 Italy 1972–2006 21.8 21.9 26.3 24.9 29.6 Japan 1972–2005 22.3 20.7 24.6 22.8 24.2 Netherlands 1971–2006 21.5 20.5 22.8 21.8 1.3 New Zealand 1973–2005 20.7 2.4 27.1 20.5 28.8 Norway 1972–2005 22.6 22.9 27.2 26.1 24.7 Portugal 1975–2005 23.6 21.4 26.6 24.7 227.4 Spain 1977–2004 23.5 23.5 26.6 26.7 21.3 Sweden 1970–2006 24.3 23.3 27.5 26.3 26.3 Switzerland 1971–2007 22.5 24.6 24.1 25.8 28.1 UK 1970–2005 21.3 21.1 23.4 22.6 212.8 USA 1970–2006 21.4 21.2 24.7 23.3 29.3 Unweighted mean 22.8 22.2 26.1 24.8 28.9 Correlation with turnout 0.19 0.06 0.16 0.16 Adjusted correlation 0.15 0.23 0.24 Note : predictions are derived from Models 2–5 in Table 2 according to Equation 3 , using data for all available years .
+Insufficient data were available for Luxembourg for legitimate comparison ; meaningful changes in FDI flows were not available for Belgium ( only two elections ) ; FDI flows for Germany are first measured in 1990 ; FDI flows and portfolio equity stock for Greece are first measured in 1989 ; FDI flows and portfolio equity stock for Iceland are first measured in 1987 ; FDI flows for Switzerland are first measured in 1983 .
+Change in turnout for the United States is between the 1970 and 2006 mid-terms .
+Adjusted correlation removes all shortened series enumerated above .
+3 7 6 M A R S H A L L A N D F I S H E R Government Spending is positive , suggesting that – as predicted , and previously found by Colomer138 – larger government increases incentives for voters to turn out .
+The coefficients on FDI Flows and Portfolio Equity Stock decrease in magnitude ( albeit insignificantly ) , but remain significant – which indicates that the constraining effects of foreign ownership do not solely operate through spending .
+This finding suggests the existence of two constraint paths for the globalization of ownership : one that operates negatively from ownership directly and a second that operates negatively and indirectly through reduced government spending .
+Multiplying the coefficients from Tables 1 and 2 estimates that the negative indirect effects are approximately one-twentieth the magnitude of the direct effects of the globalization variables .
+The addition of Trade in Models 9 and 10 demonstrates the robustness of these findings , and provides further evidence that no dominating constraint or compensation effect operates through international trade .
+Unreported regressions examining FDI Stock show that the coefficient becomes insignificant – we suggest that this lack of robustness reflects the relative immobility of FDI Stock compared to changes in such stocks and more transient portfolio investment .
+The results thus provide strong support for the constraint hypothesis , arguing that economic globalization reduces the incentive to vote ( Hypothesis 1 ) , but also suggest an indirect effect that – contrary to the compensation hypothesis – causes governments to reduce their spending , which in turn further reduces turnout ( Hypothesis 3 ) .
+These effects operate solely through the globalization of ownership ( Hypothesis 4A ) .
+Given the difficulties of drawing valid inference , our models necessarily extracted variation from the data ( especially by removing stable country differences and within-country trends ) ; that we still find such clear results lends the relationships considerable credibility .
+Inward vs. outward globalization .
+Having established that different aspects of economic globalization have different effects , before turning to our robustness checks , it makes sense to ask whether the effects of globalization differ between their inward and outward components .
+It may be that governments fear the withdrawal of foreign capital from their country and may welcome the return of capital invested abroad .
+So inward foreign ownership might be more constraining than outward .
+However , decomposing the globalization variables suggests that the constraining impact of foreign ownership works equally in either direction .
+Using the same baseline models estimated in Table 2 , Table 4 reports the coefficients in which the external assets/ net outflows and external liabilities/net inflows components are distinguished and entered into regression equations separately and then simultaneously .
+Although the coefficients on FDI Stock and Portfolio Equity Stock assets are larger , statistical tests fail to reject the null hypothesis of equal size .
+Similarly , the evidence for FDI Flows tentatively suggests that inflows dominate outflows , with only the former achieving statistical significance at the 5 per cent level .
+Again noting that FDI constitutes only equity holdings of at least 10 per cent , this may be explained by large and visible foreign takeovers – such as the US firm Kraft ’ s takeover of the UK firm Cadbury in 2010 – strongly influencing voters ’ perceptions .
+This suggests the possibility of differences in the effects of immediate ( flows ) and longer-term accumulative ( stocks ) ownership .
+Such conclusions are cautious , as the coefficients are not statistically different .
+Even after decomposition , trade variables had no clear effects .
+138 Colomer 1991 .
+Dimensions of Economic Globalization 377 Robustness checks .
+Despite adopting the most rigorous statistical approach that we deem reasonable , robustness checks are still necessary .
+With the occasional exceptions of FDI Stock and Government Spending , our findings are robust to all checks .
+Our first set of checks examines sensitivity to variable and observation inclusion .
+First , the main findings in Table 2 are robust to separately dropping all twenty-three countries .
+The only exception is FDI Stock , which was significant only at the 10 per cent level about half the time and once fell just outside the 10 per cent band .
+Secondly , removing cases with standardized residuals with an absolute value exceeding two suggests that our findings are not driven by outliers .
+Thirdly , to address concerns that tax havens drive the analysis , we removed Iceland , Ireland , Luxembourg and Switzerland and found very similar results .
+Fourthly , all results are robust to the removal of US mid-terms .
+Fifthly , we found substantively similar results when measuring turnout as a proportion of the VAP ; here standard errors declined and the coefficient on FDI Stock increased in magnitude and became significant at the 1 per cent level , although Government Spending became insignificant .
+Sixthly , our results – with the rare exceptions of FDI Stock and Government Spending – are robust to including many feasible control variables.139 TABLE 4 Assets and Liabilities Decomposition Model 1 Model 2 Model 3 Model 4 Model 5 Model 6 FDI Flows , in ( log ) –1.622 –1.838 ( 0.702 ) ** ( 0.696 ) *** FDI Flows , out ( log ) –1.559 –1.048 ( 0.734 ) ** ( 0.618 ) * FDI Stock , assets ( log ) –1.989 –1.687 ( 0.933 ) ** ( 1.169 ) FDI Stock , liabilities ( log ) –1.255 –0.591 ( 0.805 ) ( 1.010 ) Observations 210 196 196 230 230 230 Countries 22 22 22 23 23 23 Difference w2ð1Þ 0.58 0.32 Model 7 Model 8 Model 9 Model 10 Model 11 Model 12 Portfolio Stock , assets ( log ) –2.513 –1.955 ( 0.562 ) *** ( 0.636 ) *** Portfolio Stock , liabilities ( log ) –1.904 –1.300 ( 0.512 ) *** ( 0.558 ) ** Imports ( log ) 1.567 3.453 ( 2.280 ) ( 2.230 ) Exports ( log ) –0.170 –2.631 ( 2.366 ) ( 2.555 ) Observations 230 227 227 234 234 234 Countries 23 23 23 23 23 23 Difference w2ð1Þ 0.41 2.20 Note : models are otherwise identical to Models 2–6 in Table 2 .
+The null hypothesis for x2 is that globalization coefficients are equal .
+139 The following variables were separately included as controls : union density , population density , unemploy- ment , budget deficit , GDP per capita ( log ) , growth per capita , consumer price index , deindustrialization , wage coordination , gross and net income inequality ( Gini coefficient ) , total cash social benefits , Polity IV democracy scores , median voter position , voting age and the Schmidt index of cabinet composition .
+378 MARSHALL AND FISHER Seventhly , adding our globalization variables to Franklin ’ s140 generational models yielded similar results .
+Finally , to address concerns about common shocks we included dummy variables for each decade , both instead of and in addition to country-specific time trends .
+Unsurprisingly , the dummies reveal turnout is declining by decade , but leave the main results intact .
+An especially important concern is that much of the economic globalization in the OECD is due to European integration.141 The profound links between the two have three potentially important implications .
+First , patterns of trade and capital flows will be in part the product of developments in European integration .
+Secondly , with policy making at the European level constraining national governments , EU membership is another potential source of lower turnout .
+Thirdly , this might lead to weaker effects of economic integration on turnout among EU members , especially those involved in the European Monetary System ( EMS ) .
+However , splitting the sample by EU ( including predecessors ) membership and countries that have joined the Eurozone , the online appendix shows similar results in both samples,142 indicating that similarly constraining effects of globalization occurred outside the EU.143 Moreover , including controls for contemporary and cumulative EU membership left our results unchanged and do not suggest that the EU has an independent effect on turnout .
+It is possible that , while European integration has increased economic constraints , the importance of EU political decision making has counterbalanced this effect .
+Secondly , we examined two popular alternative estimation procedures and found that these less demanding estimators provide stronger results .
+First , a FE model with a LDV and country-clustered standard errors estimated with OLS yielded analogous coefficients and smaller p-values , with the exception that FDI Stocks fell just outside the 10 per cent standard .
+Secondly , implementing the Beck and Katz144 OLS approach with panel-specific AR1 , country FEs and panel-corrected standard errors saw the coefficient magnitudes and t-statistics for the globalization variables uniformly increase .
+Thus , the difference GMM estimates are not a small-sample artefact .
+We also used the ‘ system GMM ’ estimator145 – designed for cases in which lagged levels are weak instruments for Dyit21 because yit follows a random walk ( not the case here ) – and found substantively similar results for the globalization variables , except that FDI Stock became essentially zero and insignificant , in turn moving the scale just outside the 10 per cent margin.146 Thirdly , averaging the independent variables across the prior electoral cycle produced very similar results .
+Contemporaneous measures of the independent variables could have overestimated the speed with which voters update their perceptions ( in ways that an LDV can not capture ) , or missed annual or cyclical volatility .
+We also tested for a difference between contemporaneous and electoral cycle averages by subtracting the cycle average 140 Franklin 2004 .
+We first almost exactly replicated Franklin ’ s ( 2004 , 153 ) FE Model E. 141 Hay and Wincott 2012 .
+142 When examining subsequent Eurozone members , the results were robust to examining only the post- 1979 EMS period .
+143 Using interactions instead of splitting the sample provided similar results .
+144 Beck and Katz 1995 .
+145 Blundell and Bond 1998 .
+146 We prefer the difference to system GMM approach ; system GMM only provides the same estimates for the time-varying variables asymptotically under the additional assumption that all instruments for the level ’ s equation are uncorrelated with the FEs .
+Dimensions of Economic Globalization 379 from the value for the election year .
+This difference was significant in only one case : Trade in Model 10 .
+We conclude that immediate experiences produce similar effects to experiences over the full electoral cycle .
+Finally , the assumption of homogeneous causal effects across countries may seem heroic.147 To examine such variation in globalization coefficients , we estimated multilevel models with random coefficients.148 Overall , there is little coefficient heterogeneity , suggesting that economic globalization has similarly affected turnout across OECD nations.149 This finding thus supports the predicted effects of foreign ownership in Table 3 , which assume coefficient homogeneity .
+Is economic globalization endogenous to turnout ?
+While we have argued that economic globalization has affected turnout , the reverse causal direction is also plausible .
+A possible argument runs as follows : the working ( manufacturing ) class opposes globalization in advanced democracies because it stands to lose from further integration,150 and so where turnout is higher – which implies higher working-class mobilization , given that this group usually exhibits disproportionately low turnout151 – governments respond by keeping globalization at lower ( and more politically viable ) levels .
+Pontusson and Rueda152 argue that turnout affects the programmes of left parties only where low-income voters are mobilized , while Iversen and Cusack153 show that while turnout does not affect social transfers , it does increase government consumption .
+Mahler154 finds that turnout increases government redistribution .
+There are good reasons to doubt this story .
+The idea that higher turnout produces a stronger left share of the vote is an implicit ( but crucial ) component of the causal path from turnout to globalization .
+However , Fisher155 shows that increases in turnout are not positively associated with increases in left vote share , while Moene and Wallerstein156 find that turnout reduces spending on social insurance .
+Furthermore , instrumenting for the differenced globalization variables with orthogonal lagged levels , as with the spending models , leaves the results unchanged.157 In practice , this means instrumenting the most recent difference with the level of globalization of around a decade earlier .
+Using a more traditional 2SLS approach , we find that the negative foreign ownership results remain significant when these variables are instrumented for by the linear combination of lagged economic growth and lagged ( log ) GDP per capita – both of which are significant determinants of capital flows that are plausibly not directly related to turnout .
+These results can be found in our online appendix .
+147 Plümper , Troeger , and Manow 2005 .
+148 Our models use AR1 error corrections and unstructured covariance matrices .
+These models can not include FEs .
+149 The multilevel models provide similar point estimates and standard errors , except FDI Stock ’ s smaller ( and now insignificant ) coefficient .
+Likelihood ratio tests indicate that the random coefficients do not improve the fit compared to a random-intercept model .
+150 For example , Autor , Dorn , and Hanson ( 2013 ) .
+151 Lijphart 1997 .
+152 Pontusson and Rueda 2010 .
+153 Iversen and Cusack 2000 .
+154 Mahler 2008 .
+155 Fisher 2007 .
+156 Moene and Wallerstein 2001 .
+157 AR tests indicate that the third lags ~xit 3 ( and above ) of the globalization variables in levels are conditionally uncorrelated with the first difference D ~xit .
+380 MARSHALL AND FISHER CONCLUDING DISCUSSION This article considered two alternative mechanisms by which economic globalization may influence voter turnout , setting the constraint hypothesis against the compensation hypothesis .
+We further distinguished two distinct strands of economic globalization , arguing that the impact of the globalization of ownership ( essentially capital mobility ) should differ from the globalization of trade .
+Examining aggregate data from twenty-three OECD countries since 1970 , we find strong support that a constraint mechanism operates through foreign ownership , both directly and – in strict opposition to the compensation hypothesis – indirectly by reducing government spending .
+As we theorized , the effect of economic globalization on turnout depends on which indicator is used .
+Measures of the globalization of ownership were all negatively related to turnout , following a hierarchy in which the most flexible flows were most constraining , while trade had no clear effect .
+Thus a key conclusion is that , after applying rigorous tests that account for stable country differences and country-specific turnout trends , there is robust evidence that the globalization of ownership has contributed to the marked decline in turnout in developed societies .
+If developing countries are even more capital dependent,158 this effect could be even larger .
+The compensation hypothesis suggests that turnout might increase as a result of economic globalization , which we argued is theoretically most likely to be driven by the globalization of trade rather than foreign ownership .
+Given that international trade did not have a positive impact on either spending ( as an intermediary ) or turnout , the compensation mechanism is either non-existent or dominated by the constraining effect of economic globalization .
+In order to illuminate the theoretical mechanisms it would have been ideal to have high- quality comparative survey data ( including a panel component ) covering the 1970–2007 period with survey items on turnout and various social attitudes on globalization and electoral politics .
+While we found some indications from the Comparative Study of Electoral Systems159 data that increasing globalization produces declining efficacy , indifference between parties and lower turnout within countries , the results were not robust .
+Although these were the best available data for the purpose , they include only a subset of OECD countries between 1996 to 2007 – typically just two or three elections per country , during a period when changes in globalization were relatively muted .
+There are also the usual problems of low response rates and measurement error in social surveys , and the particularly difficult problem of measuring turnout.160 Under the circumstances , null findings from these survey data certainly do not represent refutations of our hypotheses , just the absence of evidence for them .
+The problems and limitations of the survey data also make us appreciate the comparatively comprehensive nature and high quality of the macro data .
+Ultimately , while clear survey results could have provided a more detailed picture of the micro mechanisms , they are not essential to establish strong evidence for our hypotheses , which concern macro-level explanatory variables and a dependent variable that is much more accurately measured ( and widely available ) at the country level than at the 158 Mosley 2003 ; Wibbels 2006 .
+159 Comparative Study of Electoral Systems 2003 , 2007 , 2012 .
+160 Karp and Brockington 2005 .
+Dimensions of Economic Globalization 381 individual level .
+By extracting country-level trends and fixed effects , our theory fits closely with the nuances in the data and is able to dismiss many alternative explanations .
+We believe that this article makes an important contribution , both theoretically and empirically , to our understanding of electoral turnout – especially to the important problem of turnout decline.161 Our estimates suggest that , despite being widely overlooked , economic globalization is responsible for a considerable portion of the decline since 1970 – on average , about two-thirds in the case of portfolio equity transactions , the most powerful ownership-constraint variable .
+REFERENCES Aarts , Kees , and Bernhard Wessels .
+2005 .
+Electoral Turnout .
+In The European Voter : A Com- parative Study of Modern Democracies , edited by Jacques Thomassen , 64–83 .
+New York : Oxford University Press .
+Abiad , Abdul , and Ashoka Mody .
+2005 .
+Financial Reform : What Shakes It ?
+What Shapes It ?
+American Economic Review 95 ( 1 ) :66–88 .
+Abrams , Samuel , Torben Iversen , and David Soskice .
+2010 .
+Informal Social Networks and Rational Voting .
+British Journal of Political Science 41 ( 2 ) :229–57 .
+Achen , Christopher H. 2000 .
+Why Lagged Dependent Variables Can Suppress the Explanatory Power of Other Independent Variables .
+Paper Presented at the Annual Meeting of the Political Methodology Society , Los Angeles , CA , 20–22 July .
+Alderson , Arthur S. 2004 .
+Explaining the Upswing in Direct Investment : A Test of Mainstream and Heterodox Theories of Globalization .
+Social Forces 83 ( 1 ) :81–122 .
+Aldrich , John H. 1993 .
+Rational Choice and Turnout .
+American Journal of Political Science 37 ( 1 ) :246–78 .
+Alesina , Alberto .
+1988 .
+Credibility and Policy Convergence in a Two-Party System With Rational Voters .
+American Economic Review 78 ( 4 ) :796–805 .
+Angrist , Joshua D. , and Jörn-Steffen Pischke .
+2009 .
+Mostly Harmless Econometrics : An Empiricist ’ s Companion .
+Princeton , NJ : Princeton University Press .
+Antràs , Pol .
+2003 .
+Firms , Contracts , and Trade Structure .
+Quarterly Journal of Economics 118 ( 4 ) :1375–418 .
+Antràs , Pol , and Elhanan Helpman .
+2004 .
+Global Sourcing .
+Journal of Political Economy 112 ( 3 ) :552–80 .
+Arellano , Manuel , and Stephen Bond .
+1991 .
+Some Tests of Specification for Panel Data : Monte Carlo Evidence and an Application to Employment Equations .
+Review of Economic Studies 58 ( 2 ) :277–97 .
+Armingeon , Klaus , Sarah Engler , Panajotis Potolidis , Marlène Gerber , and Philipp Leimgruber .
+2009 .
+Comparative Political Data Set 1960-2008 .
+Institute of Political Science , University of Berne , available at http : //www.ipw.unibe.ch/content/team/klaus_armingeon/comparative_ political_data_sets/index_eng.html Autor , David H. , David Dorn , and Gordon H. Hanson .
+2013 .
+The China Syndrome : Local Labor Market Effects of Import Competition in the United States .
+American Economic Review,103 ( 6 ) :2121–6 .
+Baker , Andy .
+2005. Who Wants to Globalize ?
+Consumer Tastes and Labor Markets in a Theory of Trade Policy Beliefs .
+American Journal of Political Science 49 ( 4 ) :924–38 .
+Beck , Nathaniel , and Jonathan N. Katz .
+1995 .
+What To Do ( And Not To Do ) With Time-Series Cross-Section Data .
+American Political Science Review 89 ( 3 ) :634–47 .
+Beck , Nathaniel , and Jonathan N. Katz .
+2004 .
+Time-Series-Cross-Section Issues : Dynamics , working paper .
+Available at http : //www.nyu.edu/gsas/dept/politics/faculty/beck/beckkatz.pdf 161 Lijphart 1997 .
+382 MARSHALL AND FISHER Benoit , Kenneth , and Michael Laver .
+2006 .
+Party Policy in Modern Democracies .
+London : Routledge .
+Bernauer , Thomas , and Christoph Achini .
+2000 .
+From ‘ Real ’ to ‘ Virtual ’ States ?
+Integration of the World Economy and its Effects on Government Activity .
+European Journal of International Relations 6 ( 2 ) :223–76 .
+Bernhard , William , and David Leblang .
+2002 .
+Democratic Processes , Political Risk , and Foreign Exchange Markets .
+American Journal of Political Science 46 ( 2 ) :316–33 .
+Blais , André .
+2000 .
+To Vote or Not To Vote : The Merits and Limits of Rational Choice Theory .
+Pittsburgh : University of Pittsburgh Press .
+—— .
+2006 .
+What Affects Turnout ?
+Annual Review of Political Science 9:111–25 .
+Blais , André , and Agnieszka Dobrzynska .
+1998 .
+Turnout in Electoral Democracies .
+European Journal of Political Research 33 ( 2 ) :239–61 .
+Blais , André , Elisabeth Gidengil , and Neil Nevitte .
+2004 .
+Where Does Turnout Decline Come from ?
+European Journal of Political Research 43 ( 2 ) :221–36 .
+Blais , André , and Kees Aarts .
+2006 .
+Electoral Systems and Turnout .
+Acta Politica 41 ( 2 ) :180–96 .
+Blais , André , Louis Massicotte , and Agnieszka Dobrzynska .
+2003 .
+Why is Turnout Higher in Some Countries ? .
+Montréal : Elections Canada .
+Blais , André , and R.K. Carty .
+1990 .
+Does Proportional Representation Foster Voter Turnout ?
+European Journal of Political Research 18 ( 2 ) :167–81 .
+Blundell , Richard , and Stephen Bond .
+1998 .
+Initial Conditions and Moment Restrictions in Dynamic Panel Data Models .
+Journal of Econometrics 87 ( 1 ) :115–43 .
+Boix , Carles .
+2000 .
+Partisan Governments , the International Economy , and Macroeconomic Policies in Advanced Nations , 1960–93 .
+World Politics 53 ( 1 ) :38–73 .
+Borensztein , E. , J .
+De Gregorio , and J.W .
+Lee .
+1998 .
+How Does Foreign Direct Investment Affect Economic Growth ?
+Journal of International Economics 45 ( 1 ) :115–35 .
+Bretschger , Lucas , and Frank Hettich .
+2002 .
+Globalisation , Capital Mobility and Tax Competition : Theory and Evidence for OECD Countries .
+European Journal of Political Economy 18 ( 4 ) :695–716 .
+Brockington , David .
+2009 .
+It ’ s About the Benefits : Choice Environments , Ideological Proximity and Individual Participation in 28 Democracies .
+Party Politics 15 ( 4 ) :435–54 .
+Brülhart , Marius .
+2009 .
+An Account of Global Intra-industry Trade , 1962–2006 .
+The World Economy 32 ( 3 ) :401–59 .
+Bruno , Giovanni S.F .
+2005 .
+Approximating the Bias of the LSDV Estimator for Dynamic Unbalanced Panel Data Models .
+Economics Letters 87 ( 3 ) :361–66 .
+Burgoon , Brian .
+2001 .
+Globalization and Welfare Compensation : Disentangling the Ties That Bind .
+International Organization 55 ( 3 ) :509–51 .
+—— .
+2009 .
+Globalization and Backlash : Polayni ’ s Revenge ?
+Review of International Political Economy 16 ( 2 ) :145–77 .
+—— .
+2012 .
+Partisan Embedding of Liberalism : How Trade , Investment , and Immigration Affect Party Support for the Welfare State .
+Comparative Political Studies 45 ( 5 ) :606–35 .
+Cameron , David R. 1978 .
+Expansion of the Public Economy : A Comparative Analysis .
+American Political Science Review 72 ( 4 ) :1243–61 .
+Castles , Francis G. 1998 .
+Comparative Public Policy : Patterns of Postwar Transformation .
+Northampton , MA : Edward Elger .
+Cerny , Philip G. 1997 .
+Paradoxes of the Competition State : The Dynamics of Political Globalization .
+Government and Opposition 32 ( 2 ) :251–74 .
+Clouse , Clayton .
+2011 .
+Changes in Congressional Turnout , 1972–2006 .
+Journal of Elections , Public Opinion and Parties 21 ( 4 ) :453–72 .
+Colomer , Josep M. 1991 .
+Benefits and Costs of Voting .
+Electoral Studies 10 ( 4 ) :313–25 .
+Comparative Study of Electoral Systems .
+2003 .
+CSES Module 1 Full Release .
+Available from www.cses.org —— .
+2007 .
+CSES Module 2 Full Release .
+Available from www.cses.org Dimensions of Economic Globalization 383 —— .
+2012 .
+CSES Module 3 Full Release .
+Available from www.cses.org Downs , Anthony .
+1957 .
+An Economic Theory of Democracy .
+New York : Harper and Row .
+Dreher , Axel , Noel Gaston , and PimMartens .
+2008.Measuring Globalisation : Gauging its Consequences .
+New York : Springer .
+Duch , Raymond M. , and Randolph T. Stevenson .
+2010 .
+The Global Economy , Competency , and the Economic Vote .
+Journal of Politics 72 ( 1 ) :1–19 .
+Eaton , Jonathan , Francis Kramarz , and Samuel Kortum .
+2011 .
+An Anatomy of International Trade : Evidence from French Firms .
+Econometrica 79 ( 5 ) :1453–98 .
+Feddersen , Timothy , and Alvaro Sandroni .
+2006 .
+A Theory of Participation in Elections .
+American Economic Review 96 ( 4 ) :1271–82 .
+Fisher , Stephen D. 2007 .
+( Change in ) Turnout and ( Change in ) the Left Share of the Vote .
+Electoral Studies 26 ( 3 ) :598–611 .
+Fisher , Stephen D. , Laurence Lessard-Phillips , Sara B. Hobolt , and John Curtice .
+2008 .
+Disengaging Voters : Do Plurality Systems Discourage the Less Knowledgeable from Voting ?
+Electoral Studies 27 ( 1 ) :89–104 .
+Franklin , Mark N. 2004 .
+Voter Turnout and the Dynamics of Electoral Competition in Established Democracies Since 1945 .
+Cambridge , UK : Cambridge University Press .
+Freeman , John R. 2008 .
+Democracy and Markets in the Twenty-first Century : An Agenda .
+In International Perspectives on Contemporary Democracy , edited by Peter F. Nardulli , 183–220 .
+Urbana : University of Illinois Press .
+Gabel , Matthew J. , and John D. Huber .
+2000 .
+Putting Parties in Their Place : Inferring Party Left-Right Ideological Positions from Party Manifestos Data .
+American Journal of Political Science 44 ( 1 ) :94–103 .
+Gallagher , Michael .
+2010 .
+Election Indices .
+Available at http : //www.tcd.ie/Political_Science/staff/ michael_gallagher/ElSystems/Docts/ElectionIndices.pdf Garrett , Geoffrey .
+1995 .
+Capital Mobility , Trade , and the Domestic Politics of Economic Policy .
+International Organization 49 ( 4 ) :657–87 .
+—— .
+2001 .
+Globalization and Government Spending Around the World .
+Studies in Comparative International Development 35 ( 4 ) :3–29 .
+Garrett , Geoffrey , and Deborah Mitchell .
+2001 .
+Globalization and the Welfare State : Income Transfers in the Advanced Industrialised Democracies , 1965–1990 .
+European Journal of Political Research 39 ( 2 ) :145–77 .
+Geys , Benny .
+2006 .
+Explaining Voter Turnout : A Review of Aggregate Level Research .
+Electoral Studies 25 ( 4 ) :637–63 .
+Gordon , Roger H. 1986 .
+Taxation of Investment and Savings in a World Economy .
+American Economic Review 76 ( 5 ) :1086–102 .
+Granger , Clive W.J. , and Paul Newbold .
+1974 .
+Spurious Regression in Econometrics .
+Journal of Econometrics 2:111–20 .
+Gray , Mark , and Miki Caul .
+2000 .
+Declining Voter Turnout in Advanced Industrial Democracies 1950 to 1997 : The Effects of Declining Group Mobilisation .
+Comparative Political Studies 33 ( 9 ) :1091–122 .
+Hausman , Jerry A .
+1978 .
+Specification Tests in Econometrics .
+Econometrica 46 ( 6 ) :1251–73 .
+Hay , Colin , and Daniel Wincott .
+2012 .
+The Political Economy of European Welfare Capitalism .
+New York : Palgrave Macmillan .
+Hellwig , Timothy T. 2001 .
+Interdependence , Government Constraints , and Economic Voting .
+Journal of Politics 63 ( 4 ) :1141–62 .
+—— .
+2008 .
+Globalization , Policy Constraints , and Vote Choice .
+Journal of Politics 70 ( 4 ) :1128–41 .
+—— .
+2011 .
+The World Economy , Political Control , and Responsibility for Economic Performance .
+Paper prepared for the conference European Responses to the Economic Crisis : Lessons for the United States , Indiana University , Bloomington , 8 April 8 .
+Hellwig , Timothy T. , and David Samuels .
+2007 .
+Voting in Open Economies : The Electoral Consequences of Globalization .
+Comparative Political Studies 40 ( 3 ) :283–306 .
+384 MARSHALL AND FISHER Hicks , Alexander , and Christopher Zorn .
+2005 .
+Economic Globalization , the Macro Economy , and Reversals of Welfare : Expansion in Affluent Democracies , 1978–94 .
+International Organization 59 ( 3 ) :631–62 .
+Hobolt , Sara B. , and Robert .
+Klemmensen .
+2006 .
+Welfare to Vote : The Effect of Government Spending on Turnout .
+Paper Presented at Midwest Political Science Association , Chicago , IL , 20–23 April .
+Honaker , James , and Gary King .
+2010 .
+What to do About Missing Values in Time Series Cross- Section Data .
+American Journal of Political Science 54 ( 2 ) :561–81 .
+Huber , Evelyne , and John D. Stephens .
+2001 .
+Development and Crisis of the Welfare States : Parties and Politics in Global Markets .
+Chicago : University of Chicago Press .
+Institute for Democracy and Electoral Assistance .
+2009 .
+Voter Turnout .
+Available from www .
+idea.int Inter-Parliamentary Union .
+2007 .
+Parline Database .
+Available from www.ipu.org Iversen , Torben .
+2001 .
+The Dynamics of Welfare State Expansion : Trade Openness , De- Industrialization , and Partisan Politics .
+In The New Politics of the Welfare State , edited by Paul Pierson , 45–79 .
+New York : Oxford University Press .
+Iversen , Torben , and Thomas Cusack .
+2000 .
+The Causes of Welfare State Expansion : Deindus- trialization or Globalization ?
+World Politics 52 ( 3 ) :313–49 .
+Jackman , Robert W. 1987 .
+Political Institutions and Voter Turnout in the Industrial Democracies .
+American Political Science Review 81 ( 2 ) :405–23 .
+Karp , Jeffrey A. , and David Brockington .
+2005 .
+Social Desirability and Response Validity : A Comparative Analysis of Overreporting Voter Turnout in Five Countries .
+Journal of Politics 67c ( 3 ) :825–40 .
+Kayser , Mark A. , and Michael Peress .
+2012 .
+Benchmarking across Borders : Electoral Account- ability and the Necessity of Comparison .
+American Political Science Review 106 ( 3 ) :661–84 .
+Kiviet , Jan F. 1995 .
+On Bias , Inconsistency , and Efficiency of Various Estimators in Dynamic Panel Data Models .
+Journal of Econometrics 68 ( 1 ) :53–78 .
+Kydland , Finn E. , and Edward C. Prescott .
+1977 .
+Rules Rather than Discretion : The Inconsistency of Optimal Plans .
+Journal of Political Economy 85 ( 3 ) :473–92 .
+Lane , Philip R. , and Gian Maria Milesi-Ferretti .
+2007 .
+The External Wealth of Nations Mark II : Revised and Extended Estimates of Foreign Assets and Liabilities , 1970–2004 .
+Journal of International Economics 73 ( 2 ) :223–50 .
+Laver , Michael , and John Garry .
+2000 .
+Estimating Policy Positions from Political Texts .
+American Journal of Political Science 44 ( 3 ) :619–34 .
+Leblang , David , and Bumba Mukherjee .
+2005 .
+Government Partisanship , Elections , and the Stock Market : Examining American and British Stock Returns , 1930–2000 .
+American Journal of Political Science 49 ( 4 ) :780–802 .
+Lijphart , Arend .
+1997 .
+Unequal Participation : Democracy ’ s Unresolved Dilemma .
+American Poli- tical Science Review 91 ( 1 ) :1–14 .
+Li , Xiaoying , and Xiaming Liu .
+2005 .
+Foreign Direct Investment and Economic Growth : An Increasingly Endogenous Relationship .
+World Development 33 ( 3 ) :393–407 .
+Mahler , Vincent A .
+2008 .
+Electoral Turnout and Income Redistribution by the State : A Cross- National Analysis of the Developed Democracies .
+European Journal of Political Research 47 ( 2 ) :161–83 .
+Margalit , Yotam .
+2011 .
+Costly Jobs : Trade-related Layoffs , Government Compensation , and Voting in US Elections .
+American Political Science Review 105 ( 1 ) :166–88 .
+Melitz , Marc J .
+2003 .
+The Impact of Trade on Intra-Industry Reallocations and Aggregate Industry Productivity .
+Econometrica 71 ( 6 ) :1695–725 .
+Moene , Karl O. , and Michael Wallerstein .
+2001 .
+Inequality , Social Insurance , and Redistribution .
+American Political Science Review 95 ( 4 ) :859–74 .
+Morton , Rebecca B .
+1991 .
+Groups in Rational Turnout Models .
+American Journal of Political Science 35 ( 3 ) :758–76 .
+Dimensions of Economic Globalization 385 Mosley , Layna .
+2003 .
+Global Capital and National Governments .
+Cambridge : Cambridge University Press .
+Mosley , Layna , and David A .
+Singer .
+2008 .
+Taking Stock Seriously : Equity-Market Performance , Government Policy , and Financial Globalization .
+International Studies Quarterly 52 ( 2 ) :405–25 .
+Nickell , Stephen .
+1981 .
+Biases in Dynamic Models with Fixed Effects .
+Econometrica 49 ( 6 ) :1417–26 .
+Organisation for Economic Co-operation and Development [ OECD ] .
+2002 .
+OECD Economic Outlook 71 .
+Paris : OECD .
+—— .
+2010 .
+OECD Economic Outlook 88 .
+Paris : OECD .
+Pandya , Sonal .
+2010 .
+Labor Markets and the Demand for Foreign Direct Investment .
+International Organization 64:389–409 .
+Phillips , Peter C.B. , and Hyungsik R. Moon .
+2000 .
+Nonstationary Panel Data Analysis : An Overview of Some Recent Developments .
+Econometric Reviews 19 ( 3 ) :263–86 .
+Plümper , Thomas , Vera E. Troeger , and Philip Manow .
+2005 .
+Panel Data Analysis in Comparative Politics : Linking Method to Theory .
+European Journal of Political Research 44 ( 2 ) : 327–54 .
+Plümper , Thomas , Vera E. Troeger , and Hannes Winner .
+2009 .
+Why is There No Race to the Bottom in Capital Taxation ?
+International Studies Quarterly 53 ( 3 ) :761–86 .
+Pontusson , Jonas , and David Rueda .
+2008 .
+Inequality as a Source of Political Polarization : A Comparative Analysis of Twelve OECD Countries .
+In Democracy , Inequality and Repre- sentation , edited by Pablo Beramendi and Christopher J. Anderson , 312–53 .
+New York : Russell Sage Foundation .
+—— .
+2010 .
+The Politics of Inequality : Voter Mobilization and Left Parties in Advanced Industrial States .
+Comparative Political Studies 43 ( 6 ) :675–705 .
+Powell , G. Bingham , and Guy D. Whitten .
+1993 .
+A Cross-National Analysis of Economic Voting : Taking Account of the Political Context .
+American Journal of Political Science 37 ( 2 ) :391–414 .
+Radcliff , Benjamin .
+1992 .
+The Welfare State , Turnout , and the Economy .
+American Political Science Review 86 ( 2 ) :444–56 .
+Rajan , Raghuram G. , and Luigi Zingales .
+1998 .
+Financial Dependence and Growth .
+American Economic Review 88 ( 3 ) :559–86 .
+Rehm , Philipp .
+2011 .
+Social Policy by Popular Demand .
+World Politics 63 ( 2 ) :271–99 .
+Riker , William H. , and Peter C. Ordeshook .
+1968 .
+A Theory of the Calculus of Voting .
+American Political Science Review 62 ( 1 ) :25–42 .
+Rodrı́guez , Francisco , and Dani Rodrik .
+2000 .
+Trade Policy and Economic Growth : A Skeptic ’ s Guide to the Cross-National Evidence .
+NBER Macroeconomics Annual 15:261–325 .
+Rodrik , Dani .
+1997 .
+Has Globalization Gone too Far ?
+Washington , D.C. : Institute for International Economics .
+—— .
+1998 .
+Why Do More Open Economies Have Bigger Governments ?
+Journal of Political Economy 106 ( 5 ) :997–1032 .
+Scheve , Kenneth F. , and Matthew J .
+Slaughter .
+2001 .
+What Determines Individual Trade-Policy Preferences ?
+Journal of International Economics 54:267–92 .
+—— .
+2004 .
+Economic Insecurity and the Globalization of Production .
+American Journal of Political Science 48 ( 4 ) :662–74 .
+Steiner , Nils D. 2010 .
+Economic Globalization and Voter Turnout in Established Democracies .
+Electoral Studies 29 ( 3 ) :1–16 .
+Steiner , Nils D. , and Christian W. Martin .
+2012 .
+Economic Integration , Party Polarisation and Electoral Turnout : Testing for a Causal Chain .
+West European Politics 35 ( 2 ) :238–65 .
+Swank , Duane .
+2002 .
+Global Capital , Political Institutions , and Political Change in Developed Welfare States .
+Cambridge , UK : Cambridge University Press .
+—— .
+2005 .
+Globalisation , Domestic Politics , and Welfare State Retrenchment in Capitalist Democracies .
+Social Policy and Society 4 ( 2 ) :183–95 .
+United Nations Conference on Trade and Development .
+2009 .
+World Investment Report .
+New York and Geneva : United Nations Conference on Trade and Development .
+386 MARSHALL AND FISHER Visser , Jelle .
+2009 .
+ICTWSS : Database on Institutional Characteristics of Trade Unions , Wage Setting , State Intervention and Social Pacts in 34 Countries Between 1960 and 2007 .
+Available at http : //www.uva-aias.net/208 Vowles , Jack .
+2008 .
+Does Globalization Affect Public Perceptions of ‘ Who in Power Can Make a Difference ’ ?
+Evidence from 40 Countries , 1996–2006 .
+Electoral Studies 27 ( 1 ) :63–76 .
+Walter , Stephanie .
+2010 .
+Globalization and the Welfare State : Testing the Microfoundations of the Compensation Hypothesis .
+International Studies Quarterly 54 ( 2 ) :403–26 .
+Ward , Hugh , Lawrence Ezrow , and Han Dorussen .
+2011 .
+Globalization , Party Positions , and the Median Voter .
+World Politics 63 ( 3 ) :509–47 .
+Wibbels , Erik .
+2006 .
+Dependency Revisited : International Markets , Business Cycles , and Social Spending in the Developing World .
+International Organization 60 ( 2 ) :433–68 .
+Wood , Adrian .
+1994 .
+North-South Trade , Employment and Inequality .
+Oxford , UK : Oxford University Press .
+Wooldridge , Jeffrey M. 2002 .
+Econometric Analysis of Cross Section and Panel Data .
+Cambridge , MA : MIT Press .
+World Bank .
+2010 .
+World Development Indicators .
+World Bank .
+APPEND IX Spending Models Government Spending : Total disbursements of general government , as a percentage of GDP .
+Variable YPGTQ.162 Deindustrialization : Percentage of labour force that is not employed in the agricultural or industrial sectors.163 Partisanship : Schmidt index of cabinet composition , ranging from 1 ( right hegemony ) to 5 ( left hegemony ) .164 Dependent Population : Percentage of population aged below sixteen or above sixty-four.165 Deficit : Budget deficit ( spending – revenue ) , as a percentage of GDP.166 PR System : Dummy variable coded 1 for PR electoral system.167 Strength of Labour : Defined , as per Iversen and Cusack,168 as the product of union density and union centralization.169 Unexpected Growth : Defined , as per Iversen and Cusack,170 as real GDP per capita growth at time t minus average real per capita growth in the preceding three years.171 Automatic Transfers : Defined as per Iversen and Cusack.172 Automatic Consumption : Defined as per Iversen and Cusack.173 FDI Flows ( log ) : FDI inflows plus outflows , as a percentage of GDP.174 Rather than difference the estimated data on FDI stocks from Lane and Milesi-Ferretti,175 we instead employ the specifically measured UNCTAD FDI flows data .
+The two series are only moderately correlated ( r5 0.39 ) .
+162 OECD 2010 .
+163 World Bank 2010 .
+164 Armingeon et al .
+2009 .
+165 World Bank 2010 .
+166 OECD 2010 .
+167 Armingeon et al .
+2009 .
+168 Iversen and Cusack 2000 .
+169 Constructed from OECD ( 2010 ) and Visser ( 2009 ) .
+170 Iversen and Cusack 2000 .
+171 Constructed from OECD ( 2010 ) data .
+172 Iversen and Cusack 2000 ; constructed from OECD ( 2010 ) data .
+173 Iversen and Cusack 2000 ; constructed from OECD ( 2010 ) data .
+174 United Nations Conference on Trade and Development 2009 .
+175 Lane and Milesi-Ferretti 2007 .
+Dimensions of Economic Globalization 387 Accordingly , we consider only the UNCTAD data that we believe to be more reliable because it has not been imputed and has been compiled using a consistent methodology .
+FDI Stock ( log ) : FDI assets plus liabilities , as a percentage of GDP.176 Portfolio Equity Stock ( log ) : See text for definition.177 Trade ( log ) : Exports plus imports , as a percentage of GDP.178 Country-specific Time Trends : Standardized linear and quadratic year terms for each country .
+Turnout Models Turnout : Percentage of the registered population that voted ( except in the United States , where we use the percentage of the voting age population ) .179 Registered Voters ( log ) : Natural logarithm of the total number of registered voters.180 Per cent VAP , thirty to sixty-nine : Percentage of voting age population aged thirty to sixty-nine .
+Spain ’ s value for 2000 linearly interpolated.181 Years Since Last Election : Number of years between elections to the national-level lower house .
+US Mid-term : Dummy variable coded 1 for US mid-term elections .
+Compulsory Voting : Dummy variable coded 1 if a country employs compulsory voting.182 Mixed System : Dummy variable coded 1 for mixed electoral system.183 Disproportionality : Index of relative disproportionality.184 ENPS : Effective number of political parties by seats in parliament.185 Margin : Percentage of the popular vote won in the first round of an election by the top party/group minus the second-place party/group .
+We use the vote share obtained through the party list in mixed systems.186 APPENDIX 1 Descriptive Statistics – Government Spending Models ( pre-imputed data ) Variable n Mean Standard deviation Minimum Maximum Government spending 800 44.25 8.51 20.45 70.93 Social benefits 800 12.73 3.96 3.03 23.66 Deindustrialization 808 63.93 10.00 32.57 79.76 Partisanship 790 2.45 1.53 1 5 Dependent population 808 65.85 2.22 57.66 70.16 Deficit ( lag ) 772 20.09 3.08 211.60 9.53 PR system 795 0.58 0.49 0 1 Strength of labour 745 116.95 93.55 11.50 414.50 Unexpected growth 804 20.13 2.33 214.80 7.39 Automatic transfers 516 0.05 0.49 22.19 3.90 Automatic consumption 742 0.27 0.62 23.60 10.73 FDI stocks ( log ) 807 3.18 1.23 0.38 8.69 FDI flows ( log ) 715 1.28 0.84 20.95 4.50 Portfolio equity stock ( log ) 791 2.51 1.67 0 9.05 Ownership scale 715 0.00 1.05 22.07 5.66 Trade ( log ) 808 4.08 0.53 2.51 5.79 176 Lane and Milesi-Ferretti 2007 .
+177 Lane and Milesi-Ferretti 2007 .
+178 World Bank 2010 .
+179 Institute for Democracy and Electoral Assistance 2009 .
+180 Institute for Democracy and Electoral Assistance 2009 .
+181 Steiner 2010 .
+182 Franklin 2004 ; Institute for Democracy and Electoral Assistance 2009 .
+183 Armingeon et al .
+2009 .
+184 Armingeon et al .
+2009 .
+185 Gallagher 2010 .
+186 Inter-Parliamentary Union 2007 ; National parliamentary sources .
+388 MARSHALL AND FISHER APPENDIX 2 Descriptive Statistics – Turnout Models Variable n Mean Standard deviation Minimum Maximum Turnout 258 77.21 14.48 34.70 95.80 Registered Voters ( log ) 258 16.02 1.61 11.68 18.99 % VAP , 30–69 258 64.52 3.00 57.96 72.59 Years Since Last Election 258 3.27 1.13 0 6 US Mid-term 258 0.04 0.19 0 1 Compulsory Voting 258 0.21 0.41 0 1 Mixed System 258 0.15 0.36 0 1 PR System 258 0.58 0.49 0 1 Disproportionality 258 0.14 0.10 20.04 0.58 ENPS 258 3.55 1.45 1.69 9.05 Margin 258 9.21 7.28 0.02 32.19 FDI Stocks ( log ) 254 3.11 1.12 0.87 8.59 FDI Flows ( log ) 226 1.21 0.79 20.35 4.50 Portfolio Equity Stock ( log ) 251 2.34 1.56 0 8.71 Ownership Scale 226 0.12 0.94 21.63 5.18 Trade ( log ) 258 4.06 0.55 2.51 5.64 Government Spending 239 44.31 8.31 23.27 68.42 FDI Stocks , in ( log ) 254 2.29 1.24 0.16 7.86 FDI Stocks , out ( log ) 254 2.50 1.10 0.27 7.93 FDI Flows , in ( log ) 234 0.78 0.66 21.96 3.23 FDI Flows , out ( log ) 222 0.81 0.72 20.12 4.27 Portfolio Equity Stock , assets ( log ) 254 1.70 1.42 0 7.53 Portfolio Equity Stock , liabilities ( log ) 251 1.80 1.47 0 8.34 Imports ( log ) 258 3.39 0.52 1.86 4.86 Exports ( log ) 258 3.38 0.56 1.91 5.03 Dimensions of Economic Globalization 389

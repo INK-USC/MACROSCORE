@@ -1,0 +1,977 @@
+Kwon_JournOrgBehavior_2013_Pkyd.pdf
+a1E.sVcLvQuq_8WgImgDSygySNIS-Kwon_JournOrgBehavior_2013_Pkyd.pdf.plain.html
+
+High-performer turnover and firm performance : The moderating role of human capital investment and firm reputation KIWOOK KWON1* AND DEBORAH E. RUPP2 1School of Business , Konkuk University , Seoul , Korea 2Department of Psychological Sciences , Purdue University , West Lafayette Indiana , U.S.A. Summary Research has shown a complex relationship between turnover and firm performance .
+Not only does it matter who leaves ( e.g. , high-performing versus low-performing employees ) , but the context also stands to influence this effect in complex ways .
+We apply human capital theory , social capital theory , and the cost–benefit perspective to propose two boundary conditions to the high-performer turnover and firm performance relationship .
+Specifically , we predict that the negative impact of high-performer turnover on firm performance will be the strongest for reputable firms and for firms who invest less in human capital ( e.g. , selection , training , and incentive-based pay ) .
+We present data from 155 South Korean firms that support the hypothesized model .
+We discuss findings in terms of current and future theory , practical implications , and subsequent research needs .
+Copyright © 2012 John Wiley & Sons , Ltd. Keywords : high-performer turnover ; firm performance ; moderation effects ; human capital investment ; firm reputation Traditionally , employee turnover has been viewed as problematic for firm performance because employees ’ participation in organizational activities has been regarded as a necessary condition for effective firm functioning ( Barnard , 1938 ; March & Simon , 1958 ) .
+As a result , myriad individual-level studies have investigated the determi- nants and mechanisms of employee turnover ( e.g. , van Breukelen , van der Vlist , & Steensma , 2004 ; Donnelly & Quirin , ; Griffeth , Hom , & Gaertner , 2000 ; Lee & Mowday , 1987 ) .
+Although research on the antecedences and consequences of turnover in general has advanced our understanding of organizational behavior , other research has pointed out that the strength of the turnover–performance relationship may depend on the performance levels of the employees who leave ( Cascio , 1995 ; Dalton & Todor , 1979 ; Hollenbeck & Williams , 1986 ; Jackofsky , 1984 ; Mobley , 1982 ; Muchinsky & Turtle , 1979 ; Price , 1977 ; Schwab , 1991 ; Staw , 1980 ; Steel , Griffeth , & Hom , 2002 ; Sturman , Trevor , Boudreau , & Gerhart , 2003 ) .
+In fact , Gardner ( 2005 ) observed that more than 20 percent of organizations have suffered losses as a result of “ purposive talent raiding ” from their competitors as a consequence of the competition over high-performing employees .
+Although both scholars and practitioners have viewed high-performer turnover as a critical organizational problem , a complete understanding of this phenomenon is lacking .
+First , there are surprisingly few studies that empirically investigate the relationship between high-performer turnover and firm performance .
+Although scattered theoretical perspectives suggest a negative relationship between high-performer turnover and firm performance , concrete empirical evidence is needed to support this proposition ( Mobley , 1982 ; Price , 1977 ) .
+Second , although high-performer turnover may negatively influence firm performance , studies up to this point have paid little attention to contextual variables that have the potential to lessen or exacerbate its effects .
+Investigating these questions is *Correspondence to : Kiwook Kwon , School of Business , Konkuk University , 1 Hwayang-dong , Gwangjin-gu , Seoul , Korea 143-701 .
+E-mail : kwkwon @ konkuk.ac.kr Authors contributed equally to this study .
+Copyright © 2012 John Wiley & Sons , Ltd .
+Received 4 October 2010 Revised 19 April 2012 , Accepted 26 April 2012 Journal of Organizational Behavior , J. Organiz .
+Behav .
+34 , 129–150 ( 2013 ) Published online 18 May 2012 in Wiley Online Library ( wileyonlinelibrary.com ) DOI : 10.1002/job.1804 Research A rticle critical not only for research on turnover but also for organizations , who dedicate significant resources to building and retaining human capital , especially during turbulent economic times .
+To address these gaps , we review literature pertinent to both of these questions .
+We argue that the negative relationship between high-performer turnover and firm performance will be moderated by both human capital investment ( HCI ) and firm reputation , with HCI weakening the relationship and firm reputation strengthening it .
+Throughout the paper , our focus is on voluntary turnover , which refers to an employee ’ s separation from an organization that is initiated by his or her own intention ( Bluedorn , 1978 ) .
+We present our theoretical model in Figure 1 .
+High-performer turnover and firm performance Three theoretical perspectives can be brought to bear in articulating the expected relationship between high- performer turnover and firm performance .
+First , human capital theory argues that a firm ’ s productivity lies in the firm-specific skills and abilities of its workforce ( Becker , 1964 ; Strober , 1990 ) .
+Because the accumulation of human capital incurs cost , an incentive is created to retain those employees who show positive return on investment ( Dess & Shaw , 2001 ) .
+According to this perspective , employee turnover depletes the human capital , represents a loss on investment , and leads to a negative impact on firm performance .
+Studies based implicitly and explicitly on human capital theory have supported the negative relationship between turnover and firm performance ( e.g. , Alexander , Bloom , & Nuchols , 1994 ; Batt , 2002 ; Huselid , 1995 ; Osterman , 1987 ; Yanadori & Kato , 2007 ) .
+The consideration of high-performer turnover ( rather than simply overall turnover ) represents a refinement of this perspective .
+As pointed out by Shaw , Gupta , and Delery ( 2005 ) , high performers embody more human capital than average or poor performers ; and therefore , their turnover more drastically depletes HCI .
+This increased depletion of human capital will therefore have a more severe impact on firm performance .
+A second perspective is offered by social capital theory , which focuses on the value created by networks of social relationships present in the firm .
+Because continuous interaction among organizational members is seen as a valuable resource for organizations , turnover has been argued to deplete social capital by damaging firms ’ internal social fabric ( Dess & Shaw , 2001 ; Shaw , Duffy , Johnson , & Lochhart , 2005 ) .
+In particular , this research emphasizes that turnover among individuals who occupy key structural and relational network positions could lead to significant loss of social capital within organizations , resulting in lower firm performance .
+Research supports a link between employee performance and both number of ties and centrality in networks , with higher performing employees holding more ties and having more network centrality ( Burt , 1992 ; Cross & Cummings , 2004 ) .
+This would suggest High-Performer Turnover Rate • Human capital loss • Social capital loss • Diverse turnover costs Human Capital Investment • Selection • Training/de .
+• Incentive- based pay Firm Reputation Firm Performance • ROA • ROE H1 H2 H3- - + Figure 1 .
+Theoretical model 130 K. KWON AND D. E. RUPP Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 129–150 ( 2013 ) DOI : 10.1002/job that high-performer turnover will negatively influence firm performance because high-performer turnover would result in more social capital loss compared with overall turnover .
+Third , the cost–benefit perspective argues that turnover may not necessarily be harmful for firm performance but rather depends on the performance level of leavers and varying organizational situations ( e.g. , Dalton & Todor , 1982 ; Dalton , Todor , & Krackhardt , 1982 ; Mobley , 1982 ; Price , 1977 ; Staw , 1980 ) .
+This approach especially emphasizes the implications of the performance level of leavers for the consequences of turnover .
+It argues that although turnover imposes various organizational costs , the exit of lower performers can benefit firms because it allows firms to upgrade their human capital pool by replacing lower performers with more qualified people from the outside .
+For example , Dalton et al .
+( 1982 ) pointed out that performance and replaceability tend to be orthogonal so that high performers ’ turnover is dysfunctional for firm performance but low performers ’ turnover in fact can be functional for firm performance .
+Building upon the aforementioned theoretical perspectives , we propose the following hypothesis .
+Hypothesis 1 : High-performer turnover ( controlling for all other turnover ) will negatively predict firm performance .
+Boundary conditions As we mentioned earlier , the current paper sought not only to provide evidence of a negative relationship between high-performer turnover and firm performance but also to explore the boundary conditions influencing this effect .
+That is , we sought to investigate contextual variables that may heighten or hamper this negative effect .
+As pointed out by Dalton et al .
+( 1982 ) , the negative impact of stellar employees exiting the organization is dependent in part by how easily they can be replaced by others of similar or higher value .
+These authors suggest that although high- performer turnover , in general , negatively influences firm performance , the costs of high-performer turnover may vary depending on organizational factors .
+We argue that two such organizational factors are HCI and firm reputation .
+Human capital investment The first moderator we considered was HCI .
+Following the logic earlier , the cost of high-performer turnover to the firm will necessarily depend on the resources that went into generating the knowledge , skills , and capabilities of the workforce , and the subsequent drain on human capital resulting from the exodus of high performers .
+It is through the implementation of human resource ( HR ) practices that firms are said to invest in human capital ( Cascio , 1991 ; Cascio & Boudreau , 2008 ; Snell & Dean , 1992 ) .
+In this paper , and congruent with the literature ( Snell & Dean , 1992 ) , we operationalized HCI in terms of the extent to which firms invest in extensive selection , intensive training and development , and incentive-based pay .
+Extensive selection practices allow firms to identify individuals with job-related knowledge , skills , and abilities ( KSAs ) .
+Training and development builds KSAs ( especially firm-specific KSAs ) that may not be present at the time of selection .
+Strategic compensation systems provide incentives for employees to stay with the firm ( and consequently allow the firm to retain its human capital ) .
+Also consistent with past research , we do not treat these practices separately but rather as a bundle .
+This is based on a systems approach , which argues that HR practices work in concert with one another to have effects that are beyond the combined effect of any one policy ( Beltran-Martin , Roca-Puig , Escrig-Tena , & Bou-Llusar , 2008 ) .
+At first blush , we might expect HCI to heighten the negative relationship between high-performer turnover and firm performance .
+The high cost of turnover is widely known ( e.g. , Mobley , 1982 ; Staw , 1980 ) , and we would expect the cost of high-performer turnover to be even higher .
+Thus , firms that make large investments in human capital via HR practices may bear even higher costs still ( Guthrie , 2001 ; Shaw , Gupta , & Delery , 2005 ) .
+If firms invest a great deal of resources into human capital , then their loss on investment as a result of high-performer turnover will be great ( e.g. , Price , 1977 ; Shaw , Gupta , & Delery , 2005 ) .
+However , we feel this line of reasoning is an oversimplification of the human capital phenomena in that it only considers the impact of HCI on employees who leave .
+A more comprehensive treatment of the model reveals that high-investment firms may possess a HIGH-PERFORMER TURNOVER AND FIRM PERFORMANCE 131 Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 129–150 ( 2013 ) DOI : 10.1002/job high-quality pool of human capital as a whole , which may enable firms to effectively mitigate the negative conse- quences of high-performer turnover ( Dalton et al. , 1982 ) .
+For instance , Wright , McMahan , and McWilliams ( 1994 ) argued that firm performance is influenced not only by key managers but also by the quality of the total pool of human capital within the organization .
+Also , Pfeffer ( 2001 ) argued that in order for organizations to be successful , they should invest in enhancing the total quality of the human capital pool rather than exclusively focusing on retain- ing high performers .
+The arguments of these authors suggest that , assuming that HR practices are applied uniformly across the workforce , a high-quality pool of human capital , developed through high investment in selection , training and development , and incentive-based pay , may help firms reduce the negative impact of high-performer turnover on firm performance and to sustain superior firm performance even though a portion of high performers leave .
+Hypothesis 2 : Human capital investment will moderate the H1 relationship such that increased investment will weaken the negative effect of high performer turnover on firm performance .
+Firm reputation A second boundary condition we feel is in need of exploration is that of firm reputation .
+Reputation is defined as “ a perceptual representation of a company ’ s past actions and future prospects that describes the firm ’ s overall appeal to all of its key constituents when compared with other leading rivals , ” ( Fombrum , 1996 , p. 72 ) .
+We feel this is a variable worth considering because it is crucial to a firm ’ s ability to replace high-performing employees who leave .
+Research points out that the replaceability of leavers is one of the key factors in the relationship between employee turnover and firm performance ( Abelson & Baysinger , 1984 ; Dalton et al. , 1982 ; Mobley , 1982 ; Price , 1977 ; Staw , 1980 ) .
+The replaceability of leavers can be largely affected by the extent to which newly hired employees successfully perform the tasks that leavers conducted , as well as the quantity and quality of potential workers seeking to join an organization .
+Thus , a second intuitive expectation might be that a positive reputation would buffer the negative impact of high- performer turnover on firm performance in that strong reputation firms might be able to attract more applicants of higher quality with which to replace high-performing leavers , compared with low reputation firms , thus reducing their replacement costs ( Farrell & Hakstain , 2001 ; Turban & Cable , 2003 ) .
+However , here , we also think that such a prediction represents an oversimplification of a complex phenomenon , in that the effect of reputation on the quality of a firm ’ s workforce over time is not considered and that such a prediction conflates mean levels of workforce quality with change in quality as a result of high-performer turnover .
+First , a human capital perspective ( Becker , 1964 ; Dess & Shaw , 2001 ; Strober , 1990 ) suggests that with time , reputable firms are able to attract higher quality employees than firms with lower reputations ; and thus , high per- formers in reputable firms may possess superior skills and abilities to high-performers in firms with lower reputa- tions .
+Thus , the exit of a high performer in a high-reputation firm represents a particularly hard hit , and subsequently , a particularly more difficult challenge to replace them .
+Consequently , the identification of qualified replacements is more difficult and costly in firms with a high reputation .
+This could create a situation where , although mean levels of firm performance are higher for high-reputation firms , positive reputation might enhance the negative effect of high- performer turnover on firm performance .
+The social capital perspective would suggest a similar moderating effect of reputation .
+As Fombrun ( 1996 ) points out , firms with strong reputations benefit from high levels of cooperation , teamwork , and a sense of shared destiny among organizational members .
+These benefits create a social capital advantage for reputable firms .
+Research suggests that employee turnover may result in the severe loss of social capital ( Dess & Shaw , 2001 ) .
+Furthermore , significant resources are required to rebuild lost social capital , which can only develop through continuous , long- term interaction among organizational members ( Coleman , 1988 ; Leana & Van Buren , 1999 ; Nahapiet & Ghoshal , 1998 ) .
+Because high performers are said to embody especially large amounts of social capital compared with average-performing workers , and because reputable firms are thought to possess particularly effective high performers , reputable firms stand to take the hardest social capital hit from the loss of high performers .
+Such firms 132 K. KWON AND D. E. RUPP Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 129–150 ( 2013 ) DOI : 10.1002/job will incur the highest costs in replacing social capital , and doing so may require more time to create commensurate levels of social embeddedness .
+So again , as with human capital , mean levels of social capital would be expected to be greater for reputable firms ( compared with less reputable firms ) ; however , the negative effect of high-performer turnover on firm performance would be expected to be greater for reputable firms .
+In summary , we would expect firms with strong reputations and low high-performer turnover to show the highest levels of firm performance .
+However , we would expect the firm performance drop due to high-performer turnover to be most severe for reputable firms owing to the high replacement costs of these especially high-quality workers , which includes diverse costs such as recruitment and administration , as well as costs required for newly hired employees to build social capital to successfully perform their tasks .
+We would not expect such a drop for firms with less strong reputations , although their mean levels of firm performance may not be expected to reach the levels of the strong reputation/low turnover firms .
+This prediction is in line with the resource-based view of the firm , which argues that although organizational resources such as a high-quality workforce can be a source of competitive advantage , nurturing and maintaining them is necessary for firms to take advantage of these resources ( e.g. , Barney , 1991 , 2001 ; Wright et al. , 1994 ) .
+Hypothesis 3 : Firm reputation will moderate the negative relationship between high-performer turnover and firm performance such that the negative relationship between high-performer turnover and firm performance will be stronger for more ( versus less ) reputable firms .
+It should be noted that for all our hypotheses , we are predicting effects controlling for variables known to impact firm performance ( e.g. , union presence , organizational size , organizational age , capital intensity , industry , and country of origin ; Bae & Lawler , 2000 ; Datta , Guthrie , & Wright , 2005 ; Freeman & Medoff , 1984 ; Guthrie , 2001 ; Huselid , 1995 ; Pfeffer & Salancik , 1978 ) .
+Method Data sources/participants To test our hypotheses , we obtained firm-level data from three sources .
+The Samsung Economic Research Institute ( SERI ) , which is considered the premier HR research institute of South Korea , collected measures of turnover , HCI , and union presence .
+The firms solicited were member firms of the Korean Senior Human Re- source Managers Association/SERI Human Resource Management Community—a network of firms who share diverse information regarding HR practices and data for the purpose of obtaining both individualized and indus- try-level reports .
+We asked all 994 firms in this network to participate .
+Informants were the senior HR managers of each firm .
+A total of 190 firms participated in the survey , resulting in a response rate of 19.1 percent .
+Of these 190 firms , we excluded those that were government subsidiaries , that were implementing new HR practices during the course of the survey , or that failed to provide data on all the major variables in this study ( e.g. , high-performer turnover , performance , HCI ) .
+This yielded a final sample of 155 firms ( 15.6 percent of the firms in the human resource man- agement ( HRM ) Community network ) .
+Our response rate is similar to that of past research soliciting large datasets from multiple firms across industries ( Becker & Huselid , 1998 ) .
+Following the method of Delery and Doty ( 1996 ) , we used logistic regression to test for potential differences between responding and non-responding firms .
+We cre- ated a dummy dependent variable indicating whether a firm participated in the survey .
+Independent variables in- cluded organization size , organization age , capital intensity , industry , total assets , return on assets ( ROA ) , and return on equity ( ROE ) .
+None of these variables were significant predictors of participation , suggesting low response bias in our dataset .
+Of the firms in our final sample , 46.5 percent were within the manufacturing sector , 34.8 percent within non-manufacturing sectors ( communication , retail , transportation , etc .
+) , 9.7 percent were within the HIGH-PERFORMER TURNOVER AND FIRM PERFORMANCE 133 Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 129–150 ( 2013 ) DOI : 10.1002/job construction sector , and 9.0 percent were within the financial sector .
+No firms were listed as multi-industry .
+Firms had on average 2567 employees ( median = 675 ) .
+Firms with 1000 employees or more comprised 37.4 percent of the sample ; 20.0 percent had 500–999 employees , 34.2 percent had 100–499 employees , and 8.4 percent had 31– 99 employees .
+For each participating firm , we obtained measures of firm performance , organizational size , organizational age , capital intensity , industry , and country of origin from the Korea Information Service ( KIS ) .
+KIS is equivalent to Standard & Poor ’ s COMPUSTAT ( Chang , 2003a ; Chang & Hong , 2000 ) .
+It collaborates with Moody ’ s to provide information on organizations operating in Korea for an international audience ( Chang , 2003b ) and has a joint venture ( Korea Investors Service ) with Moody ’ s .
+The KIS contains data on firms ’ general characteristics and diverse financial information , which have been extracted from the annual reports filed with the Korea Financial Supervisory Commission ( Jung & Kwon , 2002 ) .
+Korean Account Standards are largely consistent with International Financial Reporting Standards ( World Bank , 2004 ) .
+KIS is considered a leading credit rating agency in Korea with a strong reputation for containing up-to-date and accurate data .
+It is the standard firm-level database of Korea ( Chang & Hong , 2000 ) .
+We collected measures of firm reputation ( for each participating firm ) from 398 undergraduate students from two universities in South Korea .
+We administered the surveys in seven general courses , open to all majors .
+University administrators recommended these particular classes for their size and diversity of majors .
+Because there is a possibility that the evaluation of firm reputation between students and employees might be different , we had a supplementary sample of 167 undergraduate students , and 114 workers complete this measure as well , just as a check that the ratings of these two groups converged , which they did ( t=0.22 , ns ; r= 0.93 , p < 0.01 ) .
+Procedures For our data collection , our target year was 2005 .
+SERI collected data from participating firms about 2005 ( including turnover rates ) in 2006 .
+Although measures of HCI referenced “ current ” practices , we also asked firms when practices were implemented .
+We removed from our analyses four firms that reported having imple- mented practices in 2006 ( Guthrie , 2001 ; Wright , Gardner , Moynihan , & Allen , 2005 ) .
+We compiled firm per- formance , organizational size , organizational age , capital intensity , industry , and country of origin for the year 2005 from KIS .
+Our reputation measure was administered in 2007 , but with the idea of ( imperfectly ) capturing 2005 reputation .
+We were constrained to 2007 in that we did not know until 2006 what firms were participating in our study .
+We needed this information to assemble our reputation measure .
+Such an approach has been defended in the literature ( Rindova , Williamson , Petkova , & Sever , 2005 ) , as research has shown that reputation is slow to change ( e.g. , Barney , 2001 ; Flanagan & O ’ Shaughnessy , 2005 ; Henderson & Cockburn , 1994 ; Roberts & Dowling , 2002 ) .
+We communicated with the senior HR managers of our participating firms via email .
+We guaranteed their and their firm ’ s confidentiality .
+We have reason to believe that in this context , accuracy in reporting is more likely than in typical organizational surveys .
+This is because it is considered industry-standard practice to belong to SERI ’ s network , and the firms in our sample are accustomed to providing data to SERI for benchmarking reports and industry-level studies .
+To further ensure accurate reporting , SERI promised to send each respondent a customized report including recommendations and developmental feedback .
+To ensure accuracy in the computation of turnover rates , worksheets were provided to the HR managers with the computational formulas thoroughly explained .
+To further assess the clarity of the questions and the accuracy of reporting , we conducted a pilot study with nine participating firms .
+After their completion of the survey , we worked directly with the HR departments of these firms to verify the accuracy of the estimates reported and verify the clarity of our instructions .
+Results indicated accurate reporting .
+The reputation survey was administered during class time .
+Participation was voluntary.We guaranteed confidentiality to the participants .
+One hundred percent of the students solicited to participate completed the survey .
+134 K. KWON AND D. E. RUPP Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 129–150 ( 2013 ) DOI : 10.1002/job Instrumentation Independent variables Senior HR managers provided two data points that were used to calculate both the high-performer turnover rate and the non-high-performer turnover rate ( which was used as a control variable ) for fiscal year 2005 .
+We defined high-performer turnover as the turnover rate among the top 20 percent of performers ( Shaw , Dineen , Fang , & Vellella , 2009 ) and non-high-performer turnover rate as the turnover rate among employees who were not among the top 20 percent of performers .
+Although “ 20 percent ” may seem arbitrary or immeasurable in a U.S. context , in Korea , this is a common metric .
+To further verify this , we interviewed a sub-sample of HR managers who participated in the pilot study .
+They informed us that Korean firms tend to assign the performance appraisal rating of “ A ” to the top 20 percent of performers .
+Such a practice also has some merit in both consulting and research .
+For example , the global consulting group McKinsey & Company uses 20 percent as the cutoff for indentifying top performers ( Axelrod , Handfield-Jones , & Welsh , 2001 ) .
+Further , Shaw et al .
+( 2009 ) provide evidence that although this is certainly not a perfect measure , identifying the top 20 percent of the workforce as high performers may be superior to other metrics .
+To evidence this , they compared a measure that did not set an absolute standard to one with a 20-percent cutoff .
+They argue that when using informants to report on turnover of employees with varying performance levels , by not setting a standard , informants vary in the “ width ” of the performance bands used to calculate turnover , thus contaminating the measure .
+We feel that the empirical support for using an absolute cutoff , coupled with the use of 20 percent both in industry and in South Korea in particular , justifies our use of this measure .
+We assessed both turnover rates ( high performer and non-high performer ) among permanent full-time employees only .
+Although turnover rates in this study assess voluntary turnover , it should be noted that , in Korea , virtually all turnover for permanent full-time employees is voluntary .
+There are strict employment laws in place , making it extremely difficult to terminate employees ( Bae & Rowley , 2001 ; Kim & Bae , 2003 ) .
+A survey conducted by the Korea Labor Institute in 2005 of 1905 Korean establishments indicated that over 90 percent of turnover was voluntary .
+Seven percent of turnover was due to age limits , and turnover due to layoff or discharge was only 2.4 percent .
+Although we can not completely rule out involuntary turnover potentially contaminating our turnover metrics , the likelihood of this is quite low in this particular context .
+To measure voluntary turnover of high-performer and non-high-performer employees , we first asked the senior HR managers : “ What was the workforce turnover rate of permanent full-time employees in 2005 ? ” We further specified that “ Turnover that occurred due to such reasons as age limitations , health , etc .
+should not be included in computing the annual turnover rate. ” Keeping accurate records on turnover is a standard practice in South Korea , and such information would be expected to be readily available to HR managers .
+Second , we asked : “ What percentage of 2005 workforce turnover was by employees in the top 20 percent of performers ? ” To clarify this question , we provided the following formula : ( numbers of leavers who were high performers ) / ( total numbers of leavers ) = ( ) percent .
+On the basis of the responses to these two questions , we computed both high-performer turnover and non-high-performer voluntary turnover rates .
+For example , if overall turnover is 40 percent and the percentage of high-performer turnover in the overall turnover is 10 percent , a high-performer turnover rate is 20 percent [ ( 0.4 0.1 ) / 0.2 ] and non-high-performer turnover rate is 45 percent { [ 0.4 ( 1 0.1 ) ] / 0.8 } .
+We measured human capital investment using 10 items ( three selection items , three training and development items , and four compensation items ) inquiring about the level of investment made in building human capital .
+All questions incorporated a 5-point Likert-type response scale , with 1 indicating strongly disagree and 5 indicating strongly agree .
+Example items included “ This organization selects people according to highly refined selection criteria and procedures , ” “ This organization spends a lot of money on employee training and development , ” and “ This organization bases pay raise decisions on employee performance. ” When measuring organization-wide investment in human capital , we considered that organizations might invest in human capital differently across occupational groups ( Lepak & Snell , 2002 ; Wright & Boswell , 2002 ) .
+Thus , we asked the senior HR managers to evaluate the degree to which HCI was made for managerial and non-managerial workers separately ( Guthrie , HIGH-PERFORMER TURNOVER AND FIRM PERFORMANCE 135 Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 129–150 ( 2013 ) DOI : 10.1002/job 2001 ; Huselid , 1995 ) .
+We averaged the scores of each item for managerial and non-managerial workers .
+As mentioned at the start of the paper , although we used three practices to operationalize HCI , our theoretical arguments are based on a systems or bundling approach ( Snell & Dean , 1992 ) .
+Thus , although we would expect three factors to emerge from this measure , we also expect a reasonable enough amount of internal consistency among the items to justify aggregation across the three HR practices ( which has become common practice ; see Bae & Lawler , 2000 ; Becker & Huselid , 1998 ; Kooij , Jansen , Dikkers , & De Lange , 2010 ; Macky & Boxall , 2007 ; Stavrou , 2005 ; Sun , Aryee , & Law , 2007 ) .
+Results supported this process .
+A confirmatory factor analysis did evidence the existence of three factors , corresponding to selection , training and development , and incentive-based pay ( model w2 = 67.34 , df= 32 ; GFI = 0.92 , IFI = 0.96 , CFI = 0.96 ; Table 1 ) .
+However , the HCI index also showed enough internal consistency to justify aggregation ( a= 0.74 ) .
+The HCI index in this study indicates the extent to which organizations invest in human capital , with higher scores indicating a higher degree of HCI .
+Following the method of Rindova et al .
+( 2005 ) , our reputation measure consisted of a list of our participating firms and instructions asking respondents to choose the 10 firms that they felt had the strongest reputation .
+We used the logarithm of the number of nominations that a firm received as a measure of firm reputation .
+Although it may be argued that a better measure would have been publically available rankings ( e.g. , Business Week and Fortune ) , this was not feasible in our case in that only a few of our participating firms appeared on such lists .
+However , to partially validate our measure , we compiled an incomplete comparative dataset from the 2005 Korea ’ s Most Admired Company list ( Korea Management Association Consulting , 2005 ) , which was assessed by using the method that Fortune uses in evaluating Fortune ’ s America ’ s Most Admired Companies ( see Flanagan & O ’ Shaughnessy , Table 1 .
+Confirmatory factor analysis of human capital investment .
+Human capital investment items Three-factor model 1 2 3 Intensive employee training and development 1 .
+This organization provides employees with a variety of training and development opportunities .
+0.95 ( 0.60 ) ( 0.49 ) 2 .
+This organization spends much money on employee training and development .
+0.93 3 .
+This organization provides employee with structured formal training and development programs .
+0.84 Extensive selection 4 .
+This organization selects people according to highly refined selection criteria and procedures .
+0.71 ( 0.55 ) 5 .
+This organization hires people by utilizing different kinds of selection tools ( interviews , aptitude test , written examination , etc . ) .
+0.84 6 .
+This organization spends much money to select right people .
+0.86 Incentive-based pay 7 .
+This organization bases pay raise decisions on employee performance .
+0.81 8 .
+This organization has wide range in pay within a same job grade .
+0.86 9 .
+This organization extensively utilizes a company-wide profit-sharing and/or a gain-sharing program .
+0.62 10 .
+This organization utilizes seniority-based rewards practices .
+0.58 Fit indices w2 67.35 df 32 w2/df 2.11 GFI 0.92 CFI 0.96 IFI 0.96 Note : The factor correlations are in parentheses .
+136 K. KWON AND D. E. RUPP Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 129–150 ( 2013 ) DOI : 10.1002/job 2005 , for details regarding this method ) .
+This list provides the rankings of 150 Korean firms .
+Our sample contained 44 firms that were included on this list .
+Comparing the two sets of rankings for this subset of firms showed convergence ( r = 0.68 , p < 0.01 ) .
+Dependent variables We assessed firm performance by using two indicators , ROA and return on equity ( ROE ; Delery & Doty , 1996 ; Shaw , Gupta , & Delery , 2005 ) .
+We specifically chose ROA and ROE because these two measures tap the aspect of profit that firms strive to increase .
+ROA is an indicator of how profitable a firm is relative to its total assets ( total liability + total equity ) and shows how much profit is generated for debt and equity investors .
+ROE indicates how much profit a firm generates via its total equity ( the total amount that share- holders have invested ) .
+ROA is computed by dividing net profit by total assets .
+The total assets are the sum of total equity ( i.e. , shareholders ’ value , which can be computed by multiplying outstanding stock by stock price ) , and total liability .
+ROE is computed by dividing net profit by total equity .
+Note that the numerator used in the computation of both ROA and ROE is net profit during one financial year .
+Only the denominator is different for these two measures .
+The denominators of ROA and ROE are total assets and total equity , respec- tively .
+Thus , ROA is typically smaller than ROE , because total assets are larger than total equity .
+This means that although ROA and ROE are expected to be highly correlated , their correlation would never be expected to reach 1.0 .
+In addition , we usually expect more variance in ROE than ROA because the denominator in ROE is smaller than that in ROA ; and thus , ROE is more elastic than ROA .
+As a result , the detection of effects in regression models is more likely for ROE compared with ROA .
+As mentioned earlier , we culled both of these measures from the KIS database .
+Control variables We also compiled control variable data ( with the exception of non-high-performer turnover and union presence ) from KIS .
+We included organization age , measured as the number of years of firm operation , to control for any advantages related to the length of business operation ( e.g. , Guthrie , 2001 ; Huselid , 1995 ) .
+We controlled organization size , computed as the logarithm of number of employees , because larger organizations may have advantages such as economy of scale relative to small organizations ( e.g. , Pfeffer & Salancik , 1978 ) .
+We controlled capital intensity , measured as the logarithm of fixed assets divided by the numbers of employees , because it has been shown to influence firm performance ( Datta et al. , 2005 ) .
+We controlled industry—manufacturing , construction , finance , and other non-manufacturing— in the regression models because firm performance may be influenced by the industry effect ( Datta et al. , 2005 ; Pfeffer & Salancik , 1978 ) .
+We controlled country of origin ( Korean firm versus foreign firms ) in the regression models because this variable could influence firm performance ( as suggested by Bae & Lawler , 2000 ) .
+We controlled union presence because it may influence firm performance ( e.g. , Freeman & Medoff , 1984 ) .
+It was measured via a question in the SERI survey ( “ Is your firm unionized ? ” ) with a response format of “ Yes ” or “ No. ” Analytic strategy Because we predict ( main and interaction ) effects on multiple dependent variables ( ROA and ROE ) , and because the error terms for ROA and ROE regression equations could be correlated , we tested our hypotheses using seemingly unrelated regression ( Zellner , 1962 ) This technique creates efficiencies over ordinary least squares regression and can provide unbiased estimates .
+To address potential multicollinerarity in our data , we mean centered the scores of independent variables prior to computing the interaction terms .
+HIGH-PERFORMER TURNOVER AND FIRM PERFORMANCE 137 Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 129–150 ( 2013 ) DOI : 10.1002/job T ab le 2 .
+C or re la tio ns an d de sc ri pt iv e st at is tic s. V ar ia bl es a M ea n SD 1 2 3 4 5 6 7 8 9 10 11 12 13 1 .
+O rg an iz at io n si ze b 25 26 78 07 2 .
+O rg an iz at io n ag e 25 .0 6 17 .8 2 0 .
+39 ** 3 .
+C ap ita l in te ns ity c 12 .0 4 1 .
+20 0 .
+39 ** 0 .
+33 ** 4 .
+U ni on pr es en ce d 0 .
+41 0 .
+49 0 .
+35 ** 0 .
+22 ** 0 .
+25 ** 5 .
+C ou nt ry of or ig in e 0 .
+06 0 .
+25 0 .1 5 0 .1 1 0 .2 5* * 0 .
+05 6 .
+N on -h ig h- pe rf or m er tu rn ov er 0 .
+09 0 .
+08 0 .3 2* * 0 .0 9 0 .3 0* * 0 .4 2* * 0 .
+11 7 .
+H ig h- pe rf or m er tu rn ov er 0 .
+05 0 .
+13 0 .2 9* * 0 .1 3 0 .2 2* * 0 .3 1* 0 .
+17 * 0 .
+31 ** 8 .
+T ra in in g an d de ve lo pm en t 3 .
+61 0 .
+87 0 .
+29 ** 0 .
+03 0 .
+19 * 0 .1 1 0 .
+04 0 .1 6* 0 .1 3 9 .
+S el ec tio n 3 .
+57 0 .
+76 0 .
+45 ** 0 .
+16 0 .
+21 ** 0 .0 6 0 .0 0 0 .1 0 0 .1 7* 0 .
+55 ** 10 .I nc en tiv e co m pe ns at io n 3 .
+42 0 .
+92 0 .
+04 0 .0 9 0 .0 7 0 .4 2* * 0 .
+08 0 .
+06 0 .1 1 0 .
+45 ** 0 .
+45 ** 11 .H um an ca pi ta l in ve st m en t 3 .
+54 0 .
+69 0 .
+31 ** 0 .
+03 0 .
+13 0 .2 7* * 0 .
+05 0 .0 8 0 .1 7* 0 .
+83 ** 0 .
+80 ** 0 .
+80 ** 12 .F ir m re pu ta tio n 2 .
+13 1 .
+35 0 .
+60 ** 0 .
+17 * 0 .
+28 ** 0 .
+14 0 .
+13 0 .1 5 0 .2 0* 0 .
+23 ** 0 .
+37 ** 0 .
+20 ** 0 .
+32 ** 13 .R et ur n on as se t 7 .
+89 11 .6 9 0 .1 0 0 .1 8* 0 .0 4 0 .0 2 0 .
+02 0 .1 3 0 .2 3* * 0 .
+09 0 .0 5 0 .
+20 * 0 .
+11 0 .0 4 14 .R et ur n on eq ui ty 16 .0 8 35 .2 4 0 .0 1 0 .1 3 0 .0 9 0 .
+03 0 .
+17 * 0 .1 1 0 .4 3* * 0 .
+09 0 .
+02 0 .
+15 0 .
+10 0 .
+01 0 .
+74 ** N ot e : n = 15 5 ex ce pt fo r re tu rn on eq ui ty ( n = 15 2 ) .
+S D , st an da rd de vi at io n. a M ea ns ( s ta nd ar d er ro rs ) fo r th e du m m y in du st ry va ri ab le s w er e as fo llo w s : co ns tr uc tio n , 0 .
+10 ( 0 .2 9 ) ; fi na nc e , 0 .
+09 ( 0 .2 8 ) ; m an uf ac tu ri ng , 0 .
+46 ( 0 .5 0 ) ; an d no n- m an uf ac tu ri ng , 0 .
+35 ( 0 .4 7 ) .
+b N um be rs of em pl oy ee s. c L og ar ith m of fi xe d as se ts /th e nu m be r of em pl oy ee s. d 1 = un io ni ze d , 0 = no n- un io ni ze d. e 1 = K or ea n fi rm s , 0 = fo re ig n fi rm s. C or re la tio ns be tw ee n un io n pr es en ce an d co un tr y or ig in ( c at eg or ic al va ri ab le s ) an d th e ot he r va ri ab le s ar e S pe ar m an co rr el at io ns ; al l ot he rs ar e P ea rs on co rr el at io ns .
+*p < 0 .
+05 .
+** p < 0 .
+01 .
+138 K. KWON AND D. E. RUPP Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 129–150 ( 2013 ) DOI : 10.1002/job Results We provide means , standard deviations , and intercorrelations of all variables in Table 2 .
+Intercorrelations were similar to those found in past research and were reflective of the relationships implied by our hypotheses .
+A few of these correlations are notable .
+For example , as expected , the correlations between high-performer turnover rate and ROA ( r =0.23 , p < 0.01 ) and between high-performer turnover rate and ROE ( r =0.43 , p < 0.01 ) are significant and negative .
+Organization size is significantly positively correlated with firm reputation ( r= 0.60 , p < 0.01 ) as past research suggests ( e.g. , Cable & Graham , 2000 ; Flanagan & O ’ Shaughnessy , 2005 ; Greenwood , Li , Prakash , & Deephouse , 2005 ) , further justifying our decision to control for size in our subsequent analyses .
+Additionally , HCI is correlated with firm reputation ( r= 0.32 , p < 0.01 ) .
+This implies that diverse constituents ( i.e. , consumers , employees ) positively evaluate firms that invest in human capital , which could promote corporate image and reputation .
+However , non-high-performer turnover rate and HCI are not significantly correlated with firm performance .
+Hypothesis 1 predicted a ( negative ) main effect of high-performer turnover on firm performance .
+As is shown in Table 3 , after accounting for our control variables , we find a significant negative effect of high-performer turnover on both ROA and ROE , with these effects accounting for 6 and 20 percent of the variance , respectively .
+Note that here too we do not see a significant effect of non-high-performer turnover on either firm performance measure .
+This supports the refinement of turnover theory as suggested here and elsewhere ( e.g. , Schwab , 1991 ; Staw , 1980 ) , that high-performer turnover be given special attention .
+These findings lend support for Hypothesis 1 .
+Table 4 provides the results of our moderation tests .
+To be comprehensive and to aid future research in this area , we report our findings for HCI as a bundled measure ( as we have operationalized it in this study ) as well as for the separate HR practices .
+Although the moderation results are largely similar , we look to Models 9 and 14 for results pertinent to Hypothesis 2 , in that our theory of HCI is based on a systems or bundling approach ( Snell & Dean , 1992 ) .
+Hypothesis 2 proposed that HCI would moderate the effect of high-performer turnover on firm performance Table 3 .
+Seemingly unrelated regression results for high-performer turnover and firm performance .
+Variables ROA ROE Model 1 Model 2 Model 3 Model 4 Organization size 0.08 0.13 0.02 0.05 Organization age 0.13 0.14† 0.10 0.12 Capital intensity 0.00 0.03 0.09 0.13 Union presence 0.02 0.03 0.06 0.05 Country of origin 0.01 0.02 0.02 0.02 Industry Construction 0.04 0.08 0.08 0.15* Finance 0.12 0.12 0.03 0.03 Non-manufacturing 0.16† 0.14† 0.20* 0.17* Non-high-performer turnover 0.20* 0.14 0.15 0.04 High-performer turnover 0.27*** 0.49*** R2 0.11 0.17 0.08 0.28 F statistic 2.04* 3.09** 1.37 5.83*** Note .
+n = 152 .
+Standardized regression coefficients are shown .
+The omitted industry variable is manufacturing .
+The results of separate ordinary least squares regressions using 155 firms for return on asset ( ROA ) and 152 firms for return on equity ( ROE ) showed that the significance levels of the coefficient of a high-performer turnover variable were not changed .
+†p < 0.10 ; *p < 0.05 ; **p < 0.01 ; ***p < 0.001 .
+HIGH-PERFORMER TURNOVER AND FIRM PERFORMANCE 139 Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 129–150 ( 2013 ) DOI : 10.1002/job T ab le 4 .
+S ee m in gl y un re la te d re gr es si on re su lts fo r th e m od er at in g ro le of hu m an ca pi ta l in ve st m en t an d fi rm re pu ta tio n on th e re la tio ns hi p be tw ee n hi gh -p er - fo rm er tu rn ov er an d fi rm pe rf or m an ce .
+V ar ia bl es R O A R O E M od el 5 M od el 6 M od el 7 M od el 8 M od el 9 M od el 10 M od el 11 M od el 12 M od el 13 M od el 14 O rg an iz at io n si ze 0 .2 2* 0 .1 7 0 .2 0† 0 .2 1† 0 .2 4* 0 .0 9 0 .0 1 0 .0 9 0 .0 4 0 .1 0 O rg an iz at io n ag e 0 .1 4 0 .1 4† 0 .1 3 0 .1 3 0 .1 4 0 .1 4* 0 .1 3† 0 .1 2† 0 .1 2† 0 .1 3† U ni on pr es en ce 0 .0 0 0 .0 3 0 .0 7 0 .
+04 0 .
+03 0 .
+05 0 .
+02 0 .
+07 0 .
+07 0 .
+05 C ap ita l in te ns ity 0 .0 6 0 .0 3 0 .0 4 0 .0 5 0 .0 6 0 .1 3† 0 .1 0 0 .1 4† 0 .1 2 0 .1 4† C ou nt ry of or ig in 0 .0 3 0 .0 1 0 .0 3 0 .0 5 0 .0 3 0 .
+04 0 .
+06 0 .
+05 0 .
+02 0 .
+05 In du st ry C on st ru ct io n 0 .
+06 0 .
+06 0 .
+07 0 .
+09 0 .
+07 0 .
+11 0 .
+11 0 .
+13 † 0 .
+16 * 0 .
+12 † F in an ce 0 .1 3† 0 .1 3† 0 .1 4† 0 .1 4† 0 .1 4† 0 .
+04 0 .
+03 0 .
+03 0 .
+03 0 .
+03 N on -m an uf ac tu ri ng 0 .
+11 0 .
+11 0 .
+11 0 .
+11 0 .
+12 0 .
+18 * 0 .
+15 † 0 .
+17 * 0 .
+18 * 0 .
+19 * N on -h ig h- pe rf or m er tu rn ov er 0 .1 0 0 .0 7 0 .1 0 0 .1 3 0 .1 1 0 .
+00 0 .
+12 0 .
+00 0 .0 3 0 .0 1 H ig h- pe rf or m er tu rn ov er ( H P T ) 0 .5 2* 0 .5 6* 0 .5 1* 0 .2 6* * 0 .5 3* 0 .9 7* ** 1 .1 4* ** 1 .0 2* ** 0 .4 9* ** 0 .9 9* ** In te ns iv e tr ai ni ng an d de ve lo pm en t ( I T D ) 0 .
+12 0 .
+07 E xt en si ve se le ct io n ( E S ) 0 .0 1 0 .0 8 In ce nt iv e co m pe ns at io n ( I C ) 0 .
+21 * 0 .
+14 † H um an ca pi ta li nv es tm en t ( H C I ) 0 .
+15 † 0 .
+16 † 0 .
+07 0 .
+10 F ir m re pu ta tio n ( F R ) 0 .
+03 0 .
+06 0 .0 0 0 .
+05 0 .
+01 0 .1 3 0 .0 5 0 .1 4† 0 .0 7 0 .1 6† H P T *I T D 0 .
+22 † 0 .
+60 ** * H P T *E S 0 .
+31 0 .8 2* ** H P T *I C 0 .
+16 0 .
+59 ** * H P T *H C I 0 .
+24 0 .
+74 ** * H P T *F R 0 .4 4* 0 .
+01 0 .4 0† 0 .5 0* 0 .9 7* ** 0 .
+14 1 .0 5* ** 1 .1 9* ** R 2 0 .
+21 0 .
+19 0 .
+22 0 .
+19 0 .
+21 0 .
+47 0 .
+37 0 .
+43 0 .
+28 0 .
+43 F st at is tic 2 .
+92 ** * 2 .
+51 ** 3 .
+01 ** * 2 .
+89 ** * 2 .
+84 ** * 9 .
+44 ** * 6 .
+48 ** * 8 .
+25 ** * 4 .
+98 ** * 7 .
+99 ** * N ot e : n = 15 2 .
+S ta nd ar di ze d re gr es si on co ef fi ci en ts ar e sh ow n. T he re su lts of se pa ra te or di na ry le as ts qu ar es re gr es si on s us in g 15 5 fi rm s fo r re tu rn on as se ts ( R O A ) an d 15 2 fi rm s fo r re tu rn on eq ui ty ( R O E ) w er e ne ar ly id en tic al in te rm s of th e si gn ifi ca nc e of va ri ab le s of in te re st s. P os t ho c an al ys es sh ow ed th er e w as 3- w ay in te ra ct io n ( h ig h pe rf or m er tu rn ov er , hu m an ca pi ta l in ve st m en t , an d fi rm re pu ta tio n ) ef fe ct on fi rm pe rf or m an ce ( R O A , p < 0 .
+10 ; R O E , p < 0 .
+01 ) .
+† p < 0 .
+10 ; *p < 0 .
+05 ; ** p < 0 .
+01 ; ** *p < 0 .
+00 1 , tw o- ta ile d te st s. 140 K. KWON AND D. E. RUPP Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 129–150 ( 2013 ) DOI : 10.1002/job such that the effect would be stronger for firms low on HCI .
+As is shown in Models 9 and 14 of Table 4 , we detected a significant interaction for ROE but not for ROA .
+To explore the nature of the interaction , we plotted the simple main effects separately for firms with one standard deviation above and one standard deviation below the mean of HCI and conducted simple slopes analysis ( Aiken & West , 1991 ) to test these effects .
+As is shown in Figure 2 , the effect of high-performer turnover on firm performance is markedly stronger for firms low in HCI ( b =60.9 , p < 0.01 ) , compared with those firms high in HCI ( b =8.9 , p < 0.05 ) .
+Thus , Hypothesis 2 is supported for ROE .
+Hypothesis 3 predicted a moderating effect of firm reputation on the relationship between high-performer turnover and firm performance such that the negative effect of high-performer turnover would be stronger for reputable firms .
+As is shown in Table 4 , a significant interaction between high-performer turnover and reputation was detected for both ROA ( p < 0.05 ) and ROE ( p < 0.01 ) .
+The nature of these interactions is illustrated in Figure 3 .
+As expected , the effect of high-performer turnover on both firm performance measures was markedly stronger for reputable firms ( ROA , b=11.9 , p < 0.01 ; ROE , b=76.8 , p < 0.01 ) , as compared with less reputable firms ( ROA , b= 0.34 , ns ; ROE , b = 7.3 , ns ) .
+This provides support for Hypothesis 3 .
+Discussion Summary The current study argued , on the basis of human capital theory , social capital theory , and the cost–benefit perspective , that high-performer turnover would negatively impact firm performance but that this relationship would be weaker for less reputable firms and firms with higher HCI .
+First , following the advocacy of past research ( e.g. , Hollenbeck & Williams , 1986 ; Schwab , 1991 ; Steel et al. , 2002 ; Sturman et al. , 2003 ) , we refine past arguments made about the high cost of turnover and predict that the lion ’ s share of human and social capital loss comes from the exiting of high-performing employees .
+Our data supported this line of reasoning .
+High-performer turnover significantly predicted firm performance , whereas the turnover of the remaining workforce did not .
+With regard to HCI , we proposed that firms who invested less in human capital would face a larger negative impact of high-performer turnover than those that invest more .
+Although this buffering effect may be somewhat lessened by a lowered return on investment for firms with high HCI , because such firms over time build up their High human capital investment ( 1 s.d .
+above sample mean ) Low human capital investment ( 1. s.d .
+below sample mean ) ROE High Low High0 percent +1 s.d .
+High-Performer Turnover Low Figure 2 .
+Moderating effect of firms ’ human capital investment on the relationship between high-performer turnover and firm performance HIGH-PERFORMER TURNOVER AND FIRM PERFORMANCE 141 Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 129–150 ( 2013 ) DOI : 10.1002/job human capital pool , these firms can more resiliently bounce back from the loss of talent and look to their labor pool for high-quality replacements .
+Our findings supported this hypothesis for ROE but not for ROA .
+Perhaps our inability to detect a significant interaction effect on ROA was due to the general difficulty in detecting moderator effects due to low statistical power ( Aguinis & Pierce , 2008 ) .
+Another reason may be , as discussed in the methods section , whereas the numerator used to compute both ROA and ROE is net profit during one financial year , the denominator for these computations is total assets and total equity , respectively .
+Because total assets are larger than total equity , we expect more variance in ROE than in ROA , and , as a result , a higher likelihood of detecting significant effects .
+With regard to reputation , we argued that a strong reputation allows a firm to amass an especially high- performing workforce ; and as such , replacing lost top talent is especially challenging .
+Thus , although firm performance is expected to be greater for reputable firms , the loss of high performers is expected to impact performance significantly .
+Although less reputable firms would be expected to have a lower level of firm perfor- mance , we would expect high-performer turnover to have less of an effect , as the replacement of these perfor- mers ( high for the less reputable firms , but potentially more moderate on average ) would be easier .
+Results ( a ) ( b ) 0 percent ROA High Low High+1 s.d .
+High-Performer Turnover Stronger reputation ( 1 s.d .
+above sample mean ) Weaker reputation ( 1. s.d .
+below sample mean ) Low ROE Low High0 percent +1 s.d .
+High-Performer Turnover Stronger reputation ( 1 s.d .
+above sample mean ) Weaker reputation ( 1. s.d .
+below sample mean ) High Low Figure 3 .
+Moderating effect of firm reputation on the relationship between high-performer turnover and firm performance 142 K. KWON AND D. E. RUPP Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 129–150 ( 2013 ) DOI : 10.1002/job confirmed our hypothesis .
+We found firm performance to be highest for reputable firms with low high-performer turnover and lowest for reputable firms with high high-performer turnover .
+Less reputable firms showed perfor- mance levels between these two points ; and for these firms , the effects of high-performer turnover on firm performance was significantly less .
+Strengths and limitations This paper provides promising results and future research directions related to the relationship between high- performer turnover and firm performance .
+This is the first study of which we are aware to investigate this link empirically and , as such , the first to investigate moderators of this link .
+We feel that our approach had multiple methodological strengths , including a large sample of firms , data compiled from three different sources , and the use of objective measures of turnover and firm performance .
+Despite these strengths , our study also contained limitations that limit how confident we can be in the generalizability of our results .
+First , it is possible that social desirability could have influenced HR managers ’ reporting on HCI .
+Although a legitimate concern , we do not feel social desirability was a problem for the current dataset for three reasons .
+First , if social desirability did influence our measure , the result would be decreased variance in HCI .
+This would increase our Type II error rate , making it more difficult to detect significant effects .
+So if anything , our analyses with regard to HCI represent a conservative test ; and the removal of social desirability , if it were possible , would likely result in more robust estimates .
+Second , we have reason to believe that our HR managers were conscientious responders .
+The firms comprising the SERI HR Community are known for keeping meticulous HR records .
+Third , although more objective measures may have been better , the use of senior HR representative as informants has been advocated for in the literature ( Huselid & Becker , 2000 ) .
+A second potential limitation of the current study was that our reputation measure was collected from students .
+Although these individuals may be only partially representative of the type of individuals who would decide to apply to , take jobs , and stay in or leave our participating firms , they do represent new entrants to the workforce and thus are not completely inappropriate for judging these organizations .
+Despite this , we did collect some additional data and carry out some additional analyses to address this possibility .
+First , we identified the firms in our dataset ( 44 firms ) for which there was also public reputation data available .
+The correlation between our student participants ’ rankings and these rankings was large and significant ( r = 0.68 , p < 0.01 ) .
+Second , our analyses on an additional sample of students and workers suggested that these two groups did not have differential perceptions regarding firm reputation .
+That said , future research should certainly explore these issues further .
+A third limitation of our study was the cross-sectional nature of our data ( i.e. , we were focused primarily on a single fiscal year ) .
+Although we could have potentially modeled the effect of high-performer turnover in 2005 on firm performance in 2006 , this does not get us closer to testing causality and in fact may even present erroneous results .
+Firms can actively react to high-performer turnover by revising their HR practices ( as evidence by Gardner , 2005 ) .
+That is , just predicting 2006 performance with 2005 high-performer turnover rate without consideration of firms ’ active reaction to high-performer turnover ( i.e. , change in HCI ) may lead to erroneous conclusions .
+For good measure , we reran our analyses in this way and found the relationship to be non-significant .
+However , we caution readers to carefully interpret this null finding , as it does not necessarily mean that high-performer turnover is unrelated to firm performance .
+To understand the true causality between high-performer turnover and firm performance , panel data are needed , with measures of both high-performer turnover and firm performance in both Years 1 and 2 ( which we did not have ) .
+Thus , lacking panel data , we think that showing the “ relationship ” between high-performer turnover and firm performance in the same year ( 2005 ) was the best alternative .
+Future research is sorely needed to more thoroughly vet these causality issues .
+Such work might also consider developing theoretical rationale and testing for an effect of firm performance on high-performer turnover .
+As a reviewer pointed out to us , high performers might detect and respond to perceived organizational problems .
+For example , high performers may be the most able to leave if they perceive poor HIGH-PERFORMER TURNOVER AND FIRM PERFORMANCE 143 Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 129–150 ( 2013 ) DOI : 10.1002/job leadership or ineffective strategic decision making .
+This would suggest a non-recursive effect where ( potentially yet undetected ) lowered firm performance causes high-performer turnover , which causes a decrease in firm performance ( i.e. , a feedback loop ) .
+As a post hoc analysis , we reran our analyses with firm performance as the independent var- iable and high-performer turnover as the independent variable .
+Results showed that firm performance influenced high-performer turnover ( for ROA , b =0.003 , p < 0.01 , ΔR2 = 0.05 ; for ROE , b =0.002 , p < 0.01 , ΔR2 = 0.17 ) .
+However , this result should be interpreted with care in that the analysis did not include necessary control variables , such as high-performers ’ perceptions of firm decline , and controls for various leaver demographics , which could in- fluence the dependent variable in this case .
+Future research should explore this issue further .
+A fourth potential limitation is that our HCI measure did not distinguish between general and firm-specific HCI , which could differentially impact the replacement costs of high-performer turnover .
+Similarly , our measure was not able to detect if firms invest human capital differently for high performers and non-high performers .
+Such differences could affect the magnitude of the moderating effect of HCI on the relationship between high-performer turnover and firm performance .
+Future HCI measures should strive to capture these nuances .
+However , despite our lack of precision here , we would argue that firms that invest more in any human capital ( compared with those who do not ) may stand to better mitigate the replacement costs of high-performer turnover , owing to the increased human capital among those who stay .
+Thus , although the magnitude of the effects may be attenuated by the lack of precision , we doubt that that they would reverse .
+If anything , ours was a conservative test of the proposed model .
+As noted by Staw , “ What makes the task of understanding turnover difficult is the possibility of multiple and conflicting outcomes .
+In addition , it is likely that these outcomes are each conditioned by several moderating variables adding further complexity to the picture ” ( 1980 , p. 254 ) .
+Fifth , although our model implied the causal mechanisms inherent to our effects ( human capital , social capital , and cost–benefits ) , these mechanisms were not measured .
+Future research is needed that tests the actual depletion of these variables resulting from the loss of high performers .
+In addition , future research should replicate these findings on firms based in countries other than South Korea .
+This would increase the international generalizability of the detected effects .
+Theoretical contributions and future research Research on employee turnover has proposed that high-performer turnover negatively influences firm performance ( e.g. , Price , 1977 ; Schwab , 1991 ; Staw , 1980 ) .
+In practice , firms operating in the current turbulent economy have competed for valuable human capital not only to increase their own performance but also to diminish the competitive advantage of their competitors ( Gardner , 2005 ) .
+This dynamic market competition for valuable human capital among firms stems from the belief that attracting and retaining high performers is a critical factor for firms ’ success and survival .
+Despite this fact , there is a dearth of research on the impacts of high-performer turnover .
+We derived our hypotheses from human capital theory , social capital theory , and the cost–benefit perspective .
+From this theoretical platform , we predicted and confirmed the moderating effect of HCI and reputation on the relationship between high-performer turnover and firm performance .
+However , additional boundary conditions might exist .
+For example , production technology and work independence ( e.g. , Mobley , 1982 ; Staw , 1980 ) could also moderate the impact of high-performer turnover .
+That is , organizations using technology based on reciprocal , high interdependence ( i.e. , the output of one process becomes the input of other processes ) will suffer more from high- performer turnover than organizations using technology based on serial , relatively low interdependence , because the impact of high-performer turnover under reciprocal interdependence on operational disruption is significantly wider and more severe ( Thompson , 1967 ) .
+Moreover , our findings provide insights regarding the long-running debate surrounding the functional form of the turnover–performance relationship .
+Research has posited the relationship to be linear ( e.g. , Batt , 2002 ; Huselid , 1995 ; Kacmar , Andrews , Van Rooy , Steilberg , & Cerrone , 2006 ) , quadratic ( e.g. , negative but attenuated as turnover increases , Shaw , Gupta , & Delery , 2005 ; an inverted-U , Glebbeek & Bax , 2004 ) , or contingent upon HCI ( Arthur , 144 K. KWON AND D. E. RUPP Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 129–150 ( 2013 ) DOI : 10.1002/job 1994 ; Guthrie , 2001 ) .
+Empirical evidence informing this debate remains ambiguous .
+The ambiguity regarding the form of this relationship may stem from the fact that overall turnover as measured in the aforementioned studies conflates two different types of turnover , high-performer turnover and non-high-performer turnover , which have differing impacts on firm performance .
+As our analyses showed , we saw very little effect of non-high-performer turnover , whereas the effects of high-performer turnover were large .
+Additional research is needed that demar- cates performance levels of those who choose to stay at and leave the organization .
+Relatedly , individual-level studies on employee turnover have argued that the relationship between individual performance and turnover is non-linear , with both high-performing and low-performing employees showing higher probabilities of leaving as compared with average-performing workers ( Jackofsky , 1984 ; Salamin & Hom , 2005 ; Trevor , Gerhart , & Boudreau , 1997 ) .
+We are not able to ascertain if this pattern held for our participating firms in that both average and low performers were aggregated in our non-high-performer turnover measure .
+Future research might consider obtaining turnover rates of employees at multiple performance levels to further sort out these issues and to test whether our model is indeed relevant to high-performing workers only ( and not to average- performing workers ) .
+Another avenue for future research lies in the demarcation of HCI and high-performance HR practices .
+The strategic HR literature continues to debate the nature of the HR practices–firm performance relationship .
+Scholars argue that just the existence of HR practices does not guarantee increased firm performance .
+Rather , it is how they are implemented that matters ( e.g. , Barney & Wright , 1998 ; Bowen & Ostroff , 2004 ) .
+Although this was not a focus of our study , and we are not in a good position to explore these issues , we do think research that begins to separate the if and the how would make an important contribution .
+Related to this is the debate about how both HCI and HR practices should be modeled .
+The first approach we took in this paper was an additive approach .
+This approach identifies groups of HR practices ( typically confirmed via factor analysis ) but then combines them in computing an overall metric ( e.g. , Delery , 1998 ) .
+Although this approach has been widely used ( e.g. , Bae & Lawler , 2000 ; Batt , 2002 ; Snell & Dean , 1992 ; Sun et al. , 2007 ) , it does tend to underestimate the synergy effect of HR practices ( Batt , 2002 ; Delery , 1998 ) .
+We chose the additive approach because this approach is conservative , because it helps us easily interpret the HCI coefficient ( e.g. , Delery , 1998 ) , and because it allowed us to measure HCI as a continuous variable .
+A second approach is a multiplicative approach , which overcomes the underestimation of synergy by multiplying the scores of individual HR practices ( Delery , 1998 ) .
+This approach was not chosen for our study because it is susceptible to multicolinearity and because the resulting coefficient is much more difficult to directly interpret ( Delery , 1998 ) .
+To be comprehensive and to explore this issue further , we reran our analyses post hoc modeling HCI in this way and found far less support for our model .
+We think this speaks to the importance of operationalizing ones variables a priori and seeking measures and computation techniques that are as aligned as possible with this operationalization .
+Future research will need to continue to sort out these issues .
+A third approach is a clustering approach , where a set of HR practices are bundled into clusters by either inspecting the pattern or degree of usage of HR practices or using statistical techniques such as cluster analysis ( Arthur , 1992 , 1994 ; Ichniowski , Shaw , & Prennushi , 1997 ) .
+Such a cluster might represent “ innovative ” HR practices ( e.g. , Ichniowski et al. , 1997 ) and “ commitment ” HR practices ( e.g. , Arthur , 1994 ) .
+For example Ichniowski et al .
+( 1997 ) explored the differential effects of “ innovative ” versus “ traditional ” HR systems on firm performance .
+Although this approach allows for the meaningful categorizing of HR practices , it has drawbacks due to ambiguity and subjectivity in bundling HR practices .
+We did not choose this approach because the practices comprising our HCI measure did not suggest meaningful clusters and because the goal of our study was not to compare the differential effects of separate practices ( although for completeness , Table 2 does present the results of the effects of individual practices ) .
+As our goal was to assess the HCI as a global construct , the additive approach seemed the most appropriate .
+That said , future research might consider further exploring the implications of using these different approaches for our understanding of HCI/HRM phenomena .
+Finally , HCI obviously involves significant organizational costs ( e.g. , Cappelli & Neumark , 2001 ) ; and thus , varying amounts of HCI could influence firm performance depending on the return on this investment .
+As we HIGH-PERFORMER TURNOVER AND FIRM PERFORMANCE 145 Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 129–150 ( 2013 ) DOI : 10.1002/job mentioned earlier , future research in this domain might consider making more fine-grained distinctions between general and firm-specific human capital .
+Human capital theory predicts that that whereas a rational firm should invest in firm-specific human capital by sharing the costs involved in developing human capital with employees , the firm should not invest in general human capital because the benefits of general human capital developed by a firm ’ s investment belong only to employees ( Milgrom & Roberts , 1992 ) .
+In other words , when employee turnover occurs in a firm that invests in general human capital , this firm bears the full cost .
+However , for a firm that invests in firm-specific human capital , employees ’ turnover costs could be less because the capital that is lost will not necessarily benefit the firms to which the employees transfer .
+Despite this , firms ’ investment in general human capital is often observed ( e.g. , Glebbeek & Bax , 2004 ) .
+If a firm invests in developing exclusively general human capital , the costs of turnover might be much larger compared with firms investing in firm-specific human capital .
+Of course , other replacement costs also need to be considered , further complicating this issue , and thus furthering the need for more research on the topic of the effects of turnover .
+Practical implications The results of our study are practically meaningful .
+Considering our effect sizes , it can be concluded on the basis of our data that if high-performer turnover increases 1 percent from the mean , we can expect a 3.0 and 8.2 percent decrease in ROA and ROE , respectively .
+This suggests that high-performer turnover significantly reduces firms ’ profitability and suggests that firms need to pay special attention to high-performer turnover to maintain and increase firm performance .
+Particularly , in the current knowledge-based ( and turbulent ) economy , firms seek high performers from other firms because such individuals could bring with them valuable knowledge and information .
+It therefore becomes important that firms implement high-performer attraction and retention strategies .
+Otherwise , their competitors may hire away valuable employees , which could result in significant damage to firm performance .
+This study also provides firms with the insight that although high-performer turnover has a detrimental impact on firm performance , this effect can depend on the organizational context .
+This study showed that the most severe effects of high-performer turnover were for reputable firms and firms that made lower investments in human capital .
+What this potentially means is that reputable firms can not rest on their laurels .
+Although a reputation can allow a firm to build large amounts of human and social capital , unless this capital is maintained , replacing top talent that leaves could become more and more difficult .
+In addition , although firms that have suffered from high levels of high-performer turnover may try to reduce HCI to minimize the costs incurred from the loss of top talent , our results suggest that this may not necessarily be an appropriate strategic choice .
+Although longitudinal data are needed to confirm these various implications , the current findings are indeed suggestive .
+Conclusion In conclusion , we showed evidence for a negative relationship between high-performer turnover and firm perfor- mance—a link that has been discussed theoretically but not yet tested empirically .
+Furthermore , we took into account the moderating role of HCI and firm reputation on this relationship .
+This study revealed complexities involved in turnover phenomena and provided practical implications for managers tasked with developing strategic plans for managing high-performer turnover .
+Future turnover research that takes into account diverse organizational contexts and the implications of performance levels will not only contribute to the accumulating body of knowledge in this area but will also provide practitioners with useful guidelines regarding how employee turnover can be better managed .
+146 K. KWON AND D. E. RUPP Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 129–150 ( 2013 ) DOI : 10.1002/job Author biographies Kiwook Kwon is an assistant professor of human resources and organizational behavior in the School of Business at Konkuk University in Seoul , Korea .
+His research interests include strategic human resource management , relationships between employee turnover and firm performance , organizational justice , and top talent management .
+Deborah Rupp is the William C. Byham Chair in Industrial/Organizational Psychology , Department of Psychological Sciences , and an affiliated faculty member in the Krannert School of Management , at Purdue University .
+She conducts research on multilevel organizational behavior and human resources issues , justice , emotion , and social responsibility and is currently the editor of the Journal of Management .
+References Abelson , M. A. , & Baysinger , B. D. ( 1984 ) .
+Optimal and dysfunctional turnover : Toward an organizational level model .
+Academy of Management Review , 9 , 331–341 .
+Aguinis , H. , & Pierce , C. A .
+( 2008 ) .
+The frustrating search for interaction effects .
+In D. Barry , & H. Hansen ( Eds .
+) , The Sage handbook of new approaches in management and organization ( pp .
+152–153 ) .
+Thousand Oaks , CA : Sage .
+Aiken , L. S. , & West , S. G. ( 1991 ) .
+Multiple regression : Testing and interpreting interactions .
+Newbury Park , CA : Sage .
+Alexander , J .
+A. , Bloom , J. R. , & Nuchols , B .
+A .
+( 1994 ) .
+Nursing turnover and hospital efficiency : An organizational-level analysis .
+Industrial Relations , 33 , 505–520 .
+Arthur , J .
+B .
+( 1992 ) .
+The link between business strategy and industrial relations systems in American steel minimills .
+Industrial & Labor Relations Review , 45 , 488–506 .
+Arthur , J .
+B .
+( 1994 ) .
+Effects of human resource systems on manufacturing performance and turnover .
+Academy of Management Journal , 37 , 670–687 .
+Axelrod , E. L. , Handfield-Jones , H. , & Welsh , T. A .
+( 2001 ) .
+The war for talent , part two .
+McKinsey Quarterly , 2 , 9–12 .
+Bae , J. , & Lawler , J. J .
+( 2000 ) .
+Organizational and HRM strategies in Korea : Impact on firm performance in an emerging economy .
+Academy of Management Journal , 43 , 502–517 .
+Bae , J. , & Rowley , C. ( 2001 ) .
+The impact of globalization on HRM : The case of South Korea .
+Journal of World Business , 36 , 402–428 .
+Barnard , C. I .
+( 1938 ) .
+The functions of the executive .
+Cambridge , MA : Harvard University Press .
+Barney , J .
+B .
+( 1991 ) .
+Firm resources and sustained competitive advantage .
+Journal of Management , 17 , 99–120 .
+Barney , J .
+B .
+( 2001 ) .
+Is the resource based “ view ” a useful perspective for strategic management research ?
+Yes .
+Academy of Management Review , 26 , 41–56 .
+Barney , J. , & Wright , P. ( 1998 ) .
+On becoming a strategic partner : The role of human resources in gaining competitive advantage .
+Human Resource Management , 37 ( 1 ) , 31–46 .
+Batt , R. ( 2002 ) .
+Managing customer services : Human resource practices , quit rates , and sales growth .
+Academy of Management Journal , 45 , 587–597 .
+Becker , G. ( 1964 ) .
+Human capital .
+New York , NY : Columbia University Press .
+Becker , B. E. , & Huselid , M. A .
+( 1998 ) .
+High performance work systems and firm performance : A synthesis of research and managerial implications .
+In K. M. Rowland , & G. R. Ferris ( Eds .
+) , Research in Personnel and Human Resource Management ( Vol .
+16 , 53–101 ) .
+Greenwich , CT : JAI Press .
+Beltran-Martin , I. , Roca-Puig , V. , Escrig-Tena , A. , & Bou-Llusar , J. C. ( 2008 ) .
+Human resource flexibility as a mediating variable between high performance work systems and performance .
+Journal of Management , 34 , 1009–1044 .
+Bluedorn , A. C. ( 1978 ) .
+A taxonomy of turnover .
+Academy of Management Review , 3 , 647–651 .
+Bowen , D. E. , & Ostroff , C. I .
+( 2004 ) .
+Understanding HRM-FIRM performance linkage : The role of the “ strength ” of the HRM system .
+Academy of Management Review , 29 , 203–221 .
+van Breukelen , W. , van der Vlist , R. , & Steensma , H. ( 2004 ) .
+Voluntary employee turnover : Combining variables from the ‘ traditional ’ turnover literature with the theory of planned behavior .
+Journal of Organizational Behavior , 25 , 893–914 .
+Burt , R. S. ( 1992 ) .
+Structural holes .
+Cambridge , MA : Harvard University Press .
+Cable , D. M. , & Graham , M. E. ( 2000 ) .
+The determinants of job seekers ’ reputation perceptions .
+Journal of Organizational Behavior , 21 , 929–947 .
+Cappelli , P. , & Neumark , D. ( 2001 ) .
+External job churning and internal job flexibility .
+Industrial Relations , 43 , 148–182 .
+Cascio , W. F. ( 1991 ) .
+Costing human resources : The financial impact of behavior in organizations .
+Boston , MA : PWS-Kent .
+Cascio , W. F. ( 1995 ) .
+Managing human resources : Productivity , quality of work life , profits .
+New York , NY : McGraw-Hill .
+HIGH-PERFORMER TURNOVER AND FIRM PERFORMANCE 147 Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 129–150 ( 2013 ) DOI : 10.1002/job Cascio , W. F. , & Boudreau , J. W. ( 2008 ) .
+Investing in people : Financial impact of human resource initiatives .
+Upper Saddle River , NJ : FT Press .
+Chang , S. ( 2003a ) .
+Ownership structure , expropriation , and performance of group-affiliated companies in Korea .
+Academy of Management Journal , 46 , 238–253 .
+Chang , S. ( 2003b ) .
+Financial crisis and transformation of Korean business groups .
+Cambridge : Cambridge University Press .
+Chang , S. , & Hong , J .
+( 2000 ) .
+Economic performance of group-affiliated companies in Korea : Intragroup resource sharing and internal business transactions .
+Academy of Management Journal , 43 , 429–448 .
+Coleman , J. S. ( 1988 ) .
+Social capital in the creation of human capital .
+The American Journal of Sociology , 94 , 95–120 .
+Cross , R. , & Cummings , J. N. ( 2004 ) .
+Tie and network correlates of individual performance in knowledge-intensive work .
+Academy of Management Journal , 47 , 928–937 .
+Dalton , D. R. , & Todor , W. D. ( 1979 ) .
+Turnover turned over : An expanded and positive perspective .
+Academy of Management Review , 4 , 225–235 .
+Dalton , D. R. , & Todor , W. D. ( 1982 ) .
+Turnover : A lucrative hard dollar phenomenon .
+Academy of Management Review , 7 , 212–218 .
+Dalton , D. R. , Todor , W. D. , & Krackhardt , D. M. ( 1982 ) .
+Turnover overstated .
+The functional taxonomy .
+Academy of Management Review , 7 , 117–123 .
+Datta , D. K. , Guthrie , J. P. , & Wright , P. M. ( 2005 ) .
+Human resource management and labor productivity : Does industry matter ?
+Academy of Management Journal , 48 , 135–145 .
+Delery , J. E. ( 1998 ) .
+Issues of fit in strategic human resource management : Implications for research .
+Human Resource Management Review , 8 , 289–309 .
+Delery , J. E. , & Doty , D. H. ( 1996 ) .
+Modes of theorizing in strategic human resource management : Tests of universalistic , contingency , and configurational performance predictions .
+Academy of Management Journal , 39 , 802–835 .
+Dess , G. G. , & Shaw , J. D. ( 2001 ) .
+Voluntary turnover , social capital , and organizational performance .
+Academy of Management Review , 26 , 446–456 .
+Donnelly , D. P. , & Quirin , J. J .
+( in press ) .
+An extension of Lee and Mitchell ’ s unfolding model of voluntary turnover .
+Journal of Organizational Behavior .
+doi:10.1002/job.367 Farrell , S. , & Hakstain , A. R. ( 2001 ) .
+Improving salesforce performance : A meta-analytic investigation of effectiveness and utility of personnel selection procedures and training interventions .
+Psychology and Marketing , 18 , 281–316 .
+Flanagan , D. J. , & O ’ Shaughnessy , K. C. ( 2005 ) .
+The effect of layoffs on firm reputation .
+Journal of Management , 31 , 445–463 .
+Fombrun , C. ( 1996 ) .
+Reputation : Realizing value from the corporate image .
+Boston , MA : Harvard Business School Press .
+Freeman , R. B. , & Medoff , J. L. ( 1984 ) .
+What do unions do ?
+New York , NY : Basic Books .
+Gardner , T. M. ( 2005 ) .
+Interfirm competition for human resources : Evidence from the software industry .
+Academy of Management Journal , 48 , 237–256 .
+Glebbeek , A. C. , & Bax , E. H. ( 2004 ) .
+Is high employee turnover really harmful ?
+An empirical test using company records .
+Academy of Management Journal , 38 , 291–313 .
+Greenwood , R. L. , Li , S. X. , Prakash , R. , & Deephouse , D. L. ( 2005 ) .
+Reputation , diversification , and organizational explanations of performance in professional service firms .
+Organization Science , 16 , 661–673 .
+Griffeth , R. W. , Hom , P. W. , & Gaertner , S. ( 2000 ) .
+A meta-analysis of antecedents and correlates of employee turnover : Update , moderator tests , and research implications for the next millennium .
+Journal of Management , 26 , 463–488 .
+Guthrie , J. P. ( 2001 ) .
+High-involvement work practices , turnover , and productivity : Evidence from New Zealand .
+Academy of Management Journal , 44 , 180–190 .
+Henderson R. , & Cockburn I .
+( 1994 ) .
+Measuring competence ?
+Exploring firm effects in pharmaceutical research .
+Strategic Management Journal , 15 ( Winter Special Issue ) , 63–74 .
+Hollenbeck , J. R. , & Williams , C. R. ( 1986 ) .
+Turnover functionality versus turnover frequency : A note on work attitudes and organizational effectiveness .
+Journal of Applied Psychology , 71 , 606–611 .
+Huselid , M. A .
+( 1995 ) .
+The impact of human resource management practices on turnover , productivity , and corporate financial performance .
+Academy of Management Journal , 38 , 635–672 .
+Huselid , M. A. , & Becker , B. E. ( 2000 ) .
+Comment on “ Measurement error in research on human resources and firm performance : How much error is there and how does it influence effect size estimates ? ” by Gerhart , Wright , MaMahan , and Snell .
+Personnel Psychology , 53 , 835–854 .
+Ichniowski , C. , Shaw , K. , & Prennushi , G.. ( 1997 ) .
+The effects of human resource management practices on productivity : A study of steel finishing lines .
+American Economic Review , 87 , 291–313 .
+Jackofsky , E. F. ( 1984 ) .
+Turnover and job performance : An integrated process model .
+Academy of Management Review , 9 , 74–83 .
+Jung , K. , & Kwon , S. Y .
+( 2002 ) .
+Ownership structure and earnings informativeness : Evidence from Korea .
+The International Journal of Accounting , 37 , 301–325 .
+Kacmar , K. M. , Andrews , M. C. , Van Rooy , D. L. , Steilberg , R. C. , & Cerrone , S. ( 2006 ) .
+Sure everyone can be replaced .
+.
+.But at what cost ?
+Turnover as a predictor of unit-level performance .
+Academy of Management Journal , 49 , 133–144 .
+148 K. KWON AND D. E. RUPP Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 129–150 ( 2013 ) DOI : 10.1002/job Kim , D. , & Bae , J .
+( 2003 ) .
+Employment relations and HRM in South Korea .
+Hampshire , England : Ashgate Publishing Limited .
+Kooij , T. A. M. , Jansen , P. G. W. , Dikkers , J. S. E. , & De Lange , A. H. ( 2010 ) .
+The influence of age on the associations between HR practices and both affective commitment and job satisfaction : A meta-analysis .
+Journal of Organizational Behavior , 31 , 1111–1136 .
+Korea Labor Institute .
+( 2005 ) .
+Workplace panel survey 2005. http : //www.kli.re.kr/wps/en/about/introduce.jsp Korea Management Association Consulting .
+( 2005 ) .
+2005 Korea ’ s Most Admired Company .
+Retrieved from http : //www.kmac .
+co.kr/certify/certify_01a_4.asp Leana , C. R. , & Van Buren , H. J .
+( 1999 ) .
+Organizational capital and employment practices .
+Academy of Management Review , 24 , 538–555 .
+Lee , T. W. , & Mowday , R. T. ( 1987 ) .
+Voluntary leaving an organization : An empirical investigation of Steer ’ s and Mowday ’ s model of turnover .
+Academy of Management Journal , 30 , 721–743 .
+Lepak , D. P. , & Snell , S. A .
+( 2002 ) .
+Examining the human resource architecture : The relationships among human capital , employment , and human resource configurations .
+Journal of Management , 28 , 517–543 .
+Macky , K. , & Boxall , P. ( 2007 ) .
+The relationship between ‘ high-performance work practices ’ and employee attitudes : An investigation of additive and interaction effects .
+International Journal of Human Resource Management , 18 , 537–567 .
+March , J. G. , & Simon , H. ( 1958 ) .
+Organizations .
+New York , NY : Wiley .
+Milgrom , P. , & Roberts , J .
+( 1992 ) .
+Economics , organization & management .
+Upper Saddle River , NJ : Prentice-Hall .
+Mobley , W. H. ( 1982 ) .
+Some unanswered questions in turnover and withdrawal research .
+Academy of Management Review , 7 , 111–116 .
+Muchinsky , P. M. , & Turtle , M. L. ( 1979 ) .
+Employee turnover : An empirical and methodological assessment .
+Journal of Vocational Behavior , 14 , 43–77 .
+Nahapiet , J. , & Ghoshal , S. ( 1998 ) .
+Social capital , intellectual capital , and the organizational advantage .
+Academy of Management Review , 23 , 242–266 .
+Osterman , P. ( 1987 ) .
+Turnover , employment security , and the performance of the firm .
+In M. Kleiner ( Ed .
+) , Human resources and the performance of the firm ( 275–317 ) .
+Madison , WI : Industrial Relations Research Association .
+Pfeffer , J .
+( 2001 ) .
+Fighting the war for talent is hazardous to your organization ’ s health .
+Organizational Dynamics , 29 , 248–259 .
+Pfeffer , J. , & Salancik , G. R. ( 1978 ) .
+The external control of organizations : A resource dependence perspective .
+New York , NY : Harper & Row .
+Price , J. L. ( 1977 ) .
+The study of turnover .
+Ames , IA : Iowa State University Press .
+Rindova , V. P. , Williamson , I. O. , Petkova , A. P. , & Sever , J. M. ( 2005 ) .
+Being good or being known : An empirical examination of the dimensions , antecedents , and consequences of organizational reputation .
+Academy of Management Journal , 48 , 1033–1049 .
+Roberts , P. W. , & Dowling , G. R. ( 2002 ) .
+Corporate reputation and sustained superior financial returns .
+Strategic Management Journal , 23 , 1077–1093 .
+Salamin , A. , & Hom , P. W. ( 2005 ) .
+In search of the elusive U-shaped performance-turnover relationship : Are high performing Swiss bankers more liable to quit ?
+Journal of Applied Psychology , 90 , 1204–1216 .
+Schwab , D. P. ( 1991 ) .
+Contextual variables in employee performance-turnover relationships .
+Academy of Management Journal , 34 , 966–975 .
+Shaw , J. D. , Duffy , M. K. , Johnson , J. L. , & Lochhart , D. E. ( 2005 ) .
+Turnover , social capital losses , and performance .
+Academy of Management Journal , 48 , 594–606 .
+Shaw , J. D. , Gupta , N. , & Delery , J. E. ( 2005 ) .
+Alternative conceptualizations of the relationship between voluntary turnover and organizational performance .
+Academy of Management Journal , 48 , 50–68 .
+Shaw , J. D. , Dineen , B. R. , Fang , R. , & Vellella , R. F. ( 2009 ) .
+Employee-organization exchange relationships , HRM practices , and quit rate of good and poor performers .
+Academy of Management Journal , 52 , 1016–1033 .
+Snell , S. A. , & Dean , J. W. ( 1992 ) .
+Integrating manufacturing and human resource management : A human capital perspective .
+Academy of Management Journal , 35 , 467–504 .
+Stavrou , E. T. ( 2005 ) .
+Flexible work bundles and organizational competitiveness : A cross-national study of the European work context .
+Journal of Organizational Behavior , 26 , 923–947 .
+Staw , B. M. ( 1980 ) .
+The consequence of turnover .
+Journal of Occupational Behavior , 1 , 253–273 .
+Steel , R. P. , Griffeth , R. W. , & Hom , P. W. ( 2002 ) .
+Practical retention policy for the practical manager .
+The Academy of Management Executive , 16 , 148–164 .
+Strober , M. H. ( 1990 ) .
+Human capital theory : Implications for HR managers .
+Industrial Relations , 29 , 214–239 .
+Sturman , M. C. , Trevor , C. O. , Boudreau , J. W. , & Gerhart , B .
+( 2003 ) .
+Is it worth it to win the talent war ?
+Evaluating the utility of performance-based pay .
+Personnel Psychology , 56 , 997–1035 .
+Sun , L. , Aryee , S. , & Law , K. S. ( 2007 ) .
+High-performance human resource practices , citizenship behavior , and organizational performance : A relational perspective .
+Academy of Management Journal , 50 , 558–577 .
+Thompson , J. D. 1967 .
+Organizations in action : Social science bases of administration .
+New York : McGraw-Hill .
+HIGH-PERFORMER TURNOVER AND FIRM PERFORMANCE 149 Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 129–150 ( 2013 ) DOI : 10.1002/job Trevor , C. O. , Gerhart , B. , & Boudreau , J. W. ( 1997 ) .
+Voluntary turnover and job performance : Curvilinearity and the moderating influences of salary growth and promotions .
+Journal of Applied Psychology , 82 , 44–61 .
+Turban , D. B. , & Cable , D. M. ( 2003 ) .
+Firm reputation and applicant pool characteristics .
+Journal of Organizational Behavior , 24 , 733–751 .
+World Bank .
+( 2004 ) .
+Korea , Republic of—Report on the observance of standards and codes ( ROSC ) —Accounting and auditing .
+Retrieved from http : //go.worldbank.org/PUM0O6M920 Wright , P. M. , & Boswell , W. R. ( 2002 ) .
+Desegregating HRM : A review and synthesis of micro and macro human resource management research .
+Journal of Management , 28 , 247–276 .
+Wright , P. M. , Gardner , T. M. , Moynihan , L. M. , & Allen , M. R. ( 2005 ) .
+The relationship between HR practices and firm performance : Examining causal order .
+Personnel Psychology , 58 , 409–446 .
+Wright , P. M. , McMahan , G. C. , & McWilliams , A .
+( 1994 ) .
+Human resources and sustained competitive advantage : A resource- based perspective .
+International Journal of Human Resource Management , 5 , 301–326 .
+Yanadori , Y. , & Kato , T. ( 2007 ) .
+Average employee tenure , voluntary turnover ratio , and labour productivity : Evidence from Japanese firms .
+International Journal of Human Resource Management , 18 , 1841–1857 .
+Zellner , A .
+1962 .
+An efficient method of estimating seemingly unrelated regressions and tests for aggregation bias .
+Journal of the American Statistical Association , 57 , 348–368 .
+150 K. KWON AND D. E. RUPP Copyright © 2012 John Wiley & Sons , Ltd. J. Organiz .
+Behav .
+34 , 129–150 ( 2013 ) DOI : 10.1002/job

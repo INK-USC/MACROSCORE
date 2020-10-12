@@ -1,0 +1,758 @@
+Luo_JournMarketRes_2013_51pD.pdf
+aVBqzjdxab5AZPm0o09O.mk_vY2i-Luo_JournMarketRes_2013_51pD.pdf.plain.html
+
+Journal of Marketing Research Vol .
+L ( February 2013 ) , 24–43 *Lan Luo is Assistant Professor of Marketing ( e-mail : lluo @ marshall .
+usc.edu ) , and Botao Yang is Assistant Professor of Marketing ( e-mail : botaoyan @ marshall.usc.edu ) , Marshall School of Business , University of Southern California .
+Brian T. Ratchford ( corresponding author ) is Charles and Nancy Davidson Distinguished Professor of Marketing at the School of Management , University of Texas at Dallas ( e-mail : btr051000 @ utdallas .
+edu ) .
+The authors thank the review team , as well as seminar participants at Harvard University , National University of Singapore , University of Col- orado at Boulder , and the Sixth Annual UT Dallas FORMS Conference for helpful comments .
+Ron Shachar served as associate editor for this article .
+LAN LUO , BRIAN T. RATCHFORD , and BOTAO YANG* Consumers ’ time allocation decisions among various activities are fundamental to marketing research and consumer behavior .
+The authors construct a dynamic panel data model to examine how consumers allocate time to a portfolio of leisure activities over time .
+The data comprise a longitudinal panel in which the authors tracked 287 U.S. consumers ’ time use , consumption motives , and expertise measures on a weekly basis from January to June 2011 .
+This is the first empirical research to examine the underlying mechanisms that guide the dynamics of an individual ’ s activity consumption .
+The authors demonstrate that expertise contributes to the perceived benefits of an activity , which in turn leads to high value associated with it .
+Expertise also directly influences value obtained from an activity .
+This expertise , in turn , is acquired over time through past consumption .
+This finding implies a chain from expertise to value to time use and back to expertise , which may lead consumers to form a lifestyle in which they specialize in a subset of activities they know well .
+Consequently , expertise can be regarded as a key variable that explains lifestyle choices .
+Keywords : time use , leisure activities , lifestyles , expertise , multiple discrete- continuous model Why We Do What We Do : A Model of Activity Consumption © 2013 , American Marketing Association ISSN : 0022-2437 ( print ) , 1547-7193 ( electronic ) 24 Although the majority of extant literature in marketing emphasizes consumers ’ choices of goods such as food , transportation , and recreation , ultimately goods are bought to be used in consumption activities such as eating , driving , or playing sports and games .
+Often , consumers also need to invest their scarce time ( referred to as “ the ultimate scarcity ” in Howard and Sheth [ 1969 ] and Jacoby , Szybillo , and Berning [ 1976 ] ) into the consumption of these activi- ties .
+For example , an individual ’ s decision to invest time in an activity ( e.g. , engage in arts and crafts , play video games ) is often a necessity before he or she decides to pur- chase the goods ( e.g. , raw materials , tools , video games and consoles ) associated with the consumption .
+Therefore , a careful investigation of how consumers allocate time to these activities may enhance researchers ’ understanding of how consumers make subsequent purchase decisions .
+Activity consumption also has an enormous economic impact on the U.S. economy .
+In 2010 , U.S. consumers spent approximately $ 30 billion on crafts and hobbies ( Craft and Hobby Association 2011 ) and $ 25.1 billion on video games , consoles , and accessories ( Entertainment Software Associa- tion 2011 ) .
+Consequently , a better understanding of the underlying mechanisms that guide an individual ’ s time allo- cation decisions across various activity types is essential to marketing research and consumer behavior .
+Furthermore , by examining the dynamics of consumers ’ activity consumption and time allocation decisions over time , we can also obtain insights into how lifestyles are formed .
+Lifestyle often serves as an important segmentation and targeting tool in marketing .
+Despite the fundamental role of consumer time allocation in marketing , there has not been much quantitative research that empirically investigates why and how a person allo- cates time to a portfolio of activities over time .
+The primary goal of this research is to fill this gap in the literature by constructing a consumer panel to examine how individual consumers make time allocation decisions among a portfo- A Model of Activity Consumption 25 lio of activities over an extended period .
+Specifically , our empirical investigation emphasizes the critical role of con- sumer expertise in the dynamics of an individual ’ s time allocation decisions .
+In particular , we documented 287 U.S. consumers ’ time use , consumption motives , and expertise measures on five leisure activities on a weekly basis from January to June 2011 .
+We operationalize our research within the context of leisure activity consumption because ( 1 ) the choices of leisure activities are largely discretionary , ( 2 ) they involve a considerable amount of a consumer ’ s time , and ( 3 ) they not only represent an essential part of consumer life but also play a major role in the U.S. economy .
+To our knowledge , this is the first empirical study to track not only a panel of individuals ’ time allocation dynamics but also the evolution of their consumer expertise and consumption motives over time .
+Furthermore , we develop a dynamic panel data model to examine how the underlying drivers specified in our theoretical framework jointly affect consumers ’ activity choices and time allocation decisions .
+Our research is built on two streams of prior literature .
+The first stream relies on psychological or sociological theories to explain consumer ’ s activity consumption or lifestyle choices .
+This literature tends to use qualitative approaches to examine the different types of needs that are satisfied by engaging in a given activity ( e.g. , Ajzen and Driver 1992 ; Celsi , Rose , and Leigh 1993 ; Holbrook et al .
+1984 ; Holt 1995 ) .
+This literature also suggests that people ’ s consumption patterns ( lifestyle , as in Wells 1974 , 1975 ) reveal personality traits , such as budget-mindedness ( e.g. , Lastovicka 1982 ; Mitchell 1983 ) ; individual identities , such as yuppies ( e.g. , DiMaggio and Ostrower 1990 ; Richins 1994 ) ; or social roles , such as social class , gender , and eth- nicity ( e.g. , Holt 1997 ) .
+The second stream of research involves using quantita- tive methods to investigate consumers ’ time allocation deci- sions or household life cycles .
+For example , Becker ( 1965 ) and Ratchford ( 2001 ) propose theoretically that the alloca- tion of time among different activities is determined by a person ’ s effort to maximize the total utility he or she receives from all the activities .
+Following this utility maxi- mization framework , several researchers have conducted cross-sectional time use studies ( e.g. , Bhat 2005 ; Gronau and Hamermesh 2008 ; Holbrook and Lehmann 1981 ; Kamakura 2009 ; Sener et al .
+2008 ) .
+Others use a series of cross-sectional data to examine macro patterns of intertem- poral time use ( e.g. , Hamermesh 2008 ; Juster and Stafford 1991 ) and expenditure patterns over household life cycles ( Du and Kamakura 2006 ) .
+Studies of time use employing panels are scarce .
+Habib , Miller , and Axhausen ( 2008 ) use data from a panel of six weeks but only to compare esti- mates from weekly cross-sections without examining within-subject variation over time .
+Using data for a 12-week period , Spissu et al .
+( 2009 ) study within-subject variation over the 12 weeks for six broad activity categories , plus an “ other ” activity .
+However , they employed only household and location characteristics as predictors and neglected internal drivers of time use such as motives and expertise .
+We contribute to both streams of literature by studying the factors that guide the dynamics of an individual ’ s activ- ity choices and consumption patterns .
+We illustrate that expertise contributes to perceived benefits ( i.e. , hedonic , social , and self-efficacy ) of an activity , which in turn leads to high value associated with activity consumption .
+Expert- ise also directly influences value obtained from an activity .
+This expertise , in turn , is acquired over time through past consumption .
+This cycle implies a chain from expertise to value to time use and back to expertise , which may lead consumers to evolve their consumption around a subset of activities that they know well .
+To the extent that the result- ing set of activities can be viewed as a lifestyle , expertise may be regarded as a key variable that explains lifestyle choices .
+To our knowledge , this is the first empirical study that documents how expertise and value recursively drive time allocation dynamics .
+We also contribute to the extant research by proposing a unified framework that sheds light on the dynamics of a person ’ s time use decisions .
+We organize the remainder of the article as follows : First , we discuss the theoretical framework of this research .
+Sec- ond , we present the model , describe the empirical data , and discuss the findings .
+Finally , we conclude by summarizing results and discussing implications , limitations , and avenues for further research .
+THEORETICAL FRAMEWORK Figure 1 presents a schematic illustration of the theoreti- cal framework that guides our empirical analysis .
+In what follows , we discuss how we conceptualize this framework in correspondence to prior literature .
+The basic premise of our theory is that an individual ’ s knowledge of how to per- form an activity ( i.e. , expertise as defined in Alba and Hutchinson 1987 ) plays an integral role in his or her time allocation decisions .
+First , we propose that expertise deter- mines the magnitudes of consumption benefits produced by a given activity , which in turn affect the value an individual obtains from consumption .
+Such consumption benefits rep- resent the needs that are satisfied by engaging in a given activity .
+Within our context , the various benefits discussed in the leisure activity literature ( e.g. , Ajzen and Driver 1992 ; Arnould and Price 1993 ; Celsi , Rose , and Leigh 1993 ; Hills , Argyle , and Reeves 2000 ; Holt 1995 ; Manfredo , Driver , and Tarrant 1996 ; Unger and Kernan 1983 ) can be broadly clas- sified under the following three categories proposed by Celsi , Rose , and Leigh ( 1993 ) : ( 1 ) hedonic ( sensory pleas- ure , enjoyment , fun ) , ( 2 ) social ( satisfaction from interact- ing with others , need to conform to others ’ wishes ) , and ( 3 ) self-efficacy ( personal growth , achievement ) .
+Different activities may provide these benefits to varying degrees .
+We demonstrate our rationale for the effects of expertise on the hedonic , social , and self-efficacy benefits in the fol- lowing example .
+The activity of watching baseball is likely to be boring for someone who knows little about the game ( low hedonic value ) but may be exciting ( high hedonic value ) to an expert familiar with the game and its subtleties ( Holt 1995 ) .
+Celsi , Rose , and Leigh ( 1993 ) also show that the hedonic benefit of skydiving progresses from thrill to pleasure to a sense of flow as a skydiver ’ s experience increases and that a skydiver ’ s self-efficacy benefit from skydiving progresses from survival to achievement to an altered personal identity as experience increases .
+In addi- tion , Celsi , Rose , and Leigh indicate that novice skydivers merely want to conform to group norms , intermediate-level sky divers achieve a sense of group identity , and expert sky divers create and share a special worldview .
+26 JOURNAL OF MARKETING RESEARCH , FEBRUARY 2013 F ig ur e 1 T H E O R E T IC A L F R A M E W O R K Ex pe rti se t Co ns um pt io n Be ne fit s t + 1 Ti m e U se t + 1 Ex pe rti se t + 1 Co ns um pt io n Be ne fit s t + 2 Ti m e U se t + 2 Ex pe rti se t + 2 Co ns um pt io n Be ne fit s t + 3 St at e D ep en de nc e t M on et ar y Co st t + 1 St at e D ep en de nc e t + 1 M on et ar y Co st t + 2 N ot es : W e us e bo ld li ne s in th e fi gu re to r ep re se nt th e di re ct a nd in di re ct im pa ct s of e xp er tis e. A Model of Activity Consumption 27 In addition to the indirect effect of expertise outlined pre- viously , there may also be a direct effect of expertise on activity consumption .
+Specifically , Ajzen and Driver ( 1992 ) find that perceived behavioral control has a direct effect on the consumption of leisure activities after factors similar to the benefits described previously are controlled for .
+Per- ceived behavioral control is defined as the perceived ease or difficulty of performing a behavior , which is essentially identical to Alba and Hutchinson ’ s ( 1987 ) definition of expertise .
+Basically , even if a given activity is perceived as yielding a given level of hedonic , social , or self-efficacy benefits , a consumer who lacks expertise may eschew par- ticipation .
+This implies that expertise should be included as a predictor along with measures of consumption benefits in a model of time allocation .
+To the extent that different activities require similar skills , there may also be spillovers in which expertise at one activity increases the attractive- ness of another activity that requires similar skills ( Ratch- ford 2001 ) .
+For example , because water sports enhance a person ’ s stamina and strength , participation in such sports may boost the attractiveness of workout for a consumer .
+We also examine such expertise spillover effects in our model .
+The final link to expertise in our model is that expertise is produced by repeated consumption .
+In other words , past con- sumption plays an important role in developing expertise at a given activity ( Ratchford 2001 ; Stigler and Becker 1977 ) .
+This is consistent with Alba and Hutchinson ’ s ( 1987 ) observation that expertise results from familiarity , which is derived from a comprehensive literature review .
+As a result , we propose that expertise evolves over time through past consumption .
+Using this cycle of increasing expertise , satisfaction , and activity consumption , utility-maximizing consumers may form a tendency to allocate time toward a subset of activi- ties at which they excel .
+Therefore , consumer expertise may be viewed as a key variable that drives consumption pat- terns and lifestyle choices .
+A manifestation of this in the context of product consumption is that past experiences with a brand ( brand capital ) appear to be an important driver of current consumption of the brand ( Bronnenberg , Dubé , and Gentzkow 2012 ) .
+Aside from the state dependence induced by the relation- ships described previously , there are other possible reasons for the existence of state dependence in leisure activity choices .
+Some possible sources of other effects are inertia ( Jeuland 1979 ) , risk aversion ( Erdem and Keane 1996 ) , and/or desire for novelty and stimulation ( McAlister and Pessemier 1982 ) .
+Following the prior literature in product consumption ( e.g. , Dubé , Hitsch , and Rossi 2010 ; Erdem 1996 ; Erdem and Sun 2001 ; Seetharaman 2004 ; Seethara- man , Ainslie , and Chintagunta 1999 ) , these possibilities are accounted for by including lagged consumption terms in our model .
+Last , we include monetary costs ( prices ) required for engaging in these activities into the model to capture the possibility that , ceteris paribus , people may allocate more time to less costly activities .
+MODEL DEVELOPMENT The theory outlined in the preceding section implies the need for the following models : ( 1 ) a model of time alloca- tion in which time allocated to a given activity is related to the three consumption motives and expertise , as outlined previously ; ( 2 ) a model of the relation between consump- tion motives and expertise ; and ( 3 ) a model of the evolution of expertise with past consumption .
+We have panel data spanning 20 weeks in which consumers reported their time allocation weekly to the following leisure activities : arts and crafts , running/jogging , video games , workout , water sports , and all others .
+( We explain our rationale for choosing these activities in detail in the “ Empirical Analysis ” section . )
+Our unit of analysis is a week , and we want to examine ( 1 ) how people allocate time to these activities in a given week , ( 2 ) whether consumption benefits increase with expertise , and ( 3 ) whether the latter is enhanced by past consumption .
+Table 1 summarizes the measures required for constructing the three models .
+We discuss how these were operational- ized in the “ Data ” section .
+In what follows , we discuss the specifics of our model development .
+Time Allocation Model The time allocation model we use is built on Kim , Allenby , and Rossi ( 2002 ) and Bhat ( 2005 ) .
+This model pro- vides a suitable framework in our context because ( 1 ) it is flexible enough to accommodate the possibility of an indi- vidual undertaking different activity mixes over different time periods , ( 2 ) it accounts for not only the choice but also the time use of each activity type , and ( 3 ) it allows for cor- ner solutions where an individual does not participate in one or more activities in any given period .
+First , we examine a model that accounts for individual i ’ s consumption in J activity types during a time horizon of M periods .
+Within a time period t ( e.g. , a week ) , consumer i chooses to allocate time ijt ( e.g. , hours ) to activity type j , with ijt .
+Specifically , the utility consumer i derives from allocating time ijt to the J activity types at period t is defined as follows : where ijt represents the baseline utility associated with activity type j ( which is a function of activity-specific char- acteristics ) , ijt denotes time spent , and j and j are parame- ters of the utility function .
+As discussed in Kim , Allenby , and Rossi ( 2002 ) and Bhat ( 2005 ) , the utility form in Equa- tion 1 belongs to a family of translated utility functions , where the role of the translation parameter j is to enable corner solutions and the purpose of j is to capture potential differences in satiation rates across activity types ( low satia- tion when j 1 and high satiation when j 0 ) .1 We further follow a standard random utility specification and introduce a multiplicative random error ijt into the baseline marginal utility ijt as follows : ( 2 ) ijt = exp ( Vijt + ijt ) .
+∑ ( ) = ψ τ +γ = α ( 1 ) U , it ijt j 1 J ijt j j 1Although our model is flexible enough to accommodate different rates of satiation , it is possible that returns to time spent on some activities fol- low an inverted U-shaped relationship , as McAlister ( 1982 ) suggests .
+However , there must be diminishing returns to each activity at the point of observed time allocations ; otherwise , a corner solution in which only one activity is chosen will result ( Bhat 2005 ; Kim , Allenby , and Rossi 2002 ; Samuelson and Nordhaus 2001 ) .
+Consequently , our model should be a good approximation within the range of observed time allocations , even though it may not capture some part of the utility function .
+28 JOURNAL OF MARKETING RESEARCH , FEBRUARY 2013 Substituting the preceding expression of ijt into Equation 1 , the overall utility takes the following functional form : Given that consumer i is maximizing the overall utility Uit subject to the total time he or she invests on leisure activities during time period t ( i.e. , Jj = 1 ijt = Tit ) , we can solve the optimal time allocation problem by forming the Lagrangian .
+Given the additive-separable utility structure defined in Equation 3 , the model can be applied to any sub- set of goods as long as an identification condition that at least one alternative is chosen during each time period t is satisfied ( Bhat 2005 ) .
+In our study , this condition is satis- fied for the category “ other leisure activities ” ( all con- sumers indicated nonzero time spent on the outside alterna- tive during our 20-week study ) , leading to its being chosen as the numeraire ( activity 1 ) .2 Therefore , we can solve the optimal time allocation model by applying the Kuhn– Tucker conditions in Equation 4 .
+It is important to note that these conditions are on marginal utility and that the shadow price of time ( e.g. , the Lagrange multiplier [ ) , has been substituted out and does not enter directly into these condi- ∑ { } ( ) ( ) = + ε⎡⎣ ⎤⎦ τ + γ α = ( 3 ) U exp V .it ijt ijt ijt j j 1 J j tions .
+Because the shadow price of time is constant across activity types , it does not have a differential effect on their relative valuation : For activity j = 2 , … , J , the deterministic component Vijt in Equation 4 can be expressed as follows ( for details on variable definitions , see Table 1 ) : In Equation 5 , the intercept 0ij captures the unobserved heterogeneity in consumer i ’ s intrinsic preference toward activity j. Z1j , Z2j , and Z3j measure the impacts from the three consumption benefits .
+We included gender dummies , Z1j = bZ1j + bfemale_j1 × Female , Z2j = bZ2j + bfemale_j2 × Female , and Z3j = bZ3j + bfemale_j3 × Female in Equation 5 ( ) ( ) + ε = + ε τ > = + ε < + ε τ = = = + α + α − τ + γ = ( 4 ) V V if 0 with j 2 , 3 , ... , J V V if 0 with j 2 , 3 , ... , J , where V V ln 1 ln with j 1 , 2 , ... , J. ijt ' ijt i1t ' i1t ijt ijt ' ijt i1t ' i1t ijt ijt ' ijt j j ijt j ∑ = β + β + β + β + ϕ + δ τ + β′ ′ = ′ ′ − − ( 5 ) V Z Z Z s K X .
+ijt 0ij Z1j ijt1 Z2 j ijt2 Z3j ijt3 jj j 1 J ijj ij , t 1 ij ij , t 1 ijx ijt Notation Definition Measurea ijt Time spent by respondent i in activity j in week t Weekly self-report of time spent at each activity Zijt1 Scale measuring hedonic benefit of activity j in week t to respondent i Three-item scale administered weekly for each activity ( Cronbach ’ s = .892 ) Zijt2 Scale measuring social benefit of activity j in week t to respondent i Four-item scale administered weekly for each activity ( Cronbach ’ s = .899 ) Zijt3 Scale measuring self-efficacy benefit of activity j in week t to respondent i Four-item scale administered weekly for each activity ( Cronbach ’ s = .857 ) Kijt – 1 Scale measuring expertise of respondent i at activity j at the end of t – 1 Six-item scale administered weekly for each activity ( Cronbach ’ s = .937 ) sijj Scale measuring respondent i ’ s perception of similarity in skill required for activities j and j Rating of each pair of activities ( 10 pairs ) on a seven-point scale , ranging from requiring very different skills to requiring very similar skills ; collected only in first week sijj Kijt – 1 Expertise spillover from j to j , measured as interaction between expertise at j and similarity between j and j Product of the preceding two scales Xijt Monetary cost per hour to respondent i for activity j at time t Self-report of estimated hourly monetary cost in dollars for participating in this activity administered weekly Eijt Scale measuring respondent i ’ s desire to explore further about activity j at time t Three-item scale administered weekly for each activity ( Cronbach ’ s = .812 ) FLijt Measures of friend and family influence on social benefit of activity j at time t Ratings on a seven-point scale whether friends like the activity and whether family likes the activity Table 1 LIST OF VARIABLES EMPLOYED IN THE EMPIRICAL MODEL aAppendix B addresses measurement in detail .
+2Alternatively , we could define the numeraire as consumption of all other activities ( e.g. , total time available [ 168 hours a week ] ) less time spent on the five focal activities .
+Under the additive-separable utility framework in Bhat ( 2005 ) , the marginal utility of the other leisure activity and all other ( includ- ing nonleisure ) activities in general are equal to one another , which is the common shadow price of time ( Equation 4 ) .
+Therefore , in principle , either one could be used as the numeraire .
+In addition , adopting all other activities as the outside alternative would raise issues of whether the assumed additive- separable utility structure would continue to hold ( e.g. , certain time expen- ditures such as work and personal care may not be entirely discretionary ) and would also create difficulties in estimation due to the greatly different time allocations between all other goods and the focal leisure goods ( see Kim , Allenby , and Rossi 2002 ) .
+Consequently , we believe that the time allocation model , with its additive-separable utility structure , is most likely to hold when alternatives serve the same general purpose and are entirely discretionary , such as leisure activities .
+The approach of focusing on a lim- ited set of leisure activities has been employed elsewhere ( e.g. , Bhat 2005 ) .
+Kim , Allenby , and Rossi ( 2002 ) also provide a discussion of the relative merits of discrete-continuous choice models confined to one category ver- sus those that define an outside alternative in terms of all other goods .
+A Model of Activity Consumption 29 to capture the potential gender effects in these parameter estimates ( e.g. , men may take greater pleasure in playing video games than women ) .
+We use the parameter jj to cap- ture the direct impact of expertise .
+When j = j , this term captures influence from expertise at the focal activity j .
+When j j , the term jj gauges whether there is expertise spillover between the activity pair j and j ( with jj = j j ) .
+As we noted in the “ Theoretical Framework ” section , expertise spillovers account for the possibility that people may find an activity more attractive when they can use their expertise in other activities that utilize similar skills .
+Finally , ij reflects the nature of state dependence , and ijx is the parameter estimate related to monetary cost .
+Given that consumer i ’ s time use in activity j during the initial time period of our panel study may reflect the con- sumer ’ s prior intrinsic preference for the activity , we adopt the method proposed in Erdem and Sun ( 2001 ) and Wooldridge ( 2005 ) to treat the initial observations in our panel data .
+Specifically , we assume that the individual- and activity-specific intercept term in Equation 5 , 0ij , can be expressed as follows : with Ai being a vector of exogenous variables that may reflect the initial condition of the participant ( e.g. , age , gen- der , region of residence , early involvement ) and ij1 being the amount of time individual i spent on activity type j dur- ing the initial period of the panel data ( i.e. , first week ) , and 2 0j being the variance term .
+To address the possibility that consumers may be hetero- geneous in their state dependence as well as their sensitivity to the monetary cost required by the activity , we use random coefficients for the parameters associated with these variables .
+Because the self-reported hourly monetary cost measure may be endogenous ( a person may spend more money on an activity because it produces more satisfaction ) , we adopt the control function approach that Petrin and Train ( 2010 ) describe to address this issue .
+Appendix A presents details of this endogeneity control .
+As for the outside alternative , given that it may represent a diverse array of activities , we did not collect data on bene- fits or expertise for this activity .
+We also normalize its inter- cept and coefficients of its activity-invariant variables ( age , gender , and region of residence ) to zero to provide a base for the focal activities ( see Equation A4 in Appendix A ) .
+Thus , we use only initial period time use to estimate the deterministic component of the outside alternative ’ s base- line utility .
+Finally , we partition the error term in Equation 2 into two independent components , ijt and wijt .
+We assume the first component , ijt , to be standard i.i.d .
+double exponential distri- bution .
+The second component is specified as wijt = jwij , t–1 + ijt , with the vector it = ( i1t , i2t , … , iJt ) following a time-invariant multivariate normal distribution with a mean of zero and a variance–covariance matrix .
+The parame- ter j captures the degree of serial correlation in the unob- served error terms over time.3 In addition , the variance– Λ ( ) β + + λ τ σA ( 6 ) ~ N b , ,0ij j i j j ij1 0 j2 covariance matrix captures the unobserved correlation across the activity types .
+Appendix A presents details of our estimation algorithm .
+Models of Consumption Benefits and Expertise In addition to the time allocation model outlined in Equa- tions 3–6 , we further examine whether the amount of hedo- nic , social , and self-efficacy benefits produced by a certain activity is enhanced by consumer expertise .
+In addition , we include a measure of a person ’ s desire to explore an activity further ( i.e. , Eijt ) as a potential driving force of Zijt1 , Zijt2 , and Zijt3 .
+Finally , given that the social quality of an activity may depend on the willingness of others to share it , we incorporate “ friends like ” and “ family likes ” ( i.e. , FLijt ) as additional determinants of the social benefit , Zijt2 .
+There- fore , we have the following equations ( for detailed variable definitions , see Table 1 ) : In Equations 7–9 , we include random coefficients for all model parameters .
+We also allow the error terms e1ijt , e2ijt , and e3ijt to be correlated across the three quality measures in a given time period for a given consumer and over time in an Autoregressive ( 1 ) ( AR ( 1 ) ) Process for a given activity and a given consumer .
+The latter is meant to control for pos- sible serial correlation resulting from consumers rating the same set of scales in each week .
+Finally , we examine the evolution of expertise level in Equation 10 as follows : where b0kij is a random-effects intercept , ij captures the carryover of Kij from the previous period , bikj measures the increase in expertise from engaging in activity j during time period t – 1 , and vij , t – 1 represents an error term with the vector vi , t – 1 = ( vi1 , t– 1 , vi2 , t – 1 , … , viJ , t – 1 ) following a time-invariant multivariate normal distribution with a mean of zero and a variance–covariance matrix , v , to capture the error correlation across the activity types .
+Summary In summary , our theoretical framework generates the fol- lowing testable predictions through the estimation of Equa- tions 3–10 : ( 1 ) The marginal utility an individual obtains from an activity increases with its ability to satisfy a set of consumption motives ( i.e. , hedonic , social , and self-efficacy benefits ) and with the person ’ s expertise at performing the focal and/or related activities ( Equations 3–6 ) , ( 2 ) the mag- nitude of consumption benefits is driven by expertise ( Equations 7–9 ) , and ( 3 ) expertise increases with past con- sumption ( Equation 10 ) .
+In the following section , we describe how we carry out the empirical investigation of our theory .
+= + ς + τ +− − − − ( 10 ) K b K b v , ij , t 1 0kij ij ij , t 2 ikj ij , t 1 ij , t 1 ( 7 ) Z d d K d E e , ijt1 ij11 ij12 ij , t 1 ij13 ijt 1ijt= + + +− = + + + +− FL D ( 8 ) Z d d K d E e , andijt2 ij21 ij22 ij , t 1 ij13 ijt ijt ij24 2ijt = + + +− ( 9 ) Z d d K d E e .ijt3 ij31 ij32 ij , t 1 ij33 ijt 3ijt 3As Heckman ( 1981a , b , c ) discusses , there are three possible sources of serial correlation in panel data : ( 1 ) state dependence , ( 2 ) time-invariant unobservable heterogeneity , and ( 3 ) time-variant unobservable error .
+In our context , we use lagged time use , random effects , and AR ( 1 ) error to cap- ture the three possible sources of serial correlation , respectively .
+30 JOURNAL OF MARKETING RESEARCH , FEBRUARY 2013 EMPIRICAL INVESTIGATION Data Panel data setup .
+The data used in this study comprise a longitudinal panel documenting the weekly time expenditure of a group of U.S. consumers on leisure activity consump- tion from January to June 2011 .
+Specifically , we tracked these consumers ’ time use , hedonic , social , self-efficacy , and expertise measures on a weekly basis for five leisure activities that are representative among U.S. consumers , according to the American Time Use Survey ( U.S. Depart- ment of Labor 2009 ) .4 We recruited the panelists from the Amazon Mechanical Turk consumer panel , with the restric- tion that only people residing in the United States were eli- gible to participate.5 The panel members completed a series of weekly surveys during a consecutive 20-week period .
+Four hundred twenty-eight individuals signed up to partici- pate in the panel study .
+To construct the dynamic panel data model with a sufficient number of observations per person , we retained only participants who completed 12 or more weeks of surveys in our empirical analysis .
+This results in the 287 respondents ( 66.6 % of the participants who signed up ) included in our empirical analysis.6 Activity selection .
+While a time diary in which respon- dents list all the activities that they engage in over a specific time period is a standard method of collecting data on time use , this approach would not be feasible for our study .
+We needed to be able to trace time use as well as levels of con- sumption benefits and expertise on a given activity for each respondent over time .
+We also needed the questionnaire to be short enough to maintain their participation in the panel .
+These constraints required us to focus on a specific and lim- ited set of activities .
+In addition , because the domain of our theory is leisure activities , the chosen activities had to fit into this category .
+Therefore , we used the 2009 American Time Use Survey ( U.S. Department of Labor 2009 ) to identify leisure activi- ties that the U.S. population typically undertakes .
+Within the American Time Use Survey classifications , we deemed Categories 12 ( “ Socializing , Relaxing , and Leisure ” ) and 13 ( “ Sports , Exercise , and Recreation ” ) to be the most closely related to leisure activity consumption .
+We calcu- lated the average time use and the incidence rate of each activity type listed under these two categories .
+Among the most participated activities , the following five were included in our panel study : arts and crafts , running/ jogging , video games , workout ( e.g. , lifting weights , fitness machine use ) , and water sports ( e.g. , indoor/outdoor swimming , water aer- obics ) .
+In our weekly questionnaire , we asked respondents to report the approximate number of hours/ minutes spent on each of the five focal activities in the past week .
+We also asked respondents to report the amount of time they spent on all other leisure activities in the past week ( the numeraire ) .
+Appendix B presents more details of our activ- ity selection and time use measures .
+Measurement of scales and other variables .
+To develop reliable and valid measurement scales for the constructs used in this study , we followed the guidelines proposed by Churchill ( 1979 ) for scale development ( for more details of the scale development , see Appendix B ) .
+Specifically , we used Celsi , Rose , and Leigh ( 1993 ) and Holt ( 1995 ) as the theoretical foundation for the scale development of our hedonic , social , and self-efficacy consumption benefits .
+With regard to consumer expertise , we adapted the expert- ise scales developed by Mitchell and Dacin ( 1996 ) .
+We also collected measures on other model variables such as hourly monetary cost associated with consumption of each activity type , perceived similarity between each activity pair regard- ing skills needed to perform them , early involvement , and so on .
+Appendix B provides more details of the final scales and measures .
+Safeguards against common method bias .
+Although com- mon method bias can be a problem with survey data ( Kamakura 2010 ) , several aspects of our survey design should mitigate this problem .
+Specifically , our dependent and independent measures had different response formats : the dependent measure is a self-report of hours/minutes spent that appears at the beginning of the survey , whereas our consumption benefits and expertise scales have a Likert format and appear later in the survey .
+Moreover , we used the expertise value from the preceding week as the inde- pendent variable to predict current period time use and con- sumption benefits ( Equation 5 , Equations 7–9 , and Equation 10 ) .
+We also used established scales that describe the activ- ity to measure consumption benefits and expertise levels .
+Furthermore , we presented the 20 items from the multi-item scales listed in Table B1 in random order to minimize self- report bias .
+We also assured our participants that “ there would not be any ‘ right ’ or ‘ wrong ’ answers ” and that their responses would be anonymous and confidential .
+These aspects of our survey design are consistent with recommen- dations for avoiding item ambiguity and demand character- istics by using different formats for dependent and inde- pendent variables , separating these variables , and using established scales , random ordering , and assurances of con- fidentiality ( Podsakoff et al .
+2003 ; Rindfleisch et al .
+2008 ) .
+Panel data descriptives .
+Table 2 presents descriptives of the panel data .
+Among the five focal activities , video games appear to be the most popular activity ( in terms of both time use and incidence ) , and water sports was the least popular choice of our respondents .
+In addition , there appear to be gender differences in time use across these activities , with women spending more time on arts and crafts and men allo- 4The 2009 American Time Use Survey ( U.S. Department of Labor 2009 ) was the latest publicly available survey at the time we began our panel data collection .
+Similar tracking studies have been conducted using consumer panels in other domains such as beverage consumption ( Huang , Khwaja , and Sudhir 2012 ) .
+5Given the increasing popularity of Amazon Mechanical Turk consumer panels in social science research in recent years , several studies have been conducted to investigate the validity of using this panel as a source of data collection .
+This stream of research suggests that the majority of Mechani- cal Turk workers genuinely care about the quality of their work ( e.g. , Mason and Suri 2012 ; Paolacci , Chandler , and Ipeirotis 2010 ) .
+Moreover , under various settings , the quality of data collected from the Amazon Mechanical Turk panel is highly comparable to that of data from traditional sources such as lab and field studies ( e.g. , Mason and Suri 2012 ; Paolacci , Chandler , and Ipeirotis 2010 ; Snow , Jurafsky , and Ng 2008 ) .
+6Given that we retained only respondents who completed 12 or more weekly surveys in our analysis , we examined the extent to which our panel data are affected by selection bias .
+Specifically , we compared summary sta- tistics of respondents we retained with those of respondents who completed fewer than 12 weekly surveys .
+We did not find significant differences across these two samples regarding time use , consumption benefits , expert- ise , exploration , age , gender , region of residence , and other demographics .
+Therefore , we believe that selection bias is not salient in our context ( Arm- strong and Overton 1977 ) .
+More details are available on request .
+A Model of Activity Consumption 31 Ta bl e 2 P A N E L D A TA D E S C R IP T IV E S A rt s an d C ra ft s R un ni ng /J og gi ng Vi de o G am es W or ko ut W at er S po rt s O ut si de A lt er na ti ve M SD M SD M SD M SD M SD M SD In ci de nc e .4 12 .3 60 .5 70 .4 78 .0 86 — Va ri ab le s an d Sc al es : M en T im e us e ( i n ho ur s ) 1 .
+30 7 2 .
+63 0 1 .
+55 0 2 .
+66 2 4 .
+27 6 6 .
+04 2 1 .
+87 4 2 .
+86 8 .3 80 2 .
+07 5 10 .6 53 14 .2 80 H ed on ic 3 .
+29 4 1 .
+76 9 3 .
+49 6 1 .
+83 1 4 .
+68 7 1 .
+73 2 3 .
+65 7 1 .
+92 1 3 .
+58 5 1 .
+94 3 So ci al 2 .
+79 5 1 .
+28 2 2 .
+89 3 1 .
+31 1 3 .
+88 2 1 .
+53 8 2 .
+93 7 1 .
+38 4 3 .
+32 6 1 .
+68 1 Se lf -e ff ic ac y 3 .
+10 8 1 .
+63 7 3 .
+49 9 1 .
+70 9 4 .
+11 4 1 .
+70 5 3 .
+80 0 1 .
+83 7 3 .
+02 4 1 .
+72 3 E xp er tis e 3 .
+36 4 1 .
+81 0 4 .
+05 3 1 .
+67 4 4 .
+73 7 1 .
+67 3 3 .
+80 9 1 .
+74 8 3 .
+31 0 1 .
+61 9 E xp lo ra tio n 2 .
+84 8 1 .
+65 1 2 .
+62 9 1 .
+39 0 3 .
+43 3 1 .
+61 6 3 .
+03 4 1 .
+52 7 2 .
+55 6 1 .
+56 2 Va ri ab le s an d Sc al es : W om en T im e us e ( i n ho ur s ) 1 .
+79 7 3 .
+81 7 1 .
+16 7 3 .
+39 7 2 .
+70 4 5 .
+37 4 1 .
+59 0 3 .
+91 0 .2 12 1 .
+11 1 9 .
+40 1 12 .3 81 H ed on ic 4 .
+33 3 1 .
+73 9 3 .
+03 3 1 .
+90 4 3 .
+92 6 1 .
+83 7 3 .
+31 6 1 .
+88 1 3 .
+60 4 3 .
+06 4 So ci al 3 .
+04 1 1 .
+46 2 2 .
+54 8 1 .
+46 0 3 .
+34 1 1 .
+53 2 2 .
+67 9 1 .
+46 1 3 .
+05 1 1 .
+64 3 Se lf -e ff ic ac y 3 .
+80 4 1 .
+51 8 3 .
+08 6 1 .
+75 2 3 .
+37 8 1 .
+70 8 3 .
+40 4 1 .
+69 8 2 .
+99 6 1 .
+78 7 E xp er tis e 4 .
+37 2 1 .
+62 3 3 .
+39 3 1 .
+69 2 3 .
+78 9 1 .
+69 4 3 .
+38 4 1 .
+69 7 3 .
+32 4 1 .
+77 4 E xp lo ra tio n 3 .
+43 2 1 .
+61 3 2 .
+48 9 1 .
+51 1 3 .
+01 3 1 .
+57 8 2 .
+92 5 1 .
+67 6 2 .
+46 9 1 .
+52 6 M SD D em og ra ph ic s G en de r 1 .
+64 8 .4 78 A ge ( ye ar s ) 35 .8 44 11 .4 10 P er ce nt ag e R eg io n N or th ea st 28 .3 9 % M id w es t 22 .6 6 % So ut h 32 .6 1 % W es t 16 .3 4 % 32 JOURNAL OF MARKETING RESEARCH , FEBRUARY 2013 cating more time to the other activities .
+Men and women also reported different scores on the hedonic , social , and self-efficacy benefits as well as the expertise measures of these activities .
+Table 2 also indicates that the average scores of exploration are relatively low for all activities , which implies that there is generally not much interest in exploring these activities further .
+In the appendixes , we report the over-time , within-subject variation in our pan- elists ’ time use , consumption benefits , and expertise meas- ures ( Appendix B ) , as well as a systematic decline ( albeit small in magnitude ) in the variation of time spent on the focal activities during the 20 weeks of data collection ( Appendix A ) .
+The former enables us to examine the evolu- tion of consumption motives and expertise levels over time , and the latter offers face validity to our theory ( Appendix A ) .7 Results Determinants of consumption utility .
+We first discuss esti- mation results of the time allocation model .
+Appendix B provides a comparison of nested models to demonstrate how various model components add to the prediction of time use .
+Table 3 presents the estimates related to the initial condition .
+These estimates , which determine the intercept of the deterministic component of the utility function in Equation 4 , essentially reflect consumers ’ intrinsic prefer- ences for that activity .
+The results in Table 3 indicate that early involvement has a significant , positive effect on intrin- sic preference for all activities except video games , which provides evidence in favor of the view that experience with activities is associated with increased preference .
+The activi- ties with a significant , positive effect of time spent in the initial period are arts and crafts and running/jogging .
+In gen- eral , age and gender effects are in accord with intuition : preferences for arts and crafts increase with age , while pref- erences for video games and running/jogging decline with age ; women have a lower intrinsic preference toward running/ jogging , video games , and workout .
+Although women have a negative sign for arts and crafts , this effect is offset by other influences on the initial condition : women are more likely to be involved early in arts and crafts and spent more time on arts and crafts in the initial period .
+Finally , holding other factors constant , we find several significant regional differences in intrinsic preference for activities .
+Table 4 presents the estimates related to determinants of consumption utility .
+The top panel of the table presents esti- mates related to consumption benefits .
+Positive signs indi- cate that high values of the benefit are associated with a higher degree of baseline marginal utility , while negative signs indicate that high values of the benefit are associated with lower baseline utility .
+For example , the negative rela- tionship between social benefit and workout indicates that people who attach high marginal utility to this activity do not engage in workout for social reasons , while those attaching low marginal value to workout might do so .
+The results in this panel provide insight into why con- sumers find each activity attractive .
+Gender differences are prominent .
+Men appear to engage in arts and crafts for hedonic ( pleasure ) and social reasons , not for self-efficacy , while women participate in this activity for self-efficacy ( self-fulfillment ) , followed by social and hedonic reasons .
+Men who attach high value to running/jogging undertake this activity for self-efficacy and social reasons , not for hedonic benefit .
+The self-efficacy , social , and hedonic bene- fits for running/jogging are more prominent for women than for men .
+Our findings also indicate that men mainly engage in video games for hedonic reasons , while women partici- pate in this activity mostly for self-efficacy.8 Respondents of both genders who attach high marginal value to workout appear to participate in this activity for self-efficacy rather than social reasons .
+Finally , we find that men who assign high marginal value to water sports engage in this activity for hedonic and self-efficacy ( rather than social ) benefits , whereas their female counterparts are drawn to this activity for hedonic reasons and attach less value to self-efficacy.9 The second panel in Table 4 presents effects of expertise and expertise spillovers .
+Consistent with our theory , expertise in the focal activity exerts a significant positive impact on consumption utility for all activities under study .
+The coef- ficients of expertise spillovers are listed in the off-diagonal elements .
+We found that there are significant , positive spillovers between the following three activities pairs : workout and water sports , workout and running/jogging , and video games and water sports .
+It is not difficult to envi- sion skills used in workout , such as stamina and strength , being useful in activities such as water sports and running/ jogging .
+Reasons for the spillover between video games and water sports are less obvious and might be a worthwhile subject for further research.10 We also found negative spillovers between video games and the following activi- ties : arts and crafts , running/jogging , and workout , indicat- ing that avid gamers are likely to be less interested in these activities .
+Such negative spillovers , though statistically sig- nificant , are small in magnitude .
+The third panel of Table 4 provides estimates related to state dependence terms .
+The coefficients of lagged time use 8It is possible that men mainly play video games for pure pleasure , while women are more drawn to games , such as Wii Fit , that aim to provide a sense of self-fulfillment .
+Nevertheless , this conjecture should be inter- preted with caution .
+Further research may be needed to investigate whether this result would replicate under alternative model setups and/or data sets .
+9Because of its low participation rate ( 8.6 % ; see Table 2 ) , values of Vijt for water sports tend to be negative to maintain corner solutions .
+Because the exponential of these numbers is less than one , the large coefficients for social and other effects on water sports may partially result from its low baseline utility .
+10Because the spillover is the product of perceived similarity of skills and expertise at the other activity , it must be due to some combination of higher similarity and higher expertise of participants relative to nonpartici- pants .
+Our data do not address what drives this combination .
+Perhaps some gamers may participate in water-sports-related games that enhance their skills at the actual sport .
+For example , players of Surf ’ s Up video game are likely to be surfers .
+There may be some other explanation , which can be addressed in further research .
+7To the extent possible , we also made comparisons between our depend- ent measures and those reported in Spissu et al .
+( 2009 ) .
+Although our spe- cific activities do not correspond closely with those in Spissu et al. , the sum of our running/jogging , workout , and water sports activities corresponds approximately to their physically active sports category .
+Average time per week summed across nonzero observations of our three sports activities was 4.9 hours , compared with 4.3 hours for the Spissu et al .
+sports cate- gory ; incidence of use of at least one of the three sports in our study was 62.4 % , compared with an incidence of 45.7 % for the Spissu et al .
+sports category .
+Give the different time periods ( 2002 vs. 2011 ) and locations ( Europe and the United States ) , our self-reported data of time use seem comparable to those in Spissu et al..
+This provides evidence that our time use data are reasonable .
+A Model of Activity Consumption 33 Ta bl e 3 IN IT IA L C O N D IT IO N E S T IM A T E S A rt s an d C ra ft s R un ni ng /J og gi ng Vi de o G am es W or ko ut W at er S po rt s O ut si de A lt er na ti ve P ar am et er E st im at e SE E st im at e SE E st im at e SE E st im at e SE E st im at e SE E st im at e SE In te rc ep t –7 .8 75 * .6 88 – .
+11 7 .1 79 – .
+19 0* .0 93 .1 83 .1 03 .0 43 * .0 12 — — SD o f in te rc ep t .3 45 .2 32 .1 49 * .0 73 .0 44 .1 96 .2 87 .1 75 1 .
+84 3* .0 71 — — E ar ly in vo lv em en t .1 00 * .0 31 .0 10 * .0 05 – .
+15 0 .6 56 .3 40 * .1 16 .2 58 * .0 70 — — In iti al p er io d pa rt ic ip at io n .0 41 * .0 07 .3 64 * .1 43 – .
+01 1 .0 34 – .
+00 3 .0 03 – .
+01 2 .0 24 –1 .7 23 * .3 34 A ge .0 15 * .0 04 – .
+17 9* .0 20 – .
+37 6* .1 09 .0 59 .0 71 – .
+05 0 .0 29 — — Fe m al e –1 .5 44 * .2 69 –6 .9 65 * .6 64 – .
+38 6* .1 00 – .
+24 5* .0 91 .1 74 .1 08 — — R es id en ce : M id w es t .3 75 * .1 40 .0 18 .0 47 – .
+01 8* .0 03 .0 16 .0 34 – .
+14 9 .0 92 — — R es id en ce : S ou th .5 61 * .1 30 –1 .1 43 * .2 39 –1 .8 14 1 .
+67 7 1 .
+13 0* .0 51 – .
+07 6 .1 00 — — R es id en ce : W es t .8 06 * .1 53 – .
+04 2 .0 31 .0 16 * .0 05 .1 40 * .0 09 .0 67 .1 23 — — *S ig ni fi ca nt a t .
+05 .
+Ta bl e 4 D E T E R M IN A N T S O F C O N S U M P T IO N U T IL IT Y A rt s an d C ra ft s R un ni ng /J og gi ng Vi de o G am es W or ko ut W at er S po rt s O ut si de A lt er na ti ve P ar am et er E st im at e SE E st im at e SE E st im at e SE E st im at e SE E st im at e SE E st im at e SE C on su m pt io n M ot iv es H ed on ic .4 68 * .0 92 .2 12 .1 70 .1 43 * .0 45 .0 20 * .0 05 .2 70 * .0 16 .— .— H ed on ic × f em al e – .
+35 5* .1 03 .0 47 * .0 17 – .
+32 4* .1 46 .0 16 .0 24 .0 00 .0 02 .— .— So ci al .1 41 * .0 69 .3 70 * .0 27 .0 84 .1 36 – .
+87 6* .2 57 –8 .7 85 * .9 30 .— .— So ci al × f em al e – .
+02 4 .0 78 .2 32 * .0 80 .1 13 .1 60 .1 80 * .0 38 .0 15 * .0 08 .— .— Se lf -e ff ic ac y – .
+24 9* .0 98 .3 92 * .1 95 .0 30 * .0 08 .7 44 * .1 53 .1 91 * .0 83 .— .— Se lf -e ff ic ac y × f em al e .5 93 * .1 15 .2 97 * .0 66 .2 32 * .0 12 .2 44 .1 46 –1 .9 93 * .5 63 .— .— E xp er ti se a nd S pi ll ov er s A rt s an d cr af ts .3 85 * .0 45 .— .— .— .— .— .— .— .— .— .— R un ni ng /jo gg in g .0 07 .0 56 .6 07 * .0 49 .— .— .— .— .— .— .— .— V id eo g am es – .
+05 8* .0 25 – .
+09 3* .0 29 .5 51 * .0 53 .— .— .— .— .— .— W or ko ut .0 17 .0 47 .1 85 * .0 52 – .
+06 3* .0 31 .8 08 * .0 53 .— .— .— .— W at er s po rt s .0 00 .0 54 .0 36 .0 25 .1 07 * .0 41 .3 00 * .1 19 .4 83 * .0 82 .— .— St at e D ep en de nc y L ag ti m e us e ( j ) .2 03 * .0 12 .4 87 * .1 33 .0 22 * .0 03 –2 .9 77 3 .
+69 5 1 .
+76 9* .0 93 .— .— SD o f j co ef fi ci en t .2 50 .4 00 .3 56 .1 86 .1 76 .1 13 .4 64 * .1 66 .1 33 .1 20 .— .— M on et ar y C os t M on et ar y co st ( m c j ) .0 32 .0 36 – .
+24 7* .0 81 – .
+33 9* .0 90 – .
+29 4* .1 37 – .
+78 2* .1 64 .— .— SD o f m c j co ef fi ci en t .2 82 * .1 18 .2 88 * .0 81 .1 34 .1 84 .4 23 * .1 45 .4 96 * .1 16 .— .— C on tr ol _F un c R es id .0 21 * .0 08 .3 81 * .1 70 – .
+04 3 .0 47 .8 14 * .2 60 .0 15 .0 89 .— .— Sa ti at io n j .4 43 .4 03 .4 01 .2 47 .4 82 * .0 81 .3 72 * .0 52 .4 92 2 .
+35 2 .4 32 .2 84 A R ( 1 ) E rr or j – .
+16 5 .5 15 .2 34 .1 34 .5 74 * .1 56 .3 92 .2 84 – .
+57 4 .3 43 .0 77 .0 53 *S ig ni fi ca nt a t .
+05 .
+34 JOURNAL OF MARKETING RESEARCH , FEBRUARY 2013 indicate significant positive state dependence for all focal activities but workout .
+This finding suggests that respon- dents in our panel engage in habitual behavior in these activities for reasons beyond the direct and indirect effects of consumer expertise , possibly inertia ( Jeuland 1979 ) and/ or risk aversion ( Erdem and Keane 1996 ) .
+The coefficient of lagged time use for workout is not significant , but its standard deviation is significant , indicating significant heterogeneity across respondents .
+In general , our findings are in line with prior literature in product consumption : con- sumers tend to exhibit positive state dependence behavior in many , but not all , product categories ( e.g. , Erdem and Sun 2001 ; Seetharaman , Ainslie , and Chintagunta 1999 ) .
+The fourth panel of Table 4 presents the parameter esti- mates associated with monetary costs .
+With the exception of arts and crafts , monetary costs exert a significant , nega- tive impact on participation for all activities .
+In addition , we observe significant positive residuals from the control func- tion for arts and crafts , running/jogging , and workout , indi- cating that people tend to spend more money on these activities due to high appreciation and/or high income .
+The inclusion of these residuals into the model effectively alle- viated the endogeneity bias associated with our monetary cost measure .
+The next panel in Table 4 reports the satiation parameter for each activity type .
+Our results show that the estimated satiation rates range from .372 to .492 across dif- ferent activities .
+T-statistic tests reveal that none of the sati- ation rates significantly differs from .372 , the lowest alpha estimate value .
+This suggests that , overall , the satiation rates do not differ much among the activities in our study .
+The last panel in Table 4 includes the autoregressive coef- ficients of the AR ( 1 ) error terms .
+The video game category is the only activity that exhibits significant serial correlation in the error terms .
+This finding suggests that serial correla- tion in our panel data has been largely captured by the inclu- sion of state dependence terms and time-invariant unobserv- able heterogeneity ( i.e. , random effects ) in our model .
+For video games , the positive and significant autoregressive coefficient of the AR ( 1 ) error captures effects beyond the two effects discussed previously .
+Appendix B presents all the variance–covariance matrices of the error terms associ- ated with Equations 3–10 .
+Determinants of hedonic , social , and self-efficacy bene- fits .
+Table 5 provides estimates related to determinants of hedonic , social , and self-efficacy benefits .
+In line with our theory , the stock of expertise significantly enhances the three consumption benefits for all activities under study .
+Our findings also indicate that , on average , this expertise effect is the most prominent for hedonic benefits , followed by self-efficacy and social benefits .
+In addition , the results in this table indicate that friends and/or family liking of the activity exerts a positive influence on the social benefits of all five activities .
+Table 5 also shows that , for all the activi- ties studied , the desire for exploration has a positive impact on hedonic , social , and self-efficacy benefits .
+Evolution of consumer expertise .
+Table 6 presents esti- mates related to the evolution of consumer expertise .
+As we expected , both lag expertise and lag time use have signifi- cant , positive impacts on expertise level in the current period .
+This again supports our theory that expertise evolves over time through repeated consumption .
+Overall , expertise carryover from the previous week is similar across the five activities , ranging from 85.6 % in running/jogging to 88.8 % in arts and crafts .
+Table 5 DETERMINANTS OF HEDONIC , SOCIAL , AND SELF-EFFICACY BENEFITS Arts and Crafts Running/Jogging Video Games Workout Water Sports Parameter Estimate SE Estimate SE Estimate SE Estimate SE Estimate SE Hedonic Intercept .076 13.027 .130 10.507 -.001 17.245 .124 3.165 .009 3.080 SD of intercept .074 .100 .410* .145 .186 .219 .029 .118 .255 .221 Lag expertise .652* .012 .653* .015 .572* .044 .646* .013 .707* .017 SD of lag expertise .089* .014 .264* .018 .313* .070 .154* .018 .347* .025 Exploration .305* .011 .278* .015 .177* .015 .327* .012 .246* .014 SD of exploration .110* .013 .254* .018 .182* .016 .169* .016 .293* .021 Social Intercept .057 6.489 .058 17.585 .065 4.688 .045 6.044 .061 12.847 SD of intercept .768* .264 .159 .134 .237 .173 .370* .154 .163 .164 Lag expertise .237* .015 .263* .013 .363* .014 .250* .013 .354* .013 SD of lag expertise .335* .016 .258* .015 .267* .026 .301* .020 .157* .029 Exploration .135* .013 .230* .013 .140* .012 .213* .012 .169* .015 SD of exploration .244* .022 .196* .016 .211* .015 .306* .026 .267* .024 Friends like .128* .010 .106* .010 .103* .011 .125* .010 .133* .010 SD of friends like .127* .021 .142* .015 .166* .013 .191* .013 .155* .017 Family like .121* .011 .098* .010 .043* .010 .076* .010 .112* .011 SD of family like .250* .016 .171* .014 .202* .016 .186* .017 .194* .018 Self-Efficacy Intercept .120 15.406 .108 11.465 .115 35.339 .102 15.312 .142 7.219 SD of intercept .092 .107 .371* .139 .176 .130 .199 .125 .413* .119 Lag expertise .499* .011 .525* .014 .522* .014 .526* .013 .537* .016 SD of lag expertise .139* .015 .210* .018 .276* .015 .139* .018 .225* .023 Exploration .318* .011 .356* .013 .261* .014 .326* .012 .318* .014 SD of exploration .131* .017 .256* .019 .263* .021 .187* .019 .298* .022 *Significant at .05 .
+A Model of Activity Consumption 35 Summary of Key Findings Overall , these empirical findings are in line with our theoretical expectations .
+Specifically , the baseline utility of an activity increases with ( 1 ) its ability to satisfy a set of consumption benefits ( hedonic , social , and self-efficacy ) and ( 2 ) an individual ’ s expertise in performing the focal and/or related activities .
+We further demonstrate that expert- ise has an indirect impact on the marginal utility of an activ- ity by influencing its hedonic , social , and self-efficacy bene- fits .
+This expertise , in turn , is acquired through experience .
+Through the link from expertise to value to time use and back to expertise , our findings support the proposition that expertise can be regarded as a key variable that explains consumption patterns and lifestyle choices .
+CONCLUSIONS In this study , we investigate how consumers allocate time to a portfolio of activities using 20 weeks of consumer panel data .
+These data enable us to examine the underlying fac- tors ( e.g. , consumption motives , expertise ) that drive the dynamics of activity consumption .
+We discover that con- sumer expertise may be viewed as a key variable that plays an integral role in observed differences in consumption pat- terns .
+In particular , expertise exhibits both a direct and an indirect ( through its influences on consumption motives ) impact on consumers ’ preferences toward an activity .
+This expertise , in turn , is acquired over time through past con- sumption .
+Therefore , through a cycle of increasing expert- ise , satisfaction , and time use , consumers focus on a subset of activities they know well .
+This tendency toward special- ization may be vital to understanding consumption patterns and lifestyle choices .
+To our knowledge , we offer the first empirical evidence that expertise and satisfaction recur- sively drive time allocation dynamics .
+Considering the substantial economic impact of recre- ation industry , our findings may also generate valuable insights for practitioners .
+First , our findings shed light on why people find an activity attractive and on how this dif- fers among men and women .
+For example , while the main benefit of engaging in arts and crafts is self-efficacy among women , men appear to undertake this activity mostly for fun ( hedonic benefit ) .
+Such insights can be helpful in formulat- ing appeals to encourage increased participation .
+More important , our results indicate that expertise may be lever- aged to create loyalty .
+For example , one possible way to encourage participation is to subsidize expertise investment ( e.g. , offering discounted personal training ) .
+In addition , firms may consider from which activities their consumers may exploit expertise spillovers and leverage such effects by offering a portfolio of products/services to advocate a particular lifestyle or establishing alliances to cross-promote related activities .
+Our research is also subject to limitations , which suggest promising avenues for further research .
+One issue is how best to define the time domain and the associated numeraire good .
+For reasons stated previously ( footnote 4 ) , we chose to define the time domain as the total time a person allocates to leisure activities in a given time period and the numeraire to be other leisure activities .
+However , we acknowledge that whether it is the best way to model this is still an open ques- tion that might be addressed in further research .
+Second , while we have made an effort to alleviate the common method bias , our budget did not allow the prohibitive cost of gathering activity consumption data across multiple con- texts ( e.g. , Internet , phone , in-person ) .
+Further research could address this issue .
+Third , while we account for the notion that consumers may participate in an activity to explore it further , our model does not address the likelihood that consumers may participate in an activity to resolve uncertainty about how beneficial it is .
+This possibility might be addressed in further research , possibly by building on Erdem and Keane ( 1996 ) to incorporate a Bayesian learning component into our existing framework .
+Last , while our panel of 20 weeks has a longer duration than any other panel in time use studies , it would be desirable to have a panel , or some other method , to capture longer-term changes in behavior .
+It would also be desirable to have a panel of beginners at an activity and to observe the evolution of their hedonic , social , and self-efficacy benefits from the activity as their expertise builds .
+While we did not examine this behav- ior due to the inherent difficulty of collecting such data , future pursuits in this direction could lead to better informa- tion on the role of expertise in determining activity choice .
+With regard to extensions , our framework could be adapted to examine consumption patterns in alternative contexts in which physical goods are more directly involved .
+In many ( if not most ) activities , a consumer interacts with some purchased goods to produce satisfaction .
+In effect , the consumer sup- plies the labor .
+Examples are driving a car , using the Inter- net , and vacationing at a resort .
+In all these cases , knowing how to buy or use a brand can be critical to consumer choice .
+For example , a consumer may know a great deal about driv- ing and owning Toyotas , which makes the brand more valu- able than other unfamiliar brands ; a consumer may prefer to use Windows computers to surf the Internet because he or Table 6 EVOLUTION OF CONSUMER EXPERTISE Arts and Crafts Running/Jogging Video Games Workout Water Sports Parameter Estimate SE Estimate SE Estimate SE Estimate SE Estimate SE Estimates Intercept .399* .025 .454* .023 .437* .026 .451* .023 .342* .021 SD of intercept .037 .024 .011 .026 .060* .026 .038 .026 .118 .023* Lag expertise .888* .006 .856* .007 .866* .007 .847* .007 .882* .006 SD of lag expertise .031* .005 .024* .006 .039* .006 .044* .007 .093* .005 Lag time use .039* .004 .048* .006 .025* .002 .053* .006 .036* .010 SD of lag time use .020* .004 .030* .006 .020* .002 .038* .005 .100* .016 *Significant at .05 .
+36 JOURNAL OF MARKETING RESEARCH , FEBRUARY 2013 she knows exactly how to use them ; a consumer may stay at the resort of a particular hotel chain because of past experi- ence with the chain .
+The research of Bronnenberg , Dubé , and Gentzkow ( 2011 ) documents that brand capital built up from past experience is important .
+Our general approach could be used to examine how this capital is produced .
+APPENDIX A : ESTIMATION ALGORITHM Time Allocation Model Overall setup .
+Given that consumer i is maximizing the overall utility Uit during period t subject to his or her time constraint Tit ( i.e. , J j = 1 ijt = Tit ) , we can solve the optimal time allocation problem by forming the Lagrangian and applying the Kuhn–Tucker ( K–T ) conditions ( Bhat 2005 ) .
+The Lagrangian function is given by Differentiating the Lagrangian w.r.t .
+ijt gives the following standard FOC K–T conditions : In our panel data , all consumers indicated nonzero time spent on the outside alternative across the 20 weeks of data collection .
+Therefore , denoting activity 1 as the outside alternative with i1t = Tit – J j = 2 ijt , we can rewrite the K–T conditions as follows : As discussed in Bhat ( 2005 ) , if the error term ijt was i.i.d .
+double exponential , the probability that individual i participates in M of the J activity types could be expressed as follows : where g is the standard extreme value density function , G is the standard extreme value distribution , the first M activity types are the ones in which the consumer participates dur- ing time period t , and J is the Jacobian matrix whose deter- minant is given by the following : ∑ ∑ { } ( ) ( ) = + ε⎡⎣ ⎤⎦ τ + γ − λ τ − ⎛ ⎝ ⎜ ⎜ ⎞ ⎠ ⎟ ⎟ α = = ( A1 ) L exp V T .
+ijt ijt ijt j j 1 J ijt j 1 J it j ( A2 ) exp V 0 if 0 , j 1 , 2 , ... , J , exp V 0 if 0 , j 1 , 2 , ... , J. ijt ijt j ijt j 1 ijt ijt ijt j ijt j 1 ijt j j ( ) ( ) ( ) ( ) + ε⎡⎣ ⎤⎦α τ + γ − λ = τ > = + ε⎡⎣ ⎤⎦α τ + γ − λ < τ = = α − α − ( ) ( ) ′ + ε = ′ + ε τ > = ′ + ε < ′ + ε τ = = ′ = + α + α − τ + γ = ( A3 ) V V if 0 with j 2 , 3 , ... , J , ( A3 ) V V if 0 with j 2 , 3 , ... , J , where ( A3 ) V V ln 1 ln with j 1 , 2 , ... , J. ijt ijt i1t i1t ijt ijt ijt i1t i1t ijt ijt ijt j j ijt j ( A4 ) P t , t , ... , t , 0 , 0 , ... , 0 g V V J G V V , ij2 ij3 ijM i1t i1t ijt i1t j 2 M it i1t ij t i1t j M 1 J ∏ ∏ ( ) ( ) ( ) ε = ′ − ′ + ε ⎡ ⎣ ⎢ ⎢ ⎤ ⎦ ⎥ ⎥ ⎧ ⎨ ⎪ ⎩⎪ ⎫ ⎬ ⎪ ⎭⎪ × ′ − ′ + ε ⎧ ⎨ ⎪ ⎩⎪ ⎫ ⎬ ⎪ ⎭⎪= ′ ′ = + To enforce the condition that the satiation parameter j must be bounded between 0 and 1 , we parameterize j = 1/ [ 1 + exp ( ~j ) ] in the empirical estimation .
+In addition , because empirically the parameters j and j in Equation 4 can not be identified separately , we adopt the method pro- posed by Kim , Allenby , and Rossi ( 2002 ) and Bhat ( 2005 ) by fixing j = .1 .
+As these two studies indicate , any positive j allows for corner solutions .
+Therefore , the unconditional probability of Equation 3 has the following closed-form expression ( Bhat 2005 ) : Error term formation .
+In what follows , we discuss how we relax the i.i.d .
+double exponential assumption on the error term ijt in our setting .
+In particular , we partition the error term in Equation 2 into two independent components , ijt and wijt .
+We assume the first component , ijt , to be stan- dard i.i.d .
+double exponential distribution .
+We specify the second component as wijt = jwij , t – 1 + ijt , with | j| < 1 , the vector it = ( i1t , i2t , … , iJt ) following a time-invariant multivariate normal distribution with a mean of zero and a variance– covariance matrix .
+The parameter j captures the degree of serial correlation over time .
+In addition , the variance– covariance matrix captures the unobserved correlation across the activity types .
+Using repeated substitution , we can rewrite wijt as wijt = ijt + j ij , t – 1 + j 2 ij , t – 2 + ... . Let wit = ( wi1t , wi2t , … , wiJt ) and = ( 1 , 2 , … , J ) .
+Given that such serial correlation is likely to exist before our panel data collection and continues infinitely afterward , we have E ( wit ) = 0 and the variance– covariance matrix wit = A A , with A being a J × J diagonal matrix with its jth diagonal term being 1/ 1 – 2j ( with j = 1 , 2 , … , J ) ( Greene 2000 ) .
+To carry out the estimation , we first obtain random draws of wi1 using E ( wi1 ) = 0 and wil = A A .
+Assume that we take H random draws of wi1 in the estimation .
+Conditional on each random draw from whi1 ( h = 1 , 2 , … , H ) , we obtain draws of wi2 using the equation w h i2 = whi1 + i1 ( h = 1 , 2 , … , H ) , with i1 drawn from the time- invariant MVN ( 0 , ) .
+We follow a similar procedure to obtain draws of wi3 , … , wiT .
+To the extent that these H random draws capture the underlying distribution at the aggregate level , the procedure described here enables us to capture the serial correlation in the error term .
+A potential drawback of this procedure is that it neglects the potential random errors in the H random draws .
+Ideally , conditional on each random draw from the previous period , a new set of random draws should be taken in the subsequent period ( t = 2 , … , T ) .
+Nevertheless , given that it takes approximately five days to estimate our time allocation model without AR ( 1 ) error terms on a Dual Six ( A6 ) P , , ... , , 0 , 0 , ... , 0 c 1 c e e M 1 ! .
+i2t i3t iMt ijt j 1 M ijtj 1 M V j 1 M V j 1 J M ijt ijt ∏ ∑ ∏ ∑ ( ) ( ) τ τ τ = ⎛ ⎝ ⎜ ⎜ ⎞ ⎠ ⎟ ⎟ ⎛ ⎝ ⎜ ⎜ ⎞ ⎠ ⎟ ⎟ ⎛ ⎝ ⎜ ⎜ ⎞ ⎠ ⎟ ⎟ ⎡ ⎣ ⎢ ⎢ ⎢ ⎢ ⎢ ⎢ ⎢ ⎤ ⎦ ⎥ ⎥ ⎥ ⎥ ⎥ ⎥ ⎥ − = = ′ = ′ = ( A5 ) J c 1 c , where c 1 .it ijt j 1 M ijtj 1 M ijt j ijt j ∏ ∑= ⎛ ⎝ ⎜ ⎜ ⎞ ⎠ ⎟ ⎟ ⎛ ⎝ ⎜ ⎜ ⎞ ⎠ ⎟ ⎟ = − α τ + γ = = A Model of Activity Consumption 37 Core Intel Xeon Processor Workstation computer , the com- putational burden of this approach would be prohibitively expensive .
+By adopting the procedure described here , we are able to incorporate serial correlation in unobservable errors into our framework in a computationally feasible man- ner .
+To our knowledge , this is the first attempt to incorporate AR ( 1 ) error terms into the multiple discrete-continuous model .
+Last , it is worth noting that , because we have incor- porated lagged time use and random effects in the marginal utility of each activity type ( Equation 3 ) , the serial correla- tion described here only captures effects beyond state dependence and time-invariant unobservable heterogeneity ( Heckman 1981a , b , c ) .
+Addressing endogeneity in monetary cost .
+Given that a person may spend more money on an activity due to high satisfaction from consuming the activity and/or high income , the self-reported hourly monetary cost measure ( for details of the measure , see “ Other Variables ” in Appendix B ) in our context is likely to be endogenous .
+We adopt the control function approach discussed in Petrin and Train ( 2010 ) to address this issue .
+In particular , we include the following instruments in the control function for the term Xijt in Equation 5 : ( 1 ) the average of all other panelists ’ esti- mated hourly monetary cost measures on the activity during the same time period , ( 2 ) lagged hourly wage rate ( wage rate is measured as “ supposing that someone offers you an extra hour of work suitable to your skills in this past week , at what hourly wage rate would you be willing to work ? ” ) , and ( 3 ) household income .
+The rationale behind our first instrument is similar to Petrin and Train ’ s ( 2010 ) use of the average price of the same cable service in all other markets as an instrument for price in the focal market .
+In our context , we use the average of all other panelists ’ estimated hourly monetary costs asso- ciated with the activity during the same time period to cap- ture the average cost of engaging in the activity .
+We also use lagged hourly wage rate and household income as addi- tional instruments to account for the possibility that a per- son with a high wage rate and/or household income is likely to be willing to spend more on a given activity .
+These variables are viable instruments in our setting because they are ( 1 ) correlated with the self-reported measures of hourly monetary costs and ( 2 ) exogenous and uncorrelated with current period ’ s error terms .
+We follow the estimation procedure in Petrin and Train ( 2010 ) by first regressing the momentary cost measure on the instruments .
+Let X*ijt denote the vector of instrumental variables discussed previously .
+The regression can be writ- ten as Xijt = bx0 + X*ijtBX0 + AiBA + ijt , with X*ijt being the instruments and Ai being the vector of exogenous variables in the marginal utility function ( i.e. , age , gender , region of residence , and early involvement ) .
+The residuals of this regression ( ijt ) are retained and used to calculate the con- trol function ( j ijt ) .
+Next , the time allocation model is esti- mated with the control function entering as an extra variable .
+Specifically , we revise Equation 5 as follows : ∑ = β + β + β + β + ϕ + δ τ + β + ϑ μ′ ′ = ′ ′ − − ( A7 ) V Z Z Z s K X .
+ijt 0ij Z1j ijt1 Z2 j ijt2 Z3j ijt3 jj j 1 J ijj ij , t 1 ij ij , t 1 ijx ijt j ijt Likelihood .
+Therefore , we can compute the unconditional probability as follows : Simulated maximum likelihood is used to estimate this equation .
+The likelihood function can be written as follows : with B = ( 0ij , ijx , ij ) denoting the vector of variables in which we incorporate random coefficients and B being a diagonal variance–covariance matrix .
+Models of Consumption Motives and Expertise Following the procedure described by Greene ( 2000 ) , we estimate the system of Equations 7–9 together to examine the determinants of consumption motives .
+In addition , we estimate Equation 10 independently to study the evolution of consumer expertise .
+Identification The identification of our model relies on two sources of variation in our observed variables : ( 1 ) cross-sectional var- iation and ( 2 ) within-subject over-time variation .
+Regarding the former , our panel data consist of 287 panelists with varying degrees of time use , consumption benefits , and expertise levels ( Table 1 ) .
+With respect to the latter , we illustrate in Appendix B , Table B2 , that there is a noticeable degree of within-subject over-time variation in these key model variables during the 20 weeks of our panel data col- lection .
+Therefore , both types of variation discussed here enable us to identify the models described previously .
+In addition , we examined whether there is a systematic decline in the variation of time spent in each activity over the 20 weeks of data collection .
+In particular , for each respondent and each activity type , we calculated a series of standard deviation scores for time use in weeks 2–10 ( denoted as SD_time1 ) , weeks 3–11 ( SD_time2 ) , and so on , until weeks 12–20 ( SD_time11 ) .
+( We omit the subscripts for individual and activity type here for simplicity . )
+This series of standard deviation scores essentially represents the over- ∏∫ ∑ ∏ ∑ η Ψ ( ) ( ) ( ) τ τ τ = ⎛ ⎝ ⎜ ⎜ ⎞ ⎠ ⎟ ⎟ ⎛ ⎝ ⎜ ⎜ ⎞ ⎠ ⎟ ⎟ ⎛ ⎝ ⎜ ⎜ ⎞ ⎠ ⎟ ⎟ ⎡ ⎣ ⎢ ⎢ ⎢ ⎢ ⎢ ⎢ ⎢ ⎤ ⎦ ⎥ ⎥ ⎥ ⎥ ⎥ ⎥ ⎥ − η η = = ′ +ϑ μ + = ′ +ϑ μ + = ( A8 ) P , , ... , , 0 , 0 , ... , 0 c 1 c e e M 1 ! dF .
+i2t i3t iMt ijt j 1 M ijtj 1 M V w j 1 M V w j 1 J M ijt j ijt ijt ijt j ijt ijt ∏ ∑∫∏ ∏ ∑ ∫∏ ∏ ∑ η Ψ ( ) ( ) ( ) = ⎛ ⎝ ⎜ ⎜ ⎞ ⎠ ⎟ ⎟ ⎛ ⎝ ⎜ ⎜ ⎞ ⎠ ⎟ ⎟ ⎛ ⎝ ⎜ ⎜ ⎡ ⎣ ⎢ ⎢ ⎢ ⎢ ⎢ ⎢ ⎢ ⎧ ⎨ ⎪ ⎪ ⎪ ⎩ ⎪ ⎪ ⎪ × ⎛ ⎝ ⎜ ⎜ ⎞ ⎠ ⎟ ⎟ ⎡ ⎣ ⎢ ⎢ ⎢ ⎢ ⎢ ⎢ ⎢ ⎤ ⎦ ⎥ ⎥ ⎥ ⎥ ⎥ ⎥ ⎥ − ⎫ ⎬ ⎪ ⎪ ⎪ ⎭ ⎪ ⎪ ⎪ Ψη = =η= = = = ′ +ϑ μ + = ′ +ϑ μ + = B ( A9 ) Likelihood c 1 c e e e e M 1 ! dF dF , B B ijt j 1 M ijtj 1 M t 2 T j 1 M V j 1 Ji 1 N V w j 1 M V w j 1 J M i ijt j ijt ijt ijt j ijt ijt 38 JOURNAL OF MARKETING RESEARCH , FEBRUARY 2013 time trend in the degree of variation in time use .
+Next , for each activity under study , we regressed SD_timet on a time variable t ( with t = 1 , 2 , … , 11 ) to examine whether there exists a time trend in the overall trend of these standard deviation scores .
+We discovered that the regression coeffi- cients of the time trend variable are negative and significant , albeit small in magnitude , for all activities .
+This indicates that , throughout the course of our data collection , there is a slight downward trend over time in the within-subject over- time variation in time spent on these activities .
+That is , we see some evidence of a tendency toward stabilization in consumption patterns , as our theory would predict .
+APPENDIX B : SUPPLEMENTARY INFORMATION ON EMPIRICAL APPLICATION Activity Selection We used the 2009 American Time Use Survey ( U.S. Department of Labor 2009 ) to select the focal activities in our panel study .
+We first calculated the average time use and the incidence rate of each activity type listed under Cate- gories 12 ( “ Socializing , Relaxing , and Leisure ” ) and 13 ( “ Sports , Exercise , and Recreation ” ) .
+Among the activities with the highest average time use and the highest incidence rates , we excluded activities that require minimal expertise ( e.g. , chatting with friends , watching television ) , given our emphasis on examining the direct and indirect roles of expertise on activity choices and time use .
+In addition , we left out activities with strong seasonality ( e.g. , golfing , fish- ing , hunting ) because participation in such activities may be confounded with seasonality .
+We also combined activities such as “ working out , ” “ using cardio equipment , ” and “ weightlifting ” into one activity , “ workout , ” given their similarity .
+Last , we refined the activity “ playing games ” to its subset “ playing video games , ” given that the definition of the former can be confusing in that different people may interpret it differently and that the latter plays an integral role in this activity category .
+We also conducted a pretest in which we asked 30 participants recruited from the Amazon Mechanical Turk consumer panel to indicate the three leisure activities on which they spent the most time during the current year .
+The five activities included in our panel study also appeared among the most popular activities , which is in line with our findings from the American Time Use Survey .
+Given our interest in examining the direct and indirect roles of expertise in activity choices and time use , we con- ducted a second pretest in which we asked 26 participants ( recruited from the same consumer panel mentioned previ- ously ) to answer the following question on a seven-point scale : “ I would find ( the name of the activity ) more enjoy- able if I possess more expertise in this activity ” for the five activities included in our study ( 1 = “ strongly disagree , ” and 7 = “ strongly agree ” ) .
+The results revealed that the average ratings for all activities are above the midpoint of the scale ( arts and crafts : 5.96 ; running/jogging : 4.12 ; video games : 4.49 ; workout : 4.67 ; and water sports : 5.32 ) , which further confirmed that it was reasonable to include these five activi- ties in our study .
+Scale Development and the Measurement of Other Variables Thirty-five participants ( recruited from the same con- sumer panel mentioned previously ) answered a battery of scale items for each of the five leisure activities identified in the preceding section .
+All responses are based on seven- point scales ( 1 = “ strongly disagree , ” and 7 = “ strongly agree ” ) .
+We used the responses to develop the scales used in our study .
+Table B1 lists the final scales for the hedonic , social , self-efficacy benefits , expertise , and exploration .
+Hedonic , social , and self-efficacy benefits .
+Following Churchill ( 1979 ) , we used the theoretical definition of hedo- nic , social , and self-efficacy consumption benefits in Celsi , Rose , and Leigh ( 1993 ) and Holt ( 1995 ) to generate an ini- tial set of measurement items .
+For each consumption bene- fit , we submitted the corresponding measurement items to an exploratory factor analysis with oblique rotation .
+The results revealed that all item loadings were above .70 .
+Therefore , we retained all the measurement items .
+The Cronbach ’ s alphas for the hedonic , social , and self-efficacy scales were .892 , .899 , and .857 , respectively .
+A correlation analysis revealed that the correlation between social and self-efficacy benefits is .376 , between hedonic and self-efficacy benefits is .408 , and between hedonic and social is .638 .
+These results indicate that the three quality attributes of activity consumption are partially correlated , with each attribute capturing a different aspect of consumption benefits .
+Furthermore , we used confirmatory factor analysis to formally test the discriminant validity of these three constructs .
+We found that a three-factor structural model fits the data much better ( goodness-of-fit index = .976 , root mean square error of approximation = .095 ) than a single-factor model that combines the three scales ( goodness- of-fit index = .871 , root mean square error of approxima- tion = .159 ) .
+Consequently , we decided to include hedonic , social , and self-efficacy as three distinct factors that drive the utility of activity consumption , acknowledging that they are not entirely orthogonal to each other .
+Expertise .
+We generated the initial set of scale items that measure consumer expertise based on Mitchell and Dacin ( 1996 ) , while excluding the vocabulary test .
+We used an item analysis to eliminate the item with the lowest loading itera- tively , until all the factor loadings were above .5 .
+This pro- Table B1 SCALE ITEMS Scale Measurement Items Hedonic This activity brings me relaxation .
+I obtain a lot of pleasure from this activity .
+This activity brings me excitement .
+Social All my friends want to do it .
+This activity brings me socialization .
+This activity reveals my group identity .
+This activity is a family event .
+Self-efficacy This activity brings me self-fulfillment .
+This activity brings me sense of achievement .
+This activity reveals my personality .
+I enjoy its competitiveness .
+Expertise Compared to the average person , I know a lot about this activity .
+I ’ m very familiar with this activity .
+I am very skilled at performing this activity .
+I know a lot about this activity .
+I am very interested in this activity .
+I own all equipment related to this activity .
+Exploration I am in the process of learning about this activity .
+New activity for me—want to try it out .
+I want to know more about this activity .
+A Model of Activity Consumption 39 cedure yielded the six-item expertise scale .
+An exploratory factor analysis with oblique rotation suggested one domi- nant factor with loadings above .679 for all the items .
+The Cronbach ’ s alpha for this scale is .937 .
+Exploration .
+The measurement items in the exploration scale were developed based on Manfredo , Driver , and Tar- rant ( 1996 ) .
+An exploratory factor analysis with oblique rotation yielded one dominant factor that accounted for 70.8 % of the variance in the data .
+All the factor loadings were above .782 .
+The Cronbach ’ s alpha for this scale is .812 ( for scale items , see Table B1 ) .
+Other variables .
+To measure time use on focal activities , we used the following question : “ Please indicate approxi- mately how many hours and/or minutes you have spent on each of the following activities. ” Because the outside alter- native includes all leisure activities other than the focal ones , we thought it would be unreasonable for the partici- pants to remember the exact number of minutes they spent on all other leisure activities .
+Therefore , we used the follow- ing question : “ Approximately how many hours have you spent on all other leisure activities in the past week ( for example , enter 0.5 for 30 minutes ) ” to measure time spent on the outside alternative .
+As a result , it is possible that our measure on this variable is not very accurate .
+Therefore , we conducted two robustness checks in which we varied values of time spent on the outside alternative by ±10 % and dis- covered that the model estimates did not change signifi- cantly .
+We also collected information on hourly wage rate ( measured as “ supposing that someone offers you an extra hour of work suitable to your skills in this past week , at what hourly wage rate would you be willing to work ? ” ) on a weekly basis .
+The respondents also reported their estimated hourly monetary cost associated with consumption of each activity type .
+In particular , we asked , “ What is your estimated hourly monetary cost ( in dollars ) for participating in this activity ?
+For example , if you plan to spend $ 300 on this activity and engage in this activity for 50 hours this year , the per-hour monetary cost would be $ 6 .
+If you have not yet participated in this activity , please fill in an estimate based on your observation or knowledge of others who engage in this activity. ” We collected this measure on a weekly basis to allow respondents adjust their estimates of the monetary costs required for engaging in these activities over time .
+We acknowledge that this self-reported hourly monetary cost measure is subject to measurement error and endogeneity bias .
+Consequently , we use instrumental variables and the control function approach ( see Appendix A ) to correct for the endogeneity bias , as well as the potential measurement error in this variable .
+Although we extend beyond extant lit- erature ( e.g. , Bhat 2005 ; Kamakura 2009 ; Spissu , et al .
+2009 ) by incorporating monetary cost into consumers ’ activity consumption and/or time allocation decisions , future work could explore avenues to obtain a better mone- tary cost measure and/or to account for differences in the variance of measurement errors across respondents due to differences in expertise .
+We also collected the following time-invariant measures in the first weekly survey .
+We asked the participants when they first participated in this activity on a five-point scale , with more than ten years at the high end and never at the low end .
+We used this response to assess early involvement with the activity .
+To assess degrees of expertise spillovers , we also asked the respondents to report their perceived similarity related to each activity pair ( e.g. , arts and crafts– running/jogging ) regarding skills needed to perform them on a seven-point scale ( 1 = “ require very different skills , ” and 7 = “ require very similar skills ” ) .
+We also collected demographics-related information such as gender , age , state of residence , household income , and so on .
+We classified participants into four regions according to their state of resi- dence ( Northeast , Midwest , South , and West , using the U.S. Census Bureau ’ s regional divisions ) .
+Within-Subject Over-Time Variation of Model Variables Given our interest in examining the evolution of con- sumption motives and consumer expertise , we report descriptives of the within-subject over-time variation in the respondents ’ time use , hedonic , social , self-efficacy , and expertise measures in Table B2 .
+Specifically , for each variable of interest ( e.g. , the hedonic value of arts and crafts ) , we calculated a standard deviation score for each participant using the longitudinal data .
+This score essentially measures the degree of variation in this variable for the par- ticipant during the time span of the data collection .
+Table B2 displays the descriptives of such standard deviation scores across the 287 participants in our consumer panel .
+Note that , with the exception of time use , we measured all the other variables using seven-point scales .
+It is evident that there is a noticeable degree of within-subject variation in these variables during the 20 weeks of our panel data col- lection , which provides a suitable setting to examine the evolution of consumption motives and expertise over time .
+During the panel data collection , we also asked the respondents to indicate whether they arranged one or more Table B2 WITHIN-SUBJECT VARIATION OF VARIABLES OVER TIME Number of Observations M SD Min Max SD_time_a1 287 .985 .772 0 4.225 SD_time_a2 287 .743 .827 0 8.476 SD_time_a3 287 1.173 .834 0 3.844 SD_time_a4 287 .937 .937 0 8.239 SD_time_a5 287 .327 .567 0 3.648 SD_time_outside 287 1.706 .907 0 5.413 SD_hedonic_a1 287 .709 .224 0 1.405 SD_social_a1 287 .697 .219 0 1.310 SD_self_efficacy_a1 287 .698 .208 0 1.351 SD_expertise_a1 287 .639 .193 0 1.383 SD_hedonic_a2 287 .650 .310 0 1.355 SD_social_a2 287 .656 .244 0 1.389 SD_self_efficacy_a2 287 .653 .271 0 1.351 SD_expertise_a2 287 .637 .223 0 1.429 SD_hedonic_a3 287 .644 .275 0 1.364 SD_social_a3 287 .670 .220 0 1.331 SD_self_efficacy_a3 287 .655 .267 0 1.328 SD_expertise_a3 287 .584 .235 0 1.333 SD_hedonic_a4 287 .686 .310 0 1.485 SD_social_a4 287 .670 .244 0 1.344 SD_self_efficacy_a4 287 .685 .267 0 1.400 SD_expertise_a4 287 .654 .256 0 1.379 SD_hedonic_a5 287 .650 .309 0 1.554 SD_social_a5 287 .682 .247 0 1.428 SD_self_efficacy_a5 287 .620 .316 0 1.684 SD_expertise_a5 287 .636 .238 0 1.324 Notes : “ a1 ” represents arts and crafts , “ a2 ” represents running/jogging , “ a3 ” represents video games , “ a4 ” represents workout , and “ a5 ” represents water sports .
+40 JOURNAL OF MARKETING RESEARCH , FEBRUARY 2013 social or personal events ( e.g. , visited a vacation spot , vis- ited friends , visited family , hosted or attended a party , went on a business trip ) during each week of the study .
+Approxi- mately 80 % of the time , the respondents selected one or more events in the weekly surveys .
+This also provides some evidence that there are many external events that may intro- duce variation into the shadow price of time , which in turn may also contribute to the within-subject over-time varia- tion in time use , consumption motives , and expertise in these activities .
+For example , when a person is on vacation in a given week , he or she may allocate considerably more time to video games , workout , and other leisure activities .
+This may lead to a noticeable increase in his or her expert- ise in these activities , which in turn may also enhance the amount of hedonic , social , and self-efficacy benefits the person obtains from consuming these activities .
+In contrast , when the person goes on a business trip and can not spend much time on video games and workout , he or she may experience some expertise decay .
+This in turn may also affect the magnitudes of consumption benefits the person obtains from consuming the activities .
+Consequently , the prevailing existence of such events serves as an external source that introduces over-time within-subject variation into the key variables in our model .
+Comparison of Nested Models In Table B3 , we present a comparison of nested models to demonstrate how various model components add to the prediction of time use for participants in our panel .
+In what follows , we first describe how we carried out the predictions for the time allocation model described in the text .
+Next , we discuss how we carried out the comparison of nested models .
+In our context , in each time period t , consumer i allocates time to the activities under study to maximize the overall util- ity Uit ( in Equation 3 ) subject to the time constraint J j=1 ijt = Tit and ijt 0 for all j .
+Therefore , in the current model , the consumer ’ s time allocation is based on the following prob- lem ( Bhat 2005 ) : In Equation B1 , the random effects associated with Vijt and the error terms ijt and wijt introduce random components ∑ ∑ ( ) ( ) = + ζ + τ + γ⎡⎣⎢ ⎤⎦⎥ τ = τ ≥ = τ α = = ( B1 ) max U exp V w s.t .
+T 0 j 1 , ... , J. it ijt ijt ijt ijt j j 1 J ijt j 1 J it ij ijt j into Uit .
+Therefore , the predictions of time use for individ- ual i in time period t may be obtained by solving the follow- ing constrained optimization problem : where G is the standard extreme value distribution and F is the multivariate normal distribution .
+In time t , we obtain draws of wit = ( wi1t , wi2t , … , wiJt ) based on draws from wi1 ~ MVN ( 0 , A A ) and repeated substitution using wit = wi , t – 1 + it .
+Following Bhat ( 2005 ) , the objective function in Equation B2 can be evaluated using simulation techniques , and the time allocation problem can be predicted using the obtained parameter estimates under a constrained optimization rou- tine .
+To predict time use , we repeated this optimization rou- tine for each person in each of the time periods used for holdout prediction .
+To compare the predictive validity of nested models , we used the following five models : ( 1 ) Model 1 : the most basic model , which incorporates only motives and monetary con- straint and consists of i.i.d .
+double exponential error terms ; ( 2 ) Model 2 : adding expertise and expertise spillovers to Model 1 ; ( 3 ) Model 3 : adding state dependence to Model 2 ; ( 4 ) Model 4 : adding the error component wijt to Model 3 ; and ( 5 ) Model 5 : adding random effects to Model 4 .
+For each of the five models , we carried out predictive compari- sons by using data from the first 15 weeks for calibration and those from the last 5 weeks for prediction .
+Note that Equation B2 describes the prediction procedure used for Model 5 .
+For Models 1–4 , the corresponding components were removed from the utility specification for both calibra- tion and prediction .
+Similar to Bhat ( 2005 ) , we compared the hit rates ( correctly predicting participation ; i.e. , zero or nonzero time spent ) and the mean absolute error between the actual and predicted time use conditional on a correct prediction on participation to assess the predictive validity of these models .
+In Table B3 , we present the comparison results .
+It is evident that each additional component adds the predictive validity of the model , and Model 5 ( the one employed in this study ) has the highest hit rate and the low- est mean absolute error .
+Variance–Covariance Matrix of the Error Terms in Time Allocation Model Table B4 provides the estimated variance–covariance matrix of the error terms from the time allocation model .
+Because our time allocation model already explicitly accounts for expertise spillovers and the substitution across ∫∫∫∫∫∫∫∫ ∑ ∑ η Ψ ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) = × + ζ + τ + γ⎡ ⎣⎢ ⎤ ⎦⎥ × ζ ζ ζ ζ ζ × ζ Ψ τ = τ ≥ = η η τ ζζζζζζ τ α = τ τ = B ( B2 ) max U ( B2 ) max U exp V w ( B2 ) max U dG dG dG dG dG ( B2 ) max U dG dF dF s.t .
+T 0 j 1 , ... , J , B B it it ijt ijt ijt ijt j j 1 J it i1t i2t i3t i4 t i5t it i6t i i ijt j 1 J it ij ijt i6ti5ti4ti3ti2ti1tii ijt j ijt ijt Table B3 COMPARISON OF NESTED MODELS Hit Mean Rate Absolute ( % ) Error Model 1 : motives 72.7 1.19 Model 2 : motives + expertise 77.6 1.09 Model 3 : motives + expertise + state dependence 81.0 1.08 Model 4 : motives + expertise + state dependence 81.5 1.03 + correlated AR ( 1 ) errors Model 5 : motives + expertise + state dependence 82.1 1.01 + correlated AR ( 1 ) errors + random effects A Model of Activity Consumption 41 activity types when consumers make discretionary time-use decisions , the estimated variance–covariance matrix reflects any unobservable relationships across the activities after controlling for the observed factors .
+We discover that all the off-diagonal terms are insignificant , indicating that there is not much covariance in unobserved factors between the activity types , after accounting for the observables .
+As we expected , because of the high number of unobservable fac- tors associated with the outside alternative , compared with the five focal activities , the variance term associated with the outside alternative is also substantially higher .
+Error Term Estimates Related to Determinants of Hedonic , Social , and Self-Efficacy Benefits Table B5 presents the error term estimates related to Equa- tions 7–9 .
+The autoregressive parameters ( i.e. , z ) are signifi- cant for the three quality attributes across all the activities under study .
+In addition , the variance–covariance matrices of the error terms reveal that there are unobservable correla- Table B4 VARIANCE–COVARIANCE MATRIX : MARGINAL CONSUMPTION UTILITY Arts and Crafts Running/Jogging Video Games Workout Water Sports Outside Alternative Arts and crafts .015 ( .019 ) Running/jogging –.005 ( .017 ) .061 ( .059 ) Video games .010 ( .026 ) –.033 ( .045 ) .534 ( .353 ) Workout .018 ( .027 ) –.020 ( .034 ) .109 ( .056 ) .122* ( .030 ) Water sports .057 ( .084 ) .659 ( .962 ) 3.035 ( 3.027 ) .779 ( .418 ) .875 ( .511 ) Outside alternative .002 ( .011 ) .012 ( .050 ) .314 ( .303 ) .104 ( .062 ) 3.888 ( 3.761 ) 102.630 ( 56.111 ) *Significant at .05 .
+Notes : Standard error terms are in parentheses .
+Table B5 ERROR TERM ESTIMATES RELATED TO EQUATIONS 7–9 Hedonic Social Self-Efficacy Arts and Crafts AR ( 1 ) error intercept .092 ( 3.749 ) .107 ( .816 ) .117 ( 3.992 ) AR ( 1 ) error z estimate .712 ( .011 ) * .873 ( .004 ) * .741 ( .009 ) * Variance–Covariance Matrix Hedonic .274 ( .008 ) * Social .041 ( .004 ) * .148 ( .007 ) * Self-efficacy .122 ( .005 ) * .071 ( .004 ) * .236 ( .008 ) * Running/Jogging AR ( 1 ) error intercept .024 ( 1.423 ) .083 ( 3.169 ) .055 ( 1.453 ) AR ( 1 ) error z estimate .865 ( .012 ) * .820 ( .011 ) * .873 ( .010 ) * Variance–Covariance Matrix Hedonic .233 ( .008 ) * Social .049 ( .004 ) * .135 ( .006 ) * Self-efficacy .116 ( .005 ) * .073 ( .004 ) * .225 ( .007 ) * Video Games AR ( 1 ) error intercept .114 ( 2.100 ) .112 ( .652 ) .086 ( 4.752 ) AR ( 1 ) error z estimate .879 ( .034 ) * .862 ( .013 ) * .865 ( .010 ) * Variance–Covariance Matrix Hedonic .210 ( .010 ) * Social .050 ( .004 ) * .168 ( .008 ) * Self-efficacy .091 ( .005 ) * .093 ( .005 ) * .236 ( .008 ) * Workout AR ( 1 ) error intercept .030 ( .679 ) .075 ( .845 ) .125 ( 2.810 ) AR ( 1 ) error z estimate .785 ( .010 ) * .860 ( .011 ) * .817 ( .012 ) * Variance–Covariance Matrix Hedonic .264 ( .010 ) * Social .052 ( .004 ) * .121 ( .006 ) * Self-efficacy .116 ( .005 ) * .075 ( .004 ) * .267 ( .008 ) * Water Sports AR ( 1 ) error intercept .089 ( .309 ) .095 ( 2.211 ) .062 ( 1.092 ) AR ( 1 ) error z estimate .901 ( .010 ) * .828 ( .001 ) * .849 ( .011 ) * Variance–Covariance Matrix Hedonic .263 ( .009 ) * Social .078 ( .005 ) * .186 ( .008 ) * Self-efficacy .130 ( .006 ) * .099 ( .005 ) * .246 ( .009 ) * *Significant at .05 .
+Notes : Standard error terms are in parentheses .
+42 JOURNAL OF MARKETING RESEARCH , FEBRUARY 2013 tions among the hedonic , social , and self-efficacy benefits of each activity for all five focal activities .
+Variance–Covariance Matrix of the Error Terms in the Model of Expertise Table B6 presents the error term estimates related to Equa- tion 10 .
+Most off-diagonal terms in the variance– covariance matrix are positive and significant , implying that , beyond observed factors ( i.e. , lagged expertise and lagged time use ) , the evolution of expertise is correlated across these activities .
+A possible explanation for this finding is that con- sumers develop their expertise in the focal activity through participation in related activities .
+The implied correlations range from .06 between video games and running/jogging to .37 between workout and running/ jogging .
+REFERENCES Ajzen , I. and B.L .
+Driver ( 1992 ) , “ Application of the Theory of Planned Behavior to Leisure Choice , ” Journal of Leisure Research , 24 ( 7 ) , 207–224 .
+Alba , Joseph W. and J. Wesley Hutchinson ( 1987 ) , “ Dimensions of Consumer Expertise , ” Journal of Consumer Research , 13 ( 4 ) , 411–54 .
+Armstrong , Scott and Terry S. Overton ( 1977 ) , “ Estimating Non- Response Bias in Mail Surveys , ” Journal of Marketing Research , 14 ( August ) , 396–402 .
+Arnould , Eric and Linda Price ( 1993 ) , “ River : Magic : Extraordi- nary Experience and the Service Encounter , ” Journal of Con- sumer Research , 20 ( 1 ) , 24–45 .
+Becker , Gary ( 1965 ) , “ A Theory of the Allocation of Time , ” The Economic Journal , 75 ( 299 ) , 493–519 .
+Bhat , Chandra R. ( 2005 ) , “ A Multiple Discrete-Continuous Extreme Value Model : Formulation and Application to Discre- tionary Time-Use Decisions , ” Transportation Research , Part B , 39 ( 8 ) , 679–707 .
+Bronnenberg , Bart J. , Jean-Pierre H. Dubé , and Matthew Gentzkow ( 2012 ) , “ The Evolution of Brand Preferences : Evi- dence from Consumer Migration , ” American Economic Review , 102 ( 6 ) , 2472–2508 .
+Celsi , Richard , Randall Rose , and Thomas Leigh ( 1993 ) , “ An Exploration of High-Risk Leisure Consumption Through Sky- Diving , ” Journal of Consumer Research , 20 ( 1 ) , 1–23 .
+Churchill , Gilbert A. , Jr. ( 1979 ) , “ A Paradigm for Developing Bet- ter Measures of Marketing Constructs , ” Journal of Marketing Research , 16 ( February ) , 64–53 .
+Craft and Hobby Association ( 2011 ) , “ About Us , ” ( accessed December 5 , 2012 ) , [ available at https : //www.craftandhobby .
+org/ eweb/DynamicPage.aspx ? Site=cha & WebKey=077a4ea7- 7c8b-4de2-bd48-61e444916782 ] .
+DiMaggio , Paul and Francie Ostrower ( 1990 ) , “ Participation in the Arts by Black and White Americans , ” Social Forces , 68 ( 3 ) , 753–78 .
+Du , Rex Y. and Wagner A. Kamakura ( 2006 ) , “ Household Life Cycles and Lifestyles in the United States , ” Journal of Market- ing Research , 43 ( February ) , 121–32 .
+Dubé , Jean-Pierre , Günter J. Hitsch , and Peter E. Rossi ( 2010 ) , “ State Dependence and Alternative Explanations for Consumer Inertia , ” RAND Journal of Economics , 41 ( 3 ) , 417–45 .
+Entertainment Software Association ( 2011 ) , “ Industry Facts , ” ( accessed December 5 , 2012 ) , [ available at http : //www.theesa .
+com/ facts/index.asp ] .
+Erdem , Tülin ( 1996 ) , “ A Dynamic Analysis of Market Structure Based on Panel Data , ” Marketing Science , 15 ( 4 ) , 359–78 .
+——— and Michael P. Keane ( 1996 ) , “ Decision-Making Under Uncertainty : Capturing Dynamic Brand Choice Processes in Turbulent Consumer Goods Markets , ” Marketing Science , 15 ( 1 ) , 1–20 .
+——— and Baohong Sun ( 2001 ) , “ Testing for Choice Dynamics in Panel Data , ” Journal of Business and Economic Statistics , 19 ( 2 ) , 142–52 .
+Greene , William H. ( 2000 ) , Econometric Analysis .
+Upper Saddle River , NJ : Prentice Hall .
+Gronau , Reuben and Daniel S. Hamermesh ( 2008 ) , “ The Demand for Variety : A Household Production Perspective , ” The Review of Economics and Statistics , 90 ( 3 ) , 562–72 .
+Habib , K.M , E.J .
+Miller , and Kay W. Axhausen ( 2008 ) , “ Weekly Rhythm in Joint Time Expenditure for All At-Home and Out-of- Home Activities : Application of Kuhn–Tucker Demand System Model Using Multi-Week Travel Diary Data , ” Transportation Research Record , 2054 , 64–73 .
+Hamermesh , Daniel S. ( 2008 ) , “ Direct Estimates of Household Production , ” Economics Letters , 98 ( 1 ) , 31–34 .
+Heckman , James J .
+( 1981a ) , “ Heterogeneity and State Depend- ence , ” in Studies in Labor Markets , S. Rosen , ed .
+Chicago : Uni- versity of Chicago Press , 91–139 .
+——— ( 1981b ) , “ The Incidental Parameters Problem and the Prob- lem of Initial Conditions in Estimating a Discrete Time–Discrete Data Stochastic Process , ” in Structural Analysis of Discrete Panel Data with Econometric Applications , C.F .
+Manski and D. McFadden , eds .
+Cambridge , MA : MIT Press , 179–95 .
+——— ( 1981c ) , “ Statistical Models for Discrete Panel Data , ” in Structural Analysis of Discrete Panel Data with Econometric Applications , C.F .
+Manski and D. McFadden , eds .
+Cambridge , MA : MIT Press , 114–78 .
+Hills , P. , M. Argyle , and R. Reeves ( 2000 ) , “ Individual Differences in Leisure Satisfactions : An Investigation of Theories of Leisure Motivation , ” Personality and Individual Differences , 28 ( 4 ) , 763–99 .
+Holbrook , Morris B. , Robert W. Chestnut , Terence A. Oliva , and Eric A. Greenleaf ( 1984 ) , “ Play as a Consumption Experience : The Roles of Emotions , Performance , and Personality in the Enjoy- ment of Games , ” Journal of Consumer Research , 11 ( 2 ) , 728–39 .
+Table B6 ERROR TERM ESTIMATES RELATED TO EQUATION 10 Arts and Crafts Running/Jogging Video Games Workout Water Sports Arts and crafts .487 ( .012 ) * Running/jogging .041 ( .007 ) * .513 ( .011 ) * Video games .001 ( .008 ) .030 ( .008 ) * .499 ( .015 ) * Workout .075 ( .008 ) * .195 ( .008 ) * .065 ( .008 ) * .537 ( .014 ) * Water sports .079 ( .008 ) * .131 ( .008 ) * .036 ( .008 ) * .103 ( .008 ) * .436 ( .013 ) * *Significant at .05 .
+Notes : Standard error terms are in parentheses .
+A Model of Activity Consumption 43 ——— and Donald R. Lehmann ( 1981 ) , “ Allocating Discretionary Time : Complementarity Among Activities , ” Journal of Con- sumer Research , 7 ( 4 ) , 395–406 .
+Holt , Douglas B .
+( 1995 ) , “ How Consumers Consume : A Typology of Consumption Practice , ” Journal of Consumer Research , 22 ( 1 ) , 1–16 .
+——— ( 1997 ) , “ Poststructuralist Lifestyle Analysis : Conceptualiz- ing the Social Patterning of Consumption in Postmodernity , ” Journal of Consumer Research , 23 ( 4 ) , 326–50 .
+Howard , John A. and Jagdish Sheth ( 1969 ) , The Theory of Buyer Behavior .
+New York : John Wiley & Sons .
+Huang , Guofang , Ahmed Khwaja , and K. Sudhir ( 2012 ) , “ Short Run Needs and Long Term Goals : A Dynamic Model of Thirst Management , ” Cowles Foundation Discussion Paper No .
+1856 , Yale University .
+Jacoby , Jacob , George J. Szybillo , and Carol K. Berning ( 1976 ) , “ Time and Consumer Behavior : An Interdisciplinary Overview , ” Journal of Consumer Research , 2 ( 4 ) , 320–39 .
+Jeuland , Abel P. ( 1979 ) , “ Brand Choice Inertia as One Aspect of the Nation of Brand Loyalty , ” Management Science , 25 ( 7 ) , 671–82 .
+Juster , F. Thomas and Frank P. Stafford ( 1991 ) , “ The Allocation of Time : Empirical Findings , Behavioral Models , and Problems of Measurement , ” Journal of Economic Literature , 29 ( 2 ) , 471–522 .
+Kamakura , Wagner A .
+( 2009 ) , “ American Time-Styles : A Finite- Mixture Allocation Model for Time-Use Analysis , ” Multivari- ate Behavioral Research , 44 ( 3 ) , 332–61 .
+——— ( 2010 ) , “ Common Methods Bias , ” in Wiley International Encyclopedia of Marketing , Jagdish Sheth and Naresh Malho- tra , eds .
+New York : John Wiley & Sons .
+Kim , Jaehwan , Greg M. Allenby , and Peter E. Rossi ( 2002 ) , “ Mod- eling Consumer Demand for Variety , ” Marketing Science , 21 ( 3 ) , 229–50 .
+Lastovicka , John L. ( 1982 ) , “ On the Validation of Lifestyle Traits : A Review and Illustration , ” Journal of Marketing Research , 19 ( February ) , 126–38 .
+Manfredo , Michael , B.L .
+Driver , and Michael Tarrant ( 1996 ) , “ Measuring Leisure Motivation : A Meta-Analysis of the Recre- ation Experience Preference Scales , ” Journal of Leisure Research , 28 ( 3 ) , 180–213 .
+Mason , Winter and Siddharth Suri ( 2012 ) , “ A Guide to Conduct- ing Behavioral Research on Amazon ’ s Mechanical Turk , ” Behavioral Research Methods , 44 ( 1 ) , 1–23 .
+McAlister , Leigh ( 1982 ) , “ A Dynamic Attribute Satiation Model of Variety-Seeking Behavior , ” Journal of Consumer Research , 9 ( 2 ) , 141–51 .
+——— and Edgar Pessemier ( 1982 ) , “ Variety Seeking Behavior : An Interdisciplinary Review , ” Journal of Consumer Research , 9 ( 3 ) , 311–22 .
+Mitchell , Andrew A. and Peter A. Dacin ( 1996 ) , “ The Assessment of Alternative Measures of Consumer Expertise , ” Journal of Consumer Research , 23 ( 3 ) , 219–39 .
+Mitchell , Arnold ( 1983 ) , The Nine American Lifestyles .
+New York : Warner .
+Paolacci , Gabriele , Jesse Chandler , and Panagiotis G. Ipeirotis ( 2010 ) , “ Running Experiments on Amazon Mechanical Turk , ” Judgment and Decision Making , 5 ( 5 ) , 411–19 .
+Petrin , Amil and Kenneth Train ( 2010 ) , “ A Control Function Approach to Endogeneity in Consumer Choice Models , ” Jour- nal of Marketing Research , 47 ( February ) , 3–13 .
+Podsakoff , Philip M. , Scott B. MacKenzie , Jeong-Yeon Lee , and Nathan P. Podsakoff ( 2003 ) , “ Common Method Biases in Behavioral Research : A Critical Review of the Literature and Recommended Remedies , ” Journal of Applied Psychology , 88 ( 5 ) , 879–903 .
+Ratchford , Brian T. ( 2001 ) , “ The Economics of Consumer Knowl- edge , ” Journal of Consumer Research , 27 ( 4 ) , 397–411 .
+Richins , Marsha ( 1994 ) , “ Special Possessions and the Expression of Material Values , ” Journal of Consumer Research , 21 ( 3 ) , 522–33 .
+Rindfleisch , Aric , Alan J. Malter , Shankar Ganesan , and Christine Moorman ( 2008 ) , “ Cross-Sectional Versus Longitudinal Survey Research : Concepts , Findings , and Guidelines , ” Journal of Mar- keting Research , 45 ( June ) , 261–79 .
+Samuelson , Paul A. and William D. Nordhaus ( 2001 ) , Microeco- nomics .
+New York : McGraw-Hill/Irwin .
+Seetharaman , P.B .
+( 2004 ) , “ Modeling Multiple Sources of State Dependence in Random Utility Models : A Distributed Lag Approach , ” Marketing Science , 23 ( 2 ) , 263–71 .
+——— , Andrew Ainslie , and Pradeep K. Chintagunta ( 1999 ) , “ Investigating Household State Dependence Effects Across Categories , ” Journal of Marketing Research , 36 ( November ) , 488–500 .
+Sener , Ipek N. , Rachel B. Copperman , Ram M. Pendyala , and Chandra R. Bhat ( 2008 ) , “ An Analysis of Children ’ s Leisure Activity Engagement : Examining the Day of Week , Location , Physical Activity Level , and Fixity Dimensions , ” Transporta- tion , 35 ( 5 ) , 673–96 .
+Snow , Rion , Brendan O ’ Conner , Daniel Jurafsky , and Andrew Y. Ng ( 2008 ) , “ Cheap and Fast—but Is It Good ?
+Evaluating Non- Expert Annotations for Natural Language Tasks , ” in Proceedings of the Conference on Empirical Methods in Natural Language Processing .
+Stroudsburg , PA : Association for Computational Linguistics , 254–63 .
+Spissu , Erika , Abdul Rawoof Pinjari , Chandra R. Bhat , Ram M. Pendyala , and Kay W. Axhausen ( 2009 ) , “ An Analysis of Weekly Out-of-Home Discretionary Activity Participation and Time Use Behavior , ” Transportation , 36 ( 5 ) , 483–510 .
+Stigler , George and Gary B. Becker ( 1977 ) , “ De Gustibus Non Est Disputandum , ” The American Economic Review , 67 ( 2 ) , 76–90 .
+Unger , Lynete and Jerome B. Kernan ( 1983 ) , “ On the Meaning of Leisure : An Investigation of the Subjective Experience , ” Jour- nal of Consumer Research , 9 ( 4 ) , 381–92 .
+U.S. Department of Labor ( 2009 ) , “ American Time Use Survey , ” ( accessed October 22 , 2012 ) , [ available at http : //www.bls .
+gov/ tus/ ] .
+Wells , William , ed .
+( 1974 ) , Life Style and Psychographics .
+Chicago : American Marketing Association .
+——— ( 1975 ) , “ Psychographics : A Critical Review , ” Journal of Marketing Research , 12 ( May ) , 196–213 .
+Wooldridge , Jeffrey M. ( 2005 ) , “ Simple Solutions to the Initial Conditions Problem in Dynamic , Nonlinear Panel Data Models with Unobserved Heterogeneity , ” Journal of Applied Economet- rics , 20 ( 1 ) , 39–54 .
+Copyright of Journal of Marketing Research ( JMR ) is the property of American Marketing Association and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder 's express written permission .
+However , users may print , download , or email articles for individual use .

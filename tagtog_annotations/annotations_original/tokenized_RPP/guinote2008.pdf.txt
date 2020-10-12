@@ -1,0 +1,874 @@
+guinote2008.pdf
+a0bUY8BKOePUabd94Gymp19zcoim-guinote2008.pdf.plain.html
+
+ATTITUDES AND SOCIAL COGNITION Power and Affordances : When the Situation Has More Power Over Powerful Than Powerless Individuals Ana Guinote University of Kent Six studies examined how power affects responses to situational affordances .
+Participants were assigned to a powerful or a powerless condition and were exposed to various situations that afford different classes of behavior .
+Study 1 examined behavior intentions for weekdays and weekends .
+Studies 2 and 3 focused on responses to imaginary social and work situations .
+Study 4 examined planned behavior for winter and summer days .
+Finally , Studies 5 and 6 examined behavior and attention in the presence of situation- relevant and irrelevant information .
+Consistently across these studies , powerful individuals acted more in situation-consistent ways , and less in situation-inconsistent ways , compared with powerless individuals .
+These findings are interpreted as a result of the greater tendency for powerful individuals to process information selectively in line with the primary factors that drive cognition , such as affordances .
+One consequence of these findings is that powerful individuals change behavior across situations more than powerless individuals .
+Keywords : power , affordances , automatic goal activation , objective group variability , situated cognition Social scientists , policy analysts , and laypeople have long been interested in the ways in which power affects behavior .
+Power leads to action ( Galinsky , Gruenfeld , & Magee , 2003 ) , behavior disinhibition ( Keltner , Gruenfeld , & Anderson , 2003 ) , behavior variability ( Guinote , Judd , & Brauer , 2002 ) , and the facilitation of goal pursuit ( Guinote , 2007c ; see also Bargh & Raymond , 1995 ; Chen , Lee-Chai , & Bargh , 2001 ) .
+In terms of the direction of behavior ( i.e. , what individuals actually do ) , research has , how- ever , often produced contradictory findings .
+Some studies indicate that power magnifies the expression of personal dispositions , pref- erences , and desires of the person ( e.g. , Chen et al. , 2001 ) .
+Other studies indicate that the behavior of powerful individuals is not necessarily driven by stable internal factors ( e.g. , Guinote , 2007d ; Weick & Guinote , in press ) .
+Powerful individuals can act indiscriminately in any direction ( Galinsky et al. , 2003 ) , change their judgments more as a function of subjective experiences ( Weick & Guinote , in press ) , and act in more variable ways than powerless individuals ( Guinote et al. , 2002 ) .
+For example , Galinsky et al .
+( 2003 , Experiment 3 ) found that when a task calls for one to give her or his own resources to a common good ( e.g. , in a public dilemma ) , powerful individuals give more resources compared with powerless individuals , thereby showing more prosocial behavior .
+However , when the task calls for taking resources out of a common good ( e.g. , in a commons dilemma ) , powerful individuals take more out of the common good compared with powerless individuals , thereby showing less proso- cial behavior .
+What remains unclear are the factors that account for the seemingly contradictory behavior of powerful individuals .
+One possible explanation for these findings is that powerful individuals respond more in line with the affordances of the situation1 com- pared with powerless individuals .
+Different situations are associated with the pursuit of different goals .
+For example , work environments afford work activities , whereas parties afford entertainment .
+Entering one ’ s office or a party triggers action tendencies that are consistent with these affordances ( see J. J. Gibson , 1977 ; Smith & Semin , 2004 ; Tucker & Ellis , 1998 ) .
+If powerful individuals respond more to the affor- dances of the situation , then one can expect powerful individuals to work in their offices and entertain themselves in parties , whereas powerless individuals would behave more similarly in the 1 In line with the situated cognition perspective ( e.g. , Barsalou , 2003 ; Smith & Semin , 2004 ) , the term situation is usually used to denote both person-driven ( e.g. , bodily sensations , cognitive experiences , and the like ) as well as environment-driven influences ( e.g. , affordances ) that guide judgment and behavior .
+However , for the purpose of clarity in the present article , I use the term situation to refer only to influences of the environ- ment ( i.e. , the person ’ s immediate surroundings ) .
+This research was supported by Economic and Social Reseach Council Grant RES-000-22-2716 .
+I thank Roger Giner-Sorolla , Dominic Abrams , Mark van Vugt , Arnaud Wisman , and Anat Bardi for helpful comments on a previous version of this article .
+Thanks also to Yaacov Trope for very helpful discussions in the initial phase of this research and to Nicola Boranam , Monica Frechaut , Jay Harris , Carola Leicht , and Cristina Marinho for help in data collection .
+Correspondence regarding this article should be addressed to Ana Gui- note , Department of Psychology , University of Kent at Canterbury , Can- terbury , Kent CT2 7NP , U.K. E-mail : A.Guinote @ kent.ac.uk Journal of Personality and Social Psychology , 2008 , Vol .
+95 , No .
+2 , 237–252 Copyright 2008 by the American Psychological Association 0022-3514/08/ $ 12.00 DOI : 10.1037/a0012518 237 Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+two settings .
+In the office , powerless individuals would look for entertainment at the expense of their work , and in parties , they would think about their work at the expense of entertaining them- selves .
+I follow a situated perspective of cognition ( see Barsalou , 1999 ; Smith & Semin , 2004 ; see also Niedenthal , Barsalou , Winkielman , Karuth-Gruber , & Ric , 2005 ) , arguing that cognition and behavior are dynamic and construed on a moment-to-moment basis .
+Cog- nition does not exist for its own sake and does not operate through static representations that describe external realities such as sche- mas , prototypes , stereotypes , and the like .
+The situated perspective of cognition highlights the role of environmental cues ( e.g. , affor- dances ) as well as embodiment in guiding judgment and behavior .
+Before examining closer the links between power and responsive- ness to affordances of the situation , I first focus on the ways power affects cognition and how this , in turn , can promote responsiveness to the affordances provided by the situation .
+What Is Power ?
+Power is a relational concept that can operate at the individual level ( e.g. , trait dominance ) , interpersonal level ( e.g. , social roles implying authority ) , and intergroup level ( e.g. , ethnicity , member- ship in a numerical majority or minority ; Fiske & Berdahl , 2007 ; Keltner et al. , 2003 ) .
+A common feature of power across these levels of analysis is that powerful individuals enjoy a dispropor- tionate amount of resources ( Kipnis , Castell , Gergen , & Mauch , 1976 ) , control over others ’ outcomes ( Fiske , 1993 ; Fiske & Dépret , 1996 ; Thibaut & Kelley , 1959 ) , and ability to influence others ( Cartwright , 1959 ; French & Raven , 1959 ; Vescio , Snyder , & Butz , 2003 ) .
+Power , Situated Cognition , and Behavior Individuals are exposed to a great amount of information in a given moment .
+However , due to limited capacity , only part of this information is processed depending on the primary factors that drive cognition in that moment ( e.g. , expectancies , goals , needs , experiential information , repeatedly used constructs , priming , af- fordances ; see Driver , 2001 ; Posner & Snyder , 1975 ) .
+Selective information processing is situated and occurs through patterns of activation of relevant information and inhibition of irrelevant information .
+In line with the Situated Focus Theory of Power ( Guinote , 2007a ; see also Guinote , 2007b ) , I argue that power increases the ability to process information selectively , and con- sequently the ability to behave in focused , prioritized ways in line with the factors that drive cognition in the situation ( e.g. , affor- dances , expectancies ) .
+Power changes the relationship individuals have with their en- vironment .
+The greater control over resources and over others that powerful individuals possess , the more they meet their own needs ( Van Dijke & Poppe , 2006 ) .
+These individuals are not dependent on external circumstances and are free from constraints ( Fiske & Dépret , 1996 ; Keltner et al. , 2003 ) .
+They can focus attention on the task at hand and do not need to process all information available in the environment .
+According to the Situated Focus Theory of Power , powerful individuals have more cognitive resources to devote to the task at hand and are therefore better able to inhibit task-irrelevant infor- mation .
+Furthermore , powerful individuals trust default cognitive mechanisms that usually guide judgment and behavior , such as the automatic activation of goals by the environment ( see Bargh , 1990 ; Bargh , Bond , Lombardi , & Tota , 1986 ) .
+In contrast , powerless individuals have multiple concerns .
+These individuals need to pay attention not only to the task at hand but also to those that control their outcomes .
+The Situated Focus Theory of Power proposes that powerless individuals pay attention to multiple sources of information and therefore have less cogni- tive resources for the task at hand .
+Furthermore , these individuals engage more in controlled cognition to increase predictability and control ( see also Fiske & Dépret , 1996 ; Keltner et al. , 2003 ) .
+The present proposal claims that these tendencies override automatic responses such as perception–behavior links and automatic goal activation ( see Bargh , 1990 ; Bargh et al. , 1986 ) .
+In addition , even if some level of goal activation is reached , powerless individuals are less able to exert the executive function of inhibiting goal- irrelevant information ( see Guinote , 2007a , 2007b , 2007c ) .
+This in turn further decreases goal-consistent behavior .
+The hypothesis that powerful individuals are better able to exercise the executive function of focusing attention on a target and inhibiting irrelevant information received support in a series of studies involving size estimation and object orientation ( Guinote , 2007b ) .
+These studies also demonstrate that powerful individuals use more flexible information-processing strategies in line with task demands ( see also Overbeck & Park , 2006 ; Vescio et al. , 2003 ) .
+In contrast , powerless individuals are defocused , pay more attention to detail , are less flexible across tasks , and can not ignore irrelevant information even when the task requires that they do so .
+Finally , the ability to inhibit irrelevant information facilitates ac- tion ( see Guinote , 2007b , Experiment 2 ) .
+In other words , focused attention leads to focused behavior .
+In contrast , attention to mul- tiple sources of information creates multiple sources of action control and less clear priorities ( see Kuhl , 1986 , 1992 ) .
+Affordances can , therefore , be the sole source of action control for powerful individuals , whereas for powerless individuals , affor- dances compete with other sources of information for the control of action .
+As a consequence , I hypothesize that when affordances are a central feature of the situation , powerful individuals respond more in line with the affordances of the situation compared with powerless individuals .
+Affordances Guide Behavior The environment provides specific opportunities for action ( i.e. , affordances ; J. J. Gibson , 1977 ) .
+For instance , a summer day affords more outdoor activities than a winter day .
+When the person enters the situation , the situation automatically activates the activ- ities and goals that can be carried out in it ( Aarts & Dijksterhuis , 2003 ; Craighero , Fadiga , Rizzolatti , & Umilta , 1998 ; Funder & Colvin , 1991 ; B. Gibson & Werner , 1994 ; J. J. Gibson , 1977 ; Mischel , 1968 ; Prinz , 1997 ) .
+For example , a cup induces grasping movements ( Tucker & Ellis , 1998 ) , a step elicits climbing move- ments ( Warren , Kay , Zosh , Duchon , & Sahuc , 2001 ) , and a picture of a library lowers one ’ s tone of voice ( Aarts & Dijksterhuis , 2003 ) .
+Environmental cues also induce complex ( i.e. , macro ) mo- tivated behavior such as littering ( Cialdini , Reno , & Kallgren , 1990 ) or leisurely behavior ( Barker , 1968 ) .
+238 GUINOTE Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+Although individuals can act in ways that are inconsistent with the situation , doing so is usually not functional .
+Cognition is situated and serves adaptive action ( Smith & Semin , 2004 ; see also Fiske , 1992 ) .
+The pursuit of the goals activated by the situation unfolds and runs to completion in similar ways to the pursuit of goals activated through an act of will ( e.g. , Aarts & Dijksterhuis , 2003 ; Bargh , 1990 ; Bargh , Gollwitzer , Lee-Chai , Barndollar , & Troetschel , 2001 ; Chartrand & Bargh , 1996 ) .
+Goals activated by the situation produce the same outcomes , the same content-free features of goal pursuit , such as focused action and persistence , as the pursuit of similar goals set through an act of will ( see Bargh , 1990 ; Bargh et al. , 2001 ) .
+It follows that the same effects of power observed in the pursuit of self-set goals ( Guinote , 2007c ) should occur when goals are activated by the situation .
+Specifically , power should lead to focused attention and prioritized behavior consistent with the focal goals activated by the situation .
+Power , Affordances , and Past Research I follow a situated cognition perspective ( see Barsalou , 1999 ; Niedenthal et al. , 2005 ; Smith & Semin , 2004 ) , arguing that cognition evolves on a moment-to-moment basis and is responsive to environmental cues .
+This perspective does not , however , nec- essarily exclude some enduring person-driven influences on judg- ment and behavior ( see Barsalou , 1999 ) .
+Accordingly , power can magnify the expression of traits , dis- positions , and goals , as shown by past research ( see Bargh & Raymond , 1995 ; Chen et al. , 2001 ; Guinote , 2007c ; Keltner et al. , 2003 ) .
+This occurs when person-driven influences guide cognition , such as when individuals pursue a goal driven by an act of will .
+However , when external influences are strong enough to guide cognition ( e.g. , when the situation is associated strongly with particular classes of behavior , and individuals enter the situation without preexisting goals that oppose the situation ) , power can magnify responses in line with the external influences .
+Consistent with these hypotheses , Guinote and Weick ( in press ) examined the effects of different primes on responses to social targets .
+After a neutral prime , powerful participants responded to the social target more in line with chronic dispositions than pow- erless participants .
+However , when the prime activated constructs that opposed the participants ’ chronic dispositions , powerful par- ticipants were more guided by the prime ( and less by the their chronic dispositions ) than powerless participants .
+These effects derive from the more focused and selective information processing of powerful compared with powerless individuals .
+The present perspective argues that power affects primarily process-related aspects of information processing with implica- tions for the ways individuals behave .
+This perspective is not , however , inconsistent with content-based effects of power .
+Simi- larly , as in other domains ( e.g. , anxiety ) , attentional focus , or the ability to focus attention and inhibit irrelevant information , and attentional biases , or a heightened sensitivity to particular contents , are separate mechanisms ( see Eysenck , Derakshan , Santos , & Calvo , 2007 ) .
+For example , powerful individuals may have more cognitive capacity ( as proposed by the Situated Focus Theory of Power ; Guinote , 2007a ) and also be more inclined to rely on stereotypes to maintain their status quo ( as suggested by Fiske and her col- leagues ; see Fiske & Dépret , 1996 ) .
+Similarly , powerless individ- uals may have greater attentional demands due to the constraints they face ( Guinote , 2007b ) and at the same time be more sensitive to threats in the environment ( Keltner et al. , 2003 ) .
+More impor- tant , the attentional focus that derives from power has conse- quences of its own for judgment and behavior .
+In the present article , I examine implications for responsiveness to affordances .
+The Present Study In the present study , I examined the ways powerful and pow- erless individuals respond to situational affordances .
+Specifically , I examined macro-affordances such as seasonal behavior , entertainment- , or work-directed behavior .
+I hypothesize that , compared with powerless individuals , powerful individuals will respond more in situation-consistent ways and will respond less in situation-inconsistent ways .
+For these individuals , the mere per- ception of the situation will automatically activate applicable con- structs and guide the individual ’ s selective attention toward the affordances of the situation .
+Powerful individuals should therefore invest their effort in the pursuit of the goals activated by the situation and should behave less in ways that are inconsistent with the situation .
+For example , considering that summer affords more outdoor activities and positive mood than winter , one would expect powerful individuals to engage more in outdoor activities and improve their mood in the summer compared with in the winter , whereas for powerless individuals , seasonal differences should be less pronounced .
+I tested these hypotheses in six studies .
+Participants were as- signed to a powerful or a powerless condition and were then exposed to a variety of situations that afford the pursuit of different goals .
+In four studies , participants were exposed to different situ- ations , and I subsequently examined the extent to which they responded in ways that were consistent and inconsistent with the situation .
+In a further study , participants were exposed to a situa- tion and to incidental information that was either consistent or inconsistent with the situation , and I examined how this informa- tion affected their behavior .
+Finally , in another study , participants were exposed to different situations , and I examined attention to cues that were relevant or irrelevant to the pursuit of the goals afforded by the situations .
+Imaginary situations were examined in three studies ( Studies 2 , 3 , and 6 ) , and intended behavior in future situations was examined in three studies ( Studies 1 , 4 , and 5 ) .
+Power was operationalized through control over outcomes ( Studies 1 and 2 ) , through group size ( Study 3 ) , and through priming of power or powerlessness ( Studies 4 , 5 , and 6 ) .
+Study 1 : Planning Weekdays and Weekends Responsiveness to familiar situations , namely , weekdays and weekends , is examined in the present study .
+Ordinarily , weekends , more than weekdays , are associated with leisure and hedonic pursuit , whereas weekdays , more than weekends , are associated with routine and duties .
+If power promotes the pursuit of the goals activated by the situation , then powerful individuals should plan more leisure activities and less routine for their weekends and more routine and less leisure for their weekdays .
+In contrast , powerless individuals should make more similar plans for their weekends and weekdays .
+Participants were randomly assigned to a 239POWER AND AFFORDANCES Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+powerful or a powerless condition following a procedure adapted from Guinote et al .
+( 2002 ) .
+Method Participants .
+Participants were 22 undergraduate students ( 10 men and 12 women ) from the Instituto Superior de Ciências do Trabalho e da Empresa ( Portugal ) , who were paid for participation .
+They were randomly assigned to a powerful or powerless condi- tion .
+Procedure .
+Participants were run individually .
+They were told that they were taking part in a study on creativity .
+Power was manipulated by assigning participants to either a powerful or a powerless role .
+The study was introduced to participants as inves- tigating creativity in work contexts .
+Participants filled out a ques- tionnaire allegedly designed to identify their creativity styles .
+When participants completed the questionnaire , the experimenter ostensibly coded their responses .
+Participants were then told that some people are good at judging creativity , whereas other people are good at performing creative tasks .
+The first type of people were called the judges and the second the workers .
+Participants were given feedback about their styles .
+In reality , half the participants were randomly assigned to the powerful condition and the other half to the powerless condition .
+Participants were told that they would be working in pairs of one worker and one judge .
+The task of the worker was to solve problems that call for solutions , and the task of the judge was to evaluate the worker ’ s solutions .
+Further- more , judges allegedly received a fixed amount of 4 euro ( about $ 6 U.S. ) , and workers received 3 euro ( about $ 5 U.S. ) .
+The latter could earn up to 4.50 euro ( about $ 7 U.S. ) if their solutions were considered by the judges to be creative .
+Participants were told that the study was running in several lab rooms at the same time and that the experimenter was going to find one judge or one worker to work with them .
+She left the room and came back 3 min later , confirming that there was a person to work with the participant , but this person would only be available later .
+While waiting to enact the powerful and powerless roles , par- ticipants were asked whether they would be willing to perform a task that was part of another study .
+This study was allegedly about preferences in everyday life situations .
+Participants were asked to describe what they plan to do in the future in a day during the week and in a day during the weekend .
+The order of the two situations was counterbalanced across participants , and they were only given instructions about the second situation after having responded to the first situation .
+After completing these tasks , participants were checked for suspicion , debriefed , and paid .
+Participants ’ weekday and weekend behavior intentions were coded by two raters who were unaware of the participants ’ power condition .
+They counted the number of routine activities and leisure activities planned by participants .
+Routine activities were those that people perform repeatedly as part of their regular daily routine ( e.g. , setting the alarm clock , answering e-mail , or doing housework ) .
+Leisure activities were those that people engage in for enjoyment ( e.g. , going to the cinema , going to the beach , going out for dinner with a friend ) .
+Results and Discussion Manipulation check .
+Participants indicated on a 1–9 scale the extent to which each power group was “ in charge of the situation. ” A 2 ( power : powerful vs. powerless ) 2 ( target : judge vs. worker ) analysis of variance ( ANOVA ) , with repeated measures on the second factor , revealed a main effect of the target , with judges being perceived more in charge than workers ( Ms 6.60 vs. 4.89 ) , F ( 1 , 20 ) 26.02 , p .001 .
+No other effects were significant .
+Behavior intentions .
+I computed interrater reliability on the number of leisure ( .91 ) and routine ( .82 ) activities identified by the raters in the descriptions and averaged the raters ’ estimates into one score .
+Preliminary analyses indicated that order of the weekend versus weekday situation did not affect responses .
+Order was therefore not included in the analyses reported below .
+The number of activities was subjected to a 2 ( power : powerful vs. powerless ) 2 ( situation : weekend vs. weekday ) 2 ( planned activities : routine vs. leisure ) ANOVA , with situation and planned activities as within-subjects factors .
+The expected Situation Planned Activities interaction was significant , F ( 1 , 19 ) 39.16 , p .001 .
+As can be seen in Table 1 , participants planned more routine and less leisure activities during a weekday ( Ms 9.22 vs. 2.78 ) , F ( 1 , 19 ) 31.64 , p .001 , whereas the reverse was true for the weekend ( Ms 3.90 vs. 7.24 ) , F ( 1 , 19 ) 9.10 , p .01 .
+More important , there was a significant Power Situation Planned Activities interaction , F ( 1 , 19 ) 10.57 , p .005 , indicating that the behavior of powerful participants varied more as a function of the day of the week , F ( 1 , 19 ) 47.46 , p .001 , compared with the behavior of powerless participants , F ( 1 , 19 ) 4.31 , p .06 .
+In the weekday , there was a nonsignificant tendency for partici- pants in the powerful condition to plan relatively more routine than leisure activities ( Ms 11.09 vs. 3.00 ) , compared with partici- pants in the powerless condition ( Ms 7.35 vs. 2.80 ) , F ( 1 , 19 ) 2.02 , p .14 .
+Correspondingly , in the weekend day , participants in the powerful condition planned more leisure than routine activ- ities ( Ms 10.27 vs. 3.50 ) compared with participants in the powerless condition ( Ms 4.20 vs. 4.30 ) , F ( 1 , 19 ) 8.76 , p .01 .
+The present analysis also revealed a marginal effect of power , F ( 1 , 19 ) 3.99 , p .06 , indicating a tendency for powerful participants to engage , overall , in more activities than powerless participants ( Ms 6.97 vs. 4.60 ) .
+The results of this study are consistent with the hypothesis that the situation guides the behavior of powerful more than the be- havior of powerless individuals .
+Accordingly , powerful partici- pants planned more leisure and less routine activities for the Table 1 Number of Routine and Leisure Activities as a Function of Situation and Power in Study 1 Power Routine Leisure Weekday Weekend Weekday Weekend Powerful M 11.09 ( 79 % ) 3.50 ( 25 % ) 3.00 ( 21 % ) 10.27 ( 75 % ) SD 5.34 1.81 3.69 6.67 Powerless M 7.35 ( 72 % ) 4.30 ( 51 % ) 2.80 ( 28 % ) 4.20 ( 49 % ) SD 2.78 1.83 3.21 3.09 Note .
+Activities refer to absolute number and corresponding percentage of routine versus leisure activities reported by participants .
+The percentage of routine and leisure activities in a given day ( weekday or weekend ) sums up to 100 % .
+240 GUINOTE Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+weekend , but more routine and less leisure for the weekday .
+As a result , the planned activities of the powerful participants varied more across different days ( weekdays vs. weekends ) than did the activities of powerless participants .
+Study 2 : Imagining Social Situations Responsiveness to highly familiar situations was examined in Study 1 .
+When situations are very familiar , participants may plan their behavior on the basis of past experiences retrieved from memory .
+The present study examines , therefore , responses to situations that have clear affordances but are less familiar to participants .
+Specifically , it examines responses in imaginary work and social situations .
+Participants were assigned to a powerful or powerless condition by performing social roles .
+Allegedly as part of a separate study , participants were then asked to imagine themselves in two situa- tions and to describe one day in their lives in those situations .
+In one situation , participants had a friend visiting , whereas in the other situation , they were doing an internship .
+The situations were described such that both provided opportunities to engage in work and social activities .
+However , an internship situation affords the pursuit of work-related goals , whereas a friend visit situation affords the pursuit of social and leisure-related goals .
+I therefore expected participants to report more work-related than social- related activities in the internship situation and more social-related than work-related activities in the friend visit situation .
+Further- more , if powerful individuals engage more in the pursuit of the goals activated by the situation , then this difference should be stronger for powerful individuals than for their powerless coun- terparts .
+Method Participants .
+Participants were 40 undergraduate students ( 16 men and 24 women ) from the University of Essex , Essex , England , who were paid £2.50 ( about $ 5 U.S. ) for participation .
+They were randomly assigned to the powerful or powerless condition .
+Procedure .
+Participants were run individually .
+The study was introduced to participants as investigating creativity , and the pro- cedure was similar to Study 1 .
+While waiting to enact the powerful and the powerless roles , participants were asked whether they would be willing to perform a task that was part of another study .
+This study was allegedly about preferences in everyday life situ- ations .
+They were asked to imagine having a friend visiting during 3 days or doing an internship .
+In the friend visit situation , they were asked to imagine that a friend was visiting their town and staying in their apartment during 3 weekdays .
+This event was described as occurring during the semester , while they were taking classes , but not preparing for exams .
+In the internship situation , participants were asked to imagine that they were doing a 1-month internship in a firm .
+They were told that the internship involved working with several staff members , managers , and a psychologist , performing various tasks such as helping with constructing ques- tionnaires and taking part in meetings .
+The internship was said to require 6 hr of work per day .
+Participants were told to imagine being in the situation and were asked to report what they would do all day long .
+The experimenter emphasized that there were no right or wrong answers .
+After describing one day in their lives in one situation , participants were presented with the second situation .
+The order of the friend visit and internship situations was counterbalanced across participants .
+After performing these tasks , participants were checked for suspi- cion , debriefed , and paid £2.50 .
+The descriptions that participants wrote about one day in their lives in the internship and in the friend visit situation were coded by two blind raters into work-related and social-related activities .
+The former activities were any activities related to work at the university ( e.g. , doing homework , studying , going to a class ) , to work at the internship ( e.g. , having a meeting , entering data from a survey , writing a report ) , or any kind of paid work ( e.g. , a part-time job that the participant had ) .
+Social-related activities were leisure activities the participant did with the visiting friend or with any other person ( e.g. , going out for a meal , walking around town , chatting in the living room ) .
+Activities that were not related to these two categories were not considered for the purpose of this analysis .
+Results and Discussion Manipulation check .
+To verify that judges were perceived as having more power than workers , participants were asked to indi- cate on a 1–9 scale the extent to which each power group was “ in charge of the situation. ” A 2 ( power : powerful vs. powerless ) 2 ( target : judges vs. workers ) ANOVA , with repeated measures on the second factor , revealed a main effect of the target , with judges being perceived more in charge than workers ( Ms 6.50 vs. 4.53 ) , F ( 1 , 36 ) 27.02 , p .001 .
+No other effects were significant .
+Responsiveness to the situation .
+I computed interrater reliabil- ity on the number of social activities and work activities identified by the raters .
+Reliability ( alpha ) was .67 for social-related activi- ties and .86 for work-related activities .
+I subsequently averaged the number of activities given by the two raters and subjected this score to an ANOVA .
+Preliminary analyses indicated that order of situation did not affect the results .
+Therefore , I excluded this factor from further analyses .
+A 2 ( power : powerful vs. powerless ) 2 ( situation : friend visit vs. internship ) 2 ( behavior : social activities vs. work activities ) ANOVA , with situation and behavior as within-subjects factors , yielded the expected significant Situation Behavior interaction , F ( 1 , 36 ) 54.71 , p .001 .
+Participants reported more work- than social-related activities ( Ms 6.34 vs.1.76 ) , F ( 1 , 36 ) 30.66 , p .001 ( see Table 2 ) , when they were doing an internship , and reported more social- than work-related activities ( Ms 10.98 vs. 1.53 ) , F ( 1 , 36 ) 54.71 , p .001 , when they had a friend visiting .
+This result indicated that the present manipulation of the situation was successful in inducing situation-specific behavior .
+More important , the ANOVA yielded the expected Power Situation Behavior interaction , F ( 1 , 38 ) 4.42 , p .05 .
+The Situation Behavior interaction was significant for both power- ful , F ( 1 , 36 ) 88.53 , p .001 , and powerless participants , F ( 1 , 36 ) 8.17 , p .01 .
+However , as can be seen in Table 2 , the change in behavior across the two situations was more pronounced for the powerful participants than for the powerless participants .
+Thus , in the internship situation , powerful participants showed a stronger preference for work over social activities ( Ms 7.14 vs. 1.00 ) than did powerless participants ( Ms 5.37 vs. 2.32 ) , F ( 1 , 38 ) 5.36 , p .05 .
+In contrast , in the friend visit situation , 241POWER AND AFFORDANCES Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+powerful participants showed a stronger preference for social over work activities ( Ms 12.81 vs. .67 ) than did powerless partici- pants ( Ms 9.32 vs. 2.32 ) , F ( 1 , 38 ) 14.83 , p .001 .
+As predicted , then , powerful participants , compared with powerless participants , were more responsive to the affordances of the situ- ation and responded less in ways that were inconsistent with the situation .
+There was also a main effect of behavior , F ( 1 , 36 ) 27.06 , p .001 , indicating that participants reported more social-related ac- tivities than work-related activities .
+In addition , there was a main effect of situation , F ( 1 , 36 ) 25.81 , p .001 , indicating that participants reported more activities in the friend visit situation than in the internship situation .
+Finally , the main effect of power was insignificant ( F 1 ) , indicating that powerful and powerless participants did not differ in the number of activities reported .
+The results of the present study support the hypothesis that power facilitates the pursuit of the goals activated by the situation .
+Powerful individuals responded more in situation-consistent ways and responded less in situation-inconsistent ways .
+In a social situation , powerful individuals engaged in social goals , and when they moved to a work situation , they shifted toward pursuing work-related goals .
+Study 3 : Majority and Minority Responses to Work and Social Situations The ways in which power , defined in terms of direct control over outcomes ( see Fiske & Dépret , 1996 ) , affects responsiveness to the situation was examined in Studies 1 and 2 .
+In Study 3 , I examined power on the basis of the membership in a dominant or a subordinate group .
+Social groups differ in the extent to which they control resources and desired outcomes .
+In particular , other things being equal , majorities are more powerful than minorities ( e.g. , DeNardo , 1985 ; Keltner et al. , 2003 ; Ng , 1982 ) .
+Further- more , the effects of group size on information processing are mediated by sense of control ( Guinote , Brown , & Fiske , 2006 ) .
+Not surprisingly , group size and power have similar effects on social perception and behavior ( e.g. , Guinote et al. , 2002 ; Simon & Brown , 1987 ) .
+Participants were assigned to a majority or minority group using a minimal group paradigm ( see , e.g. , Simon & Brown , 1987 ) .
+They were then asked to imagine themselves in the same work and social situations used in Study 2 and to describe one day in those situations .
+Members of the dominant group ( i.e. , majority group members ) were expected to engage more in situation-consistent behavior , and respond less in situation-inconsistent behavior , com- pared with members of the subordinate group ( i.e. , minority group members ) .
+Method Participants .
+Fifty-one undergraduate students ( 29 men and 22 women ) from New York University received credit for partic- ipation in this study .
+They were randomly assigned to the majority or minority condition .
+Procedure .
+Participants were run individually .
+The study was introduced to participants as investigating the link between per- ceptual styles and the interpretation of everyday life situations .
+Participants performed a perceptual task and were given feedback about their alleged perceptual styles ( background or figural ) .
+They were informed that 80 % of the population in the United States was figural/background , and only 20 % was background/figural ( for details regarding the procedure , see Guinote et al. , 2006 ) .
+Partic- ipants were then asked to perform the friend visit and the intern- ship tasks in counterbalanced order .
+After these tasks , participants were checked for suspicion and debriefed .
+The descriptions of the one day in their lives that participants wrote about in the internship and friend visit situation were coded by two raters using the same categories described in Study 2 .
+The raters were unaware of the experimental conditions and the hy- potheses of the study .
+Results and Discussion I computed interrater reliability on the basis of the total number of social and work activities identified by the raters .
+For work behaviors , reliability alpha was .87 , and for social behaviors , alpha was .64 .
+As in Study 2 , analyses were conducted on the average number of behaviors provided by the two raters .
+Initial analyses showed that perceptual style ( figural vs. background ) and order of task did not affect responses .
+Therefore , these factors were not included in the analyses reported below .
+A 2 ( group size : majority vs. minority ) 2 ( situation : friend visit vs. internship ) 2 ( behavior : social activities vs. work activities ) ANOVA , with behavior and situation as within-subjects factors , yielded the ex- pected Situation Behavior interaction , F ( 1 , 42 ) 24.92 , p .001 ( see Table 3 ) .
+In the internship situation , participants reported more work-related activities than social-related activities ( Ms 4.33 vs. 1.83 ) , F ( 1 , 42 ) 17.76 , p .001 , whereas in the friend visit situation , participants reported more social-related than work- related activities ( Ms 3.76 vs.1.87 ) , F ( 1 , 42 ) 8.71 , p .01 .
+These results indicate that the manipulation of the situation was successful in eliciting behavioral responses that matched the situ- ational affordances .
+More central to the present hypothesis , the analysis yielded the expected Behavior Situation Group Size interaction , F ( 1 , 42 ) 10.81 , p .05 .
+For majority group members , the Situa- tion Behavior interaction was significant , F ( 1 , 42 ) 31.98 , p .001 , whereas for minority group members , this interaction was not significant , F ( 1 , 42 ) 1.78 , ns .
+As can be seen in Table 3 , in the Table 2 Number of Work and Social Activities as a Function of Situation and Power in Study 2 Power Work Social Internship Friend visit Internship Friend visit Powerful M 7.14 ( 88 % ) 0.67 ( 5 % ) 1.00 ( 12 % ) 12.81 ( 95 % ) SD 3.87 0.79 1.73 6.31 Powerless M 5.37 ( 70 % ) 2.32 ( 20 % ) 2.32 ( 30 % ) 9.32 ( 80 % ) SD 2.71 5.21 4.33 5.70 Note .
+Activities refer to absolute number and corresponding percentage of work versus social activities reported by participants .
+The percentage of work and social activities in a given situation ( internship or friend visit ) sums up to 100 % .
+242 GUINOTE Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+internship situation , majority members showed a stronger prefer- ence for work over social activities ( Ms 5.23 vs. 1.22 ) than did minority group members ( Ms 3.45 vs. 2.45 ) , F ( 1 , 42 ) , p .05 .
+In contrast , in the friend visit situation , majority group members showed a stronger preference for social over work activities ( Ms 4.82 vs. 1.55 ) than did minority group members ( Ms 2.70 vs. 2.20 ) , F ( 1 , 42 ) 4.52 , p .05 .
+Finally , there was no main effect of group size , F ( 1 , 42 ) 1.37 , ns , indicating that majority and minority group members did not differ in the overall number of activities reported in the situation .
+Overall , the results of Study 3 are consistent with the previous results .
+Power defined through the membership in a dominant or subordinate group affected responsiveness to the affordances of situations in similar ways as power defined in terms of control over outcomes .
+Majority group members , compared with minority group members , engaged more in goals activated by the situation and engaged less in goals that were unrelated to the situation .
+Majority group members , more than minority group members , shifted their preference from social activities to work-related ac- tivities depending on whether they were in a social or work situation .
+Moreover , there was no difference between majority and minority group members in their overall level of activity in the situations .
+Together , Studies 1–3 showed that participants assigned to a powerful condition did not simply seek more pleasurable activities .
+Compared with participants assigned to a powerless condition , they chose to have not only more fun during the weekend or during social-related situations but also more routine and work during the weekday or during work situations .
+Thus , the situation affected more the behavior of powerful participants than the behavior of powerless participants .
+Study 4 : Responding to Seasonal Influences The affordances examined in Studies 1–3 are associated with the ways in which social and work activities are organized in society .
+For example , social life is organized so that weekdays afford work activities , and weekends afford leisure activities .
+Affordances can , however , stem from contingencies associated with the physical environment rather than from social norms .
+Physical environments are capable of influencing behavior and the individual ’ s affective states ( Barker , 1968 ; Brandstätter , 1991 ) .
+For example , good weather , compared with bad weather , promotes outdoor activities , vigorous activities , and positive mood ( e.g. , Kommer , Schwarz , Strack , & Bechtel , 1986 ) .
+To ensure the generality of the present claims , I examine affor- dances associated with the physical environment in Study 4 .
+Spe- cifically , I focus on the ways powerful and powerless individuals respond to seasonal influences .
+If powerful individuals respond more in line with the situation , then these individuals will engage more in outdoor and more vigorous action in the summer than in the winter .
+Furthermore , they will also be happier and more extroverted in the summer than in the winter .
+Conversely , the behavior of powerless individuals will be less affected by the weather conditions .
+To examine the responses of powerful and powerless individu- als to summer and winter days , participants were assigned to a powerful or a powerless condition and asked to plan one winter day and one summer day in the future .
+Power was manipulated by asking participants to imagine themselves in a manager or a subordinate role and to describe one work day in that role .
+Method Participants .
+Participants were 44 undergraduate students ( 34 women and 10 men ) from the Instituto Superior de Ciências do Trabalho e da Empresa ( Portugal ) .
+They were randomly assigned to the power conditions .
+Procedure .
+Participants took part in groups of up to 5 .
+Upon arrival , they were asked to participate in a study examining every- day life situations in organizational contexts .
+Half the participants were assigned to a powerful condition and the other half to a powerless condition .
+Participants in the powerful condition were asked to imagine that they were a managing director in a market- ing organization and to describe a typical workday .
+They were instructed as follows : The managing director in this marketing organization has 20 employ- ees working under him .
+The organization promotes various products to the public , and the role of the director is to distribute the work that subordinates must complete , set goals for the team , approve project proposals , and accept or decline new clients .
+The managing director knows the work well and makes all decisions within the company .
+He determines the salary and the workload of all employees .
+Participants assigned to the powerless condition were asked to imagine that they were an employee in a marketing organization .
+They were instructed as follows : The employee in this marketing organization works in a team of 20 people .
+The organization promotes various products to the public , and the role of the employee is to complete any task that the managing director assigns to him/her , and to follow instructions regarding goals in this marketing organization .
+The employee must also keep records about projects and prepare paperwork for new clients accepted by the director .
+The employee knows the work well and strictly follows the procedures set by the director .
+His or her salary and workload are determined by the director .
+Participants were then asked to describe from morning through- out the evening , and as vividly as possible , a day in their work role .
+They were given an empty sheet of paper and completed this task Table 3 Number of Work and Social Activities as a Function of Situation and Group Size in Study 3 Group size Work Social Internship Friend visit Internship Friend visit Majority M 5.23 ( 81 % ) 1.55 ( 24 % ) 1.22 ( 19 % ) 4.82 ( 76 % ) SD 2.94 0.95 1.57 2.66 Minority M 3.45 ( 58 % ) 2.20 ( 45 % ) 2.45 ( 42 % ) 2.70 ( 55 % ) SD 1.75 0.92 2.46 1.49 Note .
+Activities refer to absolute number and corresponding percentage of work versus social activities reported by participants .
+The percentage of work and social activities in a given situation ( internship or friend visit ) sums up to 100 % .
+243POWER AND AFFORDANCES Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+at their own pace .
+After completion , participants were asked to take part in what was supposedly a separate study examining people ’ s ability to plan events in the future .
+The experimenter asked participants to plan what they think 2 days within the coming year will be .
+Upon explaining the task , the experimenter pretended to randomly select the days of the future .
+In reality , the 2 days were always a winter and a summer day .
+The winter day was a Saturday in mid-February ; the summer day was a Saturday at the end of July .
+Participants completed the two tasks in coun- terbalanced order .
+They were first given instructions regarding one seasonal task before being instructed with regard to the second task .
+After completion , participants were checked for suspicion , debriefed , and thanked .
+The number of outdoor activities ( e.g. , go for a walk , do a barbecue , cycle , go to the beach , spend time in the garden ) and the total number of activities planned by participants were counted by two raters who were unaware of the experimental conditions and the hypotheses of the study .
+The raters also estimated participants ’ average mood , extroversion , and level of activity throughout the day .
+To estimate participants ’ mood , the raters coded each descrip- tion of a summer or a winter day in terms of the extent to which participants were bored versus amused and sad versus happy , on two 9-point scales .
+Extroversion was defined as the extent to which participants initiated social interactions and were socially active throughout the day ( e.g. , invited a friend ; spent the whole day with friends ) and was coded on a 9-point scale ranging from 1 ( intro- vert ) to 9 ( extrovert ) .
+Level of activity was defined by the average energy level physically required to complete the activities de- scribed in the day and was coded on a 9-point scale ranging from 1 ( low ) to 8 ( high ) .
+Examples of vigorous activities are dancing and staying up late ; examples of low-action activities are watching TV and reading a book .
+Results and Discussion Interrater reliability ( alpha ) for the winter day was .91 for outdoor activities , .87 for mood , .90 for extroversion , and .88 for level of activity .
+Interrater reliability for the summer day was .83 for outdoor activities , .82 for mood , .84 for extroversion , and .83 for level of activity .
+Ratings given by the two raters were subse- quently averaged into one score .
+No effects of order of task were obtained ; therefore , this factor was not considered in further anal- yses .
+Outdoor activities .
+A 2 ( power : powerful vs. powerless ) 2 ( season : winter vs. summer ) ANOVA , with repeated measures on the last factor , was conducted on the number of outdoor activities .
+This analysis yielded a main effect of season , F ( 1 , 42 ) 48.69 , p .001 .
+As expected , participants planned more outdoor activ- ities in the summer than in the winter ( Ms 2.65 vs. .90 ) .
+The manipulation of the season was therefore effective in inducing situation-specific behavior .
+More important , there was a Power Season interaction , F ( 1 , 42 ) 8.94 , p .005 , indicating that the responses of powerful participants were more affected by the season than the responses of powerless participants .
+As can be seen in Table 4 , powerful participants planned more outdoor activities in the summer than in the winter ( Ms 3.26 vs. 0.76 ) , F ( 1 , 42 ) 58.08 , p .001 .
+This preference was less pronounced for power- less participants ( Ms 2.05 vs. 1.05 ) , F ( 1 , 42 ) 6.83 , p .05 .
+Powerless participants engaged , therefore , in the pursuit of more similar goals and activities across the different seasons compared with powerful participants .
+Action .
+I first inspected whether power affected the total num- ber of activities planned by participants for winter and summer days .
+I then examined whether power affected the activity level involved in the activities reported .
+A 2 ( power : powerful vs. powerless ) 2 ( season : winter vs. summer ) ANOVA was conducted on the total number of activities reported .
+No effects emerged as a function of power or season ( all Fs 1 ) .
+This result indicates that the higher number of outdoor activities reported by powerful participants in the summer is not a mere artifact of a higher number of activities planned by these participants in this season .
+The same analysis was conducted on the average level of activity involved in the actions described by participants .
+The only significant effect that emerged from this analysis was the expected Power Season interaction , F ( 1 , 42 ) 6.04 , p .05 .
+As can be seen in Table 4 , powerful participants engaged in more vigorous action in the summer compared with the winter ( Ms 6.20 vs. 5.28 ) , F ( 1 , 42 ) 6.30 p .05 , whereas powerless participants did not differ in the activity level of their actions across the two seasons ( Ms 5.64 vs. 6.02 ; F 1.00 ) .
+Powerful individuals , therefore , modulated their activity level as a function of the season , whereas powerless participants did not .
+Extroversion .
+The ratings of extroversion were submitted to a 2 ( power : powerful vs. powerless ) 2 ( season : winter vs. sum- mer ) ANOVA , with seasons as a within-subjects factor .
+This analysis yielded a main effect of season , F ( 1 , 42 ) 4.27 , p .05 .
+As expected , participants acted in a more extroverted way in the summer than in the winter ( Ms 5.49 vs. 4.88 ) .
+More important , the interaction between power and season was significant , F ( 1 , 42 ) 6.08 , p .05 .
+Powerful individuals acted in a more extroverted way in the summer than in the winter ( Ms 5.46 vs. 4.11 ) , F ( 1 , 42 ) 9.04 , p .01 , whereas powerless individuals did not differ in their level of extroversion across the seasons ( Ms 5.52 vs. 5.64 ; F 1 ) .
+Table 4 Behavior and Mood as Function of Season and Power in Study 4 Variable Winter Summer Powerful Powerless Powerful Powerless Outdoor activities M 0.76 1.05 3.26 2.05 SD 0.99 1.10 1.64 1.41 Activity level M 5.28 6.02 6.20 5.64 SD 1.79 1.10 1.60 1.75 Extroversion M 4.11 5.64 5.46 5.52 SD 2.20 1.54 2.37 1.91 Mood M 4.95 5.61 7.05 6.26 SD 1.87 1.58 1.10 1.70 Note .
+Number of outdoor activities counted throughout the day and estimates of participants ’ action , extroversion , and mood rated on 9-point scales spanning from low to high .
+244 GUINOTE Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+Mood .
+The estimates of how amused and happy participants were during the day were closely related ; winter , r ( 44 ) .87 , p .001 ; summer , r ( 44 ) .85 , p .001 .
+Therefore , we collapsed across the estimates given to the two scales and submitted this score to a 2 ( power : powerful vs. powerless ) 2 ( season : winter vs. summer ) ANOVA , with repeated measures on the last factor .
+This analysis yielded the expected main effect of season , F ( 1 , 42 ) 20.12 , p .001 , indicating that participants were happier in the summer than in the winter ( Ms 6.66 vs. 5.28 ) .
+More important , the expected Power Season interaction was signifi- cant , F ( 1 , 42 ) 5.57 , p .02 , pointing out that the seasonal differences in mood were stronger for powerful than for powerless participants .
+Powerful participants were happier in the summer than in the winter ( Ms 7.05 vs. 4.95 ) , F ( 1 , 42 ) 29.52 , p .001 .
+In contrast , powerless participants did not differ in their mood across the seasons ( Ms 6.26 vs. 5.61 ) , F ( 1 , 42 ) 1.82 , ns .
+Power did not affect participants ’ overall mood ( F 1 ) .
+Similarly as in the previous studies , powerful participants acted more in line with the affordances of the situation compared with powerless participants .
+Powerful participants engaged more in outdoor activities , initiated more social encounters , and acted in more vigorous ways in the summer than in the winter , whereas powerless participants behaved more similarly across the seasons .
+Furthermore , the mood of powerful participants was also improved in the summer compared with the winter , whereas this was not the case for powerless participants .
+Whereas affordances associated with the ways society is orga- nized ( e.g. , work vs. social life ) were examined in Studies 1–3 , affordances that derive from constraints that the environment im- poses on individuals by nature of his or her biological capabilities were examined in Study 4 .
+It is important to note that across these different types of affordances , power facilitated behavior that was consistent with the situation and decreased situation-irrelevant behavior .
+Study 5 : Responsiveness to Relevant and Irrelevant Information Studies 1–4 consistently showed that powerful individuals , more than powerless individuals , behave in ways that are consis- tent with the situation .
+The question addressed in Studies 5–6 concerns the mechanisms that contribute to the greater responsive- ness to situational affordances found in powerful individuals .
+I believe that powerful individuals generally process information in more selective ways , which facilitates situation-consistent behav- ior .
+The aim of Study 5 was to establish that powerful individuals , compared with powerless individuals , are behaviorally less respon- sive to information that is irrelevant to the affordances of the situation .
+Once a goal has been activated by the situation , I expected powerful participants to maintain goal-directed action regardless of opportunities to act in goal-inconsistent ways ( see also Guinote , 2007c ) .
+For example , in a work setting , when pre- sented with opportunities to engage in leisure , powerful individu- als should maintain their attention and effort directed at the pursuit of work-related goals .
+In contrast , powerless individuals should show greater sensitivity to opportunities that are irrelevant to their focal goals and should shift their behavior when situation- irrelevant opportunities are presented to them .
+Similarly , during the holiday , powerful individuals should pursue leisure and ignore work-related action opportunities , whereas powerless individuals should shift their behavior as a function of the peripheral oppor- tunities that they encounter .
+Participants were exposed to a situation and were provided with information that was either relevant or irrelevant for the goals afforded by the situation .
+I then observed the extent to which participants ’ activities were affected by the information provided .
+Specifically , 1 month prior to the summer holiday , participants assigned to a powerful or a powerless condition were asked to plan the first day of the holiday .
+They were then given information related to that day that was either consistent ( i.e. , leisure opportu- nities ) or inconsistent ( i.e. , academic opportunities ) with leisure goals .
+Assuming that the affordances of being on vacation are leisure , participants that hold a powerful position are less likely to change their plans for the day after seeing the information about academic activities .
+They are more likely to engage in entertain- ment and make plans accordingly .
+In contrast , exposure to aca- demic opportunities should activate duty-related concerns in pow- erless participants .
+In this study , power was manipulated by asking participants to recall a situation in which they had power over someone or someone else had power over them ( Galinsky et al. , 2003 ) .
+Method Participants .
+Participants were 83 undergraduate students ( 59 men and 24 women ) from the Instituto Superior de Ciências do Trabalho e da Empresa ( Portugal ) who volunteered for participa- tion .
+They were randomly assigned to the power and the action opportunities conditions .
+Procedure .
+The study was conducted in groups of up to 20 participants .
+The experimenter explained that participants would take part in two separate studies .
+Allegedly , the first study focused on the perception of past events , and the second study focused on preferences in everyday life situations .
+Participants were given a booklet containing the power manipulation and information re- garding the second task .
+Following Galinsky et al .
+( 2003 ) , partic- ipants in the powerful condition were asked to write a narrative essay about a particular incident in which they had power over another individual or individuals .
+It was explained that what was meant by power was a situation in which they controlled the ability of another person or persons to obtain something they wanted or were in a position to evaluate those individuals .
+In the powerless condition , participants were asked to report an incident in which someone else had power over them : a situation in which someone had control over their ability to obtain something they wanted or was in a position to evaluate them .
+Participants described the past event at their own pace .
+Subsequently , the experimenter introduced what ostensibly was a separate study .
+She asked participants to imagine themselves on the first day of their next summer holiday , after all the events related to the academic year , such as classes and exams , had ended .
+Their task was to describe what they intend to do on that day .
+The information provided to participants varied such that for half the participants it presented leisure options , whereas for the other half of participants it presented duty-related options .
+Participants in the leisure options condition were told : 245POWER AND AFFORDANCES Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+You woke up , had a shower , and a cup of coffee .
+You checked your mail .
+There was a lot of mail today , including publicity about an arts craft market in a neighboring village at the sea side , and a 50 % discount ticket for the movie theater .
+Participants in the duty-related options condition were told : You woke up , had a shower , and a cup of coffee .
+You checked your mail .
+There was a lot of mail today , including an invitation to attend a conference that the Dean is holding today at your university .
+This information was given to participants supposedly to help them get started with the task .
+Participants were asked to continue the description of the day throughout to the evening .
+It was emphasized that there wee no right or wrong answers and that they could plan the day as they wished to .
+After completion , partici- pants were probed for suspicion , debriefed , and thanked .
+Two raters unaware of the experimental conditions and the hypotheses of the study counted the number of leisure and duty activities planned by participants .
+Leisure activities were those usually carried out during free time ( e.g. , go to the beach , go out for a movie ) .
+Duty activities were those related to school , work , or other personal duties ( e.g. , pay a bill , write a letter ) .
+Results and Discussion Manipulation check .
+Participants indicated the extent to which they had control and exerted influence in the situation on two 1–9 scales ranging from 1 ( not at all ) to 9 ( very much ) .
+The ratings obtained were then averaged into a single score ( .82 ) .
+An independent t test conducted on this measure indicated that pow- erful individuals perceived more control than powerless individu- als ( Ms 6.49 vs. 3.86 ) , t ( 79 ) 6.87 , p .001 .
+Behavior intentions .
+The number of leisure and routine activ- ities obtained by the two raters was averaged to a single score ( s .82 and .84 ) .
+This score was submitted to a 2 ( power : powerful powerless ) 2 ( information : relevant vs. irrele- vant ) 2 ( planned activities : duty vs. leisure ) ANOVA , with planned activities as the within-subjects factor .
+As expected , this analysis yielded a significant main effect of planned activities , F ( 1 , 78 ) 101.40 , p .001 , indicating that participants planned more leisure than duty activities for the first day of their holiday ( Ms 3.93 vs. 0.60 ; see Table 5 ) .
+A significant Information Planned Activities interaction , F ( 1 , 78 ) 8.34 , p .01 , indicated that when participants were exposed to relevant information , they planned more leisure than duty activities ( Ms 4.52 vs. 0.23 ) , whereas when participants were exposed to irrelevant information , they planned relatively less leisure activities and more duty activ- ities ( Ms 3.34 vs. 0.97 ) .
+Of more importance here , the analysis yielded the expected Power Information Planned Activities significant interaction , F ( 1 , 78 ) 4.78 , p .05 .
+The number of leisure versus duty activities planned by participants in the powerful condition was unaffected by the information they received ( F 1 ; relevant information : Ms 4.06 vs. 0.20 ; irrelevant information : Ms 4.19 vs. 0.79 ) .
+In contrast , powerless participants planned rela- tively more leisure than duty activities in the relevant condition ( Ms 4.98 vs. 0.26 ) compared with the irrelevant condition ( Ms 2.50 vs. 1.15 ) , F ( 1 , 78 ) 21.52 , p .001 .
+Furthermore , there was a marginal Power Information interaction , F ( 1 , 78 ) 3.35 , p .07 , indicating that powerful participants planned the same overall number of activities in the relevant- and irrelevant- information conditions ( Ms 2.13 vs. 2.49 ; F 1 ) , whereas powerless participants planned more activities in the relevant- than in the irrelevant-information condition ( Ms 2.61 vs. 1.82 ) , F ( 1 , 78 ) 4.32 , p .05 .
+The results of this study lend additional support for the hypoth- esis that powerful participants engage more unequivocally in the pursuit of the goals activated by the situation .
+In planning their summer holiday , powerful participants maintained their interest in leisure activities and were uninfluenced by information that could distract them from their holiday plans .
+In contrast , participants in the powerless condition were strongly influenced by the irrelevant information .
+As expected , these participants prioritized their focal leisure activities when no distracting incidental information was presented to them .
+However , exposure to information that con- flicted with the focal leisure goals drastically diminished the number of leisure activities these participants planned for their summer holiday and increased the number of irrelevant activities .
+Our earlier studies demonstrate that powerful individuals , more than powerless individuals , respond differently to different situa- tions in accordance with the goals that are activated by each situation .
+The present study shows that the more powerful indi- viduals are , at the same time , more selectively guided by the primary aspects that define the situation ( e.g. , the affordances of the situation ) , and are less responsive to peripheral information .
+Study 6 : Attention to Relevant and Irrelevant Information In Study 5 , powerful participants behaved in line with the situation even in the presence of opportunities for situation- irrelevant action .
+We assume that this occurs because power af- fects cognition in ways that facilitate situation-consistent behavior .
+In Study 6 , this hypothesis was tested .
+Furthermore , the findings of Study 5 were expanded by examining duty-related and non-duty- related situations .
+Attention is selective in order to organize , give meaning to the incoming information and guide behavior ( Posner & Snyder , 1975 ) .
+If affordances drive attention , and powerful individuals process information more selectively , then they should focus at- tention more selectively on information that is relevant , and ignore information that is irrelevant , to the affordances of the situation .
+Table 5 Behavior as a Function of Power and Action Opportunities in Study 5 Power Situation consistent Situation inconsistent Leisure Duty Leisure Duty Powerful M 4.06 ( 95 % ) 0.20 ( 5 % ) 4.19 ( 84 % ) 0.79 ( 16 % ) SD 2.49 0.44 4.01 0.96 Powerless M 4.98 ( 95 % ) 0.26 ( 5 % ) 0.20 ( 5 % ) 1.15 ( 32 % ) SD 2.28 0.59 2.03 1.05 Note .
+Activities refer to absolute number and corresponding percentage of leisure vs. duty activities reported by participants .
+The percentage of leisure and duty activities as a function of action opportunities ( situation consistent vs. situation inconsistent ) sums up to 100 % .
+246 GUINOTE Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+This hypothesis parallels findings in the domain of goal pursuit .
+When individuals pursue a goal driven by an act of will , they process more extensively cues in the environment that are relevant for goal pursuit and process less extensively cues that are irrele- vant for goal pursuit ( Foerster , Liberman , & Higgins , 2005 ; see also Kuhl , 1986 , 1992 ) .
+I argue that the same attentional selectivity observed in powerful individuals in the pursuit of goals activated by an act of will ( Slabu & Guinote , 2008 ; see also Guinote , 2007c ) occurs in the pursuit of goals activated by the situation .
+Participants were exposed to the same social or work situation used in Study 2 and read information that was relevant or irrele- vant to the affordances of the situation .
+The time participants took to read each piece of information was measured .
+Following Fiske and her colleagues ( see Fiske & Dépret , 1996 ; Goodwin , Gubin , Fiske , & Yzerbyt , 2000 ) , longer reading times indicate more extensive information processing .
+Accordingly , powerful individuals were expected to read longer relevant information relative to irrelevant information , whereas powerless individuals were expected to process more equally different types of information .
+Specifically , in the friend visit situation , powerful individuals were expected to read longer infor- mation that was relevant to the pursuit of social and tourist goals , compared with information that was irrelevant to these goals .
+Conversely , in the internship situation , powerful individuals were expected to read longer information that was relevant to work goals and read less other information .
+These differences should be less pronounced for powerless individuals .
+Method Participants .
+Participants were 72 undergraduate students ( 14 men and 58 women ) from the University of Kent , Kent , England , who received course credit for participation .
+They were randomly assigned to the power and the affordances conditions .
+Procedure .
+Participants were run in small groups of up to 4 participants and were visually separated from one another .
+Power was manipulated by asking participants to describe a past event in which they had power over someone or someone had power over them ( Galinsky et al. , 2003 ) .
+After completion of this task , partic- ipants were introduced either to the friend visit task or to the internship task used in Study 2 .
+Participants were asked to imagine themselves in the situation presented and to report one day in that situation from morning throughout the evening .
+It was emphasized that there were no right or wrong answers and they could spend the day as they wished .
+While the experimenter was preparing the answer sheets , she invited participants to read sentences on the computer screen that supposedly were part of another study .
+They were told that these sentences consisted of a wide variety of activities that people can engage in in their everyday lives .
+The sentences were supposedly unrelated to the present study ; however , reading them could be useful to familiarize participants with the way people often re- ported everyday activities .
+Participants were presented with 52 short sentences on the computer screen .
+Ten sentences contained information that was relevant for social and tourist goals activated by the visit of a friend ( e.g. , visit a museum ; go to a restaurant ; go to the disco ) , and 10 sentences contained information that was relevant for goals activated by the internship ( e.g. , have a meeting ; send a fax ; talk to delivery ) .
+These sentences derived from responses given by participants in Study 2 .
+The remaining 20 sentences were irrele- vant for both the social and the work affordances ( e.g. , go to the gym ; attend a class ; talk to the parents ) .
+The sentences were displayed on a screen operating at a reso- lution of 640 480 pixels .
+They were written in black courier font with 18-pt .
+size and appeared in the middle of the screen against a white background .
+Each trial started with the appearance of one sentence in the middle of the screen .
+The sentence remained on the screen until participants pressed the space bar on the keyboard .
+After pressing the space bar , 500 ms elapsed before the next sentence emerged .
+The relevant and irrelevant sentences were presented to participants in random order .
+Participants performed the computer task at their own pace .
+They were unaware that the computer recorded their reaction times .
+After completion , partic- ipants were checked for suspicion , debriefed , and dismissed .
+Results and Discussion Manipulation check .
+Participants indicated on a 9-point scale ranging from 1 ( not at all ) to 9 ( very much ) how much in charge they were in the situation they described .
+An independent samples t test indicated that powerful participants felt more in charge than powerless participants ( Ms 6.87 vs. 2.58 ) , t ( 68 ) 12.05 , p .001 .
+Attention .
+I first computed the mean reading times for relevant and irrelevant information .
+Reading times below 300 ms and above 5,100 ms ( 2.5 standard deviations ) were excluded from the data analyses .
+In the friend visit situation , the mean reading time for relevant information was the mean reading time for the 10 social- and tourist-related sentences .
+In the internship situation , the mean reading time for relevant information was the mean reading time for the 10 work-related sentences .
+In the friend visit situation , the mean reading time for irrelevant information was the mean reading time for neutral and work-related sentences .
+In the internship situation , the mean reading time for irrelevant information was the mean reading time for neutral and social-tourist-related sentences .
+A 2 ( power : powerful vs. powerless ) 2 ( situation : friend visit vs.internship ) 2 ( information : relevant vs. irrelevant ) ANOVA , with information as the within-subjects factor , was conducted .
+This analysis yielded the expected significant Information Power interaction , F ( 1 , 68 ) 4.14 , p .05 .
+As can be seen in Figure 1 , powerful participants spent more time reading situation- relevant information compared with situation-irrelevant informa- tion ( Ms 1,384 ms vs. 1,283 ms ; SDs 494 ms vs. 466 ms ) , F ( 1 , 68 ) 6.23 , p .05 .
+In contrast , powerless individuals spent the same amount of time reading situation-relevant and situation- irrelevant information ( Ms 1,457 ms vs. 1,475 ms , SDs 522 ms vs. 592 ms ) , F ( 1 , 68 ) .1 .
+No other effects were significant .
+Thus , the effects of power on the processing of situation-relevant and irrelevant information occurred independently of the type of situation .
+These results support the hypothesis that power promotes selec- tive attention to information that is relevant for the affordances of the situation .
+When exposed to a social situation , powerful indi- viduals process more extensively information that is relevant and process less information that is irrelevant for the pursuit of social goals .
+When exposed to a work situation , powerful individuals process more extensively information that is relevant for work 247POWER AND AFFORDANCES Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+goals and process less irrelevant information .
+Powerless individu- als are less guided by the affordances of the situation and process more equally all information .
+These results are consistent with the hypothesis that power promotes information processing that facil- itates behavior consistent with the situational affordances .
+General Discussion One of the primary goals of personality and social psychology research is to investigate how individuals modulate their behavior across the different situations they experience in their daily life ( Andersen & Chen , 2002 ; J. J. Gibson , 1977 ; Mischel , 2000 ; Shoda & Mischel , 1993 ; Snyder , 1983 ) .
+Research demonstrates that different situations activate different goals that can be carried out in the situation ( J. J. Gibson , 1977 ; Prinz , 1997 ) .
+For example , the workplace instigates work-related goals , a party instigates entertainment , and good weather instigates outdoor activities .
+Once goals have been activated by the situation , they then run to completion in similar ways as goals set by an act of will ( Bargh , 1990 ; Bargh et al. , 2001 ; Chartrand & Bargh , 1996 ; see also Aarts & Dijksterhuis , 2003 ; Prinz , 1997 ) .
+In the present article , I hypothesized that power increases re- sponsiveness to the affordances of the situation .
+In line with findings indicating that affordances guide cognition and behavior ( J. J.Gibson , 1977 ; Prinz , 1997 ; Tucker & Ellis , 1998 ) and that power facilitates reliance on the factors that drive cognition in the situation ( Guinote , 2007a ; see also Guinote , 2007b ) , I reasoned that powerful individuals would respond more in line with the affordances of the situation compared with powerless individuals .
+Accordingly , I expected powerful individuals , more than power- less individuals , to direct their attention and effort to the pursuit of the goals activated by the situation and respond less in ways that are irrelevant to the situation .
+To test these hypotheses , participants were assigned to a pow- erful or a powerless condition and exposed to situations that activate different goals .
+I then measured the extent to which participants behaved , and processed information , in ways that were consistent and inconsistent with the situation .
+Across six studies conducted in three different countries , using different manipula- tions of power and a variety of everyday life situations , I consis- tently found support for the present hypotheses .
+Studies 2 , 3 , and 6 revealed that individuals who occupied a powerful position responded more to imaginary social and work situations in line with what the situations afforded .
+Specifically , for powerful indi- viduals , more than for powerless individuals , the exposure to an internship situation activated primarily work activities ( rather than social activities ) , and the exposure to the visit of a friend activated primarily social activities ( rather than work activities ) .
+Behavioral intentions by participants assigned to a powerful or a powerless condition were examined in Studies 1 , 4 , and 5 .
+The results showed that the intentions of powerful individuals were more focused on pursuing goals that were consistent with the situation .
+For example , powerful individuals were in a better mood and planned more outdoor and more vigorous activities in the summer than in the winter .
+In contrast , the activities and mood of powerless individuals were less affected by the situation .
+Finally , the results of Studies 5 and 6 clearly lend support for the hypothesis that a mechanism that contributes to the greater respon- siveness to situational affordances found in powerful individuals consists in the ability to focus attention on information that is relevant , and ignore information that is irrelevant , for the affor- dances of the situation .
+In Study 5 , powerful individuals ’ prefer- ence for leisurely activities during their summer vacation was much less affected by irrelevant alternatives than was the prefer- ence by powerless individuals .
+The powerful individuals thus Figure 1 .
+Attention ( reading times in milliseconds ) to situation-relevant and situation-irrelevant information in Study 6 .
+248 GUINOTE Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+maintained their behavioral orientation toward their focal goals even in the presence of distracting cues , whereas the behavior of the powerless individuals shifted .
+In Study 6 , powerful individuals paid more attention to cues that were relevant , and paid less attention to cues that were irrelevant , to the goals activated by the situation , whereas powerless individ- uals processed more equally different types of information .
+Thus , for powerful individuals , more than for powerless individuals , entering a social situation increased the accessibility of social goals compared with work goals , and the reverse was true when entering a work situation .
+Increased accessibility of goal-relevant information has been shown to facilitate goal pursuit ( see Foerster et al. , 2005 ; Kuhl , 1986 , 1992 ) .
+Power , Cognition , and Behavior One contribution of the present work is that it shows that power affects the choices of behavior individuals engage in .
+In addition to facilitating action ( Galinsky et al. , 2003 ; Guinote et al. , 2002 ; Keltner et al. , 2003 ) , power also affects what individuals actually do .
+Powerful individuals prioritize and are better able at shielding their focal goals against potential intrusion ( see Shah , Friedman , & Kruglanski , 2002 ) .
+These results are consistent with findings ob- tained in the pursuit of goals activated through an act of will ( Guinote , 2007c ) .
+The situation plays a more important role in initiating and organizing the behavior of powerful compared with powerless individuals .
+The individuals in powerful positions , compared with the individuals in powerless positions , are more likely to respond with what Jones and Gerard ( 1967 ) called an unequivocal behavior orientation toward the different situations they encounter in their everyday life .
+During work , they become fully engaged in work , whereas during the weekend , they become fully engaged in enter- tainment .
+The powerful individuals thus respond in an if–then fashion , discriminately conditioning their response on the nature of the situation ( Mischel , 2000 ; Shoda & Mischel , 1993 ) .
+As the present studies suggest , powerless individuals will sometimes en- tertain themselves during work rather than during the weekend , and work during the weekend rather than at the workplace .
+The present findings are consistent with the Situated Focus Theory of Power ( Guinote , 2007a , 2007b ) , which claims that powerful individuals respond more selectively in line with the primary factors that drive cognition in the situation ( e.g. , expect- ancies , goals , frequently used constructs , needs , affordances ) .
+For example , when expectancies are activated , powerful individuals process more extensively information that is relevant to these expectancies and process less irrelevant information .
+Similarly , when goals are activated , either through an act of will or through exposure to affordances , powerful individuals respond more in a goal-consistent manner and respond less in a goal-inconsistent manner .
+In contrast , powerless individuals are not focused and are less guided by any single factor that drives cognition .
+According to this perspective , powerful individuals are more flexible and use a wider range of cognitive processes to guide their judgments and action .
+For example , they use high order , concep- tually driven cognition for the purpose of planning , problem solv- ing , and goal striving .
+However , they also trust lower order cog- nition in situations for which lower order cognition usually provides adaptive , good enough responses .
+For example , powerful individuals rely more on affective states ( Hecht & LaFrance , 1998 ) , experiential information ( Guinote , 2007d ; Weick & Gui- note , in press ) , and , as the present article shows , environmental cues .
+In contrast , powerless individuals tend to engage in con- trolled cognition ( see also Fiske & Depret , 1996 ; Keltner et al. , 2003 ) , which overrides the influence of other processes .
+Power signals to the individual that desired outcomes will be attained and the environment is benign .
+Therefore , automatic re- sponses to the situation are adaptive for these individuals .
+In contrast , for powerless individuals , being guided by controlled cognition in order to increase predictability and control seems a more adaptive response .
+Another perspective that predicts action facilitation in powerful individuals is the approach-avoidance theory of power ( Keltner et al. , 2003 ; see also Anderson & Berdahl , 2002 ) .
+This perspective proposes that power increases behavioral disinhibition , sensitivity to rewards , and positive affect , whereas powerlessness induces behavioral inhibition , sensitivity to threats , and negative affect .
+The Situated Focus Theory of Power is process related .
+It claims that the effects of power derive from the relative constraints that individuals experience in attaining valuable outcomes and the direct consequences for cognition .
+This approach builds on past research on control ( e.g. , Pittman & Pittman , 1980 ; Skinner , 1995 ; see also Fiske & Depret , 1996 ) and is based on the direct effects that power has on the individual ’ s goals system ( i.e. , their relative ability to attain desired outcomes ) .
+In contrast , the approach- avoidance theory claims that power affects the evaluation of stim- uli in the environment ( i.e. , affects the evaluative system ) , which , in turn , leads to approach or avoidance behavior .
+In spite of these differences , the two perspectives are compati- ble .
+Attentional focus , driven by differences in the objective dif- ficulties and demands that powerful and powerless individuals experience , and attentional bias , as a heightened sensitivity to certain contents ( e.g. , rewards , stereotypes ) , are two different mechanisms ( see Eysenck et al. , 2007 ) .
+Powerful and powerless individuals may differ in processing capacity and distractibility and simultaneously be motivated to attain rewards or avoid threats .
+Furthermore , it is possible that powerless individuals ’ avoidant orientation further impairs their processing abilities , in addition to the cognitive impairment that directly derives from objective con- straints .
+Situated focus proposes that powerful and powerless individuals pursue the same goals differently .
+Another perspective that also focuses on the ways individuals pursue goals , beyond the search for pleasure and avoidance of pain , is the Regulatory Focus Theory ( Higgins , 1997 ) .
+Accordingly , powerful and powerless may pursue goals differently .
+For example , a member of a dominant group may engage in academic goals to attain hopes and aspirations , follow- ing a promotion focus , whereas a member of a subordinate group may engage in academic goals as a result of concerns with the ought self , duties and safety , following a prevention focus .
+The relative contributions of situated focus , approach-avoidance , and regulatory focus for the behavior of powerful and powerless indi- viduals remain a topic for future research .
+Power and Behavior Variability Past research has shown that powerful individuals act in more variable ways one from another compared with powerless individ- 249POWER AND AFFORDANCES Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+uals .
+Specifically , Guinote et al .
+( 2002 ) videotaped participants assigned to powerful and powerless roles across various situations : working by themselves , working in a group , and introducing themselves to the group .
+Observers , who later saw the videotapes and were unaware of the power relations , rated powerful individ- uals as more variable one from another along several personality traits compared with powerless individuals .
+This occurred in part because powerful individuals engaged in longer self-presentation that was more revealing of their unique , individuating character- istics than powerless individuals .
+This research examined interindividual differences in behav- ior variability between powerful and powerless individuals .
+In contrast , the present findings contribute to the understanding of the ways power affects intraindividual behavior variability across situations .
+In particular , four of the studies ( Studies 1 , 2 , 3 , and 4 ) assessed each participant ’ s responses across the dif- ferent types of situations ( i.e. , weekday and weekend ; intern- ship and friend visit ; winter and summer ) .
+I consistently found that the responses of powerful individuals varied across the different situations more than did the responses of the power- less individuals .
+Greater variability in the responses of powerful individuals across situations was also found in studies in which subjective experiences were manipulated ( Weick & Guinote , in press ) .
+Using the ease-of-retrieval paradigm ( Schwarz et al. , 1991 ) , Weick and Guinote ( in press ) found that powerful individuals change their attitudes and social judgments more as a function of how easy or difficult it is for them to retrieve information compared with powerless individuals .
+The greater responsiveness to situational affordances of pow- erful individuals increases their intraindividual behavior vari- ability but may decrease the differences in interpersonal behav- ior variability among these individuals .
+When situations are strong and do not afford variability ( e.g. , a funeral , a church service , or a classroom afford a smaller range of different types of actions compared with a weekend or a holiday ) , it is possible that no differences in the variability of powerful and powerless individuals may occur .
+In contrast , greater variability between powerful individuals is to be expected when dispositions , goals driven by an act of will , or states of the person dominate the setting , as well as when the situation allows individuating responses ( see , e.g. , Mischel , 2000 ) .
+The Power of the Person Versus the Power of the Situation Researchers have argued that power magnifies the expression of personal dispositions ( Chen et al. , 2001 ) , the pursuit of personal goals ( Bargh & Raymond , 1995 ) , and resistance against external circumstances ( Brauer & Bourhis , 2006 ; Lewin , 1941 ) .
+According to this position , power increases control of the person over the situation .
+In contrast , the present findings point out that powerful individ- uals are more affected by the situation .
+Although the present and past research seem contradictory , this is not necessarily the case .
+Present research and past research have examined behavior from different perspectives .
+Prior research did not examine the role of situational affordances .
+For example , this research focused on chronically accessible constructs ( Chen et al. , 2001 ) or goals set by the person ( Guinote , 2007c ) .
+Similarly , the present research did not examine how individuals respond to situations when they pursue self-initiated goals unrelated to the affordances of the situation .
+Under these conditions , powerful individuals may not respond to the affordances of the situation .
+These questions remain for future research .
+More important , the present research points out an ironic effect of power .
+In spite of the fact that powerful individuals often impose their will over others and resist external influences ( e.g. , Lewin , 1941 ) , the situation may often have more power over powerful than powerless individuals .
+References Aarts , H. , & Dijksterhuis , A .
+( 2003 ) .
+The silence of the library : Environ- ment , situational norm , and social behaviour .
+Journal of Personality and Social Psychology , 84 , 18–28 .
+Andersen , S. , & Chen , S. ( 2002 ) .
+The relational self : An interpersonal social-cognitive theory ?
+Psychological Review , 109 , 619–645 .
+Anderson , C. , & Berdahl , J. L. ( 2002 ) .
+The experience of power : Exam- ining the effects of power on approach and inhibition tendencies .
+Jour- nal of Personality and Social Psychology , 83 , 1362–1377 .
+Barker , R. G. ( 1968 ) .
+Ecological psychology : Concepts and methods for studying the environment of human behavior .
+Stanford , CA : Stanford University Press .
+Bargh , J .
+A .
+( 1990 ) .
+Auto-motives : Pre-conscious determinants of social interaction .
+In E. T. Higgins & R. M. Sorrentino ( Eds .
+) , Handbook of motivation and cognition ( Vol .
+2 , pp .
+93–130 ) .
+New York : Guilford Press .
+Bargh , J .
+A. , Bond , R. N. , Lombardi , W. J. , & Tota , M. E. ( 1986 ) .
+The additive nature of chronic and temporary sources of construct accessi- bility .
+Journal of Personality and Social Psychology , 50 , 869–878 .
+Bargh , J .
+A. , Gollwitzer , P. M. , Lee-Chai , A. Y. , Barndollar , K. , & Troetschel , R. ( 2001 ) .
+The automated will : Nonconscious activation and pursuit of behavioral goals .
+Journal of Personality and Social Psychol- ogy , 81 , 1014–1027 .
+Bargh , J .
+A. , & Raymond , P. ( 1995 ) .
+The naı̈ve misuse of power : Non- conscious sources of sexual harassment .
+Journal of Social Issues , 26 , 168–185 .
+Barsalou , L. W. ( 1999 ) .
+Perceptual symbol systems .
+Behavioural and Brain Science , 22 , 577–660 .
+Barsalou , L. W. ( 2003 ) .
+Abstraction in perceptual symbol systems .
+Phil- osophical Transactions of the Royal Society of London : Biological Sciences , 358 , 1177–1187 .
+Brandstätter , H. ( 1991 ) .
+Emotions in everyday life situations : Time sam- pling of subjective experience .
+In F. Strack , M. Argyle , & N. Schwarz ( Eds ) , Subjective well-being : An interdisciplinary perspective ( pp .
+173– 192 ) .
+Elmsford , NY : Pergamon Press .
+Brauer , M. , & Bourhis , R. Y .
+( 2006 ) .
+Social power .
+European Journal of Social Psychology , 36 , 601–616 .
+Cartwright , D. ( 1959 ) .
+A field theoretical conception of power .
+In D. Cartwright ( Ed .
+) , Studies in social power ( pp .
+183–220 ) .
+Ann Arbor : University of Michigan Press .
+Chartrand , T. , & Bargh , J .
+( 1996 ) .
+Automatic activation of impression formation and memorization goals : Nonconscious goal priming reduces effects of explicit task instructions .
+Journal of Personality and Social Psychology , 71 , 464–478 .
+Chen , S. , Lee-Chai , A. Y. , & Bargh , J .
+A .
+( 2001 ) .
+Relationship orientation as a moderator of the effects of social power .
+Journal of Personality and Social Psychology , 80 , 173–187 .
+Cialdini , R. B. , Reno , R. R. , & Kallgren , C. A .
+( 1990 ) .
+A focus theory of normative conduct : Recycling the concept of norms to reduce littering in public places .
+Journal of Personality and Social Psychology , 58 , 1015– 1026 .
+250 GUINOTE Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+Craighero , L. , Fadiga , L. , Rizzolatti , G. , & Umilta , C. ( 1998 ) .
+Action for perception : A motor-visual attentional effect .
+Journal of Experimental Psychology : Human Perception and Performance , 6 , 1673–1692 .
+DeNardo , J .
+( 1985 ) .
+Power in numbers : The political strategy of protest and rebellion .
+Princeton , NJ : Princeton University Press .
+Driver , J .
+( 2001 ) .
+A selective review of selective attention research from the past century .
+British Journal of Psychology , 92 , 53–78 .
+Eysenck , M. N. , Derakshan , N. , Santos , R. , & Calvo , M. ( 2007 ) .
+Anxiety and cognitive performance : Attentional control theory .
+Emotion , 7 , 336– 353 .
+Fiske , S. T. ( 1992 ) .
+Thinking is for doing : Portraits of social cognition from Daguerreotype to laserphoto .
+Journal of Personality and Social Psychol- ogy , 63 , 877–889 .
+Fiske , S. T. ( 1993 ) .
+Controlling other people .
+American Psychologist , 48 , 621–628 .
+Fiske , S. T. , & Berdahl , J .
+( 2007 ) .
+Social power .
+In A. Kruglanski & E. T. Higgins ( Eds .
+) , Social psychology : A handbook of basic principles ( pp .
+678–692 ) .
+New York : Guilford Press .
+Fiske , S. T. , & Depret , E. ( 1996 ) .
+Control , interdependence and power : Understanding social cognition in its social context .
+European Review of Social Psychology , 7 , 31–61 .
+Foerster , J. , Liberman , N. , & Higgins , T. ( 2005 ) .
+Accessibility from active and fulfilled goals .
+Journal of Experimental Social Psychology , 41 , 220–239 .
+French , J. R. P. , & Raven , B .
+( 1959 ) .
+The bases of social power .
+In D. Cartwright ( Ed .
+) , Studies in social power ( pp .
+150–167 ) .
+Ann Arbor : University of Michigan Press .
+Funder , D. C. , & Colvin , C. R. ( 1991 ) .
+Explorations in behavioral consis- tency : Properties of persons , situations , and behaviors .
+Journal of Per- sonality and Social Psychology , 60 , 773–794 .
+Galinsky , A. D. , Gruenfeld , D. H. , & Magee , J. C. ( 2003 ) .
+From power to action .
+Journal of Personality and Social Psychology , 85 , 453–466 .
+Gibson , B. , & Werner , C. ( 1994 ) .
+Airport waiting areas as behavior settings : The role of legibility cues in communicating the setting pro- gram .
+Journal of Personality and Social Psychology , 66 , 1049–1060 .
+Gibson , J. J .
+( 1977 ) .
+The theory of affordances .
+In R. Shaw & J. Bransford ( Eds .
+) , Perceiving , acting and knowing ( pp .
+67–82 ) .
+Hillsdale NJ : Erl- baum .
+Goodwin , S. A. , Gubin , A. , Fiske , S. T. , & Yzerbyt , V. ( 2000 ) .
+Power can bias impression formation : Stereotyping subordinates by default and by design .
+Group Processes and Intergroup Relations , 3 , 227–256 .
+Guinote , A .
+( 2007a ) .
+Behaviour variability and the Situated Focus Theory of Power .
+European Review of Social Psychology , 18 , 256–295 .
+Guinote , A .
+( 2007b ) .
+Power affects basic cognition : Increased attentional inhibition and flexibility .
+Journal of Experimental Social Psychology , 43 , 685–697 .
+Guinote , A .
+( 2007c ) .
+Power and goal pursuit .
+Personality and Social Psychology Bulletin , 33 , 1076–1087 .
+Guinote , A .
+( 2007d ) .
+Power and the suppression of unwanted thoughts : Does control over others decrease control over the self ?
+Journal of Experimental Social Psychology , 43 , 433–440 .
+Guinote , A. , Brown , M. , & Fiske , S. T. ( 2006 ) .
+Minority status decreases sense of control and increases interpretive processing .
+Social Cognition , 24 , 170–187 .
+Guinote , A. , Judd , C. M. , & Brauer , M. ( 2002 ) .
+Effects of power on perceived and objective group variability : Evidence that more powerful groups are more variable .
+Journal of Personality and Social Psychology , 82 , 708–721 .
+Guinote , A. , & Weick , M. ( in press ) .
+Power , the person , and the situation : Magnified responsiveness in context .
+Journal of Personality and Social Psychology .
+Hecht , D. B. , & LaFrance , M. ( 1998 ) .
+Licence or obligation to smile : The effect of power and sex on amount and type of smiling .
+Personality and Social Psychology Bulletin , 24 , 1332–1342 .
+Higgins , E. T. ( 1997 ) .
+Beyond pleasure and pain .
+American Psychologist , 52 , 1280–1300 .
+Jones , E. E. , & Gerard , H. ( 1967 ) .
+The foundations of social psychology .
+McGraw-Hill .
+Keltner , D. , Gruenfeld , D. H. , & Anderson , C. ( 2003 ) .
+Power , approach , and inhibition .
+Psychological Review , 110 , 265–284 .
+Kipnis , D. , Castell , J. , Gergen , M. , & Mauch , D. ( 1976 ) .
+Metamorphic effects of power .
+Journal of Applied Psychology , 61 , 127–135 .
+Kommer , D. , Schwarz , N. , Strack , F. , & Bechtel , G. ( 1986 ) .
+Stimmung un soziale Informationsverarbeitung bei depressiven Storungen [ Mood and social information processing in depressive disorders ] .
+Zeitschrift fuer Klinische Psychologie Psychiatrie und Psychothera- pie , 34 , 127–139 .
+Kuhl , J .
+( 1986 ) .
+Motivation and information processing : A new look at decision making , dynamic change , and action control .
+In R. Sor- rentino & T. Higgins ( Eds .
+) , Handbook of motivation and cognition : Foundations of social behavior ( pp .
+404 – 434 ) .
+New York : Guilford Press .
+Kuhl , J .
+( 1992 ) .
+A theory of self-regulation : Action versus state orientation , self-discrimination , and some applications .
+Applied Psychology : An In- ternational Review , 41 , 97–129 .
+Lewin , K. ( 1941 ) .
+Regression , retrogression and development .
+University of Iowa Studies of Child Welfare , 18 , 1–43 .
+Mischel , W. ( 1968 ) .
+Personality and assessment .
+New York : Wiley .
+Mischel , W. ( 2000 ) .
+A cognitive-affective system theory of personality : Reconceptualizing situations , dispositions , dynamics , and invariance in personality structure .
+In E. T. Higgins & A. W. Krusglanki ( Eds .
+) , Motivational science ( pp .
+150–176 ) .
+Philadelphia : Psychology Press .
+Ng , S. H. ( 1982 ) .
+Power and intergroup discrimination .
+In H. Tajfel ( Ed .
+) , Social identity and intergroup relations ( pp .
+179–206 ) .
+Cambridge , England : Cambridge University Press .
+Niedenthal , P. M. , Barsalou , L. , Winkielman , P. , Karuth-Gruber , S. , & Ric , F. ( 2005 ) .
+Embodiment in attitudes , social perception , and emotion .
+Personality and Social Psychology Review , 9 , 184–211 .
+Overbeck , J. R. , & Park , B .
+( 2006 ) .
+Powerful perceivers , powerless objects : Flexibility of powerholders ’ social attention .
+Organizational Behavior and Human Decision Processes , 99 , 227–243 .
+Pittman , T. S. , & Pittman , N. L. ( 1980 ) .
+Deprivation of control and the attribution process .
+Journal of Personality and Social Psychology , 25 , 465–480 .
+Posner , M. I. , & Snyder , C. R. R. ( 1975 ) .
+Attention and cognitive control .
+In R. L. Solso ( Ed .
+) , Information processing and cognition : The Loyola symposium ( pp .
+55–85 ) .
+Hillsdale , NJ : Erlbaum .
+Prinz , W. ( 1997 ) .
+Perception and action planning .
+European Journal of Cognitive Psychology , 9 , 129–154 .
+Schwarz , N. , Bless , H. , Strack , F. , Klumpp , G. , Rittenauer-Schatka , H. , & Simons , A .
+( 1991 ) .
+Ease of retrieval as information : Another look at the availability heuristic .
+Journal of Personality and Social Psychology , 61 , 195–202 .
+Shah , J. , Friedman , R. , & Kruglanski , A .
+( 2002 ) .
+Forgetting all else : On the antecedents and consequences of goal shielding .
+Journal of Personality and Social Psychology , 83 , 1261–1280 .
+Shoda , Y. , & Mischel , W. ( 1993 ) .
+Cognitive social approach to disposi- tional inferences : What if the perceiver is a cognitive social theorist ?
+Personality and Social Psychology Bulletin , 19 , 574–585 .
+Simon , B. , & Brown , R. ( 1987 ) .
+Perceived intragroup homogeneity in minority-majority contexts .
+Journal of Personality and Social Psychol- ogy , 53 , 703–711 .
+Skinner , E. A. , ( 1995 ) .
+Perceived control , motivation , and coping .
+London : Sage .
+Slabu , L. , & Guinote , A .
+( 2008 ) .
+Power , cognition , and goal pursuit .
+Manuscript in preparation .
+Smith , E. R. , & Semin , G. ( 2004 ) .
+Socially situated cognition : Cognition in 251POWER AND AFFORDANCES Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .
+its social context .
+Advances in Experimental Social Psychology , 36 , 53–117 .
+Snyder , M. ( 1983 ) .
+The influence of individuals on situations : Implications for understanding the links between personality and social behavior .
+Journal of Personality , 51 , 497–516 .
+Thibaut , J. W. , & Kelley , H. H. ( 1959 ) .
+The social psychology of groups .
+New York : Wiley .
+Tucker , M. , & Ellis , R. ( 1998 ) .
+On the relations between seen objects and components of potential actions .
+Journal of Experimental Psychology : Human Perception and Performance , 24 , 830–846 .
+Van Dijke , & Poppe , M. ( 2006 ) .
+Striving for personal power as a basis for social power dynamics .
+European Journal of Social Psychology , 36 , 537–556 .
+Vescio , T. K. , Snyder , M. , & Butz , D. A .
+( 2003 ) .
+Power in stereotypically masculine domains : A Social Influence Strategy Stereotype Match model .
+Journal of Personality and Social Psychology , 85 , 1062–1078 .
+Warren , W. H. , Kay , B .
+A. , Zosh , W. D. , Duchon , A. P. , & Sahuc , S. ( 2001 ) .
+Optic flow is used to control human walking .
+Nature Neuro- science , 4 , 213–216 .
+Weick , M. , & Guinote , A .
+( in press ) .
+When subjective experiences matter : Power increases reliance on the ease of retrieval .
+Journal of Personality and Social Psychology .
+Received April 17 , 2007 Revision received February 19 , 2008 Accepted February 21 , 2008 252 GUINOTE Th is d oc um en t i s c op yr ig ht ed b y th e A m er ic an P sy ch ol og ic al A ss oc ia tio n or o ne o f i ts a lli ed p ub lis he rs .
+Th is a rti cl e is in te nd ed so le ly fo r t he p er so na l u se o f t he in di vi du al u se r a nd is n ot to b e di ss em in at ed b ro ad ly .

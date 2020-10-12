@@ -1,0 +1,239 @@
+Eggers_BritJournPoliSci_2018_Xb1z.pdf
+acCwiZLkOMKBw1apxm9_Sz7bb2_i-Eggers_BritJournPoliSci_2018_Xb1z.pdf.plain.html
+
+B.J.Pol.S .
+48 , 343–367 Copyright © Cambridge University Press , 2016 doi:10.1017/S0007123416000016 First published online 11 April 2016 The Shadow Cabinet in Westminster Systems : Modeling Opposition Agenda Setting in the House of Commons , 1832–1915 ANDREW C. EGGERS AND ARTHUR SPIRLING * This article considers the emergence of an informal institution vital to the functioning of Westminster polities : that the Shadow Cabinet is a ‘ government in waiting ’ .
+It compares the evidence for two theoretical accounts of its timing : a ‘ procedural ’ theory wherein the Shadow Cabinet is a solution to internal organizational issues in the House of Commons prior to widespread working-class voting , and a ‘ competition ’ theory that predicts that suffrage extension acts as a key stimulus for Shadow Cabinet organization .
+Gathering a dataset of almost a million utterances in parliament between the First and Fourth Reform Acts , the study provides a novel method of identifying Shadow Cabinet members using the surges in term use from their speeches .
+It finds that the ‘ competition ’ hypothesis is the most plausible version of events , and that the opposition responded to the new ‘ party-orientated electorate ’ by strategically reorganizing in a way that mimicked the cabinet ’ s structure .
+Informal institutions are ‘ socially shared rules , usually unwritten , that are created , communicated , and enforced outside of officially sanctioned channels ’ .1 Our interest here is in the evolution of one particular informal institution , the study of which yields general methodological lessons for scholars of comparative politics : the rule that in Westminster systems , the ‘ Shadow Cabinet ’ – the group of frontbench spokespersons from the official opposition – forms the executive when the party currently in opposition next enters government .
+This relationship is at the core of Westminster democracy for reasons that are obvious from any textbook account of those systems.2 Yet it has never been part of statute law , and was not always the case in practice : in the eighteenth and early nineteenth centuries , leaders of governments ( prime ministers ) were implicitly or explicitly selected directly by the crown,3 and later by some decision-making process within the majority party.4 Prior to modern times , the presence of competing formal and informal institutions meant that conflicts over exactly which set of rules and actors had precedence were common.5 In modern Westminster systems , where partisan voting is the norm6 and majoritarian electoral systems deliver disproportionate government numerical superiority in parliament,7 along with * Department of Politics and International Relations at the University of Oxford ( email : andrew.eggers @ nuffield.ox.ac.uk ) ; Department of Politics , New York University ( email : arthur.spirling @ nyu.edu ) .
+Audiences at the American Political Science Association , Midwest Political Science Association , the Princeton Political Methodology seminar , New York University and Nuffield College , Oxford provided helpful feedback .
+Comments from Karen Jusko and JF Godbout are greatly appreciated .
+Data replication sets and online appendices are available at http : //dx.doi.org/doi:10.1017/S0007123416000016 .
+1 Helmke and Levitsky 2004 , 727 ; see also Lauth 2000 .
+2 E.g. , Lijphart 1999 .
+3 Marriott 1925 .
+4 See , e.g. , Bagehot 1873 [ 2011 ] ; Jenkins 1996 .
+5 See , e.g. , Erskine May , 1864 [ 1986 ] , on the ‘ bedchamber crisis ’ .
+6 E.g. , Butler and Stokes ( 1969 ) , Clarke et al .
+( 2004 ) , Heath et al .
+( 1991 ) , though see Cain , Ferejohn , and Fiorina ( 1987 ) .
+7 Bogdanor and Butler 1983. disciplined backbenchers,8 the leadership of the winning party can expect comparatively long durations in government , and the ability to propose and enact legislation close to its ideal point.9 Thus the identity of the government in waiting , and the fact that it will become the executive once in office , has profound implications for almost all actors in the system , including voters and legislators .
+This is quite apart from other significant roles that the Shadow Cabinet plays : inter alia , organizing opposition to the government ’ s legislative plans in the division lobbies,10 holding ministers to account in debates,11 and providing a formal link between the parliamentary party and its grassroots.12 Yet in stark contrast to the Cabinet,13 and with exceptions,14 there has been little work on the opposition per se .
+This is especially true in the literature on the origins and development of the Shadow Cabinet and the informal institution to which it is vital .
+While competition for votes provides the incentive for the teams of current and would-be ministers to organize themselves into coherent party groups today , it is far from obvious that this was the original motivation for their formation .
+Indeed , the dominant explanation of the origins of the Cabinet – that of Cox15 – focuses on the specifically procedural problems that the organization emerged to counteract : in particular , resolving a parliamentary ‘ tragedy of the commons ’ after the First Reform Act .
+Thus one plausible explanation for the evolution of the Shadow Cabinet is that it corrected some functional misfiring at the center of Westminster life , and did so in a way that improved the efficiency of the institution as a whole .
+In this sense , the emergence of the government in waiting is an endogenous process , and a response to other forces in parliament – rather than the direct product of some exogenous shock.16 In contrast to such a theoretical position , scholars have been quick to recognize the importance of the Second Reform Act in ushering in a more modern period characterized by a ‘ triumph of partisan politics ’ ,17 in which parties began to lay out more coherent ideological positions and turned to more disciplined , hierarchical organizational forms both inside18 and outside19 Parliament .
+From this perspective , the Shadow Cabinet might be seen as the product of electoral forces unleashed after franchise extension : a strategy – or the consequences of a strategy – by which ( opposition ) Members of Parliament ( MPs ) could win working-class votes at the ballot box .
+That is , the Shadow Cabinet is the product of a competition problem , rather than a procedural problem .
+At base , determining which of these theoretical positions is most plausible – or in what combination – requires us to accurately characterize the timing and nature of the emergence of the Shadow Cabinet .
+If it came into being in something approximating its modern form around the time of the rationalizations that Cox20 describes – that is , shortly after the 1830s – we have 8 Cowley 2002 ; Kam 2009 .
+9 Powell 2000 .
+10 See Brazier 1999 ; Dewan and Spirling 2011 ; Potter 1965 .
+11 Chester and Bowring 1962 ; Franklin and Norton 1993 .
+12 Leaders of the British Labour Party ( see Quinn 2012 ) and Canadian Liberal Party seek the endorsement of ‘ ordinary ’ members in a formal vote .
+13 E.g. , Alt 1975 ; Berlinski , Dewan , and Dowding 2007 ; Cox 1987 ; Dewan and Myatt 2010 ; Jenkins 1996 ; Jenks 1903 ; Kam and Indridason 2005 ; King 1994 .
+14 E.g. , Johnson 1997 ; Lowell 1908 ; Punnett 1973 ; Turner 1969 .
+15 Cox 1987 .
+16 See , e.g. , Mahoney and Thelen ( 2010 ) for a general discussion of this idea .
+17 Jenkins 1996 , ch 6 .
+18 See Cox 1992 ; Eggers and Spirling forthcoming ; Rush 2001 .
+19 See Hanham 1978 ; Ostrogorski 1902 [ 1964 ] .
+20 Cox 1987 .
+344 EGGERS AND SPIRLING evidence in line with a procedural theory .
+In stark contrast , if its emergence is clearly post-Second Reform Act ( and to boot , relatively shortly after ) , we are on firmer ground with a competition story .
+Of course , the reality of historical change stretched out over a 100-year period of reform means that the researcher is rarely in a position to speak in absolutes : that one account is correct while the other is wrong .
+A more sensible strategy is thus to weigh the relative heft that might be given to the differing accounts .
+With such an approach in mind , an immediate problem is that executing any large-n studies of informal institutions is extremely difficult,21 not least because ( almost by definition ) they leave less of a paper trail of official documentation .
+In the specific case of the Shadow Cabinet , only in very recent times have its membership or activities been recorded for outside observers.22 The result is that researchers must make more uncertain inferences about who , exactly , constitutes the body itself and what it is doing .
+This problem is compounded in Westminster systems by the fact that the opposition per se is procedurally weak and hard to observe in action : the usual metrics for examining the strength of opposition organization – like roll rates23 or the strategic use of committee control24 in the US Congress – are either very consistently zero or simply non-existent .
+Put more succinctly , since oppositions almost always lose against governments – in terms of what gets onto the legislative agenda and what becomes law – there is seemingly little variation in legislative output to explain or explore over time.25 Consequently , studying the opposition and its role in informal institutions is extremely challenging .
+Here we attempt to improve matters by describing informal institutions in a way that is familiar to political methodologists in comparative politics : by using a latent variable representation in which an observed variable for a given unit ( speech contents ) may be used to make inferences about an unobserved one ( Shadow Cabinet management ) and its relationship with an outcome of interest ( Cabinet membership ) .26 As suggested by this strategy , a second contribution below is to provide a text-as-data measurement strategy27 using the almost one million utterances between the approximate dates of the First and Fourth Reform Acts ( 1832–1918 ) in which the relevant informal institution first emerged and then evolved .
+We model these speeches using a measure that considers the ‘ burstiness ’ 28 of different ( government and opposition ) actors over time : specifically , we introduce a validated method for scoring individuals via their spoken contributions to debate in the House of Commons .
+This metric relies on the relative spike in activity around particular terms that MPs use , in order to measure members ’ latent agenda-setting abilities .
+By comparing the estimated abilities of opposition members , we can infer when and how the Shadow Cabinet emerged and thus contribute to the debate about its origins sketched above .
+We find that , while the First Reform Act made the Cabinet , the Second Reform Act made the Shadow Cabinet .
+More subtly , we provide theory and evidence to suggest that the 1867 Second 21 Although see , e.g. , Desposato 2006 ; Stokes 2006 .
+22 Indeed , even the leader of the ‘ official opposition ’ was not recognized formally by Erskine May – the parliamentary procedure guide used in Britain – until 1937 .
+23 Cox and McCubbins 2005 .
+24 E.g. , Krehbiel 1992 .
+25 Of course , oppositions are doing other things that are important but do not manifest themselves so obviously , and it is this more latent data that we use below .
+26 See , e.g. , Jackman and Treier ( 2008 ) , Pemstein , Meserve , and Melton ( 2010 ) , Svolik ( 2014 ) for applica- tions of this type of approach .
+27 See , e.g. , Grimmer and Stewart 2013 ; Quinn et al .
+2010 ; Slapin and Proksch 2008 .
+28 Kleinberg 2002 .
+Shadow Cabinet in Westminster Systems 345 Reform Act , and its associated introduction of a ‘ party-orientated electorate ’ ( in the sense of Cox29 ) was crucial for the establishment of a hierarchical opposition leadership , with small numbers of senior individuals increasingly dominating exchanges from the 1870s and 1880s onwards .
+We show that after the 1870s , ( a ) the opposition as a whole was able to wrestle back some noticeable control of the agenda from the Cabinet , ( b ) a small group of opposition individuals emerged who , relative to their co-partisan colleagues , increasingly dominated debates and ( c ) the relationship between being one of these individuals and taking a role in the next Cabinet controlled by their party was increasingly strong .
+In explaining these findings , we expend some effort to validate our measure and demonstrate its strength over potentially misleading alternatives .
+These steps help more evenly balance the literature on British political development – including the work on the export of its governance arrangements30 – by appropriately focusing on both government and its alternative .
+SHADOW CABINET : LITERATURE AND ORIENTATION Students of British political development typically focus on the period of profound transformation between the First ( 1832 ) and Fourth ( 1918 ) Reform Acts , and our study does the same .
+Discussion of changes in Parliament during this time can be found in many sources,31 but several key developments are as follows : first , as per Cox,32 the cabinet as the agenda setter emerged in the 1830s as an attempt to solve a common resource problem – too many MPs were taking up too much time with self-promoting minutiae – in the aftermath of the Great Reform Act .
+Secondly , as the century progressed , parties showed increasing cohesion in their division voting ; 33 the period of the Corn Laws34 and their immediate aftermath was one of unusual disunity and party realignment .
+Executive dominance was arguably complete in its modern sense with the coming of the ‘ Railway Timetable ’ , introduced by Prime Minister Balfour in 1902,35 which gave governments clear precedence to introduce ( and pass ) their legislation with little opportunity for the opposition to overturn such plans on the floor or division lobbies in the House of Commons .
+Not least because it plays a larger role in policy making , and has done for a longer period , the Cabinet has attracted much more scholarly attention than its opposition counterpart .
+As noted , the Cox36 account dominates and suggests that the emergence of the Cabinet as an organizational force , whatever its later expanded role in public policy , occurred as a solution to a procedural problem .
+A puzzle that arises from this accepted assertion is the timing and precise form of the Shadow Cabinet ’ s emergence as a de facto organization .
+On the one hand , we might expect it to ( begin to ) arise fairly soon after this , motivated perhaps by the sudden threat of institutional dominance by a powerful executive or , more charitably , stimulated by some other potential efficiency gain .
+This might include the requirement to provide swift and acceptable transitions of power after elections,37 or to safeguard backbencher rights in general .
+29 Cox 1987 .
+30 E.g. , Rhodes , Wan na and Weller 2009 ; Rhodes and Weller 2005 .
+31 E.g. , Cox 1987 ; Fraser 1960 ; Redlich 1908 ; Rush 2001 .
+32 Cox 1987 .
+33 Aydelotte 1963 ; Berrington 1968 ; Lowell 1902 .
+34 McLean 2001 ; Schonhardt-Bailey 2003 .
+35 Richards 1988 , 145 .
+36 Cox 1987 .
+37 Readers might reasonably wonder what happened in the absence of a Shadow Cabinet when a general election returned a new party to majority power .
+In practice , even as late as 1880 , the precise links between 346 EGGERS AND SPIRLING Certainly , scholars of other Westminster institutional developments – like the advent of ( aggressive ) parliamentary questions – have made the case that they arose relatively quickly from non-Cabinet members ’ need to keep the executive in check.38 Similarly , certain institutional behaviors , such as cohesive division voting against the government ’ s legislation and the commensurate use of government whipping to make executive bills into parliamentary acts,39 started not long after the rationalization noted by Cox.40 On the other hand , historians suggest that the notion of the informal institution of government in waiting did not emerge until much later : after the Second Reform Act ( 1867 ) .
+This suffrage expansion and the ‘ triumph of partisan politics ’ 41 it induced was commensurate with a decline in personalized , patronage appeals.42 An alternative argument , then , is that the Shadow Cabinet emerged as a collection of opposition leaders with specific designs on governmental roles , putting forth a more unified policy-based appeal than had been previously used in elections .
+Here , analysts have pointed to early campaigning efforts by Liberal leader William Gladstone in the late 1870s as the start of this process.43 The observational implication of this position is that we should not see the evolution of an opposition leadership until after suffrage expanded .
+While qualitative scholars have documented changes in how opposition leaders acted and , more broadly , how they strategized , they have not provided a systematic assessment of such claims .
+In particular , they have been unable – mostly due to data limitations – to link parliamentary activity to both opposition organization and subsequent government formation .
+Though we will shortly discuss our data-driven attempt to resolve this debate , two points of circumspection are worth making here .
+First , our ‘ testing ’ of the procedural vs. competition theory relies on relative timing after 1832 .
+This is justifiable insofar as the most well-cited and widely accepted account – that of Cox44 – portrays the Great Reform Act as the key impetus for the formation of the Cabinet , and that all other sources we have seen claim this institution predated the Shadow Cabinet.45 A second , related , issue is that we assume that changes in the legislative and electoral environment take at least a little time to take effect on MP behavior .
+Naturally , such caveats mean that sharp inference is difficult , a position that we believe is philosophically in line with our comments above about the importance of a measured approach to weighing the evidence for the theories .
+A Methodological Problem As with much of Westminster constitution making , formal de jure recognition of entities with political power and importance has traditionally come much later ( if at all ) than their de facto ( F ’ note continued ) opposition and government roles were not yet set in stone , and some post-election discussion took place before the key personnel were selected to serve in the Cabinet .
+That year in particular , although the Liberals won a majority under their Commons leader Lord Hartingdon , he refused the premiership ( as did Granville , the Lords leader ) and it was ultimately assumed by Gladstone .
+Meanwhile , Hartingdon became secretary of state for India , and then secretary of state for War in Gladstone ’ s Cabinet .
+38 See Chester and Bowring 1962 .
+39 Cox 1992 .
+40 Cox 1987 .
+41 Jenkins 1996 .
+42 Camp , Dixit , and Stokes 2014 .
+43 See Kelley 1960 ; Matthew 1997 .
+44 Cox 1987 .
+45 Furthermore , we do not have high-quality information on parliamentary procedures and MPs prior to the Great Reform Act , not least because party membership – and thus government or opposition status – is much less well defined for that period .
+Shadow Cabinet in Westminster Systems 347 existence as a force .
+Thus the informal practice by which a parliamentary opposition critiques the government has a long history : it was well underway by the 1720s , with the present-day term of the ‘ His Majesty ’ s loyal Opposition ’ first appearing in debate in 1826.46 Turning to statute to characterize the hierarchical structure of the opposition is of little help – indeed , as with many other informal institutions at Westminster , it is only with respect to salary commitments that the leader of the opposition is mentioned in law.47 The term Shadow Cabinet was used as early as the 1880s , though not with any legal basis , and it initially referred to a set of ex-ministers , now out of office as their party was no longer in government.48 Initial meetings of the Shadow Cabinet were more informal than modern practice ( and records of them are scant ) , but in the post-Second World War period in Britain , opposition parties gave chosen senior MPs specific policy responsibilities and titles with the expectation that they would fulfill a similar ministerial role should their party win a subsequent general election.49 All told , there are few official records of opposition that we can call upon to answer our question of interest .
+This problem is made harder still because , as alluded to above , oppositions – and Shadow Cabinets – are weak in procedural terms : Westminster governments are typically single party,50 and face few serious institutional impediments to imposing their will.51 A consequence is that the opposition rarely achieves legislative victories , and thus one can not usefully measure outcomes that would be seen in other parliaments , such as roll rates , successful legislation sponsoring52 or negative agenda control.53 Since these measures take a value of ( near ) zero at Westminster , they can not tell us much about who is organizing opposition to the government .
+Yet this is a key element of exploring the particular informal institution of interest here .
+What we do have is speeches , and we return to their use below .
+Thinking in a more general way , informal institutions are difficult to analyze because they are rules that connote probabilistic statistical relationships between inputs ( X ) and outcomes ( Y ) , but for which X and/or Y are not directly observable.54 Typically , when faced with a latent variable that is an important part of a data-generating process ( as X is here ) , political methodologists in comparative politics attempt to infer its values from other , observed variables.55 To keep matters simple , suppose that there is one such observed variable , denoted Z , and that for the units in the study , their ( latent ) value of X probabilistically determines their ( observed ) value of Z , but that Z has no direct relationship with Y itself .
+In what follows , we will take precisely the route implied by our comments about X , Y and Z .
+For us , Y is the status of an MP as part of the Cabinet in a particular time period .
+This is observable .
+Meanwhile , X is his/her status ( or not ) as a member of the Shadow Cabinet in the prior parliament , which occurs prior to Y .
+For our period , this is latent , and can not be directly observed .
+Below , Z will be an MP ’ s agenda-setting ability , derived from observational data on his/her speeches via a particular metric that we will 46 Johnson 1997 , 488–90 .
+47 The 1937 Ministers of the Crown Act is the earliest example .
+48 See Brazier 1997 , Ch 3 .
+49 See Crisp ( 1983 ) and Bateman ( 2009 ) for similar discussion of the Australian case , and Power ( 1966 ) for Canada .
+50 Lijphart 1999 .
+51 Powell 2000 .
+52 Volden , Wiseman , and Wittmer 2013 .
+53 E.g. , Cox and McCubbins 2005 ; Wawro and Schickler 2006 .
+54 Pushing further , there may be utility in simply redefining formal institutions as ones in which the rela- tionship between X and Y is deterministic , while informal institutions are ones in which the relationship is probabilistic ( which includes deterministic ones as a sub-category ) , but this is not required for our current presentation .
+55 See , e.g. , Jackman and Treier 2008 ; Pemstein , Meserve , and Melton 2010 ; Svolik 2014 .
+348 EGGERS AND SPIRLING define in some detail .
+Thus an MP ’ s speeches will help us infer whether he/she was a member of the Shadow Cabinet ( along with other details on the Shadow Cabinet ’ s evolution ) , and we will then study the relationship between this shadow status and promotion to the Cabinet once his/ her party is in power .
+In this way , we can assess the changing nature of an informal institution that is vital to the functioning of Westminster democracy .
+DATA The data we use are described in Eggers and Spirling,56 but the essence is this : we have access to <SS> 856,405 </SS> House of Commons speeches recorded by Hansard between 1832 and 1915.57 Each speaker has been identified , which in turn has been matched to a unique MP identity .
+Other information pertaining to these MPs includes their party affiliation in any given parliament , along with their ministerial service record .
+The speech records are machine readable , and can be processed using software tools discussed below .
+For our purposes , the speeches are organized by parliamentary session , a period with a mean length of around 200 days .
+The period between two general elections ( usually comprising several sessions , each starting about a year apart ) is referred to as a parliament .
+We obtained dates for the sessions from the usual sources for the period : Cook and Keith and Butler and Butler.58 Thus for any given day , we know the identity of the government and opposition parties , and thus any contemporary MPs .
+In what follows , we will limit our analysis to MPs running in general elections under either a Conservative or Liberal label ( as originally demarcated by Craig , Craig and Walker ) ,59 the two parties that held ministerial positions during this time , and thus for whom the concept Shadow Cabinet makes the most sense.60 As a quick overview of the general trends in our data , consider Figures 1 and 2 .
+Figure 1 reports the number of government ( top panel ) and opposition ( bottom panel ) MPs in our data over time ( note that the total membership of the Commons is essentially constant : around 650–70 MPs ) .
+The solid line in both plots reports ( on the right y-axis ) the total number of speeches given by the government and opposition .
+It can be seen that the number of government MPs is approximately constant over time ( at around 350 ) , while the total number of opposition MPs falls slightly ( in part owing to other – that is , non-Conservative , non-Liberal – opposition parties entering the fray ) .
+Meanwhile , the total number of speeches by government MPs rises after around 1880 , reaching a peak toward the end of the data of around <SS> 16,000 </SS> speeches for the session .
+The total number of opposition speeches also increases very slightly over time , similarly peaking at the turn of the twentieth century .
+Figure 2 reports ( on the left axis ) the mean number of words per speech over time , while the right y-axis gives the mean number of speeches per MP during the period under study .
+We see a secular fall in the average length of speeches from a high of around 600 words to around 200 .
+By contrast , the number of speeches given per MP rises both in mean and variance terms , and reaches a peak at the end of the data .
+The patterns seen in the plots are evidence of a general tightening of executive control over proceedings in the House of Commons , and the expectation that more speeches would 56 Eggers and Spirling 2014 .
+57 We note that , prior to 1909 , the Hansard record was not the almost verbatim report it is today .
+Nonetheless , we feel coverage is sufficiently dense to make progress on our problem here .
+58 Butler and Butler 1994 ; Cook and Keith 1975 .
+59 Craig 1974 , 1989 ; Walker 1978 .
+60 Including other opposition parties makes very little difference to the thrust of the substantive findings below .
+Shadow Cabinet in Westminster Systems 349 be questions or answers to those questions.61 This trend of focusing on government business was joined by powers given to the House in the 1880s ( in the face of Irish obstructionism ) allowing it to ‘ close ’ debate , and speaker rulings that gave that officer a new ability to control overly long or irrelevant statements in the House .
+In the face of these changing control structures and totals , our approach below avoids absolute measures of opposition W or ds /s pe ec h 18 32 _1 18 32 _2 18 35 _1 18 35 _2 18 35 _3 18 37 _1 18 37 _2 18 37 _3 18 37 _4 18 41 _1 18 41 _2 18 41 _3 18 41 _4 18 41 _5 18 41 _6 18 41 _7 18 47 _1 18 47 _2 18 47 _3 18 47 _4 18 47 _5 18 52 _1 18 52 _2 18 52 _3 18 52 _4 18 52 _5 18 57 _1 18 57 _2 18 57 _3 18 59 _1 18 59 _2 18 59 _3 18 59 _4 18 59 _5 18 59 _6 18 59 _7 18 65 _1 18 65 _2 18 65 _3 18 68 _1 18 68 _2 18 68 _3 18 68 _4 18 68 _5 18 74 _1 18 74 _2 18 74 _3 18 74 _4 18 74 _5 18 74 _6 18 74 _7 18 80 _1 18 80 _2 18 80 _3 18 80 _4 18 80 _5 18 80 _6 18 85 _1 18 86 _1 18 86 _2 18 86 _3 18 86 _4 18 86 _5 18 86 _6 18 86 _7 18 92 _1 18 92 _2 18 92 _3 18 92 _4 18 95 _1 18 95 _2 18 95 _3 18 95 _4 18 95 _5 18 95 _6 18 95 _7 19 00 _1 19 00 _2 19 00 _3 19 00 _4 19 00 _5 19 00 _6 19 06 _1 19 06 _2 19 06 _3 19 06 _4 19 10 A _1 200 300 400 500 600 700 10 20 30 40 50 60 70 S pe ec he s/ M P Fig .
+2 .
+Summary of data : points are number of words per speech in the House of Commons ( left axis ) ; line is number of speeches per MP ( right axis ) .
+Note : round points connote Conservatives in government ; square points connote Liberals in government .
+G ov t M P s 18 32 _1 18 32 _2 18 35 _1 18 35 _2 18 35 _3 18 37 _1 18 37 _2 18 37 _3 18 37 _4 18 41 _1 18 41 _2 18 41 _3 18 41 _4 18 41 _5 18 41 _6 18 41 _7 18 47 _1 18 47 _2 18 47 _3 18 47 _4 18 47 _5 18 52 _1 18 52 _2 18 52 _3 18 52 _4 18 52 _5 18 57 _1 18 57 _2 18 57 _3 18 59 _1 18 59 _2 18 59 _3 18 59 _4 18 59 _5 18 59 _6 18 59 _7 18 65 _1 18 65 _2 18 65 _3 18 68 _1 18 68 _2 18 68 _3 18 68 _4 18 68 _5 18 74 _1 18 74 _2 18 74 _3 18 74 _4 18 74 _5 18 74 _6 18 74 _7 18 80 _1 18 80 _2 18 80 _3 18 80 _4 18 80 _5 18 80 _6 18 85 _1 18 86 _1 18 86 _2 18 86 _3 18 86 _4 18 86 _5 18 86 _6 18 86 _7 18 92 _1 18 92 _2 18 92 _3 18 92 _4 18 95 _1 18 95 _2 18 95 _3 18 95 _4 18 95 _5 18 95 _6 18 95 _7 19 00 _1 19 00 _2 19 00 _3 19 00 _4 19 00 _5 19 00 _6 19 06 _1 19 06 _2 19 06 _3 19 06 _4 19 10 A _1 150 250 350 450 0 5,000 15,000 G ov s pe ec he s O pp n M P s 18 32 _1 18 32 _2 18 35 _1 18 35 _2 18 35 _3 18 37 _1 18 37 _2 18 37 _3 18 37 _4 18 41 _1 18 41 _2 18 41 _3 18 41 _4 18 41 _5 18 41 _6 18 41 _7 18 47 _1 18 47 _2 18 47 _3 18 47 _4 18 47 _5 18 52 _1 18 52 _2 18 52 _3 18 52 _4 18 52 _5 18 57 _1 18 57 _2 18 57 _3 18 59 _1 18 59 _2 18 59 _3 18 59 _4 18 59 _5 18 59 _6 18 59 _7 18 65 _1 18 65 _2 18 65 _3 18 68 _1 18 68 _2 18 68 _3 18 68 _4 18 68 _5 18 74 _1 18 74 _2 18 74 _3 18 74 _4 18 74 _5 18 74 _6 18 74 _7 18 80 _1 18 80 _2 18 80 _3 18 80 _4 18 80 _5 18 80 _6 18 85 _1 18 86 _1 18 86 _2 18 86 _3 18 86 _4 18 86 _5 18 86 _6 18 86 _7 18 92 _1 18 92 _2 18 92 _3 18 92 _4 18 95 _1 18 95 _2 18 95 _3 18 95 _4 18 95 _5 18 95 _6 18 95 _7 19 00 _1 19 00 _2 19 00 _3 19 00 _4 19 00 _5 19 00 _6 19 06 _1 19 06 _2 19 06 _3 19 06 _4 19 10 A _1 O pp n sp ee ch es 150 250 350 450 0 5,000 15,000 Fig .
+1 .
+Summary of data : number of government party MPs and the number of speeches they made ( top panel ) and number of opposition MPs and speeches they made ( bottom panel ) .
+Note : points refer to the left y-axis and are MP numbers ; the solid line ( s ) are numbers of speeches for which the y-axis is to the right of the plots .
+In the top ( bottom ) plot , square points connote the Liberals ( Conservatives ) in government ; round points connote the Conservatives ( Liberals ) in government .
+61 Chester and Bowring 1962 .
+350 EGGERS AND SPIRLING performance , instead comparing within oppositions and then in relative terms with respect to governments.62 METHODS While our X , membership of the Shadow Cabinet , is latent , we can observe members making speeches that can inform us about X via our observed variable Z .
+Each MP also has an observable set of covariates pertaining to their current role in the government ( that is , Y ) if they are part of the governing party .
+Our central concern is understanding which MPs ‘ lead ’ debate in parliament .
+Our strategy trades on the idea that influential individuals will raise concerns , terms , topics and issues that MPs will subsequently talk about in that and subsequent debates.63 Concept and Measurement One way to approach this measurement problem is to see speeches in the House of Commons as analogous to a stream of arriving data , the contents of which require modeling .
+In computer science , a popular way to examine such streams is to consider their ‘ burstiness ’ , in the sense of Kleinberg.64 The idea is to model the arrival times at which certain words – considered as a type of event – appear .
+Words that surge in use suddenly are said to ‘ burst ’ or to be ‘ bursty ’ , which in practice means that they experience periods in which the typical gaps between occurrences become much shorter than is usual for that word .
+Depending on the nature of the stream process , there are different statistical models that may be fit to the data to determine burstiness .
+When data arrive as a continuous process – rather than as , say , batches every year – Kleinberg65 suggests an ‘ <TN> infinite-state model </TN> ’ in which bursts are state transitions in a <TN> hidden Markov process </TN> .
+For a given term , we begin with a ‘ base rate ’ calculated as nT , where n is the number of speeches that uses a particular word and T is the total number of speeches in the session .
+Thus if there were 100 mentions of the term ‘ boundary ’ and 10,000 speeches , the base rate is α0 = 10010 ; 000= 0:01 , corresponding to a mean wait time of 1 0:01 = 100 speeches .
+66 With the base rate in mind , we ask how the gaps between occurrences of the relevant term are changing as the session unfolds .
+In particular , the <TN> Markov process </TN> assumes that when in state i , gap times , x , are exponentially distributed with pdf f ðxÞ= αieαix where αi is the rate , such that larger values of α imply smaller expected values for the wait time ( 1α ) until the next event occurs .
+Setting up the estimation problem continues by making αi = nT s i , meaning that the rate is proportional to a quantity si .
+In keeping with the original Kleinberg67 presentation , s will be fixed at 2 for our purposes but i will be estimated as an integer greater than or equal to 1 , and will be different at different times for the same word ( depending on the state of the system ) .
+Put very crudely , the idea is to observe the series of gaps between uses of a term , and then to find values of i that ( when plugged into the previous formula ) will fit the data , with respect to the ( exponentially distributed ) wait times that were seen in practice .
+To see how this might work , 62 This feature of our approach also goes some way toward mitigating the changing ( mostly lessening ) role of the House of Lords as a producer of governance over this period .
+63 An article similar to this one in methodological spirit is that of Clark and Lauderdale ( 2010 ) , which considers the use of judicial citations , though for a very different substantive purpose ( the scaling of justices ) than our application .
+64 Kleinberg 2002 .
+65 Kleinberg 2002 .
+66 We are deliberately simplifying matters here for exposition .
+As we clarify below , a ‘ mention ’ of a word is binary and occurs ( or does not ) only once per document , even if a speech uses the term multiple times .
+67 Kleinberg 2002 .
+Shadow Cabinet in Westminster Systems 351 and remembering that s is fixed , suppose we saw wait times of 20,20,10,5,10… .
+We can see that the third wait time ( 10 ) is half of the second ( 20 ) , implying an increased value of i .
+Similarly , the fourth wait time ( 5 ) is half the previous one , implying that i has increased even further .
+The fifth wait time ( 10 ) suggests that i has declined , since the wait time has doubled .
+We will ultimately have a series of ‘ states ’ that describes our data , which is simply the vector of i values that we estimated .
+To reiterate , i is the exponent of s : for a fixed s = 2 , an increasing i means that a geometric decrease must have been seen in wait times : that is , to go from our base rate model to s1 to s2 to s3 requires at least a halving of the gap ( and more than a halving if s were chosen to be larger than 2 ) .
+Clearly , there will be a great many terms that never exhibit any bursts ( they are ‘ not bursty ’ ) because their arrival rate is simply too uniform .
+Thus if the term ‘ bill ’ occurs exactly every 100 speeches , then the gaps between observations are not changing .
+As a result , the term exhibits no bursts in use .
+This logic potentially extends to any word , no matter how common .
+For example , the word ‘ the ’ might be used uniformly in every speech , and thus will demonstrate no bursts .
+In this case , the base rate , which is very high , will be a perfectly adequate model for the data .
+This process has a second component : a cost term , denoted as γ , which essentially imposes a penalty when the system seems to move ‘ up ’ in intensity in terms of the underlying rate – no cost is imposed for the system to move down in intensity.68 A larger γ is associated with relatively few upward transitions .
+Meanwhile , the exponential component ( determined by s ) encourages fitting a model to the data that reflects the actual sequence of gaps observed .
+The resulting minimization problem takes both parts into account , and thus attempts to fit the data with as few transitions as possible .
+Note that the bursts in this model are nested : that is , bursts of higher intensity occur within periods of lower-intensity activity .
+As per the original presentation , γ is set to 1 for our work here.69 Conceived in the usual way , burstiness is a property of streams of events .
+One example is words in speeches ( or MPs in debates , as explained below ) .
+We can , for example , examine the burst pertaining to the word ‘ Ireland ’ or ‘ boundary ’ , and in Figure 3 we picture the latter of these terms for the 1884 session in which the Redistribution of Seats Act – which dealt with the redrawing of districts – was discussed : note the levels ( literally , the states of the <TN> Markov process </TN> – the exponential distributions delivering the gap times – where 0 is the base rate ) of the bursts that the word went through , and the varying lengths of those bursty episodes .
+In principle , we can do this for every term and every session .
+Our innovation is now to use these burstiness estimates to compare MPs with each other .
+To do that , we need a metric that allows us to compute a score for each member , taking into account the relative burstiness of their contributions .
+For us , this is a weighted sum .
+For each MP , a burst that begins with a speech made by him or her is scored as the length of that burst ( literally , the number of speeches that occur while at the particular value of i ) multiplied by its intensity .
+All such bursts are then summed into a total score .
+For example , consider an MP who made 100 speeches .
+Suppose that a word from one of these speeches launches a burst of 68 More formally , in the original set-up , the optimization problem requires finding a sequences of states q= ðqi1 ; ¼ ; qinÞ such that the expression cðq jxÞ= ½ P τði ; jÞ + ½P ln fitðxtÞ is minimized where τði ; jÞ= ðjiÞγln n if j > i ; 0 if j < i : ; and fitðxtÞ is simply the density function – exponential in our case – describing the sequence of gaps .
+69 In principle , both s and γ could be estimated from the data .
+Note that a larger value of s implies that changes in gap times will have to be larger in magnitude in order for a ‘ burst ’ to be said to have occurred .
+Meanwhile , a larger value of γ implies that the burst needs to be sustained for a longer period in order to ‘ count ’ .
+Binder ( 2012 ) implements the relevant model in R ( R Core Team 2013 ) , and we use his package in some of what follows .
+352 EGGERS AND SPIRLING intensity level 2 for a time period of 30 , and a different word from the same speech launches a burst of intensity level 3 for a time period of 4 .
+Meanwhile , a word from another speech launches a burst of intensity level 3 for a time period of 5 .
+The overall burstiness is thus calculated as ð2 ´ 30Þ + ð3 ´ 4Þ + ð3 ´ 5Þ= 87 .
+Note that bursts are hierarchical : a burst of level n can only occur within a burst of level m , where m < n. A consequence is that MPs can not be given ‘ credit ’ for decreasing the intensity with which a particular word is used relative to the current period in which they are speaking .
+Note further that , if one MP boosts a term ’ s use to level 2 , while a second MP boosts it further to level 3 , the first MP receives ‘ credit ’ only for the level 2 burst , while the second receives credit only for the level 3 burst .
+This is simply a measurement strategy that accords with our notion of MPs building on the points of others ; our metric thus rewards MPs who introduce terms , topics or ideas that subsequent speakers take up .
+In terms of preprocessing , we do nothing to our texts except remove punctuation and convert everything to lowercase .
+We do not remove stop words , since their use , if they are indeed stop words in the typical sense , should remain relatively uniform over time and will not be bursty .
+Nor do we stem the terms , since we wish to observe particular uses of terms rather than generic concepts that can be spoken in several ways .
+In Appendix A , we give some pseudo-code to clarify the algorithm we used .
+Validation We claim that our burstiness metric captures some notion of ‘ agenda setting ’ by MPs and ‘ agenda content ’ in terms of the words that come up in debate .
+We now validate our approach by demonstrating that : ( a ) during given periods , the ‘ right ’ words are bursty , ( b ) for given words , the ‘ right ’ sessions show them to be bursty at that time and ( c ) the ‘ right ’ individual MPs are bursty at the ‘ right ’ times .
+By ‘ right ’ , we mean ‘ in ways that are congruent with our expectations and knowledge of the period ’ .
+Beginning with our first validation exercise , consider Table 1 .
+We report three particular sessions – in 1846 , 1866 and 1885 – and terms that appeared near the top of the burstiness rank order for those periods .
+We see immediately from the first column that MPs were discussing ( in a bursty way ) ‘ wheat ’ ( ranked 3 ) and ‘ grain ’ ( ranked 5 ) during a period when the Corn Laws were under serious discussion .
+Similarly , just prior to the Second Reform Act of 1867 , they raised issues pertaining to the franchise and the earlier 1832 Great Reform Act .
+In 1885 , the time of the controversial Government of Ireland Bill that would have delivered home rule to Ireland , we see surges of terms like ‘ Irishmen ’ and their leader ‘ [ P ] arnell ’ along with other terms specific to the discussion .
+15,00010,0005,0000 0.0 0.5 1.0 1.5 2.0 2.5 3.0 Speech Le ve l Boundary Fig .
+3 .
+Burst levels and burst durations for the word ‘ boundary ’ in the final session of the 1880 parliament ( 1884 ) .
+Note : burst levels indicate the state of the <TN> Markov process </TN>

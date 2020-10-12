@@ -1,0 +1,395 @@
+malt2008.pdf
+aAZ6fCgzzGQebvp0sq9Rl4hDI2Oy-malt2008.pdf.plain.html
+
+Research Article Talking About Walking Biomechanics and the Language of Locomotion Barbara C. Malt,1 Silvia Gennari,2 Mutsumi Imai,3 Eef Ameel,4 Naoaki Tsuda,3 and Asifa Majid5 1Lehigh University , 2University of York , 3Keio University at Shonan-Fujisawa , 4University of Leuven , and 5Max Planck Institute for Psycholinguistics , Nijmegen , The Netherlands ABSTRACT—What drives humans around the world to converge in certain ways in their naming while diverging dramatically in others ?
+We studied how naming patterns are constrained by investigating whether labeling of hu- man locomotion reflects the biomechanical discontinuity between walking and running gaits .
+Similarity judgments of a student locomoting on a treadmill at different slopes and speeds revealed perception of this discontinuity .
+Nam- ing judgments of the same clips by speakers of English , Japanese , Spanish , and Dutch showed lexical distinc- tions between walking and running consistent with the perceived discontinuity .
+Typicality judgments showed that major gait terms of the four languages share goodness-of- example gradients .
+These data demonstrate that naming reflects the biomechanical discontinuity between walking and running and that shared elements of naming can arise from correlations among stimulus properties that are dy- namic and fleeting .
+The results support the proposal that converging naming patterns reflect structure in the world , not only acts of construction by observers .
+Cross-linguistic differences in how languages carve up the world by name are striking .
+For instance , languages differ markedly in what distinctions of contact , support , and containment their spatial terms discriminate ( Bowerman , 1996 ) andwhat dimensions of inner experience their emotion terms capture ( Wierzbicka , 1992 ) .
+Nevertheless , patterns of naming are not completely un- constrained .
+Shared elements of naming patterns have been found in domains including color ( Kay , Berlin , Maffi , & Merri- field , 1997 ) , body parts ( Majid , Enfield , & van Staden , 2006 ) , and cutting and breaking actions ( Majid , Bowerman , van Staden , & Boster , 2007 ) , and these commonalities occur to a greater extent than would be expected by chance ( Kay & Regier , 2003 ) .
+The search for shared tendencies across languages holds the promise not only of illuminating how word meanings are con- structed , but also of revealing something fundamental about the nature of human experience across cultures and languages .
+What drives humans around the world to converge in certain ways in their naming while diverging dramatically in others ?
+Documentation of synchronic variation or shared tendencies does not by itself reveal origins of these patterns ; one can only speculate on the basis of the patterns observed .
+The goal of the current work was to advance understanding of the origins of cross-linguistic similarities in naming patterns .
+At the broadest level , two main sources of constraint surely influence the construction of naming patterns : the input the world presents to the human observer and the human observer who interprets that input .
+Any shared naming tendency will inevitably be a reflection of both .
+The world provides input of some sort , and the perceptual and cognitive systems that process the sensory input from the world filter and interpret that input .
+The few studies aimed at investigating the origins of shared naming tendencies have typically focused on the contributions of the observer .
+For instance , there has been interest in whether the visual system yields a segmentation of the continuous light-wave input that is reflected in cross-linguistic commonalities in color- naming patterns ( Kay & McDaniel , 1978 ) or whether general principles of categorization create such segmentation ( Regier , Kay , & Khetarpal , 2007 ) .
+There has also been interest in how attention operating across space may constrain the application of spatial terms ( Regier & Carlson , 2001 ) .
+Yet the world does more than present unstructured , undif- ferentiated input to be segmented and interpreted by the per- ceptual and cognitive machinery .
+Drawing on principles of sci- entific taxonomy , Hunn ( 1977 ) and Berlin ( 1992 ) argued that there are regularities in the distribution of properties across plants and animals such that certain properties tend to co-occur with one another and not with others , creating discontinuities in na- ture that are so salient to the human observer that they ‘ ‘ cry out to be named ’ ’ ( Berlin , 1982 , p. 11 ) .
+Hunn and Berlin proposed that these salient discontinuities produce cross-cultural common- Address correspondence to Barbara Malt , Department of Psychol- ogy , 17 Memorial Dr. East , Lehigh University , Bethlehem , PA 18015 , e-mail : barbara.malt @ lehigh.edu .
+PSYCHOLOGICAL SCIENCE 232 Volume 19—Number 3Copyright r 2008 Association for Psychological Science at NORTH CAROLINA STATE UNIV on March 6 , 2015pss.sagepub.comDownloaded from alities in the labeled distinctions among plants and animals ( see also Atran , 1990 ; Malt , 1995 ) .
+Work investigating labeling of human body parts also implicates the influence of structured input .
+Human limbs are segmented by the joints , and lexicons tend to reflect that physical segmentation .
+Languages often lexically distinguish the hand from the arm , the legs from the torso , and so on ( Brown , 2005a , 2000b ; Majid et al. , 2006 ) .
+Of course , structure in the world can constrain naming pat- terns only to the extent that observers perceive that structure and are driven to reflect it in their communications .
+To understand how naming patterns are constrained , it is necessary to know what types of structure the human observer is sensitive to and driven to encode in words .
+In this article , we contribute to this understanding by reporting the results of studies investigating labeling of two forms of human locomotion : walking and running .
+The domain of locomotion is of particular interest for several reasons .
+First , a key challenge for understanding how structure in the world constrains naming is the difficulty of specifying the structure that may exist .
+Intuition is insufficient .
+For instance , it may seem evident to English speakers that clusters of correlated properties distinguish things called bottle from things called jar , but the fact that labels in other languages divide the same ob- jects differently ( Malt , Sloman , Gennari , Shi , & Wang , 1999 ) leaves the actual property distribution in question .
+In contrast , the literature on the biomechanics of gait , described in the in- troduction to Study 1 , provides an independent account of the structure available to perceivers .
+This literature shows the struc- ture to be one of clusters of exemplars with sharp discontinuities between them and provides the basis for a prediction about where structure may constrain naming .
+Second , in the domains most commonly studied by psychol- ogists—artifacts and natural kinds—the particular exemplars experienced vary regionally .
+This fact makes it difficult to sep- arate exposure effects from other potential sources of divergence .
+In contrast , human bodies are universally capable of the same set of gaits , and speakers of different languages see or engage in the most common ones—walking and running—universally .
+Thus , the domain of gait provides shared inputs for languages to dis- criminate among .
+Third , locomotion allowed us to investigate the possibility of sensitivity to a more complex form of structure than previous studies had examined .
+The work on body-part terms suggests that humans are sensitive to the physical segmentation of the body created by the joints .
+The work on plants and animals suggests that humans encode naturally occurring clusters of co- occurring properties such as size , shape , and mode of repro- duction by abstracting across individual instances .
+In the cur- rent research , we asked whether languages reflect correlations among properties that are dynamic and fleeting , rather than static and enduring .
+Dimensions of locomotion such as speed , direction , properties of the surface being traversed , and effort and inferred goals of the agent are more constant and enduring than the properties of movement across a stride that define the biomechanical gait categories , and they provide alternative bases for lexicalized distinctions ( e.g. , in English , hiking and strolling imply certain goals or attitudes , level of exertion , and perhaps type of surface ) .
+Finally , languages differ in the type of information they tend to encode in the main verb of a sentence .
+Some languages ( e.g. , Germanic ones ) most often encode manner of motion , as in the English verbs walk , run , slide , slink , and so on .
+Other languages ( e.g. , Romance languages , Greek ) more often encode path or direction ofmovement , as in Spanish subir and salir ( ‘ ‘ ascend ’ ’ and ‘ ‘ exit , ’ ’ respectively ) , although these languages do use manner verbs in some constructions .
+Slobin ( 2004 ) has suggested that manner is more salient in languages that routinely encode it in the main verb than in those that do not , and also that ‘ ‘ high- manner-salient ’ ’ languages tend to develop more elaborate man- ner vocabulary than ‘ ‘ low-manner-salient ’ ’ languages .
+We in- vestigated whether the biomechanical discontinuity of manner between walking and running is so obvious to observers that not only high-manner-salience languages , but also low-manner-sa- lience languages , develop verbs marking the distinction .
+STUDY 1 : NAMING Human gaits , including walking and running , are characterized biomechanically by clusters of co-occurring properties .
+Gaits can be distinguished by their characteristic energy require- ments , relative phase of the feet , speed , and other variables , such as the fraction of the stride for which a given foot is on the ground , stride frequency , and stride length ( Alexander , 1982 , 1992 ; Bennett , 1992 ) .
+Human gaits are highly constrained by the dynamics of motion ( e.g. , Alexander , 1982 , 1992 ; Collins & Stewart , 1993 ) , and these constraints result in abrupt transitions between gaits as speed increases , rather than gradual shifts through intermediate versions ( e.g. , Schoner , Jiang , & Kelso , 1990 ) .
+On a treadmill , humans switch from a walking to a run- ning gait without any transitional stages ( Diedrich & Warren , 1995 , 1998 ) .
+If this biomechanical discontinuity is universally perceived and constrains naming , it should be reflected in the naming patterns of languages .
+Languages should tend to have terms that are applied to instances of locomotion in a categorical rather than graded fashion , and the particular instances segregated by these terms should tend to correspond across languages .
+How- ever , if a shared perception of the gaits does not contribute to naming patterns , the patterns should fail to consistently reflect the biomechanical distinction , and languages may make cuts at different places , using different dimensions or combinations of them .
+In Study 1 , we examined naming patterns in four lan- guages to determine whether they reflect the segmentation of the domain given by the biomechanical analysis .
+We studied speakers of English , Dutch , Spanish , and Japa- nese .
+The first three languages are in the Indo-European family , Volume 19—Number 3 233 B.C .
+Malt et al .
+at NORTH CAROLINA STATE UNIV on March 6 , 2015pss.sagepub.comDownloaded from Dutch and English in the Germanic branch and Spanish in the Romance branch .
+Japanese is most often classified as Altaic ( Crystal , 1987 ) .
+Although the first three languages belong to the same family , the standard language taxonomy is based on structural considerations , not similarities of word meaning .
+The histories of these languages are different enough that the lan- guages exhibit substantial variation in their patterns of naming for common household objects ( Ameel , Storms , Malt , & Sloman , 2005 ; Malt et al. , 1999 ) , spatial relations ( Bowerman , 1996 ) , and events of consumption , carrying , and dressing ( Bowerman , 2005 ) .
+These differences occur even for cognate words , such as English bottle versus Spanish botella or English on versus Dutch aan versus Spanish en ( see Majid , Gullberg , van Staden , & Bowerman , 2007 ) .
+Also contributing to the potential for diver- gences in the gait domain are the differing verb typologies of these languages , which cut across the family classification .
+In English and Dutch , verbs tend to express manner of motion ; in Spanish , verbs tend to express direction of motion ; and in Japanese , verbs tend to express directional path or path plus ground ( Muehleisen & Imai , 1997 ) .
+Thus , according to Slobin ( 2004 ) , English and Dutch are high-manner-salient languages , and Spanish and Japanese are not .
+Method The stimuli in this study were twenty-four 3- to 4-s video clips of a female college student locomoting on a treadmill that varied in speed and slope .
+Speed variations were expected to induce gait shifts ; slope variations increased the diversity of other proper- ties of the stimuli .
+The student maintained whatever gait was natural at each speed-slope combination .
+The three levels of slopes were flat , approximately 41 of tilt , and approximately 81 of tilt .
+The speeds began at 1.5 mph and were increased in 1-mph increments at each slope until the student could no longer keep up , a procedure that yielded nine speeds at the flat slope , eight at the 41 slope , and seven at the 81 slope .
+We refer to the speeds by number , with clips at 1.5 mph designated speed 1 , clips at 2.5 mph designated speed 2 , and so on .
+Still frames extracted from several clips are shown in Figure 1 .
+Pretest To verify the psychological reality of the structural discontinu- ity between running and walking , we asked 24 American un- dergraduates to sort the video clips according to the physical similarity of the motions .
+If viewers perceive a discontinuity between walking and running , a cluster solution of such simi- Fig .
+1 .
+Frames extracted from the video clips used as stimuli .
+In the clips , both the slope and the speed of the treadmill varied .
+The slope was flat ( top row ) , approximately 41 ( bottom left ) , or approximately 81 ( bottom right ) .
+Speeds ranged from 1.5 mph ( designated speed 1 ) to 9.5 mph ( designated speed 9 ) .
+Illustrated here are speed 2 ( top left ) , speed 4 ( bottom left ) , speed 5 ( bottom right ) , and speed 7 ( top right ) .
+234 Volume 19—Number 3 Talking About Walking at NORTH CAROLINA STATE UNIV on March 6 , 2015pss.sagepub.comDownloaded from larity judgments should show two clusters corresponding to in- stances of walking and running as defined biomechanically .
+The clips were presented in a 4 6 array on a computer screen , with each clip running in a continuous loop .
+Participants were asked to drag and drop clips ( still running ) into boxes on the right side of the screen , creating as many boxes as they wished .
+When all the clips were sorted into boxes , participants performed a sec- ond sort .
+If they had created five or fewer boxes in the first sort , they were asked to divide the boxes further ; if they had created more than five boxes , they were asked to combine boxes .
+For each participant , this sorting procedure yields a two-level similarity tree in which a clip is zero , one , or two nodes from each other clip ( Boster , 1987 , 1994 ) .
+We constructed a group simi- larity matrix by summing the distance values for each pair of clips across participants .
+The matrix was then entered into the SAS hierarchical cluster program ( SAS Institute , 1999 ) .
+The resulting solution revealed two major clusters , corresponding to the biomechanical distinction between walking and running .
+We randomly generated 10,000 sets of two clusters of the same sizes and found that the probability of obtaining a largermean dif- ference between within-cluster and between-cluster similarity was less than .005 .
+Thus , the observers perceived the biome- chanical discontinuity between the gaits .
+Naming Study The video clips were embedded in a Web page with instructions in the relevant language .
+Participants viewed each clip and typed into a response box whatever word or phrase they felt was the best or most natural way to describe the action .
+The response box was preceded by the following text : ‘ ‘ What is the woman doing ?
+She is .
+.
+. ’ ’ or its appropriate translation , according to the language of the participant .
+Native speakers of American English ( n 5 25 ) , Argentinean Spanish ( n 5 24 ) , Japanese ( n 5 23 ) , and Belgian Dutch ( n 5 23 ) viewed and named the video clips .
+All participants were university students or research employees resident in their na- tive country .
+The Americans , Japanese , and Argentineans gen- erally had only limited knowledge of another language and used their native language exclusively in daily life .
+Six of the Ar- gentineans reported good to very good knowledge of another language ; however , their data did not differ from the data of Argentineans who reported little or no knowledge of another language .
+The Belgians generally had good to very good knowl- edge of English and some knowledge of additional languages ( typically French or German ) , but Dutch was their dominant language .
+Results and Discussion For each language , we tabulated the frequency of the verbs produced to describe each clip .
+We then focused on the distri- bution across clips of those verbs that were the dominant ( i.e. , most frequent ) response for at least one clip .
+Japanese speakers produced the simplest naming pattern , with only two different verbs emerging as dominant for at least one clip .
+Figure 2 shows the distribution of these two verbs across clips .
+The distribution of aruku was consistent with the grouping of stimuli in the cluster solution ; aruku was applied to the clips showing speeds 1 , 2 , and 3 at each slope , as well as to the clip showing speed 4 on the flat surface , but not to the clips showing speed 4 on the two tilted surfaces ( the added difficulty 0 20 40 60 80 100 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 1 2 3 4 5 6 7 Flat R es po ns es ( % ) aruku hashiru ∼4° ∼8° Fig .
+2 .
+Results for Japanese speakers in Study 1 .
+The graph shows the percentage of total responses accounted for by each of the two dominant Japanese verbs ( i.e. , the verbs that were the most frequent response for at least one stimulus ) , as a function of speed and slope of the treadmill .
+( See Fig .
+1 for an explanation of the designations of speed . )
+Volume 19—Number 3 235 B.C .
+Malt et al .
+at NORTH CAROLINA STATE UNIV on March 6 , 2015pss.sagepub.comDownloaded from of the slopes had forced the model to switch gaits in those clips ) .
+The distribution of hashiru was also consistent with the grouping of stimuli in the cluster solution ; hashiru was applied to the clips showing speed 4 with approximately 41 and 81 of tilt and to all the clips showing higher speeds .
+The pattern is unambiguously cat- egorical : For all clips for which aruku was the dominant verb , there were no responses ofhashiru , and conversely , for all clips for which hashiru was the dominant verb , there were no responses of aruku .
+The application of the verbs corresponds cleanly to the biomechanical distinction between walking and running .
+The other languages yielded from three ( Spanish ) to seven ( Dutch ) different verbs that were dominant for at least one clip , demonstrating considerable cross-linguistic diversity .
+But what was the nature of these differences ?
+If the four languages encode the same gait distinctions , the verb distributions obtained for English , Spanish , and Dutch should have observed the cate- gorical boundaries of the Japanese verbs while making finer distinctions within them .
+If the languages do not reflect the biomechanical discontinuity , the verb distributions obtained should have cut across the Japanese boundaries .
+Also , the dis- tributions within a language might have overlapped , instead of showing clean categorical boundaries .
+When we superimposed the response distributions of the other languages onto the Japanese distributions , each of the verbs in the other languages showed a distribution that fell entirely within the boundaries of one of the Japanese verb distributions .
+Figure 3a presents the distributions of verbs that fell within the distribution of aruku,1 and Figure 3b presents the distributions of verbs that fell within the distribution of hashiru .
+Figure 4 presents the summed distributions of all the different verbs for each language.2 These figures show that the languages differ in how finely they distinguish lexically within a given category .
+Furthermore , they show that within each category , the use of terms is graded ; the distributions of the terms overlap .
+However , critically , the figures also make it clear that speakers of all four languages observe the samemajor distinction between gaits , and they treat this distinction strictly categorically in naming .
+Verbs associated with one gait and verbs associated with the other were not applied to the same clips .
+The correspondence across the languages that is evident in the graphs was substantiated by extremely high correlations of the English , Spanish , and Dutch distributions with the Japanese distributions : The percentage of Englishwalk responses for each clip correlated .94 across clips with the percentage of aruku responses ; Spanish caminar responses correlated .97 with aru- ku responses ; and the four Dutch responses snelwandelen , stappen , wandelen , and slenteren combined correlated .96 with aruku responses .
+The percentage of English jog , run , and sprint responses combined for each clip correlated .94 with the per- centage of hashiru responses ; Spanish trotar and correr responses combined correlated .94 with hashiru responses ; and Dutch rennen , lopen , and joggen responses combined correlated .88 with hashiru responses .
+Thus , the lexicons of all four languages , low-manner-salient as well as high-manner-salient , appear to respect the discontinuity in manner of motion between walking and running .
+STUDY 2 : TYPICALITY Although Study 1 showed that the four languages have gait terms corresponding closely in their boundaries , languages may differ in which examples of gaits they consider the best , and which they consider more peripheral .
+That is , the terms of the four languages we analyzed in Study 1 may have different prototypes and typicality distributions even though their range of applica- tion is the same .
+To obtain more detailed information about the meanings of the terms , we collected ratings of the typicality of each clip as an example of two or three gait terms in each language .
+Method Native speakers of American English ( n 5 23 ) , Argentinean Spanish ( n 5 12 ) , Japanese ( n 5 33 ) , and Belgian Dutch ( n 5 23 ) who did not participate in Study 1 participated in Study 2 .
+They were drawn from the same populations as before , except for 1 Spanish speaker who was not resident in Argentina .
+The 24 video clips from Study 1 were used .
+For the gait terms , we selected English walk and run ( the verbs discussed in the English-language gait literature as capturing the main biome- chanical distinction ) , along with their rough translation equiv- alents ( as given by native speakers ’ intuitions ) in the other languages : aruku and hashiru for Japanese , caminar and correr for Spanish , and wandelen , rennen , and lopen for Belgian Dutch .
+Each clip was presented on a Web page similar to that used in Study 1 except that participants were asked not what the woman was doing in each clip , but how typical the action was of par- ticular verbs .
+For instance , for English , each clip was followed by the two questions , ‘ ‘ How typical is this of walking ? ’ ’ and ‘ ‘ How typical is this of running ? ’ ’ Participants answered by selecting a number from a drop-down menu with options ranging from 0 ( not an example ) to 6 ( highly typical ) .
+Results and Discussion Figure 5 plots the mean typicality ratings across clips for walk , run , and the corresponding verbs in the other languages .
+The typicality distributions for the related terms were remarkably similar , with correspondence across the languages almost per- fect for both walking terms and running terms .
+Ratings for walk and the related terms in the other languages—aruku , caminar , and wandelen—corresponded essentially perfectly across the clips ( for each possible pair of languages , r 5 .99 ) .
+Ratings for 1Belgian Dutch gait vocabulary differs from that of Netherlands Dutch ; however , the categorical use of terms holds equally for both .
+2Responses not represented on the graph include non-gait descriptors such as cooling down , speeding up , and exercising , and lower-frequency gait terms such as trotting .
+236 Volume 19—Number 3 Talking About Walking at NORTH CAROLINA STATE UNIV on March 6 , 2015pss.sagepub.comDownloaded from run and the related verbs—hashiru , correr , rennen , and lopen— were also strongly correlated .
+The typicality of clips as exem- plars of run , hashiru , and correr corresponded essentially per- fectly ( r 5 1.0 for run with hashiru , r 5 .99 for the other two pairings ) .
+Ratings for rennen showed slightly lower but still very strong correspondence ( r 5 .90 with run , .90 with hashiru , and .93 with correr ) , as did ratings for lopen ( r5 .90 with run , .92 with hashiru , and .87 with correr ) .
+a 0 20 40 60 80 100 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 1 2 3 4 5 6 7 Flat R es po ns es ( % ) English walk Spanish caminar Dutch wandelen Dutch stappen Dutch slenteren Dutch snelwandelen b 0 20 40 60 80 100 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 1 2 3 4 5 6 7 Flat R es po ns es ( % ) English jog English run English sprint Spanish trotar Spanish correr Dutch lopen Dutch rennen Dutch joggen ∼4° ∼8° ∼4° ∼8° Fig .
+3 .
+Results for English , Spanish , and Dutch speakers in Study 1 .
+The graph in ( a ) shows the percentage of total responses accounted for by the English , Spanish , and Dutch dominant verbs ( i.e. , all verbs that were the most frequent response for at least one stimulus ) falling within the boundaries of Japanese aruku , as a function of speed and slope of the treadmill .
+The graph in ( b ) shows the percentage of total responses accounted for by the English , Spanish , and Dutch dominant verbs falling within the boundaries of Japanese hashiru , as a function of speed and slope of the treadmill .
+( See Fig .
+1 for an explanation of the desig- nations of speed . )
+Volume 19—Number 3 237 B.C .
+Malt et al .
+at NORTH CAROLINA STATE UNIV on March 6 , 2015pss.sagepub.comDownloaded from 0 1 2 3 4 5 6 1 2 3 4 5 6 7 8 1 2 3 4 5 6 7 1 2 3 4 5 6 789 T yp ic al ity aruku walk caminar wandelen hashiru run correr rennen lopen Flat ∼4° ∼8° Fig .
+5 .
+Mean typicality ratings for the Japanese , English , Spanish , and Dutch gait terms in Study 2 , as a function of speed and slope of the treadmill .
+( See Fig .
+1 for an explanation of the designations of speed . )
+0 20 40 60 80 100 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 1 2 3 4 5 6 7 Flat R es po ns es ( % ) aruku walk caminar snelwandelen-stappen- wandelen-slenteren hashiru jog-run-sprint trotar-correr rennen-lopen-joggen ∼4° ∼8° Fig .
+4 .
+Percentage of total responses accounted for by the Japanese , English , Spanish , and Dutch dominant verbs ( i.e. , all verbs that were the most frequent response for at least one stimulus ) for both walking and running gaits , as a function of speed and slope of the treadmill .
+In cases in which a language had more than one dominant verb for a gait , the distributions are summed .
+( See Fig .
+1 for an explanation of the designations of speed . )
+238 Volume 19—Number 3 Talking About Walking at NORTH CAROLINA STATE UNIV on March 6 , 2015pss.sagepub.comDownloaded from In Study 1 , the slowest running clips at each slope had often received the labels jog in English and trotar in Spanish , but the typicality ratings reveal that the actions were nevertheless seen as moderately good examples of run and correr , respectively .
+In contrast , it seems that Belgian Dutch verbs partition the running space more definitively ; rennen was high in acceptability only for the faster clips , and lopen covered the slower speeds , a distinction reflected in a correlation of only .65 between ratings for these two verbs .
+Nevertheless , the typicality peaks of rennen were quite comparable to the peaks for the other languages ’ terms .
+The ratings therefore show that the shared tendency across languages extends beyond distinguishing two categories of gait .
+The gait terms share best examples and to a very large extent the gradation of goodness of example .
+This tendency may be driven by a shared frequency distribution of input to the observer .
+That is , the close similarity of human bodies and physical capabilities across cultures may result in a tendency for certain speeds of movement within each gait category to be most useful and common .
+GENERAL DISCUSSION These studies were aimed at evaluating whether naming patterns in different languages reflect the independently specified , uni- versally experienced structure inherent in human locomotion .
+We found that despite substantial structural differences among English , Spanish , Japanese , and Dutch ( as well as cultural dif- ferences among their speakers ) , names for two common human gaits follow the same categorical pattern across these languages .
+This is true even though the languages show notable divergence in the extent to which they carve up gait space with further distinctions .
+These findings support the proposal that structure in the world provides constraints on how category labels are assigned .
+Shared tendencies are not reflections solely of acts of construction on the part of observers .
+Where strong structure exists , broad categories may tend to be shared across languages ( cf .
+Levinson , 2003 ; Roberson , Davies , & Davidoff , 2000 ) .
+Furthermore , a structural constraint can be driven by correla- tions among stimulus properties that are dynamic and fleeting .
+Are there languages that do not follow the pattern observed here ?
+It is possible that some do not have separate verbs for walking and running gaits , just as some do not have separate nouns for hands versus arms ( Brown , 2005b ; Majid et al. , 2006 ) or mice versus bats and shrews ( Hunn , 1999 ) .
+However , we predict that few languages crosscut the biomechanical distinc- tion , by , for instance , having a verb grouping fast walks with slow runs and segregating those from slower walks and faster runs .
+The data do not tell us exactly what cues our participants were responding to .
+Todd ( 1983 ) suggested that the angle of the lower leg may be important ; however , responses to our clips in which the treadmill was at a tilt , and knee bend was increased for walk- ing , suggest that observers perceive additional , emergent qual- ities of the gaits , such as the characteristic bounce-and-recoil motion present in running but not walking ( Alexander , 1982 ) .
+Because gaits are biomechanically definedby clusters of correlated properties , speakers of different languages may tend to observe the same distinction even if they vary somewhat in the weights they give to different properties ( Boster & D ’ Andrade , 1989 ) .
+The typicality data demonstrate , further , that the best exam- ples of the gait terms are highly comparable across languages .
+It is possible that languages diverge more in how far they extend their ‘ ‘ walk ’ ’ and ‘ ‘ run ’ ’ terms to less common actions ( e.g. , to shuffling or marching ) or in how they lexically partition less frequent forms of motion ( e.g. , distinguishing jumping from skipping ) .
+Indeed , preliminary data we have gathered suggest this is true .
+Research in other domains ( e.g. , artifacts ; Malt et al. , 1999 ) suggests that in domains in which structure in the world is weaker , or less attention is given to that structure , cultural and historical forces have greater influence on naming patterns .
+These lines of work together indicate that lexical categories are subject to multiple forces , some of which cause convergence across languages and some of which cause divergence .
+The work we have reported here contributes to understanding the nature of those forces that yield convergence .
+Acknowledgments—We thank Caitilin Gallagher for serving as the treadmill model ; Kristine Schuster for developing the Web- based experiments ; Allison Baker , Caitilin Gallagher , Allison Schiefer , Steven Vulin , Celina Hayes , Lisa Kantrowitz , Tessa Jacobs , Ludy Cilissen , Sandra Cvejanov , Leonor Tecker , and members of the Imai lab for assistance with data collection and analysis ; Terry Regier for helpful comments on a previous draft ; and National Science Foundation Grant BCS-0446538 for partial support .
+Naoaki Tsuda created the similarity sorting program .
+REFERENCES Alexander , R.M .
+( 1982 ) .
+Locomotion of animals .
+London : Blackie .
+Alexander , R.M .
+( 1992 ) .
+The human machine .
+New York : Columbia University Press .
+Ameel , E. , Storms , G. , Malt , B.C. , & Sloman , S.A. ( 2005 ) .
+How bilinguals solve the naming problem .
+Journal of Memory and Language , 53 , 60–80 .
+Atran , S. ( 1990 ) .
+Cognitive foundations of natural history : Towards an anthropology of science .
+Cambridge , England : Cambridge Uni- versity Press .
+Bennett , M.B .
+( 1992 ) .
+Empirical studies of walking and running .
+In R.M .
+Alexander ( Ed .
+) , Comparative and environmental physiolo- gy : Vol .
+11 .
+Mechanics of animal locomotion ( pp .
+141–165 ) .
+Berlin , Germany : Springer-Verlag .
+Berlin , B .
+( 1982 ) .
+Ethnobiological classification .
+In E. Rosch & B.B .
+Lloyd ( Eds .
+) , Cognition and categorization ( pp .
+9–26 ) .
+Hillsdale , NJ : Erlbaum .
+Berlin , B .
+( 1992 ) .
+Ethnobiological classification : Principles of catego- rization of plants and animals in traditional societies .
+Princeton , NJ : Princeton University Press .
+Boster , J.S .
+( 1987 ) .
+Agreement between biological classification sys- tems is not dependent on cultural transmission .
+American An- thropologist , 8 , 914–919 .
+Volume 19—Number 3 239 B.C .
+Malt et al .
+at NORTH CAROLINA STATE UNIV on March 6 , 2015pss.sagepub.comDownloaded from Boster , J.S .
+( 1994 ) .
+The successive pile sort .
+Cultural Anthropology Methods , 6 , 7–8 .
+Boster , J.S. , & D ’ Andrade , R. ( 1989 ) .
+Natural and human sources of cross-cultural agreement in ornithological classification .
+Ameri- can Anthropologist , 9 , 132–142 .
+Bowerman , M. ( 1996 ) .
+Learning how to structure space for language : A crosslinguistic perspective .
+In P. Bloom , M.A .
+Peterson , L. Nadel , & M.F .
+Garrett ( Eds .
+) , Language and space ( pp .
+385–436 ) .
+Cambridge , MA : MIT Press .
+Bowerman , M. ( 2005 ) .
+Why can ’ t you ‘ open ’ a nut or ‘ break ’ a cooked noodle ?
+Learning covert object categories in action word mean- ings .
+In L. Gershkoff-Stowe & D. Rakison ( Eds .
+) , Building object categories in developmental time ( pp .
+209–243 ) .
+Mahwah , NJ : Erlbaum .
+Brown , C.H .
+( 2005a ) .
+Finger and hand .
+In M. Haspelmath , M. Dryer , D. Gil , & B. Comrie ( Eds .
+) , The world atlas of language structures ( pp .
+526–529 ) .
+Oxford , England : Oxford University Press .
+Brown , C.H .
+( 2005b ) .
+Hand and arm .
+In M. Haspelmath , M. Dryer , D. Gil , & B. Comrie ( Eds .
+) , The world atlas of language structures ( pp .
+522–525 ) .
+Oxford , England : Oxford University Press .
+Collins , J.J. , & Stewart , I.N .
+( 1993 ) .
+Coupled nonlinear oscillators and the symmetries of animal gaits .
+Journal of Nonlinear Science , 3 , 349–392 .
+Crystal , D. ( 1987 ) .
+The Cambridge encyclopedia of language .
+Cam- bridge , England : Cambridge University Press .
+Diedrich , F.J. , & Warren , W.H .
+( 1995 ) .
+Why change gaits ?
+Dynamics of the walk-run transition .
+Journal of Experimental Psychology : Human Perception and Performance , 12 , 183–202 .
+Diedrich , F.J. , & Warren , W.H .
+( 1998 ) .
+The dynamics of gait transi- tions : Effects of load and grade .
+Journal of Motor Behavior , 30 , 60–78 .
+Hunn , E. ( 1977 ) .
+Tzeltal folk zoology : The classification of disconti- nuities in nature .
+New York : Academic Press .
+Hunn , E. ( 1999 ) .
+Size as limiting the recognition of biodiversity in folkbiological classifications : One of four factors governing the cultural recognition of biological taxa .
+In D.L .
+Medin & S. Atran ( Eds .
+) , Folkbiology ( pp .
+47–69 ) .
+Cambridge , MA : MIT Press .
+Kay , P. , Berlin , B. , Maffi , L. , & Merrifield , W. ( 1997 ) .
+Color naming across languages .
+In C.L .
+Hardin & L. Maffi ( Eds .
+) , Color cate- gories in language and thought ( pp .
+21–58 ) .
+Cambridge , En- gland : Cambridge University Press .
+Kay , P. , & McDaniel , C.K .
+( 1978 ) .
+The linguistic significance of the meanings of basic color terms .
+Language , 54 , 610–646 .
+Kay , P. , & Regier , T. ( 2003 ) .
+Resolving the question of color naming universals .
+Proceedings of the National Academy of Sciences , USA , 100 , 9085–9089 .
+Levinson , S.C. ( 2003 ) .
+Language and mind : Let ’ s get the issues straight !
+In D. Gentner & S. Goldin-Meadow ( Eds .
+) , Language in mind ( pp .
+25–46 ) .
+Cambridge , MA : MIT Press .
+Majid , A. , Bowerman , M. , van Staden , M. , & Boster , J.S .
+( 2007 ) .
+The semantic categories of cutting and breaking events : A cross- linguistic perspective .
+Cognitive Linguistics , 18 , 133–152 .
+Majid , A. , Enfield , N.J. , & van Staden , M .
+( Eds . ) .
+( 2006 ) .
+Parts of the body : Cross-linguistic categorization [ Special issue ] .
+Language Sciences , 28 ( 2–3 ) .
+Majid , A. , Gullberg , M. , van Staden , M. , & Bowerman , M. ( 2007 ) .
+How similar are semantic categories in closely related languages ?
+A comparison of cutting and breaking in four Germanic languages .
+Cognitive Linguistics , 18 , 179–194 .
+Malt , B.C .
+( 1995 ) .
+Category coherence in cross-cultural perspective .
+Cognitive Psychology , 29 , 85–148 .
+Malt , B.C. , Sloman , S.A. , Gennari , S. , Shi , M. , & Wang , Y .
+( 1999 ) .
+Knowing versus naming : Similarity and the linguistic categoriza- tion of artifacts .
+Journal of Memory and Language , 40 , 230–262 .
+Muehleisen , V. , & Imai , M. ( 1997 ) .
+Transitivity and incorporation of ground information in Japanese path verbs .
+In M.H .
+Verspoor , K.D .
+Lee , & E. Sweetser ( Eds .
+) , Lexical and syntactical con- structions and the construction of meaning ( pp .
+329–346 ) .
+Am- sterdam : John Benjamins .
+Regier , T. , & Carlson , L. ( 2001 ) .
+Grounding spatial language in per- ception : An empirical and computational investigation .
+Journal of Experimental Psychology : General , 130 , 273–298 .
+Regier , T. , Kay , P. , & Khetarpal , N. ( 2007 ) .
+Color naming reflects optimal partitions of color space .
+Proceedings of the National Academy of Sciences , USA , 104 , 1436–1441 .
+Roberson , D. , Davies , I. , & Davidoff , J .
+( 2000 ) .
+Color categories are not universal : Replications and new evidence from a stone-age cul- ture .
+Journal of Experimental Psychology : General , 129 , 369– 398 .
+SAS Institute .
+( 1999 ) .
+SAS STATs user ’ s guide 8 .
+Cary , NC : Author .
+Schoner , G. , Jiang , W.Y. , & Kelso , J.A .
+( 1990 ) .
+A synergetic theory of quadrupedal gaits and gait transitions .
+Journal of Theoretical Biology , 142 , 359–391 .
+Slobin , D.I .
+( 2004 ) .
+The many ways to search for a frog : Linguistic ty- pology and the expression of motion events .
+In S. Strömqvist & L. Verhoeven ( Eds .
+) , Relating events in narrative : Vol .
+2 .
+Typological and contextual perspectives ( pp .
+219–257 ) .
+Mahwah , NJ : Erlbaum .
+Todd , J.T .
+( 1983 ) .
+Perception of gait .
+Journal of Experimental Psy- chology : Human Perception and Performance , 9 , 31–42 .
+Wierzbicka , A .
+( 1992 ) .
+Semantics , culture , and cognition .
+Oxford , England : Oxford University Press .
+( RECEIVED 4/14/07 ; REVISION ACCEPTED 7/27/07 ) 240 Volume 19—Number 3 Talking About Walking at NORTH CAROLINA STATE UNIV on March 6 , 2015pss.sagepub.comDownloaded from

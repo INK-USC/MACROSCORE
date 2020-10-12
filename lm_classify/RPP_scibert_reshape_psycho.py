@@ -16,7 +16,7 @@ tokenizer = BertTokenizer.from_pretrained('allenai/scibert_scivocab_uncased', do
 bertmodel = BertModel.from_pretrained('allenai/scibert_scivocab_uncased')
 bertmodel.to('cuda')
 save_dir = os.path.join("checkpoint", "save")
-model_name = 'scibert100_delpsycho'
+model_name = 'scibert_reshape_psycho'
 
 def split_paper(content):
     l_total = []
@@ -158,9 +158,11 @@ def eval_model(model, test_data):
 
 import pandas as pd, os
 from nltk.tokenize import word_tokenize
+from nltk.corpus import wordnet
+
 import random
 
-psycho_features = pd.read_excel('./data/RPP_psycho_correlation.xlsx').to_dict()
+psycho_features = pd.read_excel('../data/RPP_psycho_correlation.xlsx').to_dict()
 
 psycho_tokens = {}
 i = 0
@@ -183,7 +185,7 @@ for k in psycho_features['feature'].keys():
     psycho_tokens[category] = words
 
 
-def delete_tokens(content, tokens, token_category):
+def replace_tokens(content, tokens, token_category):
     all_tokens = list()
     for key, value in tokens.items():
         all_tokens.extend(value)
@@ -191,42 +193,27 @@ def delete_tokens(content, tokens, token_category):
 
     for section in content:
         text_tokens = word_tokenize(section['text'])
-        print(len(text_tokens))
-        tokens_without_sw = [word for word in text_tokens if not word in all_tokens]
-        print(len(tokens_without_sw))
-        recover_text = " ".join(tokens_without_sw)
+        recover_text = ""
+        for word in text_tokens:
+            if word in all_tokens:
+                synonyms = []
+                for syn in wordnet.synsets(word):
+                    for l in syn.lemmas():
+                        synonyms.append(l.name())
+                if len(synonyms) > 0:
+                    recover_text += " " + synonyms[0]
+                else:
+                    recover_text += " " + word
+            else:
+                recover_text += " " + word
         section['text'] = recover_text
-
     return content
 
-def random_delete_tokens(content, tokens, token_category):
-    all_tokens = list()
-    for section in content:
-        text_tokens = word_tokenize(section['text'])
-        all_tokens.extend(text_tokens)
-    all_tokens = set(all_tokens)
 
-    psycho_tokens = list()
-    for key, value in tokens.items():
-        psycho_tokens.extend(value)
-    psycho_tokens = set(psycho_tokens)
-
-    percentage = int(len(all_tokens) * 0.25)
-    sample_tokens = random.sample(all_tokens, percentage)
-    print(len(all_tokens), percentage)
-
-    for section in content:
-        text_tokens = word_tokenize(section['text'])
-        tokens_without_sw = [word for word in text_tokens if not word in sample_tokens]
-        recover_text = " ".join(tokens_without_sw)
-        section['text'] = recover_text
-
-    return content
-
-data = json.load(open('./data_processed/RPP_scienceparse_classify_data.json', 'r'))
+data = json.load(open('../data_processed/RPP_scienceparse_classify_data.json', 'r'))
 
 #r_process = [[r['content'], r['O_within_CI_R'], r['Fold_Id']] for r in data]
-meta_process = [[delete_tokens(r['content'], psycho_tokens, None), r['Meta_analysis_significant'], r['Fold_Id']] for r in data]
+meta_process = [[replace_tokens(r['content'], psycho_tokens, None), r['Meta_analysis_significant'], r['Fold_Id']] for r in data]
 #pvalue_process = [[r['content'], r['pvalue_label'], r['Fold_Id']] for r in data]
 
 

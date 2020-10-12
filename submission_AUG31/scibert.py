@@ -95,6 +95,7 @@ class Model:
                 l_parcial = content.split()[w * 50:w * 50 + 100]
                 l_total.append(" ".join(l_parcial))
 
+        #[contents[0:100],contents[50:150],....]
         return l_total
 
 
@@ -119,6 +120,7 @@ class Model:
             embs.append(section_final_embs)
         final_embs = torch.stack(embs)
         final_embs = final_embs.unsqueeze(0)
+        #[contents[0:100]-cls, contents[50:150]-cls, ....]
         return final_embs, len(embs)
 
     # TODO : how it looks like?

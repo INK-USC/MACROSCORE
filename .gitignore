@@ -6,9 +6,6 @@
 /flair_models/*
 /pdfs/*
 /science_parsed_dataset/*
-/tagtog_annotations/annotations_extra/*
-/tagtog_annotations/annotations_only_for_test/*
-/tagtog_annotations/annotations_original/*
 /.idea/*
 /.DS_Store
 /.ipynb_checkpoints/*

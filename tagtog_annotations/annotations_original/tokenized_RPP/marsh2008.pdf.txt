@@ -1,0 +1,291 @@
+marsh2008.pdf
+at8yV3UbuWtiiKdRdcO_W5OmYyj0-marsh2008.pdf.plain.html
+
+When Does Between-Sequence Phonological Similarity Promote Irrelevant Sound Disruption ?
+John E. Marsh , François Vachon , and Dylan M. Jones Cardiff University Typically , the phonological similarity between to-be-recalled items and TBI auditory stimuli has no impact if recall in serial order is required .
+However , in the present study , the authors have shown that the free recall , but not serial recall , of lists of phonologically related to-be-remembered items was disrupted by an irrelevant sound stream ( end rhymes ) sharing similar phonological content .
+These findings can be explained by the notion that between-sequence phonological similarity effects emerge when category- cueing processes become an important determinant for recall , such as when shared category information can be used as a retrieval aid to cue list items or plausible list candidates .
+In this case , the presence of categorically similar irrelevant items impairs the retrieval of list items and leads to intrusion error .
+Implications of these results for theories of auditory distraction are discussed .
+Keywords : auditory distraction , phonological similarity , selective attention , free recall , serial recall There is ample evidence that cognitive tasks involving serial recall are disrupted by the mere presence of concurrent to-be- ignored ( TBI ) sounds that are irrelevant to the focal task ( Jones , 1999 ) .
+This impairment is known as the irrelevant sound effect ( Beaman & Jones , 1997 ) .
+The degree of disruption of serial recall by irrelevant sound is related to the amount of acoustic change between each successive irrelevant item ( Jones , Madden , & Miles , 1992 ) .
+Nonacoustic factors are shown to play a rather limited role in the irrelevant sound effect ( e.g. , Neely & LeCompte , 1999 ) .
+For instance , the phonological similarity between the to-be- remembered ( TBR ) and the TBI items does not impair serial recall ( e.g. , Jones & Macken , 1995 ) .
+However , these previous studies that have focused on serial recall have not considered whether between-sequence phonological similarity effects could be found with other tasks for which participants can engage a strategy that may be more susceptible to disruption by the phonological prop- erties of irrelevant information .
+Here , for the first time , we com- pare the effect of between-sequence phonological similarity on free and serial recall : We replicate the null effect on serial recall , but we also demonstrate a pronounced disruptive effect of between-sequence phonological similarity on the free recall of lists of end-rhyming words .
+At an empirical level , research on auditory distraction has been strongly preoccupied by whether similarity of content between rehearsal of visually presented TBR items and TBI auditory stim- uli produces , or amplifies , the disruption in serial recall .
+This has been fueled for the most part by the working memory model ( Baddeley , 1986 ) , a theoretical perspective that suggests that such similarity of content is important ( Salamé & Baddeley , 1982 ; cf .
+Larsen , Baddeley , & Andrade , 2000 ) .
+A host of empirical findings have now ruled out this interpretation of the irrelevant sound effect : Similarity of phonological content ( either defined by iden- tity , rhyme , or the vowel sounds ) between TBR and TBI items does not increase disruption to serial recall ( Buchner , Irmen , & Erdfelder , 1996 ; Jones & Macken , 1995 ; Larsen et al. , 2000 ; LeCompte & Shaibe , 1997 ; but see Hughes & Jones , 2005 ) .
+Indeed , it is not a necessary prerequisite for irrelevant sound to contain phonological content to produce an irrelevant sound effect ; tones can produce disruption ( Jones & Macken , 1993 ) .
+In light of these findings , contemporary accounts , including computational models , of the irrelevant sound effect dismiss between-sequence phonological similarity as a disruptive agent ( e.g. , Jones , 1993 ; Neath , 2000 ) .
+Like its phonological content , the semantic content of an irrel- evant sound does not produce or exacerbate the irrelevant sound effect in serial recall : Irrelevant speech in a monolingual partici- pant ’ s native tongue produces no more disruption than when it is presented in a language foreign to that participant ( Jones , Miles , & Page , 1990 ) .
+Recently , however , evidence has emerged that between-sequence semantic similarity—in tasks other than serial recall—can produce disruption ( Beaman , 2004 ; Neely & Le- Compte , 1999 ) .
+For example , a “ semantic irrelevant sound effect ” has been shown in a category-exemplar recall task in which a list of 10 semantically rich items ( nouns ) taken from a single semantic category is presented for free recall .
+For this task , between- sequence similarity impairs performance ( Marsh , Hughes , & Jones , in press ) : The free recall of category-exemplars ( e.g. , avo- cado for “ Fruits ” ) is disrupted ( as reflected in reduced recall ) more John E. Marsh , François Vachon , and Dylan M. Jones , School of Psychology , Cardiff University , Cardiff , United Kingdom .
+Dylan M. Jones is also an adjunct professor at the Department of Psychology , University of Western Australia , Perth , Western Australia , Australia .
+This research was supported by United Kingdom ’ s Economic and Social Research Council Grant RES-000-22-1526 awarded to Dylan M. Jones , Robert W. Hughes , and William J. Macken and by a postdoctoral fellow- ship from the Fonds québécois de la recherche sur la nature et les tech- nologies awarded to François Vachon .
+We thank Robert Hughes for a critical reading of a draft of this article .
+Correspondence concerning this article should addressed to John E. Marsh , School of Psychology , Cardiff University , P.O .
+Box 901 , Cardiff CF10 3AT , United Kingdom .
+E-mail : MarshJE @ cardiff.ac.uk Journal of Experimental Psychology : Copyright 2008 by the American Psychological Association Learning , Memory , and Cognition 2008 , Vol .
+34 , No .
+1 , 243–248 0278-7393/08/ $ 12.00 DOI : 10.1037/0278-7393.34.1.243 243 by semantically related irrelevant category items ( that are not included in the TBR list ; e.g. , apple ) than by categorically unre- lated , irrelevant items ( e.g. , hammer for “ Tools ” ) .
+The presence of related irrelevant category items also results in more intrusions relative to a quiet or an “ unrelated ” condition .
+Previous studies that have focused on irrelevant sound effects in serial and free recall have failed to consider whether differences between the type of disruption ( acoustic or semantic ) produced by irrelevant sound on free recall and serial recall arise from the process/strategy differences underpinning the two tasks ( see Marsh et al. , in press ) .
+Contemporary accounts suggest that serial recall is driven primarily by temporal ( order ) cues , whereas free recall is based more on semantic cues ( e.g. , Howard & Kahana , 2002 ; Klein , Addis , & Kahana , 2005 ) .
+The difference between the find- ings with serial recall and free recall can thus be explained by supposing that the acoustic ( but not semantic ) properties of sound disrupt the processing of , or representation of , temporal order cues but have no effect on processing semantic cues ( Jones , 1999 ) .
+Following the same reasoning for a scenario in which semantic cueing is used ( e.g. , for free recall of semantically rich lists ) , it would appear that the semantic ( but not acoustic ) properties of sound disrupt processing of semantic cues ( Marsh et al. , in press ) .
+To elaborate , the shared attributes between items of a semantically categorized list can act as an important facilitative aid : Self- initiated semantic-category cueing can be used to generate list items or potential list candidates ( Anderson & Bower , 1972 ; Gron- lund & Shiffrin , 1986 ) .
+However , such category cueing applied to free recall carries a cost in that it can lead to the generation of related ( but irrelevant ) auditory items , thus giving rise to their false inclusion as responses ( Marsh et al. , in press ) .
+Importantly , the use of category knowledge and category-cueing processes to organize recall and generate list candidates is not exclusive to semantic categories , and the literature is replete with examples indicating functional similarities between semantic- category and nonsemantic-category processes .
+Although randomly arranged in a study list , participants cluster phonologically similar ( i.e. , rhyming ) words together at output ( e.g. , thread , bread , lead ; Long & Allen , 1973 ) .
+Participants often generate , then falsely remember , nonpresented critical items to a list of phonological associates ( e.g. , cat ; fat , that , cab ; Sommers & Lewis , 1999 ) .
+In a category-exemplar generation task , fewer words are generated and written corresponding to a graphemic rule ( e.g. , van .
+.
+.
+; vanish , vanity , vanguard ) when participants are presented with irrelevant auditory words from the same , as compared with a different , graphemic category ( e.g. , dis .
+.
+.
+; Watkins & Allender , 1987 ) .
+Collectively , these findings suggest that the similarity in rhyme category , like semantic category , can be used to cue recall ( see Gupta , Lipinski , & Aktunc , 2005 ) and that between-sequence phonological similarity between streams of TBR and TBI items could produce disruption with the proviso that the recall task is dominated by processes that utilize long-term memory , such as category cueing .
+In sum , researchers of prior studies that have failed to find any effect of between-sequence phonological similarity have done so by way of using serial recall tasks .
+This leaves open the possibility that between-sequence phonological similarity effects could be found in the context of alternative mnemonic tasks .
+The current study overcomes the restrictions of previous studies by comparing the effect of between-sequence phonological similarity in the context of both serial recall and free recall tasks .
+The novel idea maintained as a working hypothesis for the current study is that the semantic irrelevant sound effect ( e.g. , Marsh et al. , in press ) is a generic “ categorical ” effect and that a between-sequence phono- logical similarity effect could be found for phonological categories if the use of phonological information is promoted by requiring free recall .
+Therefore , the main purpose of the present study was to investigate , for the first time , whether a between-sequence simi- larity effect could occur for the free but not serial recall of categorized material that is defined not semantically but phono- logically .
+For this purpose , rhyme categories were used : The auditory TBI items were end rhymes ( e.g. , side , ride , guide .
+.
+. )
+that were either phonologically similar to the visual TBR items ( e.g. , glide , fried , vied .
+.
+. )
+or phonologically dissimilar to the TBR items ( e.g. , frock , dock , crock .
+.
+. ) .
+The effect of between-sequence phonological similarity was examined through analysis of recall performance and extra-list intrusions .
+Method Participants Forty-eight students from Cardiff University participated in a mixed-factor design in return for course credit .
+All participants reported normal hearing and normal or corrected-to-normal vision and were native English speakers .
+Apparatus and Materials The rhyme-generating program Rhymer ( WriteExpress ; http : // www.rhymer.com ) was used to generate words by entering 30 words each with a different but common end rhyme ( e.g. , “ ide ” as in “ side ” ) .
+The monosyllabic end rhymes generated for each word were then chosen and scored for frequency with the Thorndike– Lorge word count ( Thorndike & Lorge , 1944 ) as were the origi- nally entered words .
+For each end rhyme , the resultant six highest frequency words were chosen as the TBI auditory items , whereas the 10 lowest frequency words were chosen as the TBR visual items .
+This method of constructing and selecting materials differed from previous studies ( e.g. , Beaman , 2004 ) for the following reasons .
+Items chosen in these prior studies were derived from category norms : Although the common attribute of an end rhyme means that end-rhyme words form categories , we were unaware of any “ end-rhyme category norms. ” This is unfortunate to the extent that the dominance relations between the items can not be deter- mined : We can not be sure that the highest frequency items are the first items participants will generate when presented with the end rhyme as a cue .
+Logically however , there should be a correlation between frequency of use in the English language and dominance level , and because of this , the highest frequency items were chosen as the irrelevant items .
+Limits imposed by restricted category sizes forced omissions of items not scored for frequency in the Thorndike–Lorge word count , and the removal of homophones resulted in the use of six words as TBI items and 10 words as the TBR items in each list .
+The items within the TBR and TBI sequences were presented in a randomized order that was the same for each participant .
+We recorded the TBI items in a male voice at an even pitch at a 244 BRIEF REPORTS sampling rate of 44.1 kHz in 16-bit resolution using Sound Forge 5.0 ( Sonic Inc. , Madison , WI ) .
+Each TBI item was then digitally edited to a duration of 500 ms. We presented the TBI items stereophonically over headphones at approximately 65–70 db ( A ) using SuperLab Pro software ( Cedrus Corp. , San Pedro , CA ) .
+Design A mixed design was used with one between-participants factor and one within-participant factor .
+The between-participants factor was “ Instruction Type , ” and participants were assigned to one of two levels : free recall and serial recall .
+The within-participant factor was “ Sound Condition , ” of which there were three levels : ( a ) irrelevant items phonologically dissimilar to the TBR items , ( b ) irrelevant items phonologically similar to the TBR items , and ( c ) a quiet control condition .
+The 30 TBR lists and 30 irrelevant sound sequences were divided into two 15-list sets .
+For each instruction type , half the participants were randomly assigned to one of the two 15-list sets .
+Each 15-list set was further subdivided into five blocks of three lists .
+Within each three-list block , the TBR lists were assigned randomly to one of the three sound conditions .
+The order of the three sound conditions within each three-trial block was counter- balanced across participants such that an equal number of partic- ipants were assigned to each of the six possible order permutations .
+When a TBR list was assigned to the phonologically similar condition , the sound sequence corresponding to the category rep- resented by that list was presented .
+When a TBR list was assigned to the phonologically dissimilar condition , the sound sequence was randomly chosen from the 15 categories not represented by the TBR list .
+Procedure Participants were seated at a viewing distance of approximately 60 cm from a PC monitor on which TBR items were displayed in a central position .
+Lists of TBR items appeared in lowercase black 72-point Times New Roman font one word at a time against a white background .
+Each word—whether TBR or TBI—was pre- sented for 500 ms with no interstimulus interval .
+The end of the list was notified by the appearance of a red “ WAIT ” sign that was displayed for 9 s before a green “ RECALL ” sign was shown to indicate the end of the retention period and start of the retrieval period .
+Each of the TBI items was presented three times in the retention period .
+Participants were seated in individual cubicles .
+They were in- formed that they would be presented with fifteen ten-word lists and that each list would be presented one word at a time on the computer monitor from which they were asked to memorize as many words as possible and write the words they remembered down on their recall sheets when a “ RECALL ” cue appeared on the screen .
+On presentation of the RECALL cue , participants given free recall instructions were instructed to try and remember as many of the words in any order , whereas participants given serial recall instructions were instructed to remember the words according to their original order of presentation .
+Participants from the serial recall group were also told that they could leave gaps in their recall protocols if necessary .
+Participants in this group were also in- structed to guess the original position if they had an item available to them for recall but could not remember its position .
+Recall sheets contained 15 columns of 10 rows each : Participants given serial recall instructions were provided with specially prepared recall sheets with serial positions marked on them ; the free-recall- instructed group had the same recall sheets but without the serial positions marked .
+Participants were informed that they would have 30 s to retrieve as much as they could of the list and that after this time a tone would sound to signal the beginning of the next list ( some 5 s later ) .
+Participants were instructed to ignore any sound that they heard through the headphones and were told that they would not be tested on its content at any point in the experiment .
+On completion of the experiment participants were instructed to return to the beginning of their recall sheets and mark next to an item recalled a confidence rating as to whether they thought that item had been visually presented ( 1 guess , 10 absolutely certain ; see Smith , Ward , Tindell , Sifonis , & Wilkenfeld , 2000 ) .
+Results Correct Responses The raw serial recall data were scored according to a strict serial recall criterion— recalled items were only scored as correct if they corresponded to their presentation position—whereas a free recall criterion was employed to score the raw free recall data : Recalled items were scored as correct regardless of serial position .
+On inspection of Figure 1 , there is an irrelevant sound effect in both free and serial recall , whereby recall is impaired with the presen- tation of TBI items .
+However , only free recall showed a between- sequence phonological similarity effect , that is , lower performance in the phonologically similar compared with the phonologically dissimilar condition .
+A 2 3 mixed analysis of variance ( ANOVA ) was carried out on the overall proportion of correct recall , with instruction type ( free vs. serial recall ) as a between- participants factor and sound condition ( quiet , phonologically dis- similar , and phonologically similar ) as a within-participant factor .
+The analysis confirmed a significant main effect of sound condi- tion , F ( 2 , 92 ) 32.32 , p .001 , d 1.68 , but no main effect of instruction type , F ( 1 , 46 ) 1.00 , p .66 , d 0.13 .
+Of particular importance for the purpose of the present study is the significant interaction between instruction type and sound condition , F ( 2 , 92 ) 3.13 , p .05 , d 0.52 .
+This significant interaction arose because phonologically similar irrelevant items disrupted recall compared with phonologically dissimilar items in free recall , t ( 23 ) 3.94 , p .001 , d 1.64 , but not in serial recall , t ( 23 ) 1.00 , p .53 , d 0.30 .
+Intrusions For both free and serial recall , two types of intrusion were distinguished .
+A related-item intrusion was a response that matched one of the six high-frequency items presented as irrele- vant items in the phonologically similar condition .
+Such responses were scored as similar-item intrusions even when those exemplars had not been presented on a given trial ( i.e. , in the quiet and phonologically dissimilar condition ) , thus providing a baseline against which to assess such intrusions in the phonologically 245BRIEF REPORTS similar condition .
+Other-item intrusions refer to items that were not presented at all during the experiment .
+Figure 2 shows for both recall tasks the mean number of each type of intrusion ( pooled across all trials ) for each sound condition .
+Generally , related-item intrusions were as common as other-item intrusions in every sound condition , except in the phonologically similar condition of the free recall task wherein related-item intrusions were compellingly more prevalent .
+A 2 ( Instruction Type ) 2 ( Intrusion Type ) 3 ( Sound Condition ) mixed ANOVA performed on the mean number of intrusions revealed significant main effects of intrusion type , F ( 1 , 46 ) 4.36 , p .05 , d 0.62 , and sound condition , F ( 2 , 92 ) 9.37 , p .001 , d 0.90 , whereas the main effect of instruction type was not significant , F ( 1 , 46 ) 1.98 , p .17 , d 0.42 .
+All two-way interactions were significant : Instruction Type Intru- sion Type , F ( 1 , 46 ) 5.42 , p .03 , d 0.69 ; Instruction Type Sound Condition , F ( 2 , 92 ) 5.20 , p .01 , d 0.67 ; and Intrusion Type Sound Condition , F ( 2 , 92 ) 6.90 , p .01 , d 0.78 .
+The three-way interaction approached significance , F ( 2 , 92 ) 2.89 , p .06 , d 0.50 .
+Intrusions were also submitted to a 2 ( Intrusion Type ) 3 ( Sound Condition ) repeated measures ANOVA separately for each instruction type .
+In serial recall , none of the effects were signifi- cant ( all Fs 1.00 ; ds 0.30 ) .
+In free recall , the main effects of intrusion type , F ( 1 , 23 ) 20.61 , p .001 , d 1.89 , and sound condition , F ( 2 , 46 ) 13.31 , p .001 , d 1.52 , were significant .
+Of particular interest is the significant interaction between the two factors , F ( 2 , 46 ) 8.41 , p .001 , d 1.21 .
+Further analysis of this interaction ( with an adjusted alpha level of .01 ) showed that related-item intrusions were more common than other-item intru- sions in the phonologically similar condition , t ( 23 ) 4.16 , p .001 , d 1.73 , but not in the quiet condition , t ( 23 ) 2.45 , p .03 , d 1.02 , or the phonologically dissimilar condition , t ( 23 ) 1.03 , p .313 , d 0.43 .
+Simple effect tests also revealed that related-item intrusions were more common in the phonologically similar condition as compared with the quiet condition , t ( 23 ) Figure 1 .
+Proportion of correct recall in free and serial recall as a function of irrelevant sound condition .
+Error bars represent 95 % within-participant confidence intervals calculated separately for each instruction type .
+Figure 2 .
+Mean total number of related- and other-item intrusions in free and serial recall as a function of irrelevant sound condition .
+Error bars represent 95 % within-participant confidence intervals calculated sepa- rately for each instruction type .
+246 BRIEF REPORTS 4.37 , p .001 , d 1.82 , and the phonologically dissimilar condition , t ( 23 ) 4.84 , p .001 , d 2.02 .
+Analysis of the confidence ratings suggested modality confusion : Participants in the phonologically similar condition of the free recall group tended to respond that the related-item intrusions they made were visually presented when in fact they were presented auditorily .
+Discussion In the present study , we established for the first time a between- sequence phonological similarity effect using free recall as the focal task and replicated the finding that such an effect does not occur in the context of serial recall ( cf .
+Jones & Macken , 1995 ) .
+This irrelevant sound phonological similarity effect can be cap- tured when strategies/processes , such as category cueing ( that are specific to the free recall of categorized material ) , are used .
+The results of this experiment conceptually replicate those reported by Marsh et al .
+( in press ) but with the use of categorical information that is phonologically rather than semantically defined .
+This indi- cates that there is no difference in the action of categorically related irrelevant items whether they are semantically or phono- logically determined .
+In this regard , these effects are better termed categorical irrelevant sound effects than semantic irrelevant sound effects .
+Before discussing the theoretical implications of the present findings , it should be noted that the current tasks diverged from classic short-term memory tasks in at least three ways .
+First , the present experiment used list lengths ( 10 items ) that are longer than typically adopted for classic short-term memory research ( five to eight items ) .
+Second , the current tasks involved a retention interval between study and test phases of the task .
+Delaying recall—such as with a retention interval—and using supraspan TBR lists of pho- nologically similar items ( as compared with phonologically dis- similar items ) can promote the use of phonological similarity as a facilitative means for recall ( Farrell , 2006 ) .
+Manipulation of fac- tors—such as list length , the presence or absence of a retention interval , and within-stream phonological similarity—would de- serve future scrutiny to allow a more direct comparison with previous studies .
+A third difference between the current research and previous studies that have used irrelevant sound with serial recall ( e.g. , Jones & Macken , 1995 ) is that prior studies have tended to use a closed set of either phonologically similar TBR items , TBI items , or both .
+Because a closed set of rhyming items decreases the purported use of category cueing in serial recall ( e.g. , Gupta et al. , 2005 ) , it was possible that an effect of between- sequence phonological similarity would emerge with serial recall provided that an open set of rhyming items was used .
+However , in the current study , we used an open set and still failed to obtain a between-sequence similarity effect with serial recall .
+Theoretical Implications There is theoretical controversy concerning the most adequate account of the irrelevant sound effect ( Cowan , 1995 ; Hughes & Jones , 2005 ; Neath , 2000 ; Norris , Baddeley , & Page , 2004 ) and associated phenomena of auditory distraction ( Buchner , Rother- mund , Wentura , & Mehl , 2004 ; Norris et al. , 2004 ) .
+However , the results reported here do appear to contradict some specific ac- counts of the irrelevant sound effect with serial recall that are heavily reliant on the concept of interference-by-content .
+For ex- ample , although in its initial formulation the working memory account ( Salamé & Baddeley , 1982 ; cf .
+Larsen et al. , 2000 ) pre- dicted an additional disruptive effect attributable to between- sequence phonological similarity of content ( albeit erroneously ; see Jones & Macken , 1995 ) , proponents of this account have argued that phonological encoding is abandoned in favor of a semantic encoding strategy when list length exceeds span ( five to six items ; Salamé & Baddeley , 1986 ) .
+Thus , a between-sequence phonological similarity effect is not predicted by the working memory account with lists of the length used in the current study .
+Similarly , the feature model ( Neath , 2000 ) does not predict any form of between-sequence similarity effect due to the specifics of the feature adoption process that drives the irrelevant sound effect with serial recall .
+The interference-by-process account ( e.g. , Hughes & Jones , 2005 ) , although in need of more precise formulation , is the only approach that predicts that the degree and type of disruption produced by irrelevant sound are a joint product of the nature of the irrelevant sound and the prevailing cognitive processes .
+The account correctly predicts the following : Tasks that require order processing are much more vulnerable to disruption via the acoustic-based order processing of the irrelevant sound than tasks that do not ( Beaman & Jones , 1997 ; Hughes , Vachon , & Jones , in press ) ; tasks that require memory for serial order are not impaired by the semantic or phonological prop- erties of irrelevant sound ( Marsh et al. , in press ; the current study ) ; and tasks that require memory for semantic- or phonological-category information , regardless of its presentation order , are disrupted by , respectively , similar semantic or phonological information conveyed by irrelevant sound but not its acoustic attributes ( Marsh et al. , in press ; the current study ) .
+One candidate process for explaining the disruption within this interference-by-process framework is source monitoring : TBI items that are categorically related to TBR items may be recalled ( resulting in the compelling related-item intrusion rate in the phonologically similar condition ) in the free recall condition because of a failure to attribute the source of the activation of the auditory item to the correct external modality ( visual ) in which it was experienced ( see Marsh et al. , in press ) .
+Contemporary models of free recall ( e.g. , Howard & Kahana , 2002 ) could explain the recall of TBI items by assuming that they become part of the list temporal context and are accordingly transmitted to the participant ’ s output protocols .
+Concluding Remarks In sum , the phonological similarity effect of irrelevant sound appears to be driven by the nature of the primary task : Generally , it is not found if the primary task is serial recall but is indeed found when category-cueing processes are likely to be engaged .
+When- ever possible , participants will use preexisting long-term memory structures ( associations/conceptual knowledge ) and natural lan- guage habits to learn , mediate , and facilitate recall of TBR material ( Bousfield , 1953 ; Ebbinghaus , 1964 ) .
+In serial recall , the role of long-term knowledge in task-performance is constrained because the TBR sequences are , by design , stripped of any grammatical– semantic structure that could support serial order ( this is precisely what makes serial recall difficult ; see Macken & Jones , 2003 ) .
+With categorized TBR information and free recall , generic pro- cesses involving long-term memory ( e.g. , category cueing ) can operate , but these can become vulnerable to disruption from irrel- 247BRIEF REPORTS evant sound that activates competing long-term memory represen- tations .
+It is entirely plausible that other ways of organizing ma- terial and generating retrieval candidates ( such as by first letter ; Hicks & Young , 1973 ) will be disrupted by TBI items ( such as those starting with the same initial letter ) but that these will represent the same generic effect .
+To conclude , any complete account of the effects of auditory distraction—be it theoretically or computationally based—must take into consideration the interde- pendency of the nature of the focal task and the nature of the potentially distracting irrelevant sound .
+References Anderson , J. R. , & Bower , G. H. ( 1972 ) .
+Recognition and retrieval pro- cesses in free recall .
+Psychological Review , 79 , 97–123 .
+Baddeley , A. D. ( 1986 ) .
+Working memory .
+Oxford , England : Oxford Uni- versity Press .
+Beaman , C. P. ( 2004 ) .
+The irrelevant sound phenomenon revisited : What role for working memory capacity ?
+Journal of Experimental Psychol- ogy : Learning , Memory , and Cognition , 30 , 1106–1118 .
+Beaman , C. P. , & Jones , D. M. ( 1997 ) .
+Role of serial order in the irrelevant speech effect : Tests of the changing-state hypothesis .
+Journal of Exper- imental Psychology : Learning , Memory , and Cognition , 23 , 459–471 .
+Bousfield , W. A .
+( 1953 ) .
+The occurrence of clustering in the recall of ran- domly arranged associates .
+Journal of General Psychology , 49 , 229–240 .
+Buchner , A. , Irmen , L. , & Erdfelder , E. ( 1996 ) .
+On the irrelevance of semantic information for the “ irrelevant ” speech effect .
+Quarterly Jour- nal of Experimental Psychology : Human Experimental Psychology , 49 ( A ) , 765–779 .
+Buchner , A. , Rothermund , K. , Wentura , D. , & Mehl , B .
+( 2004 ) .
+Valence of distractor words increases the effects of irrelevant speech on serial recall .
+Memory & Cognition , 32 , 722–731 .
+Cowan , N. ( 1995 ) .
+Attention and memory : An integrated framework .
+Oxford , England : Oxford University Press .
+Ebbinghaus , H. ( 1964 ) .
+Memory : A contribution to experimental psychol- ogy .
+New York : Dover .
+Farrell , S. ( 2006 ) .
+Mixed-list phonological similarity effects in delayed serial recall .
+Journal of Memory and Language , 55 , 587–600 .
+Gronlund , S. D. , & Shiffrin , R. M. ( 1986 ) .
+Retrieval strategies in recall of natural categories and categorized lists .
+Journal of Experimental Psy- chology : Learning , Memory , and Cognition , 12 , 550–561 .
+Gupta , P. , Lipinski , J. , & Aktunc , E. ( 2005 ) .
+Re-examining the phonolog- ical similarity effect in immediate serial recall : The roles of type of similarity , category cueing , and item recall .
+Memory & Cognition , 33 , 1001–1016 .
+Hicks , R. E. , & Young , R. K. ( 1973 ) .
+Input and output variables in recall of categorized and uncategorized lists .
+Journal of General Psychology , 89 , 109–114 .
+Howard , M. W. , & Kahana , M. J .
+( 2002 ) .
+When does semantic similarity help episodic retrieval ?
+Journal of Memory and Language , 46 , 85–98 .
+Hughes , R. W. , & Jones , D. M. ( 2005 ) .
+The impact of order incongruence between a task-irrelevant auditory sequence and a task-relevant visual sequence .
+Journal of Experimental Psychology : Human Perception and Performance , 31 , 316–327 .
+Hughes , R. W. , Vachon , F. , & Jones , D. M. ( in press ) .
+Disruption of short-term memory by changing and deviant sounds : Support for a duplex-mechanism account of auditory distraction .
+Journal of Experi- mental Psychology : Learning , Memory , and Cognition .
+Jones , D. M. ( 1993 ) .
+Objects , streams , and threads of auditory attention .
+In A. D. Baddeley & L. Weiskrantz ( Eds .
+) , Attention : Selection , awareness , and control ( pp .
+87–104 ) .
+Oxford , England : Clarendon Press .
+Jones , D. M. ( 1999 ) .
+The 1997 BPS Broadbent Lecture : The cognitive psychology of auditory distraction .
+British Journal of Psychology , 90 , 167–187 .
+Jones , D. M. , & Macken , W. J .
+( 1993 ) .
+Irrelevant tones produce an irrelevant speech effect : Implications for coding in phonological mem- ory .
+Journal of Experimental Psychology : Learning , Memory , and Cog- nition , 21 , 1008–1018 .
+Jones , D. M. , & Macken , W. J .
+( 1995 ) .
+Phonological similarity in the irrelevant speech effect : Within- or between-stream similarity .
+Journal of Experimental Psychology : Learning , Memory , and Cognition , 21 , 103–115 .
+Jones , D. M. , Madden , C. , & Miles , C. ( 1992 ) .
+Privileged access by irrelevant speech to short-term memory : The role of changing state .
+Quarterly Journal of Experimental Psychology : Human Experimental Psychology , 44 ( A ) , 645–669 .
+Jones , D. M. , Miles , C. , & Page , J .
+( 1990 ) .
+Disruption of proofreading by irrelevant speech : Effects of attention , arousal , or memory ?
+Applied Cognitive Psychology , 4 , 89–108 .
+Klein , K. A. , Addis , K. M. , & Kahana , M. J .
+( 2005 ) .
+A comparative analysis of serial and free recall .
+Memory & Cognition , 33 , 833–839 .
+Larsen , J. D. , Baddeley , A. D. , & Andrade , J .
+( 2000 ) .
+Phonological similarity and irrelevant speech : Implications for models of short-term verbal memory .
+Memory , 8 , 145–157 .
+LeCompte , D. C. , & Shaibe , D. M. ( 1997 ) .
+On the irrelevance of phonol- ogy to the irrelevant speech effect .
+Quarterly Journal of Experimental Psychology : Human Experimental Psychology , 50 ( A ) , 100–118 .
+Long , D. , & Allen , G. A .
+( 1973 ) .
+Relative effects of acoustic and semantic relatedness on clustering in free-recall .
+Bulletin of the Psychonomic Society , 1 , 316–318 .
+Macken , W. J. , & Jones , D. M. ( 2003 ) .
+Reification of phonological storage .
+Quarterly Journal of Experimental Psychology : Human Experimental Psychology , 56 ( A ) , 1279–1288 .
+Marsh , J. E. , Hughes , R. W. , & Jones , D. M. ( in press ) .
+Semantic auditory distraction : A process-based approach .
+Journal of Memory and Lan- guage .
+Neath , I .
+( 2000 ) .
+Modeling the effects of irrelevant speech on memory .
+Psychonomic Bulletin & Review , 7 , 403–423 .
+Neely , C. B. , & LeCompte , D. C. ( 1999 ) .
+The importance of semantic similarity to the irrelevant speech effect .
+Memory & Cognition , 27 , 37–44 .
+Norris , D. , Baddeley , A. D. , & Page , M. P. A .
+( 2004 ) .
+Retroactive effects of irrelevant speech on serial recall from short-term memory .
+Journal of Experimental Psychology : Learning , Memory , and Cognition , 30 , 1093– 1105 .
+Salamé , P. , & Baddeley , A. D. ( 1982 ) .
+Disruption of short-term memory by unattended speech : Implications for the structure of working memory .
+Journal of Verbal Learning and Verbal Behavior , 21 , 150–164 .
+Salamé , P. , & Baddeley , A. D. ( 1986 ) .
+Phonological factors in STM : Similarity and the unattended speech effect .
+Bulletin of the Psychonomic Society , 24 , 263–265 .
+Smith , S. M. , Ward , T. B. , Tindell , D. R. , Sifonis , C. M. , & Wilkenfeld , M. J .
+( 2000 ) .
+Category structure and created memories .
+Memory & Cognition , 28 , 386–395 .
+Sommers , M. S. , & Lewis , B. P. ( 1999 ) .
+Who really lives next door : Creating false memories with phonological neighbours .
+Journal of Mem- ory and Language , 40 , 83–108 .
+Thorndike , E. L. , & Lorge , I .
+( 1944 ) .
+The teacher ’ s word book of 30,000 words .
+New York : Columbia University , Teachers College .
+Watkins , M. J. , & Allender , L. E. ( 1987 ) .
+Inhibiting word generation with word presentations .
+Journal of Experimental Psychology : Learning , Memory , and Cognition , 13 , 564–568 .
+Received March 5 , 2007 Revision received August 15 , 2007 Accepted August 16 , 2007 248 BRIEF REPORTS

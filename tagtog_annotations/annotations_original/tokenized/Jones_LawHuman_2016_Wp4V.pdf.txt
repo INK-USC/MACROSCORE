@@ -1,0 +1,616 @@
+Jones_LawHuman_2016_Wp4V.pdf
+adbKFNGkzuLfeRzZ_k0P8F85j.yC-Jones_LawHuman_2016_Wp4V.pdf.plain.html
+
+Validity of the Youth Assessment and Screening Instrument : A Juvenile Justice Tool Incorporating Risks , Needs , and Strengths Natalie J. Jones Orbis Partners , Ottawa , Ontario , Canada Shelley L. Brown Carleton University David Robinson Orbis Partners , Ottawa , Ontario , Canada Deanna Frey Alberta Justice and Solicitor General , Edmonton , Alberta , Canada The primary purpose of this study is to introduce the Youth Assessment and Screening Instrument ( YASI ; Orbis Partners , 2000 ) , which is a comprehensive assessment protocol gauging a range of risks , needs , and strengths associated with criminal conduct in juvenile populations .
+Applied to a sample of 464 juvenile offenders bound by community supervision in Alberta , Canada , the Pre-Screen version of the instrument achieved a high level of accuracy in predicting both general and violent offenses over an 18-month follow-up period ( Area Under the Curve [ AUC ] .79 ) .
+No significant differences in overall predictive validity were found across demographic groups , save for the relatively lower level of accuracy achieved in predicting general reoffending across the subsample of girls ( AUC .68 ) .
+With regard to strengths , a buffering effect was identified whereby high-risk cases with higher levels of strength had superior outcomes compared to their lower strength counterparts .
+Results suggest that it is advisable to consider the quantitative inclusion of strength-based items in the assessment of juvenile risk .
+Keywords : Youth Assessment and Screening Instrument ( YASI ) , juvenile assessment , strengths , Aboriginal offenders , gender-responsive assessment The current article features an introduction of the Youth As- sessment and Screening Instrument ( YASI ; Orbis Partners , 2000 ) , a risk/need/strength assessment tool employed by several jurisdic- tions across North America to predict recidivism and guide case management efforts in juvenile justice contexts .
+Consistently shown to exceed the accuracy of unguided clinical judgment , the development and implementation of formal risk assessment pro- tocols like the YASI has burgeoned over the last few decades ( Andrews , Bonta , & Wormith , 2006 ; Hanson & Morton-Bourgon , 2009 ) .
+Beyond a strict determination of risk to reoffend , informa- tion yielded from the assessment process can be integral to deci- sions regarding security classification in custodial settings , requi- site levels of supervision , the prioritization of treatment targets , and institutional release .
+Strict actuarial risk assessment tools feature a predefined set of items empirically linked to recidivism and notably , incorporate algorithms for combining items into a final estimate of risk ( e.g. , the Violence Risk Appraisal Guide [ VRAG ] ; Quinsey , Harris , Rice , & Cormier , 2006 ) .
+Structured protocols that do not strictly abide by all criteria inherent in the actuarial method have recently been distinguished and denoted as mechanical tools ( Hanson & Morton-Bourgon , 2009 ) .
+The YASI falls into the latter category , its construction grounded in both empirical and theoretical con- siderations drawn from a comprehensive review of the literature .
+Mechanical tools yield comparable levels of accuracy to actuarial tools , yet are arguably more flexible in that items may be included on the basis of clinical relevance .
+The Principles of Correctional Assessment and Treatment The principles underlying contemporary correctional assess- ment and intervention are captured through the operational deriv- ative of the personal , interpersonal , community—reinforcement theory of criminal conduct ( Andrews & Bonta , 2010 ; Andrews et al. , 1990 ) —these are the risk , need , and responsivity ( RNR ) prin- ciples .
+In brief , the risk principle holds that the most intensive interventions should be reserved for the highest risk offenders .
+The need principle , in turn , posits that effective correctional treatment should prioritize dynamic risk factors that evidence a strong rela- tionship to recidivism ( i.e. , criminogenic needs ) .
+According to a vast body of empirical research on the psychology of criminal conduct , the indicators most predictive of criminality collectively constitute the Central Eight .
+These encompass antisocial cogni- tions or attitudes supportive of crime , antisocial associates or social support for crime , criminal history , antisocial personality This article was published Online First January 11 , 2016 .
+Natalie J. Jones , Orbis Partners , Ottawa , Ontario , Canada ; Shelley L. Brown , Department of Psychology , Carleton University ; David Robinson , Orbis Partners , Ottawa , Ontario , Canada ; Deanna Frey , Alberta Justice and Solicitor General , Edmonton , Alberta , Canada .
+Use of this dataset for research purposes was approved by Alberta Justice and Solicitor General .
+David Robinson is a co-owner of Orbis Partners , a company that provides the Youth Assessment and Screening Instrument as an assessment device to criminal justice clients .
+Correspondence concerning this article should be addressed to Natalie J. Jones , Orbis Partners Inc. , 5550 Manotick Main Street , Box 520 , Ottawa , Ontario , Canada , K4M 1A5 .
+E-mail : njones @ orbispartners.com T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+Law and Human Behavior © 2016 American Psychological Association 2016 , Vol .
+40 , No .
+2 , 182–194 0147-7307/16/ $ 12.00 http : //dx.doi.org/10.1037/lhb0000170 182 factors ( e.g. , impulsivity ) , substance abuse , family dysfunction , deficits in the educational/vocational domain , and inappropriate use of leisure time ( e.g. , Andrews & Bonta , 2010 ; Gendreau , Little , & Goggin , 1996 ) .
+According to proponents of the RNR model , the Central Eight account for the vast majority of individual differences in criminal behavior .
+As such , these factors justifiably occupy a prominent place in the context of risk assessment so as to identify the level of need apparent within each area .
+It is notable that with the exception of the criminal history domain , the Central Eight are dynamic in nature and therefore subject to remediation .
+The third core principle of effective correctional intervention is the responsivity principle , under which demographic characteris- tics such as gender , ethnic background , social class , and other personal characteristics such as level of intelligence are encom- passed .
+Such contextual variables are said to merit consideration in program delivery so as to optimize treatment efficacy ; however , they are not explicitly factored into risk assessment protocols because they are not viewed as major predictors of criminal outcome ( Andrews et al. , 2006 , 2012 ) .
+Rather , such variables are said to exert their influence more proximally through the Central Eight .
+There is a vast body of literature to support the validity of the general RNR principles and derived assessment tools across a variety of demographic groups ( e.g. , Andrews & Bonta , 2010 ; Andrews et al. , 2012 ; Gendreau et al. , 1996 ; Jung & Rawana , 1999 ; Laub & Sampson , 2003 ; Olver , Stockdale , & Wormith , 2009 ; Rettinger & Andrews , 2010 ) .
+Although adherence to RNR may indeed apply generally , most empirical evidence attesting to the universal relevance of individual risks/needs has traditionally rested on samples that were not disaggregated by gender ( Blanch- ette & Brown , 2006 ) .
+Given this methodological shortcoming , the degree to which the Central Eight are germane to demographics beyond the Caucasian male offender remains a contentious issue among certain correctional researchers and practitioners .
+Recent empirical investigations have demonstrated that although gender differences in the predictive value of criminogenic needs emerge at the item or domain level , aggregate scores on risk/needs tools tend to predict reoffending with similar accuracy across gender ( An- drews et al. , 2012 ; Jones , 2011 ; Jones , Brown , Robinson , & Frey , 2015 ; Olver et al. , 2009 ) .
+Despite evidence in support of the gender-neutral position , feminist scholars maintain that “ gender-neutral ” tools fail to cap- ture criminogenic needs that may be particularly salient or specific to justice-involved girls and women , the consideration of which may be necessary for the equitable processing of this growing demographic ( Blanchette & Brown , 2006 ; Jones , 2011 ; Van Voorhis , Wright , Salisbury , & Bauman , 2010 ) .
+While the general psychology of criminal conduct stems from cognitive theory and behaviorism , the psychology of women is closely tied to relational theories ( Covington & Bloom , 2000 ; Miller , 1976 ) .
+According to feminist perspectives , the genesis of female criminality resides largely in relational factors , beginning with a young girl ’ s partic- ular vulnerability to abuse in her family of origin .
+Early relational disruptions lead to attempts to flee the home environment , ensuing mental health issues , thwarted educational pursuits , impoverish- ment , and ultimately , to survival-based crime ( e.g. , Daly , 1994 ) .
+Lending credence to the feminist position , Jones ( 2011 ) found that family factors ( particularly around relationship quality ) were more criminogenic for justice-involved girls than for their male coun- terparts .
+Furthermore , Van Voorhis and colleagues demonstrated that a collection of gender-responsive scales ( e.g. , mental health , parental stress , childhood abuse ) significantly enhanced the pre- dictive validity of gender-neutral scales ( e.g. , antisocial attitudes , criminal history , education ) .
+Notably , although the YASI is prin- cipally grounded in the gender-neutral literature , the tool does distinguish itself from analogous assessment protocols by featur- ing a number of gender-responsive items extolled in the feminist literature such as poverty and mental health indicators ( Daly , 1994 ) .
+Moreover , separate classification thresholds were delin- eated for girls so as to safeguard against overclassification .
+The Role of Strengths in Risk Assessment As per the core tenets of RNR , correctional practitioners have traditionally been guided by a deficit-based framework that prior- itizes the identification of risk factors and the targeting of crimi- nogenic needs ( Andrews & Bonta , 2010 ) .
+Although an individual ’ s strengths are accorded attention in program delivery so as to optimize treatment responsivity , it is not the norm for such items to be quantitatively factored into risk assessment protocols .
+The YASI is unique among risk assessment tools in that it along with measuring risks and needs , it explicitly incorporates strength-based items and assigns them numerical weights .
+Items are then summed to produce both domain and total strength scores .
+In a general sense , a strength-based factor ( sometimes termed promotive factor ) may be defined as a negative correlate of an undesirable outcome , namely recidivism ( Farrington , 2003 ) .
+In situations where strengths moderate the impact of risk on recidi- vism and exert a significantly greater buffering effect in a high-risk group versus a low-risk group , the resultant effect is technically termed protective ( Jones , 2011 ; Jones et al. , 2015 ; Sampson & Laub , 2005 ) .
+Strengths and potentially protective factors identified among adult offender populations include marital commitment ( Horney , Osgood , & Marshall , 1995 ) and attachment to employ- ment goals ( Blokland & Nieuwbeerta , 2005 ) , both of which are associated with decreases in criminal activity among otherwise high-risk groups .
+Developmental pathways research underscores the importance of certain predispositional variables ( e.g. , positive temperament ) and other genetically based factors in their capacity to buffer criminal outcomes ( Moffitt , 2005 ) .
+In terms of dynamic factors that are subject to change , a number of strengths have been identified in the delinquency literature .
+A youth ’ s school environ- ment offers several protective features ( e.g. , Hart , O ’ Toole , Price- Sharps , & Shaffer , 2007 ; Henry , Caspi , Moffitt , Harrington , & Silva , 1999 ; Sprott , Jenkins , & Doob , 2005 ) .
+For example , Sprott and colleagues determined that for children exposed to a number of risk factors at age 10 , a strong bond to school , as measured by subjective reports of one ’ s enjoyment of and commitment to school , was found to attenuate the likelihood of engaging in both violent and nonviolent delinquency 2 years later .
+Further longitu- dinal research has shown that school attendance , years of educa- tional attainment , academic achievement ( as gauged through grade point average ) , and the presence of a caring adult mentor within the school or greater community effectively buffer criminal out- comes for at-risk youth ( Hart et al. , 2007 ; Henry et al. , 1999 ) .
+Finally , Hoge , Andrews , and Leschied ( 1996 ) demonstrated that in the presence of family-related risk , positive peer relationships , T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+183YOUTH ASSESSMENT AND SCREENING INSTRUMENT high educational achievement , positive response to authority , and effective use of leisure time served to attenuate reoffending among youths .
+While these represent external circumstances , recent re- search has also identified certain cognitive processes that underlie a cessation or attenuation of criminal activity—these include self- efficacy regarding one ’ s ability to desist from crime , beliefs sup- portive of desistance and unsupportive of crime , and the ability to identify factors conducive to a prosocial lifestyle ( Serin & Lloyd , 2009 ) .
+As underscored in the literature on criminal desistance , a strength or protective factor is not the polar opposite of a risk factor , nor does it constitute the absence of risk ; rather , strengths offer unique information that can not be inferred from the measure- ment of risk and needs .
+Namely , standard criminogenic needs tend to wane in their predictive ability over an offender ’ s life course , and extinction of those risk factors does not fully account for eventual desistance ( e.g. , Laub , Nagin , & Sampson , 1998 ; Serin & Lloyd , 2009 ; Stouthamer-Loeber , Wei , Loeber , & Masten , 2004 ) .
+Moreover , strengths and risk factors can exist concurrently , ac- counting for variability in outcomes observed among an otherwise high-risk group ( Sampson & Laub , 2005 ) .
+For example , a criminal justice client can have both antisocial and prosocial peers , each potentially exerting an influence on that client ’ s overall risk level .
+As such , concurrently adopting a strength-based approach to as- sessment may actually complement traditional risk assessment protocols by adding incremental validity to the prediction of crim- inal outcome .
+The body of research on strengths within the context of juvenile assessment is sparse and somewhat mixed .
+Penney , Lee , and Moretti ( 2010 ) found that whereas the Structured Assessment of Violence Risk in Youth ( SAVRY ; Borum , Bartel , & Forth , 2006 ) protective scores were related to nonviolent recidivism for males and females ( OR .71 , p .05 ) , they did not significantly decrease the odds of violent offending .
+Research by Schmidt , Campbell , and Houlding ( 2011 ) also found that the SAVRY failed to predict recidivism among young female offenders over a 10- year follow-up ; however , the sample size of women included in this study was relatively low ( N 48 ) .
+Moreover , compared to the 46 strengths featured on the YASI , the protective scale on the SAVRY offers a very limited sampling of only 6 dichotomously rated items .
+In contrast , other recent investigations have yielded compelling evidence that strengths can indeed contribute incrementally over and above risks/needs in the prediction of recidivism .
+Beyond demonstrating that risk and strength subscores are each individu- ally predictive of recidivism , some research does suggest that strengths can offer unique information in risk assessment contexts .
+Based on a sample of 66 adolescent males , Lodewijks , Doreleijers , de Ruiter , and Borum ( 2008 ) found that total strength ( or “ protec- tive ” ) scores on the SAVRY improved the accuracy of the tool over and above the consideration of total risk scores with respect to predicting institutional aggression against persons .
+More re- cently , Jones and colleagues ( 2015 ) demonstrated that among a large sample of adult probationers ( N 3,656 ) , the total strength score on the Service Planning Instrument ( SPIn ; Orbis Partners , 2003 ) enhanced the accuracy of the assessment tool beyond the overall risk score in predicting new arrests over an 18-month follow-up period .
+Based on YASI ratings , Jones ( 2011 ) reported similar results with a large sample of juvenile offenders from New York State .
+General Description of the YASI Used in both community supervision and custody settings with justice-involved youth , the YASI has been implemented in several jurisdictions across North America and the United Kingdom .
+The YASI is based on the Case Management Assessment Protocol ( CMAP ; Barnoski , 2003 ) , an assessment model developed for juveniles in Washington State by the Washington State Institute of Public Policy in collaboration with the Washington State Associ- ation of Juvenile Court Administrators .
+The model grew out of extensive consultation with end users and attempted to address some of the outstanding juvenile assessment issues of the time .
+Following the original model of CMAP , the YASI has been adapted for a number of jurisdictions with modifications to content and scoring , while maintaining some of the essential features of the model ( e.g. , inclusion of strengths , Pre-Screen version for classi- fication ) .
+The YASI is available in both Pre-Screen and Full Assessment form , each of which is described in the Method section .
+In each case , the protocol is scored on the basis of a semistructured interview , with input frequently offered by parents or an alterna- tive legal guardian .
+Interview-based data are supplemented with a systematic review of collateral sources including police files , pro- bation records , school records , and mental health reports ( Orbis Partners , 2007a ) .
+Interrater reliability .
+On the basis of the research efforts of three independent teams , some evidence supporting the YASI ’ s interrater reliability has emerged .
+Although results are somewhat mixed , they are also seemingly contingent on rater characteris- tics—namely , researchers versus correctional staff , and impor- tantly , the competency and diligence of said correctional staff .
+Brown , Geck , Harris , and Skilling ( 2012 ) reported encouraging results based on YASI interviews that were administered and scored by researchers , with intraclass coefficients ( ICCs ) ranging from .78 to .88 for risk domain totals and from .84 to .90 for strength domain totals .
+In contrast , Skeem , Hernandez , Kennealy , and Rich ( 2012 ) reported single ICCs ranging from .51 to .72 for YASI total scores based on field staff ratings obtained across four different sites in California .
+A 60 % subset of these raters did achieve acceptable levels of agreement with expert raters ( i.e. , ICC .65 ) .
+Skeem and colleagues did not identify specific char- acteristics discriminating “ good ” from “ poor ” raters , although their report did suggest that case managers performing most poorly were predominantly based at one facility .
+The National Council on Crime and Delinquency compared the validity and reliability of nine juvenile assessment tools used in the United States ( NCCD ; Baird et al. , 2013 ) .
+The study included a sample of 1,919 juveniles on probation in Virginia who were assessed with the YASI .
+For the nine tools under investigation , the interrater reliability rates for the Virginia YASI sample were among the highest reported .
+The average percentage agreement for scoring among juvenile probation staff was nearly 85 % ( the min- imum threshold for acceptability was set to 75 % ) , and the rate of agreement between staff and expert raters approached 80 % .
+Predictive validity .
+Previous research on the YASI shows acceptable levels of predictive validity .
+On the basis of 2,369 T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+184 JONES , BROWN , ROBINSON , AND FREY juvenile delinquents receiving probation services in New York State , the YASI Pre-Screen predicted a number of juvenile justice outcomes .
+The AUC for any negative outcome ( rearrest , new adjudication , probation violation , admission to custody ) over a 2-year follow-up period was .65 ( p .001 ; Orbis Partners , 2007b ) .
+Theoretically , AUCs can range from 0 to 1.00 , with .50 signaling chance level accuracy .
+Rice and Harris ( 2005 ) provided a corre- sponding effect size rubric to be applied within the field of cor- rectional psychology .
+According to their criteria , AUCs between .56 and .63 correspond to small effect sizes , AUCs between .64 and .70 to medium effect sizes , and AUCs of .71 and above to large effect sizes .
+Additionally , as gauged from 4,998 youths processed by juve- nile probation services in the State of Illinois , predictive validity measures obtained over a 1-year follow-up period yielded AUCs of .65 ( p .001 ) for new police contacts and .64 ( p .001 ) for new police contacts for violent offenses ( Orbis Partners , 2007b ) .
+Finally , based on the aforementioned NCCD study ( Baird et al. , 2013 ) , the Virginia YASI was among the top three assessment tools on measures of predictive validity , with all three of the top-rated tools showing virtually identical levels of accuracy ( AUC .68 , p .001 ) .
+Current Study The purpose of this prospective study was to examine the validity of the YASI along with its other basic psychometric properties .
+The analyses addressed both risk and strength factors and their potential interaction in predicting recidivism .
+In contrast to the standard commercially available risk/needs tools adopted by many criminal justice agencies , the YASI offers unique advantages in its inclusion of broad gender-responsive content and its quan- titative inclusion of strengths .
+On the basis of assessment data from Alberta , Canada , estimates of internal consistency , predictive util- ity , and predictive validity were reported .
+We hypothesized that overall levels of predictive validity would be moderate to high .
+As per previous research on “ gender-neutral ” risk/needs instruments ( e.g. , Andrews et al. , 2012 ; Jones , 2011 ; Olver et al. , 2009 ) , we also hypothesized that the YASI would predict recidivism equally well across gender and ethnic subgroups .
+Moreover , consistent with the results of Jones et al .
+( 2015 ) on SPIn—the adult version of the YASI—we hypothesized that the strength-based content of the tool would enhance predictive accuracy beyond the consider- ation of risk/need scores .
+Finally , an exploratory domain-level analysis was conducted to identify those factors most highly pre- dictive of criminal conduct .
+Method YASI Items and Scoring The YASI Pre-Screen , containing a subset of items featured in the full assessment , is initially administered to all youth at intake by their respective juvenile justice agencies .
+This abridged mea- sure contains 34 items tapping both static and dynamic risk and strength factors across nine domains .
+Many items are scored on Likert-type scales , comprising up to six response options to max- imize the sensitivity of the measure .
+For illustrative purposes , we have listed Pre-Screen risk/need and strength items in Appendix A and have provided an item example with Likert-type scale in Appendix B. Pre-Screen risk items are summed into a total score to classify youth as low , moderate , or high risk , with higher scores reflecting greater risk .
+Cutoff scores for each risk category differ by gender and were determined from a preliminary recidivism study con- ducted internally at Orbis Partners based on juvenile probationers in Illinois .
+Classification thresholds were defined with the objec- tive of maximizing the separation of recidivism rates across low , moderate , and high categories .
+With respect to probability esti- mates , the YASI manual states that the recidivism rates range between 10 % and 20 % for low-risk cases , 30 % and 40 % for moderate-risk cases , and 50 % and 60 % for high-risk cases .
+In accordance with the risk principle ( e.g. , Andrews & Bonta , 2010 ) , this abridged protocol primarily serves a triage function to identify moderate and higher risk youths that require further assessment and more substantive intervention .
+In practice , the YASI Pre- Screen is used to classify youth according to their likelihood of general recidivism and as such , the current study assessed predic- tive validity based on the Pre-Screen .
+For case planning purposes , most jurisdictions conduct a more detailed assessment via the YASI Full Assessment .
+The latter is more comprehensive , gauging additional strength-based factors and dynamic risk factors ( or needs ) .
+The Full Assessment com- prises 90 items ( risk , need , and strength factors ) across 10 separate domains .
+The quantitative score yielded from the YASI Pre-Screen is used to assess an offender ’ s overall risk of recidivism , classify- ing youth as low , moderate , or high risk .
+However , the computer- ized algorithms associated with the full assessment generate sep- arate scores for both the risk/needs and strength components of each domain .
+For example , a youth could conceivably be termed low risk on the basis of the YASI Pre-Screen .
+However , based on full assessment results , the same youth could be rated high risk in the area of family functioning and classified as moderate on the strength component of this domain .
+It is also possible for a client to score high risk and high strength within a single domain ( e.g. , a youth may have a combination of both prosocial and antisocial peer influences ) .
+Scores generated for particular risk and strength domains on the full assessment are simply used to identify and prioritize treatment goals in the context of case management .
+Note that because 45 of the 90 full assessment items are scored on Likert-type scales , the YASI is also unique among available as- sessment options in its ability to quantify incremental change upon reassessment .
+Sample In 2009 , Alberta Justice and Solicitor General launched a province-wide implementation of the YASI for youth under com- munity supervision and in custody .
+Risk assessment intake infor- mation reflected in the current dataset was collected between January 2009 and May 2011 and included all youth under com- munity supervision with Alberta Justice and Solicitor General for whom recidivism data were available over an 18-month follow-up period .
+These initial YASI assessments were completed by proba- tion officers within 45 days of the youth receiving a community sentence .
+Note that probation officers are provided an intensive 2-day course in the administration of YASI during their induction training .
+Assessment information was obtained from a variety of T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+185YOUTH ASSESSMENT AND SCREENING INSTRUMENT sources , including but not limited to an interview with the offender/ youth , previous correctional file-based information , and personal and professional collateral sources such as family members , teach- ers , child welfare workers , and counselors .
+Given that YASI re- cords were completed in the field by probation officers , no mea- sures of interrater reliability are available for the current data .
+The sample comprised 464 youths on probation ( 114 female , 350 male ) , ages ranging from 12.5 to 19.7 years at intake with probation services ( M 16.63 , SD 1.52 ) .
+Of the total sample , 61.2 % were Caucasian , 25.9 % were of Aboriginal descent , and 12.9 % identified as “ Other. ” Historically , 58.6 % of these youths had engaged in acts of violence .
+Note that the research presented in this study was reviewed and approved by the Carleton Univer- sity Psychological Research Ethics Board .
+Measures of recidivism over an 18-month fixed follow-up pe- riod were provided by Alberta Justice and Solicitor General .
+Re- offense records were obtained from adult and youth provincial correctional data and included any new charges whereby the individual made recontact with correctional services .
+The overall recidivism rate for new offenses committed over an 18-month fixed follow-up period was 20.9 % .
+Recidivism rates disaggregated by gender and ethnicity are presented in Table 1 .
+As expected , male recidivism rates are consistently higher than those registered for females , with gender differences trending toward statistical significance .
+Similarly , recidivism rates associated with Aborigi- nal offenders significantly exceed those of non-Aboriginal offend- ers in all reoffense categories with the exception of new violent offenses .
+Results Internal Consistency Internal consistency levels associated with risk and strength subcomponents of each domain featured on the YASI Full Assess- ment were determined for the Alberta sample and are presented in Table 2 .
+High alpha levels were obtained for the majority of domains , ranging from .74 to .89 .
+Exceptions are Mental Health ( .65 ) , the strength component of Aggression ( .68 ) , and the risk component of Employment and Free Time ( .39 ) .
+While Mental Health and Aggression approach a reliable threshold ( i.e. , .70 ) , the low alpha level associated with Employment and Free Time is to be expected given that this domain purposely encompasses two distinct content areas .
+Grouped together to achieve greater parsimony , this domain is simply intended to represent the manner in which a youth spends his or her time when not in school or with family—it is not intended to reflect a psychological construct .
+The fact that the strength component of the domain had higher internal consistency ( .80 ) is potentially reflective of the domain being largely comprising strength-based items ( 9 strength items vs. 4 risk items ) .
+Descriptive Analyses On the basis of the YASI Pre-Screen , the average total risk score for males ( M 29.31 , SD 18.42 , range 0–87 ) is higher than that of females ( M 25.87 , SD 16.94 , range 0–73 ) , with the difference trending toward statistical significance ( t 1.74 , p .10 , d 0.19 , 95 % CI of d [ 0.02 , 0.40 ] ) .
+No significant differ- ences were found across gender in the average total strength score ( M 8.41 , SD 6.81 , range 0–25 for males vs. M 9.44 , SD 6.86 , range 0–25 for females , t 1.40 , ns , d 0.15 , 95 % CI of d [ 0.06 , 0.36 ] ) .
+Compared with their non-Aboriginal coun- terparts , Aboriginal offenders attained a significantly higher mean risk score ( M 34.94 , SD 18.77 , range 4–87 vs. M 26.20 , SD 17.77 , range 0–84 ; t 4.57 , p .001 , d 0.48 , 95 % CI of d [ 0.27 , 0.69 ] ) , and a significantly lower mean strength score ( M 6.52 , SD 5.53 , range 0–22 vs. M 9.41 , SD 7.09 , range 0–25 ; t 4.57 , p .001 , d 0.45 , 95 % CI of d [ 0.27 , 0.69 ] ) .
+Predictive Validity A measure of new arrests over an 18-month follow-up period was selected as the recidivism criterion of interest over alternative Table 1 Recidivism Rates Across Gender and Aboriginal Status Recidivism category Overall sample ( N 464 ) % Male ( n 350 ) % Female ( n 114 ) % 2 c ( 95 % CI ) Aboriginal ( n 120 ) % Non-Aboriginal ( n 344 ) % 2 c ( 95 % CI ) New offenses 20.9 22.9 14.7 3.28† .08 ( .00 , .18 ) 29.2 18.0 6.68 .12 ( .05 , .22 ) New violent offenses 9.7 11.1 5.3 3.39† .09 ( .00 , .18 ) 12.5 8.7 1.45 .06 ( .00 , .15 ) New convictions 17.2 19.1 11.4 3.61† .09 ( .00 , .19 ) 28.3 13.4 13.96 .17 ( .09 , .27 ) New convictions for violent offenses 6.3 7.4 2.6 3.38† .09 ( .00 , .18 ) 10.0 4.9 3.89 .09 ( .00 , .19 ) † p .10. p .05. p .01. p .001 .
+Table 2 Internal Consistency of Risk and Strength Components of YASI Full Assessment Domains Domain Risk ( n items ) Strength ( n items ) Legal history .75 ( 12 ) Family history .82 ( 10 ) .88 ( 9 ) School .80 ( 10 ) .74 ( 7 ) Community and peers .86 ( 6 ) .77 ( 7 ) Alcohol and drugs .75 ( 4 ) Mental health .65 ( 6 ) Aggression .86 ( 5 ) .68 ( 2 ) Attitudes .89 ( 8 ) .85 ( 8 ) Skills .92 ( 7 ) .85 ( 7 ) Employment and free time .39 ( 4 ) .80 ( 9 ) Total .95 ( 72 ) .93 ( 49 ) Note .
+YASI Youth Assessment and Screening Instrument .
+T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+186 JONES , BROWN , ROBINSON , AND FREY options ( e.g. , convictions ) in order to maximize the recidivism base rate .
+For the overall sample and across demographic sub- groups , significant increases in recidivism rates are evident across risk assessment classifications as per Table 3 ( e.g. , 5.5 % , 18.6 % , 49.1 % for low , moderate , and high categories , respectively ; 2 [ 2 ] 75.03 , p .001 , c 0.40 , 95 % CI of c [ 0.31 , 0.50 ] ) .
+Generally , no significant differences emerged between recidivism rates of comparison groups—that is , male versus female and Aboriginal versus non-Aboriginal offenders .
+Although gender dif- ferences in recidivism rates within the high-risk category would suggest a tendency toward the overclassification of girls ( 52.1 % for males vs. 25.0 % for females ; 2 [ 2 ] 3.13 , p .10 , c 0.17 , 95 % CI of c [ 0.00 , 0.38 ] ) , only three females in this category reoffended , thus precluding a reliable interpretation of results .
+The bottom portion of Table 3 reveals a significant decrease in recid- ivism rates across strength classifications for all demographic subsamples , save for the subsample of girls .
+Within a given strength category , no significant differences were evident in the recidivism rates of demographic comparison groups , with the exception of low-risk Aboriginal versus non-Aboriginal offenders ; specifically , recidivism rates tend to be significantly higher for Aboriginal ( 46.0 % ) versus non-Aboriginal ( 30.5 % ) youths ( 2 [ 2 ] 3.57 , p .10 , 0.15 , 95 % CI of c [ 0.00 , 0.32 ] ) .
+Overall , the YASI Pre-Screen predicted new offenses and new violent offenses over an 18-month follow-up period with a high level of accuracy ( AUC .79 , p .001 , 95 % CI [ .74 , .84 ] ) .
+As shown in Table 4 , high levels of predictive validity were achieved across demographic subsamples , with the exception of the mod- erate level of validity achieved for the subsample of girls vis-à-vis new offenses ( AUC .68 , p .05 , 95 % CI [ .56 , .80 ] ) .
+Compar- isons between independent ROC curves were performed to assess between-groups differences on each domain , whereas Hanley and McNeil ’ s ( 1983 ) test of correlated ROC curves was applied to compare AUCs generated from the same subsample ( i.e. , within- group comparisons ) .
+With respect to predicting new offenses , the YASI achieved superior predictive validity when applied to males versus females ( AUCs .82 vs. .68 , z 2.09 , p .05 ) .
+However , with regards to violent reoffending , the AUC associated with girls was on par with the remaining demographic subgroups ( AUC .79 , p .001 ) .
+Presented in Table 5 , direct entry logistic regression was applied to gauge the individual and incremental predictive validity of risk and strength aggregate scores on the YASI Pre-Screen .
+Univariate analyses suggest that both risk and strength scores individually contribute to predicting new offenses committed over 18-months .
+The multivariate model assessing the unique contribution of risk and strength components indicates that while the risk scale ac- counts for the majority of the model ’ s predictive ability , the incremental contribution of the strength scale is trending toward statistical significance ( Wald 2 2.72 , OR 0.95 , p .10 , 95 % CI [ 0.90 , 1.01 ] ) .
+Figure 1 presents recidivism rates by risk and strength catego- ries based on a dichotomization of the two measures via median split , demonstrating a quantifiable protective effect of strengths on overall outcome .
+Note that the existing three-level cutoff scores result in a cell size for high risk/high strength that is not sufficient to adequately test group differences .
+As illustrated , among high- Table 3 Comparing Rates of New Offenses Over 18-Months by Gender and Aboriginal Status According to YASI Pre-Screen Risk and Strength Scores Overall sample ( N 464 ) % ( n ) Male ( n 350 ) % ( n ) Female ( n 114 ) % ( n ) 2 c ( 95 % CI ) a Aboriginal ( n 120 ) % ( n ) Non-Aboriginal ( n 344 ) % ( n ) 2 c ( 95 % CI ) b Risk Low 5.5 ( 9 ) 3.1 ( 3 ) 9.0 ( 6 ) 2.63 .13 ( .00 , .29 ) 7.4 ( 2 ) 5.1 ( 7 ) .23 .04 ( .00 , .20 ) Moderate 18.6 ( 36 ) 17.6 ( 28 ) 22.9 ( 8 ) .52 .05 ( .00 , .21 ) 23.5 ( 12 ) 16.8 ( 24 ) 1.13 .08 ( .00 , .23 ) High 49.1 ( 52 ) 52.1 ( 49 ) 25.0 ( 3 ) 3.13† .17 ( .00 , .38 ) 50.0 ( 21 ) 48.4 ( 31 ) .03 .02 ( .00 , .15 ) 2 75.03 69.65 4.58† 15.80 55.68 c ( 95 % CI ) c .40 ( .31 , .50 ) .45 ( .35 , .55 ) .20 ( .13 , .39 ) .36 ( .21 , .55 ) .40 ( .30 , .51 ) Strength Low 35.5 ( 55 ) 36.5 ( 50 ) 27.8 ( 5 ) .53 .06 ( .00 , .23 ) 46.0 ( 23 ) 30.5 ( 32 ) 3.57† .15 ( .00 , .32 ) Moderate 17.3 ( 32 ) 18.6 ( 26 ) 13.3 ( 6 ) .65 .06 ( .00 , .22 ) 18.9 ( 10 ) 16.7 ( 22 ) .13 .03 ( .00 , .18 ) High 8.1 ( 10 ) 5.5 ( 4 ) 11.8 ( 6 ) 1.60 .11 ( .00 , .30 ) 11.8 ( 2 ) 7.5 ( 8 ) .36 .05 ( .00 , .25 ) 2 33.75 28.14 2.84 12.07 19.24 c ( 95 % CI ) d .27 ( .19 , .36 ) .29 ( .19 , .39 ) .16 ( .13 , .34 ) .32 ( .17 , .50 ) .24 ( .14 , .35 ) Note .
+YASI Youth Assessment and Screening Instrument .
+a Comparison of male and female re-offense rates within each risk and strength category .
+b Comparison of Aboriginal and non-Aboriginal re-offense rates within each risk and strength category .
+c Comparison of re-offense rates across risk categories within each subsample .
+d Comparison of re-offense rates across strength categories within each subsample .
+† p .10. p .05. p .01. p .001 .
+Table 4 Predictive Accuracy of YASI Pre-Screen for Overall Sample and Demographic Subgroups Sample New offenses AUC ( 95 % CI ) New violent offenses AUC ( 95 % CI ) Overall sample ( N 464 ) .79 ( .74 , .84 ) .79 ( .73 , .85 ) Male ( n 350 ) .82 ( .77 , .88 ) .79 ( .72 , .86 ) Female ( n 114 ) .68 ( .56 , .80 ) .79 ( .68 , .90 ) Aboriginal ( n 120 ) .80 ( .72 , .89 ) .79 ( .66 , .92 ) Non-Aboriginal ( n 344 ) .77 ( .71 , .84 ) .80 ( .73 , .86 ) Note .
+YASI Youth Assessment and Screening Instrument ; AUC Area Under the Curve .
+p .05. p .01. p .001 .
+T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+187YOUTH ASSESSMENT AND SCREENING INSTRUMENT risk cases , high-strength scores are particularly effective in atten- uating recidivism rates .
+Specifically , the reoffense rate of high- risk/low-strength cases is approximately twice that of high-risk/ high-strength cases ( i.e. , 42.5 % vs. 19.7 % ) .
+Finally , Table 6 conveys domain-level predictive validity mea- sures for the YASI Full Assessments with respect to a subsample of cases ( n 328 ) for which full assessment were completed .
+Recall that Full Assessments are frequently completed only on youth that score moderate or high risk on the YASI Pre-Screen .
+At the univariate level , all domains independently predicted outcome , with the exception of Mental Health ( AUCRisk .54 , 95 % CI [ .47 , .60 ] ) .
+In turn , the most highly predictive risk and strength dom- ains were Legal History ( AUCRisk .73 , 95 % CI [ .68 , .79 ] ) , Com- munity and Peers ( AUCRisk .72 , 95 % CIRisk [ .66 , .78 ] ; AUCStrength .67 , 95 % CIStrength [ .61 , .74 ] ) , and Attitudes ( AUCRisk .69 , 95 % CIRisk [ .63 , .76 ] ; AUCStrength .69 , 95 % CIStrength [ .62 , .75 ] ) .
+Discussion The YASI Pre-Screen predicted reoffending with a high level of accuracy with a sample of juvenile offenders on community su- pervision across Alberta , Canada ( AUC .79 ) .
+Recidivism rates and risk scores were significantly higher for Aboriginal versus non-Aboriginal offenders as predicted by extant literature ( e.g. , Rugge , 2006 ) .
+Contrary to our hypotheses , the YASI Pre-Screen achieved only a moderate degree of accuracy in predicting general reoffending for girls , in contrast to the high levels of accuracy achieved for males ( AUC .68 vs. .82 ) .
+However , the assessment protocol forecasted violent reoffending with an equivalent level of accuracy across all demographic subgroups under investigation .
+The relatively lower level of predictive validity achieved with the female subsample for general reoffending ( AUC .68 ) still lies in the moderate range and is commensurate with ( if not higher than ) some values achieved in the correctional literature with other commonly adopted risk assessment tools designed for youth— namely , the SAVRY ( Borum et al. , 2006 ) and the Youth Level of Service/Case Management Inventory ( YLS/CMI 2.0 ; Hoge & An- drews , 2011 ; e.g. , Bechtel , Lowenkamp , & Latessa , 2007 ; Onifade Table 5 Results of Univariate and Multivariate ( Direct Entry ) Logistic Regression : Contribution of YASI Pre-Screen Risk and Strength Subtotals to the Prediction of Recidivism Over 18-Months B ( SE ) Wald 2 OR ( 95 % CI ) Univariate Risk total .07 ( .01 ) 60.13 1.07 ( 1.05 , 1.09 ) Strength total .14 ( .03 ) 28.67 .87 ( .82 , .91 ) Multivariate Risk total .06 ( .01 ) 38.15 1.06 ( 1.04 , 1.08 ) Strength total .05 ( .03 ) 2.72† .95 ( .90 , 1.01 ) Note .
+YASI Youth Assessment and Screening Instrument .
+† p .10. p .001 .
+Figure 1 .
+Rate of new offenses ( % ) over 18-months by risk and strength categories ( N 464 ) .
+Different subscripts within each risk category denote statistically significant differences at p .05 ( e.g. , subscripts “ a ” and “ b ” represent significant differences among the high-risk group ) .
+Table 6 Domain-Level Predictive Validity of YASI Full Assessment on Overall Sample Regarding New Arrests ( N 328 ) Risk domain Strength domain Domain AUC ( 95 % CI ) AUC ( 95 % CI ) Legal history .73 ( .68 , .79 ) Family history .65 ( .58 , .72 ) .63 ( .57 , .69 ) School .63 ( .56 , .70 ) .61 ( .54 , .68 ) Community and peers .72 ( .66 , .78 ) .67 ( .61 , .74 ) Alcohol and drugs .67 ( .60 , .74 ) Mental health .54 ( .47 , .60 ) Aggression .65 ( .58 , .72 ) .61 ( .54 , .68 ) Attitudes .69 ( .63 , .76 ) .69 ( .62 , .75 ) Skills .68 ( .62 , .75 ) .68 ( .61 , .74 ) Employment and free time .58 ( .50 , .65 ) .62 ( .56 , .69 ) Note .
+Legal History , Alcohol and Drugs , and Mental Health do not have corresponding strength domains .
+Consequently , these cells remain blank .
+YASI Youth Assessment and Screening Instrument ; AUC Area Under the Curve .
+p .05. p .01. p .001 .
+T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+188 JONES , BROWN , ROBINSON , AND FREY et al. , 2008 ; Penney et al. , 2010 ; Schmidt et al. , 2011 ) .
+The YLS/CMI is arguably the tool most analogous to the YASI given that it was designed to predict general recidivism .
+In an investi- gation conducted by Onifade and colleagues ( 2008 ) , scores from the YLS/CMI yielded an AUC of .62 in predicting convictions over a 6-month period in a collapsed sample of young male and female probationers .
+Bechtel and collaborators similarly reported an AUC of .64 when the YLS/CMI was applied to predict recon- viction over 3.4 years in a community sample of juvenile offend- ers .
+In a recent meta-analysis incorporating 124 samples and 130,833 offenders , Olver , Stockdale , and Wormith ( 2014 ) found that the Level of Service family of tools ( both youth and adult versions ) predicted general recidivism with moderate effect sizes of rw .30 ( fixed-effects model ) and rw .29 ( random-effects model ) .
+According to the effect size rubric provided by Rice and Harris ( 2005 ) , these values correspond to AUCs of approximately .66 to .67 .
+Similarly , the reader may recall that previous imple- mentations of the YASI yielded AUCs in the mid-.60 range .
+It is not surprising to observe variations in reliability and valid- ity across samples , potentially due to differences in implementa- tion practice and measurement of recidivism .
+As a case in point , a survey of 117 juvenile probation officers across several American states outlined perceived obstacles in implementing risk/needs assessment protocols ( Guy , Fusco , Cook , & Vincent , 2010 ) .
+Of those probation officers surveyed , 63 % expressed difficulty in rating items , either due to insufficient information or because they felt that item scoring criteria were not sufficiently clear .
+In addition to improving data gathering practices and potentially introducing clarifications into scoring manuals based on the feedback of front- line workers , the latter observation speaks to the importance of ensuring sufficient training .
+In order to facilitate item interpreta- tion and scoring , instruction is relevant both at pre-implementation stages and in the form of booster training .
+Indeed , beyond the content of a risk assessment protocol , there is evidence to suggest that the integrity of a tool ’ s implementation achieved through appropriate training is essential to producing valid assessments ( Flores , Lowenkamp , Holsinger , & Latessa , 2006 ; Latessa & Lovins , 2010 ) .
+Currently , Orbis Partners provides staff with an initial 2-day training session focusing on the administration and scoring of the YASI protocol , followed a few months later by a second 2-day session concentrating on effective case planning on the basis of assessment results .
+For some jurisdictions , additional booster train- ing is also provided .
+Despite some evidence of adequate interrater reliability , the extent to which probation officers and other front- line staff are actually observing the instructional specifications related to item scoring is largely unknown .
+As such , quality assurance studies conducted specifically with the YASI are highly recommended .
+The aggregate strength score and aggregate risk score on the YASI Pre-Screen respectively predicted outcome , and the incre- mental contribution of the strength score over the risk score tended toward statistical significance ( Wald 2 2.72 , OR 0.95 , p .10 ) .
+Although the incremental validity of strengths was not as pronounced as in other recent research with adult populations ( e.g. , Jones et al. , 2015 ) , results still support the contention that strength- based factors are not simply the mirror image of risk factors .
+Rather , both are capable of exerting a unique influence on criminal outcome and can coexist in relative combinations within an indi- vidual .
+Moreover , it was clear from Figure 1 that high-strength scores were particularly effective at attenuating recidivism rates among high-risk cases .
+According to the theoretical framework dominating correc- tions , strength-based factors are currently conceptualized as responsivity factors ( e.g. , Andrews & Bonta , 2010 ) .
+Although strengths are implicitly incorporated into more recent versions of risk assessment protocols ( e.g. , YLS/CMI 2.0 , Hoge & Andrews , 2011 ) , these factors are not quantitatively tabulated into one ’ s overall risk score , nor do they generally bear impact on offender classification .
+Results of the present study , com- bined with those of other recent investigations ( e.g. , Hart et al. , 2007 ; Jones , 2011 ; Jones et al. , 2015 ; Lodewijks et al. , 2008 ) , suggest that the quantitative inclusion of strengths in risk as- sessment is a worthwhile endeavor that is apt to enhance both predictive and case management functions .
+The YASI ’ s quantification of strengths is unique among avail- able assessment tools .
+Specifically , rather than have qualitative indicators of strengths scored on the basis of check-boxes ( e.g. , see the YLS/CMI ) , the YASI assigns a quantitative score to the degree of expression of each strength-based factor using a Likert scale .
+Item scores are then tabulated to produce a total strength score .
+One could potentially have two high-risk clients that differ widely in their expression of strengths .
+Given the buffering effect of strengths , a high-risk/high-strength case would effectively be lower risk overall and should arguably be processed differently than a high-risk/low-strength case .
+From a practical standpoint , if assessments provide both risk and strength metrics , case managers and frontline staff have more information for varying their casework strategies to address the unique issues presented by high-risk cases .
+Rather than treat all high-risk cases equally , the buffering effect indicates that some high-risk clients who lack strengths may need more attention than their high-risk counterparts with documented strengths .
+Apart from information relevant to classification decisions , employing a strength-based assessment approach can also help mobilize youth in the development of case plans .
+By presenting strength-based feedback to youth within the case planning context , case managers are in a better position to motivate youth to engage in a positive discussion about the need and desire to make changes , and to identify and leverage positive supports and resources in a youth ’ s life .
+With the exception of the Mental Health domain , all individ- ual risk and strength components of the YASI Full Assessment domains independently predicted outcome for the overall sam- ple .
+Consistent with the top three predictors of criminal conduct underscored in the mainstream correctional literature , the most highly predictive factors were Legal History , Community and Peers , and Attitudes .
+Historical entrenchment in criminal pur- suits and antisocial attitudes have consistently emerged as ro- bust predictors of future criminal involvement ( Andrews & Bonta , 2010 ; Gendreau et al. , 1996 ; Moffitt , 1993 ) .
+It is also not surprising that peer associations would emerge as an optimal predictor given the vast body of literature supporting the per- vasive influence of peer groups on delinquency among adoles- cents ( Gardner & Steinberg , 2005 ; Moffitt , 1993 ; Monahan , Steinberg , & Cauffman , 2009 ) .
+T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+189YOUTH ASSESSMENT AND SCREENING INSTRUMENT Limitations and Future Research The Mental Health domain of the YASI did not predict criminal outcome , a finding that is also consistent with the mainstream correctional literature that conceptualizes personal distress as a responsivity factor ( Andrews & Bonta , 2010 ) .
+The reader should note that the Mental Health domain is fairly comprehensive and includes psychosis , bipolar , other mood disorders , suicidal ide- ation/attempts , thought/personality disorders , and a global cate- gory termed “ other. ” The impact of mental health indicators on juvenile justice outcomes is complex .
+For example , Hoeve and colleagues found that while the presence of a mental disorder predicted the severity of reoffending in a juvenile justice popula- tion , the relationship only held up when mental health disorders co-occurred with substance abuse disorders ( Hoeve , McReynolds , McMillan , & Wasserman , 2013 ) .
+Accordingly , the weak associa- tion between recidivism and mental health indicators was not surprising .
+That stated , future research is warranted before dis- counting mental health as noncriminogenic .
+There is some evi- dence to suggest that specific psychopathological symptoms in the form of extreme depression , self-harm , and suicidal tendencies are salient predictors of criminality for females ( Benda , 2005 ; Blanch- ette & Motiuk , 1995 ; Gehring & Van Voorhis , 2014 ; Salisbury & Van Voorhis , 2009 ; Van Voorhis et al. , 2010 ) .
+There may also be measurement issues at play in operational- izing mental illness .
+Specifically , attempting to assess the quality and severity of psychological disturbances in offender populations is particularly fraught with methodological difficulties : ( 1 ) Indi- viduals may underreport certain symptoms at intake ( e.g. , attempts to self-harm ) ; ( 2 ) in youth populations in particular , a disorder may actually be present , yet has not fully manifested itself and thus remains undiagnosed ; ( 3 ) anecdotally , there is often difficulty in accurately distinguishing between historical and current diagnoses .
+For example , in terms of the latter point , it is often unclear whether a youth ’ s diagnosed depression is actually being managed appro- priately and to what extent the disorder remains a vulnerability factor for him or her .
+Within research contexts in particular , the individual conducting the risk assessment may be basing such judgments solely on a brief interview with the youth , which may or may not be supplemented by rudimentary file-based informa- tion .
+As such , discrepancies in the literature regarding the predic- tive role of mental health factors in criminal outcome are not at all surprising and might only be clarified by future research .
+Although methodological concerns around the subjectivity of items ratings could potentially be applied to other domains within any risk/needs tool ( e.g. , antisocial attitudes ) , assessing clinical constructs ( particularly in youth ) may be especially problematic for the collective reasons outlined in preceding text .
+To further complicate the issue , mental health diagnoses are typically con- solidated into one aggregate construct within risk assessment pro- tocols , which can resultantly obliterate effects of those psycholog- ical disorders that may be especially pertinent to the criminal behavior of girls and women ( Salisbury & Van Voorhis , 2009 ; Van Voorhis et al. , 2010 ) .
+At present , there is evidence to suggest that current manifestations of adjustment disorder , borderline person- ality disorder , major depression , and suicidal ideation warrant further study as potential predictors of female involvement in crime ( e.g. , Benda , 2005 ; Blanchette & Brown , 2006 ; Van Voorhis et al. , 2010 ) .
+It is also plausible that mental health diagnoses may moderate the relationship between other , more prominent crimi- nogenic needs and recidivism outcomes .
+Ultimately , assessing mental health constructs with a greater level of reliability and validity would likely necessitate the development of a refined and standardized addendum to current risk assessment tools , as well as the assurance that qualified mental health professionals are con- sulted in rendering diagnostic judgments .
+Both anecdotally and empirically , additional gender differences have been identified in the literature regarding the salience and specificity of risks and needs .
+Because of the small sample size associated with the full assessment results ( coupled with the un- derrepresentation of females in the sample ) , we were not permitted a reliable examination of such gender differences .
+Unequivocally , substantial differences do exist in the offending patterns of males and females , whereby women tend to have shorter criminal careers and tend to commit crimes of lower severity in contrast to their male counterparts ( Gavazzi , Yarcheck , & Chesney Lind , 2006 ; Kong & AuCoin , 2008 ; Moffitt , Caspi , Rutter , & Silva , 2001 ) .
+Relatedly , the empirical evidence generally supports the lesser bearing of criminal history on a woman ’ s risk to reoffend ( Blanch- ette , 1996 ; Bonta , Pang , & Wallace-Capretta , 1995 ) .
+For example , measures of this domain were considered in a recent investigation by Wright and colleagues ( 2007 ) .
+Although items relevant to prior criminal involvement were moderately predictive of institutional misconduct for women ( Pearson r .11 for 6-month outcomes , p .05 ) , the predictive validity of this static domain was relatively weak in contrast to other factors identified as gender-salient for females ( e.g. , family-based factors ) .
+Although one ’ s differential association with antisocial peers has indeed shown criminogenic effects across gender ( Andrews & Bonta , 2010 ; Benda , 2005 ; Brown & Motiuk , 2005 ; Gendreau et al. , 1996 ; Simourd & Andrews , 1994 ) , the YASI and other gender- neutral tools ( e.g. , YLS/CMI ) do not tap qualitative differences in the nature of peer relationships .
+There is ample qualitative evi- dence to suggest that the nature of one ’ s relationship with a criminal associate may have a differential influence on male versus female offending ( e.g. , Greiner & Brown , 2011 ) .
+Given the rela- tively greater emphasis that women place on relationship preser- vation as per the tenets of relational-cultural theory ( see Miller , 1986 for a review ) , romantic involvement with an antisocial part- ner may be a particularly strong facilitator of criminal behavior in females ( Koons , Burrow , Morash , & Bynum , 1997 ; Richie , 1996 ) .
+Addressing this issue empirically , Benda ( 2005 ) determined that although criminal peers are important predictors of recidivism in men , having a criminal romantic partner is indeed more influential in predicting recidivism in women .
+In an attempt to adopt a gender-informed approach , Orbis Part- ners has recently developed the YASI-Girls ( YASI-G ; Orbis Part- ners , 2007c ) .
+Much of the tool parallels the YASI in its gender- neutral form but further encompasses items deemed foundational to the criminal behavior of young females according to the femi- nist and gender-responsive literatures .
+Specifically , the measure includes additional items pertinent to the nature of one ’ s relation- ships , levels of emotional expression , self-efficacy , sexual vulner- ability ( e.g. , prostitution ) , early parenthood , and features a broader array of potential mental health issues .
+Although the YASI-G has not yet been implemented , it is currently being researched in Ontario , Canada by the second author .
+It is arguable that the additional consideration of female-responsive needs and strengths T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+190 JONES , BROWN , ROBINSON , AND FREY such as those featured on the YASI-G would serve to further enhance levels of predictive accuracy in the risk assessment of young females .
+In the meantime , there may also be an advantage to refining scoring along gender-based criteria with the current gender-neutral version of the YASI .
+Research on the YASI by Jones ( 2011 ) suggests that the relative strength of association with recidivism varies across gender for some YASI items and domains .
+As such , there is potential for adjusting item weights and classi- fication thresholds to provide increased predictive efficiency for girls and boys , given adequate sample size to conduct cross- validation work .
+Conclusion The YASI Pre-Screen achieved high levels of predictive validity in forecasting both general and violent reoffending over an 18- month period , with an average AUC of .79 .
+Despite a decline in the YASI ’ s predictive validity when assessing general reoffending among females ( AUC .68 ) , the corresponding effect size was still in the moderate range .
+Although some gender-responsive refinements might be possible in the future , these results support the use of this assessment approach for boys and girls of both Aboriginal and non-Aboriginal status .
+The current study suggests that the quantitative inclusion of strengths in risk assessment is a worthwhile endeavor , which is apt to enhance both predictive and case management functions .
+The identification of a buffering effect of strengths on risk is an important finding and supports a critical element of the overall YASI assessment model .
+Cultivating a greater understanding of how risk and strength factors interact to predict criminal outcome is highly germane to the development of more effective risk assessment protocols and to the appropriate delivery of correc- tional services .
+References Andrews , D. A. , & Bonta , J .
+( 2010 ) .
+The psychology of criminal conduct ( 5th ed . ) .
+Cincinnati , OH : Anderson Publishing .
+Andrews , D. A. , Bonta , J. , & Wormith , S. J .
+( 2006 ) .
+The recent past and near future of risk and/or need assessment .
+Crime and Delinquency , 52 , 7–27 .
+http : //dx.doi.org/10.1177/0011128705281756 Andrews , D. A. , Guzzo , L. , Raynor , P. , Rowe , R. C. , Rettinger , L. J. , Brews , A. , & Wormith , J. S. ( 2012 ) .
+Are the major risk/need factors predictive of both female and male reoffending ?
+A test with the eight domains of the level of service/case management inventory .
+Interna- tional Journal of Offender Therapy and Comparative Criminology , 56 , 113–133 .
+http : //dx.doi.org/10.1177/0306624X10395716 Andrews , D. A. , Zinger , I. , Hoge , R. D. , Bonta , J. , Gendreau , P. , & Cullen , F. T. ( 1990 ) .
+Does correctional treatment work ?
+A psychologically informed meta-analysis .
+Criminology , 28 , 369–404 .
+http : //dx.doi.org/10 .1111/j.1745-9125.1990.tb01330.x Baird , C. , Healy , T. , Johnson , K. , Bogie , A. , Dankert , E. W. , & Scharen- broch , C. ( 2013 ) .
+A comparison of risk assessment instruments in juve- nile justice .
+National Council on Crime and Delinquency ( Award No .
+: 2010-JR-FX-0021 ; Document No .
+: 244477 ) .
+Retrieved from https : // www.ncjrs.gov/pdffiles1/ojjdp/grants/244477.pdf Barnoski , R. ( 2003 ) .
+Changes in Washington State ’ s jurisdiction of juve- nile offenders : Examining the impact .
+Olympia , WA : Washington State Institute of Public Policy .
+Bechtel , K. , Lowenkamp , C. T. , & Latessa , E. ( 2007 ) .
+Assessing the risk of re-offending for juvenile offenders using the Youth Level of Service/ Case Management Inventory .
+Journal of Offender Rehabilitation , 45 , 85–108 .
+http : //dx.doi.org/10.1300/J076v45n03_04 Benda , B .
+B .
+( 2005 ) .
+Gender differences in life-course theory of recidi- vism : A survival analysis .
+International Journal of Offender Therapy and Comparative Criminology , 49 , 325–342 .
+http : //dx.doi.org/10.1177/ 0306624X04271194 Blanchette , K. ( 1996 ) .
+The relationship between criminal history , mental disorder , and recidivism among federally sentenced women offenders ( Unpublished master ’ s thesis . )
+Ottawa , Ontario , Canada : Carleton Uni- versity .
+Blanchette , K. , & Brown , S. L. ( 2006 ) .
+The assessment and treatment of women offenders : An integrative perspective .
+Chichester , UK : Wiley .
+http : //dx.doi.org/10.1002/9780470713013 Blanchette , K. , & Motiuk , L. L. ( 1995 , June ) .
+Female offender risk assess- ment : The case management strategies approach .
+Poster presented at the 56th Annual Convention of the Canadian Psychological Association , Charlottetown , Prince Edward Island , Canada .
+Blokland , A .
+A. J. , & Nieuwbeerta , P. ( 2005 ) .
+The effects of life circum- stances on longitudinal trajectories of offending .
+Criminology , 43 , 1203– 1240. http : //dx.doi.org/10.1111/j.1745-9125.2005.00037.x Bonta , J. , Pang , B. , & Wallace-Capretta , S. ( 1995 ) .
+Predictors of recidivism among incarcerated female offenders .
+The Prison Journal , 75 , 277–294 .
+http : //dx.doi.org/10.1177/0032855595075003002 Borum , R. , Bartel , P. , & Forth , A .
+( 2006 ) .
+Structured Assessment of Violence Risk in Youth ( SAVRY ) .
+Lutz , FL : Psychological Assessment Resources .
+Brown , S. L. , Geck , C. , Harris , M. , & Skilling , T. ( 2012 ) .
+Reliability and validity of the Youth Assessment Screening Inventory ( YASI ) in a sample of Canadian youth .
+Manuscript in preparation .
+Brown , S. L. , & Motiuk , L. L. ( 2005 ) .
+The Dynamic Factor Identification Analysis ( DFIA ) component of the Offender Intake Assessment ( OIA ) process : A meta-analytic , psychometric and consultative review ( Re- search Report R-164 ) .
+Ottawa , Ontario , Canada : Research Branch , Cor- rectional Service Canada .
+Covington , S. , & Bloom , B. E. ( 2000 , November ) .
+Gendered justice : Programming for women in correctional settings .
+Paper presented at the Annual Meeting of the American Society of Criminology , San Fran- cisco , CA .
+Daly , K. ( 1994 ) .
+Gender , crime , and punishment .
+New Haven , CT : Yale University Press .
+Dolan , M. C. , & Rennie , C. E. ( 2008 ) .
+The Structured Assessment of Violence Risk in Youth as a predictor of recidivism in a United King- dom cohort of adolescent offenders with conduct disorder .
+Psychologi- cal Assessment , 20 , 35–46 .
+http : //dx.doi.org/10.1037/1040-3590.20.1.35 Farrington , D. P. ( 2003 ) .
+Developmental and life-course criminology : Key theoretical and empirical issues—The 2002 Sutherland Award Address .
+Criminology , 41 , 221–255 .
+http : //dx.doi.org/10.1111/j.1745-9125.2003 .tb00987.x Flores , A. W. , Lowenkamp , C. T. , Holsinger , A. M. , & Latessa , E. J .
+( 2006 ) .
+Predicting outcome with the Level of Service Inventory- Revised : The importance of implementation integrity .
+Journal of Crim- inal Justice , 34 , 523–529 .
+http : //dx.doi.org/10.1016/j.jcrimjus.2006.09 .007 Gardner , M. , & Steinberg , L. ( 2005 ) .
+Peer influence on risk taking , risk preference , and risky decision making in adolescence and adulthood : An experimental study .
+Developmental Psychology , 41 , 625–635 .
+http : //dx .doi.org/10.1037/0012-1649.41.4.625 Gavazzi , S. M. , Yarcheck , C. M. , & Chesney-Lind , M. ( 2006 ) .
+Global risk indicators and the role of gender in a juvenile detention sample .
+Criminal Justice and Behavior , 33 , 597– 612. http : //dx.doi.org/10.1177/ 0093854806288184 Gehring , K. S. , & Van Voorhis , P. ( 2014 ) .
+Needs and pretrial failure : Additional risk factors for female and male pretrial defendants .
+Criminal T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+191YOUTH ASSESSMENT AND SCREENING INSTRUMENT Justice and Behavior , 41 , 943–970 .
+http : //dx.doi.org/10.1177/ 0093854814538022 Gendreau , P. C. , Little , T. , & Goggin , C. ( 1996 ) .
+A meta-analysis of the predictors of adult offender recidivism : What works !
+Criminology , 34 , 575–607 .
+http : //dx.doi.org/10.1111/j.1745-9125.1996.tb01220.x Greiner , L. , & Brown , S. L. ( 2011 , June ) .
+Does it matter who your friends are ?
+An examination of peer relationships in youthful female delin- quency .
+Poster presented at the 2nd North American Correctional and Criminal Justice Psychology Conference , Toronto , Ontario , Canada .
+Guy , L. S. , Fusco , S. , Cook , N. E. , & Vincent , G. M. ( 2010 , August ) .
+Juvenile probation officers ’ experiences using risk/needs assessment tools in the field .
+In E. P. Mulvey & C. A. Shubert ( Chairs ) , Empirically based approaches for improving the juvenile justice system .
+Symposium conducted at the meeting of the American Psychological Association , San Diego , CA .
+Hanley , J .
+A. , & McNeil , B. J .
+( 1983 ) .
+A method of comparing the areas under receiver operating characteristic curves derived from the same cases .
+Radiology , 148 , 839–843 .
+http : //dx.doi.org/10.1148/radiology .148.3.6878708 Hanson , R. K. , & Morton-Bourgon , K. E. ( 2009 ) .
+The accuracy of recid- ivism risk assessments for sexual offenders : A meta-analysis of 118 prediction studies .
+Psychological Assessment , 21 , 1–21 .
+http : //dx.doi .org/10.1037/a0014421 Hart , J. L. , O ’ Toole , S. K. , Price-Sharps , J. L. , & Shaffer , T. W. ( 2007 ) .
+The risk and protective factors of violent juvenile offending : An exam- ination of gender differences .
+Youth Violence and Juvenile Justice , 5 , 367–384 .
+http : //dx.doi.org/10.1177/1541204006297367 Henry , B. , Caspi , A. , Moffitt , T. E. , Harrington , H. , & Silva , P. A .
+( 1999 ) .
+Staying in school protects boys from poor self-regulation in childhood from later crime : A longitudinal study .
+International Journal of Behav- ioral Development , 27 , 1049–1073 .
+Hoeve , M. , McReynolds , L. S. , McMillan , C. , & Wasserman , G. A .
+( 2013 ) .
+The influence of mental health disorders on severity of re-offending in juveniles .
+Criminal Justice and Behavior , 40 , 289–301 .
+http : //dx.doi .org/10.1177/0093854812459639 Hoge , R. D. , & Andrews , D. A .
+( 2011 ) .
+The Youth Level of Service/Case Management Inventory 2.0 ( YLS/CMI 2.0 ) : User ’ s manual .
+Toronto , Ontario , Canada : Multi-Health Systems .
+Hoge , R. D. , Andrews , D. A. , & Leschied , L. W. ( 1996 ) .
+An investigation of risk and protective factors in a sample of youthful offenders .
+Journal of Child Psychology and Psychiatry , and Allied Disciplines , 37 , 419– 424. http : //dx.doi.org/10.1111/j.1469-7610.1996.tb01422.x Horney , J. , Osgood , D. W. , & Marshall , I. H. ( 1995 ) .
+Criminal careers in the short-term : Intra-individual variability in crime and its relation to local life circumstances .
+American Sociological Review , 60 , 655–673 .
+http : //dx.doi.org/10.2307/2096316 Jones , N. J .
+( 2011 ) .
+Merging theoretical frameworks to inform risk assess- ment for the young female offender .
+Unpublished doctoral dissertation , Carleton University , Ottawa , Ontario , Canada .
+Jones , N. J. , Brown , S. L. , Robinson , D. , & Frey , D. ( 2015 ) .
+Incorporating strengths into quantitative assessments of criminal risk for adult offend- ers : The Service Planning Instrument .
+Criminal Justice and Behavior , 42 , 321–338 .
+http : //dx.doi.org/10.1177/0093854814547041 Jung , S. , & Rawana , E. P. ( 1999 ) .
+Risk and need assessment of juvenile offenders .
+Criminal Justice and Behavior , 26 , 69–89 .
+http : //dx.doi.org/ 10.1177/0093854899026001004 Kong , R. , & AuCoin , K. ( 2008 ) .
+Female offenders in Canada ( Report No .
+85–002-XIE , Vol .
+28 , no .
+1 ) .
+Ottawa , Ontario , Canada : Statistics Can- ada .
+Koons , B .
+A. , Burrow , J. D. , Morash , M. , & Bynum , T. ( 1997 ) .
+Expert and offender perceptions of program elements linked to successful outcomes for incarcerated women .
+Crime and Delinquency , 43 , 515–532 .
+http : // dx.doi.org/10.1177/0011128797043004007 Latessa , E. J. , & Lovins , B .
+( 2010 ) .
+The role of offender risk assessment : A policy maker guide .
+Victims & Offenders , 5 , 203–219 .
+http : //dx.doi .org/10.1080/15564886.2010.485900 Laub , J. H. , Nagin , D. S. , & Sampson , R. J .
+( 1998 ) .
+Trajectories of change in criminal offending : Good marriages and the desistance process .
+American Sociological Review , 63 , 225–238 .
+http : //dx.doi.org/10.2307/2657324 Laub , J. H. , & Sampson , R. J .
+( 2003 ) .
+Shared beginnings , divergent lives : Delinquent boys to age 70 .
+Cambridge , MA : Harvard University Press .
+Lodewijks , H. P. B. , Doreleijers , T. A. H. , de Ruiter , C. , & Borum , R. ( 2008 ) .
+Predictive validity of the Structured Assessment of Violence Risk in Youth ( SAVRY ) during residential treatment .
+International Journal of Law and Psychiatry , 31 , 263–271 .
+http : //dx.doi.org/10.1016/ j.ijlp.2008.04.009 Miller , J .
+B .
+( 1976 ) .
+Toward a new psychology of women .
+Boston , MA : Beacon .
+Miller , J .
+B .
+( 1986 ) .
+What do we mean by relationships ?
+( Work in progress , No .
+33 . )
+Wellesley , MA : Stone Center , Working Paper Series .
+Moffitt , T. E. ( 1993 ) .
+‘ Life-course persistent ’ and ‘ adolescent limited ’ antisocial behaviour : A developmental taxonomy .
+Psychological Re- view , 100 , 674–701 .
+http : //dx.doi.org/10.1037/0033-295X.100.4.674 Moffitt , T. E. ( 2005 ) .
+The new look of behavioral genetics in developmen- tal psychopathology : Gene-environment interplay in antisocial behav- iors .
+Psychological Bulletin , 131 , 533–554 .
+http : //dx.doi.org/10.1037/ 0033-2909.131.4.533 Moffitt , T. E. , Caspi , A. , Rutter , M. , & Silva , P. A .
+( 2001 ) .
+Sex difference in antisocial behaviour : Conduct disorder , delinquency , and violence in the Dunedin Longitudinal Study .
+Cambridge , MA : Cambridge Univer- sity Press .
+http : //dx.doi.org/10.1017/CBO9780511490057 Monahan , K. C. , Steinberg , L. , & Cauffman , E. ( 2009 ) .
+Affiliation with antisocial peers , susceptibility to peer influence , and antisocial behavior during the transition to adulthood .
+Developmental Psychology , 45 , 1520–1530 .
+http : //dx.doi.org/10.1037/a0017417 Olver , M. E. , Stockdale , K. C. , & Wormith , J. S. ( 2009 ) .
+Risk assessment with young offenders : A meta-analysis of three assessment measures .
+Criminal Justice and Behavior , 36 , 329–353 .
+http : //dx.doi.org/10.1177/ 0093854809331457 Olver , M. E. , Stockdale , K. C. , & Wormith , J. S. ( 2014 ) .
+Thirty years of research on the level of service scales : A meta-analytic examination of predictive accuracy and sources of variability .
+Psychological Assess- ment , 26 , 156–176 .
+http : //dx.doi.org/10.1037/a0035080 Onifade , E. , Davidson , W. , Livsey , S. , Turke , G. , Horton , C. , Malinowski , J. , .
+.
+.
+Wimberly , D. ( 2008 ) .
+Risk assessment : Identifying patterns of risk in young offenders with the Youth Level of Service/Case Management Inventory .
+Journal of Criminal Justice , 36 , 165–173 .
+http : //dx.doi.org/ 10.1016/j.jcrimjus.2008.02.006 Orbis Partners .
+( 2000 ) .
+Youth Assessment Screening Inventory ( YASI ) .
+Ottawa , Ontario , Canada : Author .
+Orbis Partners .
+( 2003 ) .
+Service Planning Instrument ( SPIn ) .
+Ottawa , On- tario , Canada : Author .
+Orbis Partners .
+( 2007a ) .
+Long-term validation of the Youth Assessment and Screening Instrument ( YASI ) in New York State juvenile probation .
+Re- trieved from http : //dpca.state.ny.us/pdfs/nyltyasifullreport20feb08 .pdf Orbis Partners .
+( 2007b ) .
+YASI : Brief report .
+Unpublished manuscript , Ottawa , Ontario , Canada : Author .
+Orbis Partners .
+( 2007c ) .
+Youth Assessment and Screening Instrument : Girls ( YASI-G ) .
+Ottawa , Ontario , Canada : Author .
+Penney , S. R. , Lee , Z. , & Moretti , M. M. ( 2010 ) .
+Gender differences in risk factors for violence : An examination of the predictive validity of the Structured Assessment of Violence Risk in Youth .
+Aggressive Behavior , 36 , 390–404 .
+http : //dx.doi.org/10.1002/ab.20352 Quinsey , V. L. , Harris , G. T. , Rice , M. E. , & Cormier , C. A .
+( 2006 ) .
+Violent offenders : Appraising and managing risk ( 2nd ed . ) .
+Washington , DC : American Psychological Association .
+http : //dx.doi.org/10.1037/11367-000 T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+192 JONES , BROWN , ROBINSON , AND FREY Rettinger , L. J. , & Andrews , D. A .
+( 2010 ) .
+General risk and need , gender specificity , and the recidivism of female offenders .
+Criminal Justice and Behavior , 37 , 29–46 .
+http : //dx.doi.org/10.1177/0093854809349438 Rice , M. E. , & Harris , G. T. ( 2005 ) .
+Comparing effect sizes in follow-up studies : ROC Area , Cohen ’ s d , and r. Law and Human Behavior , 29 , 615–620 .
+http : //dx.doi.org/10.1007/s10979-005-6832-7 Richie , B .
+( 1996 ) .
+Compelled to crime : The gendered entrapment of battered black women .
+New York , NY : Routledge .
+Rugge , T. ( 2006 ) .
+Risk assessment of male Aboriginal offenders : A 2006 perspective ( User Report No .
+2006–01 ) .
+Ottawa , Ontario , Canada : Pub- lic Safety Canada .
+Salisbury , E. J. , & Van Voorhis , P. ( 2009 ) .
+Gendered pathways : A quan- titative investigation of women probationers ’ paths to incarceration .
+Criminal Justice and Behavior , 36 , 541–566 .
+http : //dx.doi.org/10.1177/ 0093854809334076 Sampson , R. J. , & Laub , J. H. ( 2005 ) .
+A life-course view of the development of crime .
+The Annals of the American Academy of Political and Social Science , 602 , 12–45 .
+http : //dx.doi.org/10.1177/0002716205280075 Schmidt , F. , Campbell , M. A. , & Houlding , C. ( 2011 ) .
+Comparative analyses of the YLS/CMI , SAVRY , and PCL : YV in adolescent offend- ers : A 10-year follow-up into adulthood .
+Youth Violence and Juvenile Justice , 9 , 23–42 .
+http : //dx.doi.org/10.1177/1541204010371793 Serin , R. C. , & Lloyd , C. D. ( 2009 ) .
+Examining the process of offender change : The transition to crime desistance .
+Psychology , Crime & Law , 15 , 347–364 .
+http : //dx.doi.org/10.1080/10683160802261078 Simourd , L. , & Andrews , D. A .
+( 1994 ) .
+Correlates of delinquency : A look at gender differences .
+Forum on Corrections Research , 6 , 26–31 .
+Re- trieved January 1 , 2011 , from http : //www.csc-scc.gc.ca/text/pblct/forum/ e061/061g_e.pdf Skeem , J. , Hernandez , I. , Kennealy , P. , & Rich , J .
+( 2012 ) .
+CA-YASI reliability : How adequately do staff in California ’ s Division of Juvenile Justice rate youths ’ risk of recidivism ?
+Irvine , CA : University of Cali- fornia .
+Sprott , J .
+B. , Jenkins , J. M. , & Doob , A. N. ( 2005 ) .
+The importance of school : Protecting at-risk youth from early offending .
+Youth Violence and Juvenile Justice , 3 , 59 –77 .
+http : //dx.doi.org/10.1177/ 1541204004270943 Stouthamer-Loeber , M. , Wei , E. , Loeber , R. , & Mastenb , A. S. ( 2004 ) .
+Desistance from persistent serious delinquency in the transition to adult- hood .
+Development and Psychopathology , 16 , 897–918 .
+http : //dx.doi .org/10.1017/S0954579404040064 Van Voorhis , P. , Wright , E. M. , Salisbury , E. , & Bauman , A .
+( 2010 ) .
+Women ’ s risk factors and their contributions to existing risk/needs assessment : The current status of a gender-responsive .
+Criminal Justice and Behavior , 37 , 261–288 .
+http : //dx.doi.org/10.1177/ 0093854809357442 Wright , E. M. , Salisbury , E. J. , & Van Voorhis , P. ( 2007 ) .
+Predicting the prison misconducts of women offenders : The importance of gender- responsive needs .
+Journal of Contemporary Criminal Justice , 23 , 310– 340. http : //dx.doi.org/10.1177/1043986207309595 Appendix A List of Risks , Needs , and Strengths Featured on the YASI Pre-Screen Risks and Needs 1 .
+Previous police contacts for delinquent/criminal offenses 2 .
+Age at first police contact for delinquent/criminal offenses 3 .
+Number of police contacts 4 .
+Police contacts for felony ( Category I ) offenses 5 .
+Transfers to adult court 6 .
+Number of weapon offenses 7 .
+Police contacts for offenses against another person 8 .
+Police contacts for felony ( Category I ) offenses against another person 9 .
+Number of placements with children or youth services 10 .
+Number of times admitted to remand 11 .
+Number of times admitted to custody ( open or secure ) 12 .
+Escapes 13 .
+Failure-to-appear in court 14 .
+Number of petitions for violations of probation or su- pervision ( violation type ) 15 .
+Times kicked out of home/run away ( Appendices continue ) T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+193YOUTH ASSESSMENT AND SCREENING INSTRUMENT 16 .
+Family court finding of child neglect 17 .
+Lack of compliance with parental rules—youth dis- obeys or is hostile 18 .
+Circumstances of family members living in the house- hold ( e.g. , alcohol/drug problems , mental health prob- lems , criminal record , etc . )
+19 .
+Youth ’ s current school enrollment status 20 .
+Youth ’ s attendance in last 3 months of school ( e.g. , unexcused absences ) 21 .
+Youth ’ s conduct in last 3 months of school ( e.g. , infrac- tions , police reports , etc . )
+22 .
+Youth ’ s academic performance in last 3 months of school ( e.g. , failing some/most classes ) 23 .
+Youth associates with delinquent peers or gang 24 .
+Age at first alcohol/drug use 25 .
+Frequency of alcohol/drug use and disruption of function 26 .
+Mental health condition 27 .
+Homicidal ideation 28 .
+Suicidal ideation 29 .
+Sexual aggression 30 .
+History of physical or sexual abuse 31 .
+Previous victimization 32 .
+Fails to accept responsibility for antisocial behavior ( e.g. , minimizes , denies , etc . )
+33 .
+Poor consequential thinking skills Strengths 1 .
+Youth complies with parental rules 2 .
+Youth attends school regularly 3 .
+Positive/improved conduct in last 3 months of school 4 .
+Youth ’ s grades in last 3 months of school are C or above 5 .
+Youth associates with peers who have a positive , proso- cial influence 6 .
+Youths accepts responsibility for antisocial behavior 7 .
+Youth demonstrates strong consequential thinking skills Appendix B Example of a YASI Pre-Screen Item • • •0 • • Accepts responsibility for antisocial/criminal behavior Openly accepts or is proud of behavior Minimizes , denies , justifies , excuses , or blames others Indicates some awareness of need to accept responsibility Recognizes that he/she must accept responsibility Voluntarily accepts full responsibility Note .
+YASI Youth Assessment and Screening Instrument .
+Received January 22 , 2015 Revision received October 28 , 2015 Accepted October 29 , 2015 T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+194 JONES , BROWN , ROBINSON , AND FREY

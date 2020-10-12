@@ -1,0 +1,415 @@
+Herzenstein_JournMarketRes_2011_51bB.pdf
+aYo8v7Vv_Vypb6tLqHG4ExNK3ihG-Herzenstein_JournMarketRes_2011_51bB.pdf.plain.html
+
+MICHAL HERZENSTEIN , SCOTT SONENSHEIN , and UTPAL M. DHOLAKIA This research examines how identity claims constructed in narratives by borrowers influence lender decisions about unsecured personal loans .
+Specifically , do the number of identity claims and their content influ- ence lending decisions , and can they predict the longer-term perfor- mance of funded loans ?
+Using data from the peer-to-peer lending website Prosper.com , the authors find that unverifiable information affects lending decisions above and beyond the influence of objective , verifiable informa- tion .
+As the number of identity claims in narratives increases , so does loan funding , whereas loan performance suffers , because these borrow- ers are less likely to pay back the loan .
+In addition , identity content plays an important role .
+Identities focused on being trustworthy or successful are associated with increased loan funding but ironically are less predic- tive of loan performance than other identities ( i.e. , moral and economic hardship ) .
+Thus , some identity claims aim to mislead lenders , whereas others provide true representations of borrowers .
+Keywords : identities , narratives , peer-to-peer lending , decision making under uncertainty , consumer financial decision making TellMeaGoodStoryand IMayLendYou Money : TheRoleofNarratives in Peer-to-Peer LendingDecisions The past decade has witnessed a growing number of business models that facilitate economic exchanges between individuals with limited institutional mediation .
+Consumers can buy products on eBay , lend money on peer-to-peer ( P2P ) loan auction sites such as Prosper.com , and provide zero-interest “ social loans ” to entrepreneurs through Kiva.org .
+In all these cases , strangers decide whether to engage in an economic exchange and on what terms , using only information provided by the borrowers .
+*Michal Herzenstein is Assistant Professor of Marketing , Lerner College of Business and Economics , University of Delaware ( e-mail : michalh @ udel.edu ) .
+Scott Sonenshein is Assistant Professor of Man- agement , Jones Graduate School of Business , Rice University ( e-mail : scotts @ rice.edu ) .
+Utpal M. Dholakia is Professor of Management , Jones Graduate School of Business , Rice University ( e-mail : dholakia @ rice.edu ) .
+The authors thank Rick Andrews , Richard Schwarz , and Greg Hancock for their statistical assistance .
+They further thank the editor John Lynch , the associate editor , and the two JMR reviewers for their insight- ful comments .
+Financial support from the Lerner College of Business and Economics at the University of Delaware and the Jones Graduate School of Business at Rice University is greatly appreciated .
+David Mick served as associate editor for this article .
+Objective quantitative data about exchange partners often are difficult to obtain , insufficient , or unreliable .
+As a result , decision makers may turn to subjective , unverifiable , but potentially diagnostic qualitative data ( Michels 2011 ) .
+One form of qualitative data useful to decision makers in such economic exchanges are the narratives constructed by potential exchange partners .
+A narrative is a sequentially structured discourse that gives meaning to events that unfold around the narrator ( Riessman 1993 ) .
+For example , a narra- tive might explain a person ’ s past experiences , current sit- uation , or future hopes ( e.g. , Thompson 1996 ; Wong and King 2008 ) .
+By providing an autobiographical sketch that explains the vicissitudes of their life , the narrative authors provide a window into how they conceptualize themselves ( Gergen and Gergen 1997 ) and a portrait of how they con- struct their identity .
+However , as a result of either ambiguity or the strategic use of the medium to influence others ( e.g. , Schau and Gilly 2003 ) , narratives offer only one of several possible interpretations of self-relevant events ( Sonenshein 2010 ) .
+As a result , narrators can relay interpretations of their circumstances that convey the most favorable identities ( Goffman 1959 ) .
+© 2011 , American Marketing Association ISSN : 0022-2437 ( print ) , 1547-7193 ( electronic ) S138 Journal of Marketing Research Vol .
+XLVIII ( Special Issue 2011 ) , S138–S149 Role of Narratives in Peer-to-Peer Lending Decisions S139 RESEARCH MOTIVATIONS AND CONTRIBUTIONS The idea that narratives may involve the construction of a favorable identity poses two key questions for research .
+First , whereas narratives can provide diagnostic informa- tion to a decision maker who is considering an economic exchange , the veracity of the narrator ’ s story is difficult to determine .
+Because a narrative offers the possibility of describing either an authentic , full , true self or a partial , inauthentic , misleading self , potential exchange partners are left to intuit the truth of the presentation .
+Accordingly a key question to consider is , given their potential for diagnostic and misleading information , to what extent do narratives influence economic exchange transactions ?
+Previous con- sumer research has largely focused on narratives of con- sumption experiences ( Thompson 1996 ) or consumption stories ( Levy 1981 ) , but scholars have not examined the role of narratives in economic exchanges .
+We believe that narratives may be a particularly powerful lens , in that they allow the consumer to attempt to gain better control over the exchange and thus can provide a means to help con- summate the exchange .
+Second , to what extent do narratives affect the perfor- mance and outcomes of an economic exchange ?
+Narrative scholars claim that the construction and presentation of a narrative can shape its creator ’ s future behavior ( Bruner 1990 ) but rarely examine the nature of this influence empir- ically .
+Such an examination would be critical to understand- ing how a mixture of quantitative and qualitative factors shapes outcome quality ( e.g. , Hoffman and Yates 2005 ) .
+We examine these two questions using data from the online P2P loan auctions website , Prosper.com , by studying borrower-constructed narratives ( particularly the identities embedded in them ) , the subsequent decisions of lenders , and transaction performance two years later .
+We define identity claims as the ways that borrowers describe them- selves to others ( Pratt , Rockmann , and Kaufmann 2006 ) .
+Borrowers can construct an identity based on a range of ele- ments , such as religion or success .
+The elements become an identity claim when they enter public discourse as opposed to private cognition .
+With this framework , we make several contributions .
+First , by developing and testing theory around how nar- ratives supplement more objective sources of information that decision makers use when considering a financial trans- action , we draw attention to how narrators can intentionally exploit uncertainty and favorably shape circumstantial facts to obtain resources , such as access to money in unmediated environments .
+The narrative , as a supplementary , yet some- times deal-making or deal-breaking , information source for decision makers is predicated on compelling stories versus objective facts .
+It thus offers a means for people to recon- struct their pasts and describe their futures in positive ways .
+Second , by linking narratives to objective performance measures , we show how narratives may predict the longer- term performance of lending decisions .
+Because the deci- sion stakes are high in this unmediated and unsecured financial arena , lenders engage in highly cognitive pro- cessing ( Petty and Wegener 1998 ) .
+The strong disincen- tive of potential financial loss leads to cognitive process- ing , which tends to produce accurate attributions about a person and the probabilities of future events ( Osborne and Gilbert 1992 ) .
+Because of this motivation for accuracy , we suspect lenders use narratives to help them make invest- ment decisions .
+Third , from a practice perspective , the recent financial crisis has exposed flaws in the criteria used to make lend- ing decisions .
+Quantitative financial metrics , such as credit scores , have proven unreliable for predicting the ability or likelihood of consumers to repay unsecured loans ( Feldman 2009 ) .
+A narrative perspective on the consummation and performance of financial transactions offers the promise of improving systems for assessing borrowers .
+RESEARCH SETTING We conducted our research on Prosper.com ( hereinafter , Prosper ) , the largest P2P loan auction site in the United States , with more than one million members and $ 238 mil- lion in personal loans originated since its inception in March 2006 ( as of June 2011 ) .
+On Prosper , borrowers and lenders never meet in person , so we can assess the role of narratives in overcoming the uncertainty that arises during financial transactions between unacquainted actors .
+The process of borrowing and lending money through a loan auction on Prosper is as follows : Before posting their loan request , borrowers give Prosper permission to ver- ify relevant personal information ( e.g. , household income , home ownership , bank accounts ) and access their credit score from Experian , a major credit-reporting agency .
+Using this and other information , such as pay stubs and income tax returns , Prosper assigns each borrower a credit grade that reflects the risk to lenders .
+Credit grades can range from AA , which indicates that the borrower is extremely low risk ( i.e. , high probability of paying back the loan ) , through A , B , C , D , and E to HR , which signifies the highest risk of default .
+Borrowers then post loan requests for auction .
+When post- ing their loan auctions , borrowers choose the amount ( up to $ 25,000 ) and the highest interest rate they will pay .
+They also may use a voluntary open-text area , with unlimited space , to write anything they want—that is , the borrower ’ s narrative ( see Michels 2011 ) .
+After the listing becomes active , lenders decide whether to bid , how much money to offer , and the interest rate .
+A $ 1,000 loan might be financed by one lender who lends $ 1,000 or by 40 lenders , each lending $ 25 for example .
+Most lenders bid the minimum amount ( $ 25 ) on individual loans to diversify their portfolios ( Herzenstein , Dholakia , and Andrews 2011 ) .
+After the auction closes , listings with bids that cover the requested amount are funded .
+If a list- ing receives bids covering more than its requested amount , the bids with the lowest interest rates win .
+If the auc- tion does not receive enough bids , the request remains unfunded .
+Prosper administers the loan , collects payments , and receives fees of .5 % to 3.0 % from borrowers , as well as a 1 % annual fee from lenders .
+We employed three dependent variables in our study .
+First , loan funding is the percentage of the loan request to receive a funding commitment from lenders .
+For exam- ple , if a loan request for $ 1,000 receives bids worth $ 500 , loan funding is 50 % .
+If it receives bids worth $ 2,000 , loan funding equals 200 % .
+A higher loan funding value signi- fies greater lender interest .
+Second , percentage reduction in final interest rate captures the decrease in the inter- est rate between the borrower ’ s maximum specified rate and the final rate .
+For example , if a borrower ’ s maximum S140 JOURNAL OF MARKETING RESEARCH , SPECIAL ISSUE 2011 Table 1 DEFINITIONS OF IDENTITIES AND EXAMPLES FOR DATA CODING Identity Definition Examples Trustworthy ( Duarte , Siegel , and Young 2009 ) Lenders can trust the borrower to pay back the money on time .
+“ I am responsible at paying my bills and lending me funds would be a good investment. ” ( Listing # 17118 ) Successful ( Shafir , Simonson , and Tversky 1993 ) The borrower is someone with a successful business or job/career .
+“ I have [ had ] a very solid and successful career with an Aviation company for the last 13 years. ” ( Listing # 18608 ) Hardworking ( Woolcock 1999 ) The borrower will work very hard to pay the loan back .
+“ I work two jobs .
+I work too much really .
+I work 26 days a month with both jobs. ” ( Listing # 18943 ) Economic hardship ( Woolcock 1999 ) The borrower is someone in need because of hardship , as a result of difficult circumstances , bad luck , or other misfortunes that were , or were not , under the borrower ’ s control .
+“ Unfortunately , a messy divorce and an irresponsible ex have left me with awful credit. ” ( Listing # 20525 ) Moral ( Aquino et al .
+2009 ) The borrower is an honest or moral person .
+“ On paper I appear to be an extremely poor financial risk .
+In reality , I am an honest , decent person. ” ( Listing # 17237 ) Religious ( Weaver and Agle 2002 ) The borrower is a religious person .
+“ One night , the Lord awaken me and my spouse our business has been an enormous success with G-d on our side. ” ( Listing # 21308 ) interest rate is 18 % and the final rate is 17 % , the per- centage reduction in interest rate is 18− 17/18 = 556 % .
+The rate decreases only if the loan request receives full funding ; greater lender interest results in greater reduc- tion of the interest rate .
+Third , loan performance is the payment status of the loan two years after its origination .
+We further classify the types of identity claims made by prospective borrowers .
+Borrowers in our sample employed six identity claims in their narratives : trustworthy , economic hardship , hardworking , successful , moral , and religious .
+In Table 1 , we provide definitions and illustrative examples of each identity claim .
+Borrowers provided an average of 1.53 SD = 114 identity claims in their narratives .
+RESEARCH HYPOTHESES Who Is Likely to Provide More Identity Claims in Their Narratives ?
+Narratives , when viewed as vehicles for identity work , provide opportunities for people to manage the impres- sions that others hold of them .
+Impression management the- ory posits that people want to create and maintain specific identities ( Leary and Kowalski 1990 ) .
+Narratives provide an avenue for impression management ; through discourse , people can shape situations and construct identities that are designed specifically to obtain a desired outcome ( Schlenker and Weigold 1992 ) .
+Some scholars argue that people use narratives strategically to establish , maintain , or protect their desired identities ( Rosenfeld , Giacalone , and Riordan 1995 ) .
+However , the use of impression manage- ment need not automatically signal outright lying ; people may select from a repertoire of self-images they genuinely believe to be true ( Leary and Kowalski 1990 ) .
+Nevertheless , strategic use of impression management means that , at a minimum , people select representations of their self-image that are most likely to garner support .
+In economic exchanges involving repeated transactions , each party receives feedback from exchange partners that either validates or disputes the credibility of their self- constructions ( Leary and Kowalski 1990 ) , so they can determine if an identity claim has been granted .
+Prior transactions also offer useful information through feedback ratings and other mechanisms that convey and archive rep- utations ( Weiss , Lurie , and MacInnis 2008 ) .
+However , in one-time economic exchanges , such feedback is not avail- able .
+Instead , narrators have a single opportunity to present a convincing public view of the self , and receivers of the information have only one presentation to deem the presen- ter as credible or not .
+We hypothesize that in these conditions , borrowers are strategic in their identity claims .
+Borrowers with satisfac- tory objective characteristics are less likely to construct identity claims to receive funding ; they feel their case stands firmly on its objective merits alone .
+In contrast , borrowers with unsatisfactory objective characteristics may view narratives as an opportunity to influence the attribu- tions that lenders make , because in narratives , they can counter past mistakes and difficult circumstances .
+In this scenario , borrowers make identity claims that offset the attributions made by lenders about the borrower being fundamentally not a creditworthy person .
+These disposi- tional attributions are often based on visible characteristics ( Gilbert and Malone 1995 ) .
+The most relevant objective characteristic of borrowers is the credit grade assigned by Prosper , derived from the borrower ’ s personal credit history ( Herzenstein , Dholakia , and Andrews 2011 ) .
+With more than one identity claim , borrowers can present a more com- plex , positive self to counteract negative objective informa- tion , such as a low credit grade .
+Thus : H1 : The lower the borrower ’ s credit grade , the greater is the number of identities claimed by the borrower in the narrative .
+Role of Narratives in Peer-to-Peer Lending Decisions S141 Impact of the Number of Identity Claims on Lenders ’ Decision Although economists often predict that unverifiable information does not matter ( e.g. , Farrell and Rabin 1996 ) , we suggest that the number of identity claims in a bor- rower ’ s narrative play a role in lenders ’ decision making , for at least two reasons .
+First , borrower narratives with too few identities may fail to resolve questions about the borrower ’ s disposition .
+If a borrower fails to provide suf- ficient diagnostic information for lenders to make attri- butions about the borrower ( Cramton 2001 ) , lenders may suspect that the borrower lacks sufficient positive or dis- tinctive information or is withholding or hiding germane information .
+Second , the limited diagnostic information provided by fewer identity claims limits a decision maker ’ s ability to resolve outcome uncertainties .
+Research on perceived risk supports this reasoning ; decision makers gather informa- tion as a risk-reduction strategy and tend to be risk averse in the absence of sufficient information about the decision ( e.g. , Cox and Rich 1964 ) .
+In the P2P lending arena , the loan request and evaluation process unfold online with- out any physical interaction between the parties .
+Further- more , on Prosper , borrowers are anonymous ( real names and addresses are never revealed ) .
+This lack of seemingly relevant information is especially salient , because many decision makers view unmediated online environments as ripe for deception ( Caspi and Gorsky 2006 ) .
+To the extent that the identity claims presented in a narrative reduce uncertainty about a borrower , lenders should be more likely to view the listing favorably , increase loan funding , and decrease the final interest rate .
+Therefore , the number of identity claims in a borrower ’ s narrative may serve as a heuristic for assessing the borrower ’ s loan application and lead to greater interest in the listing .
+Although we suggest that the number of identities bor- rowers claim result in favorable lending decisions , we also argue that these identity claims may persuade lenders erroneously , such that lenders fund loans with a lower likelihood of repayment .
+Borrowers can use elaborate multiple-identity narratives to craft “ not-quite-true ” stories and make promises they might find difficult to keep .
+More generally , a greater number of identity claims suggests that borrowers are being more strategic and positioning them- selves in a manner they believe is likely to resonate with lenders , as opposed to presenting a true self .
+Therefore , we posit that , consciously or not , borrowers who construct sev- eral identities may have more difficulty fulfilling their obli- gations and be more likely to fall behind on or stop loan repayments altogether .
+Thus , despite the high stakes of the decision , lenders swayed by multiple identities are more likely to fall prey to borrowers that underperform or fail ( Goffman 1959 ) .
+H2 : Controlling for objective , verifiable information , the more identities borrowers claim in their loan requests , the more likely lenders are to ( a ) fund the loan and ( b ) reduce its interest rate , but then ( c ) the lower is the likelihood of its repayment .
+Role of the Content of Identity Claims on Lender Decision Making and Loan Performance We also examine the extent to which select identities affect lenders ’ decision making and the longer-term per- formance of loans .
+With a limited theoretical basis for determining the types of identities most likely to influ- ence lenders ’ decision making , this part of our study is exploratory .
+Research on trust offers a promising starting point ( Mayer , Davis , and Schoorman 1995 ) , because it sug- gests that identities may reduce dispositional uncertainty and favorably influence lenders .
+Trust is a crucial element for the consummation of an economic exchange ( Arrow 1974 ) .
+Scholars theorize that trust involves three compo- nents : integrity ( borrowers adhere to principles that lenders accept ) , ability ( borrowers possess the skills necessary to meet obligations ) , and benevolence ( borrowers have some attachment to lenders and are inclined to do good ) ( Mayer , Davis , and Schoorman 1995 ) .
+We theorize that trustworthy , religious , and moral iden- tities increase perceptions of integrity because they lead lenders to believe that borrowers ascribe to the lender- endorsed principle of fulfilling obligations , either directly ( trustworthy ) or indirectly by adhering to a philosophy ( religious or moral ) .
+Specifically , a moral identity tells potential lenders that the person has “ a self-conception organized around a set of moral traits ” ( Aquino et al .
+2009 , p. 1424 ) , which should increase perceptions of integrity .
+A religious identity signals a set of role expectations to which a person is likely to adhere , and though religions vary in the content of these expectations ( Weaver and Agle 2002 ) , many of them include principles oriented against lying or stealing and toward honoring contractual agree- ments .
+A hardworking identity should increase perceptions of integrity , because hardworking people are determined and dependable , which often makes them problem solvers ( Witt et al .
+2002 ) , meaning that they will do their best to meet their obligations , a disposition likely to resonate with lenders .
+We also reason that the religious and moral identities invoke in lenders a sense of benevolence , which is a foun- dational principle of many religions and moral philoso- phies .
+Similarly , the economic hardship identity may invoke benevolence , because the borrower exhibits forthrightness about his or her past mistakes and thus suggests to lenders that the borrower is trying to create a meaningful relation- ship based on transparency .
+We theorize that an identity claim of success can increase perceptions of ability and the belief that the narrator is capable of fulfilling promises ( Butler 1991 ) .
+Lenders are more likely to lend money to a borrower if they perceive that the person is capable of on-time repayment ( Newall and Swan 2000 ) .
+A successful identity likely describes the past or present , but it also can serve as an indication of a probable future ( i.e. , the borrower will continue to be successful ) , which helps “ fill in the blanks ” about the bor- rower in a positive way .
+In contrast , economic hardship likely constructs the borrower as someone who has had a setback , which ultimately undermines perceptions of ability and thus negatively affects lenders ’ decisions .
+We have offered some preliminary theory in support of these specific relationships between identity content and loan funding/interest rate reductions , but this examination S142 JOURNAL OF MARKETING RESEARCH , SPECIAL ISSUE 2011 remains exploratory , so we pose these relationships as exploratory research questions ( ERQ ) : ERQ1 : Which types of identity claims influence lending deci- sions , as indicated by ( a ) an increase in loan funding and ( b ) a decrease in the final interest rate ?
+We also explore the impact of the content of identity claims on loan performance .
+We envision two potential sce- narios .
+In the first , identities are diagnostic of the borrower or serve as self-fulfilling prophecies .
+Examining the ability aspect of trustworthiness , we anticipate a negative relation between an economic hardship identity and loan perfor- mance ( borrowers validate their claim of setbacks ) but a positive relation between a successful identity and loan per- formance ( borrowers prove their claim of past success ) .
+Moreover , we expect the four integrity-related identities— trustworthy , hardworking , moral , and religious—to indicate better loan performance .
+After a self-presentation as having integrity , the borrower probably has a strong psychological desire for consistency between the narrative and his or her actions ( Cialdini and Trost 1998 ) .
+That is , in their narra- tives , borrowers may make an active , voluntary , and public commitment that psychologically binds them to a partic- ular set of beliefs and subsequent behaviors ( Berger and Heath 2007 ) .
+Because these four identities speak to funda- mental self-beliefs versus predicted outcomes ( e.g. , success or hardship ) , they can strongly motivate borrowers to live up to their claims .
+Thus these identities , regardless of their accuracy , can become true and predict the performance of the lending decision .
+In the other scenario , however , identities improve the lender ’ s impression of the borrower , thereby allowing bor- rowers to exert control over the provided impressions ( Goffman 1959 ) .
+Borrowers ( or narrators , more generally ) construct positive impressions and may misrepresent them- selves and send signals that may not be objectively war- ranted .
+Despite the belief that self-constructing identities are helpful for a lending decision , they actually may have no impact or even be harmful to lenders .
+These mixed pos- sibilities lead to another exploratory research question : ERQ2 : How are the content of identity claims and loan perfor- mance related ?
+STUDY Data Our data set consists of 1,493 loan listings posted by borrowers on Prosper in June 2006 and June 2007 .
+We extracted this data set using a stratified random sampling strategy .
+Using a web crawler , we extracted all loan listings posted in June 2006 and June 2007 ( approximately 5,400 and 12,500 listings , respectively ) .
+A significant percentage of borrowers on Prosper have very poor credit histories , and most loan requests do not receive funding .
+To avoid overweighting high-risk borrowers and unfunded loans , we sampled an equal number of loan requests from each credit grade .
+To do so , we first separated funded loan requests from unfunded ones , then divided each group by the seven credit grades assigned by Prosper .
+We also eliminated all loan requests without any narrative text , for three reasons .
+First , including loan requests without narratives could con- found the borrower ’ s choice to write something other than narratives in the open text box with the choice to write nothing at all .
+Second , the vast majority of listings lack- ing a narrative do not receive funding .
+Third , loan requests without text represent only 9 % of all loans posted in June 2006 and 4 % of those posted in June 2007 .
+We nevertheless used the “ no text ” loans in our robustness check .
+We randomly sampled posts from the 14 subgroups ( 2 funding status× 7 credit grades ) .
+In 2006 , we sampled 40 listings from each subgroup ( until data were exhausted ) to obtain 513 listings ; in 2007 , we sampled 70 listings from each subgroup to obtain 980 listings , for a total of 1,493 listings .
+Each listing includes the borrower ’ s credit grade , requested loan amount , maximum interest rate , loan funding , final interest rate of funded loans , payback sta- tus of funded loans after two years , and open-ended text data .
+Before combining the data from 2006 and 2007 , we tested for a year effect but found none , which supports their combination .
+Dependent Variables The first dependent variable , loan funding , ranges from 0 % to 905 % in our data set , but requiring an equal inclu- sion of all credit ratings skews these statistics .
+The mean percentage funded ( including all listings ) is 105.74 % ( SD = 1292 ) and that for funded listings is 205.45 % ( SD = 1196 ) .
+Because it was skewed , we log-transformed loan fund- ing as follows : Ln ( percent funded +1 ) .
+The second depen- dent variable , percentage reduction in the final interest rate , ranges from 0 % to 56 % in our data set .
+The mean per- centage reduction in interest rate for all listings is 6.4 % ( SD = 107 ) and for funded listings is 11.88 % ( SD = 1275 ) .
+Because the distribution is skewed , we log-transformed it ( we provide the distribution figures in the Web Appendix , http : //www.marketingpower.com/jmrnov11 ) .
+The third dependent variable is loan performance , mea- sured two years after loan funding .
+For each funded loan in our data set , we obtained data about whether the loan was paid ahead of schedule and in full ( 31.1 % of funded list- ings ) , was current and paid as scheduled ( 40.5 % ) , involved payments between one and four months late ( 7.1 % ) , or had defaulted ( 21.3 % ) .
+This dependent variable may appear ordered , but the likelihood ratio tests reveal that a multino- mial logit model fares better than an ordered logit model for analyzing these data ( for both the number and content of identities ) .
+Thus , in the following analysis , we employ a multinomial logit model .
+Independent Variables We read approximately one-third of all narratives and developed our inductively derived list of six identity claims ( Miles and Huberman 1994 ) : trustworthy , economic hard- ship , hardworking , successful , moral , and religious , as we define in Table 1 .
+Two research assistants examined the same data and determined these six identities were exhaustive .
+Next , five additional pairs of research assistants ( 10 total ) coded the entire data set .
+We coded each iden- tity as a dichotomous variable that receives the value of 1 if the identity claim was present in a borrower ’ s narrative and 0 if otherwise .
+A pair of research assistants read each listing in the data set , independently at first , then discussed them to determine the unified code for each listing .
+Accord- ing to 20 randomly sampled listings from our data set , used Role of Narratives in Peer-to-Peer Lending Decisions S143 Table 2 IDENTITY CLAIM DATA ( ALL LISTINGS ) Coders ’ Agreement Fleiss Interpretation of Number of Economic Frequencya ( % ) Rateb ( % ) Kappa Kappac Identities Trustworthy Successful Hardship Hardworking Moral Trustworthy 618 83 .66 Substantial 57∗∗ 1 Successful 196 79 .75 Substantial 38∗∗ 07∗∗ 1 Economic hardship 250 90 .80 Substantial 49∗∗ 03 −07∗∗ 1 Hardworking 257 81 .71 Substantial 56∗∗ 09∗∗ 07∗ 14∗∗ 1 Moral 154 78 .78 Substantial 51∗∗ 15∗∗ −002 14∗∗ 16∗∗ 1 Religious 57 98 .96 Almost perfect 35∗∗ 12∗∗ −001 11∗∗ 05∗ 12∗∗ ∗Significant at .05 .
+∗∗Significant at .01. aAll listings of borrowers that claimed this identity , with or without claiming other identities .
+bAgreement rate across five sets of two coders for the 20 listings that everyone coded .
+cBased on Landis and Koch ( 1977 ) .
+to measure the pairs ’ agreement , the Fleiss kappa values range from .66 to .96 ( see Table 2 ) , which indicate substan- tial agreement ( based on the interpretation guide offered by Landis and Koch [ 1977 ] ) .
+In Table 2 , we also present the correlation between each pair of identities and the correla- tion of the presence of each identity with the total number of identities claimed .
+In the test of H1 and H2 , the independent variable is the number of identities constructed by the borrower .
+We counted how many different identities the loan request nar- rative included , with 0 as the minimum of no constructed identities and 6 representing the maximum number .
+Most listings in our data set ( 81.4 % ) included at least one iden- tity .
+Only 17 listings include five or six identities , so we grouped them with listings that included four identities to smooth out the variable and create more equitable groups .
+( This grouping affects neither our theory nor the substan- tive results . )
+The number of identities variable thus features the following distribution : 0 identities = 18.6 % ; 1 identity = 35.6 % ; 2 identities = 26.7 % ; 3 identities = 13.7 % ; 4 or more identities = 5.4 % .
+Control Variables Prior research shows that borrowers on Prosper with bet- ter credit grades , those that request smaller loan amounts , and those that offer higher initial interest rates are sub- stantially more likely to receive funding ( Ryan , Reuk , and Wang 2007 ) .
+Therefore , we control for these variables in our analyses .
+We treat the credit grade as categorical vari- able , because though it is ordinal , we do not believe it is interval ( i.e. , the difference between HR and E may not be the same as the difference between A and AA ) .
+We created seven dummy variables , one for each credit grade , and we used HR as the baseline comparison .
+We also controlled for the borrowers ’ demographics .
+The 10 research assistants coded gender , race , marital status , and family status ( i.e. , children or no children ) , using the borrowers ’ narratives and pictures .
+Two research assistants who coded each listing produced virtually identical results .
+The disclosure of demographic information is voluntary on Prosper , and in our data set , 66 % of borrowers included at least some demographic information in their loan requests , whether in their narratives or through pictures .
+We coded these demographic variables as categorical ; because disclo- sure is voluntary , the interpretation of these variables is not , for example , “ female ” but “ disclosure that the borrower is female. ” Therefore , our models included dummies for both female and male , and the reference category was “ the bor- rower did not disclose gender. ” Results and Discussion In H1 we posited that a lower credit grade would result in more identities claimed in a borrower ’ s narrative .
+We employed a trend analysis to test this hypothesis ; as Dawes and Corrigan ( 1974 ) suggest , a linear function can account for almost all the variance in any conditionally mono- tonic relationship .
+Thus we coded the credit grade infor- mation as one variable , with the following possible values : 1 if the credit grade is HR , 2 = E , 3 = D , 4 = C , 5 = B , 6 = A , and 7 = AA .
+We employed an analysis of covari- ance that treats this variable as categorical .
+When we control for demographic and loan characteristic variables , the trend analysis , as we expected , showed a significant linear relation between borrowers ’ credit score and the number of identities that borrowers constructed in their narratives ( t1472 = 263 , p < 01 ) .
+Higher-order polyno- mial trends did not account for a significant proportion of the variance in the number of identities ( pquadratic = 17 , pcubic = 81 , porder4 = 16 ) .
+In Figure 1 , we provide the esti- mated marginal means of the number of identities as a function of credit grade , controlling for demographics and loan characteristics .
+In H2a , we posited that more identities claimed in a narrative would have a positive effect on loan funding .
+To test this hypothesis , we regressed the number of iden- tities as the main predictor and credit grade , requested amount , gender , marital status , race , and family status as covariates on the natural log of loan funding .
+We present the results in Table 3 , which shows that when we con- trol for borrowers ’ demographics and loan characteristics , the number of identities borrowers claim in their narra- tives positively affected loan funding ( = 11 , SE = 04 , t = 281 , p < 001 ) .
+The model that includes the number of identities as the main predictor fit the data better than a model that includes only the controls ( R2 = 46 versus .44 ; F11472 = 791 , p < 01 ) .
+Furthermore , in support of H2a , the relation between the number of identities and loan S144 JOURNAL OF MARKETING RESEARCH , SPECIAL ISSUE 2011 Figure 1 ESTIMATED MARGINAL MEANS OF NUMBER OF IDENTITIES AS A FUNCTION OF BORROWERS ’ CREDIT GRADE 1.71 1.75 1.68 1.65 1.70 1.60 1.55 1.48 1.45 1.46 1.441.45 1.50 E st im at ed M ar g in al M ea n s o f th e N u m b er o f Id en ti ti es 1.40 1.40 HR E D C B A AA Credit Grade Notes : These values are after controlling for demographics and loan financial characteristics .
+Covariates are evaluated at the following values : requested loan amount = 831024 , initial interest rate = 169081 , male = 32 , female = 24 , married = 23 , divorced = 04 , single = 05 , engaged = 03 , Caucasian = 35 , African American = 07 , Hispanic = 01 , children = 27. funding was monotonic and increasing ( significant linear trend t1 472 = 271 , p < 01 ; insignificant quadratic trend pquadratic = 99 ; marginal cubic trend pcubic = 08 ) .
+We present the average loan funding as a function of the number of identities in Figure 2 .
+Table 3 LOAN FUNDING AND PERCENTAGE REDUCTION IN INTEREST RATE AS FUNCTIONS OF NUMBER OF IDENTITIES Log of Percentage Log of Loan Funding Reduction in Interest Rate SE t p SE t p Constant −660 20 −3252 .00 −564 16 −3600 .00 Number of identities 11 04 281 .01 12 03 404 .00 Requested loan amount ( thousands ) −10 01 −1616 .00 −03 01 −678 .00 Initial interest rate 2172 77 2815 .00 726 60 1219 .00 AA 423 18 2316 .00 159 14 1129 .00 A 365 18 2043 .00 138 14 998 .00 B 285 17 1685 .00 108 13 828 .00 C 191 16 1194 .00 63 12 514 .00 D 130 16 827 .00 46 12 381 .00 E 27 15 178 .08 18 12 154 .12 Male 51 13 400 .00 16 10 163 .10 Female 38 14 283 .00 13 10 121 .23 Married 25 12 207 .04 20 09 216 .03 Divorced −19 21 −92 .36 04 16 24 .81 Single 49 20 242 .02 29 16 185 .07 Engaged −10 24 −43 .67 21 19 113 .26 Caucasian −11 11 −104 .30 12 08 144 .15 African American −37 18 −198 .05 −04 14 −29 .77 Hispanic 03 35 07 .94 05 27 20 .84 Children −06 11 −60 .55 −04 008 −53 .59 Notes : Regarding the reference categories for the predictors , for gender , it is “ no gender ” ( borrowers did not disclose their gender ) ; for marital status , it is “ no marital status or widow ” ( only two widows in the sample ) ; for race , it is “ no race or race other than Caucasian , African American , or Hispanic ” ( i.e. , there were a few Asian and Indian respondents ) ; and for credit grade , it is HR ( high risk ) .
+We also predicted in H2b that the percentage reduction in the final interest rate would be positively affected by the number of identity claims .
+We employed the same regres- sion analysis but used the natural log of the percentage reduction in the final interest rate as the dependent vari- able .
+The results in Table 3 show that the number of identities borrowers claim positively affected the reduc- tion of interest rate ( = 12 , SE = 03 , t = 404 , p < 001 ) .
+The model including the number of identities as the main predictor fit the data better than a model includ- ing only the controls ( R2 = 17 versus .15 ; F1 1472 = 1633 , p < 001 ) .
+In support of H2b , the relation between the number of identities and the reduction in the inter- est rate was monotonic and increasing ( significant lin- ear trend t1 472 = 398 , p < 001 ; insignificant quadratic trend pquadratic = 52 ; insignificant cubic trend pcubic = 15 ) .
+Figure 2 depicts this analysis in detail .
+To test the robustness of our specifications , we examined the effect of the presence of text on loan funding .
+Our data set for this analysis thus included all loans posted on Pros- per on June 2006 ( N = 4959 , no repeat listings ) .
+We created a dichotomous variable equal to 1 if the borrower included text in the loan request and 0 if not .
+When we control for the financial characteristics , the results showed that loan funding increased when the listing included text ( = 32 , t = 564 , p < 001 ) .
+Only 3.5 % of the listings without text were fully funded , compared with 8.0 % of the loans with text during that month ( 21 = 1263 , p < 001 ) .
+To test H2c , in which we posited a negative effect of the number of identities on loan performance , we employed a multinomial logistic model .
+The main predictor Role of Narratives in Peer-to-Peer Lending Decisions S145 Figure 2 NUMBER OF IDENTITIES AS PREDICTOR OF LOAN FUNDING , REDUCTION IN INTEREST RATE , AND LOAN PERFORMANCE .06 .07 .08 .09 .1 .03 .04 .05 .8 .9 1 1.1 1.2 1.3 1.4 .4 .5 .6 .7 No identities One identity Two identities Three identities Four or more identities P er ce n ta g e R ed u ct io n in In te re st R at e L o an F u n d in g /L o an P er fo rm an ce Number of Identities Loan funding Loan performance Reduction in interest rate Notes : To plot this figure , we grouped the four loan performance levels into two ( pay/no pay ) and present the percentage of listings by borrowers who pay .
+was the number of identities ; we controlled for bor- rower demographics and financial characteristics .
+The results revealed that as the number of identity claims pro- vided in the loan request increased , borrowers grew more likely to default than to pay late ( = 29 , 21 = 298 , p < 1 ) and more likely to pay late than to pay on time ( = −31 , 21 = 373 , p = 053 ) or ahead of time ( = −32 , 21 = 367 , p = 054 ) .
+The number of identi- ties did not affect inclusion in any other categories of loan performance ( see Table A1 in the Web Appendix , http : //www.marketingpower.com/jmrnov11 ) .
+In Figure 2 we graph the percentage of borrowers that repay ( current and paid combined ) by the number of identities constructed in their narrative .
+Table 4 includes the distribution of loan performance as a function of the number of identities that borrowers claim in their narratives .
+As the number of iden- tities increases , the default rate increases , whereas the paid rate decreases .
+Turning to our research questions , we first consider the roles of the content of the identities claimed by borrowers on lenders ’ decisions .
+We examined ERQ1 using regression analyses , with the six identities as main predictors , and we controlled for demographic variables and other financial characteristics to account for the data available to lenders in their decision making .
+We provide the results in Table 5 .
+After controlling for borrowers ’ demographics and loan characteristics , we found that lenders were affected by the trustworthy ( = 33 , SE = 09 , t = 379 , p < 001 ) and successful ( = 23 , SE = 11 , t = 211 , p < 05 ) identities to increase loan funding .
+Lenders also were marginally affected by the religious identity ( = −33 , SE = 18 , t = −182 , p = 07 ) , though it reduced loan funding .
+Borrow- ers claiming trustworthy or successful identities received significantly higher loan funding than those who did not claim these identities ( trustworthy : 120.74 % versus 81.51 % , t1 491 = 576 , p < 001 ; successful : 124.89 % versus 101.06 % , t1 491 = 284 , p < 01 ) .
+Are these effects due to an omitted variable in the regres- sion ( i.e. , total number of identities ) rather than the content of the identities ?
+Do the successful and trustworthy identi- ties always appear in narratives with many identities , and does the religious identity always appear in narratives with fewer identities ?
+The correlations of the appearance of the six identities with the total number of identities ( see Table 2 ) show that they do not .
+For example , the low correlation of successful identity with the overall number of identities showed that its positive effect on lenders ’ decisions resulted Table 4 DISTRIBUTION OF LOAN PERFORMANCE AS A FUNCTION OF NUMBER OF IDENTITIES 0 1 2 3 4 Identities Identity Identities Identities Identities Total Default ( % ) 122 184 242 264 288 213 Late 89 65 74 64 77 71 Current 400 421 372 418 442 405 Paid 389 330 312 255 192 310 n 90 261 215 110 52 728 S146 JOURNAL OF MARKETING RESEARCH , SPECIAL ISSUE 2011 Table 5 LOAN FUNDING AND PERCENTAGE REDUCTION IN INTEREST RATE AS A FUNCTION OF IDENTITIES Log of Percentage Log of Loan Funding Reduction in Interest Rate SE t p SE t p Constant −659 .20 −3227 .00 −562 .16 −3559 .00 Trustworthy 33 .09 379 .00 24 .07 355 .00 Successful 23 .11 211 .03 27 .08 326 .00 Economic hardship 00 .10 01 .99 01 .08 14 .89 Hardworking 05 .10 54 .59 07 .08 98 .33 Moral 01 .12 08 .94 −04 .09 −46 .65 Religious −33 .18 −182 .07 13 .14 91 .36 Requested loan amount ( thousands ) −10 .01 −1613 .00 −03 .01 −684 .00 Initial interest rate 2148 .77 2780 .00 708 .60 1185 .00 AA 410 .19 2203 .00 150 .14 1042 .00 A 354 .18 1961 .00 130 .14 929 .00 B 276 .17 1622 .00 103 .13 779 .00 C 185 .16 1157 .00 60 .12 485 .00 D 128 .16 817 .00 45 .12 369 .00 E 28 .15 184 .07 19 .12 164 .10 Male 48 .13 383 .00 16 .10 163 .10 Female 40 .14 291 .00 16 .10 156 .12 Married 27 .12 225 .02 21 .09 222 .03 Divorced −18 .21 −83 .41 05 .17 33 .74 Single 53 .20 260 .01 32 .16 202 .04 Engaged −08 .24 −31 .75 23 .19 121 .23 Caucasian −10 .11 −89 .38 12 .08 146 .14 African American −36 .18 −194 .05 −05 .14 −34 .73 Hispanic 01 .35 02 .98 03 .27 10 .92 Children −05 .11 −42 .67 −03 .08 −37 .71 Notes : The reference categories for the predictors are as follows : For identities , it is “ no identities ” ( borrowers did not claim any of the six identities ) ; for gender , it is “ no gender ” ; for marital status , it is “ no marital status or widow ” ; for race , it is “ no race or race other than Caucasian , African American , or Hispanic ” ; and for credit score , it is HR .
+from its content , rather than from the number of identities in narratives that also included successful claims .
+Claims of all other identities neither helped nor hurt borrowers in their attempts to secure funding .
+The model with the six identities predicted loan funding significantly better than a model including only the controls ( R2 = 46 versus .44 , F61467 = 384 , p < 001 ) .
+We found simi- lar results for the final interest rate , in that the trustwor- thy ( = 24 , SE = 07 , t = 355 , p < 001 ) and successful ( = 27 , SE = 08 , t = 326 , p < 001 ) identities helped reduce final interest rates .
+Borrowers claiming trustwor- thy or successful identities enjoyed a greater reduction in their interest rate than those who did not claim these iden- tities ( trustworthy : 7.60 % versus 4.54 % , t1491 = 541 , p < 001 ; successful : 8.86 % versus 5.83 % , t1491 = 438 , p < 001 ) .
+None of the other identities had an effect on the interest rate .
+The model including the six identities again predicted the percentage reduction in interest rate better than the model including only the controls ( R2 = 17 versus .15 , F61467 = 475 , p < 001 ) .
+What affects lenders more , the number of identities or their content ?
+We compared the unrestricted model ( with six different identities ) with a restricted model ( in which we count the identities and ignore their content ) ; accord- ing to the F-test for nested models , we found that the unrestricted model fit the data better ( F51472 = 302 , p = 01 ) .
+Next , we tested whether there was a partial effect of the number of identities , after controlling for their con- tent .
+To the regressions in Table 5 , we added a dichoto- mous variable for listings by borrowers who claimed at least four identities .
+This variable had a marginal positive effect on loan funding , beyond that of the content of the identities ( = 35 , SE = 21 , t = 167 , p < 1 ) .
+Moreover , the trustworthy identity remained significant ( = 32 , SE = 09 , t = 363 , p < 001 ) , whereas the successful identity became less significant ( = 19 , SE = 11 , t = 173 , p < 1 ) , and the religious identity grew more significant ( = −43 , SE = 19 , t = −223 , p < 05 ) .
+Taken together , the results suggested that the effect of the number of identities was weaker than the effect of the specific identities .
+To examine ERQ2 , we subjected the loan performance measure to a multinomial logit analysis , with the identities as the main predictors and borrower and loan characteris- tics as controls ( for the results , see Table A2 in the Web Appendix , http : //www.marketingpower.com/jmrnov11 ) .
+Al- though the successful identity helped borrowers fund their loans and reduce their final interest rate , it was unrelated to loan performance .
+The trustworthy identity predicted loan performance , such that borrowers who claimed this identity were more likely to pay ahead of time than to pay on time ( = −51 , 21 = 551 , p < 05 ) .
+Two other identities were also related to loan performance : moral ( positive ) and eco- nomic hardship ( negative ) .
+Specifically , borrowers claiming a moral identity were more likely to pay on time than pay Role of Narratives in Peer-to-Peer Lending Decisions S147 late ( = 81 , 21 = 300 , p < 1 ) or default ( = 73 , 21 = 577 , p < 05 ) .
+Borrowers claiming the economic hardship identity were more likely to default ( = 90 , 21 = 915 , p < 001 ) , pay late ( = 69 , 21 = 310 , p < 1 ) , or pay on time ( = 66 , 21 = 654 , p < 01 ) than pay their loans ahead of time .
+The model with the six identities predicted loan performance better than the model including the con- trols only ( −2LL = 1547 vs. 1,575 , 26 = 2788 , p < 001 ) .
+In summary , trustworthy and successful identity claims are more likely to result in funded loans , but only trust- worthy and other identities are predictive of loan payment .
+A moral identity relates positively and an economic hard- ship identity relates negatively to loan payment .
+GENERAL DISCUSSION We have examined the roles that narratives play in influ- encing decision making in economic exchanges between previously unknown transaction partners—namely , the bor- rowers who serve as narrators and the lenders who serve as decision makers .
+We have reasoned and found support for the hypothesis that narratives influence decision mak- ers , beyond the effect of objective information .
+Narrators strategically provide identities and favor multiple identi- ties when their credit grades are poor .
+From the lender ’ s perspective , claiming more identities predicts an increased likelihood of loan funding and a reduced final interest rate .
+Yet more identities also can have a negative impact on loan performance .
+Thus , talk ( i.e. , claiming identities ) is cheap , but lenders respond to it , so talk also affects important outcomes .
+Furthermore , claiming trustworthy and successful identities influences lenders to engage in eco- nomic exchanges , but ironically , the successful identity does not predict positive outcomes , and the trustworthy identity explains the difference between borrowers who pay on time and those who pay ahead of time—both positive outcomes .
+Better predictors of long-term performance are the moral and economic hardship identities ( positive and negative , respectively ) .
+To the extent that lenders ’ and bor- rowers ’ interests are sufficiently aligned ( e.g. , negative loan performance affects the ability to borrow again on Pros- per ) , a misrepresentation that increases loan funding but does not enhance loan performance may be detrimental to both parties .
+Theoretical Implications The narrative approach to identity that we apply to deci- sion making builds on recent scholarly interest in the use of narratives to facilitate economic transactions .
+For example , Martens , Jennings , and Jennings ( 2007 ) find that narratives help entrepreneurs secure resources for their endeavors by providing a compelling story about the organization ’ s iden- tity .
+Chen , Yao , and Kotha ( 2009 ) examine the business plans of entrepreneurs , which are types of narrative and serve as vehicles for providing vital information in financial exchanges that involve uncertainty .
+We extend the study of narratives to financial transactions that involve unsecured personal loans between individual borrowers and lenders .
+Information embedded in identity claims reduces disposi- tional uncertainty and provides contextual information that influences decision makers .
+By extending our findings to include longer-term performance , we also show that narra- tives not only influence decision makers but also can pre- dict the outcomes of their decisions .
+This demonstration expands the scope of narrative research from an exercise in persuasion to a key factor for predicting outcomes— an extension for which narrative scholars have frequently called ( e.g. , Bruner 1990 ) but that thus far has gone unde- veloped and unproven .
+In explaining our exploratory findings regarding the con- tent of identity claims and lending decisions , we note that a trustworthy identity may invoke attributions of integrity and the perception that the borrower adheres to a set of prin- ciples that the lender finds acceptable .
+A successful iden- tity may invoke attributions of ability and the perception that the borrower is competent , with the skills necessary to meet obligations .
+Thus , further research should attempt to explain why the moral and religious identities do not increase attributions of integrity .
+Perhaps lenders discount or ignore these particular identities according to their per- suasion knowledge about such identity claims ( Friestad and Wright 1994 ) or because of attributions that these identities invoke regarding the borrower ( Gilbert and Malone 1995 ) .
+Our exploratory research also investigates the relation- ship between the content of identity claims and loan per- formance by proposing two scenarios .
+In the first , we have posited that constructed identities are transparent , true indicators of the self ; as theorized , an economic hardship identity negatively affects loan performance .
+However , the presentation of a successful identity does not relate to loan performance .
+Although further research is needed to unpack this mixed finding , one explanation may be that negative constructs ( e.g. , economic hardship ) tend to be more pow- erful than positive ones ( Baumeister et al .
+2001 ) .
+We also have posited that the four integrity identities would psycho- logically bind borrowers to engage in the related behaviors , to uphold their sense of integrity .
+Moral and trustworthy identities both exhibit just this effect .
+One explanation for the strong effect of the moral identity may be that this iden- tity serves as a self-regulatory mechanism ( Aquino et al. , 2009 ) .
+In a second scenario , we suggest there is no or even a negative relationship between the content of the iden- tity claims and loan performance .
+Accordingly , the success- ful , hardworking , and religious identities are not related to loan performance , and economic hardship relates nega- tively to it .
+More generally , our findings support the interpretation that people use narratives strategically to manage favor- able impressions and thus contribute to research on impres- sion management and its role in decision making .
+A wide body of research indicates that people are adept at craft- ing favorable self-views for themselves and others ( Leary and Kowalski 1990 ) .
+What is less clear is the relation- ship between these impressions and reality .
+We address this question by assessing whether the impressions people con- struct are borne out in the future .
+Even for a process as complex and prone to unforeseen environmental contingen- cies ( e.g. , job loss , medical emergency ) as a loan ( Warren and Warren Tyagi 2003 ) , when people claim a moral iden- tity , they strive to fulfill that presentation .
+However , the negative relation of an economic hardship identity to loan performance suggests that , despite being authentic about their difficulties , it is not always reasonable to expect these S148 JOURNAL OF MARKETING RESEARCH , SPECIAL ISSUE 2011 borrowers to create a new reality .
+The pattern of results also suggests that people use economic hardship identities strategically to gain empathy , a tactic that lenders should view as a warning sign .
+Ultimately , these borrowers lack either the ability or the willingness to fulfill their loan obligations .
+Practical Implications Our findings suggest how both borrowers ( narrators ) and lenders ( decision makers ) can be more effective .
+For bor- rowers , our findings reveal the power of constructing a viable narrative when attempting to influence a decision maker .
+Effective narratives contain several identity claims and emphasize a trustworthy or successful identity .
+For lenders , our findings show the importance of analyzing narratives when making economic exchange decisions in uncertain conditions .
+The analysis of narratives can provide a competitive advantage to lenders that goes beyond tra- ditional credit-based risk scoring models .
+Although credit scores and other objective economic information continue to play an important role in lending decisions , our findings suggest the benefits of supplementing this approach with an informed assessment of narrative data .
+Specifically , lenders should favor borrowers who claim to be moral or trustwor- thy and avoid borrowers who claim economic hardship .
+In summary , our research offers an important method to assess financial transactions beyond traditional credit-based mod- els , though after our results are disseminated , they might need to be reexamined .
+Limitations and Future Research Directions Our research has several limitations that suggest promis- ing directions for further research .
+First , although our data include important information about borrowers , lenders ’ decisions , and outcomes , we have no additional information about lenders .
+We have inferred from theory how lenders likely make decisions , but additional research could capture the mental maps of decision makers as they evaluate nar- ratives .
+Are lenders cognizant of the number and content of identities , or are their responses heuristically based ?
+Do key factors , such as lending experience , explain why some decision makers are more adept at consummating transac- tions with favorable outcomes ?
+Is it possible that narratives that are familiar to and resonate with particular decision makers have an increased likelihood of funding ?
+Some evi- dence for this effect appears in research on social lending , in which lenders favor borrowers who are similar to them ( Galak , Small , and Stephen 2011 ) .
+Data about the back- ground and personal characteristics of lenders would be useful in this regard .
+Second , considering the novelty of this research area , we hypothesized about single identities .
+To build on our find- ings , further research should develop and test hypotheses about the interactions between those identities .
+Third , we focused only on one aspect of narratives , that is , identities , according to both their number and content .
+Yet as rich communication media , narratives contain far more complexity than we have explored .
+For example , nar- ratives can convey emotions ( e.g. , sympathy , anger ) or attri- butions ( internal or external ) that may influence decision makers , and their temporal structures may reveal how the narrators reconstruct events ( Gergen and Gergen 1997 ) .
+Studying these aspects and their effects on the consum- mation and performance of economic exchanges could add further depth to our approach .
+We acknowledge that nar- ratives generally have small effects on loan funding ( e.g. , effects on loan funding of trustworthy identity = 33 ; effect of AA credit grade = 410 ; see Table 5 ) , though these effect sizes generally are in line with those reported by other narrative researchers ( e.g. , Martens , Jennings , and Jennings 2007 ) .
+Our findings thus present both opportunities and chal- lenges for research .
+Economic exchanges at arm ’ s length provide little diagnostic information for exchange partners .
+What is especially attractive about our approach is that the alternative source of information provided by a narrative can reduce uncertainty and lead to more frequently success- ful exchanges .
+This information also can enhance predic- tions of performance .
+As evidenced by the recent financial crisis , lenders often make poor decisions that lead to sub- optimal outcomes ( Feldman 2009 ) .
+Our findings suggest that decision makers might be relying on the wrong type of data or not adequately supplementing their analyses with alternative data .
+A narrative , as a rich source of qualitative data about who a borrower is , offers the promise of expand- ing current lending-based decision-making models , reduc- ing the uncertainty transaction partners usually face , and limiting challenges similar to those recently experienced in financial markets .
+REFERENCES Aquino , Karl F. , Dan Freeman , Americus Reed II , Vivien K.G .
+Lim , and Will Felps ( 2009 ) , “ Testing a Social-Cognitive Model of Moral Behavior : The Interactive Influence of Situations and Moral Identity Centrality , ” Journal of Personality and Social Psychology , 97 ( 1 ) , 123–41 .
+Arrow , Kenneth ( 1974 ) , The Limits of Organization .
+New York : Norton .
+Baumeister , Roy F. , Ellen Bratslavsky , Cartin Finkenauer , and Kathleen D. Vohs ( 2001 ) , “ Bad Is Stronger than Good , ” Review of General Psychology , 5 ( 4 ) , 323–70 .
+Berger , Jonah and Chip Heath ( 2007 ) , “ When Consumers Diverge from Others : Identity Signaling and Product Domains , ” Journal of Consumer Research , 34 ( 2 ) , 121–34 .
+Bruner , Jerome S. ( 1990 ) , Acts of Meaning .
+Cambridge , MA : Harvard University Press .
+Butler , John K. ( 1991 ) , “ Toward Understanding and Measuring Conditions of Trust : Evolution of a Conditions of Trust Inven- tory , ” Journal of Management , 17 ( 3 ) , 643–63 .
+Caspi , Amer and Paul Gorsky ( 2006 ) , “ Online Deception : Prevalence , Motivation , and Emotion , ” CyberPsychology and Behavior , 9 ( 1 ) , 54–59 .
+Chen , Xiao-Ping , Xin Yao , and Suresh Kotha ( 2009 ) , “ Passion and Preparedness in Entrepreneurs ’ Business Plan Presenta- tions : A Persuasion Analysis of Venture Capitalists ’ Funding Decisions , ” Academy of Management Journal , 52 ( 1 ) , 199–214 .
+Cialdini , Robert B. and Melanie R. Trost ( 1998 ) , “ Social Influ- ence : Social Norms , Conformity , and Compliance , ” in The Handbook of Social Psychology , 4th ed. , Daniel T. Gilbert , Susan T. Fiske , and Gardner Lindzey , eds .
+Boston : McGraw- Hill , 151–92 .
+Cox , Donald F. and Stuart U .
+Rich ( 1964 ) , “ Perceived Risk and Consumer Decision-Making : The Case of Telephone Shop- ping , ” Journal of Marketing Research , 1 ( November ) , 32–39 .
+Role of Narratives in Peer-to-Peer Lending Decisions S149 Cramton , Catherine Durnell ( 2001 ) , “ The Mutual Knowledge Problem and Its Consequences for Dispersed Collaboration , ” Organization Science , 12 ( 3 ) , 346–71 .
+Dawes , Robyn M. and Bernard Corrigan ( 1974 ) , “ Linear Models in Decision Making , ” Psychological Bulletin , 81 ( 2 ) , 95–106 .
+Duarte , Jefferson , Stephen Siegel , and Lance Young ( 2009 ) , “ Trust and Credit , ” working paper , Jones Graduate School of Business , Rice University .
+Farrell , Joseph and Matthew Rabin ( 1996 ) , “ Cheap Talk , ” Journal of Economic Perspectives , 10 ( 3 ) , 103–118 .
+Feldman , Amy ( 2009 ) , “ Peer-to-Peer Lending for Banks , Too ? ” BusinessWeek , ( April 27 ) , [ available at http : //www.business -week.com/bwdaily/dnflash/content/apr2009/db20090427_292067 .htm ] .
+Friestad , Marian and Peter Wright ( 1994 ) , “ The Persua- sion Knowledge Model : How People Cope with Persuasion Attempts , ” Journal of Consumer Research , 21 ( 1 ) , 1–31 .
+Galak , Jeff , Deborah Small , and Andrew T. Stephen ( 2011 ) , “ Micro-Finance Decision Making : A Field Study of Prosocial Lending , ” Journal of Marketing Research , 48 ( Special Issue ) , S130–S137 .
+Gergen , Kenneth J. and Mary K. Gergen ( 1997 ) , “ Narratives of the Self , ” in Memory , Identity , Community : The Idea of Nar- rative in the Human Sciences , Lewis P. Hinchman and Sandra Hinchman , eds .
+Albany : State University of New York , 161–84 .
+Gilbert , Daniel T. , Patrick S. Malone ( 1995 ) , “ The Correspon- dence Bias , ” Psychological Bulletin , 117 ( 1 ) , 21–38 .
+Goffman , Erving ( 1959 ) , The Presentation of Self in Everyday Life .
+New York : Doubleday .
+Herzenstein , Michal , Utpal M. Dholakia , and Rick L. Andrews ( 2011 ) , “ Strategic Herding Behavior in Peer-to-Peer Online Loan Auctions , ” Journal of Interactive Marketing , 25 ( 1 ) , 27–36 .
+Hoffman , Robert R. and J. Frank Yates ( 2005 ) , “ Decision Making , ” IEEE Intelligent Systems , 20 ( 4 ) , 76–83 .
+Landis , J. Richard and Gary G. Koch ( 1977 ) , “ The Measure- ment of Observer Agreement for Categorical Data , ” Biometrics , 33 ( 1 ) , 159–74 .
+Leary , M. and R. Kowalski ( 1990 ) , “ Impression Management : A Literature Review and a Two-Component Model , ” Psycho- logical Bulletin , 107 ( 1 ) , 34–47 .
+Levy , Sidney J .
+( 1981 ) , “ Interpreting Consumer Mythology : A Structural Approach to Consumer Behavior , ” Journal of Mar- keting , 45 ( Summer ) , 49–62 .
+Martens , Martin L. , Jennifer E. Jennings , and P. Devereaux Jennings ( 2007 ) , “ Do the Stories They Tell Get Them the Money They Need ?
+The Role of Entrepreneurial Narratives in Resource Acquisition , ” Academy of Management Journal , 50 ( 5 ) , 1107–32 .
+Mayer , Roger C. , James H. Davis , and F. David Schoorman ( 1995 ) , “ An Integrative Model of Organizational Trust , ” Academy of Management Review , 20 ( 3 ) , 709–734 .
+Michels , Jeremy ( 2011 ) , “ Do Unverifiable Disclosures Matter ?
+Evidence from Peer-to-Peer Lending , ” working paper , Univer- sity of Colorado .
+Miles , Matthew B. and A. Michael Huberman ( 1994 ) , Qualita- tive Data Analysis : An Expanded Sourcebook , 2d ed .
+Thousand Oaks , CA : Sage Publications .
+Newall , Susan and Jacky Swan ( 2000 ) , “ Trust and Inter- organizational Networking , ” Human Relations , 53 ( 10 ) , 1287–328 .
+Osborne , Randall E. and Daniel T. Gilbert ( 1992 ) , “ The Preoc- cupational Hazards of Social Life , ” Journal of Personality and Social Psychology , 62 ( 2 ) , 219–28 .
+Petty , Richard and Duane T. Wegener ( 1998 ) , “ Matching Versus Mismatching Attitude Functions : Implications for Scrutiny of Persuasive Messages , ” Personality and Social Psychology Bul- letin , 24 ( 3 ) , 227–40 .
+Pratt , Michael G. , Kevin W. Rockmann , and Jeffrey B. Kaufmann ( 2006 ) , “ Constructing Professional Identity : The Role of Work and Identity Learning Cycles in the Customization of Identity among Medical Residents , ” Academy of Management Journal , 49 ( 2 ) , 235–62 .
+Riessman , Catherine Kohler ( 1993 ) , Narrative Analysis .
+Newbury Park , CA : Sage Publications .
+Rosenfeld , Paul , Robert A. Giacalone , and Catherine A. Riordan ( 1995 ) , Impression Management in Organizations .
+London : Routledge .
+Ryan , Joe , Katya Reuk , and Charles Wang ( 2007 ) , “ To Fund or Not to Fund : Determinants of Loan Fundability in the Prosper.com Marketplace , ” working paper , Graduate School of Business , Stanford University .
+Schau , Hope Jensen and Mary C. Gilly ( 2003 ) , “ We Are What We Post ?
+Self-Presentation in Personal Web Space , ” Journal of Consumer Research , 30 ( 3 ) , 385–404 .
+Schlenker , Barru R. and Michael F. Weigold ( 1992 ) , “ Interper- sonal Processes Involving Impression Regulation and Manage- ment , ” Annual Review of Psychology , 43 , 133–68 .
+Shafir , Eldar , Itamar Simonson , and Amos Tversky ( 1993 ) , “ Reason-Based Choice , ” Cognition , 49 ( 1–2 ) , 11–36 .
+Sonenshein , Scott ( 2010 ) , “ We ’ re Changing or Are We ?
+Untan- gling the Role of Progressive , Regressive and Stability Nar- ratives during Strategic Change Implementation , ” Academy of Management Journal , 53 ( 3 ) , 477–512 .
+Thompson , Craig J .
+( 1996 ) , “ Caring Consumers : Gendered Con- sumption , Meanings and the Juggling Lifestyle , ” Journal of Consumer Research , 22 ( 4 ) , 388–407 .
+Warren , Elizabeth and Amelia Warren Tyagi ( 2003 ) , The Two Income Trap : Why Middle-Class Mothers and Fathers Are Going Broke .
+New York : Basic Books .
+Weaver , Gary R. and Bradley R. Agle ( 2002 ) , “ Religiosity and Ethical Behavior in Organizations : A Symbolic Interaction- ist Perspective , ” Academy of Management Review , 27 ( 1 ) , 77–97 .
+Weiss , Allen M. , Nicholas H. Lurie , and Deborah J. MacInnis ( 2008 ) , “ Listening to Strangers : Where Responses Are Valu- able , How Valuable Are They and Why ? ” Journal of Marketing Research , 45 ( August ) , 425–36 .
+Witt , L.A. , K. Michele Kacmar , Dawn S. Carlson , and Suzanne Zivnuska ( 2002 ) , “ Interactive Effects of Personality and Organi- zational Politics on Contextual Performance , ” Journal of Orga- nizational Behavior , 23 ( 8 ) , 911–26 .
+Wong , Nancy and Tracey King ( 2008 ) , “ The Cultural Construc- tion of Risk Understanding through Illness Narratives , ” Journal of Consumer Research , 34 ( 5 ) , 579–94 .
+Woolcock , Michael J.V .
+( 1999 ) , “ Learning from Failures in Micro- finance : What Unsuccessful Cases Tell Us About How Group- Based Programs Work , ” American Journal of Economics and Sociology , 58 ( 1 ) , 17–42 .
+1 Tell me a good story and I may lend you my money : The role of narratives in peer-to-peer lending decisions Michal Herzenstein , Scott Sonenshein , Utpal M. Dholakia WEB APPENDIX 2 Table WA-1 Loan performance as a function of the number of identities ( H2c ) .
+Late is the reference category SE 2 ( 1 ) p SE 2 ( 1 ) p SE 2 ( 1 ) p Intercept 0.60 1.33 0.20 0.65 3.86 1.23 9.81 0.00 3.83 1.29 8.85 0.00 Number of identities 0.29 0.17 2.98 0.08 -0.31 0.16 3.73 0.053 -0.32 0.17 3.67 0.054 Requested loan amount ( thousands ) 0.05 0.04 1.61 0.20 -0.04 0.04 1.43 0.23 -0.08 0.04 5.23 0.02 Initial interest rate 2.52 4.77 0.28 0.60 -9.50 4.43 4.59 0.03 -12.63 4.66 7.35 0.01 AA 0.68 1.38 0.24 0.62 1.77 1.28 1.90 0.17 3.02 1.31 5.32 0.02 A -0.60 0.97 0.39 0.53 0.31 0.87 0.13 0.72 0.81 0.91 0.79 0.37 B -0.20 0.79 0.06 0.80 0.17 0.73 0.05 0.82 0.54 0.77 0.48 0.49 C -0.36 0.63 0.33 0.57 0.24 0.60 0.16 0.69 0.62 0.64 0.92 0.34 D 0.37 0.61 0.37 0.54 0.70 0.59 1.41 0.24 1.20 0.63 3.59 0.06 E 0.22 0.51 0.18 0.67 0.69 0.50 1.90 0.17 0.66 0.57 1.34 0.25 Male -0.98 0.57 2.92 0.09 -0.72 0.54 1.74 0.19 -0.38 0.56 0.45 0.50 Female -1.69 0.57 8.77 0.00 -0.96 0.54 3.17 0.08 -1.38 0.57 5.88 0.02 Married 0.22 0.47 0.22 0.64 -0.37 0.43 0.72 0.40 -0.35 0.46 0.58 0.44 Divorced -0.27 0.61 0.20 0.66 -0.95 0.59 2.61 0.11 -1.53 0.71 4.64 0.03 Single 0.95 0.72 1.74 0.19 0.34 0.71 0.24 0.63 0.47 0.74 0.40 0.53 Engaged 0.24 0.89 0.07 0.79 0.14 0.82 0.03 0.86 -1.08 0.93 1.33 0.25 Caucasian -0.03 0.41 0.01 0.94 0.27 0.38 0.50 0.48 0.56 0.40 1.94 0.16 African American -0.07 0.57 0.02 0.90 -0.94 0.60 2.46 0.12 0.30 0.62 0.23 0.63 Hispanic -1.98 1.22 2.66 0.10 -1.12 0.87 1.67 0.20 -1.73 1.09 2.54 0.11 Children 0.07 0.38 0.03 0.86 -0.03 0.36 0.01 0.93 -0.35 0.39 0.79 0.37 Reference categories for the predictors : for gender it is “ no gender ” , for marital status it is “ no marital status or widow ” , for race it is “ no race or race other than Caucasian , African American , or Hispanic ” , for credit grade it is HR .
+Default Current Paid 3 Table WA-2 .
+Loan performance as a function of identities ( ERQ2 ) .
+Paid is the reference category SE 2 ( 1 ) p SE 2 ( 1 ) P SE 2 ( 1 ) p Intercept -3.29 0.91 12.92 0.00 -3.93 1.30 9.15 0.00 0.04 0.68 0.00 0.96 Trustworthy -0.32 0.28 1.35 0.24 -0.55 0.37 2.16 0.14 -0.50 0.21 5.51 0.02 Successful -0.43 0.31 1.92 0.17 -0.10 0.43 0.06 0.81 -0.38 0.25 2.41 0.12 Economic Hardship 0.90 0.30 9.15 0.00 0.69 0.39 3.10 0.08 0.66 0.26 6.54 0.01 Hardworking 0.13 0.28 0.21 0.64 -0.45 0.41 1.16 0.28 0.18 0.23 0.60 0.44 Moral -0.53 0.35 2.37 0.12 -0.62 0.50 1.54 0.21 0.19 0.27 0.53 0.47 Religious 0.49 0.52 0.88 0.35 0.01 0.76 0.00 0.99 0.43 0.47 0.86 0.35 Requested loan amount ( thousands ) 0.14 0.03 26.75 0.00 0.08 0.04 4.65 0.03 0.05 0.02 4.86 0.03 Initial interest rate 15.77 3.34 22.34 0.00 12.79 4.70 7.40 0.01 3.83 2.56 2.24 0.13 AA -2.17 0.77 7.96 0.00 -2.89 1.32 4.79 0.03 -1.00 0.52 3.62 0.06 A -1.17 0.70 2.80 0.09 -0.60 0.92 0.43 0.51 -0.22 0.50 0.20 0.66 B -0.65 0.58 1.26 0.26 -0.45 0.78 0.33 0.56 -0.26 0.46 0.31 0.58 C -0.88 0.49 3.18 0.07 -0.54 0.65 0.70 0.40 -0.26 0.42 0.38 0.54 D -0.87 0.45 3.82 0.05 -1.23 0.64 3.74 0.05 -0.53 0.40 1.72 0.19 E -0.53 0.45 1.37 0.24 -0.73 0.58 1.59 0.21 -0.04 0.43 0.01 0.92 Male -0.68 0.37 3.40 0.07 0.31 0.56 0.30 0.59 -0.39 0.28 1.89 0.17 Female -0.48 0.41 1.42 0.23 1.29 0.58 4.93 0.03 0.23 0.32 0.54 0.46 Married 0.51 0.35 2.11 0.15 0.29 0.46 0.40 0.53 -0.05 0.27 0.03 0.86 Divorced 0.88 0.65 1.86 0.17 1.16 0.72 2.57 0.11 0.38 0.58 0.42 0.52 Engaged 0.38 0.48 0.61 0.43 -0.53 0.75 0.49 0.49 -0.23 0.43 0.28 0.60 Single 1.43 0.72 3.91 0.05 1.25 0.94 1.76 0.18 1.26 0.60 4.43 0.04 Caucasian -0.54 0.30 3.10 0.08 -0.51 0.41 1.57 0.21 -0.25 0.24 1.11 0.29 African American -0.31 0.51 0.37 0.54 -0.14 0.62 0.05 0.83 -1.28 0.52 6.13 0.01 Hispanic -0.06 1.37 0.00 0.96 1.97 1.10 3.22 0.07 0.84 0.88 0.91 0.34 Children 0.34 0.30 1.24 0.26 0.30 0.40 0.59 0.44 0.23 0.25 0.81 0.37 Reference categories for the predictors : for identities it is “ no identities ” , for gender it is “ no gender ” , for marital status it is “ no marital status or widow ” , for race it is “ no race or race other than Caucasian , African America , or Hispanic ” , for credit grade it is HR .
+Default Late Current Figure W Distribut 0 50 100 150 200 250 300 350 400 450 500 N um be ro fl is tin gs A-1 ion of loan f 0 unding perc 0 49 % 50 99 % ent 10 0 14 9 % 15 0 19 9 % 20 0 24 9 % 25 0 29 9 % Percent fund 25 0 29 9 % 30 0 34 9 % ed 35 0 39 9 % 40 0 44 9 % 45 0 49 9 % ov er 50 0 % 4 ov er 50 0 % Figure W Distribut 50 100 150 200 250 300 N um be ro fl is tin gs A-2 .
+ion of perce 0 5 % nt reduction 5 10 % 10 in interest r 15 % 15 20 Percent red ate ( funded % 20 25 % uction in the f listings only 25 30 % inal interest r ) 30 35 % 35 ate 40 % over 40 5 % Copyright of Journal of Marketing Research ( JMR ) is the property of American Marketing Association and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder 's express written permission .
+However , users may print , download , or email articles for individual use .

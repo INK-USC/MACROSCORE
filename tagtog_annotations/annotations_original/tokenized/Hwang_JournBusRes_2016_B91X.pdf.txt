@@ -1,0 +1,440 @@
+Hwang_JournBusRes_2016_B91X.pdf
+aGIjTmHK2rvQgem2caDdkDrLTJv4-Hwang_JournBusRes_2016_B91X.pdf.plain.html
+
+Journal of Business Research 69 ( 2016 ) 3731–3739 Contents lists available at ScienceDirect Journal of Business ResearchAntecedents to loyalty point redemption : Implications for customer equity management☆Joon Ho Hwang , Jaiho Chung , Jae Wook Kim ⁎ , Dongwon Lee , Weon Sang Yoo Korea University Business School☆ The authors thank SK Planet for its data support .
+The Chen for his comments on an earlier version of the paper ⁎ Corresponding author .
+E-mail addresses : joonhwang @ korea.ac.kr ( J.H .
+Hwang ( J. Chung ) , jaewook @ korea.ac.kr ( J.W .
+Kim ) , mislee @ kore wyoo @ korea.ac.kr ( W.S .
+Yoo ) .
+http : //dx.doi.org/10.1016/j.jbusres.2015.12.065 0148-2963/© 2016 Elsevier Inc. All rights reserved.a b s t r a c ta r t i c l e i n f oArticle history : Received 1 September 2014 Received in revised form 1 September 2015 Accepted 1 December 2015 Available online 29 April 2016This study examines the determinants of member customers ' decision to redeem versus accumulate loyalty pro- gram ( LP ) points by focusing on the effects of the different transaction channels ( online versus offline ) and the demographic information of member customers .
+This study finds that transactions that occur through online channels and those made by younger customers demonstrate a greater tendency of redeeming LP points as opposed to accumulating them .
+This study also finds that online channels show a moderating role by mitigating the demographic effects onmember customers ' point redemption behavior .
+These findings allow LP providers to predict future LP point balances by analyzing their main transaction channels and the demographic profiles of member customers .
+© 2016 Elsevier Inc. All rights reserved.Keywords : Customer equity Demographic characteristics Loyalty program Online channel Point redemption1 .
+Introduction Customer equity is critical to a firm 's long-term success as customer equity is certain to be the most important antecedent of the long-term value of the firm ( Kim , Park , Kim , Aiello , & Donvito , 2012 ) .
+Firms try to optimize customer equity by retaining existing customers or attracting new customers ( Kim , Ko , Lee , Mattila , & Kim , 2014 ; Sun , Kim , & Kim , 2014 ) .
+One of most effective tools for customer equity management is a loyalty program ( LP ) , which is a long-term marketing tool that re- wards customers ' repetitive purchases to enhance their loyalty and boost firms ' profitability ( Zhanga , Ko , & Kim , 2010 ) .
+Under LPs , member customers are entitled to either discounts on current purchases through the redemption of LP points or the allotment of LP points for future pur- chases through the accumulation of LP points .
+Running independent LPs entails highfixed costs .
+Hence , manyprac- titioners shift their focus to partnership loyalty programs ( PLPs ) , which function as a platform throughwhich member companies share .
+Unlike themembers of independent LPs , themember customers of PLPs can re- deemor accumulate PLP points at all member stores .
+Representative ex- amples of PLPs include Air Miles in Canada , T-Point in Japan , Payback in Germany , Nectar in the United Kingdom , and OK Cashbag in Korea ( O'Brien & Jones , 1995 ) .authors thank Haipeng ( Allan ) .
+) , jhochung @ korea.ac.kr a.ac.kr ( D. Lee ) , Redemption versus accumulation is the central decision that LP/PLP member customersmake , and understanding the point redemption be- havior of member customers is critical for the success of LPs/PLPs be- cause the redemption of LP/PLP points implies two contrasting effects on LP/PLP providers .
+On one hand , the redemption of LP/PLP points sug- gests thatmember customers are utilizing the benefits of theirmember- ship .
+Such cases could result in the long-term success of LPs/PLPs through enhanced customer loyalty .
+On the other hand , most LP/PLP providers recognize membership point balances as a liability and retain a certain portion of such balances as an allowance for debts .
+In this re- spect , substantial and unpredictable redemptions made by member customers can increase the costs for LP/PLP providers .
+Thus , maintain- ing a desirablemembership point balance by predicting the redemption and accumulation patterns of member customers is a key to the success of LPs and PLPs .
+Although understanding the mechanism underlying member cus- tomers ' decision to redeem versus accumulate LP/PLP points is essential for the success of LP/PLP providers , this issue has received scant atten- tion in prior literature .
+For instance , the existing literature on LPmostly focuses on the impact of LP on ( 1 ) customer loyalty , such as behavioral loyalty ( Meyer-Waarden , 2007 ; Noble , Esmark , & Noble , 2014 ) and atti- tudinal loyalty ( Gomez , Arranz , & Cillan , 2006 ; Meyer-Waarden & Benavent , 2006 ) ; and on ( 2 ) the financial performance of firms ( Lee , Capella , Taylor , Luo , & Gabler , 2014 ; Taylor & Neslin , 2005 ) .
+Although not directly examining LP/PLP point redemption decisions , the previous literature on coupon redemption behavior is relevant to member customers ' decision to redeem versus accumulate LP/PLP points in the sense that both coupons and LP/PLP points are used as a way to promote sales .
+These studies investigate the determinants 3732 J.H .
+Hwang et al .
+/ Journal of Business Research 69 ( 2016 ) 3731–3739of consumers ' coupon redemption behavior with a focus on the demo- graphic ( Chiou-Wei & Inman , 2008 ; Kwon & Kwon , 2007 ; Levedahl , 1988 ) , socioeconomic ( Demoulin & Zidda , 2009 ) , and psychological ( Bawa & Shoemaker , 1987 ; Lichtenstein , Netemeyer , & Burton , 1990 ) drivers of coupon redemption .
+In particular , demographic characteris- tics have been investigated mainly for profiling purposes in this line of literature .
+This study fills the gap in the literature by investigating the determi- nants of the point redemption behavior of LP/PLPmember customers by focusing on the type of transaction channel ( i.e. , online versus offline ) and demographic variables ( e.g. , age , gender , and income ) .
+This study is based on customer-level demographic and transaction data on the OK Cashbag ( hereafter referred to as OCB ) program , a major PLP in Korea .
+OCB member customers ( hereafter referred to as member cus- tomers ) are entitled to receive points that are determined as afixed por- tion of their purchase amounts from an OCB affiliate member stores ( hereafter referred to asmember stores ) .
+Amember customerwhopur- chases at a member store can simply accumulate or redeem points .
+An interesting characteristic of the OCB program is that both online and offline stores aremembers of this program , thus enabling us to compare member customers ' point redemption behavior between online and offline transaction channels .
+By contrast , previous studies on coupon re- demption behavior focus on coupon redemption made either in an on- line ( Chiou-Wei & Inman , 2008 ) or an offline setting ( Kwon & Kwon , 2007 ) .
+This study also examines how the type of transaction channel and demographic variables both independently and jointly determine the accumulation versus redemption decision of member customers .
+Using both binary logit and group logit models , this study finds that member customers are more likely to redeem LP points through online channels than through offline channels .
+This study also finds that youn- ger member customers demonstrate a greater tendency to redeem points rather than accumulate them .
+Finally , this study finds that the online channel mitigates the effect of the demographic information of member customers .
+These findings carry managerial implications in three major aspects .
+First , LP providers can strategically choose their main channel on the basis of the finding that member customers are more likely to redeem LP points through online channels than through offline channels .
+Sec- ond , member customers have different propensities to redeemLPpoints depending on their demographic characteristics ; hence , LP providers should take differentiated approaches to improve the effectiveness of their respective programs for different demographic groups .
+Finally , findings on the interaction effect in this study suggest that LP providers can proactively control the impact of the demographic characteristics of their member customers by changing the main transaction channel of their LPs .
+2 .
+Theoretical foundations and hypotheses This section builds hypotheses on how the type of transaction chan- nel and demographic variables shape the accumulation versus redemp- tion decision ofmember customers .
+Given the limited prior literature on the determinants of the decision to spend LP points , this research draws mainly upon previous studies on the drivers of coupon redemption and deal proneness in constructing the hypotheses .
+This analogy is used based on the similarity between coupons and LP points in that they are both used as a way to promote sales .
+2.1 .
+Online versus offline channels Asmember customer can redeem OCB points in both offline and on- line channels , the OCB program provides a unique empirical context in which one can compare the propensities to redeem points under differ- ent transaction channels .
+Relationships are tightened between retailers and consumers in both online and offline retail environments ( Chae , Ko , & Han , 2015 ; Ortinau , Babin , & Chebat , 2013 ) .
+This study focuses on theease of redemption and the accessibility of information in building the hypothesis on the effect of channel type on the propensity to redeem LP points .
+Since coupons and LP points are similarways of promoting sales , rel- evant insights and implications about LP point redemption behavior can be obtained from the customer behavior associated with coupon re- demption and deal proneness .
+Previous studies on sales promotions that use coupons indicate that the increased inconveniences of visiting offline stores , as reflected in travel distance , lower coupon utilization ( Chiou-Wei , 2004 ; Chiou-Wei & Inman , 2008 ; Demoulin & Zidda , 2009 ) .
+This finding implies that an online setting of LP would provide a more direct and convenient setting for consumers to redeem points compared with an offline setting .
+In addition , Kwong , Soman , and Ho ( 2011 ) report that consumers are more likely to redeem than accumu- late LP points when they can easily access information on the benefits they can enjoy through redemption .
+An online channel facilitates an effective infrastructure and user-friendly interface for enhancing cus- tomer expertise in efficient shopping by providing various functions and information in real time ( Chiou-Wei & Inman , 2008 ; Strähle , 2013 ) .
+Promotion redemption in an offline channel is lower than that in an online channel ( Zhang & Wedel , 2009 ) .
+Therefore , LPmember cus- tomers are more likely to redeem points in an online setting than in an offline setting , given that redeeming and recognizing the benefits of re- demption are easier in the former than in the latter .
+Hypothesis 1 : The propensity to redeem points is higher in online transactions than in offline transactions .
+2.2 .
+Income This study considers how the income level of LP member customers shapes their propensity to redeem LP points .
+Numerous studies on pro- motions report a positive relationship between coupon proneness and the income of customers ( Bawa & Shoemaker , 1987 ; Kwon & Kwon , 2007 ; Levedahl , 1988 ) .
+Regarding this positive relationship , a stream of literature explains that shoppers with high income tend to purchase expensive products that offer extensive deal opportunities and are thus likely to take advantage of such opportunities ( Levedahl , 1988 ) .
+An al- ternative explanation is that high-income consumers are highly effi- cient shoppers who possess broad knowledge and great ability to collect , process , and organize market information ( Kwon & Kwon , 2007 ; Levedahl , 1988 ) .
+In the retail environment , the goal of shopping is not only to acquire the right products but also to find the right prod- ucts with better deals .
+Therefore , wealthy customers equipped with high levels of such knowledge are able to plan and utilize deal opportu- nities .
+Hypothesis 2 : The propensity to redeempoints is higher for high- income member customers than for low-income member customers .
+2.3 .
+Age Age has a significant influence on consumer behavior , with older consumers displaying preferences that are different from those of youn- ger consumers ( Fay , 1993 ) .
+Therefore , this study also hypothesizes the relationship between the age of LP member customers and the propen- sity to redeem .
+Conventional wisdom suggests that young people are readily exposed to new technologies and trends through their early adopter peers .
+They are thus able to become more comfortable with new products or promotions .
+Venkatesh and Agarwal ( 2006 ) find that the ease of use is more important to older consumers than to younger ones .
+The previous literature examines the relationship between age and the acceptance of a new promotional channel or method ( Chiou-Wei & Inman , 2008 ; Demoulin & Zidda , 2009 ) .
+Demoulin and Zidda ( 2009 ) argue that customers ' perceived complexity of a new loy- alty card negatively influences their likelihood to adopt the new loyalty card .
+The OCB program is a PLP , which is a relatively new type of LP .
+Its members could perceive PLP to be rather complicated because of its ex- tensive alliance network .
+Therefore , for members to fully utilize this 3733J.H .
+Hwang et al .
+/ Journal of Business Research 69 ( 2016 ) 3731–3739new and complicated LP , they should have intimate knowledge about its structure and benefits .
+Younger member customers are generally superior in this regard and can thus comfortably make redemptions .
+Hypothesis 3 : The propensity to redeem points is higher for younger member customers than for older member customers .
+2.4 .
+Gender Gender also plays a crucial role in consumption decision , with women and men showing different behaviors ( Bakewell , 2006 ; Kim & Lee , 2015 ) .
+Past studies report that women are more deal-prone than men ( Kwon & Kwon , 2007 ; Leeflang , Spring , Doorn , & Wansbeek , 2013 ) .
+In addition , making household purchases is traditionally consid- ered a responsibility of women , especially in the Confucianism-based society of Korea ( Park , Han , & Cho , 1995 ) .
+Therefore , women tend to de- velop experience and knowledge for efficient consumption ( Collins , 1992 ; Park , Shin , & Ju , 2014 ) .
+Kwon and Kwon ( 2007 ) also argue that compared with men , women are more socialized to shop and accord- ingly develop more experiences and knowhow .
+Regardless of their per- sonal interests or abilities , women tend to develop expertise as good shoppers , and they are highly likely to leverage deal opportunities .
+Hy- pothesis 4 : The propensity to redeem points is higher for female mem- ber customers than for male member customers .
+2.5 .
+Interaction effects As discussed , an online setting of LPprovides a direct and convenient context for customers .
+However , an understanding of the moderating role of the online channel in the relationship between demographic var- iables and the propensity for point redemption is limited .
+The explosive expansion of Internet technologies has enabled customers to easily con- nect to the online channel of a firm from diverse locations ( Venkatesh & Agarwal , 2006 ) .
+Thus , the online channel facilitates an effective infra- structure and user-friendly interface for enhancing customer expertise in shopping ( Chiou-Wei & Inman , 2008 ; Kim , 2015 ) .
+Zhang and Wedel ( 2009 ) report that online customers are more homogeneous in their shopping behavior comparedwith offline customers .
+These studies sug- gest that the online channel creates a homogeneous transaction plat- form for customers , which in turn mitigates the demographic effect on point redemption .
+Hence , this study proposes that the effects of the de- mographic variables of income , age , and gender will be moderated in the online channel environment .
+This study suggests the followinghypotheses to examine themoder- ating effects of the online channel and demographic variables .
+Hypoth- esis 5 : In online transactions , the main effect of each demographic variable ( i.e. , income , age , and gender ) on member customer 's propen- sity to redeem is mitigated .
+Hypothesis 5a : In online transactions , the positive relationship between member customers ' propensity to redeem points and income is mitigated .
+Hypothesis 5b : In online trans- actions , the negative relationship betweenmember customers ' propen- sity to redeem points and age is mitigated .
+Hypothesis 5c : In online transactions , the extent towhich femalemember customers ' propensity to redeem points is greater than that of male member customers is mitigated .
+2.6 .
+Control variables To explain the determinants of the point redemption versus accumulation behaviors of member customers , this study considers the following control variables : member customers ' marital status , res- idential area , available points to redeem at the time of a given transac- tion , and cumulative number of transactions .
+Previous studies widely analyze household size and its proxies as independent variables in the promotion and LP literature ( i.e. , Chiou-Wei , 2004 ) .
+A member customer 's marital status can serve as a proxy for the size of the house- hold in this study .
+However , the informational content related tomembers ' marital status is limited .
+For instance , if a married couple is separately registered as a member , the data keep track of each individual 's shopping behaviors , and nomeans of grouping the couple 's records into the same household are available .
+This study considers marital status only as a control variable because of such limitation in the dataset ( Demoulin & Zidda , 2009 ; Meyer-Waarden & Benavent , 2006 ) .
+A member 's residential area also involves limited information .
+The residential area variable in dataset simply indicates whether a member customer resides in Seoul ( the capital city of Korea ) or outside of Seoul ; thus , its managerial implications for comparisons between metropoli- tan cities and rural communities are limited .
+For this reason , this study considers residential area as another control variable in the model .
+This study also controls for the amount of points available at the time of a certain transaction because the likelihood of point redemption in- creaseswhenmember customers havemore accumulated points during their purchase ( Taylor & Neslin , 2005 ) .
+Finally , this study includes the cumulative number of transactions as a control variable to account for the possibility that a member customer 's point usage pattern changes over time .
+For instance , as member customers gain experience with a specific PLP , they may become well informed of the redemption mech- anism of the PLP .
+3 .
+Research methods 3.1 .
+Data Empirical analysis in this study utilizes the data on theOCB program , amajor PLP currently run by SK Planet .
+The program currently has part- nerships with roughly 50 large-sized offline affiliates , 50,000 mid-/ small-sized offline affiliates , and 150 online affiliate stores .
+Transactions through online channels have no minimum point restriction for re- demption .
+However , for transactions through offline channels , member customers must have at least 5000 OCB points to redeem points .
+For each member store , the maximum amount of points to be accumulated per transaction is 100,000 , and the accumulated points expire in five years .
+Member stores do not pay fixed fees to SK Planet .
+Instead , a negoti- ated fraction of the accumulated points is paid to SK Planet as the deal point .
+Thus , the total amount of fees varies depending on the size of the total accumulated points for the relevant transaction .
+Using this platform allows member stores to curb the fixed costs that they have to incur to construct and run an independent LP .
+Affiliate members can also benefit from increased sales through customer acquisition and retention and consequently strengthen the loyalty of a wide range of customers .
+In addition , the platform facilitates cross-purchases that diffuse customer loyalty throughout the network by providing cus- tomers with strong incentives to redeem points within the network .
+In December 2010 , the authors surveyed 2021 OCB member cus- tomers who consented to the use of their demographic profiles and transaction history stored in the SK Planet database .
+As a reward , the subjects received 500 OCB points or roughly USD 10 .
+The authors employed a stratified sampling approach to obtain a representative sample .
+This study eliminates from the sample those who have not used their OCB membership cards for the past six months from the last day of data collection or those whose demographic profiles are incomplete .
+The final sample consists of 1950 member customers with an average age of 30.7 years .
+The demographic details of the sample customers are reported in Table 1 .
+Among the respondents , 58.3 % are male , 64.8 % are single , and 55.5 % live in the area of Seoul .
+As for themonthly income level , majority of the member customers earn less than USD 5000 .
+One limitation of data used in this study is that the sample is skewed to- wards more male customers than female customers and towards a younger population than national average .
+By comparison , the overall proportion of male in Korea was 49.35 % in 2010 .
+Information was Table 1 Demographic statistics .
+Measure Value Freq .
+% Measure Value Freq .
+% Gender Male 1136 58.3 Marital status Single 1264 64.8 Female 814 41.7 Married 686 35.2 Age 20–29 957 49.1 Residential area Capital city 1082 55.5 30–39 784 40.2 Non-capital city 868 44.5 40–49 209 10.7 Occupation Student 455 23.3 Monthly income level less than $ 3,000 851 43.6 Housewife 173 8.9 $ 3000– $ 4999 659 33.8 Specialist 242 12.4 $ 5000– $ 6999 287 14.7 Self-employed 143 7.3 $ 7000 or more 153 7.9 Full-time worker 881 45.2 Others 56 2.9 Number of samples = 1950 .
+Table 2 Descriptive statistics of transaction data .
+Measure Min .
+Max Mean Std .
+dev .
+Subscription period ( day ) 33 4410 3266.2 1108.7 Number of transactions 1 1318 215.7 167.3 Number of online transactions 0 434 36.7 45.2 Number of accumulations 1 1230 197.6 156.8 Number of redemptions 0 219 18.2 21.4 Number of samples = 1950 ; transaction period : 1/1/2010–1/28/2012 .
+3734 J.H .
+Hwang et al .
+/ Journal of Business Research 69 ( 2016 ) 3731–3739collected from the Korean Statistical Information Service .
+And the aver- age ( median ) age is 40.3 ( 40.8 ) in 2015 .
+As for the income level , the dis- tribution of the monthly income level of sample suggests that sample is on par with the national average , as the average monthly income for an employee was USD 3116 in 2013 .
+Data also provide the transaction details of these 1950 customers be- tween January 1 , 2010 and January 28 , 2012 .
+The average membership period of the customers is 3266 days .
+For each member in the sample , the membership period covers the days between the enrollment date in the OCB membership and the transaction date .
+The average number of transactions for the members in sample is 215.7 .
+Among these trans- actions , 36.7 transactions occur through the online channel .
+Moreover , among the average 215.7 transactions , themember customers accumu- late points in 197.6 transactions and redeem points in 18.2 transactions .
+Table 2 provides the summary statistics of the transaction data.Table 3 Summary statistics of variables .
+Variable Min Max Mean Std .
+dev .
+Redemption 0 1 0.1 0.3 Online 0 1 0.2 0.4 Avail_Points 0 16.4 9.9 1.6 Tr_Order 0.7 8.2 6.3 0.9 Num_Trans 1 1318 215.7 167.3 Num_Redem 0 219 18.2 21.4 Online_Ratio 0 94.7 18.2 16.6 TR_Date 3.5 8.4 8.0 0.5 Income1 0 1 0.4 0.5 Income2 0 1 0.4 0.5 Income3 0 1 0.2 0.4 Income4 0 1 0.1 0.33.2 .
+Defining variables The dependent variable in this analysis , Redemption , takes the value of 1 if amember customer redeems his/her points tomake the purchase and 0 if he/she does not redeem his points and rather accumulates points for the transaction .
+From the total number of transactions of sam- ple , this study excludes offline transactions inwhich the total amount of available points at the time of the transactions is less than 5000 .
+The rea- son for the exclusion is that a member customer can redeem points through an offline vendor when he/she has accumulated at least 5000 points .
+By contrast , online transactions have no such point restrictions .
+The final number of transactions used in this analysis is 420,527 .
+This study uses several variables to explain the determinants of point redemption versus accumulation .
+Online is a binary variable that takes the value of 1 when the transaction occurs in an online store .
+This study also includes the demographic information of the member customers making the transaction .
+These demographic var- iables are based on the survey described in the previous section .
+Income ( j ) is a dummy variable with different categories of the monthly income level of the member customers .
+This variable takes the value of 1 if ( 1 ) Income1 b USD 3000 , and 0 if otherwise ; ( 2 ) USD 3000 ≤ Income2 b USD 5000 , and 0 if otherwise ; ( 3 ) USD 5000 ≤ Income3 b USD 7000 , and 0 if otherwise ; and ( 4 ) Income4 ≥ USD 7000 , and 0 if otherwise.1 Age is a continuous variable that indicates the member customers ' age at the time of their transactions .
+The Gender variable takes the value of 1 when the member consumer involved in the transaction is a male .
+Marital Status is a binary variable with the value of 1 when the1 The survey was conducted using income levels denominated in Korean Won .
+In this paper , approximately 1000 KoreanWon = USD 1.member customer is married at the time of the transaction .
+This study also includes a dummy variable , Capital , which takes the value of 1 if the member customer lives in Seoul or its suburban area .
+Available points are the points available for redemption at the time of the transaction .
+The conjecture is that the likelihood of point redemp- tion increases when the member customer has more points at his/her disposal .
+To account for the right skewness in the distribution of the available points and the transaction order sequence in the sample , this study takes the natural logarithm of these variables .
+Table 3 reports the summary statistics of each variable .
+Table 4 reports the pairwise correlations between the variables used in this analysis .
+The highest absolute value of correlation is 0.56 , which is below the frequently used multicollinearity threshold of 0.6 ( Greene , 2003 ) .
+This study also calculates the variance influence factors ( VIFs ) to detect multicollinearity among the explanatory variables .
+The highest VIF is 1.68 , which suggests that the multicollinearity problem is not evident in data sample .
+3.3 .
+Empirical models The main dependent variable captures the decision to redeem or accumulate LP points , both at the transaction level and at the customer level .
+As for the transaction-level analysis , this study first uses a binary logit model as ameans of representing themember customers ' decision of whether to redeem or accumulate points at the time of their transac- tions .
+The model considers the fixed effect of member customers in order to control the unobserved heterogeneity of the member cus- tomers .
+P Redemption ¼ 1ð Þ ¼ β0 þ β1 Onlineþ β2 ∑Incomej þ β3 Age þ β4 Genderþ β5 Maritalþ β6 Capitalþ β7 Avail Pointsþ β8 Tr Orderþ β9 ∑Customeri þ ε : Age 20 49 31.8 6.2 Gender 0 1 0.5 0.6 Marital 0 1 0.4 0.5 Capital 0 1 0.5 0.6 Table 4 Correlation matrix .
+Avail_Points Tr_Order Online Gender Marital Age Capital Avail_Points 1.00 Tr_Order 0.48⁎⁎⁎ 1.00 Online −0.06⁎⁎⁎ −0.11⁎⁎⁎ 1.00 Gender 0.10⁎⁎⁎ 0.08⁎⁎⁎ −0.01⁎⁎⁎ 1.00 Marital 0.17⁎⁎⁎ 0.33⁎⁎⁎ −0.11⁎⁎⁎ 0.02⁎⁎⁎ 1.00 Age 0.21⁎⁎⁎ 0.41⁎⁎⁎ −0.11⁎⁎⁎ 0.20⁎⁎⁎ 0.56⁎⁎⁎ 1.00 Capital −0.01⁎⁎⁎ 0.01⁎⁎⁎ 0.00⁎⁎ 0.03⁎⁎⁎ −0.02⁎⁎⁎ 0.04⁎⁎⁎ 1.00 Number of observations = 420,527 ; maximum value of VIF 's = 1.68 .
+⁎ 0.10 ⁎⁎ 0.05 .
+⁎⁎⁎ 0.01 .
+3735J.H .
+Hwang et al .
+/ Journal of Business Research 69 ( 2016 ) 3731–3739In customer-level analysis , this study employs a grouped logitmodel that is appropriate for analyzing the data stated in proportions .
+This study defines the probability that a particular member customer i selects redemption in the transaction as P ( Redemption = 1 ) = eZ / ( 1 + eZ ) , where Z is a linear equation of the variables that may affect the member customer 's decision .
+Pi ¼ E Redemptioni ¼ 1jXð Þ ¼ 1 1þ e− β0þβ1Xð Þ ¼ 1 1þ e−Z ¼ eZ 1þ eZ ; where Z = β0 + β1·Online_Ratio + β2·∑Incomej + β3·Age + β4·Gender + β5·Marital + β6·Capital + β7·Tr_Date .
+This study expresses the odds ratio as Pi/ ( 1 − Pi ) , the ratio of the probability that a member customer will choose to redeem points to the probability of accumulating points .
+This study applies the natural log results in the logit Li as follows : Li ¼ In Pi 1‐Pi ¼ Zi ¼ β0 þ β1 Online Ratioi þ β2 X Incomeji þ β3 Agei þ β4 Genderi þβ5 Maritali þ β6 Capitali þ β7 Tr Datei þ εi : 4 .
+Analyses and results 4.1 .
+Determinants of point redemption at the transaction level Table 5 shows the results of the logit regression which explains the point redemption and accumulation behaviors of the member cus- tomers .
+For every model specification , this study finds that the coeffi- cient of the Online channel variable is positive .
+Member customers are more likely to redeem LP points through online channels compared to offline channels ( i.e. , at least e1.5335 = 4.63 times greater according to Model 1 ) .
+This result is consistent with Hypothesis 1 , in that online channels provide a better and more convenient environment for utiliz- ing point redemption .
+The coefficients of the Income category dummy variables are all positive .
+The omitted income category is the lowest level of income ; thus , the result suggests that wealthy people are more likely to consume points .
+This result is consistent with Hypothesis 2 .
+The effect of the Age variable is negative and significant , which im- plies that younger people are more likely to redeem loyalty points in making purchases .
+This result is consistentwith Hypothesis 3 .
+The effect of the Gender variable is positive but statistically insignificant at con- ventional levels .
+Therefore , the result does not support Hypothesis 4 , which argues that femalemember customers aremore likely to redeem points than male member customers .
+In order to examine the moderating role of an online channel on the relationship between the demographic variables and point re- demption behavior , this study interacts each demographic variable with the online channel variable in Models 2 to 4 and include all in- teraction variables in Model 5 .
+Model 2 shows that the coefficients for the interaction variables with the two highest income categories ( Income3 , Income4 ) are negative and statistically significant .
+This re- sult implies that the online environment mitigates the positive effect of the income level on the point redemption tendency ; hence supporting Hypothesis 5a .
+In Model 3 , the coefficient of the interaction term between Online channel and Age is negative but statistically insignificant .
+The intuition behind Hypothesis 5 is based on the idea that the online channel in- duces a more homogeneous user environment which in turn mitigates the age effect on point redemption .
+However , the insignificant coeffi- cient of the interaction variable does not support Hypothesis 5b .
+The negative coefficient of the Age variable itself does suggest that younger people are more likely to redeem points compared with older people in general .
+However , there exists no statistical difference in the effect of age with respect to the online versus offline transaction platform , prob- ably because older customers also experience difficulties in using the online platform .
+Model 4 shows that the coefficient of the interaction term between Online channel andGender is negative .
+This result implies that although no statistical difference between men and women in their point re- demption behavior exists as shown by the insignificant coefficient of the Gender variable in Model 1 , women show a greater likelihood of redeeming points than men in the online platform .
+This result does not support Hypothesis 5c , and rather points towards the opposite rela- tionship in that woman member customers are more likely to redeem points through an online platform , compared with men .
+Model 5 includes all the interaction variables in one logit regression .
+The results in Model 5 are consistent with those of previous models , which include one interaction variable at a time .
+The greater tendency of wealthier people to redeem points is mitigated in online channels , which supports Hypothesis 5a .
+The coefficient of the interaction variable between online channel dummy and the age variable is statistically in- significant , which does not support Hypothesis 5b .
+Finally , Model 5 shows thatwomen aremore likely to redeempointswhen they transact in online channels compared to men , which shows contradicting evidence against Hypothesis 5c.4.2 .
+Determinants of point redemption at the member consumer level In order to further explore the determinants of point redemption , this study also examines an alternative measure of point redemption behavior .
+Although the previous analysis has the natural appeal of utilizing all transactions supplied by the data , the results can be heavily influenced by the characteristics of customers who make frequent transactions .
+Therefore , to augment earlier analysis , this study examines the factors at the member customer level .
+Given this change in the unit of observation , this study replaces the online transaction dummy vari- able with the ratio of the number of online transactions to the total number of transactions .
+This study also omits the measure of available points at the time of the transactions and replaces the transaction order variable with transaction date , which measures the number of days between the first and last transactions of the member customer .
+Table 5 Determinants of point redemption : logit regression ( with fixed effects ) .
+Variable Model 1 Model 2 Model 3 Model 4 Model 5 Online 1.5335⁎⁎⁎ ( 0.0150 ) 1.5703⁎⁎⁎ ( 0.0235 ) 1.5736⁎⁎⁎ ( 0.0776 ) 1.7110⁎⁎⁎ ( 0.0229 ) 1.6513⁎⁎⁎ ( 0.0783 ) Income2 2.1689⁎⁎ ( 1.0787 ) 2.1678⁎⁎ ( 1.0786 ) 2.1678⁎⁎ ( 1.0787 ) 2.1235⁎⁎ ( 1.0786 ) 2.1218⁎⁎ ( 1.0786 ) Income3 2.3647⁎ ( 1.2687 ) 2.3770⁎ ( 1.2687 ) 2.3573⁎ ( 1.2686 ) 2.2743⁎ ( 1.2683 ) 2.3031⁎ ( 1.2685 ) Income4 3.8466⁎ ( 2.4533 ) 3.8392⁎ ( 2.4523 ) 3.8381⁎ ( 2.4530 ) 3.7829⁎ ( 2.4567 ) 3.7945⁎ ( 2.4565 ) Age −0.1091⁎⁎ ( 0.0516 ) −0.1103⁎⁎ ( 0.0517 ) −0.1088⁎⁎ ( 0.0516 ) −0.1102⁎⁎ ( 0.0518 ) −0.1123⁎⁎ ( 0.0519 ) Gender 0.8458 ( 1.3197 ) 0.8293 ( 1.3178 ) 0.8440 ( 1.3191 ) 0.8796 ( 1.3265 ) 0.8679 ( 1.3259 ) Marital −1.7190 ( 1.5484 ) −1.6918 ( 1.5473 ) −1.7152 ( 1.5479 ) −1.6377 ( 1.5562 ) −1.6155 ( 1.5564 ) Capital −0.4898 ( 1.3263 ) −0.4702 ( 1.3272 ) −0.4898 ( 1.3263 ) −0.3675 ( 1.3299 ) −0.3422 ( 1.3310 ) Avail_Points 0.3111⁎⁎⁎ ( 0.0079 ) 0.3111⁎⁎⁎ ( 0.0079 ) 0.3111⁎⁎⁎ ( 0.0079 ) 0.3103⁎⁎⁎ ( 0.0079 ) 0.3103⁎⁎⁎ ( 0.0079 ) Tr_Order 0.2292⁎⁎⁎ ( 0.0275 ) 0.2299⁎⁎⁎ ( 0.0275 ) 0.2296⁎⁎⁎ ( 0.0275 ) 0.2288⁎⁎⁎ ( 0.0275 ) 0.2287⁎⁎⁎ ( 0.0275 ) On_Income2 −0.0193 ( 0.0350 ) −0.0206 ( 0.0348 ) On_Income3 −0.1252⁎⁎⁎ ( 0.0449 ) −0.1341⁎⁎⁎ ( 0.0451 ) On_Income4 −0.1278⁎⁎ ( 0.0566 ) −0.1293⁎⁎ ( 0.0563 ) On_Age −0.0013 ( 0.0025 ) −0.0034 ( 0.0026 ) On_Gender −0.2983⁎⁎⁎ ( 0.0302 ) −0.3062⁎⁎⁎ ( 0.0307 ) Constant −4.2097⁎⁎⁎ ( 1.0013 ) −4.1987⁎⁎⁎ ( 1.0015 ) −4.2191⁎⁎⁎ ( 1.0012 ) −4.2944⁎⁎⁎ ( 1.0011 ) −4.2621⁎⁎⁎ ( 1.0015 ) LL −102,864 −102,678 −102,684 −102,630 −102,622 Pseudo R2 0.1526 0.1526 0.1526 0.1530 0.1531 Dependent variable : redemption .
+Number of observation = 416,669 .
+Robust standard error is in parenthesis .
+⁎ 0.10 .
+⁎⁎ 0.05 .
+⁎⁎⁎ 0.01 .
+3736 J.H .
+Hwang et al .
+/ Journal of Business Research 69 ( 2016 ) 3731–3739This variable controls for the degree of experience in using the loyalty program for each customer .
+Table 6 shows the results of the grouped logit regression of examin- ing the determinants of point redemption at the member customer level .
+The results in Table 6 indicate that , consistent with the result in Table 5 , member customers are more likely to redeem points for online transactions , which support Hypothesis 1 .
+As for the income level , the results in Table 6 indicate thatmember customers in the highest catego- ry of income ( Income4 ) are more likely to redeem points compared to those in the lowest category of income level .
+In Table 5 , results show that member customers who are in the higher levels of income ( In- come2 , Income3 , Income4 ) all show greater point redemption behavior compared to those in the lowest category of income level .
+Collectively , these results suggest that wealthy people are more likely to demon- strate greater point redemption behavior and support Hypothesis 2 .
+As for the Age variable , the coefficient is negative .
+This finding implies that younger customers are more likely to redeem points , which is con- sistent with the result in Table 5 and Hypothesis 3 .
+The result for the Gender variable does not support Hypothesis 4 , which predicts that women are more likely to redeem points compared with men and sug- gests a negative coefficient of the Gender variable in empirical results .
+However , the coefficients are positive and insignificant in Models 1 to 3 , and positive and significant in Models 4 and 5 .
+Models 2 to 5 include the interaction terms between the Online Ratio variable and the demographic variables of interest .
+Model 2 includes interaction variables between the Online Ratio and the In- come category variables .
+The coefficients of the interaction variables are negative for all three higher income level categories and statisti- cally significant for Income2 and Income4 .
+This negative effect of thehigher-income categories with respect to the point redemption be- havior in online channels is consistent with the results in Table 5 and suggests that the online platformmitigates the effect of member customers ' income on their point redemption behavior .
+This result supports Hypothesis 5a .
+Model 3 shows that the coefficient of the interaction variable between the Online Ratio variable and the Age variable is positive .
+Although younger customers are more likely to show greater point redemption behavior compared with older customers ( suggested by the negative coefficient of the Age variable ) , this effect is mitigated in an online platform ( suggested by the positive coefficient of the interac- tion effect between Online Ratio and Age ) .
+The result supports Hypoth- esis 5b .
+The relative size of the coefficients implies that for member customers using an online platform for their transactions , younger customers are still more likely to redeem points compared with older customers .
+Model 4 shows the results of the interaction effect between Online Ratio and Gender .
+The coefficient of this interaction variable is negative , which is consistent with the result of Table 5 .
+The different finding in Table 6 is that for some model specifications ( Models 4 and 5 ) , results show that the coefficient of the Gender variable is positive .
+This result suggests that although male customers show a greater tendency to re- deem points compared to female customers , this effect is mitigated in an online channel .
+Therefore , although the effect of the Gender variable itself does not support Hypothesis 4 , the results of the model with the interaction variable support Hypothesis 5 that the online channel miti- gates the effect of the demographic information of member customers .
+The overall impact of the Gender variable on the proportion of point- redeeming transactions in an online channel is 0.0586–0.0022 = Table 6 Determinants of point redemption : grouped logit regression .
+Variable Model 1 Model 2 Model 3 Model 4 Model 5 Online_Ratio 0.0229⁎⁎⁎ ( 0.0003 ) 0.0251⁎⁎⁎ ( 0.0004 ) 0.0191⁎⁎⁎ ( 0.0016 ) 0.0243⁎⁎⁎ ( 0.0005 ) 0.0205⁎⁎⁎ ( 0.0017 ) Income2 −0.0230⁎ ( 0.0134 ) 0.0765⁎⁎⁎ ( 0.0203 ) −0.0229⁎ ( 0.0134 ) −0.0230⁎ ( 0.0134 ) 0.0890⁎⁎⁎ ( 0.0205 ) Income3 −0.0037 ( 0.0171 ) 0.0091 ( 0.0255 ) −0.0016 ( 0.0171 ) −0.0048 ( 0.0171 ) 0.0170 ( 0.0258 ) Income4 0.0998⁎⁎⁎ ( 0.0213 ) 0.2914⁎⁎⁎ ( 0.0314 ) 0.0995⁎⁎⁎ ( 0.0213 ) 0.1005⁎⁎⁎ ( 0.0213 ) 0.2989⁎⁎⁎ ( 0.0314 ) Age −0.0106⁎⁎⁎ ( 0.0012 ) −0.0105⁎⁎⁎ ( 0.0012 ) −0.0134⁎⁎⁎ ( 0.0016 ) −0.0108⁎⁎⁎ ( 0.0012 ) −0.0152⁎⁎⁎ ( 0.0017 ) Gender 0.0082 ( 0.0117 ) 0.0070 ( 0.0118 ) 0.0109 ( 0.0118 ) 0.0586⁎⁎⁎ ( 0.0179 ) 0.0653⁎⁎⁎ ( 0.0180 ) Marital 0.1086⁎⁎⁎ ( 0.0144 ) 0.1025⁎⁎⁎ ( 0.0144 ) 0.1110⁎⁎⁎ ( 0.0143 ) 0.1056⁎⁎⁎ ( 0.0144 ) 0.1032⁎⁎⁎ ( 0.0144 ) Capital 0.0751⁎⁎⁎ ( 0.0116 ) 0.0703⁎⁎⁎ ( 0.0116 ) 0.0750⁎⁎⁎ ( 0.0116 ) 0.0756⁎⁎⁎ ( 0.0116 ) 0.0702⁎⁎⁎ ( 0.0116 ) Tr_Date 0.1195⁎⁎⁎ ( 0.0164 ) 0.1251⁎⁎⁎ ( 0.0165 ) 0.1195⁎⁎⁎ ( 0.0164 ) 0.1171⁎⁎⁎ ( 0.0164 ) 0.1228⁎⁎⁎ ( 0.0165 ) On_Income2 −0.0043⁎⁎⁎ ( 0.0007 ) −0.0048⁎⁎⁎ ( 0.0007 ) On_Income3 −0.0001 ( 0.0009 ) −0.0003 ( 0.0009 ) On_Income4 −0.0082⁎⁎⁎ ( 0.0010 ) −0.0085⁎⁎⁎ ( 0.0010 ) On_Age 0.0001⁎⁎ ( 0.0001 ) 0.0002⁎⁎⁎ ( 0.0001 ) On_Gender −0.0022⁎⁎⁎ ( 0.0006 ) −0.0024⁎⁎⁎ ( 0.0006 ) Constant −3.5635⁎⁎⁎ ( 0.1290 ) −3.6606⁎⁎⁎ ( 0 .
+1303 ) −3.4790⁎⁎⁎ ( 0.1341 ) −3.5717⁎⁎⁎ ( 0.1290 ) −3.5363⁎⁎⁎ ( 0.1348 ) LL −118,699 −118,658 −118,697 −118,693 −118,644 Pseudo R2 0.0233 0.0236 0.0233 0.0233 0.0237 Dependent variable : ln ( Num_Redem / Num_Trans ) , Number of Observation = 420,672 .
+Robust standard error is in parenthesis .
+⁎ 0.10 .
+⁎⁎ 0.05 .
+⁎⁎⁎ 0.01 .
+3737J.H .
+Hwang et al .
+/ Journal of Business Research 69 ( 2016 ) 3731–37390.0564 according toModel 4 , and 0.0653–0.0024=0.0629 according to Model 5 .
+Therefore , in online channel , female customers are 1.06 ( =e0.0564 according to Model 4 , and e0.0629 according to Model 5 ) times more likely to redeem points on average thanmale customers .
+In summary , this study finds that the overall results are consistent throughout the variousmeasurements of point redemption and various model specifications .
+Table 7 provides a summary of hypotheses with respect to the variables used in the regression.Member customers dem- onstrate a greater tendency to redeem points as opposed to accumulat- ing points when they have a greater proportion of online transactions , which supports Hypothesis 1 .
+As for the demographic characteristics of member customers , wealthier customers and younger customers show a greater tendency to redeem points , which support H2 and H3 , respectively .
+This study does notfind evidence that supports Hypothesis 4 , which predicts that female customers show greater point redemptionTable 7 Determinants of point redemption : summary .
+Variable Expected sign Actual sign in Online + ( Hypothesis 1 ) + Income2 + ( Hypothesis 2 ) + Income3 + ( Hypothesis 2 ) + Income4 + ( Hypothesis 2 ) + Age − ( Hypothesis 3 ) − Gender − ( Hypothesis 4 ) 0 Marital Control variables On_Income2 − ( Hypothesis 5a ) 0 On_Income3 − ( Hypothesis 5a ) − On_Income4 − ( Hypothesis 5a ) − On_Age + ( Hypothesis 3 ) 0 On_Gender + ( Hypothesis 4 ) −behavior compared with male customers .
+Online platforms showmod- erating impact on the point consumption behavior of customers .
+Specif- ically , the online channel mitigates the effects of income ( supportive of H5a ) and to a certain degree , age ( supportive of H5b ) as appearing in Table 6 .
+Finally , in an online platform , women aremore likely to redeem points compared with men .
+5 .
+Conclusion 5.1 .
+Discussion Customer equity is critical to a firm 's long-term success .
+Loyalty pro- grams are one of the most popular marketing strategies for customer equity management .
+Therefore , the successful operation of LPs is a key factor for a firm 's customer equity management .
+As numerousthe logit regression Actual sign in the grouped logit regression + + , − 0 + − 0 ( + in some models ) − 0 − + − 3738 J.H .
+Hwang et al .
+/ Journal of Business Research 69 ( 2016 ) 3731–3739companies adopt LPs to attract new customers and retain existing cus- tomers , the findings of this study can help member stores and LP pro- viders to forecast point redemption activities based on the demographic profiles of their member customers for effective LP and customer equity management .
+Although several previous studies have examined the factors that affect customer behavior towards coupon re- demption ( in which the alternative to usage of coupon is simply non- usage ) , the present work examines if such relationships still hold in sit- uations in which the alternative to redemption is saving points .
+This study performs analyses with a rich set of member customers ' transac- tion data and matching demographic and income information .
+These unique data enable us to conduct an empirical validation both at the transaction and member customer levels .
+The most distinctive feature of the dataset used in this analysis is to provide an appropriate setting for examining how two different platforms ( online versus offline ) affect member customers ' point redemption behavior , both directly and indi- rectly , through its effect on demographic and incomevariables .
+Previous studies have yet to investigate this effect in the context of LP environ- ment ; thus , this research contributes to the literature by filling this gap .
+An important finding of this study is that member customers are more likely to redeem LP points through online channels .
+As most online channels provide an explicit and clear option to pay with LP points at checkout , this interface can induce member customers to use their LP points when making transactions .
+Therefore , stores that prefer to change their member customers ' point redemption be- havior in offline channels can provide an informative interface through which member customers can easily redeem their points .
+For instance , member stores may educate their sales persons or ca- shiers to inform member customers about the amount of available LP points that can be used .
+This study also finds that unlike their older counterparts , younger member customers are more adept at redeeming points and are more likely to redeem points rather than accumulate them .
+This finding im- plies that for an LP heavily populated by younger member customers , the LP provider should be keen on monitoring the aggregate balance of LPpoints because these points could be redeemedquickly bymember customers .
+Another managerial implication of the findings of this study lies in member customers ' income level .
+The finding that member customers with high income are active in redeeming membership points suggests that LPs should take differentiated approaches to improve the effective- ness of the program for different income groups .
+For high-income cus- tomers who are already heavy users of LP points , LP providers should offer effective strategies to strengthen customer loyalty on the basis of their active redemption behavior .
+For low-income members , LP pro- viders may need to exert effort to induce them to redeem program points for the long-term success of the program .
+This study also suggests that if a large proportion of transactions occur through online channels , the previously mentioned demographic impacts of member customers are reduced , possibly because the online environment changes the behavior ofmember customers .
+An important managerial implication of this finding is that LP providers can strategi- cally alter the exogenous impact of the demographic profiles of their member customers by changing the main channels of their respective LPs.5.2 .
+Limitations and future research One limitation of the study is that the survey data are available only at the member customer level and not at the household level .
+Access to household-level data will be useful because ( 1 ) a number of purchases made through the OCB program would be for the use of family members instead of individuals and ( 2 ) one can examine the effects of household income on the point redemption behavior of member customers.Another limitation is that this study is restricted to examining point redemption at the cross-sectional level using the member customer fixed effect .
+With appropriate time-series survey data on the member customers ' demographic and income information , one can enrich this analysis of their decisions regardingpoint redemption versus accumula- tion .
+For instance , one can examine the changes in redemption pattern after member customers get married , when they move into the capital city , and when their income changes .
+Future research can also investigate how the different categories of products and services are associated with the point redemption and saving behaviors of member customers .
+For instance , future studies can examine if point redemption patterns are different between ordi- nary goods versus luxury goods and between utilitarian goods versus hedonic goods.References Bakewell , C. ( 2006 ) .
+Male versus female consumer decision making styles .
+Journal of Business Research , 59 ( 12 ) , 1297–1300 .
+Bawa , K. , & Shoemaker , R. W. ( 1987 ) .
+The coupon-prone consumer : Some findings based on purchase behavior across product classes .
+Journal of Marketing , 51 ( 4 ) , 99–110 .
+Chae , H. , Ko , E. , & Han , J .
+( 2015 ) .
+How do customers ' SNS participation activities impact on customer equity drivers and customer loyalty ?
+Focus on the SNS services of a global SPA brand .
+Journal of Global Scholars of Marketing Science , 25 ( 2 ) , 122–141 .
+Chiou-Wei , S. ( 2004 ) .
+The determinants of direct mail coupon usage revisited : Evidence from count panel data models .
+Agribusiness , 20 ( 2 ) , 189–200 .
+Chiou-Wei , S. , & Inman , J. J .
+( 2008 ) .
+Do shoppers like electronic coupons ?
+A panel data analysis .
+Journal of Retailing , 84 ( 3 ) , 297–307 .
+Collins , R. ( 1992 ) .
+Women and production of status cultures .
+In M. Lamont , & M. Fournier ( Eds .
+) , Cultivating differences : Symbolic boundaries and the making of inequality ( pp .
+213–231 ) .
+Chicago , IL : The University of Chicago Press .
+Demoulin , N. , & Zidda , P. ( 2009 ) .
+Drivers of customers ' adoption and adoption timing of a new loyalty card in the grocery retail market .
+Journal of Retailing , 85 ( 3 ) , 391–405 .
+Fay , W. B .
+( 1993 ) .
+Understanding generation X .
+Marketing Research , 5 , 54–55 .
+Gomez , B. , Arranz , A. , & Cillan , J .
+( 2006 ) .
+The role of loyalty programs in behavioral and affective loyalty .
+Journal of Consumer Marketing , 23 ( 7 ) , 387–396 .
+Greene , W. H. ( 2003 ) .
+Econometric analysis ( 5th ed . ) .
+Englewood Cliffs , NJ : Prentice Hall .
+Kim , J .
+( 2015 ) .
+Sustainability in social brand communities : Influences on customer equity .
+Journal of Global Scholars of Marketing Science , 25 ( 3 ) , 246–258 .
+Kim , J. , & Lee , H. ( 2015 ) .
+Impacts of U.S. affluent consumers ' luxury goods consumption beliefs on repeat purchases of luxury goods : Generational and gender comparison analyses .
+Journal of Global Fashion Marketing , 6 ( 3 ) , 207–221 .
+Kim , N. , Park , J. , Kim , K. H. , Aiello , G. , & Donvito , R. ( 2012 ) .
+A study on measuring and de- fining customer equity of complex shopping malls .
+Journal of Global Fashion Marketing , 3 ( 2 ) , 71–80 .
+Kim , K. , Ko , E. , Lee , M. , Mattila , P. , & Kim , K. ( 2014 ) .
+Fashion collaboration effects on con- sumer response and customer equity in global luxury and SPA brand marketing .
+Journal of Global Scholars of Marketing Science , 24 ( 3 ) , 350–364 .
+Kwon , K. , & Kwon , Y. J .
+( 2007 ) .
+Demographics in sales promotion proneness : A socio-cul- tural approach .
+Advances in Consumer Research , 34 , 288–294 .
+Kwong , J. Y. , Soman , D. , & Ho , K. Y .
+( 2011 ) .
+The role of computational ease on the decision to spend loyalty program points .
+Journal of Consumer Psychology , 21 ( 2 ) , 146–156 .
+Lee , J. J. , Capella , M. L. , Taylor , C. R. , Luo , M. M. , & Gabler , C. B .
+( 2014 ) .
+The financial impact of loyalty programs in the hotel industry : A social exchange perspective .
+Journal of Business Research , 67 ( 10 ) , 2139–2146 .
+Leeflang , P. H. , Spring , P. N. , Doorn , J. V. , & Wansbeek , T. ( 2013 ) .
+Identifying the direct mail-prone consumer .
+Journal of Global Scholars of Marketing Science , 23 ( 2 ) , 175–195 .
+Levedahl , J. W. ( 1988 ) .
+Coupon redeemers : Are they better shoppers ?
+Journal of Consumer Affairs , 22 ( 2 ) , 264–282 .
+Lichtenstein , D. R. , Netemeyer , R. G. , & Burton , S. ( 1990 ) .
+Distinguishing coupon prone- ness from value consciousness : An acquisition transaction utility theory perspective .
+Journal of Marketing , 54 ( 3 ) , 54–67 .
+Meyer-Waarden , L. ( 2007 ) .
+The effects of loyalty programs on customer lifetime duration and share of wallet .
+Journal of Retailing , 83 ( 2 ) , 223–236 .
+Meyer-Waarden , L. , & Benavent , C. ( 2006 ) .
+Grocery retail loyalty program effects : Self-se- lection or purchase behavior change ?
+Journal of the Academy of Marketing Science , 37 ( 3 ) , 345–358 .
+Noble , S. M. , Esmark , C. L. , & Noble , C. H. ( 2014 ) .
+Accumulation versus instant loyalty pro- grams : The influence of controlling policies on customers ' commitments .
+Journal of Business Research , 67 ( 3 ) , 361–368 .
+O'Brien , L. , & Jones , C. ( 1995 ) .
+Do rewards really create loyalty ?
+Harvard Business Review , 73 ( 3 ) , 75–82 .
+Ortinau , D. J. , Babin , B. J. , & Chebat , J .
+( 2013 ) .
+Development of new empirical insights in consumer-retailer relationships within online and offline retail environments : Intro- duction to the special issue .
+Journal of Business Research , 66 ( 7 ) , 795–800 .
+Park , I. , Han , & Cho , L. ( 1995 ) .
+Confucianism and the Korean family .
+Journal of Comparative Family Studies , 26 ( 1 ) , 117–134 .
+Park , M. S. , Shin , J. K. , & Ju , Y .
+( 2014 ) .
+Social networking atmosphere and online retailing .
+Journal of Global Scholars of Marketing Science , 24 ( 1 ) , 89–107 .
+3739J.H .
+Hwang et al .
+/ Journal of Business Research 69 ( 2016 ) 3731–3739Strähle , J .
+( 2013 ) .
+Online fashion shopping : Mystery shopping-based evaluation of online German fashion stores .
+Journal of Global Fashion Marketing , 4 ( 3 ) , 193–210 .
+Sun , Y. , Kim , K. H. , & Kim , J .
+( 2014 ) .
+Examining relationships among sustainable ori- entation , perceived sustainable marketing performance , and customer equity in fast fashion industry .
+Journal of Global Fashion Marketing , 5 ( 1 ) , 74–86 .
+Taylor , G. A. , & Neslin , S. A .
+( 2005 ) .
+The current and future sales impact of a retail frequen- cy reward program .
+Journal of Retailing , 81 ( 4 ) , 293–305.Venkatesh , V. , & Agarwal , R. ( 2006 ) .
+Turning visitors into customers : A usability-centric perspective on purchase behavior in electronic channels .
+Management Science , 52 ( 3 ) , 367–382 .
+Zhang , J. , & Wedel , M. ( 2009 ) .
+The effectiveness of customized promotions in online and offline stores .
+Journal of Marketing Research , 46 ( 2 ) , 190–206 .
+Zhanga , H. , Ko , E. , & Kim , K. H. ( 2010 ) .
+The influences of customer equity drivers on cus- tomer equity and loyalty in the sports shoe industry : Comparing Korea and China .
+Journal of Global Fashion Marketing , 1 ( 2 ) , 110–118 .

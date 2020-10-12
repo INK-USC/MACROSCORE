@@ -1,0 +1,1035 @@
+Seuntjens_JournPerSocPsy_2015_PNPz.pdf
+aGFXxhrRMqHcNdwqkd3Z3RA2ivFC-Seuntjens_JournPerSocPsy_2015_PNPz.pdf.plain.html
+
+Dispositional Greed Terri G. Seuntjens , Marcel Zeelenberg , and Niels van de Ven Tilburg University Seger M. Breugelmans Tilburg University and Higher School of Economics Greed is an important motive : it is seen as both productive ( a source of ambition ; the motor of the economy ) and destructive ( undermining social relationships ; the cause of the late 2000s financial crisis ) .
+However , relatively little is known about what greed is and does .
+This article reports on 5 studies that develop and test the 7-item Dispositional Greed Scale ( DGS ) .
+Study 1 ( including 4 separate samples from 2 different countries , total N 6092 ) provides evidence for the construct and discriminant validity of the DGS in terms of positive correlations with maximization , self-interest , envy , materialism , and impul- siveness , and negative correlations with self-control and life satisfaction .
+Study 2 ( N 290 ) presents further evidence for discriminant validity , finding that the DGS predicts greedy behavioral tendencies over and above materialism .
+Furthermore , the DGS predicts economic behavior : greedy people allocate more money to themselves in dictator games ( Study 3 , N 300 ) and ultimatum games ( Study 4 , N 603 ) , and take more in a resource dilemma ( Study 5 , N 305 ) .
+These findings shed light on what greed is and does , how people differ in greed , and how greed can be measured .
+In addition , they show the importance of greed in economic behavior and provide directions for future studies .
+Keywords : greed , individual differences , economic behavior , experimental games Most people readily recognize instances of greed .
+For example , greedy people are always first in line for food and drinks at a party , repeatedly complain about their salaries ( even after getting a pay-raise ) , and continuously buy more stuff they do not need .
+Common to such observations is that greedy people seem to be dissatisfied with their current state of affairs and that for them enough never seems to be enough .
+On the other hand , in our everyday lives we also encounter many people who seem anything but greedy .
+Such people are satisfied with what they have and who they are .
+They know when to be happy and to stop striving for more .
+In this article , we present the development of an instrument that captures such individual differences in greediness and that predicts greed-induced behaviors .
+We have recently started investigating the psychology of greed , to better understand what it is and what it does ( Seuntjens , Zeelen- berg , Breugelmans , & Van de Ven , 2014 ) .
+Based on this initial research , we constructed a working definition of greed as the tendency to always want more and never being satisfied with what one currently has .
+We observed that there appears to be a shared intuition that some people are greedier than others , and that this disposition is considered to be rather stable .
+Should such individ- ual differences in greed exist , then they should also manifest themselves in greedy behavior .
+This would be particularly inter- esting because greed is an important construct in economic theory and other models of behavior as we explain later .
+Until now , however , there has been only very little empirical research on greed .
+Together , these observations led to the research that we present here , on the development and test of a scale that captures individual differences in greed .
+Below , we briefly review what greed is and how it is thought to influence behavior .
+More specifically , we look at historical per- spectives on greed in philosophy , religion , and economics .
+Next , we propose a psychological theory of greed that is grounded in the idea that greed is dispositional , and that it differs from other , related , dispositions .
+We then turn to the empirical part , where we develop the Dispositional Greed Scale ( DGS ) , and examine its reliability , its discriminant validity , and its predictive validity .
+In the General Discussion , we address how differences in the ten- dency to be greedy relate to other dispositions , as well as to behavioral phenomena in everyday life .
+A Brief History of Greed Greed has been with us since the beginning of time , and through the ages , scholars have written extensively about the topic ( Goldberg , 1994 ; Robertson , 2001 ) .
+Here , we sketch only This article was published Online First February 9 , 2015 .
+Terri G. Seuntjens , Marcel Zeelenberg , and Niels van de Ven , Tilburg Institute for Behavioral Economics Research ( TIBER ) & Department of Social Psychology , Tilburg University ; Seger M. Breugelmans , Tilburg Institute for Behavioral Economics Research ( TIBER ) & Department of Social Psychology , Tilburg University , and International Scientific- Educational Laboratory for Socio-Cultural Research , Higher School of Economics .
+We thank “ Stichting Weet Wat Je Besteedt ” for partially funding this project .
+We also thank CenterData for access to the LISS ( Longitudinal Internet Studies for the Social sciences ) panel .
+Support from the Basic Research Program of the National Research University Higher School of Economics to Seger M. Breugelmans is gratefully acknowledged .
+Correspondence concerning this article should be addressed to Terri G. Seuntjens , Tilburg Institute for Behavioral Economics Research ( TIBER ) & Department of Social Psychology , Tilburg University , PO Box 90153 , 5000LE Tilburg , The Netherlands .
+E-mail : t.g.seuntjens @ tilburguniversity.edu T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+Journal of Personality and Social Psychology © 2015 American Psychological Association 2015 , Vol .
+108 , No .
+6 , 917–933 0022-3514/15/ $ 12.00 http : //dx.doi.org/10.1037/pspp0000031 917 a limited account of these extensive attempts to understand greed , namely those parts relevant for the psychology of greed .
+We refer the reader to Wang and Murnighan ( 2011 ) , Sutherland ( 2014 ) , and Oka and Kuijt ( 2014 ) , for more extensive over- views .
+Although much has been written about greed , very little of the work is empirical .
+Through our research , we hope to start filling this gap .
+Greed has been a topic of discussion for as long as the acqui- sition of wealth and power exists .
+From the earliest ideas about greed , it already becomes apparent that greed can be seen as good and as bad , as a virtue and as a vice ( see also , Sutherland , 2014 ) .
+Thucydides ( 460–395 BCE ) argued that greed is not necessarily negative , because it motivates progress ( Zagorin , 2005 ) , Plato ( 427–347 BCE ) wrote how greed is the cause of war , civil conflict , and immorality and how it is part of human nature ( Balot , 2001 ) , and Aristotle ( 384–322 BCE ) argued that greed is confusion between what we actually need and what we ideally want ( see Wang & Murnighan , 2011 ) .
+Later , Hume ( 1739/2001 ) argued that greed is as a double-edged sword : on the one hand it motivates people to perform better , but on the other hand it has destructive consequences for society .
+Greed has been related to acquisition of wealth , and is seen as productive on the one hand , and as harmful to relationships on the other hand .
+Greed is discussed and condemned in virtually all world reli- gions .
+In Christianity , greed is one of the seven deadly sins .
+Some even argue that it is the matriarch of all sins , with the other sins stemming from greed ( Tickle , 2004 ) .
+However , this negative stance toward greed does not mean that Christianity condemned the acquisition of wealth .
+In the Old Testament , the wealth of Abraham is seen as a blessing from God .
+In the New Testament , however , striving for more wealth is seen as a sin ( Baker , 2006 ) .
+Especially the teachings of Saint Paul shifted the idea of greed as something positive and productive , to greed as a sin or vice .
+Saint Paul saw avarice ( “ greed ” ) as the “ root of all evil. ” He also made the interesting distinction between philargyria , which is the love for money , and pleonexia , which is a general tendency to want more of everything ( Newhauser , 2000 ; see also Tickle , 2004 ) .
+This is consistent with our recent findings that greed applies not only to a desire for money , but to a general desire for more ( Seuntjens et al. , 2014 ) .
+This is also consistent with the ideas of Calvin .
+He believed that life is framed to the will of God , and if one ’ s work is done honest , one should be able to enjoy the perks associated with it .
+If rich people use their wealth and invest in society and others , this benefits the society as a whole .
+Calvin does not necessarily say that greed is good , but he argues that the desire to acquire wealth can also have positive outcomes for society ( Dom- men , 2011 ; Zinbarg , 2001 ) .
+Religions generally have a negative evaluation of greed .
+In Buddhism , greed is one of the three poisons creating bad karma ( Nath , 1998 ) .
+In Hinduism , greed is an obstruction to spiritual development ( Sundararajan , 1989 ) .
+According to Rafiabadi ( 2003 ) , Islam as a religion is highly dependent on rewards from commercial activities and not against the accumulation of wealth .
+The solution for greed in Islam is making generosity and charity obligatory for righteous Muslims ( Oka & Kuijt , 2014 ) .
+Judaism condemns greed because taking more than one ’ s own “ share robs other people of their opportunity to get their due ” ( Bloch , 1984 , p. 154 ) .
+The various religions generally condemn greed because it is representative of a bad personality , and because greedy behavior can be harmful to others .
+This last element—the potential conflict between personal wealth accumulation and the outcomes of others—was central in Adam Smith ’ s thinking ( Smith , 1776/1994 ) that formed the basis of capitalism and current economic theorizing .
+Smith did worry that wealth accumulation in an unlimited form could lead to the rich having advantages and power over the poor , but he also argued that self-interested wealth accumulation is an important force behind economic growth .
+According to Smith , “ it is not from the benevolence of the butcher , the brewer , or the baker , that we expect our dinner , but from their regard to their own interest ” ( Smith , 1776/1994 , p. 15 ) .
+Classical economic theory assumes that people should maximize their own outcomes and that this leads to more growth and development that benefits the prosperity of society as a whole .
+This assumption is referred to as the axiom of greed ( or axiom of maximization ) .
+It holds that “ If A contains more of one good than B , and at least as much as B of all other goods , A will be preferred over B ” ( Lea , Tarpy , & Webley , 1987 , p. 109 ) .
+According to the axiom , people should always want more of a desirable good , and prefer the option that delivers on this desire .
+The idea in economics is that greed is a driving force for economic growth and development ( Greenfeld , 2001 ) , and that society can benefit from greedy individuals .
+If people have a desire to maximize their outcomes , and hence be greedy , this ultimately leads to individuals engaging in activities that benefit society as a whole ( Oka & Kuijt , 2014 ) .
+Greed has been associated with positive economic outcomes such as more employment , wealth , and well-being ( Melleuish , 2009 ) .
+The idea of greed as a driving force is also present in the evolutionary perspective on greed .
+It has been argued that greed promotes self-preservation , and that people living in environments that exhibit scarcity of resources have an evolutionary advantage when feeling the tendency to gain and hoard ( Cassill & Watkins , 2005 ; Robertson , 2001 ) .
+However , greed can also have adverse economic consequences .
+Greed has been related to consumer debts ( Livingstone & Lunt , 1992 ) and to lower stockholder returns ( Haynes , Campbell , & Hitt , 2014 ) .
+Fur- thermore , the news often reports on cases where greed is linked to financial scandals and bankruptcy cases ( Zandi , 2008 ) .
+Brummer ( 2014 ) links greed explicitly to the bad banking practices that led to the late 2000s financial crisis .
+Corporate fraud cases such as the Bernie Madoff scandal and Enron scandal are all partly ascribed to the greed of its top executives .
+According to Levine ( 2005 ) , greed causes people to only focus on their own fulfillment , ignoring norms , and values .
+This might also explain why greed is thought to be related to other types of negative behavior , such as deception ( Cohen , Gunia , Kim-Jun , & Murnighan , 2009 ) , theft ( Caudill , 1988 ) , fraud ( Smith , 2003 ) , and corruption ( Rose-Ackerman , 1999 ) .
+In summary , greed has been central in classical philosophy , religious thinking , and economic theorizing .
+Claims have been made about the productive side of greed , but also about its poten- tial to harm interpersonal relations .
+Greed can be good ( construc- tive ) and bad ( destructive ) .
+In this light , it is remarkable that psychologists have paid only little attention to greed .
+If they write about greed , it is usually only in post hoc explanations of behavior .
+Greed has not yet been the subject of theorizing and thorough empirical investigation .
+According to Wang and Murnighan T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+918 SEUNTJENS , ZEELENBERG , VAN DE VEN , AND BREUGELMANS ( 2011 ) , one of the reasons for the lack of empirical research on greed is the difficulty people have with defining greed .
+Toward a Theory of Greed Let us start by addressing what we do know about the psychol- ogy of greed .
+We recently performed a prototype analysis of greed , to provide a better conceptualization of how people define this motivational state ( Seuntjens et al. , 2014 ) .
+Five studies revealed that the core experience of greed consists of both a desire to acquire more and the dissatisfaction of never having enough .
+Put differently , greed is an insatiable hunger for more .
+Specifically , we asked participants to write down what they thought greed was .
+Four independent coders categorized these descriptions into fea- tures of greed .
+Follow up studies showed these features could be divided into central ( core components ) and peripheral ( related , but less important ) features of greed .
+Central to greed is to always want more and to never be satisfied .
+Although greed often involves a hunger for money and material goods ( think of Scrooge Mc- Duck ) , the prototype analysis further revealed that greed is broader than this .
+Greed is also experienced for nonmaterial desires .
+For example , greed can also involve desires such as sex , food , power , and status .
+This is in line with the ideas of Saint Paul that we described earlier .
+In addition , the prototype analysis provided valuable informa- tion about how greed is related to other constructs .
+We found that people associated greed most clearly with being self-interested , looking for better opportunities ( “ maximizing ” ) , feeling envious , and being materialistic .
+We have reasons to believe that greed is a separate motive that independently influences behavioral choices over and above these related motives .
+Below we explain what these reasons are , and why developing a scale assessing disposi- tional greed can further our understanding of individual differ- ences in ( economic ) behavior .
+Interestingly , scales to measure individual differences have been developed for all four other motives ( Maximization : Nenkov , Morrin , Ward , Schwartz , & Hul- land , 2008 ; Self-interest : Van Lange , Otten , de Bruin , & Joireman , 1997 ; Envy : Smith , Parrott , Diener , Hoyle , & Kim , 1999 ; Materi- alism : Richins , 2004 ) .
+These scales have been applied successfully to a wide range of behaviors .
+In the empirical part of our article , we will relate our newly developed DGS to these scales ( and others ) .
+In that way we investigate greed ’ s nomological network and establish discriminant validity .
+Let us first compare greed to these four other motives on the basis of theory .
+Greed is conceptually most clearly related to maximization , which is apparent from the fact that the assumption of maximiza- tion is sometimes referred to as the axiom of greed .
+Rational economic man , in the words of Simon ( 1955 , p. 99 ) , is assumed to have “ a skill in computation that enables him to calculate , for the alternative courses of action that are available to him , which of these will permit him to reach the highest attainable point on his preference scale. ” According to Simon , maximization is not real- izable in everyday life because of people ’ s limited cognitive ca- pacities and the complex information in the environment .
+Hence , people are often motivated to satisfice instead of maximize .
+That is , they do not strive for the optimal outcome , but for something that is good enough ( i.e. , just above the minimal acceptable thresh- old ) .
+Schwartz , Ward , Monterosso , Lyubomirsky , White , and Le- hman ( 2002 ) took the ideas of Simon and developed a scale that assesses individual differences in the extent to which people are motivated to maximize or rather satisfice ( see also , Nenkov et al. , 2008 ) .
+For maximizers , the ultimate goal is to make the best decision possible .
+Greedy people just want more .
+Wanting more does not necessarily involve a rational balancing of costs and benefits .
+A greedy person might go into debt to buy desired products ( Livingstone & Lunt , 1992 ) , which only under certain circumstances can be seen as rational maximizing behavior .
+Thus , maximization leads to a desire to acquire the best outcome , whereas greed leads just to the desire to acquire more ( Seuntjens et al. , 2014 ) .
+Greed is also clearly related to self-interest .
+Greedy people want more for themselves .
+The assumption of self-interest in economic theory refers to the fact that rational actors are believed to care only about their own outcomes and be indifferent with respect to the outcomes of others ( e.g. , Miller , 1999 ) .
+However , people often do care about the outcomes of others ( e.g. , Fehr & Schmidt , 1999 ; Walster , Walster , & Bersheid , 1978 ) .
+They may want others to have similar outcomes to themselves and strive for equality , or they prefer to have more than others and show a competitive attitude .
+There are stable individual differences in how self- interested people are and how much they care about the outcomes of others .
+These differences have been studied under the name of Social Value Orientation ( SVO ; Murphy , Ackermann , & Hand- graaf , 2011 ; Van Lange et al. , 1997 ) .
+Some people have argued that greed and self-interest are the same ( Balot , 2001 ) , whereas others have argued that they are different ( Wang & Murnighan , 2011 ) .
+We share the latter viewpoint and see greed as different from self-interest .
+Where self-interest is rational , greed certainly does not seem to be a consistently rational drive .
+Greed is one of the seven deadly sins , and so is envy .
+Envy is the emotion that arises when someone else is better off than oneself ( e.g. , Van de Ven , Zeelenberg , & Pieters , 2009 ) .
+Individual dif- ferences in greed can be reliably measured ( Smith et al. , 1999 ) .
+Greed and envy are similar in the way that they both refer to feelings of not being happy with the current state of affairs .
+However , they differ in their focus .
+People who are envious are not satisfied because they compare their own situation to that of others who are better off .
+In contrast , people who are greedy are not satisfied because they compare their own situation to an imaginary situation of having more .
+In addition , it requires two people for envy to occur ( one person being envious , and the other being envied ) , whereas greed only requires one person .
+Envy is inher- ently more social in the sense that it stems from social comparison processes ( wanting what others have ) , whereas greed is more individualistic ( wanting more than I have now ; Maijala , Mun- nukka , & Nikkonen , 2000 ) .
+Still , both greed and envy are related to being dissatisfied and wanting more .
+We will examine how greed and envy are related , and also their separate relations with social comparison orientation ( Gibbons & Buunk , 1999 ) .
+For example , previous research has found that dispositional envy is positively correlated with individual differences in social compar- ison ( Zeelenberg & Pieters , 2007 ) .
+We believe that such a rela- tionship for greed and social comparison will be absent .
+Finally , our prototype analysis related greed to materialism .
+Materialism refers to the importance that people attach to worldly possessions ( Belk , 1984 ; Pieters , 2013 ) .
+For people who are ma- terialistic , the acquisition of goods plays a central role in their life , and they believe that they need material goods to be happy and T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+919DISPOSITIONAL GREED signal their success ( Richins & Dawson , 1992 ) .
+People differ in the extent to which they are materialistic ; whereas some people see the acquisition of goods as extremely important , others do not care as much .
+Although greed and materialism are related , they are not the same .
+Greed is the broader concept and does not only apply to material goods ( Tickle , 2004 ) .
+One can also be greedy for nonma- terialistic things such as food , sex , power , or success ( Seuntjens et al. , 2014 ) .
+Thus , we propose that greed is a distinct motive that is related to , but different from , maximization , self-interest , envy , and ma- terialism .
+We will examine this proposition empirically and relate greed to a selection of other relevant constructs that have shown stable individual differences .
+For example , we believe that greed should be related to people ’ s dispositions to spend money or save money .
+A scale that measures individual differences in the extent to which people are spendthrifty or miserly is the tightwads- spendthrifts scale ( Rick , Cryder , & Loewenstein , 2008 ) .
+We be- lieve that people scoring high on dispositional greed spend their money more easily and should be more represented on the spend- thrift end of the scale .
+Greed should also be related to impulsiveness and self- control .
+When people have willpower they can resist the urge to act upon their impulses .
+However , when willpower is limited , people usually give in to these urges ( Baumeister , 2002 ) .
+Im- pulsiveness is the outcome of a conflict between desires and willpower ( Hoch & Loewenstein , 1991 ) .
+As greed is character- ized by strong desires , it is likely that these desires beat will- power and lead to more impulsiveness , more temporal discount- ing , and less self-control .
+In addition , greed is often associated with increased risk taking and recklessness .
+For example , in the popular press it is often argued that one of the reasons for the financial crisis is that greedy bankers took too many unneces- sary risks ( Brummer , 2014 ; Papatheodorou , Rosselló , & Xiao , 2010 ) .
+Therefore , dispositional greed should be related to less risk aversion ( Holt & Laury , 2002 ) .
+Furthermore , our prototype analysis revealed that people often see greed as an antisocial trait ( Seuntjens et al. , 2014 ) ; greedy people often do not care about the consequences of their behavior for others .
+If this is the case , dispositional greed should be posi- tively related to antisocial behavior , such as psychopathy ( Wil- liams , Nathanson , & Paulhus , 2003 ) and psychological entitlement ( Campbell , Bonacci , Shelton , Exline , & Bushman , 2004 ) , and negatively related to prosocial behavior such as empathy and perspective taking ( Davis , 1983 ) .
+Lastly , because greedy people are never satisfied with their current state of affairs , it is likely that this affects their wellbeing in a negative way .
+This should also influence how happy they are with themselves ( self-esteem : Rosenberg , 1965 ) and their satisfac- tion with life in general ( Pavot & Diener , 1993 ) .
+All these sug- gested associations are examined in Study 1 .
+Overview of the Current Research The current article took the discussed theoretical insights into the psychology of greed as a starting point to construct a valid and reliable scale that measures people ’ s dispositional tendency to be greedy .
+We adopted the following strategy in developing the DGS .
+In Study 1 , we developed a 7-item scale and determined its factorial structure , reliability , internal consistency , temporal sta- bility , and construct validity .
+We used four different samples from the United States and the Netherlands , with a total of more than 6,000 participants .
+Next , in Study 2 , we took a closer look at the differences between dispositional greed and materialism , because Study 1 found that materialism appeared empirically most related to greed .
+Then , we related dispositional greed to a variety of behavioral decisions .
+We examined how dispositional greed influ- ences choice in a dictator game ( Study 3 ) and in an ultimatum game ( Study 4 ) .
+In Study 5 , we related the DGS to harvesting behavior in a forest management game ( a resource dilemma ) .
+Overharvesting in such a game represents the Tragedy of the Commons ( Hardin , 1968 ) and is argued to be one of the typical manifestations of greed .
+Study 1 Method Four samples completed the DGS and a number of other ques- tionnaires ( total N 6092 ) .
+The first sample completed the initial 20 items that we developed for the DGS .
+Based on Principal components analysis that we describe below , we came to the final 7-item version of the DGS ( see Tables 1 and 2 ) .
+All other samples completed this 7-item scale .
+Sample 1 .
+Participants were first year Tilburg University psy- chology students ( autumn 2011 ) who filled out an online question- naire at home , in return for course credit ( N 167 ; 82.0 % , female , 18.0 % male ; Mage 19.25 , SD 3.16 ) .
+They did this during an annual testing session , called the “ test week. ” Our main aims with the first sample were to create a scale , to test its internal consis- tency and temporal stability , and to investigate its discriminant and construct validity .
+Participants completed a first questionnaire with 20 items that were constructed to capture as many individual differences in greediness as possible ( see Appendix ) .
+All items were based on our prototype analysis of greed ( Seuntjens et al. , 2014 ) , which revealed that “ greed is the experience of desiring to acquire more and the dissatisfaction of never having enough ” ( p. 14 ) .
+Responses were measured on a 5-point Likert-scale ranging from 1 strongly disagree to 5 strongly agree .
+With the 7-item DGS , we also tested temporal stability with a subsample of 59 participants who completed the DGS again , 20 to 50 days after the first administration .
+To test for discriminant and construct validity , we looked at the relationship of greed with other measures that were administered during the test week .
+Table 3 presents these measures .
+Sample 2 .
+Participants were first year Tilburg University psy- chology students ( autumn 2012 ) who filled out the online ques- tionnaire in the lab in return for course credit ( N 236 ; 69.9 % , female , 19.9 % male , 10.2 % not specified ; Mage 19.55 , SD 2.15 ) .
+This sample was also administered during the annual test week and DGS scores were related to a variety of other measures to test the discriminant and construct validity of the scale .
+For an overview of these measures , see Table 3 .
+The main goal of the second sample was to replicate the factor structure of Sample 1 and to further test the reliability , temporal stability , and construct validity of the scale .
+Participants in this sample completed the 7-item DGS .
+Again , after 2 to 3 weeks , a subsample ( N 101 ) completed the DGS a second time to investigate the temporal stability of the scale .
+T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+920 SEUNTJENS , ZEELENBERG , VAN DE VEN , AND BREUGELMANS Sample 3 .
+Participants were U.S. based MTurk-workers who received $ 0.35 in return for their participation ( N 345 ; 46.4 % female , 53.6 % male ; Mage 33.26 , SD 11.85 ) .
+The main aim of Sample 3 was to replicate the findings of Samples 1 and 2 using a U.S. sample .
+We further investigated validity by relating the scale to other measures ( see Table 3 ) .
+Sample 4 .
+Participants were members of the LISS panel,1 a representative panel of the Dutch population ( N 5344 ; 54.0 % female , 46.0 % male ; Mage 50.50 , SD 17.63 ) .
+We wanted to investigate how greed is related to a variety of demographic variables ( e.g. , age , gender , income , and education ) in a represen- tative sample of the Dutch population .
+We further established validity by relating dispositional greed to other measures ( see Table 3 ) .
+Results Our plan for the analyses was as follows .
+We started with an exploratory Principal Components Analysis ( PCA ) on the 20 items in the first sample , which resulted in the 7-item DGS .
+The latter three samples were used to confirm that the seven items that we retained in Sample 1 had the same factor structure .
+We used all four samples to assess the reliability and internal consistency of the scale .
+Samples 1 and 2 filled out the DGS at two points in time , which enabled us to assess temporal stability .
+All four samples filled out measures for other constructs , allowing us to examine the discriminant and construct validity of the scale .
+In addition , we had information about several demographic variables in Sample 4 providing us the opportunity to investigate how demographic variables such as age , gender , and income predicted dispositional greed .
+Principal components analysis .
+We conducted an explor- atory PCA on the answers to the initial 20 items in Sample 1 .
+The PCA suggested a solution with either 1 or 3 components ( component 1 : Eigenvalue 4.95 with 24.72 % variance ex- plained ; component 2 : Eigenvalue 2.04 ; 10.21 % , component 3 : Eigenvalue 1.83 ; 9.15 % ) .
+Inspection of the pattern matrix ( see Appendix ) shows that 8 items were uniquely loading on the first factor .
+There were 4 items that were uniquely loading on the second factor , 3 items uniquely loading on the third factor , and 4 items loading on more than one factor ( loadings .30 ) .
+Inspection of the scree plot and the fact that the first com- ponent consisted of the items most related to the desire to acquire more and never being satisfied ( that we consider to be the core of greed ) , led us to select the items that loaded high on the first component .
+From the original 8 items we left out the one item that was reverse coded and scored lowest on this factor , which resulted in the selection of 7 items .
+A PCA on these 7 items resulted in a unidimensional solution with an eigenvalue of 3.41 that explained 48.71 % of the variance .
+The reliability of this scale was good ( .82 ) .
+Samples 2 , 3 , and 4 were only asked to respond to these 7 items .
+In all these samples , the scale proved to be reliable ( ranged from .82 to .90 ) and retained the same factor structure ( see Table 1 ) .
+Internal consistency and temporal stability .
+Corrected item-total correlations were computed to investigate the internal consistency of the scale ( see Table 2 ) .
+Across all four samples , these ranged between .43 and .78 , which indicates that all items have acceptable internal consistency ( ITC .30 ; see Nunnally & Bernstein , 1994 ) .
+The temporal stability of the scale was assessed in Samples 1 and 2 , by computing correlations between scores at Time 1 and Time 2 .
+The correlation between Time 1 and Time 2 was r .66 in the first sample , a satisfactory reliability.2 In this sample the situation of administration was quite different ( once at home and once in the university lab ) , which might have negatively influ- enced test–retest reliability .
+In Sample 2 the circumstances were more similar , as both measurements were administered in the same 1 For more information about the LISS panel see www.lissdata.nl .
+2 When we controlled for the number of days between administration of the scale at Time 1 and Time 2 ( ranging from 20 to 50 days ) the temporal stability was .66 .
+Table 1 The Seven Items of the Dispositional Greed Scale , Including Factor Loadings and Reliability for Samples 1 to 4 in Study 1 Items Samples 1 2 3 4 N 167 N 236 N 345 N 5344 Dutch students Dutch students American MTurk Dutch representative 1 .
+I always want more .
+.80 .69 .85 .79 2 .
+Actually , I ’ m kind of greedy .
+.65 .73 .80 .79 3 .
+One can never have too much money .
+.63 .56 .65 .63 4 .
+As soon as I have acquired something .
+I start to think about the next thing I want .
+.62 .76 .82 .83 5 .
+It doesn ’ t matter how much I have .
+I ’ m never completely satisfied .
+.71 .71 .85 .79 6 .
+My life motto is “ more is better. ” .78 .72 .84 .78 7 .
+I can ’ t imagine having too many things .
+.67 .74 .72 .82 Eigenvalue 3.41 3.46 4.39 4.22 Explained variance 48.71 % 49.44 % 62.72 % 60.33 % Cronbach ’ s .82 .82 .90 .88 Note .
+Participants are asked to indicate the extent to which they agreed that these items were descriptive of themselves .
+Responses were measured on 5-point Likert-scales ranging from 1 strongly disagree to 5 strongly agree .
+T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+921DISPOSITIONAL GREED lab .
+For this sample we found a correlation of r .77 between Time 1 and Time 2.3 Discriminant and construct validity .
+To investigate if dis- positional greed is different from maximization , self-interest ( mea- sured with Social Value Orientation ) , envy , and materialism we conducted a series of confirmatory factor analyses ( CFA ) .
+We tested whether a unidimensional model ( where one factor would represent greed and the related construct ) fitted the data better than a two-factor model ( where greed and the other construct were represented by separate factors ) .
+If dispositional greed is different from the related constructs , the two-factor model would result in a better fit than a unidimensional model .
+Maximization .
+Maximization and greed were measured in Samples 1 , 2 , and 3 .
+In all three samples , the CFAs revealed that the two constructs were distinct .
+In all samples , the two-factor model fit better ( had a significantly lower 2 ) than a unidimen- sional scale , 2 ( 1 ) 21.74 , ps .001 .
+Self-interest .
+Self-interest was measured in Samples 1 and 2 .
+In both samples , the two-factor model fit better than a unidimensional scale , 2 ( 1 ) 294.96 , ps .001 .
+CFA for both samples indicated that the measure of greed is different from the measure of self-interest .
+Envy .
+Envy was measured in Samples 1 and 2 .
+In both sam- ples , the two-factor model fit better than a unidimensional scale , 2 ( 1 ) 218.24 , ps .001 .
+CFA for both samples indicated that the measure of greed is different from the measure of envy .
+Materialism .
+Materialism was measured in all four samples .
+In all samples , the two-factor model fit better than a unidimensional scale , 2 ( 1 ) 33.58 , ps .001 ) .
+CFA for all four samples indicated that the measure of greed is different from the measure of materialism .
+The results of the CFAs provide first empirical evidence for the discriminant validity of greed .
+In the next section we report about the construct validity of greed and further test the discriminant validity of greed .
+A measure has good construct validity if it correlates with other constructs that one would expect based on the theory , and if it has no relationship with constructs that one would theoretically not expect it to be related to .
+The further examination of the discriminant validity investigated how greed correlated differently with the other constructs compared to maximization , self-interest , envy , and materialism .
+To accomplish these goals , we correlated the DGS to a variety of other measures ( see Table 3 ) .
+Although greed is different from maximization , self-interest , envy , and materialism ( as was found in CFA ) , we expected that greed would correlate positively with these variables .
+This was indeed the case .
+We found that people scoring high on greed are more likely to maximize , to be self-interested , to feel envious , and to be materialistic .
+Relations with other relevant constructs .
+Here we discuss the findings depicted in Table 3 concerning the relation of disposi- tional greed with a large number of constructs that are theoretically relevant .
+We expected dispositional greed to be associated with peo- ple ’ s spending patterns .
+Some people easily spend money , whereas others are thrifty and experience pain when they have to spend ( Rick et al. , 2008 ) .
+We expected and found that greedy individuals spend their money more easily , and more often are spendthrifts compared with tightwads .
+We also included several measures related to impulsiveness , be- cause we expected greedy individuals to be more impulsive .
+We found a negative correlation between dispositional greed and self- control and positive correlations between dispositional greed and impulsiveness and buying impulsiveness .
+This shows that greedy individuals are in general also more impulsive .
+Interestingly , there was no relationship between greed and temporal preferences ( accept- ing higher future outcomes over lower current ones ) .
+This is strange as impulsiveness is a typical explanation of temporal preferences ( Loewenstein & Elster , 1992 ) .
+To further differentiate between greed and maximization , we looked at the partial correlations of these constructs with ( buying ) impulsiveness and self-control .
+A difference between greed and max- imization is that maximizers want to choose the best possible out- come , whereas greedy people just want more .
+This means that , whereas greed should correlate positively with ( buying ) impulsive- 3 When we controlled for the number of days between administration of the scale at Time 1 and Time 2 ( ranging from 12 to 25 days ) the temporal stability was .76 .
+Table 2 Means , Standard Deviations , Corrected Item-Total Correlations , and Factor Loadings of the Items of the Dispositional Greed Scale for Samples 1 to 4 in Study 1 Item Samples 1 2 3 4 N 167 N 236 N 345 N 5344 M SD ITC M SD ITC M SD ITC M SD ITC 1 .
+I always want more .
+2.35 0.98 .68 2.90 1.09 .56 3.03 1.11 .77 2.29 1.05 .71 2 .
+Actually , I ’ m kind of greedy .
+2.92 1.02 .52 2.67 1.04 .61 2.62 1.16 .71 2.06 0.99 .70 3 .
+One can never have too much money .
+3.28 1.14 .49 3.15 1.17 .43 3.30 1.26 .55 2.85 1.12 .53 4 .
+As soon as I have acquired something .
+I start to think about the next thing I want .
+2.66 1.11 .49 2.39 1.07 .63 2.76 1.20 .73 1.90 0.95 .74 5 .
+It doesn ’ t matter how much I have .
+I ’ m never completely satisfied .
+1.98 1.04 .57 1.89 0.87 .57 2.56 1.18 .77 1.63 0.82 .69 6 .
+My life motto is ‘ more is better ’ .
+2.17 0.83 .66 1.89 0.84 .58 2.41 1.13 .78 1.72 0.86 .68 7 .
+I can ’ t imagine having too many things .
+2.31 0.96 .53 2.14 0.98 .62 2.71 1.28 .62 1.63 0.82 .72 Total 2.53 0.70 2.43 0.71 2.77 0.93 2.01 0.73 Note .
+Participants are asked to indicate the extent to which they agreed that these items were descriptive of themselves .
+Responses were measured on 5-point Likert-scales ranging from 1 strongly disagree to 5 strongly agree .
+T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+922 SEUNTJENS , ZEELENBERG , VAN DE VEN , AND BREUGELMANS ness , maximization should correlate negatively or not at all with impulsiveness .
+We found that if we controlled for dispositional greed , maximization was not associated with these constructs ( rs .10 , ps .135 ) .
+More important , when we controlled for maximization , we still found significant correlations between greed and these constructs ( rs .18 , ps .006 ) .
+Unexpectedly , we did not find a relationship between disposi- tional greed and risk taking .
+This is surprising because greed is often seen as an important factor for the risky behavior of bankers that ultimately led to the financial crisis .
+We return to these unexpected findings in the General Discussion .
+Because greed is often related to interpersonal harm and anti- social behavior , we investigated the relationship between greed and several relevant measures .
+We found that dispositional greed is associated with more psychopathy , psychological entitlement , and with less empathy and less concern for others .
+One of the characteristics of greed is dissatisfaction with one ’ s current position .
+Hence , we expected that greedy individuals would score lower on measures related to well-being .
+Greed cor- related negatively with self-esteem and life satisfaction , but we did not find a relationship between greed and depression .
+We expected that social comparison would be related to envy , but not to greed .
+In Sample 1 , we included all three measures and found a significant relation between envy and social comparison , r .34 , p .001 , but no relation between greed and social comparison .
+Unexpectedly , we did find a significant correlation between greed and social comparison in Sample 3 .
+Lastly , there were also measures concerning general dispositions included in our dataset that had been added by other researchers for purposes other than our study .
+In Samples 1 and 2 the TIPI ( Gosling , Rentfrow , & Swann , 2003 ) was included to measure the Big Five , and in Sample 4 the IPIP ( Goldberg , 1992 ) was included to do so .
+We found that in all three samples dispositional greed was associated with less emotional stability , and in two out of the three samples with a lesser agreeableness .
+Furthermore , in Sample 1 we found that dispo- sitional greed was associated with less openness/intellect , and in our large Sample 4 we found that greed was associated with lower conscientiousness .
+We did not find a relationship between greed and extraversion .
+Sample 4 : Demographics , desirability and financial behavior .
+The fact that the participants in our largest sample were members of the representative LISS panel allows for a Table 3 Correlations of the Dispositional Greed Scale With Other Measures for Samples 1 to 4 in Study 1 Construct Samples 1 2 3 4 N 167 N 236 N 345 N 5344 Maximization Scale ( Nenkov et al. , 2008 ) .43 ; .45 ; .55 .29 .25 .35 Social Value Orientation ( Van Lange et al. , 1997 ) a .73 ; .69 .21 .17 Dispositional Envy Scale ( Smith et al. , 1999 ) .84 ; .80 .34 .33 Material Values Scale ( Richins & Dawson , 1992 ; Richins , 2004 ) b .71 ; .78 ; .88 ; .82 .56 .64 .72 .69 Tightwads-spendthrifts Scale ( Rick , Cryder , & Loewenstein , 2008 ) c .80 .36 Self-Control Scale ( Tangney , Baumeister , & Boone , 2004 ) .74 ; .71 .26 .21 Impulsiveness ( Eysenck , Pearson , Easting , & Allsopp , 1985 ) d .85 ; .86 .24 .32 Buying Impulsiveness Scale ( Rook & Fisher , 1995 ) .95 .46 Temporal preferences ( Mahajan & Tarozzi , 2011 ) e — .09 Risk aversion ( Holt & Laury , 2002 ) — .04 Psychological Entitlement Scale ( Campbell et al. , 2004 ) .
+.76 .33 Self-Report Psychopathy Scale ( Williams et al. , 2003 ) .89 ; .90 .32 .23 Perspective taking - Interpersonal Reactivity Index ( Davis , 1980 ) .78 .33 Emphatic Concern - Interpersonal Reactivity Index ( Davis , 1980 ) .66 .21 Rosenberg Self-Esteem Scale ( Rosenberg , 1965 ) .89 ; .89 .21 .23 Satisfaction With Life Scale ( Pavot & Diener , 1993 ) .79 ; .89 .18 .11 Beck Depression Inventory ( Beck , 1967 ) .84 .09 Iowa-Netherlands Comparison Orientation Measure ( Gibbons & Buunk , 1999 ) .83 ; .88 .11 .38 Social desirability ( Crowne & Marlowe , 1960 ) .52 .24 Extraversion ( TIPI , Gosling et al. , 2003 ; IPIP , Goldberg , 1992 ) f .87 .03 .02 .03 Agreeableness ( TIPI , Gosling et al. , 2003 ; IPIP , Goldberg , 1992 ) .78 .11 .13 .24 Conscientiousness : TIPI ( Gosling et al. , 2003 ) , IPIP ( Goldberg , 1992 ) .77 .12 .10 .22 Emotional Stability : TIPI ( Gosling et al. , 2003 ) , IPIP ( Goldberg , 1992 ) .89 .17 .14 .27 Openness : TIPI ( Gosling et al. , 2003 ) , IPIP ( Goldberg , 1992 ) .76 .22 .10 .02 a This measure consists of a sum score of the proself choices , with a higher score reflecting more proself choices .
+In Sample 2 we also measured social value orientation with the Social Value Orientation Slider ( Murphy , Ackermann , & Handgraaf , 2011 ) .
+The correlation between the two SVO measures was .53 ( p .001 ) , and the correlation between the SVO slider and dispositional greed was .12 ( p .07 ) .
+b In Sample 1 we used nine items that loaded highest on the three components of materialism in the original article ; in the other samples we used the short version of the scale by Richins ( 2004 ) .
+c Higher scores reflect more spendthrift behavior .
+d We used the nine items of the scale that loaded highest in the original article .
+e We used the first four choices used in the original article .
+Participants made four decisions between €100 in 1 month and €100 ( or €120 , or €140 , or €160 ) in 4 months .
+The measure consists of a sum score of the times the participant chose the option to wait for the higher amount .
+A higher score reflects more patience .
+f In Samples 1 and 2 we measured the Big Five with the Ten Item Personality Inventory .
+In Sample 4 the Big Five was measured with the International Personality Item Pool .
+We only report the alphas of the IPIP .
+We do not report the s for the five dimensions of the TIPI , as the s of short scales that measure broad constructs , such as the TIPI , are not meaningful ( Gosling et al. , 2003 ) .
+p .05. p .01. p .001 .
+When correlations are not reported , the scale was not measured in that sample .
+T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+923DISPOSITIONAL GREED number of additional analyses .
+We conducted a two-step multiple linear regression analysis to investigate what demographics were related to dispositional greed .
+In the first step we entered age and gender .
+In the second step we added income , education , political orientation , and religiousness .
+The results of these analyses can be found in Table 4 .
+Younger people , males , people with a lower level of education , and people with a right-wing political orientation tended to be greedier .
+Income and religiosity did not relate to dispositional greed .
+Sample 4 also allowed us to relate dispositional greed to the tendency to give social desirable answers , as this data was avail- able in the panel .
+We found that people that have a tendency to give desirable answers score lower on greed .
+This makes sense , as greed is an undesirable trait .
+The correlation was r .24 , p .001 , which means that social desirability explains about 6 % of the variance in the DGS .
+As greed is often felt in the financial domain , we wanted to investigate how greed affects people ’ s financial situation .
+Sample 4 gave us the opportunity to test how dispositional greed was related to their ( perceived ) financial situation .
+We expected and found that greedy individuals would be less satisfied with their financial situation , r .17 , p .001 .
+In addition we found that they also indicated more often that they had problems with making ends meet , r .07 , p .001 .
+Discussion Using four samples , and over 6,000 participants , we developed a reliable , valid , and temporally stable 7-item scale to measure individual differences in greed .
+As expected , we found weak to moderate correlations between dispositional greed and the tenden- cies to be self-interested ( SVO ) , to maximize , and to be envious , when we investigated the discriminant and construct validity of our scale .
+More remarkably were the high correlations between the DGS and MVS ; we found correlations between .56 and .72 , indicating that they share between 31 % and 51 % of the variance .
+Although we expected the two to be related , we did not expect the correlations to be this high .
+Whereas our DGS measures the general tendency to have insatiable desires to acquire more ( Seuntjens et al. , 2014 ) , materialism is defined as “ the impor- tance people attach to worldly possessions ” ( Belk , 1985 , p. 265 ) .
+Materialism should only be related to the specific desire to acquire more material possessions .
+The greed motive is broader and should predict other behaviors as well .
+To test this idea , and to further differentiate between greed and materialism , we conducted Study 2 .
+After that , we report three studies that related greed to a variety of economic behaviors .
+Study 2 Study 1 found in four CFA that a model with separate factors for greed and materialism fit the data better than a one-factor model .
+Nevertheless , Study 1 also found substantial correlations between the DGS and the Material Values Scale ( MVS ; Richins , 2004 ) .
+Therefore , we thought it was worthwhile to obtain more insight into how greed and materialism relate to each other .
+We expected greed , and not materialism , to also predict desires for nonmaterial goods such as food and sex ( Seuntjens et al. , 2014 ; Tickle , 2004 ) .
+Study 2 was set up to examine this prediction .
+Method MTurk workers ( N 290 ; 57.2 % male , 42.8 % female ; 4 Mage 30.43 , SD 9.29 ) from the United States completed this study in return for $ 0.20 .
+They were first asked to rate the four behavioral inclinations in Table 5 ( 1 strongly disagree , to 5 strongly agree ) .
+These inclinations were : ( a ) When I am eating a bag of chips , I don ’ t want to stop until the bag is finished ; ( b ) When I am single , I like to have casual sex with as many people as possible ; ( c ) When I am using social networking sites ( e.g. , Facebook , LinkedIn ) , I want to have as many friends as possible ; and ( d ) When I see a newer model of my phone I immediately want to have it .
+Next they filled out the DGS ( M 2.71 , SD 0.89 ; .88 ) and the MVS ( M 3.01 , SD 0.78 ; .87 ) the order of which was randomized between participants .
+Results and Discussion The findings are shown in Table 5 .
+We first replicated the CFA and found again that a model separating the DGS and the MVS fit better than a unidimensional model , 2 ( 1 ) 210.27 , p .001 .
+Next we computed correlations and partial correlations between greed and materialism and the four behavioral inclinations .
+We see that the DGS correlates with all four behavioral inclinations , and MVS with three of them .
+The more important test for differenti- ating the two constructs is how dispositional greed and materialism uniquely predict these four behaviors , controlling for each other .
+We can see that materialism was best at predicting the desire for a material good while dispositional greed better predicted the other three behavioral intentions .
+Study 2 shows that whereas materialism is mostly associated with the desire for materialistic goods , greed is also associated with the desire for nonmaterialistic goods .
+Note that greed also correlated with the desire for the material good , but it is no surprise that the scale for materialism predicts better than dispositional greed does .
+A more specialized scale is likely to predict exactly materialistic behavior better than a broader scale does .
+We were surprised that materialism also correlated ( even when not control- ling for greed ) with the preference for having many sex partners and many friends on social networking sites .
+These preferences are theoretically unrelated to materialism , but are empirically related to it .
+Perhaps the strong association of the materialism scale with what we now call dispositional greed could be a reason for these correlations .
+Another possibility is that materialism is actually related more to a desire for status than the definition implies .
+In any case , we found that the DSG was better at predicting the general desire for more than materialism .
+The current study corroborates our expectations and unveiled more insights into the discriminant validity of the DGS .
+Material- ism proved to be mostly associated with the desire for material goods , whereas greed was also associated with the desire for nonmaterial goods .
+This indicates that greed is broader concept and involves the desire for more than just material goods , such as food , sex , and friends .
+4 We tested for dispositional greed–gender interactions in Studies 2 to 5 .
+We only found a significant interaction between dispositional greed and gender for Proposers in Study 3 , such that a higher score on greed was associated with proposing lower offers in males , but not in females ( .51 , t ( 298 ) 2.51 , p .012 ) .
+T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+924 SEUNTJENS , ZEELENBERG , VAN DE VEN , AND BREUGELMANS Study 3 In the final three studies in this article , we examined the pre- dictive validity of the DGS .
+Therefore , we related the DGS to behavioral decisions in a variety of experimental economic games , and we predicted that greed results in choices that ensure people of larger outcomes , even at the expense of other .
+In Study 3 , we related dispositional greed to people ’ s offers in a dictator game ( Kahneman , Knetsch , & Thaler , 1986 ) .
+The dictator game is a two-player game ( in a strict sense it is not a game because it involves a single , unilateral decision ) where one player ( the dic- tator ) gets to split a certain amount of money ( e.g. , $ 10 ) between him/herself and a second player ( the receiver ) .
+The receiver has no say in the decision the dictator makes and is completely dependent on what the dictator offers .
+The dictator is free to allocate as much to oneself as one desires ( leaving nothing or only a little for the other ) , or opt for more fair allocations where the money is more evenly split .
+Typically , a dictator offers the receiver about 20 % of the endowment ( Camerer , 2003 ) .
+Greed has been named as one of the motivations for dictators to give lower offers to the receiver ( Haselhuhn & Mellers , 2005 ; Wang , Malhotra , & Murnighan , 2011 ) .
+We examine whether dispositional greed predicts the be- havior of the dictators in this game .
+Method In total , 300 MTurk workers ( 61.0 % male , 39.0 % female ; Mage 31.74 , SD 10.64 ) from the United States completed this study in return for $ 0.30 .
+Participants first filled out the DGS ( .88 ) and participated in an incentivized dictator game .
+Participants indicated how they would divide $ 10 between themselves and another person .
+At the end of the experiment , we randomly se- lected 10 participants as dictators , paired them with 10 other randomly selected participants , and paid both according to the proposed distribution .
+All participants knew this in advance .
+Results and Discussion The DGS had a mean score similar to our previous samples ( M 2.81 , SD 0.87 ; .88 ) .
+On average the dictators kept $ 6.31 ( SD 1.97 ) and gave $ 3.69 to the receiver .
+As expected , a regression analysis revealed that the more greedy an individual was , the more money they allocated to themselves in the Dictator Game , .24 , t ( 299 ) 4.24 , p .001 , thereby creating more unfair offers that left less money for the other person .
+An individ- ual who scored 1 SD on the DGS on average kept $ 5.84 , whereas an individual who scored 1 SD on the DGS kept $ 6.77 .
+Study 4 In Study 4 , we related dispositional greed to people ’ s behavioral intentions in an ultimatum game ( Güth , Schmittberger , & Schwarze , 1982 ) .
+Just as in the dictator game , greed is seen as one of the motivations behind proposing lower bids in the ultimatum game ( e.g. , Hoffman , McCabe , & Smith , 1996 ) .
+The ultimatum game is similar to the dictator game , with one important differ- ence .
+Whereas in the dictator game the receiver has no influence whatsoever on the outcome of the negotiation , in the ultimatum game the responder can choose either to accept or reject the proposal .
+If a responder rejects the offer made by the proposer , both players receive nothing .
+If the responder accepts the offer of Table 4 Regression Analyses of Demographics on Dispositional Greed in Sample 4 of Study 1 ( N 5,344 ) Variable b SE t p Step 1 Age .02 .00 .37 24.09 .001 Gender ( 0 female ; 1 male ) .18 .02 .13 8.33 .001 Step 2 Income ( net income per month in € ’ s ) .00 .00 .00 0.11 .913 Education ( ranging from 1 elementary education ; 6 university ) .02 .01 .05 3.25 .001 Political orientation ( 0 left ; 10 right ) .03 .01 .10 6.76 .001 Religiosity ( 0 not religious ; 1 religious ) .04 .02 .03 1.87 .062 Table 5 ( Partial ) Correlations of Greed and Materialism With Nonmaterialistic and Materialistic Desires in Study 2 ( N 290 ) Descriptives Correlations Partial correlations M SD Greed ( DGS ) Materialism ( MVS ) Greed ( DGS ) Materialism ( MVS ) When I am eating a bag of chips , I don ’ t want to stop until the bag is finished .
+2.89 1.21 .19 .06 .21 .10 When I am single , I like to have casual sex with as many people as possible .
+2.21 1.26 .28 .15 .24 .05 When I am using social networking sites ( e.g .
+Facebook , LinkedIn ) , I want to have as many friends as possible .
+2.24 1.03 .25 .25 .12 .11 When I see a newer model of my phone I immediately want to have it .
+2.49 1.21 .35 .44 .08 .30 Note .
+Responses were measured on 5-point Likert-scales , ranging from 1 strongly disagree to 5 strongly agree .
+p .05. p .001 .
+T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+925DISPOSITIONAL GREED the proposer , both players receive the offer as it was made .
+The average offers are typically in the regions of 30–40 % , with a 50–50 split often as the mode .
+Offers of less then 20 % are frequently rejected ( for an overview , see Camerer & Thaler , 1995 ) .
+The fact that the responder can reject the offer makes the ultima- tum game a clear case of strategic decision making .
+Proposers who want to get as much money as possible have to make a tradeoff between keeping as much money to themselves and the increased risk of rejection by the responder .
+The aim of Study 4 was to investigate whether and how greed was related to behavior in an ultimatum game .
+In this study we used a strategy method ( see Brandts & Charness , 2011 ) for study- ing decisions in the ultimatum game .
+This entails that we asked participants to provide binding decisions for each offer they could encounter in the negotiation .
+Similar to our expectations for the dictator game , we expected that in the ultimatum game greedy proposers would be more likely to propose unfair distributions favoring themselves , as they are focused on getting as much as possible for themselves .
+We did not have clear predictions for the effect of greed on the responders .
+On the one hand , one could argue that greedy responders should accept any offer made by the proposer because by rejecting unequal proposals they would end up with nothing .
+On the other hand , one could argue that greedy responders are more likely to reject unequal offers because they are less easily satisfied with the offer of the proposer .
+Method In total , 603 MTurk workers ( 64.7 % male , 35.3 % female ; Mage 29.42 , SD 9.93 ) from the United States completed this study in return for $ 0.30 .
+Participants were randomly assigned to either being a proposer or a responder in an ultimatum game .
+Participants first filled out the DGS ( .87 ) .
+Afterward they participated in an ultimatum game .
+Participants in the Proposer condition ( N 302 ) indicated how they would divide $ 10.00 between themselves and another person .
+Participants in the Re- sponder condition ( N 301 ) indicated for each possible proposal ( stated in terms of integers ) whether they would reject or accept this proposal ( a $ 10.00– $ 0.00 split , a $ 9.00– $ 1.00 split , etc . ) .
+At the end of the study , participants were asked about the motivations that played a role when making their decision .
+Motivations about greed were measured by “ I wanted to get the most money I could ” and “ I did not want to end up with no money at all ” and motiva- tions about fairness were measured by “ I wanted a fair division of the money ” and “ I wanted an equal division of the money ” ( all on a 5-point scale ranging from 1 totally unimportant to 5 totally important ) .
+Results Proposers .
+Across all proposers , the mean score on disposi- tional greed was 2.85 ( SD 0.85 ) .
+On average proposers indicated that they would propose to keep $ 5.36 ( SD 0.97 ) to themselves , and give $ 4.64 to the responder .
+A regression analysis was con- ducted to investigate how greed was related to people ’ s proposals in an ultimatum game .
+As expected , people scoring high on dis- positional greed proposed offers in which they kept more money to themselves , .19 , t ( 301 ) 3.33 , p .001 .
+A person who scored 1 SD on the DGS on average proposed to keep $ 5.18 ( and give $ 4.82 ) , whereas a person who scored 1 SD on the DGS proposed to keep $ 5.54 ( and give $ 4.46 ) .
+On average , proposers scored 3.44 ( SD 0.94 ) on the greed motivation scale and 3.82 ( SD 1.16 ) on the fairness motivation scale .
+We conducted a mediation analysis following the bootstrap- ping procedure of Preacher and Hayes ( 2008 ) , using bias corrected intervals and 10,000 samples .
+Figure 1a contains the standardized regression coefficients .
+The confidence intervals ( CI ) for both greed and fear did not include 0 .
+This means that the effect of Figure 1 .
+( a ) Mediation analysis of dispositional greed on proposers in an ultimatum game in Study 4. p .05 ; p .01 ; p .001 ; ns not significant .
+( b ) Mediation analysis of dispositional greed on responders in an ultimatum game in Study 4. p .05 ; p .01 ; p .001 ; ns not significant .
+T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+926 SEUNTJENS , ZEELENBERG , VAN DE VEN , AND BREUGELMANS dispositional greed on the offer made to the responder was com- pletely mediated by higher greed-driven motivations ( 95 % CI : lower .02 ; upper .14 ) and lower fairness-driven motivations ( 95 % CI : lower .07 ; upper .25 ) .
+Responders .
+Across all responders , the mean score on dispo- sitional greed was 2.85 ( SD 0.84 ) .
+In total , 44 responders ( 14.6 % ) gave inconsistent answers in the Ultimatum Game , such as claiming that they would accept an offer in which the proposer would get $ 8 and they would get only $ 2 split , but would reject a $ 7– $ 3 split .
+Because such data can not be interpreted in terms of stable preferences for monetary divisions , these people had to be excluded from the analyses.5 On average , responders indicated that they would reject offers lower than $ 2.70 ( SD 1.85 ) .
+A regression analysis was con- ducted to investigate how greed was related to people ’ s responses in the ultimatum game .
+A regression analysis revealed that people who were greedier are less likely to accept low offers , .13 , t ( 256 ) 2.07 , p .040 .
+A person scoring 1 SD on the DGS accepted offers higher than $ 2.44 on average , whereas a person scoring 1 SD on the DGS accepted only offers higher than $ 2.91 on average .
+More greedy individuals were more likely to reject lower offers .
+On average , responders scored 3.60 ( SD 0.98 ) on the greed motivation scale and 3.37 ( SD 1.16 ) on the fairness motivation scale .
+We conducted a mediation analysis to investigate how the motivations of greed and fairness influenced people ’ s decisions to accept or reject offers .
+Results showed that the effect of disposi- tional greed on rejecting offers could be completely mediated by motivations of greed ( 95 % CI : lower .03 ; upper .23 ) , but not by motivations of fairness ( 95 % CI : lower .14 ; upper .12 ) .
+See Figure 1b for a visual representation of the mediation analysis .
+Discussion We found that greedy individuals are more likely to keep more money to themselves and make unfair ( or at least more unequal ) offers .
+It is important that such effects were also found in the ultimatum game , next to the dictator game , because the fear of rejection of unfair offers is an important additional motive for proposers , potentially suppressing the motive of greed .
+The amount of money proposers allocated to themselves was driven by higher greed motivations and lower fairness motivations .
+Similar effects were found for responders .
+Greedy individuals were more likely to consider an offer made by a proposer as too low , and reject it as a result ( with the consequence that both ended up with nothing ) .
+Note that these responders high on dispositional greed did not reject the offer because they thought it was more unfair , but out of greed concerns .
+These data suggest that greed operates independently of fairness motives and that it is purely driven by the size of the pay-off .
+In addition , Studies 3 and 4 show that the DGS relates in meaningful ways to relevant economic behavior .
+Study 5 The Tragedy of the Commons ( Hardin , 1968 ) is perhaps the most often used example of how greedy behavior can harm a society ( Wilke , 1991 ) .
+This tragedy describes the behavior of medieval herders in the United Kingdom .
+These herders had , besides their private parcel of land , a common parcel on which they could let their livestock graze .
+From an individual perspec- tive , letting one ’ s livestock graze on these “ commons ” was the most rational choice .
+Because all herders did this , it led to over- grazing , making these commons useless in the end .
+Furthermore , in modern times this tragedy takes place , for example , in the form of overfishing ( Kraak , 2011 ) and environmental pollution ( Good & Beatty , 2011 ) .
+These situations in which there is a common re- source or common pool and one ‘ s own interest and the interest of the group are conflicting , are also referred to as resource dilem- mas .
+The aim of Study 5 was to investigate if dispositional greed predicts people ’ s harvesting behavior in a resource dilemma .
+We know from previous research that harvesting is related to social value orientation ( Van Lange et al. , 1997 ) , and we examine the effect of greed in combination with that of SVO , so that we can estimate the relative impact of both .
+We used the forest- management game ( Sheldon & McGregor , 2000 ) , which is mod- eled after the Tragedy of the Commons .
+Method Participants were 303 MTurk workers ( 56.9 % male , 43.1 % female ; Mage 31.66 , SD 10.03 ) from the United States who received $ 0.30 in return for filling out the DGS , the SVO scale , and a one-shot resource dilemma .
+Participants first played the forest-management game ( Sheldon & McGregor , 2000 ) and then filled out the DGS ( .90 ) and SVO scale .
+In this dilemma , participants imagine that they are owners of a timber company and that they bid against three other companies to harvest timber in the national forest .
+They receive information about both the advantages and disadvantages associ- ated with either making small or large bids .
+Large bids are asso- ciated with more profit , but if the joint bids of all players are too high , this would lead to the forest being depleted ( ruining future profit potential ) .
+After participants read the dilemma , they rated on a 7-point scale ( 1 not at all to 7 very much ) the extent to which they would like to profit more than the other companies ( referred to as acquisitiveness or greed by Sheldon & McGregor ) and the extent to which they expected the other companies to cut large amounts of forest ( referred to as apprehensiveness or fear ) .
+Then , participants indicated how much of the forest they wanted to cut themselves ( ranging from 0 to 10 ha ) .
+If participants would harvest more than 5 ha , this would imply that they are overhar- vesting and are depleting the resources faster than they can regrow , causing the tragedy of the commons .
+For further details of the procedure , see Sheldon and McGregor ( 2000 ) .
+Results and Discussion On average , participants indicated that they wanted to cut 5.63 ( SD 2.55 ) hectares of forest .
+The mean score for greed motiva- tion was 5.09 ( SD 1.48 ) ; the mean score for fear motivation was 5.42 ( SD 1.56 ) .
+The mean dispositional greed score was 2.79 ( SD 0.93 ) .
+For SVO , we did not classify participants as either 5 DGS is related to making inconsistent decisions , b .44 , Wald 4.84 , p .03 .
+There seems to be a slight tendency that individuals who score higher on dispositional greed were more likely to be inconsistent in their responding .
+T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+927DISPOSITIONAL GREED proself or prosocial , but rather used the number of self-interested choices made out of the possible nine answers.6 On average , participants made 3.21 ( SD 3.91 ) self-interested choices .
+A regression analysis in which harvesting was predicted by both the DGS and SVO revealed that the more greedy individuals were , the more forest they wanted to cut , .20 , t ( 302 ) 3.52 , p .001 .
+For SVO we found a significant effect that the more self- interested individuals would cut more forest , .12 , t ( 302 ) 2.09 , p .04 .
+A person scoring 1 SD on dispositional greed on average harvested 5.07 ha of forest , whereas a person scoring 1 SD on the DGS on average harvested 6.17 ha of forest ( controlling for SVO ) .
+To validate the effects of the dispositional greed measure with the idea of Sheldon and McGregor ( 2000 ) that greed is an important motive in this forest harvesting game , we related the DGS to their moti- vational measure of why participants overharvested .
+A mediation analysis revealed that the effect of dispositional greed on harvest- ing could be completely mediated by the motivation of acquisi- tiveness ( “ the desire to obtain as much of the resource as possible for oneself , ” p. 388 ; 95 % CI : lower .29 ; upper .63 ) and not by the motivation of apprehension ( “ the expectation that others will be trying to obtain as much as possible for themselves , ” p. 389 ; 95 % CI : lower .04 ; upper .02 ) .
+See Figure 2 for a visual representation of the mediation analysis .
+Therefore , participants scoring high on greed take more from a common pool than less greedy individuals do .
+Of interest to the authors , participants in general had a tendency to overharvest ( the optimal amount of hectares on should harvest is 5 , but in general people harvest more ) but greedy individuals tended to overharvest even more .
+Greedy people are more likely to deplete a common resource .
+Furthermore , people who have greedy dispositions are more likely to overharvest because of acquisitiveness motivations , rather than because of the expectancy that others will overharvest .
+General Discussion This article reports on the development and validation of the DGS , a 7-item measure for individual differences in greed .
+Five studies with in total over 7,500 participants from both the United States and The Netherlands established the reliability , construct validity , discriminant validity , and predictive validity of the DGS .
+Study 1 reported on four different samples .
+Dispositional greed was found to correlate with maximization , self-interest , envy , and materialism , all constructs that are often associated with greed .
+CFA showed that greed is also distinct from these four constructs .
+In addition , dispositional greed was associated with more spend- thrift , more impulsiveness ( lower self-control , higher impulsivity , and higher buying impulsivity ) , lower well-being ( lower self- esteem , lower satisfaction with life ) , and having less concern for others ( higher psychological entitlement , higher psychopathy , lower perspective taking , and lower empathic concern ) .
+Because dispositional greed was highly correlated with materi- alism in Study 1 , we further assessed the differences between the two constructs in Study 2 .
+We found that whereas materialism was more predictive of inclinations for material goods , greed was more predictive of inclinations for nonmaterial goods such as food , sex , and friends .
+Studies 3 , 4 , and 5 demonstrated that the DGS reliably predicts greedy behavior in economic dilemmas .
+We obtained this predictive validity in a dictator game , in an ultimatum game , and in a resource dilemma .
+Taken together , these findings suggest that the DGS captures individual differences in dispositional greed in a psychologically and behaviorally valid manner .
+Below , we will first summarize our findings and explain what we have learned about greed .
+In doing so , we explain what greed is , what greed is related to , and what greed does .
+We also discuss the moral char- acter of greed .
+Finally , we point to promising lines for future research on the basis of our findings .
+The studies presented here were needed to develop the DGS .
+However , we believe they are also valuable beyond that purpose .
+These studies also teach us something about the psychology of greed .
+The pattern of correlations displayed in Table 3 provides insight into the nomological network of greed ( Cronbach & Meehl , 1955 ) .
+These correlations , especially when they are replicated in different samples , show lawful relations between greed and cor- responding constructs .
+As such , they help us in finding out what greed precisely is and what it is not .
+Wang and Murnighan ( 2011 ) noted that empirical research on greed is scarce and a clear definition of greed is lacking .
+Seuntjens et al .
+( 2014 ) provide a definition based on an extensive prototype analysis that was the basis of the current DGS .
+The current findings corroborate this definition : Greed is the dissatisfaction of not having enough , combined with the desire to acquire more .
+Working from this definition , we can see how greed relates to other relevant constructs .
+In line with laymen ’ s conceptions , clas- sical economic theory , and previous theorizing ( Lea et al. , 1987 ; Seuntjens et al. , 2014 ; Wang & Murnighan , 2011 ) , greed was associated with higher dispositional tendencies to maximize , to behave self-interestedly , to experience envy , and to be materialis- tic .
+Therefore , our data are supportive of these earlier ideas .
+Let us now describe how we think greed is related to these four focal constructs .
+In economic theory the axiom of greed is often referred to as the axiom of maximization ( Lea et al. , 1987 ) , suggesting that people see greed and maximization as the same thing .
+Data from the first three samples in Study 1 revealed significant correlations between greed and maximization , but CFAs provided support for discriminant va- lidity .
+The pattern of correlations of greed and maximization provides more insight in how these constructs differ .
+Greed was associated with more impulsiveness , while maximization was not .
+This makes sense ; if a decision maker wants to maximize , impulsivity does not come in handy .
+Maximization is characterized by the motivation to make the best possible decision ( Schwartz et al. , 2002 ) .
+Maximizers have to engage in elaborative decision processes .
+They have to weigh all possible alternatives and their outcomes ( and take into account the associated probabilities ) to find the best one .
+Impulsivity would stand in the way of that .
+Greedy people do not maximize , they just want more of things ; and then impulsivity may prove its worth .
+Greed is also related to self-interest .
+Greed results in people want- ing more for themselves .
+As such it predicts similar tendencies as self-interest .
+Research on self-interest typically investigates how much value people place on their own outcomes and on the outcomes of others .
+Greed is unrelated to the outcomes of others because people only focus on their own need to acquire more .
+What did we find concerning the relation between these two constructs ?
+Study 1 re- vealed significant correlations between the DGS and SVO ( our mea- 6 The results are similar if we classify SVO dichotomously .
+T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+928 SEUNTJENS , ZEELENBERG , VAN DE VEN , AND BREUGELMANS sure of self-interest ) .
+Note , however , that these correlations were rather low .
+Moreover , the CFAs demonstrated the distinctness of these constructs .
+More discriminant validity was found in Study 5 .
+Participants took part in a harvesting dilemma that was modeled after the Tragedy of the Commons ( Hardin , 1968 ) .
+They had the role of owner of a timber company and had to decide how much to harvest in the national forest .
+Both greed and self-interest would lead decision makers to harvest more , creating the risk of collective overharvesting .
+We found that both greed and self-interest predicted this behavior independently .
+The relation between envy and greed goes further than the fact that they are two of the seven deadly sins .
+Greed and envy both reflect dissatisfaction with one ’ s current state , and the motivation to act on that dissatisfaction .
+A clear difference between the two is the intrin- sically social nature of envy .
+Envy is felt when someone else has something valuable that I lack and want .
+Envy comprises an upward social comparison ( Van de Ven et al. , 2009 ) .
+Greed in its pure form is individualistic .
+Greed is felt when one lacks and wants something valuable , irrespective of what others have .
+Our data again underscore the relation and distinctness .
+In Study 1 we find that dispositional tendency and the DGS correlate significantly ( Samples 1 and 3 ) , but the CFAs show that they are distinct constructs .
+We also find that dispositional envy is related to social comparison in Sample 1 ( rep- licating Zeelenberg & Pieters , 2007 ) .
+In that sample , the DGS did not correlate with social comparison .
+In Sample 3 of Study 1 we did find a correlation between the DGS and social comparison , suggesting that greedy people may sometimes use social comparison to find out what they are missing .
+Of all focal constructs , materialism was most closely related to greed .
+Although the theoretical relation between greed and material- ism was not entirely clear , the relationship is intuitively plausible given that materialism refers to the extent to which people think the acquisition of material possessions is important ( Belk , 1984 ; Pieters , 2013 ) .
+In the domain of material possessions , greed will also lead to an increased desire to acquire possessions , which is suggestive of a relationship .
+Our prototype analysis also clearly pointed to such a relation ( Seuntjens et al. , 2014 ) .
+Across all samples in Study 1 and in Study 2 , we found high correlations between materialism and greed .
+In all samples , we also found support for discriminant validity in the fact that the CFAs showed that they were separate constructs .
+We designed Study 2 to obtain more insight in how greed and materialism are different .
+Whereas materialism appeared to be more specific to the domain of possessions , the desire present in greed appeared broader , extending to the domains of food , sex , and social relations .
+This finding corroborates early intuitions of Saint Paul , who argued that greed is not just a desire for more money , but is a more general tendency to desire more ( Newhauser , 2000 ) .
+To summarize , the findings presented in this article did not only help us to answer the question what greed is , but also what greed is related to .
+The data clearly show that greed is related to and distinct from maximization , self-interest , envy , and materialism .
+These find- ings provide support for important ideas that were present in the literature , but never empirically tested .
+The findings also point to interesting avenues for future research .
+Before discussing these , how- ever , let us address the moral character of greed .
+As we explained earlier in the article , there are very pronounced and contrasting views with regard to the moral nature of greed , with some philosophers and religions condemning greed ’ s negative con- sequences for other people and other philosophers and economists stressing greed ’ s positive consequences for progress and the accumu- lation of wealth .
+Rather than arguing one of these positions to be more or less true , our data and definition of greed suggest an alternative possibility .
+This is that greed as a motivational state is in itself not intrinsically related to morality ; it is the consequences of greed that can be qualified as more or less moral .
+This follows from the defini- tion of greed as the dissatisfaction of not having enough , combined with the desire to acquire more .
+In situations where our behavior affects the outcomes of other people , such as in the economic games that we used in this article , greedily striving for more for oneself could easily lead to worse outcomes for the people around us .
+Indeed , it is especially because greed may be harmful to others that many religions and philosophers have condemned greed .
+However , in situations where no such interdependencies exist , greed can actually be benefi- cial .
+For example , in situations where huge amounts of effort are necessary to achieve excellence , such as athletes striving to ever improve their performances , scientists striving to ever further our understanding of the world , or artists striving to achieve ever higher peaks of expression , greed may be productive .
+In addition , greed may lead individuals to create economic surplus because they aggregate more goods or wealth than they need .
+However , our definition of greed and its operationalization in the DGS are nonevaluative and remain mute with respect to the nature of the consequences , positive or negative .
+As such , we do not view greed as intrinsically moral or immoral .
+Future Research on Greed In the course of data collection for the development and validation of the DGS we also encountered several interesting leads for future research .
+The first has to do with an unexpected result , namely the Figure 2 .
+Mediation analysis of dispositional greed on harvesting behavior in Study 5. p .05 ; p .01 ; p .001 ; ns not significant .
+T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+929DISPOSITIONAL GREED absence of a relationship between greed and risk taking in Study 1 .
+After the financial crisis , the media often hinted at excessive greed in bankers as an explanation .
+The fact that we did not find that greedy people were more risk seeking could mean that these constructs are unrelated .
+However , it could also mean that the relationship is more complicated than typically portrayed .
+From the perspective of the definition of greed given above , predictions about greed and risk could go in different directions .
+One possibility would be that greedy people ’ s continual striving for more would make them more sensitive to the magnitude of outcomes and less to the associated probabilities , leading to more risk taking .
+However , one could also argue that greed ’ s striving for more would make people choose the option that gives the most certain outcome to ( temporarily ) satiate this need , leading to more risk aversion .
+Another explanation is that there is a relationship between greed and risk that our study was not able to pick-up .
+We used the Holt and Laury ( 2002 ) measure of risk attitudes , which deals with personal gains and personal risks .
+It could be that that greed only leads to more risk-taking in situations where the gains are for the individual , but the losses are shared with a group of people ( as is the case in the example with the bankers ) .
+In cases where risk is shared , personal gains by risky behavior become more attractive , especially to greedy people .
+Some suggestions to this effect can be found in the results of the harvesting game , where the negative consequences of overharvesting are shared among all participants .
+A second suggestion for future research follows from extensions of the positive and negative consequences of greed .
+One evident exten- sion would be to study how greed affects people ’ s financial decision making .
+We found in Sample 3 of Study 1 that the disposition to be greedy was associated with spendthrift and ( buying ) impulsiveness .
+We also found in Sample 4 of Study 1 that greedy people were less satisfied with their financial situation and indicated problems with making ends meet .
+This relates to previous research that greed is often seen as a cause of debts ( Livingstone & Lunt , 1992 ) .
+It would be worthwhile to see whether greed as measured by the DGS relates to decisions to save , spend , and borrow .
+As a case in point , in a recent study of financial behavior in high-school students , we found dispo- sitional greed to be related to more spending and less saving ( Seuntjens , Van de Ven , Zeelenberg , & Van der Schors , 2014 ) .
+Another extension would be to see whether the seemingly insatiable need to acquire more in greed also relates to stronger goal striving , persistence , and enhanced performance .
+If feelings of greed imply that people always feel that they are below their reference point , then we could expect them to work more and harder than people who are more easily satisfied ( e.g. , Heath , Larrick , & Wu , 1999 ) .
+Rose-Ackerman , 1999 ) , theft ( Caudill , 1988 ) , and fraud ( Smith , 2003 ) .
+As we argued before , these findings are most likely not because of any proclivity for negative behavior induced by greed , but rather by the myopic focus on wanting to acquire more .
+We recently started a research project exploring this possibility , find- ing that people high on dispositional greed had more accepting attitudes toward transgressions ( e.g. , lying in your own interest , and accepting bribes ) and engaged more in corruption ( Seuntjens , Van de Ven , Zeelenberg , & Breugelmans , 2014 ) .
+Future research could also focus on the observation that some groups of people appeared to score higher on dispositional greed than others .
+For example , we found that younger people were greedier than older people .
+This finding could have to do with the observation that younger people tend to display more egocentrism than older people ( cf .
+Elkind , 1967 ) .
+However , cohort effects could also cause it , with greed being more prevalent among those who grew up in a world where the emphasis on progress , social mobility , and personal devel- opment was larger ( cf .
+Inglehart , 1997 ) .
+We also found relationships between greed and levels of education and between greed and gender , but , interestingly , we did not find relationships with income or reli- giosity .
+The latter finding may be a bit surprising because most religions strongly condemn greed .
+As a final suggestion , we think that an application of the DGS in other , preferably non-Western cultures would be interesting , not only to test for validity but also to test for potential differences in the endorsement of greed because of different economic systems .
+Previous studies reporting notable cross-cultural variation in be- havior in economic games , like the ones we used in the current article ( e.g. , the ultimatum game ) , suggest that this is an interesting avenue for future research ( Henrich et al. , 2005 ) .
+Conclusion Greed is important .
+It features prominently as an explanation for both economic growth and economic crises , and is a major source of concern for most religions .
+However , not all people are equally greedy .
+Like most psychological traits , individuals differ in the extent to which they are dissatisfied with what they have and in their drive to acquire more and more .
+This article presents the DGS , which captures those individual differences .
+We hope that this short , valid , and reliable scale will prove useful to other researchers , in furthering our understanding of greed and its role in human behavior .
+References Baker , C. R. ( 2006 ) .
+Towards a genealogy of wealth through an analysis of biblical discourses .
+Accounting History , 11 , 151–171 .
+http : //dx.doi.org/ 10.1177/1032373206063112 Balot , R. K. ( 2001 ) .
+Greed and injustice in classic Athens .
+Princeton , NJ : Princeton University Press .
+Baumeister , R. F. ( 2002 ) .
+Yielding to temptation : Self-control failure , impulsive purchasing , and consumer behavior .
+Journal of Consumer Research , 28 , 670–676 .
+http : //dx.doi.org/10.1086/338209 Beck , A. T. ( 1967 ) .
+Depression : Clinical , experimental , and theoretical aspects .
+New York , NY : Harper & Row .
+Belk , R. W. ( 1984 ) .
+Three scales to measure constructs related to materi- alism : Reliability , validity , and relationships to measures of happiness .
+In T. Kinnear ( Ed .
+) , Advances in consumer research , 11 ( pp .
+753–760 ) .
+Provo , UT : Association for Consumer Research .
+Belk , R. W. ( 1985 ) .
+Materialism : Trait aspects of living in the material world .
+Journal of Consumer Research , 12 , 265–280 .
+http : //dx.doi.org/ 10.1086/208515 Bloch , A. P. ( 1984 ) .
+A book of Jewish ethical concepts : Biblical and postbiblical .
+New York , NY : Ktav Publishing House , Inc. Brandts , J. , & Charness , G. ( 2011 ) .
+The strategy versus the direct-response method : A first survey of experimental comparisons .
+Experimental Eco- nomics , 14 , 375–398 .
+http : //dx.doi.org/10.1007/s10683-011-9272-x Brummer , A .
+( 2014 ) .
+Bad banks : Greed , incompetence and the next global crisis .
+London : Penguin Random House .
+Camerer , C. ( 2003 ) .
+Behavioral game theory : Experiments in strategic interaction .
+Princeton , NJ : Russel Sage Foundation .
+Camerer , C. , & Thaler , R. H. ( 1995 ) .
+Ultimatums , dictators and manners .
+The Journal of Economic Perspectives , 9 , 209–219 .
+http : //dx.doi.org/ 10.1257/jep.9.2.209 Campbell , W. K. , Bonacci , A. M. , Shelton , J. , Exline , J. J. , & Bushman , B. J .
+( 2004 ) .
+Psychological entitlement : Interpersonal consequences and T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+930 SEUNTJENS , ZEELENBERG , VAN DE VEN , AND BREUGELMANS validation of a self-report measure .
+Journal of Personality Assessment , 83 , 29–45 .
+http : //dx.doi.org/10.1207/s15327752jpa8301_04 Cassill , D. , & Watkins , A .
+( 2005 ) .
+Mogul games : In defence of inequality as an evolutionary strategy to cope with multiple agents of selection .
+In R. Koppl ( Ed .
+) , Evolutionary psychology and economic theory : Ad- vances in Austrian economics ( pp .
+35–59 ) .
+Oxford , United Kingdom : Elsevier .
+Caudill , D. W. ( 1988 ) .
+How to recognize and deter employee theft .
+Per- sonnel Administrator , 33 , 86–90 .
+Cohen , T. R. , Gunia , B. , Kim-Jun , S. , & Murnighan , J. K. ( 2009 ) .
+Do groups lie more than individuals ?
+Honesty and deception as a function of strategic self-interest .
+Journal of Experimental Social Psychology , 45 , 1321–1324 .
+http : //dx.doi.org/10.1016/j.jesp.2009.08.007 Cronbach , L. J. , & Meehl , P. E. ( 1955 ) .
+Construct validity in psychological tests .
+Psychological Bulletin , 52 , 281–302 .
+http : //dx.doi.org/10.1037/ h0040957 Crowne , D. P. , & Marlowe , D. ( 1960 ) .
+A new scale of social desirability independent of psychopathology .
+Journal of Consulting Psychology , 24 , 349–354 .
+http : //dx.doi.org/10.1037/h0047358 Davis , M. H. ( 1983 ) .
+Measuring individual differences in empathy : Evidence for a multidimensional approach .
+Journal of Personality and Social Psy- chology , 44 , 113–126 .
+http : //dx.doi.org/10.1037/0022-3514.44.1.113 Dommen , E. ( 2011 ) .
+Calvin ’ s views on greed .
+The Ecumenical Review , 63 , 306–311 .
+http : //dx.doi.org/10.1111/j.1758-6623.2011.00123.x Elkind , D. ( 1967 ) .
+Egocentrism in adolescence .
+Child Development , 38 , 1025–1034 .
+http : //dx.doi.org/10.2307/1127100 Eysenck , S. B. , Pearson , P. R. , Easting , G. , & Allsopp , J. F. ( 1985 ) .
+Age norms for impulsiveness , venturesomeness , and empathy in adults .
+Per- sonality and Individual Differences , 6 , 613– 619. http : //dx.doi.org/ 10.1016/0191-8869 ( 85 ) 90011-X Fehr , E. , & Schmidt , K. M. ( 1999 ) .
+A theory of fairness , competition , and cooperation .
+The Quarterly Journal of Economics , 114 , 817–868 .
+http : // dx.doi.org/10.1162/003355399556151 Gibbons , F. X. , & Buunk , B. P. ( 1999 ) .
+Individual differences in social comparison : Development of a scale of social comparison orientation .
+Journal of Personality and Social Psychology , 76 , 129–142 .
+http : //dx .doi.org/10.1037/0022-3514.76.1.129 Goldberg , L. R. ( 1992 ) .
+The development of markers for the Big-five factor structure .
+Psychological Assessment , 4 , 26 – 42. http : //dx.doi.org/ 10.1037/1040-3590.4.1.26 Goldberg , M. H. ( 1994 ) .
+The complete book of greed : The strange and amazing history of human excess .
+New York , NY : William Morrow & Co. Good , A. G. , & Beatty , P. H. ( 2011 ) .
+Fertilizing nature : A tragedy of excess in the commons .
+PLoS Biology , 9 , e1001124 .
+http : //dx.doi.org/10.1371/ journal.pbio.1001124 Gosling , S. D. , Rentfrow , P. J. , & Swann , W. B. , Jr. ( 2003 ) .
+A very brief measure of the Big-Five personality domains .
+Journal of Research in Personality , 37 , 504 –528 .
+http : //dx.doi.org/10.1016/S0092-6566 ( 03 ) 00046-1 Greenfeld , L. ( 2001 ) .
+The spirit of capitalism : Nationalism and economic growth .
+Cambridge , MA : Harvard University Press .
+Güth , W. , Schmittberger , R. , & Schwarze , B .
+( 1982 ) .
+An experimental analysis of ultimatum bargaining .
+Journal of Economic Behavior & Organization , 3 , 367–388 .
+http : //dx.doi.org/10.1016/0167-2681 ( 82 ) 90011-7 Hardin , G. ( 1968 ) .
+The tragedy of the commons .
+The population problem has no technical solution ; it requires a fundamental extension in moral- ity .
+Science , 162 , 1243–1248 .
+Haselhuhn , M. P. , & Mellers , B .
+A .
+( 2005 ) .
+Emotions and cooperation in economic games .
+Cognitive Brain Research , 23 , 24–33 .
+http : //dx.doi .org/10.1016/j.cogbrainres.2005.01.005 Haynes , K. T. , Campbell , J. T. , & Hitt , M. A .
+( 2014 ) .
+When more is not enough : Executive greed and its influence on shareholder wealth .
+Jour- nal of Management .
+[ Advance online publication ] .
+Heath , C. , Larrick , R. P. , & Wu , G. ( 1999 ) .
+Goals as reference points .
+Cognitive Psychology , 38 , 79–109 .
+http : //dx.doi.org/10.1006/cogp.1998 .0708 Henrich , J. , Boyd , R. , Bowles , S. , Camerer , C. , Fehr , E. , Gintis , H. , .
+.
+.
+Tracer , D. ( 2005 ) .
+“ Economic man ” in cross-cultural perspective : Be- havioral experiments in 15 small-scale societies .
+Behavioral and Brain Sciences , 28 , 795–815 .
+http : //dx.doi.org/10.1017/S0140525X05000142 Hoch , S. J. , & Loewenstein , G. F. ( 1991 ) .
+Time-inconsistent preferences and consumer self-control .
+Journal of Consumer Research , 17 , 492–507 .
+http : //dx.doi.org/10.1086/208573 Hoffman , E. , McCabe , K. A. , & Smith , V. L. ( 1996 ) .
+On expectations and the monetary stakes in ultimatum games .
+International Journal of Game Theory , 25 , 289–301 .
+http : //dx.doi.org/10.1007/BF02425259 Holt , C. A. , & Laury , S. K. ( 2002 ) .
+Risk aversion and incentive effects .
+The American Economic Review , 92 , 1644–1655 .
+http : //dx.doi.org/10.1257/ 000282802762024700 Hume , D. ( 2001 ) .
+A treatise of human nature ( D. F. Norton & M. J. Norton , Eds. , 2001st ed . ) .
+Oxford , United Kingdom : Oxford University Press .
+( Original work published 1739 ) Inglehart , R. ( 1997 ) .
+Modernization and postmodernization .
+Princeton , NJ : Princeton University Press .
+Kahneman , D. , Knetsch , J. L. , & Thaler , R. H. ( 1986 ) .
+Fairness and the assumptions of economics .
+The Journal of Business , 59 , S285–S300 .
+http : //dx.doi.org/10.1086/296367 Kraak , S. B. M. ( 2011 ) .
+Exploring the ‘ public good game ’ model to overcome the Tragedy of the Commons in fisheries management .
+Fish and Fisheries , 12 , 18–33 .
+http : //dx.doi.org/10.1111/j.1467-2979.2010 .00372.x Lea , S. E. G. , Tarpy , R. M. , & Webley , P. ( 1987 ) .
+The individual in the economy : A survey of economic psychology .
+Cambridge : Cambridge University Press .
+Levine , D. P. ( 2005 ) .
+The corrupt organization .
+Human Relations , 58 , 723–740 .
+http : //dx.doi.org/10.1177/0018726705057160 Livingstone , S. M. , & Lunt , P. K. ( 1992 ) .
+Predicting personal debt and debt repayment : Psychological , social and economic determinants .
+Journal of Economic Psychology , 13 , 111–134 .
+http : //dx.doi.org/10.1016/0167- 4870 ( 92 ) 90055-C Loewenstein , G. , & Elster , J. J .
+( 1992 ) .
+Choice over time .
+New York , NY : Russell Sage Foundation .
+Mahajan , A. , & Tarozzi , A .
+( 2012 ) .
+Time inconsistency , expectations and technology adoption : The case of insecticide treated nets .
+CEGA working paper .
+Maijala , H. , Munnukka , T. , & Nikkonen , M. ( 2000 ) .
+Feeling of ‘ lacking ’ as the core of envy : A conceptual analysis of envy .
+Journal of Advanced Nursing , 31 , 1342–1350 .
+http : //dx.doi.org/10.1046/j.1365-2648.2000 .01428.x Melleuish , G. ( 2009 ) .
+Greed is great .
+IPA review , 61 , 23–24 .
+Miller , D. T. ( 1999 ) .
+The norm of self-interest .
+American Psychologist , 54 , 1053–1060 .
+http : //dx.doi.org/10.1037/0003-066X.54.12.1053 Murphy , R. O. , Ackermann , K. A. , & Handgraaf , M. J. J .
+( 2011 ) .
+Mea- suring social value orientation .
+Judgment and Decision Making , 6 , 771–781 .
+Nath , S. ( 1998 ) .
+Encyclopaedic dictionary of Buddhism .
+New Delhi : Sarup & Sons .
+Nenkov , G. Y. , Morrin , M. , Ward , A. , Schwartz , B. , & Hulland , J .
+( 2008 ) .
+A short form of the Maximization Scale : Factor structure , reliability and validity studies .
+Judgment and Decision Making , 3 , 371–388 .
+Newhauser , R. ( 2000 ) .
+The early history of greed : The sin of avarice in early medieval thought and literature .
+Cambridge , United Kingdom : Cambridge University Press .
+http : //dx.doi.org/10.1017/CBO9780511485992 Nunnally , J. C. , & Bernstein , I. H. ( 1994 ) .
+Psychometric theory .
+New York , NY : McGraw-Hill .
+T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+931DISPOSITIONAL GREED Oka , R. , & Kuijt , I .
+( 2014 ) .
+Greed is bad , neutral , and good : A historical perspective on excessive accumulation and consumption .
+Economic Anthropology , 1 , 30–48 .
+Papatheodorou , A. , Rosselló , J. , & Xiao , H. ( 2010 ) .
+Global economic crisis and tourism : Consequences and perspectives .
+Journal of Travel Re- search , 49 , 39–45 .
+http : //dx.doi.org/10.1177/0047287509355327 Pavot , W. , & Diener , E. ( 1993 ) .
+Review of the satisfaction with life scale .
+Psychological Assessment , 5 , 164–172 .
+http : //dx.doi.org/10.1037/1040- 3590.5.2.164 Pieters , R. ( 2013 ) .
+Bidirectional dynamics of materialism and loneliness : Not just a vicious cycle .
+Journal of Consumer Research , 40 , 615–631 .
+http : //dx.doi.org/10.1086/671564 Preacher , K. J. , & Hayes , A. F. ( 2008 ) .
+Asymptotic and resampling strategies for assessing and comparing indirect effects in multiple me- diator models .
+Behavior Research Methods , 40 , 879–891 .
+http : //dx.doi .org/10.3758/BRM.40.3.879 Rafiabadi , H. M. ( 2003 ) .
+World religions and Islam : A critical study , Pt .
+1 .
+New Delhi : Sarup & Sons .
+Richins , M. L. ( 2004 ) .
+The material values scale : Measurement properties and development of a short form .
+Journal of Consumer Research , 31 , 209–219 .
+http : //dx.doi.org/10.1086/383436 Richins , M. L. , & Dawson , S. ( 1992 ) .
+A consumer values orientation for materialism and its measurement : Scale development and validation .
+Journal of Consumer Research , 19 , 303–316 .
+http : //dx.doi.org/10.1086/ 209304 Rick , S. , Cryder , C. , & Loewenstein , G. ( 2008 ) .
+Tightwads and spend- thrifts .
+Journal of Consumer Research , 34 , 767–782 .
+http : //dx.doi.org/ 10.1086/523285 Robertson , A. F. ( 2001 ) .
+Greed : Gut feelings , growth , and history .
+Cam- bridge , United Kingdom : Polity Press .
+Rook , D. W. , & Fisher , R. J .
+( 1995 ) .
+Normative influences on impulsive buying behavior .
+Journal of Consumer Research , 22 , 305–313 .
+http : // dx.doi.org/10.1086/209452 Rose-Ackerman , S. ( 1999 ) .
+Corruption and government : Causes , conse- quences , and reform .
+Cambridge , United Kingdom : Cambridge Univer- sity Press .
+http : //dx.doi.org/10.1017/CBO9781139175098 Rosenberg , M. ( 1965 ) .
+Society and the adolescent self-image .
+Princeton , NJ : Princeton University Press .
+Schwartz , B. , Ward , A. , Monterosso , J. , Lyubomirsky , S. , White , K. , & Lehman , D. R. ( 2002 ) .
+Maximizing versus satisficing : Happiness is a matter of choice .
+Journal of Personality and Social Psychology , 83 , 1178–1197 .
+http : //dx.doi.org/10.1037/0022-3514.83.5.1178 Seuntjens , T. G. , Van de Ven , N. , Zeelenberg , M. , & Breugelmans , S. M. ( 2014 ) .
+Greedy bastards : The desire for more as a motivator for uneth- ical behavior .
+TIBER working paper .
+Seuntjens , T. G. , Van de Ven , N. , Zeelenberg , M. , & Van der Schors , A .
+( 2014 ) .
+Greed in adolescents : The impact of Dispositional Greed on loans , savings , and income .
+TIBER working paper .
+Seuntjens , T. G. , Zeelenberg , M. , Breugelmans , S. M. , & Van de Ven , N. ( 2014 ) .
+Defining greed .
+[ Advance online publication ] .
+British Journal of Psychology .
+http : //dx.doi.org/10.1111/bjop.12100 Sheldon , K. M. , & McGregor , H. A .
+( 2000 ) .
+Extrinsic value orientation and “ the tragedy of the commons. ” Journal of Personality , 68 , 383–411 .
+http : //dx.doi.org/10.1111/1467-6494.00101 Simon , H. A .
+( 1955 ) .
+A behavioral model of rational choice .
+The Quarterly Journal of Economics , 69 , 99–118 .
+http : //dx.doi.org/10.2307/1884852 Smith , A .
+( 1776/1994 ) .
+An inquiry into the nature and causes of the wealth of nations .
+Edinburgh , GB : Thomas Nelson .
+http : //dx.doi.org/10.1093/ oseo/instance.00043218 Smith , R. G. ( 2003 ) .
+Serious fraud in Australia and New Zealand .
+Can- berra , AU : Australian Institute of Criminology .
+Smith , R. H. , Parrott , W. G. , Diener , E. F. , Hoyle , R. H. , & Kim , S. H. ( 1999 ) .
+Dispositional envy .
+Personality and Social Psychology Bulletin , 25 , 1007–1020 .
+http : //dx.doi.org/10.1177/01461672992511008 Sundararajan , K. R. ( 1989 ) .
+Hindu spirituality : Vedas through Vedanta .
+New York , NY : The Crossroad Publishing Company .
+Sutherland , S. ( 2014 ) .
+Greed : From Gordon Gekko to David Hume .
+Lon- don : Haus Publishing .
+Tangney , J. P. , Baumeister , R. F. , & Boone , A. L. ( 2004 ) .
+High self-control predicts good adjustment , less pathology , better grades , and interper- sonal success .
+Journal of Personality , 72 , 271–324 .
+http : //dx.doi.org/ 10.1111/j.0022-3506.2004.00263.x Tickle , P. ( 2004 ) .
+Greed : The seven deadly sins .
+Oxford , United Kingdom : Oxford University Press .
+Van de Ven , N. , Zeelenberg , M. , & Pieters , R. ( 2009 ) .
+Leveling up and down : The experiences of benign and malicious envy .
+Emotion , 9 , 419–429 .
+http : //dx.doi.org/10.1037/a0015669 Van Lange , P. A. M. , Otten , W. , De Bruin , E. M. N. , & Joireman , J .
+A .
+( 1997 ) .
+Development of prosocial , individualistic , and competitive ori- entations : Theory and preliminary evidence .
+Journal of Personality and Social Psychology , 73 , 733–746 .
+http : //dx.doi.org/10.1037/0022-3514 .73.4.733 Walster , E. , Walster , G. W. , & Bersheid , E. ( 1978 ) .
+Equity : Theory and research .
+New York , NY : Allyn & Bacon .
+Wang , L. , Malhotra , D. , & Murnighan , J. K. ( 2011 ) .
+Economics education and greed .
+Academy of Management Learning & Education , 10 , 643– 660. http : //dx.doi.org/10.5465/amle.2009.0185 Wang , L. , & Murnighan , J. K. ( 2011 ) .
+On greed .
+The Academy of Man- agement Annals , 5 , 279–316 .
+http : //dx.doi.org/10.1080/19416520.2011 .588822 Wilke , H. A. M. ( 1991 ) .
+Greed , efficiency and fairness in resource man- agement situations .
+European Review of Social Psychology , 2 , 165–187 .
+http : //dx.doi.org/10.1080/14792779143000051 Williams , K. M. , Nathanson , C. , & Paulhus , D. L. ( 2003 ) .
+Structure and validity of the self-report psychopathy scale-III in normal populations .
+Poster presented at the 111th annual convention of the American Pscy- hological Association , Toronto , Canada .
+Zagorin , P. ( 2005 ) .
+Thucydides : An introduction for the common reader .
+Princeton , NJ : Princeton University Press .
+Zandi , M. ( 2008 ) .
+Financial shock : A 360° look at the subprime mortgage implosion , and how to avoid the next financial crisis .
+Upper Saddle River , NJ : FT Press .
+Zeelenberg , M. , & Pieters , R. ( 2007 ) .
+A theory of regret regulation 1.0 .
+Journal of Consumer Psychology , 17 , 3–18 .
+http : //dx.doi.org/10.1207/ s15327663jcp1701_3 Zinbarg , E. ( 2001 ) .
+Faith , morals , and money : What the world ’ s religions tell us about ethics in the marketplace .
+New York , NY : Continuum .
+T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+932 SEUNTJENS , ZEELENBERG , VAN DE VEN , AND BREUGELMANS Appendix Pattern Matrix of the Factor Analysis on the Initial 20-Item Pool of the Dispositional Greed Scale 1 2 3 1 .
+My life motto is : “ more is better. ” .77 2 .
+I always want more .
+.72 3 .
+As soon as I have acquired something I start thinking about the next thing I want .
+.68 4 .
+It doesn ’ t matter how much I have , I ’ m never completely satisfied .
+.66 5 .
+I can ’ t imagine having too many things .65 6 .
+One can never have too much money .
+.61 7 .
+Actually , I ’ m kind of greedy .
+.60 8 .
+If I have to choose between two products I rather buy them both .
+.53 .36 9 .
+I ’ m satisfied with what I have .
+.44 10 .
+I think that happiness is not about the possessions that you have .
+11 .
+I like to give .
+.73 12 .
+I ’ m a generous person .
+.67 13 .
+I prefer to spend my money on myself rather than on others .
+.59 14 .
+I prefer to buy too much instead of taking the risk to have not enough .
+.34 .50 15 .
+I ’ m kind of stingy .
+.42 16 .
+As soon as I possess something , I don ’ t want to lose it .
+.72 17 .
+What is mine stays mine .
+.69 18 .
+I think it ’ s awful to lose my stuff .
+.63 19 .
+I like to keep everything for myself .
+.36 .57 20 .
+I don ’ t like sharing my possessions with others .
+.47 .55 Note .
+Entries are factor loadings after OBLIMIN rotation .
+Participants are asked to indicate the extent to which they agreed that these items were descriptive of themselves .
+Responses were measured on a 5-items Likert-scale , ranging from 1 strongly disagree to 5 strongly agree .
+The first seven items were selected to form the Dispositional Greed Scale .
+Received March 25 , 2014 Revision received November 25 , 2014 Accepted November 30 , 2014 T hi s do cu m en t is co py ri gh te d by th e A m er ic an Ps yc ho lo gi ca l A ss oc ia tio n or on e of its al lie d pu bl is he rs .
+T hi s ar tic le is in te nd ed so le ly fo r th e pe rs on al us e of th e in di vi du al us er an d is no t to be di ss em in at ed br oa dl y .
+933DISPOSITIONAL GREED

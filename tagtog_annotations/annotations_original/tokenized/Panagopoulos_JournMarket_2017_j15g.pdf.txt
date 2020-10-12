@@ -1,0 +1,656 @@
+Panagopoulos_JournMarket_2017_j15g.pdf
+auGb_5zcRd4_zSOQ1eNHkdWKA3fe-Panagopoulos_JournMarket_2017_j15g.pdf.plain.html
+
+Nikolaos G. Panagopoulos , Adam A. Rapp , & Jessica L. Ogilvie Salesperson Solution Involvement and Sales Performance : The Contingent Role of Supplier Firm and Customer–Supplier Relationship Characteristics Salespeople play a crucial role in their firms ’ efforts to provide customer solutions .
+However , little research has examined how salesperson involvement in customer solutions can be conceptualized , whether it pays off , and what boundary conditions might heighten its performance effects .
+This study addresses these gaps and offers a conceptualization of salesperson solution involvement by focusing on the set of salesperson-related activities that enact the four relational processes inherent in customer solutions .
+The authors collect a unique data set that includes a wide range of firms , industries , and countries , as well as the perspectives of both salespeople and customers , across five studies .
+Results validate the stability of the conceptualization across contexts .
+They also reveal that salesperson solution involvement is systematically related to increases in both subjective and objective , time-lagged measures of sales performance .
+Finally , results show that the performance effects of salesperson solution involvement are amplified under higher levels of firm ’ s product portfolio scope , sales unit cross-functional cooperation , and customer–supplier relationship tie strength .
+Surprisingly , customer adaptiveness is not found to moderate the performance effects of salesperson solution involvement .
+Keywords : salesperson , customer solutions , activities , performance , customer relationships Online Supplement : http : //dx.doi.org/10.1509/jm.15.0342 Firms around the globe—including the majority ofFortune 100 firms—have assigned top priority tobuilding a sales force that is effective in providing customer solutions ( Guido 2012 ; Koivuniemi 2016 ) .
+According to the Bureau of Labor Statistics ( 2015 ) , sales- people involved in solution provision are the highest-paid sales professionals employed by U.S. firms .
+Prior studies have also highlighted the role of salespeople in providing customer solutions ( e.g. , Grewal et al .
+2015 ; Kumar , Petersen , and Rapp 2014 ) .
+Although extant research has contributed important insights on solutions ( Tuli , Kohli , and Bharadwaj 2007 ; Ulaga and Reinartz 2011 ) , three critical questions remain unaddressed .
+First , how can salesperson involvement in customer solu- tions be conceptualized ?
+Tuli , Kohli , and Bharadwaj ( 2007 ) have made an important contribution by introducing a con- ceptualization of customer solutions that highlights the role of four customer–supplier relational processes in the provision of a solution .
+However , this work examines customer solutions as firm-level processes , thus placing individualswho are involved in and enact these processes in the background .
+While un- derstanding the creation and delivery of solutions at the firm level is important , the limitation inherent in this view is that the activities through which individuals enact these processes are ignored , thus offering little guidance for howmanagers canfine- tune these processes .
+Previous marketing and strategy research has suggested that understanding firm-level processes , and thus what is done and by whom , requires decomposing processes into a more granular set of activities that are carried out by individuals ( Crowston 1997 ; Srivastava , Shervani , and Fahey 1998 ) .
+While employees from different functional units are involved in solutions ( Tuli , Kohli , and Bharadwaj 2007 ) , the Nikolaos G. Panagopoulos is Assistant Professor of Marketing , Culverhouse College of Commerce , University of Alabama ( e-mail : npanagopoulos @ cba .
+ua.edu ) .
+Adam A. Rapp is Ralph and Luci Schey Professor of Sales , Ohio University ( e-mail : rappa @ ohio.edu ) .
+Jessica L. Ogilvie is Assistant Professor of Marketing , Ohio University ( e-mail : ogilvie @ ohio.edu ) .
+The authors thank the review team for the many insightful suggestions .
+The first two authors also thank participants at Harvard ’ s 2012 Sales Thought Leadership Conference and research seminars at Indiana University and Clemson University for their useful comments on earlier versions of this article ; they are especially grateful to V. Kumar , Rosann Spiro , Neil Morgan , Shanker Krishnan , Scott MacKenzie , Rockney Walters , Rebecca Slotegraaf , Gary Hunter , Ryan Mullins , and Bob Kelly .
+The first author would also like to thank his four research assistants who helped with data collection in the five studies reported in this article .
+G. Tomas M. Hult served as area editor for this article .
+© 2017 , American Marketing Association Journal of Marketing ISSN : 0022-2429 ( print ) Vol .
+81 ( July 2017 ) , 144–164 1547-7185 ( electronic ) DOI : 10.1509/jm.15.0342144 salesperson plays a crucial role in the interactions that take place at the customer interface throughout each of the relational processes ( e.g. , La Rocca et al .
+2016 ; Murtha , Bharadwaj , and Van den Bulte 2014 ) .
+An example is seen in the case of IBM salespeople , who are required to engage in activities that give them deep customer knowledge to effectively provide solu- tions ( Guido 2012 ) .
+Yet , very little research has examined the solution-related activities salespeople need to perform .
+This neglect is surprising given that failure to realize benefits from providing solutions is systematically linked to salespeople engaging in thewrong sales activities ( Koivuniemi 2016 ; Ulaga and Loveland 2014 ) .
+Second , does salesperson solution involvement pay off ?
+Anecdotal reports highlight that even world-renowned firms struggle to realize benefits from their salespeople ’ s engagement in solution-related activities ( e.g. , Koivuniemi 2016 ) .
+Yet , prior work has not paid attention to empirically substantiating whether salesperson involvement in customer solutions pays off ( Grewal et al .
+2015 ) .
+Third , what boundary conditions influence the effectiveness of salesperson solution involvement ?
+Prior theoretical work has pointed out that the influence of a salesperson ’ s activities on performance is affected by characteristics of both the supplier and the customer relationship ( Weitz 1981 ) .
+However , empir- ical research providing managerially relevant conditions that facilitate salesperson solution involvement is surprisingly limited .
+Our study takes an initial step toward addressing these three key limitations andmakes the following contributions .
+First , we offer a conceptualization of salesperson solution involvement , whichwe define as the degree towhich a salesperson engages in activities that help his/her firm provide end-to-end solutions to the salesperson ’ s customers1 ( see Table 1 for definitions of key constructs ) .
+This study thus overcomes the first key limitation of previous research .
+In addition , leveraging a unique data set involvingfive studies acrossfirms , industries , and countries ( see Figure 1 ) , we develop and validate a scale of salesperson so- lution involvement that shows stability regardless of the source of measurement ( i.e. , salespeople vs. customers ) .
+Next , we examine the direct effect of salesperson solution involvement on sales performance—that is , the financial results achieved from a salesperson ’ s solution-related activities among her/his customers .
+Accordingly , we surmount the second key limitation of prior research .
+Our analyses provide managers a basis for informed decisions : results show that an increase in salesperson solution involvement by one standard deviation leads to a 61.95 % increase in objective solution-based sales- person performance against quota ( Study 1 ) ; a 34.92 % increase in subjective salesperson performance ( Study 2 ) ; and a 22.14 % increase in objective , solution-based net profits ( V ) contributed by a customer ( Study 3 ) .
+Finally , we address the third key limitation of previous research by looking at a range of moderating conditions .
+Regarding conditions related to the supplier firm , we propose that the effect of salesperson solution involvement on sales performance is influenced by ( 1 ) sales unit cross-functional cooperation—that is , the quality of interactions between salespeople and employees in other functions regarding value-creating activities for customers ( Im and Nakata 2008 ) ; and ( 2 ) firm ’ s product portfolio scope—that is , the extent or the breadth ( number of product lines ) and depth ( number of product variants in each product line ) of a firm ’ s product portfolio ( Sorescu , Chandy , and Prabhu 2003 ) .
+Furthermore , we consider two conditions related to customer–supplier relationship characteristics : ( 1 ) relationship tie strength—that is , the customer ’ s perceived degree of closeness and reci- procity in the relationship with the supplier ( Rindfleisch and Moorman 2001 ) ; and ( 2 ) customer adaptiveness—that is , the degree to which a customer is willing to modify or adapt its internal routines/processes to accommodate a supplier ’ s solution ( Tuli , Kohli , and Bharadwaj 2007 ) .
+Results show that both supplier firm characteristics amplify the perfor- mance effects of salesperson solution involvement .
+Regarding the customer–supplier relationship characteristics , results reveal that relationship tie strength ( but , interestingly , not customer adaptiveness ) matters in amplifying the relation- ship between salesperson solution involvement and sales performance .
+Theoretical Background and Hypothesis Development Salesperson Solution Involvement We anchor our concept of salesperson solution involvement in the work of Tuli , Kohli , and Bharadwaj ( 2007 ) , who define a customer solution as a “ set of customer–supplier relational processes comprising ( 1 ) customer requirements definition , ( 2 ) customization and integration of goods and/or services and ( 3 ) their deployment , and ( 4 ) postdeployment customer support , all of which are aimed at meeting customers ’ business needs ” ( p. 5 ) .
+It follows , then , that involvement in customer solutions entails enactment of these firm-level relational processes .
+But how are processes enacted in the first place ?
+Prior work in marketing and strategy documents that a process existing at the firm level refers to a measured set of interrelated activities that need to be carried out by individuals for the process to be enacted ( e.g. , Srivastava , Shervani , and Fahey 1998 ) .
+This means that the first step toward under- standing how a firm-level process is enacted requires its decomposition into a set of micro activities performed at the employee level ( e.g. , Crowston 1997 ; Srivastava , Shervani , and Fahey 1998 ) .
+But what activities do salespeople engage in to enact these relational processes ?
+Prior studies in the organizational and strategy literature have pinpointed that the activities individuals engage in depend on the functional unit they belong to andwhich entails different roles , goals , and specialized skills ( e.g. , Crowston 1997 ) .
+So , although multiple functions are involved in relational processes ( Tuli , Kohli , and Bharadwaj 2007 ) , salespeople will perform distinct sets of activities according to their function ’ s role in the creation and delivery of a customer solution .
+Prior research has suggested that the salesperson plays a prominent role in all four relational processes by interacting with every buyer role in the customer 1We thank the editor and an anonymous reviewer for their assistance with construct definition .
+Salesperson Solution Involvement and Sales Performance / 145 T A B L E 1 D efi n it io n an d O p er at io n al iz at io n o f K ey C o n st ru ct s C o n st ru ct D efi n it io n O p er at io n al iz at io n a S tu d y 1 S tu d y 2 S tu d y 3 S al es pe rs on so lu tio n in vo lv em en t D eg re e to w hi ch a sa le sp er so n en ga ge s in ac tiv iti es th at he lp hi s/ he rfi rm pr ov id e en d- to -e nd so lu tio ns to th e sa le sp er so n ’ s cu st om er s S ec on d- or de r re fl ec tiv e co ns tr uc t w ith fo ur fi rs t- or de r di m en si on s ; 18 re fl ec tiv e ite m s ( s al es pe rs on ) S ec on d- or de r re fl ec tiv e co ns tr uc t w ith fo ur fi rs t- or de r di m en si on s ; 18 re fl ec tiv e ite m s ( s al es pe rs on ) S ec on d- or de r re fl ec tiv e co ns tr uc t w ith fo ur fi rs t- or de r di m en si on s ; 18 re fl ec tiv e ite m s ( c us to m er ) S al es un it cr os s- fu nc tio na l co op er at io n Q ua lit y of in te ra ct io ns be tw ee n sa le sp eo pl e an d em pl oy ee s in ot he r fu nc tio ns re ga rd in g va lu e- cr ea tin g ac tiv iti es fo r cu st om er s T hr ee re fl ec tiv e ite m s ( m an ag er ) — — F irm ’ s pr od uc t po rt fo lio sc op e E xt en t of a fi rm ’ s pr od uc t po rt fo lio — T w o fo rm at iv e ite m s ( m an ag er ) — R el at io ns hi p tie st re ng th C us to m er ’ s pe rc ei ve d de gr ee of cl os en es s an d re ci pr oc ity in th e re la tio ns hi p w ith th e su pp lie r — — S ix re fl ec tiv e ite m s ( c us to m er ) C us to m er ad ap tiv en es s D eg re e to w hi ch a cu st om er is w ill in g to m od ify or ad ap t its in te rn al ro ut in es /p ro ce ss es to ac co m m od at e a su pp lie r ’ s so lu tio n — — F iv e re fl ec tiv e ite m s ( c us to m er ) S al es pe rf or m an ce F in an ci al re su lts ac hi ev ed fr om a sa le sp er so n ’ s so lu tio n- re la te d ac tiv iti es am on g he r/ hi s cu st om er s O bj ec tiv e in de x of so lu tio n- ba se d sa le sp er so n pe rf or m an ce ag ai ns t qu ot a at tim e 1 ( a rc hi va l ) S ub je ct iv e m ea su re of sa le sp er so n pe rf or m an ce w ith fi ve fo rm at iv e ite m s ( s al es pe rs on ) O bj ec tiv e m ea su re of so lu tio n- ba se d ne t pr ofi ts ( V ) co nt rib ut ed by a cu st om er at tim e 1 ( a rc hi va l ) a I te m s fo r al lk ey co ns tr uc ts ar e lis te d in T ab le 2 .
+146 / Journal of Marketing , July 2017 firm across the entire solution cycle ( e.g. , La Rocca et al .
+2016 ; Murtha , Bharadwaj , and Van den Bulte 2014 ; Storbacka , Polsa , and Sääksjärvi 2011 ; Töllner , Blut , and Holzmüller 2011 ) .
+It therefore stands to reason that sales- people , along with employees in other functions , will be involved in the enactment of the relational processes .
+However , because of their unique role , salespeople will perform a distinct set of activities within each process .
+Given that the focus of our study is on the individual salesperson rather than on multiple functions , we examine the salesperson- related set of activities performed to enact each relational process .
+Also , because customer solutions are manifested as relational processes ( Tuli , Kohli , and Bharadwaj 2007 ) , it follows that the conceptual domain of salesperson solution involvement should involve activities that are directed toward the customer relationship .
+We elaborate on these activities next .
+Being the primary customer touch point ( Murtha , Bharadwaj , and Van den Bulte 2014 ) , the salesperson initiates the process of customer requirements definition by engaging in activities such as probing the customer firm ’ s employees , uncovering the customer ’ s broader business needs/objectives , and understanding what goods/services the customer buys from other suppliers to define a solution that creates value for the customer ( Aarikka-Stenroos and Jaakkola 2012 ; Haas , Snehota , and Corsaro 2012 ; Steward et al .
+2010 ; Töllner , Blut , and Holzmüller 2011 ) .
+The salesperson proceeds to enact the process of customization/integration of goods/services by getting involved in the process of assembling and mod- ifying the best possible combination of goods/services , while FIGURE 1 Conceptual Model and Studies Layout Phase I : Scale Development and Validation Salesperson Solution Involvementd , e Sales Performancef , gH1 Phase II : Hypothesis Testing Study 2 • Multiple firms • Multiple industries • Various solutions • Multisource survey data • N1 = 247 salespeople • N2 = 58 managers Study 3 • Single firm • Energy/water management/building services solutions • Survey and archival data • N = 185 customers Study 1 • Single firm • Multiple countries • Energy and electronics solutions • Multisource survey and archival data • N1 = 120 sales engineers • N2 = 38 managers Qualitative Prestudy : Scale Development • In-depth interviews and literature review • Judgment sample • Across industries • N = 27 senior executives Quantitative Prestudy : Scale Validation • Single firm • IT solutions • Survey data • N = 104 customers Qualitative Prestudy Step 1 : Item generation ( 30 items ) Step 2 : Item assessment by subject matter experts Step 3 : Retention of 20 items Customer–Supplier Relationship Characteristics Relationship tie strengthc ( H4 ) Customer adaptivenessc ( H5 ) Supplier Firm Characteristics Sales unit cross-functional cooperationa ( H2 ) Firm ’ s product portfolio scopeb ( H3 ) Quantitative Prestudy Step 7 : Retention of final set of 18 items Step 6 : Measurement analysis of 18 items ( CFA ) Step 5 : Deletion of 2 items Step 4 : Measurement analysis of 20 items ( CFA ) aManager ( Study 1 ) .
+bManager ( Study 2 ) .
+cCustomer ( Study 3 ) .
+dSalesperson ( Studies 1 and 2 ) .
+eCustomer ( Study 3 ) .
+fSalesperson ( Study 2 ) .
+gArchival at time1 ( Studies 1 and 3 ) .
+Salesperson Solution Involvement and Sales Performance / 147 making sure that this bundle will meet the identified customer requirements ( La Rocca et al .
+2016 ; Steward et al .
+2010 ; Töllner , Blut , and Holzmüller 2011 ) .
+During the deployment process , whereas technical specialists perform activities of solution delivery or technical installation , the salesperson manages the “ people aspects ” by personally taking care of and monitoring the quick delivery and installation of the proposed solution ( Tuli , Kohli , and Bharadwaj 2007 ) .
+Deployment also requires salespeople to adapt the solution to needs that may arise during installation .
+This is done by understanding the capabilities of the employees who are going to use the solution and by providing all the information required for the customer firm to optimize the value derived from a solution ( La Rocca et al .
+2016 ; Steward et al .
+2010 ; Storbacka 2011 ; Töllner , Blut , and Holzmüller 2011 ) .
+Finally , enactment of the postdeployment customer support process may involve nonsales activities like conducting routine maintenance , especially in solutions involving capital goods ( Ulaga and Reinartz 2011 ) .
+However , postdeployment sup- port also entails that solutions are viewed as ongoing relationships rather than as one-off projects ( Tuli , Kohli , and Bharadwaj 2007 ) .
+As such , the salesperson is involved in postdeployment customer support by staying available and maintaining a dialogue with the customer to verify that needs are met ( Ulaga and Loveland 2014 ) .
+Because emergent situations may require refinement of the offering ’ s value ( Haas , Snehota , and Corsaro 2012 ) , the salesperson also performs activities to diagnose new needs and propose new solutions and , thus , further cement the quality of inter- actions with the customer ( e.g. , Töllner , Blut , and Holzmüller 2011 ) .
+Conceptual Model Overview Our conceptual model ( Figure 1 ) is informed directly by Weitz ’ s ( 1981 ) contingency framework for understanding salesperson performance .
+In particular , Weitz proposes that salesperson activities directly influence his or her perform- ance .
+Accordingly , we posit that the degree to which a salesperson engages in solution-related activities is linked to sales performance ( see H1 ) .
+Our model also considers theoretically selected moderators that influence the effectiveness of salesperson solution involvement .
+Specifically , Weitz ( 1981 ) describes two types of boundary conditions that influence the relationship between salesperson activities and sales performance : ( 1 ) supplier-firm resources made available to the salesperson and ( 2 ) the char- acteristics of the relationship with the customer .
+These boun- dary conditions have also been highlighted in prior work that points out that the value created from solutions depends on resources the supplier firm makes available to salespeople ( Haas , Snehota , andCorsaro 2012 ; Steward et al .
+2010 ) and that customer solutions are embeddedwithin customer relationships ( Tuli , Kohli , and Bharadwaj 2007 ) .
+Accordingly , we consider the moderating influence of supplier firm characteristics—that is , “ sales unit cross-functional cooperation ” ( see H2 ) and “ firm ’ s product portfolio scope ” ( see H3 ) —and customer– supplier relationship characteristics—that is , “ relationship tie strength ” ( see H4 ) and “ customer adaptiveness ” ( see H5 ) —on the relationship between salesperson solution involvement and sales performance .
+Effect of Salesperson Solution Involvement on Sales Performance Asmentioned previously , central to the concept of customer solutions are the four interrelated processes through which salespeople generate and deliver novel solution config- urations that meet customers ’ needs ( Tuli , Kohli , and Bharadwaj 2007 ) .
+Thus , salespeople create value for cus- tomers by effectively deciphering unique customer require- ments , strategically combining goods/services in a firm ’ s product portfolio , integrating products with valuable resources and technical expertise , and deploying/supporting the delivery of these solutions to customers ( Haas , Snehota , and Corsaro 2012 ; Töllner , Blut , and Holzmüller 2011 ) .
+Specifically , involvement in solution provision allows a salesperson to better understand current and future customer needs and can catalyze customers ’ perceptions of the salesperson as an expert with the unique know-how and competence to add value to their business ( Murtha , Bharadwaj , and Van den Bulte 2014 ) , which , in turn , improves sales performance .
+Moreover , salesperson activities within solution processes can align supplier offerings with pertinent customer requirements and foster an ongoing exchange that generates value for the customer ( Storbacka 2011 ) .
+By investing relational capital throughout the solution processes , the salesperson makes the exchange valuable for the customer , thus catalyzing superior sales performance ( Palmatier , Scheer , and Steenkamp 2007 ) .
+Thus : H1 : Salesperson solution involvement is positively related to sales performance .
+Moderating Effects of Supplier Firm Characteristics Sales unit cross-functional cooperation .
+We expect that higher levels of sales unit cross-functional cooperation enhance the value generated from solution-related activities , thus increasing the financial results achieved from sales- person solution involvement .
+First , better quality of inter- functional interactions regarding value-creating activities facilitates salespersons ’ access to key specialized skills and expertise required to configure product applications that solve customer-specific problems ( Steward et al .
+2010 ; Storbacka , Polsa , and Sääksjärvi 2011 ) .
+Second , prior work suggests that high-quality cross-functional cooperation facilitates better processing and usage of customer-related information ( Jaworski and Kohli 1993 ) .
+By cooperating with employees in other functions , salespeople can sup- plement the knowledge they have generated with different functional insights that are necessary for creating customer value ( Atuahene-Gima 2005 ) .
+This diversity of information provides multiple lenses into product applications , which enables salespeople in the process of accurately identifying and matching customers ’ requirements to value-creating offerings ( Steward et al .
+2010 ; Storbacka , Polsa , and Sääksjärvi 2011 ) .
+Third , through high-quality interactions with other functions , salespeople ensure that the identified customer requirements can be enacted through the firm ’ s 148 / Journal of Marketing , July 2017 resources ( Sleep , Bharadwaj , and Lam 2015 ) .
+Accordingly , the value created through activities such as customization of goods/services or solution deployment is increased .
+In sum- mary , the combination of high levels of salesperson solution activities and high levels of cross-functional cooperation increases the value created for customers , which , in turn , catalyzes the financial results achieved .
+Thus : H2 : The higher the sales unit cross-functional cooperation , the stronger the positive relationship between salesperson solution involvement and sales performance .
+Firm ’ s product portfolio scope .
+A broad and deep product portfolio provides flexibility with regard to the dif- ferent product versions and variations made available to the salesperson ( Saxe andWeitz 1982 ) .
+This flexibility aids salespeople in adapting solutions to the specific customer requirements which increases the value created for customers , thus improving sales performance .
+Prior work has shown , for instance , that product portfolio breadth increases customer satisfaction ( Bowman and Narayandas 2004 ) .
+Conversely , a narrow product portfolio limits the options available for accurately identifying customer requirements and the actions needed to fulfill them ( Tuli , Kohli , and Bharadwaj 2007 ) , such that engagement in solution-related activities becomes less efficient , thereby hurting sales performance .
+Furthermore , when a salesperson has access to a broader/deeper product portfolio , ( s ) he can better adapt the solution to emerging customer needs , thus improving the value of postdeployment support activities for the customer .
+Finally , a larger product scope entails that salespeople have more opportunities to develop broader levels of expertise and multifaceted knowl- edge across a variety of specialized applications ( Sorescu , Chandy , and Prabhu 2003 ) .
+Because knowledge diversity improves problem solving ( Schilling et al .
+2003 ) , a broader product portfolio should increase the value that solution- related activities create for customers and improve sales performance in turn .
+Thus : H3 : The larger the firm ’ s product portfolio scope , the stronger the positive relationship between salesperson solution involvement and sales performance .
+Moderating Effects of Customer–Supplier Relationship Characteristics Relationship tie strength .
+Relationship tie strength entails norms of trust , closeness , and mutual reciprocity that provide exchange parties with increased transaction efficiency ( Kaufman , Jayachandran , and Rose 2006 ) .
+We posit that strong relational ties act as mechanisms that increase the value offered to customers through involvement in solution provision , thus enabling the salesperson to achieve better financial results .
+First , strong relational ties foster the timely exchange of private , complex , and even tacit information ( Ganesan , Malter , and Rindfleisch 2005 ; Rindfleisch and Moorman 2001 ) , such as information about the customer firm ’ s broader business needs .
+Further , strong ties increase learning , because they ensure that only required information is transferred ( Uzzi and Lancaster 2003 ) .
+This situation accelerates a salesperson ’ s capacity to learn about unique aspects of a customer ’ s operations that may allow either for a deeper understanding of customer requirements or for antic- ipating changes in future needs ( Tuli , Kohli , and Bharadwaj 2007 ) .
+Second , because information sharing decreases un- certainty ( Kaufman , Jayachandran , and Rose 2006 ) , cus- tomers can focus their attention on the value created rather than on negotiating and monitoring ( Dyer and Singh 1998 ; Rindfleisch and Moorman 2003 ) .
+This allows the sales- person to more quickly tap into the specialized systems and knowledge of the customer firm and , thus , acquire a deeper understanding of customer requirements , configure and implement better solutions , and better understand the skills of those who will be using the solution .
+Third , because strong relational ties induce joint problem solving as well as the pursuit of new ideas ( Dyer and Singh 1998 ) , salespeople can offer more value to customers by engaging in solution-related activities , such as designing a bundle of goods/services or deploying the solution to fit the customer ’ s environment .
+Thus : H4 : The stronger the relationship ties , the stronger the positive relationship between salesperson solution involvement and sales performance .
+Customer adaptiveness .
+Effective solution provision requires customer adaptation ( Tuli , Kohli , and Bharadwaj 2007 ) .
+This is because customer solutions require customers to make concerted efforts in adjusting their processes and to tolerate heightened levels of risk as a result of unforeseen contingencies ( Aarikka-Stenroos and Jaakkola 2012 ) .
+We anticipate that higher levels of customer adaptiveness will improve the value that salesperson solution activities generate for customers , thus improving the financial results achieved .
+Specifically , because adaptation inspires “ what-if ” dialogues with the salesperson ( Tuli , Kohli , and Bharadwaj 2007 ) , cus- tomers can explore a wide range of potential product config- urations during the customer requirements definition process .
+Salespeople can simultaneously explore avenues to broaden the applicability of existing products within existing routines or to modify customer routines to allow a seamless and quick integration of the solution with the customer environment .
+Furthermore , when adaptiveness is high , the salesperson enjoys greater latitude in the number and types of goods/services combinations that can be used to solve customer ’ s problems ( Bonney and Williams 2009 ) .
+Adaptiveness also implies that customers accommodate emergent situational constraints that often occur during or after implementation , such as complying with new training requirements ( Tuli , Kohli , and Bharadwaj 2007 ) , thereby enabling salespeople to deploy solutions or provide postdeployment support in ways that create more value for customers .
+Conversely , if the customer is unwilling to adapt to the requirements of the solution , frictions and tensions appear that may disorganize , prolong , or even damage the process of value creation , thus hurting profits ( Cannon and Homburg 2001 ) .
+For instance , salespeople may need to make more modifications to products/services , a situation that makes the process of customization and integration less efficient ( Tuli , Kohli , and Bharadwaj 2007 ) .
+Thus : H5 : The greater the customer adaptiveness , the stronger the pos- itive relationship between salesperson solution involvement and sales performance .
+Salesperson Solution Involvement and Sales Performance / 149 Overview of Studies We implemented five studies over two phases ( Figure 1 ) .
+In Phase I , we develop and validate the salesperson solution involvement scale through two prestudies that capture the supplier and customer perspectives .
+Initial scale development focuses on in-depth insights about salesperson solution- related activities gleaned from executives in supplier firms ( Qualitative Prestudy ) , whereas scale validation focuses on customer-side reports of salesperson solution activities with regard to a specific customer–supplier relationship ( Quanti- tative Prestudy ) .
+In Phase II , we test hypotheses in three field studies ( Studies 1–3 ) .
+Study 1 is conducted within a major firm and is designed to test the effect of salesperson-reported solution involvement on archival salesperson performance data .
+In addition , this study tests for the moderating effect of sales unit cross-functional cooperation , which manifests at the firm level and which is captured by managers across countries to allow for variation .
+Study 2 builds on Study 1 by focusing on salesperson-reported solution involvement and its impact on subjective sales performance .
+Because this study examines the moderating effect of a firm ’ s product portfolio scope ( i.e. , a firm-level construct ) , it is conducted across firms , industries , and contexts ( to allow for variation in product portfolio scope , which is captured by manager data ) .
+Finally , Study 3 builds on Studies 1 and 2 by examining salesperson solution involvement with regard to a specific customer– supplier relationship and , thus , focusing on a customer-level measure of sales performance .
+This study is designed to test hypotheses involving customer–supplier relationship characteristics ( i.e. , relationship tie strength and customer adaptiveness ) .
+Phase I : Scale Development and Validation Qualitative Prestudy We followed established procedures for scale development ( Churchill 1979 ) .
+First , we developed the definition for salesperson solution involvement and its four underlying dimensions ( i.e. , relational processes ) based on the work of Tuli , Kohli , and Bharadwaj ( 2007 ) .
+Our definition highlights that salesperson solution involvement can be thought of as a second-order construct reflected in the four first-order di- mensions , each of which is reflected in a set of items ( i.e. , activities ) .
+On the basis of the definition as well as a literature review of 170 articles , we generated an initial pool of 30 items .
+Second , we conducted in-depth interviews with a judgment sample of 27 senior executives who possessed extensive experiencewith customer solutions andwhowereworking for subsidiaries of major multinational firms operating in Greece .
+Industries represented in the sample include health care ( 19 % ) , information technology ( 37 % ) , electronics ( 15 % ) , industrial equipment ( 19 % ) , and consulting services ( 11 % ) .
+Participants had an average of 18.1 years of industry expe- rience and 24 years of work experience .
+Interviews lasted 40–90minutes ( x = 54minutes ) .
+Participants reviewed the list of 30 items , as well as definitions of the construct and its four dimensions , and rated each item on how well it reflected its corresponding dimension ( content validity ) , using a three- point scale ( 1 = “ not representative , ” and 3 = “ clearly rep- resentative ” ) .
+Subject matter experts also assessed whether items ( 1 ) might be related to the other three relational pro- cesses ( face validity ) , ( 2 ) were worded appropriately , and ( 3 ) were generalizable across contexts .
+Finally , on the basis of the preceding item analysis , we retained 20 items .
+Quantitative Prestudy Sample .
+Data were collected in the subsidiary of a U.S.- basedFortune 500 information technology ( IT ) firm inGreece that provides mobile platform , cloud computing , and security solutions .
+The firm provides high-end , complex solutions that aim to boost customer efficiency by performing processes such as managing payroll and customer relationship man- agement .
+The firm assigns a salesperson ( i.e. , account man- ager ) , who orchestrates all activities and serves as the primary contact point , to each customer firm .
+The firm provided us with the contact details of the key buyer who is the primary decision maker and is most knowledgeable about the solution purchasing process in the customer firm .
+We asked buyers to rate the focal firm ’ s salesperson—who had recently interacted with them during the purchase of an IT solution—relative to competing salespeople from firms the buyer had considered for the purchase of this solution ( see Table 2 ) .
+We used standard forward- and backward-translation procedures to translate the survey into Greek .
+We sent an online survey to a random sample of 440 buyers .
+After two reminders , we re- ceived 104 usable responses ( 23.63 % ) .
+Measure assessment .
+We subjected the salesperson sol- ution involvement scale to a confirmatory factor analysis ( CFA ) .
+On the basis of modification indices , factor loadings , andmodel fit statistics ( c2166 = 346.78 , p < .01 ; rootmean square error of approximation [ RMSEA ] = .10 ; normed fit index [ NFI ] = .97 ; nonnormed fit index [ NNFI ] = .98 ; comparative fit index [ CFI ] = .98 ) , we deleted two items,2 reducing the scale to eighteen items ( see Table 2 ) .
+The modified model fit the data well : c2131 = 258.36 , p < .01 ; RMSEA= .09 ; NFI= .97 ; NNFI = .98 ; CFI = .98 .
+Composite reliability ( CR ) coefficients for the second-order construct and first-order dimensions exceed the cutoff value of .70 .
+Convergent validity is evident ; average variance extracted ( AVE ) values all exceed .50 .
+Factor loadings are significant , with the lowest standardized loading equal to .81 ( p < .01 ) .
+The results suggest that significant systematic variance in the individual indicators can be attributed to the underlying latent construct , thereby providing empirical support for the second-order structure of our scale .
+2Deleted items were “ Integrates goods and services from various sources into a total solution ” in the “ customization and integration ” dimension and “ Makes sure that customers receive the appropriate training about the solution ” in the “ deployment ” dimension.We note that these items refer to activities that may only be necessary in specific situations , although they could be important in other sit- uations in which appropriate training is necessary or the supplier must work with partners and integrate goods/services from various sources .
+We thank an anonymous reviewer for this helpful elabo- ration on our findings .
+150 / Journal of Marketing , July 2017 TABLE 2 Key Measures Across Studies A : Salesperson Solution Involvement Items CFA-Based Standardized Loadingsa Dimension Quantitative Prestudy and Study 3b The following statements refer to the activities that the salesperson from [ Supplier Name ] performed during the process of offering you an IT solution .
+Please rate this salesperson , relative to competing salespeople from companies you considered for this solution , in each of the following activities .
+Compared to competing salespeople , [ Supplier Name ] ’ s salesperson …c … has a deep understanding of our needs .
+.88/.72 Customer requirements definition … has a deep understanding of the broader objectives of my firm .
+.83/.82 Customer requirements definition … asks the right questions to identify our needs .
+.96/.82 Customer requirements definition … has a deep understanding of our firm .
+.94/.77 Customer requirements definition … has a deep understanding of the goods/services we buy from other suppliers .
+.92/.82 Customer requirements definition … designs goods and services that can work together as a solution .
+.90/.91 Customization and integration …modifies goods and services so that they can work together as a solution .
+.94/.77 Customization and integration … selects goods and services that can work together as a solution .
+.90/.75 Customization and integration … personally takes care of the quick delivery of the proposed solution .
+.88/.74 Deployment … personally monitors the installation of the proposed solution .
+.88/.81 Deployment … knows the capabilities of the users of the proposed solution .
+.92/.71 Deployment … provides us with the necessary information about the solution .
+.90/.79 Deployment … keeps us updated about new developments after solution implementation .
+.88/.88 Postdeployment support … always has a newsolution to offer to satisfy our new needs .
+.93/.89 Postdeployment support … develops a long-term relationship with us after solution implementation .
+.91/.85 Postdeployment support … stays available after solution implementation .
+.81/.83 Postdeployment support …maintains a continue dialogue with us after solution implementation .
+.96/.84 Postdeployment support … calls on us after solution implementation to verify that our needs have been met .
+.93/.82 Postdeployment support Studies 1 and 2d The following statements refer to the activities you perform during the process of selling a solution to your customers .
+Please rate yourself relative to salespeople from companies that are directly competing with you in offering solutions to the same customers , in terms of … … having a deep understanding of customer needs .
+.92/.62 Customer requirements definition … having a deep understanding of the broader objectives of customer firms .
+.85/.76 Customer requirements definition … asking the right questions to identify customer needs .
+.88/.72 Customer requirements definition … having a deep understanding of customer firms .
+.91/.66 Customer requirements definition … having a deep understanding of the goods/services customers buy from other suppliers .
+.73/.71 Customer requirements definition … designing goods and services that can work together as a solution .
+.91/.86 Customization and integration Salesperson Solution Involvement and Sales Performance / 151 TABLE 2 Continued A : Salesperson Solution Involvement Items CFA-Based Standardized Loadingsa Dimension … modifying goods and services so that they can work together as a solution .
+.93/.88 Customization and integration … selecting goods and services that can work together as a solution .
+.94/.77 Customization and integration … personally taking care of the quick delivery of the proposed solution .
+.82/.62 Deployment … personally monitoring the installation of the proposed solution .
+.80/.68 Deployment … knowing the capabilities of the users of the proposed solution .
+.87/.66 Deployment … providing customers with the necessary information about the solution .
+.88/.64 Deployment … keeping customers updated about new developments after solution implementation .
+.82/.64 Postdeployment support … always having a new solution to offer to satisfy customers ’ new needs .
+.78/.50 Postdeployment support … developing a long-term relationship with customers after solution implementation .
+.90/.63 Postdeployment support … staying available after solution implementation .
+.87/.74 Postdeployment support … maintaining a continue dialogue with customers after solution implementation .
+.90/.79 Postdeployment support … calling on customers after solution implementation to verify that their needs have been met .
+.77/.63 Postdeployment support B : Sales Performance Items CFA-Based Standardized Loadings Study 1e Objective index of solution-based salesperson performance against quota at time1 N.A .
+Study 2f The following statements refer to aspects of your performance .
+Please indicate the extent to which you agree with each of the following : I am effective in contributing to my firm ’ s market share .
+N.A .
+I am effective in generating a high level of euro sales .
+N.A .
+I am effective in identifying major accounts in my territory and selling to them .
+N.A .
+I am effective in exceeding annual sales targets .
+N.A .
+I am effective in assisting my supervisor meet his or her goals .
+N.A .
+Study 3e Objective measure of solution-based net profits ( V ) contributed by a customer at time1 N.A .
+C : Sales Unit Cross-Functional Cooperation Items CFA-Based Standardized Loadings Study 1g Please indicate the degree of your agreement with each of the following statements .
+Concerning interactions between salespeople that sell solutions in my sales unit , and members from other functional units , my salespeople … … and other business functions are integrated in serving the needs of our target markets .
+.63 152 / Journal of Marketing , July 2017 TABLE 2 Continued C : Sales Unit Cross-Functional Cooperation Items CFA-Based Standardized Loadings … understand how other employees in our business can contribute to creating customer value .
+.88 … work hard with employees in other functions to solve customer problems thoroughly and jointly .
+.93 D : Firm ’ s Product Portfolio Scope Items CFA-Based Standardized Loadings Study 2h The following statements refer to the goods/services comprising the product lines your salespeople draw on to sell solutions to customers .
+Please indicate the extent to which you agree with each of the following : We offer many different product lines to our customers .
+N.A .
+Our salespeople promote product lines comprising a large number of products each .
+N.A .
+E : Relationship Tie Strength Items CFA-Based Standardized Loadings Study 3i The following statements refer to your firm ’ s relation with [ Supplier Name ] .
+Please indicate the extent to which you agree with each of the following : We feel indebted to [ Supplier Name ] for what they have done for us .
+.79 Our interactions with [ Supplier Name ] can be defined as “ mutually gratifying. ” .81 Our employees share close social relations with employees from [ Supplier Name ] .
+.78 We expect to be interacting with [ Supplier Name ] far into the future .
+.83 Maintaining a long-term relationship with [ Supplier Name ] is important to us .
+.80 Our business relationship with [ Supplier Name ] could be described as “ cooperative ” rather than an “ arm ’ s-length ” relationship .
+.69 F : Customer Adaptiveness Items CFA-Based Standardized Loadings Study 3j The following statements refer to your firm ’ s relation with [ Supplier Name ] .
+Please indicate the extent to which you agree with each of the following .
+In our company … … we ’ re willing to modify our processes in order to facilitate our relationship with [ Supplier Name ] .
+.82 … we ’ re open to adapt our processes in order to facilitate the implementation of a recommended solution from [ Supplier Name ] .
+.71 … we can easily adjust to the requirements of a suggested solution from [ Supplier Name ] .
+.64 … we ’ re willing to modify our routines in order to facilitate our relationship with [ Supplier Name ] .
+.72 … we ’ re willing to adapt our product/services in order to facilitate our relationship with [ Supplier Name ] .
+.72 aCFA-based standardized loadings for Quantitative Prestudy/Study 3 or Study 1/Study 2 , respectively .
+bCustomer-reported , reflective measure , assessed on a seven-point scale ( 1 = “ strongly disagree , ” and 7 = “ strongly agree ” ) ; CR = .98/.97 ; AVE = .92/.88 .
+cIn Study 3 , we use “ energy/water management/building services ” instead of “ IT ” to reflect the different solution context .
+dSalesperson-reported , reflectivemeasure , assessed on a seven-point scale ( 1 = “ muchworse , ” and 7 = “ much better ” ) ; CR = .96/.81 ; AVE = .84/.52 .
+eArchival data .
+fSalesperson-reported , formative index , assessed on a seven-point scale ( 1 = “ strongly disagree , ” and 7 = “ strongly agree ” ) .
+gManager-reported , reflective measure , assessed on a seven-point scale ( 1 = “ strongly disagree , ” and 7 = “ strongly agree ” ) ; CR = .86 ; AVE = .68. hManager-reported , formative index ; assessed on a five-point scale ( 1 = “ strongly disagree , ” and 5 = “ strongly agree ” ) .
+iCustomer-reported , reflective measure , assessed on a seven-point scale ( 1 = “ strongly disagree , ” and 7 = “ strongly agree ” ) ; CR = .90 ; AVE = .61. jCustomer-reported , reflective measure , assessed on a seven-point scale ( 1 = “ strongly disagree , ” and 7 = “ strongly agree ” ) ; CR = .85 ; AVE = .53 .
+Notes : N.A .
+= not applicable for manifest/formative measures .
+Salesperson Solution Involvement and Sales Performance / 153 Phase II : Hypotheses Testing Study 1 Sample .
+Study 1 was set in a Fortune Global 500 elec- tronics firm that provides energy and electronics solutions to enterprise customers .
+We sent an online survey in English to the entire solutions sales force ( 168 sales engineers ) and their managers ( 39 ) across the firm ’ s subsidiaries in 15 European Union countries : Austria , Belgium , Czech Republic , France , Germany , Greece , Hungary , Italy , Netherlands , Poland , Portugal , Romania , Spain , Sweden , and United Kingdom .
+Because of salesperson attrition , the sample dropped to 157 .
+We sent weekly reminders over a six-week period and received 120 usable salesperson ( 76.4 % ) and 38 manager ( 97.4 % ) responses .
+We matched survey responses ( time0 ) to objective , archival data on sales performance one year after the survey ( time1 ) .
+Salesperson-reported measures .
+Given that salespeople were the respondents in this study , we made minor mod- ifications to the introductory text and items in the solution involvement scale to fit with the context ( see Table 2 ) .
+Spec- ifically , salespeople rated themselves relative to salespeople from firms that directly competed with them in offering so- lutions to the same customers ( 1 = “ much worse , ” and 7 = “ much better ” ) .
+Given the results of prior meta-analytic work suggesting that personal and internal/external environmental variables explain sales performance ( e.g. , Verbeke , Dietz , and Verwaal 2011 ) , we consider several covariates to avoid model misspecification ( see Study 1 , Theme 1 , in the Web Appen- dix ) .
+Specifically , we consider domain-specific expertise ( mean number of hours spent weekly inside customer firms ) , organizational expertise ( years working for the current firm ) , general sales expertise ( years of selling experience across firms ) , activity control ( i.e. , four items from Miao and Evans 2013 ) and competitive intensity ( i.e. , three items from Jaworski and Kohli 1993 ) .
+Finally , we employ coaching ( six items from Heslin , Vandewalle , and Latham 2006 ) and salesperson ’ s job engagement ( six items from Schaufeli et al .
+2002 ) in our subsequent endogeneity procedure ( see Study 1 , Theme 1 , in the Web Appendix ) .
+Manager-reported measures .
+We measured sales unit cross-functional cooperation with three items adapted from Im and Nakata ( 2008 ) to fit our solution context ( Table 2 ) .
+Objective , archival measures .
+We measure sales per- formance with objective data for the fiscal year following that of the survey ( Table 2 ) .
+Specifically , the firm employs a composite index to assess solution-based salesperson per- formance against quotas on seven key performance indicators , using a five-point scale ( 1 = “ unsatisfactory performance against quotas , ” and 5 = “ excellent performance against quotas ” ) .
+In addition , the firm employs an archival composite index to assess salesperson capabilities along five equally weighted items ( i.e. , creative thinking , proactive action , effective communication , teamwork , and ethical conduct of business ) on a five-point scale ( 1 = “ unsatisfactory , ” and 5 = “ excellent ” ) .
+We employ this latter index in our subsequent procedure for ruling out endogeneity .
+Measure assessment .
+Tomaintain a healthy ratio of sample size to number of estimated parameters while providing a stringent test of discriminant validity , we estimated two CFA models ( with maximally similar constructs each ) in the salesperson sample .
+The results of a CFA with salesperson solution involvement and job engagement exhibit good fit ( c2248 = 388.17 , p < .01 ; RMSEA = .07 ; NFI = .95 ; NNFI = .97 ; CFI = .98 ) .
+Likewise , the fit of the second CFA with coaching , activity control , and competitive intensity fit the data well ( c262 = 95.48 , p < .01 ; RMSEA = .07 ; NFI = .95 ; NNFI = .97 ; CFI = .98 ) .
+Composite reliability coeffi- cients ( AVEs ) exceed .70 ( .50 ) for all study constructs ( see Table 2 ; see also Study 1 , Theme 1 , in the Web Appendix ) .
+These results provide evidence of reliability and discrim- inant validity .
+In addition , all factor loadings are significant ( p < .01 ) and have standardized values ranging from .54 to .94 , thus offering evidence of the convergent validity of the constructs ( for construct intercorrelations , see Table 3 , Study 1 ) .
+Model estimation .
+We employ hierarchical linear mod- eling ( HLM ) with full maximum likelihood estimation to account for the nested structure of data ( Table 4 ) .
+Despite the high response rate , our model considers the possibility that salesperson solution involvement is endogenous because salespeople with significant levels of engagement in solution activities might have selected themselves to respond to the survey .
+If so , the relationship between salesperson solution involvement and performance might be an artifact of self- selection-based endogeneity .
+We employ Garen ’ s ( 1984 ) procedure to correct for this type of endogeneity .
+We aug- ment our model with the structural residual and interac- tion term obtained from this procedure to obtain consistent coefficients ( see Study 1 , Theme 2 , in the Web Appendix ) .
+We group-mean-centered level 1 predictors and grand-mean- centered level 2 variables ( except for the dummy variables , which are employed to capture any unobserved business-unit effects ) .
+We used change in deviance scores ( -2 · log- likelihood ) to compare the fit of nested models .
+We fit Model 1 , which contains main effects and covariates .
+In Model 2 , we add the main effect of the moderator variable .
+Model 3 includes the hypothesized cross-level interaction ( for model specifications , see Study 1 , Theme 3 , in the Web Appendix ) .
+Results .
+As predicted in H1 , we find a significant effect of salesperson solution involvement on objective sales per- formance ( g40 = .59 , p < .01 ; Model 1 ) , after controlling for endogeneity and several covariates .
+Furthermore , sales unit cross-functional cooperation ( H2 : g41 = .25 , p < .01 ; Model 3 ) positively interacts with salesperson solution involvement to influence objective sales performance .
+Specifically , sales- person solution involvement enhances sales performance when cross-functional cooperation is high ( vs. low ) .
+This study advances beyond the Quantitative Prestudy by focusing on the salesperson ’ s overall solution activities over his/ her entire portfolio of customers targeted for solutions , rather than customer-specific activities , and by employing salesperson-level performance data .
+It also shows that the factor structure of salesperson solution involvement 154 / Journal of Marketing , July 2017 TABLE 3 Descriptive Statistics and Construct Intercorrelations Across Studies A : Study 1 M SD 1 2 3 4 5 6 7 1 .
+Salesperson solution involvementa 5.19 .84 2 .
+Domain-specific expertise ( hours ) a , b 15.89 12.02 .12 3 .
+Organizational expertise ( years ) a , b 4.79 3.22 -.01 -.10 4 .
+General expertise ( years ) a , b 13.14 7.27 -.04 .06 .27** 5 .
+Activity controla 3.39 .70 .27** .14 .07 -.04 6 .
+Competitive intensitya 5.28 1.01 .20* .18* -.02 -.02 -.03 7 .
+Sales performance – quotab , c 3.29 .80 .25** .03 -.03 -.04 .12 -.11 8 .
+Sales unit cross-functional cooperationd 5.45 1.11 .20* -.02 -.08 -.07 .20* .03 .04 B : Study 2 M SD 1 2 3 4 5 6 7 8 9 10 11 12 13 1 .
+Salesperson solution involvementa 5.86 .58 2 .
+Sales performance ( subjective ) a , e 5.50 .93 .53** 3 .
+General sales expertise ( months ) a , b 118.10 72.83 .33** .35** 4 .
+Organizational expertise ( months ) a , b 84.47 61.04 .15* .22** .52** 5 .
+Firm ’ s product portfolio scoped , e 3.95 .62 .19** .02 -.05 .06 6 .
+Firm ’ s customer orientationd 4.56 .40 .08 -.02 -.12 .09 .29** 7 .
+Salespeople ’ s empowermentd 3.85 .42 .21** .13* .10 .03 .40** .18** 8 .
+Competitive intensityd 3.81 .70 .06 -.03 -.05 .02 .60** .17** .52** 9 .
+Technological turbulenced 3.82 .80 .03 -.05 -.08 -.03 .47** .33** .35** .32** 10 .
+Environmental dynamismd 3.37 .77 .06 -.10 -.08 .01 .59** .31** .43** .59** .62** 11 .
+Buyer negotiating powerd 3.16 .68 -.03 .03 .09 -.12 -.16** -.13* -.00 -.07 -.01 -.07 12 .
+Manufacturing dummyb , f , g .38 .49 .07 .07 .10 .13* .11 -.10 .12 .15* -.24** -.10 -.22** 13 .
+Firm ’ s age ( years ) b , f 25.07 15.06 .09 .02 .05 .14* .30** .15* .16* .17** -.15* -.02 -.24** .30** 14 .
+Firm ’ s size ( number of employees ) b , f 129.14 114.88 -.00 -.04 .06 .13* .07 .00 .14* -.00 -.06 .07 -.36** .21** .45** C : Study 3 M SD 1 2 3 4 5 6 7 8 9 1 .
+Salesperson solution involvementh 5.17 .91 2 .
+Sales performance – net profits ( V ) b , c 41,640.94 55,933.03 .14 3 .
+Relationship tie strengthh 5.10 .92 .05 -.29** 4 .
+Value received by the customerh 5.21 1.05 .53** -.06 .29** 5 .
+Customer know-how of solutionsh 5.33 1.03 .20** .21** -.13 .01 6 .
+Customer adaptivenessh 4.09 1.15 .12 -.22** .29** .21** -.09 7 .
+Solution importanceh 5.02 .98 -.08 .20** -.34** -.12 -.01 -.26** 8 .
+Supplier firm relationship length ( years ) b , h 11.25 8.12 -.04 -.02 -.02 -.01 -.19* .23** .09 9 .
+Salesperson relationship length ( years ) b , h 4.65 4.05 .05 .02 -.04 .07 -.20* .08 .07 .63** 10 .
+Number of sales callsb , c 2.24 2.02 .00 .00 .10 .01 -.02 .16* -.14 .12 .08 *Significant at p < .05 ( two-tailed ) .
+**Significant at p < .01 ( two-tailed ) .
+aSalesperson-reported data .
+bConstructs are measured with a single item .
+cArchival , objective data .
+dManager-reported data .
+eFormative index .
+fSecondary , objective data .
+gManufacturing dummy has been coded so that the services industry serves as the base relative to which industry effects are measured .
+hCustomer-reported data .
+Notes : For Studies 1 and 2 , correlations are based on scores disaggregated to the salesperson level ( Study 1 : sales engineers : n = 120 ; managers : n = 38 ; Study 2 : salespeople : n = 247 ; managers : n = 58 ) .
+For Study 3 , correlations are based on standardized latent variable scores generated by the PLS algorithm ( n = 185 customers ) .
+Salesperson Solution Involvement and Sales Performance / 155 developed at the customer–salesperson level—by focusing on what a salesperson does with a specific customer ( Quan- titative Prestudy ) —also holds when focusing on the more general salesperson level of solution activities .
+Finally , the results demonstrate a positive effect of overall salesperson solution involvement on objective sales performance , and that this effect is amplified when the sales unit cooperates well with other functions during value-creating activities for customers .
+Robustness checks .
+We assessed the robustness of our results against ( 1 ) multicollinearity and ( 2 ) endogeneity due to omissionof level 2fixedeffects.Results showthatourfindings are robust against such biases ( see Study 1 , Theme 4 , in the Web Appendix ) .
+Study 2 Sample .
+Study 2 involves a large-scale survey involving multilevel , multisource data across firms and industries .
+We selected industries that were systematically noted as solutions providers in business articles , academic studies , and dis- cussions with senior executives in Phase I .
+This process resulted in the initial set of 660 firms , all subsidiaries of major multinational firms operating in Greece .
+A trained team of three research assistants approached firms to verify their in- volvement in offering solutions , explore their willingness to participate , and identify an appropriate manager with overall responsibility for providing solutions .
+A total of 199managers from an equal number of firms agreed to participate ( 30 % ) .
+Due to missing values , we retained 183 responses for subsequent use .
+Participating managers were instructed to distribute research packets to a random sample of their business-to-business salespeople involved in providing so- lutions .
+In total , we distributed 1,700 surveys , and 402 were returned directly to us ( 24 % ) .
+We next created a multilevel data set by matching 247 salespeople ’ s responses to 58 managers ’ responses ; this was done only for firms for which we had received at least 3 salespeople ’ s responses .
+Finally , we matched this data set to a third source of secondary , objectivefirm TABLE 4 HLM Results : Effect of Sales Unit Cross-Functional Cooperation ( Study 1 ) Predictors ( time0 ) Dependent Variable : Objective Sales Performance ( Solution-Based Salesperson Performance Against Quota at time1 ) Main Effects and Covariates ( Model 1 ) Direct Effect of Moderator ( Model 2 ) Hypothesized Interaction ( Model 3 ) ga SE ga SE ga SE Level 1 Intercept ( g00 ) 3.63** .24 3.64** .24 3.67** .25 Covariates Domain-specific expertise ( hours ) ( g10 ) -.00 .00 -.00 .00 -.00 .00 Organizational expertise ( years ) ( g20 ) .00 .02 .00 .02 .00 .02 General expertise ( years ) ( g30 ) -.01* .01 -.01* .01 -.01* .01 Activity control ( g50 ) .01 .07 .01 .07 .03 .07 Competitive intensity ( g60 ) -.06 .05 -.06 .05 -.04 .05 ê ( g70 ) b -.42** .10 -.42** .10 -.48** .09 ê · Salesperson solution involvement ( g80 ) .05 .05 .05 .05 .00 .05 Hypothesized Effect Salesperson solution involvement ( g40 ) .59** .12 .59** .12 .65** .12 Level 2 Covariates DummyBusiness Unit 1 ( g01 ) -.03 .68 .02 .69 .02 .71 DummyBusiness Unit 2 ( g02 ) -.28 .29 -.29 .29 -.27 .30 Direct Effect of Moderator Sales unit cross-functional cooperation ( g03 ) -.06 .14 -.05 .15 Hypothesized Interaction Salesperson solution involvement · Sales unit cross-functional cooperation ( g41 ) .25** .07 -2 · log-likelihood ( d.f . )
+197.99 ( 13 ) 197.84 ( 14 ) 186.62 ( 15 ) Change in fit index .15 ( Dd.f .
+= 1 ) n.s .
+11.22 ( Dd.f .
+= 1 ) ** *p < .05 .
+**p < .01. aUnstandardized coefficients .
+bê = structural residual term .
+Notes : One-tailed significance tests are used for all directional hypotheses ; n.s .
+= not significant .
+N ( level 1 ) = 120 sales engineers ; N ( level 2 ) = 38 managers .
+A negative coefficient of ê indicates that we have controlled for a downward bias of performance due to the poten- tial endogeneity of salesperson solution involvement .
+A positive coefficient of ê · salesperson solution involvement indicates that we have controlled for an upward bias of performance due to the range of high levels of salesperson solution involvement .
+SE = standard error .
+156 / Journal of Marketing , July 2017 data containing variables used either as covariates or as input to our endogeneity checks ( discussed subsequently ) .
+Data quality checks .
+First , we assessed respondent fatigue by asking managers to indicate the extent of their agreement with the question “ the survey contained interesting questions. ” The mean response was 3.8 on a five-point scale .
+Second , managers had enough knowledge to provide us with meaningful responses to the survey , as indicated by a mean of 4.3 on a five-point scale .
+Finally , givenmanagers ’ hierarchical positions ( about 68 % held a Sales Director title , whereas the balance held titles likeManaging Director or CEO ) and tenure ( about 68 % had been with the firm for more than six years ) , their responses were assumed to be reliable .
+Manager-reported measures .
+We developed two new items to measure each firm ’ s product portfolio scope , drawing on prior work ( Sorescu , Chandy , and Prabhu 2003 ) .
+Because the itemswere not expected to correlate theoretically , we treated the measure as a formative index ( Table 2 ) .
+A firm , for instance , may promote multiple product lines but not necessarily have many variants of each product .
+In line with a recent meta-analysis ( Verbeke , Dietz , and Verwaal 2011 ) , we also considered a number of covariates related to the internal/external environment to rule out omitted variable biases ( see Study 2 , Theme 1 , in the Web Appendix ) : firm ’ s customer orientation ( all six items from Narver and Slater 1990 ) , salespeople ’ s empowerment ( six items from Hartline , Maxham , and McKee 2000 ) , competitive intensity ( three items from Jaworski and Kohli 1993 ) , technological turbulence ( all four items from Jaworski and Kohli 1993 ) , environmental dynamism ( six items adapted from Homburg and Jensen 2007 ) , and buyer negotiating power ( four new items based on Narver and Slater 1990 ) .
+Salesperson-reported measures .
+We measured sales- person solution involvement as in Study 1 ( Table 2 ) .We indexed subjective sales performance with five formative indicators adapted from Sujan , Weitz , and Kumar ( 1994 ) .3 Consistent with prior meta-analytic work ( e.g. , Verbeke , Dietz , and Verwaal 2011 ) , we used salespeople ’ s general sales expertise ( months of selling experience across firms ) and organizational expertise ( months working for the current firm ) as covariates .
+Secondary , objective data .
+We collected objective data on firm type ( manufacturing vs. services ) , age ( years in business ) , and size ( number of employees ) for the year of survey , as well as earnings before taxes ( EBT ) , return on assets ( ROA ) , and return on sales ( ROS ) one year after the survey ( for construct intercorrelations , see Table 3 , Study 2 ) .
+Measure assessment .
+A CFA on the full manager ’ s sample ( n = 183 ) exhibits good model fit ( c2362 = 676.50 , p < .01 ; CFI = .92 ; RMSEA = .07 ; NFI = .85 ; NNFI = .91 ) .
+Standardized factor loadings are significant and high , providing evidence of convergent validity ( see Study 2 , Theme 1 , in the Web Appendix ) .
+Discriminant validity is established given that all AVEs exceed or are very close to .50 , and CR values exceed .70 .
+A CFA on the full salesperson sample ( n = 402 ) exhibits good model fit ( c2131 = 427.52 , p < .01 ; CFI = .95 ; RMSEA = .08 ; NFI = .94 ; NNFI = .95 ) .
+Standardized factor loadings of the salesperson solution involvement scale are significant and high , providing evidence of convergent validity .
+The scale shows evidence of discriminant validity , with the AVE exceeding .50 , whereas CR exceeds .70 ( Table 2 ) .
+Common method variance assessment .
+Weemployed the unmeasured latent method factor technique to assess the extent of common method variance ( CMV ) bias in the sales- person sample .
+We partitioned the variance in our measures to trait , method , and random error variance by running two CFAs : one with traits and a method factor and one with traits only .
+We find that ( 1 ) the median effect of CMV on items ’ variances is 13 % , well below the median amount of CMV found across studies ( Carlson and Kacmar 2000 ) ; and ( 2 ) all relationships remain significant after we include the method factor ( p < .01 ) .
+To account for any systematic effects of CMV on our results , however , we include the method factor scores as a covariate in our model estimation .
+Model estimation .
+Our analysis is based on a subsample of the firms that provided at least three salespeople ’ s responses .
+This nonrandom selection process , however , might lead to biased estimates because excluded firmsmight be different than included firms .
+To address this issue , we adopt Heckman ’ s ( 1979 ) selection model ( for details , see Theme 5 in the Web Appendix ) .
+Using the estimates from this model , we cal- culated the inverse Mills ratio ( l̂ ) , which we include in our model to control for the effect of unobserved firm charac- teristics related to the selection process and thus to obtain unbiased estimates .
+We employ HLM with full maximum likelihood esti- mation to test hypotheses ( Table 5 ) .
+We group-mean-centered level 1 predictors and grand-mean-centered level 2 variables ( except for the level 2 dummy ) .
+We first fit Model 1 , which contains main effects and covariates only .
+In Model 2 , we add the main effect of the moderator variable .
+Model 3 includes the hypothesized cross-level interaction ( for model specifi- cations , see Study 2 , Theme 3 , in the Web Appendix ) .
+Results .
+Replicating results of Study 1 , we find that sales- person solution involvement positively relates to subjective sales performance ( H1 : g40 = .56 , p < .01 ; Model 1 ) , after we control for CMV , selection biases , and several covariates .
+We also find that product portfolio scope ( H3 : g41 = .22 , p < .05 ; Model 3 ) positively interacts with salesperson solution involvement to influence sales performance .
+Specifically , salesperson solution involvement enhances sales performance when product portfolio scope is high ( vs. low ) .
+Study 2 rep- licates the positive effect of salesperson solution involvement on sales performance found in Study 1 and extends it by ex- amining a supplier firm–level moderating condition ( i.e. , product portfolio scope ) across solution contexts .
+Robustness checks .
+We assessed the robustness of our results to ( 1 ) multicollinearity , ( 2 ) endogeneity due to omission 3We thank an anonymous reviewer for suggesting that we employ a formative specification for this construct .
+Also , although we had originally included all seven indicators from the work of Sujan , Weitz , and Kumar ( 1994 ) in this index , at the request of an anonymous reviewer , we deleted two indicators that referred to selling individual products .
+Salesperson Solution Involvement and Sales Performance / 157 of important level 2 fixed effects , and ( 3 ) CMV.Results of these analyses alleviate concerns with respect to such biases ( see Study 2 , Theme 4 , in the Web Appendix ) .
+Study 3 Sample .
+Study 3 was set in Germany in a major pumping system manufacturer that sells energy , water management , and building services solutions consisting of a combination of sophisticated goods/services .
+Solutions aim to improve the energy/building efficiency of clients by performing processes such as energy monitoring and life cycle cost management .
+The firm assigns a salesperson ( i.e. , account manager ) , who orchestrates all activities and serves as the primary contact point , to each customer firm .
+The firm provided us with the contact details of key , knowledgeable buyers who are the primary decision makers in their firms .
+As with the Quanti- tative Prestudy , we asked buyers to rate the focal firm ’ s salesperson solution activities ( Table 2 ) .
+We administered the survey in German .
+We pretested the survey with two key salespeople and buyers and modified it to fit the firm context .
+We sent surveys to 510 buyers and received 190 responses ( 37.25 % ) after sending three reminders .
+Respondents averaged 11.30 years of firm tenure and 3.72 years with the salesperson .
+Tomitigate concerns over CMV bias as well as endogeneity due to simultaneity , we separated measurement of salesperson solution involvement ( time0 ) from sales performance , which was operationalized with objective data obtained one year after the survey ( time1 ) .
+Data quality checks .
+We asked buyers to indicate whether the survey contained interesting questions ; the mean was 3.33 ( five-point scale ) , suggesting that respondent fatigue was not a concern .
+We also asked buyers to rate the degree of their knowledgeability on the survey questions ; the mean was 3.94 ( five-point scale ) , strengthening confidence in data quality .
+Customer-reported measures .
+As in the Quantitative Prestudy , customers assessed the salesperson ’ s engagement in solution activities specific to the customer firm ( Table 2 ) .
+Relationship tie strength was measured with six items adapted from prior work ( Ganesan , Malter , and Rindfleisch 2005 ; TABLE 5 HLM Results : Effect of Firm ’ s Product Portfolio Scope ( Study 2 ) Predictors Dependent Variable : Subjective Salesperson Performance Main Effects and Covariates ( Model 1 ) Direct Effect of Moderator ( Model 2 ) Hypothesized Interaction ( Model 3 ) ga SE ga SE ga SE Level 1 Intercept ( g00 ) 5.77** .15 5.76** .16 5.76** .16 Covariates General sales expertise ( months ) ( g10 ) .00 .00 .00 .00 .00 .00 Organizational expertise ( months ) ( g20 ) .00* .00 .00* .00 .00* .00 Common method factor ( g30 ) .44* .20 .44* .20 .45* .19 Hypothesized Effect Salesperson solution involvement ( g40 ) .56** .12 .56** .12 .56** .12 Level 2 Covariates Mills inverted ratio ( l̂ ) ( g01 ) .81* .40 .76* .41 .76* .41 Manufacturing dummy ( g02 ) -.60* .31 -.56* .32 -.56* .32 Firm ’ s age ( years ) ( g03 ) -.01 .01 -.01 .01 -.01 .01 Firm ’ s size ( number of employees ) ( g04 ) -.00 .00 -.00 .00 -.00 .00 Firm ’ s customer orientation ( g05 ) -.27 .24 -.25 .25 -.25 .25 Salespeople ’ s empowerment ( g06 ) .35* .20 .36* .20 .36* .20 Buyer negotiating power ( g07 ) .00 .10 .01 .10 .01 .10 Competitive intensity ( g08 ) -.19 .12 -.20 .12 -.20 .12 Technological turbulence ( g09 ) -.11 .08 -.12 .08 -.12 .08 Environmental dynamism ( g010 ) -.08 .12 -.10 .13 -.10 .13 Direct Effect of Moderator Firm ’ s product portfolio scope ( g011 ) .05 .12 .05 .12 Hypothesized Interaction Salesperson solution involvement · Firm ’ s product portfolio scope ( g41 ) .22* .12 -2 · log-likelihood ( d.f . )
+561.34 ( 17 ) 561.20 ( 18 ) 558.39 ( 19 ) Change in fit index .14 ( Dd.f .
+= 1 ) n.s .
+2.81* ( Dd.f .
+= 1 ) *p < .05 .
+**p < .01. aUnstandardized coefficients .
+Notes : One-tailed significance tests are used for all directional hypotheses ; n.s .
+= not significant .
+N ( level 1 ) = 247 salespeople ; N ( level 2 ) = 58 managers .
+SE = standard error .
+158 / Journal of Marketing , July 2017 Rindfleisch and Moorman 2001 ) .
+We developed a new five- item scale to capture customer adaptiveness , drawing on the work of Tuli , Kohli , and Bharadwaj ( 2007 ) .
+In line with the extant literature showing that financial results achieved in a customer relationship depend on multiple factors ( e.g. , Palmatier , Scheer , and Steenkamp 2007 ) , we consider several control variables to avoid omitted variable bias ( see Study 3 , Theme 1 , in theWebAppendix ) .
+Specifically , we control for ( 1 ) customer–supplier relationship effects by employing value received by the customer ( all three items from Palmatier , Scheer , and Steenkamp 2007 ) and relationship length with the supplier firm ( number of years the customer firm has worked with the focal supplier ) ; ( 2 ) customer characteristics by employing customer know-how of solutions ( all five items from Ghosh , Dutta , and Stremersch 2006 ) and solution importance to the customer ( three items from Cannon and Homburg 2001 ) ; and ( 3 ) salesperson–buyer relationship effects by employing relationship length with the salesperson ( number of years thebuyer hasworkedwith the focal salesperson ) .
+Objective , archival measures .
+Sales performance is captured with an objective measure of solution-based net profits ( V ) contributed by a customer at the end of the year following the survey ( Table 2 ) .
+We use the natural log of this measure in our analyses .
+To rule out any potential effects of sales effort ( Bowman and Narayandas 2004 ) , we control for the objective number of sales calls the salespersonmade to the customer firm during the period of study .
+Measure assessment .
+Multi-item measures were sub- jected to a CFA with adequate fit : c21 ; 041 = 2,121.67 , p < .001 ; RMSEA = .07 ; NFI = .90 ; NNFI = .94 ; CFI = .94 .
+Stan- dardized factor loadings are significant and high , providing evidence of convergent validity ( see Table 2 ; see also Study 3 , Theme 1 , in the Web Appendix ) .
+Discriminant validity is established given that all AVEs exceed .50 , whereas reliability coefficients exceeded or are very close to the value of .70 ( for construct intercorrelations , see Table 3 , Study 3 ) .
+Model estimation .
+Model estimationwas based on 185 out of the 190 customer firms for which we were able to match survey to objective data.4 We adopted a partial least squares ( PLS ) approach to test hypotheses .
+We consider the possibility that salesperson solution involvement is endogenous because customers that are either ( 1 ) serviced by salespeople with low levels of salesperson solution involvement or ( 2 ) not considered important to the focal firm ( and thus are systematically subject to differing sales efforts ) could have self-selected themselves out of responding to the survey .
+In both cases , the relationship between salesperson solution involvement and performance might be an artifact of self-selection-based endogeneity bias .
+We thus employGaren ’ s ( 1984 ) procedure ( see Study 3 , Theme 2 , in theWeb Appendix ) .
+We augment our PLS model with the structural residual and interaction term obtained from this procedure to obtain consistent coefficients .
+We fit Model 1 to test main-effect hypotheses ( Table 6 ) .
+Next , we estimate Model 2 , which includes the direct effects ofmoderators .
+Finally , wefit Model 3 to test the hypothesized interaction terms , using the product indicator approach .
+Results .
+Replicating findings from Studies 1 and 2 , we find support for the positive effect of salesperson solution involvement ( at time0 ) on objective sales performance ( at time1 ) ( H1 : g = .20 , p < .05 ; Model 1 ) .
+Importantly , this positive effect holds true after we control for self-selection- based endogeneity bias , as well as a set of covariates .
+Further , in predicting sales performance , the interaction between sales- person solution involvement and relationship tie strength is significant and positive ( H4 : g = .22 , p < .01 ; Model 3 ) .
+In particular , results show that the positive effect of salesperson solution involvement on net profits is amplified under stronger relational ties .
+In contrast , strong relational ties do not com- pensate for low salesperson solution involvement , as evi- denced by reduced levels of performance .
+However , in predicting sales performance , we find the interaction between salesperson solution involvement and customer adaptiveness to be nonsignificant ( H5 : g = .10 , p > .10 ; Model 3 ) .
+Study 3 contributes by extending the results of Studies 1 and 2 and by showing that stronger customer–supplier relational ties moderate the effect of salesperson solution involvement on customer-level sales performance data .
+General Discussion Salespeople play a prominent role in customer solution provision , a crucial strategy to generating revenue in business markets .
+To date , however , three critical research questions remain unanswered : ( 1 ) How can salesperson involvement in customer solutions be conceptualized ?
+( 2 ) Does a sales- person ’ s involvement in solution-related activities pay off ?
+and ( 3 ) What boundary conditions influence the effective- ness of salesperson solution involvement ?
+Our study addresses these questions and advances academic knowledge and man- agerial practice in several ways .
+Research Contributions First , previous studies have contributed to our understanding of the relational processes underlying customer solutions only at the firm level ( Tuli , Kohli , and Bharadwaj 2007 ) , thus leaving managers puzzled about how the salesperson should go about enacting these processes .
+This paucity of research is surprising considering prior theoretical work that has established the importance of looking at individual salesperson activities for some time ( Weitz 1981 ) or the multiple calls for solution- specific research at the individual level ( e.g. , Evanschitzky , Wangenheim , and Woisetschläger 2011 ; Grewal et al .
+2015 ; Ulaga and Loveland 2014 ) .
+Our study fills this void by acknowledging and highlighting the specific role salespeople play during customer solution processes .
+Taking an individual- level approach allows us to decompose firm-level solution processes into a measurable set of activities performed by the salesperson—that is , the employee who is primarily responsible for interacting with customers during solution provision ( e.g. , Murtha , Bharadwaj , and Van den Bulte 2014 ; Steward et al .
+4The five firms excluded from the matched sample required that they remain anonymous .
+As such , no links could be made to archival data .
+A series of Mann–Whitney U-tests between included versus excluded firms showed no significant differences across any of the predictors or covariates included in model estimation ( p > .10 ) .
+Salesperson Solution Involvement and Sales Performance / 159 2010 ) .
+In doing so , our work offers a new conceptualization of the individual-level activities that constitute salesperson involve- ment in customer solutions .
+In addition , we leverage a unique data set to operationalize a salesperson solution involvement scale that aligns with prior work ( Tuli , Kohli , and Bharadwaj 2007 ) .
+We find support that salesperson solution involvement is a second-order construct comprising four dimensions that reflect the customer–supplier relational processes of defining customer requirements , customizing/integrating goods/services , deploying goods/ services , and providing postdeployment customer support .
+The scale is validated across studies , firms , and countries and is adaptable to different contexts ( i.e. , measured with salesperson self-reports or customer assessments ) .
+We therefore contribute a measurement instrument to scholars aiming at deepening understanding of the critical mediating , moderating , and antecedent variables of salesperson solution involvement .
+Second , our study contributes to knowledge on whether salesperson involvement in customer solutions pays off .
+Our findings provide evidence that salesperson solution involvement is systematically related to improvements in sales performance , including objective , time-lagged mea- sures of quota achievement and net profits .
+Consequently , we answer calls for research into the effectiveness of solution provision ( e.g. , Grewal et al .
+2015 ; Tuli , Kohli , and Bharadwaj 2007 ) .
+The magnitude of effects is suggestive of a construct that warrants more attention in future research .
+Third , this study demonstrates that the payoffs from salesperson solution involvement are contingent on a set of previously unexamined boundary conditions.We discover that understanding the performance implications of salesperson solution involvement is a complex endeavor involving con- ditions related to characteristics of both the supplier firm and the customer–supplier relationship .
+Specifically , the influence of salesperson solution involvement on sales performance is strengthened when ( 1 ) the sales unit ’ s cooperation with other functions is high , ( 2 ) a firm ’ s product portfolio is broad and deep , and ( 3 ) the customer–supplier relationship is charac- terized by high levels of closeness and reciprocity .
+These findings demonstrate that supplier-firm resources made avail- able to a salesperson ( e.g. , quality of interactions with employees in other functional units during value creation for TABLE 6 Results of Structural Equation Analyses : Effects of Customer–Supplier Relationship Characteristics ( Study 3 ) Predictors ( time0 ) Dependent Variable : Objective Sales Performance ( Solution-Based Net Profits [ V ] Contributed by a Customer at time1 ) Main Effects and Covariates ( Model 1 ) a Direct Effects of Moderators ( Model 2 ) a Hypothesized Interactions ( Model 3 ) a Hypothesized Effects Salesperson solution involvement .20* .18* .18* Salesperson solution involvement · Relationship tie strength .22** Salesperson solution involvement · Customer adaptiveness .10 Direct Effects of Moderators Relationship tie strength -.17* -.18* Customer adaptiveness -.17** -.09 Covariates Value received by the customer -.13 -.04 -.04 Customer know-how of solutions .17* .13* .10 Solution importance .19* .10 .04 Supplier firm relationship length ( years ) -.06 -.01 -.05 Salesperson relationship length ( years ) .09 .06 .04 Number of sales calls .05 .08* .12* êb -.09 -.08 -.10* ê · Salesperson solution involvement -.07 -.09 -.14* Explained variance ( R2 ) c .13 .18 .23 Q2d .12 .21 .21 *p < .05 .
+**p < .01. aStandardized coefficients .
+bê = structural residual .
+cExplained variance indicates good explanatory power of the proposed model .
+dStone–Geisser ( Q2 ) cross-validated redundancy values , yielded from a blindfolding procedure ( d = 7 ) , show that the model exhibits good predictive relevance .
+Notes : N = 185 customers .
+The t-values are calculated from 1,000 bootstrapped samples and are for a one-tailed test .
+Critical values : 1.65 ( p < .05 ) , 2.33 ( p < .01 ) .
+A negative coefficient of ê indicates that we have controlled for a downward bias of sales performance due to the potential endogeneity of salesperson solution involvement .
+A negative coefficient of ê · salesperson solution involvement indicates that we have controlled for a downward bias of sales performance due to the range of high levels of salesperson solution involvement .
+160 / Journal of Marketing , July 2017 customers ; availability of options in the product portfolio ) as well as the characteristics of the customer–supplier relation- ship ( i.e. , strong relational ties ) influence the effectiveness of salesperson solution involvement .
+Interestingly , the hypothe- sized moderating effect of customer adaptiveness is not sup- ported .
+One plausible explanation is the industry examined in Study 3 , which is described by a highly complex and risky purchasing process and , as such , is suggestive of a “ customer is king ” formof relationship .
+In this formof relationship , although supplier customization is at very high levels , the customer may not be reciprocating with similar levels of adaptation to their own processes ( Cannon and Perreault 1999 ) .
+Managerial Implications Our study helps managers answer three critical questions .
+The following subsections elaborate on these managerial implications .
+What do salespeople do during customer solution provision ?
+First , what appears to be lacking is a common understanding among practitioners of the set of salesperson activities related to offering customer solutions ( e.g. , Evanschitzky , Wangenheim , and Woisetschläger 2011 ) .
+Our work offers managers a comprehensive definition of sales- person solution involvement that can help them avoid commu- nication problems when designing and rolling out training or strategic initiatives related to solution provision within their firms .
+Second , drawing on the notion of relational processes ( Tuli , Kohli , and Bharadwaj 2007 ) , we conceptualize salesperson solution involvement as the degree to which a salesperson engages in activities that help his or her firm provide end-to-end solutions to the salesperson ’ s customers .
+Managers should pay attention to the underlying activities in all four relational pro- cesses as they try to improve solution involvement among their salespeople .
+Specifically , initiatives such as training , incentives , or the design of selling strategies need to cover all four pro- cesses rather than selectively focusing on some of them .
+For example , training initiatives should aim at improving sales- people ’ s activities related to ( 1 ) asking the right questions to uncover broader business objectives in customer firms , ( 2 ) selecting goods/services from a firm ’ s product portfolio that can work together as a solution , ( 3 ) understanding the capabilities of users within customer firms , and ( 4 ) keeping customers con- tinuously updated about new developments .
+Third , we offer a scale , tested across contexts and countries , to measure the salesperson ’ s involvement in solution provision .
+Given the interest of firms in the topic , managers can use this scale to perform internal ( by administering it to salespeople ) or competitive benchmarking against rival sales forces ( by administering it to customers ) , thereby providing useful insights to sales leaders .
+The items in the scale are easy to comprehend and it takes little time to administer the scale internally to salespeople or externally to customers .
+It is encouraging to note that theFortuneGlobal 500 firm that participated in Study 1 has incorporated the scale into its planning initiatives , thereby providing some evidence of its managerial usefulness .
+Does salesperson solution involvement pay off ?
+Across samples and contexts , we found that salesperson solution involvement is positively related to increases in sales per- formance .
+Importantly , in two of our studies ( i.e. , Studies 1 and 3 ) , performance impact is assessed with archival data , which were captured one year after the administration of the salesperson solution involvement scale .
+Thus , it is possible to argue with some degree of confidence that investing in salesperson solution involvement ( as conceptualized here ) should relate positively to improvements in future sales performance .
+This finding is encouraging , given anecdotal reports lamenting over firms struggling to wrench their salespeople away from engaging in the wrong activities when providing solutions ( Koivuniemi 2016 ) .
+What should managers do to make salesperson solution involvement more effective ?
+Although understanding sales- people ’ s solution-related activities is key to success , managers can support salespeople in additional ways .
+We find evidence that conditions related to the characteristics of both the supplier firm and the customer–supplier relationship can amplify the effectiveness of salesperson solution involvement .
+Firms should work to implement initiatives that help salespeople get the most out of their solution-related efforts .
+For instance , managers might want to make sure that salespeople are provided with an adequately broad and deep product portfolio when performing activities related to the configuration and customization of valuable customer solutions .
+A second initiative might be to improve the sales unit ’ s interactions with other functions when executing value-creating activities such as those involved in customer solution processes .
+This can be done , on one hand , by enhancing salespeople ’ s understanding of how nonsales employees can contribute skills and knowledge critical to the creation of value for customers , and , on the other hand , by improving working relations with nonsales functional units .
+Regarding customer–supplier relationship characteristics , our results suggest that firms need to be careful with their segmentation strategies in that not all customers should be targeted for solutions .
+Specifically , we find evidence that firms will benefit more from supporting salesperson solution in- volvement with customers that are willing to invest in a long- term , cooperative relationshipwith the supplier .
+Thismeans that when firms build and maintain strong ties with their customers , salespeople will see more effective reinforcement of activities associated with requirements definition , customization and integration , deployment , and postdeployment support .
+How- ever , we do not find support for an effect of customer adap- tiveness on the relationship between salesperson solution involvement and sales performance ; this might be because customers examined in Study 3 do not generally reciprocate the high levels of supplier customization with similar levels of adaptation ( Cannon and Perreault 1999 ) .
+Limitations and Future Research Directions Our study is an initial foray into an exciting area of research , which could be expanded in severalways .
+First , our focus in this study is on the activities salespeople perform during solution processes .
+Bringing the salesperson to the forefront was re- quired to unveil the role a key employee group plays in cus- tomer solutions .
+This point notwithstanding , we acknowledge that multiple functional units engage in activities that enact the relational processes inherent in customer solutions .
+Research that will expand our perspective and examine the activities of Salesperson Solution Involvement and Sales Performance / 161 both sales and nonsales employees is necessary to provide a complete picture of customer solutions .
+Doing so implies that the unit of analysis changes from the individual to the firm level .
+Future investigators can build on our approach—that is , de- compose the relational processes into a granular set of activities that employees from nonsales units perform—and , together with the sales-related activities identified in our study , measure relational processes as firm-level processes .
+Second , given that customer solutions require cross-functional coordination ( Steward et al .
+2010 ) , such a firm-level measure should also include activities that serve to manage the various dependencies between functional activities and critical resources residing within the supplier and customer firms ( Crowston 1997 ) .
+For instance , given the key role of salespeople in customer solu- tions , such a measure should capture the activities salespeople perform to coordinate intrafirm and interfirm interactions taking placewhen a team of buyers interacts with a salesperson or selling team ( Kumar , Petersen , and Rapp 2014 ) .
+Third , despite our extensive validation efforts , future research should further refine the salesperson solution involvement scale .
+Specifically , we acknowledge that four of the five items in the “ customer requirements definition ” assess the extent to which a salesperson has developed an understanding of customer needs rather than the activities performed to develop this understanding .
+Thus , future research should improve this aspect of the scale by explicitly measuring such activities.5 Doing so , however , may be challenging given that the activities the salesperson engages in to learn about customer needs might involve actions that are not observable by the customer ( e.g. , salespeople working with ex- ternal industry experts ) .
+In addition , future research should consider items that explicitly capture the aspect of “ custom- ization ” in the “ customization and integration ” dimension .
+Fourth , we build on the work of Tuli , Kohli , and Bharadwaj ( 2007 ) to conceptualize salesperson solution involvement .
+Our approach needs to be supplemented with or contrasted to alternative conceptualizations such as that of Ulaga and Reinartz ( 2011 ) .6 Fifth , our studies are based on firms operating in advanced economies/societies , as evidenced by the most recent country rankings ( see upper portion of Table 7 ) .
+Thus , the samples TABLE 7 Generalizability of Results : Comparison of Countries Studied with North American and BRIC Countries UN Rankinga OECD Rankingb IMF Rankingc World Bank Rankingd Countries Studied Austria Very high human development Developed economy Advanced economy High-income economy Belgium Very high human development Developed economy Advanced economy High-income economy Czech Republic Very high human development Developed economy Advanced economy High-income economy France Very high human development Developed economy Advanced economy High-income economy Germany Very high human development Developed economy Advanced economy High-income economy Greece Very high human development Developed economy Advanced economy High-income economy Italy Very high human development Developed economy Advanced economy High-income economy Netherlands Very high human development Developed economy Advanced economy High-income economy Portugal Very high human development Developed economy Advanced economy High-income economy Spain Very high human development Developed economy Advanced economy High-income economy Sweden Very high human development Developed economy Advanced economy High-income economy United Kingdom Very high human development Developed economy Advanced economy High-income economy Hungary Very high human development Developed economy Emerging market High-income economy Poland Very high human development Developed economy Emerging market High-income economy Romania High human development Emerging economy Emerging market Upper-middle-income economy Comparison Countries United States Very high human development Developed economy Advanced economy High-income economy Canada Very high human development Developed economy Advanced economy High-income economy China High human development Emerging economy Advanced economy Upper-middle-income economy Brazil High human development Emerging economy Emerging market Upper-middle-income economy Russian Federation High human development — Emerging market Upper-middle-income economy India Medium human development Emerging economy Emerging market Lower-middle-income economy aUnited Nations Development Programme ( 2015 ) .
+bOrganisation for Economic Co-operation and Development ( 2017 ) .
+cInternational Monetary Fund ( 2016 ) .
+dWorld Bank ( 2017 ) .
+Notes : All sources were accessed February 7 , 2017 .
+5To validate our results and guide future research , we ran a posttest among a convenience sample of 100American salespeoplewhereinwe examined a new version of the items comprising the “ customer requirements definition ” dimension ( for details , see Theme 6 in the Web Appendix ) .
+Results provide evidence that increase confidence in our original itemization of this dimension .
+We thank two anonymous reviewers for their insights on this aspect of our scale .
+6We thank an anonymous reviewer for contributing this insight .
+162 / Journal of Marketing , July 2017 allow generalization of our findings to North American countries ( see lower portion of Table 7 ) .
+The generalizability of our results to the North American context is further sup- ported by U.S. Department of Labor ( 2017 ) data that show that salespeople promoting solutions engage in activities such as arranging the delivery of goods/services .
+However , we acknowledge that the countries studied here are less repre- sentative of BRIC ( i.e. , Brazil , Russia , India , and China ) countries ( see lower portion of Table 7 ) .
+Accordingly , future research needs to examine the extent to which country characteristics might explain , for instance , the degree to which salespeople are involved in the deployment or post- deployment processes .
+Sixth , given the knowledge-based nature of sales in a solution context ( Verbeke , Dietz , and Verwaal 2011 ) , future researchers should examine the antecedents of salesperson solution involvement , such as salesperson knowledge bro- kering or tacit knowledge transfer skills .
+Finally , because a solution-specific sales performance measure that can be applied across industries and contexts is not currently available , the performance measure we employed in Study 2 does not completely isolate the sales of solutions .
+Given firms ’ increasing interest in customer solutions , development of such a measure could make a significant contribution to the field .
+We hope that our work will stimulate additional research efforts in this vital area for marketing theory and practice .
+REFERENCES Aarikka-Stenroos , Leena , and Elina Jaakkola ( 2012 ) , “ Value Co- Creation in Knowledge Intensive Business Services : A Dyadic Perspective on the Joint Problem Solving Process , ” Industrial Marketing Management , 41 ( 1 ) , 15–26 .
+Atuahene-Gima , Kwaku ( 2005 ) , “ Resolving the Capability– Rigidity Paradox in New Product Innovation , ” Journal of Mar- keting , 69 ( October ) , 61–83 .
+Bonney , Leff F. , and Brian C. Williams ( 2009 ) , “ From Products to Solutions : The Role of Salesperson Opportunity Recognition , ” European Journal of Marketing , 43 ( 7/8 ) , 1032–52 .
+Bowman , Douglas , and Das Narayandas ( 2004 ) , “ Linking Cus- tomer Management Effort to Customer Profitability in Business Markets , ” Journal of Marketing Research , 41 ( November ) , 433–47 .
+Bureau of Labor Statistics ( 2015 ) , “ May 2015 National Occupa- tional Employment and Wage Estimates , ” ( accessed September 1 , 2016 ) , http : //www.bls.gov/oes/current/oes_nat.htm # 41-0000 .
+Cannon , Joseph P. , and Christian Homburg ( 2001 ) , “ Buyer– Supplier Relationships and Customer Firm Costs , ” Journal of Marketing , 65 ( January ) , 29–43 .
+Cannon , Joseph P. , and William D. Perreault Jr. ( 1999 ) , “ Buyer– Seller Relationships In Business Markets , ” Journal of Marketing Research , 36 ( November ) , 439–60 .
+Carlson , Dawn S. , and Michele K. Kacmar ( 2000 ) , “ Work–Family Conflict in the Organization : Do Life Role Values Make a Difference ? ” Journal of Management , 26 ( 5 ) , 1031–54 .
+Churchill , Gilbert A. , Jr. ( 1979 ) , “ A Paradigm for Developing Better Measures of Marketing Constructs , ” Journal of Marketing Research , 19 ( February ) , 64–73 .
+Crowston , Kevin ( 1997 ) , “ A Coordination Theory Approach to Organizational Process Design , ” Organization Science , 84 ( 2 ) , 157–75 .
+Dyer , Jeffrey H. , and Harbir Singh ( 1998 ) , “ The Relational View : Cooperative Strategy and Sources of Interorganizational Com- petitive Advantage , ” Academy of Management Review , 23 ( 4 ) , 660–79 .
+Evanschitzky , Heiner , Florian W. Wangenheim , and David M. Woisetschläger ( 2011 ) , “ Service & Solution Innovation : Over- view and Research Agenda , ” Industrial MarketingManagement , 40 ( 5 ) , 657–60 .
+Ganesan , Shankar , Alan J. Malter , and Aric Rindfleisch ( 2005 ) , “ Does Distance Still Matter ?
+Geographic Proximity and New Product Development , ” Journal of Marketing , 69 ( October ) , 44–60 .
+Garen , John ( 1984 ) , “ The Returns to Schooling : A Selectivity Bias Approach with a Continuous Choice Variable , ” Econometrica , 52 ( 5 ) , 1199–218 .
+Ghosh , Mrinal , Shantanu Dutta , and Stefan Stremersch ( 2006 ) , “ Customizing Complex Products : When Should the Vendor Take Control ? ” Journal of Marketing , 43 ( November ) , 664–79 .
+Grewal , Rajdeep , Gary L. Lilien , Pranav Jindal Sundar Bharadwaj , Ujwal Kayande , Robert F. Lusch , Murali Mantrala , et al .
+( 2015 ) , “ Business-to-Business Buying : Challenges and Opportunities , ” Customer Needs and Solutions , 2 ( 3 ) , 193–208 .
+Guido , Phil ( 2012 ) , “ How We Got Beyond Selling Products , ” Harvard Business Review , 90 ( 7/8 ) , 107–08 .
+Haas , Alexander , Ivan Snehota , and Daniela Corsaro ( 2012 ) , “ Creating Value in Business Relationships : The Role of Sales , ” Industrial Marketing Management , 41 ( 1 ) , 94–105 .
+Hartline , Michael D. , James G. Maxham III , and Daryl O. McKee ( 2000 ) , “ Corridors of Influence in the Dissemination of Customer-Oriented Strategy to Customer Contact Service Em- ployees , ” Journal of Marketing , 64 ( April ) , 35–50 .
+Heckman , James J .
+( 1979 ) , “ Sample Selection Bias as a Specifi- cation Error , ” Econometrica , 47 ( 1 ) , 153–61 .
+Heslin , Peter A. , Don Vandewalle , and Gary P. Latham ( 2006 ) , “ Keen to Help ?
+Managers ’ Implicit Person Theories and Their Subsequent Employee Coaching , ” Personnel Psychology , 59 ( 4 ) , 871–902 .
+Homburg , Christian , and Ove Jensen ( 2007 ) , “ The Thought Worlds of Marketing and Sales : Which Differences Make a Difference ? ” Journal of Marketing , 71 ( July ) , 124–42 .
+Im , Subim , and Cheryl Nakata ( 2008 ) , “ Crafting an Environment to Foster Integration in New Product Teams , ” International Journal of Research in Marketing , 25 ( 3 ) , 164–72 .
+International Monetary Fund ( 2016 ) , “ Country Groups Informa- tion , ” https : //www.imf.org/external/pubs/ft/weo/2016/02/ weodata/weoselagr.aspx # a110 .
+Jaworski , Bernard J. , and Ajay K. Kohli ( 1993 ) , “ Market Ori- entation : Antecedents and Consequences , ” Journal of Market- ing , 57 ( July ) , 53–70 .
+Kaufman , Peter , Satish Jayachandran , and Randall L. Rose ( 2006 ) , “ The Role of Relational Embeddedness in Retail Buyers ’ Selection of New Products , ” Journal of Marketing Research , 43 ( November ) , 580–87 .
+Koivuniemi , Anna ( 2016 ) , “ Don ’ t Sell , Solve Problems , ” LinkedIn article ( May 20 ) , https : //www.linkedin.com/pulse/dont-sell-solve- problems-anna-koivuniemi .
+Kumar , V. , J. Andrew Petersen , and Adam A. Rapp ( 2014 ) , “ Making Solution Selling More Effective : The Role of Team Size , ” paper presented at the Thought Leadership on the Sales Profession Conference , June 10–11 , Columbia University .
+Salesperson Solution Involvement and Sales Performance / 163 La Rocca , Antonella , Paolo Moscatelli , Andrea Perna , and Ivan Snehota ( 2016 ) , “ Customer Involvement in New Product Development in B2B : The Role of Sales , ” Industrial Marketing Management , 58 ( October ) , 45–57 .
+Miao , Fred C. , and Kenneth R. Evans ( 2013 ) , “ The Interactive Effects of Sales Control Systems on Salesperson Performance : A Job Demands–Resources Perspective , ” Journal of the Academy of Marketing Science , 41 ( 1 ) , 73–90 .
+Murtha , Brian R. , Sundar G. Bharadwaj , and Christophe Van den Bulte ( 2014 ) , “ Interlocking Networks : How and When Do Connections BetweenBuying and Selling TeamsAffect Customer Solutions ? ” Report No .
+14-120 , Marketing Science Institute .
+Narver , John C. , and Stanley F. Slater ( 1990 ) , “ The Effect of a Market Orientation on Business Profitability , ” Journal of Mar- keting , 54 ( October ) , 20–35 .
+Organisation for Economic Co-operation and Development ( 2017 ) , “ Members and Partners , ” http : //www.oecd.org/about/ membersandpartners/ .
+Palmatier , Robert .
+W. , Lisa K. Scheer , and Jan-Benedict E.M. Steenkamp ( 2007 ) , “ Customer Loyalty to Whom ? Managing the Benefits and Risks of Salesperson-Owned Loyalty , ” Journal of Marketing Research , 44 ( May ) , 185–99 .
+Rindfleisch , Aric , and Christine Moorman ( 2001 ) , “ The Acquisi- tion and Utilization of Information in New Product Alliances : A Strength-of-Ties Perspective , ” Journal of Marketing , 65 ( April ) , 1–18 .
+Rindfleisch , Aric , and Christine Moorman ( 2003 ) , “ Interfirm Cooperation and Customer Orientation , ” Journal of Marketing Research , 40 ( November ) , 421–36 .
+Saxe , Robert , and Barton A. Weitz ( 1982 ) , “ The SOCO Scale : A Measure of the Customer Orientation of Salespeople , ” Journal of Marketing Research , 19 ( August ) , 343–51 .
+Schaufeli , Wilmar B. , Marisa Salanova , Vicente González-Romá , and Arnold B. Bakker ( 2002 ) , “ The Measurement of Engage- ment and Burnout : A Two Sample Confirmatory Factor Analytic Approach , ” Journal of Happiness Studies , 3 ( 1 ) , 71–92 .
+Schilling , Melissa A. , Patricia Vidal , Robert E. Ployhart , and Alexandre Marangoni ( 2003 ) , “ Learning by Doing Something Else : Variation , Relatedness , and the Learning Curve , ” Man- agement Science , 49 ( 1 ) , 39–56 .
+Sleep , Stefan , Sundar Bharadwaj , and Son K. Lam ( 2015 ) , “ Walking a Tightrope : The Joint Impact of Customer and Within-Firm Boundary Spanning Activities on Perceived Cus- tomer Satisfaction and Team Performance , ” Journal of the Academy of Marketing Science , 43 ( 4 ) , 472–89 .
+Sorescu , Alina B. , Rajesh K. Chandy , and Jaideep C. Prabhu ( 2003 ) , “ Sources and Financial Consequences of Radical Innovation : Insights from Pharmaceuticals , ” Journal of Marketing , 67 ( October ) , 82–102 .
+Srivastava , Rajendra K. , Tasadduq A. Shervani , and Liam Fahey ( 1998 ) , “ Market-Based Assets and Shareholder Value : A Framework for Analysis , ” Journal of Marketing , 62 ( January ) , 2–18 .
+Steward , Michelle D. , Beth A. Walker , Michael D. Hutt , and Ajith Kumar ( 2010 ) , “ The Coordination Strategies of High-Performing Salespeople : Internal Working Relationships That Drive Suc- cess , ” Journal of the Academy of Marketing Science , 38 ( 5 ) , 550–66 .
+Storbacka , Kaj ( 2011 ) , “ A Solution Business Model : Capabilities and Management Practices for Integrated Solutions , ” Industrial Marketing Management , 40 ( 5 ) , 699–711 .
+Storbacka , Kaj , Pia Polsa , and Maria Sääksjärvi ( 2011 ) , “ Man- agement Practices in Solution Sales : A Multilevel and Cross- Functional Framework , ” Journal of Personal Selling & Sales Management , 31 ( 1 ) , 35–54 .
+Sujan , Harish , Barton A. Weitz , and Nirmalya Kumar ( 1994 ) , “ Learning Orientation , Working Smart , and Effective Selling , ” Journal of Marketing , 58 ( July ) , 39–52 .
+Töllner , Alke , Markus Blut , and Harmut H. Holzmüller ( 2011 ) , “ Customer Solutions in the Capital Goods Industry : Examining the Impact of the Buying Center , ” Industrial Marketing Man- agement , 40 ( 5 ) , 712–22 .
+Tuli , Kapil R. , Ajay K. Kohli , and Sundar G. Bharadwaj ( 2007 ) , “ Rethinking Customer Solutions : From Product Bundles to Relational Processes , ” Journal of Marketing , 71 ( July ) , 1–17 .
+Ulaga , Wolfgang , and James M. Loveland ( 2014 ) , “ Transitioning from Product to Service-Led Growth in Manufacturing Firms : Emergent Challenges in Selecting and Managing the Industrial Sales Force , ” Industrial Marketing Management , 43 ( 1 ) , 113–25 .
+Ulaga , Wolfgang , and Werner J. Reinartz ( 2011 ) , “ Hybrid Offer- ings : How Manufacturing Firms Combine Goods and Services Successfully , ” Journal of Marketing , 75 ( November ) , 5–23 .
+United Nations Development Programme ( 2015 ) , “ Human Devel- opment Report 2015 , ” http : //hdr.undp.org/sites/default/files/2015_ human_development_report.pdf .
+U.S. Department of Labor ( 2017 ) , “ Summary Report for Sales Engineers , ” ( accessed February 7 , 2017 ) , https : //www.onetonline .
+org/link/summary/41-9031.00 .
+Uzzi , Brian , and Ryon Lancaster ( 2003 ) , “ Relational Embeddedness and Learning : The Case of Bank Loan Managers and Their Clients , ” Management Science , 49 ( 4 ) , 383–99 .
+Verbeke , Willem , Bart Dietz , and Ernst Verwaal ( 2011 ) , “ Drivers of Sales Performance : A Contemporary Meta-Analysis .
+Have Salespeople Become Knowledge Brokers ? ” Journal of the Academy of Marketing Science , 39 ( 3 ) , 407–28 .
+Weitz , Barton A .
+( 1981 ) , “ Effectiveness in Sales Interactions : A Contingency Framework , ” Journal of Marketing , 45 ( January ) , 85–103 .
+World Bank ( 2017 ) , “ World Bank Country and Lending Groups , ” https : //datahelpdesk.worldbank.org/knowledgebase/articles/ 906519 # High_income .
+164 / Journal of Marketing , July 2017 Copyright of Journal of Marketing is the property of American Marketing Association and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder 's express written permission .
+However , users may print , download , or email articles for individual use .

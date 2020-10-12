@@ -1,0 +1,422 @@
+Boone_ExpEco_2009_Ok5L.pdf
+abTz1.WIipCY39B3ZPhJJQ_1HWH4-Boone_ExpEco_2009_Ok5L.pdf.plain.html
+
+Exp Econ ( 2009 ) 12 : 417–436 DOI 10.1007/s10683-009-9221-0 Risky procurement with an insider bidder Jan Boone · Roy Chen · Jacob K. Goeree · Angelo Polydoro Received : 24 August 2007 / Accepted : 7 August 2009 / Published online : 21 August 2009 © Economic Science Association 2009 Abstract Procurement auctions carry substantial risk when the value of the project is highly uncertain and known only to insiders .
+This paper reports the results from a series of experiments comparing the performance of three auction formats in such complex and risky settings .
+In the experiment , every bidder knows the private value for the project but only a single insider bidder knows the common-value part .
+In addition to the standard second-price and English auctions we test the “ qualifying auction , ” a two-stage format commonly used in the sale of complex and risky as- sets .
+The qualifying auction has a fully “ revealing ” equilibrium that implements the revenue-maximizing outcome but it also has an uninformative “ babbling ” equilib- rium in which bidders place arbitrarily high bids in the first stage .
+In the experiments , the latter equilibrium has more drawing power , which causes the qualifying auction to perform worse than the English auction and only slightly better than a sealed- bid second-price auction .
+Compared to the two other formats , the English auction is Electronic supplementary material The online version of this article ( http : //dx.doi.org/10.1007/s10683-009-9221-0 ) contains supplementary material , which is available to authorized users .
+J. Boone Department of Economics , University of Tilburg , P.O .
+Box 90153 , 5000 LE Tilburg , The Netherlands R. Chen Department of Economics , University of Michigan , 238 Lorch Hall , 611 Tappan Street , Ann Arbor , MI 48109-1220 , USA J.K. Goeree ( ) Division of the Humanities and Social Sciences , California Institute of Technology , Mail code 228-77 , Pasadena , CA 91125 , USA e-mail : jacob.goeree @ gmail.com A. Polydoro Department of Economics , University of Rochester , Harkness Hall , Rochester , NY 14627 , USA 418 J. Boone et al .
+roughly 40 % more efficient , yields 50 % more revenues , avoids windfall profits for the insider , while protecting uninformed bidders from losses .
+Keywords Risky procurement · Experiments JEL Classification C92 · D44 1 Introduction Procurement can be a risky activity , which sometimes goes spectacularly wrong .
+For instance , the supersonic passenger jet Concorde may never have generated a posi- tive yearly profit for either British Airways or Air France , and , clearly , the net value of the project has been negative.1 Similarly , the Channel Tunnel between England and France “ took a year longer to build than planned and cost twice the forecasted budget , so that by the time it was finished in 1994 , ten billion pound had been sunk into a magnificent hole in the ground , ” ( Murray 2004 ) .
+The British Tourist Authority originally estimated that “ In the first full year of operation , between 26 million and 29 million passengers will use the tunnel. ” Ten years later , the figure has yet to reach seven million .
+Richard Shirrefs , a former chief executive of Eurotunnel , acknowl- edged that “ without a doubt , the Channel Tunnel would not have been built if we had known about these problems ” ( see The Economist 2004 ) .
+While these mishaps may have been caused by political considerations clouding economic judgement , it seems likely that the enormous uncertainty about the project ’ s value played a crucial role .
+In procurement settings , potential contractors often differ in their costs of carrying out the project but a significant part of its ( unknown ) value is common to all .
+This type of common-value uncertainty introduces considerable strategic complexity as bidders have to worry about the “ winner ’ s curse , ” especially when some bidders are better in- formed than others .
+For example , when contractors bid for a house renovation , some may take careful pictures and measurements of the foundation while others more or less rely on experience and intuition .
+For large projects such as highway construction , some companies may be better informed if they recently completed similar projects .
+The importance of information asymmetries in procurement setting is further illus- trated by procurement integrity restrictions that try to prevent government employees from creating information advantages for some bidders .
+Punishments of up to 5 years imprisonment illustrate both the incentive and the damage from such informational advantages.2 Good procurement design should aim to mitigate potential winner ’ s curse prob- lems , which otherwise lead to low revenues if bidders ( over ) compensate for the common-value uncertainty or result in bankruptcies if they don ’ t .
+While the latter scenario may entail high procurement revenues in the short run it will ultimately hurt the industry and adversely affect future procurement .
+The long-run consequences of poor auction design are illustrated by the procurement of large infrastructure projects 1See , for instance , http : //www.concordesst.com/latestnews_03_2.html .
+2See , for instance , http : //www.cdc.gov/od/foia/policies/pir.htm .
+Risky Procurement with an Insider Bidder 419 in the Netherlands in the eighties and nineties ( such as the Schiphol tunnel that was built to allow railway access to the national airport ) .
+The Dutch construction sector has been plagued by a cartel pervasive enough for the Dutch Parliament to start an in- quiry .
+Presumably , the main reason for running a cartel is to be able to coordinate on high prices .
+However , firms testified that the bidding ring was used mainly to reduce the uncertainty associated with carrying out the project .
+The workings of the cartel provide some credence to their claims .
+Prior to the official procurement organized by the government , firms met in the proverbial “ smoke filled room. ” Each firm would write its planned bid on a piece of paper , fold it , and put it under an ashtray .
+Then the project was discussed .
+If during these discussions a firm realized its engineers had overlooked a construction problem , it would remove its bid from under the ashtray.3 ( One firm recalls removing its bid from under the ashtray when it realized that the construction of a bridge required six pillars , one more than its bid accounted for . )
+Af- ter the discussion phase , all remaining bids were revealed .
+The lowest bidder would be selected to participate in the actual procurement auction with a marked up bid , and if this bidder won the project the mark up would be used to compensate other ring members .
+We do not suggest that information sharing ( rather than price collu- sion ) was the main motive for participating in the cartel , but many firms complained that ( without the cartel ) the sealed-bid procurement used by the Dutch government was “ too competitive ” and “ almost surely resulted in a winner ’ s curse. ” In this paper , we test with an experiment whether other procurement formats better protect bidders from the adverse effects of asymmetric common-value information .
+Another situation with substantial common value risk occurs when public assets are privatized and a single “ insider ” bidder ( e.g .
+a state-owned firm ’ s incumbent man- agement ) is better informed about the asset ’ s common value .
+Interestingly , the World Bank ’ s “ practitioners ’ guide ” to privatization promotes a two-stage format where in the first stage , non-binding expressions of interest are received from potential buyers .
+Based on these expressions of interest and a review of the financial capacity of poten- tial bidders a short list of potential buyers is selected .
+These bidders then move to the second stage of the process , which consists of a more traditional auction with binding bids , see Welch and Frémont ( 1998 , p. 32 ) for more details .
+Boone and Goeree ( 2009 ) analyze the following variant : all bidders make non-binding bids in the first stage af- ter which all but the lowest first-stage bidder qualify for the second stage , in which a second-price auction is used .
+They show this “ qualifying ” auction greatly alleviates winner ’ s curse problems .
+In fact , there exists a full-revelation equilibrium of the qual- ifying auction that implements the revenue-maximizing outcome .
+This equilibrium , however , is not unique .
+There also exists an uninformative equilibrium where all bid- ders bid the highest possible amount in the first stage to ensure their participation in the second stage .
+Which equilibrium of the qualifying auction is more likely to be selected is an empirical question , which we address using a controlled laboratory experiment .
+In 3There is an incentive for firms to distort their information and present a more pessimistic view about the project ’ s value in an attempt to scare others from taking on the project .
+However , the cartel met repeatedly and cheating would certainly be punished in future encounters .
+420 J. Boone et al .
+Table 1 Experimental design Treatment Group Size # of Groups Private Values Common Values English 4 10 U [ 60,100 ] { −50,50 } Second-Price 4 10 U [ 60,100 ] { −50,50 } Qualifying 4 10 U [ 60,100 ] { −50,50 } addition , we compare the performance of the qualifying auction to that of the sec- ond price and English auctions .
+We find that the winner ’ s curse has dramatic conse- quences for the sealed-bid second-price format : efficiency and revenue are low and uninformed bidders lose money on average .
+The English auction is far superior : ef- ficiency is high ( close to 90 % ) as are revenues , leaving modest but positive earnings for informed and uninformed bidders .
+The qualifying auction performs better than the second-price auction but not nearly as well as the English auction mainly because the uninformative equilibrium is observed more frequently in the data .
+Kagel et al .
+( 2008 ) report results from a related study in which they experimen- tally test Ye ’ s ( 2007 ) model for the qualifying auction .
+In Ye ’ s approach , firm ’ s have to decide whether to incur high ( due diligence ) costs to find out the value of a risky asset ( such as an electricity plant ) .
+If firms have only a small chance of winning the asset they would not want to invest substantial sums of money to learn its common value .
+Ye ( 2007 ) therefore assumes that the first stage of the process is used to reduce the number of participants to such an extent that it becomes profitable for firms to invest in due diligence .
+His main result is that efficient entry can not be guaranteed by a qualifying auction while there exist other mechanisms that can .
+Contrary to theo- retical predictions , however , the experimental analysis in Kagel et al .
+( 2008 ) shows that the efficiency performance of the qualifying auction is actually not worse than that of the alternative procedures .
+The main difference with our framework is that Ye assumes bidders are symmetric and entry into the second stage is costly , we consider free entry but assume that one bidder ( the insider ) is informed .
+The experimental design and procedures are discussed in Sect .
+2 .
+Section 3 pro- vides theoretical background and predictions .
+Aggregate results are presented in Sects .
+4 and 5 discusses individual bid data .
+Section 6 concludes .
+2 Experimental design and procedures We ran twelve computerized experiments each consisting of 20 auction periods , see Table 1.4 The sales format was either an English auction , a qualifying auction , or a second-price auction .
+In each of the three treatments , there were 40 subjects , divided into 10 groups of 4 subjects .
+Subjects ’ values for the ( single ) asset were equal to a private value plus a ( common value ) bonus .
+The private values were iid draws from a uniform distribution on [ 60,100 ] and the bonus was either 50 or −50 , with equal probability .
+In each group there were two types of bidders : 1 informed bidder and 4The experiments were programmed in z-Tree ( Fischbacher 2007 ) .
+Risky Procurement with an Insider Bidder 421 3 uninformed bidders .
+All bidders knew their private values but only the informed bidder knew the group ’ s bonus .
+In each period , the informed bidder was randomly picked , i.e .
+every subject had an equal chance of being informed .
+In the English auction the price starts at 0 points and rises at a speed of 1 point every 0.5 seconds .
+Bidders ’ screens display the rising price level , whether the in- formed bidder was active , and how many uninformed bidders were active .
+At the start of the auction all bidders were presumed to be active but as price levels rose they could push a “ drop out ” button to indicate they were no longer active .
+After a bidder dropped out , the price clock would be paused for 10 seconds to give remaining bidders the chance to digest the information .
+During these 10 seconds no one could drop out .
+The final remaining bidder in a group received the private value plus the bonus and had to pay the final displayed price .
+If all remaining bidders dropped out at the same price level , or if the price level reached 200 points , then the winner was picked at random from the set of active bidders .
+In the second-price auction all four bidders place bids between 0 and 200 points .
+The highest bidder receives the private value plus the bonus and pays the second- highest bid .
+In all cases , ties are resolved at random .
+Finally , the qualifying auction consists of two stages .
+In the first stage , all four bid- ders place non-binding bids .
+Within each group , the lowest bidder can not participate in the second stage , which consists of a standard sealed-bid second-price auction .
+Before bidding in the second stage , the three qualifying bidders are told the lowest first-stage bid , and whether this bid was placed by the informed or an uninformed bidder .
+Bids may be any integer between 0 and 200 points in either stage .
+The high bidder in the second stage receives the private value plus the bonus and pays the second-highest bid of the second stage .
+The methods used to determine the values and types of the subjects , as well as the auction rules , were explained with instructions presented before each experiment .
+These instructions were projected on a screen and read aloud so that they would be common knowledge .
+At the beginning of the experiments , each subject received 50 points to which their earnings in each of the 20 auctions were added .
+At the end of the experiment , subjects were paid $ 1 for every 5 points ( plus a show-up fee of $ 5 ) .
+Bidders whose cumulative profits were negative at the end of the experiment received only the show-up fee .
+Data from groups in which one or more bidders went bankrupt are not used in the analysis reported below .
+For statistical purposes , the private values , common values , groups and types for each bidder in each period were randomly drawn before the experiments , and reused for each of the three treatments .
+Also , the composition of the groups stayed the same during the experiments .
+Before the experiment started , subjects were asked to fill out a questionnaire to make sure they understood how their profits were determined .
+In this questionnaire , the subjects were given a set of random bids and a private value ( determined by the roll of two dice ) , and then given the outcome of the auction ( you won/you lost ) and the common value for their group .
+They were then asked to calculate their own profits with these values .
+The numbers used for the questionnaire were chosen so they would not be in the range of numbers the subjects would see in the experiment , to emphasize that this was just to practice payoff calculations .
+All experiments were conducted at the Social Science Experimental Laboratory ( SSEL ) at Caltech .
+422 J. Boone et al .
+3 Theoretical predictions In this section , we discuss the equilibrium strategies for the informed and uninformed bidders for the three auction formats used in the experiment .
+Proofs of the lemmas below can be found in Boone and Goeree ( 2009 ) and the Appendix .
+3.1 English auction The following lemma characterizes equilibrium outcomes of the English auction.5 Here bI ( sI |ϑ ) denotes the insider ’ s bidding function , which depends only on the insider ’ s information .
+An uninformed bidder ’ s bidding function , bSU ( vU | p ) , depends on the set of other bidders that are still active ( S ) and on the prices ( p ) at which non-active bidders have dropped out .
+Lemma 1 The informed bidder drops out at bI ( vI |ϑ ) = vI + ϑ where ϑ = ±50 .
+( i ) When all bidders are active , uninformed bidders drop out at b { I , U , U } U ( vU ) = vU − 50 .
+( ii ) When another uninformed bidder has dropped out at price p1U , the remaining uninformed bidders drop out at b { I , U } U ( vU |p1U ) = ⎧ ⎪⎪⎪⎪⎨ ⎪⎪⎪⎪⎩ vU − 50 if 60 ≤ vU < v1U vU − 50 + 3 √ 120 ( ( vU − 80 ) 2 − ( v1U − 80 ) 2 ) if v1U ≤ vU < v2U vU + 50 if v2U ≤ vU ≤ 100 where v1U = max ( 80 , p1U + 50 ) and v2U = 60 + 3 √ 120 ( v1U − 80 ) 2 + 16000 .
+( iii ) When two other uninformed bidders have dropped out at prices p1U ≤ p2U , the remaining uninformed bidder drops out at b { I } U ( vU |p1U , p2U ) = { vU − 50 if vU < v3U vU + 50 if vU ≥ v3U where v3U = ⎧ ⎪⎪⎨ ⎪⎪⎩ 80 if p2U < 30 p2U + 10 + √ 80 ( 50 − p2U ) if 30 ≤ p2U < 50 60 if p2U ≥ 50 ( iv ) When the insider drops out at price pI , uninformed bidders drop out at bSU ( vU |pI ) = pI + max ( 0 , vU − vI ) for S = { U } , { U , U } , and { U , U , U } , where vI solves pI = bI ( vI |ϑ ) for ϑ = ±50 .
+5Hernando-Veciana ( 2004 ) and Hernando-Veciana and Tröge ( 2004 ) cover the simpler case of two bidders .
+Risky Procurement with an Insider Bidder 423 To summarize : ( i ) when all bidders are active , uninformed bidders bid cautiously ( as if they know the common value is −50 ) to avoid a winner ’ s curse .
+After one of the uninformed bidders has dropped out , ( ii ) remaining uninformed bidders with high valuations are willing to bid more in an attempt to end up in the final sub-game against the insider .
+In this sub-game , ( iii ) an uninformed bidder with a high valuation bids aggressively ( as if she knows the common value is +50 ) and expects positive profits from doing so .
+Finally , ( iv ) multiple uninformed bidders may want to get out “ in a rush ” if the insider drops out early in the auction .
+The English auction is not necessarily efficient .
+Suppose , for example , that the insider ’ s value , vI , is less than the highest of the uninformed bidders ’ valuations , vU , which in turn is less than the average value , i.e .
+vI < vU < 80 .
+Then the insider wins when the common value is +50 , which is inefficient .
+Likewise , when 80 < vU < vI and the common value is −50 , the efficient allocation is to assign the asset to the insider but one of the uninformed bidders will win the auction .
+3.2 Second-price auction In the English auction , uninformed bidders can drop out immediately after the in- formed bidder drops out at a low price .
+In contrast , in a sealed-bid framework there is no opportunity for the uninformed bidders to learn about the asset ’ s common value .
+As a result , a winning uninformed bidder may have to pay another uninformed bid- der ’ s high bid when the bonus is −50 .
+To avoid such a loss ( of approximately 100 ) uninformed bidders will bid have to bid cautiously , especially as the number of other uninformed bidders increases .
+Lemma 2 The informed bidder bids bI ( vI ) = vI ± 50 .
+An uninformed bidder bids bU ( vU ) = { vU − 50 if vU < v1U B ( vU ) if vU ≥ v1U where B ( vU ) is shown by the solid line in Fig .
+1 when there are three uninformed bidders and v1U = 95 , by the long-dashed line when there are two uninformed bidders and v1U = 91 , and by the short-dashed line when there is one uninformed bidder and v1U = 80 .
+Note that bids decline as more uninformed bidders enter the auction because of the aggravated winner ’ s curse problem .
+For the case of three uninformed bidders , the optimal bids in the second-price auction can be much less aggressive than in the English auction , which hurts expected revenues .
+There are two scenarios in which efficiency of the second price auction is adversely affected .
+When the bonus is high , there is a wide range of values for vU such that uninformed bidders bid low and the informed bidder wins even though vI < vU .
+Furthermore , even if uninformed bidders bid high , there is a probability that vI + 50 > B ( vU ) while vU > vI .
+3.3 Qualifying auction As described in Sect .
+2 , the qualifying auction consists of two stages , with non- binding first-stage bids and binding second-stage bids .
+Like the English auction , the 424 J. Boone et al .
+Fig .
+1 The horizontal axis corresponds to an uninformed bidder ’ s private value and the vertical axis corresponds to the bidder ’ s optimal bid .
+The lines show the optimal bidding functions for the second price auction with one insider and three uninformed bidders ( solid line ) , two uninformed bidders ( long dashes ) , and one uninformed bidder ( short dashes ) first stage allows uninformed bidders to receive information about the asset ’ s com- mon value .
+The following lemma describes a perfect Bayesian equilibrium outcome for the qualifying auction .
+Lemma 3 The first stage bids are equal to the bidder ’ s ( unconditional ) expected valuations of the asset : bI ( vI ) = vI ± 50 bU ( vU ) = vU After being told the losing bid and the losing bidder ’ s identity , the remaining unin- formed bidders are able to infer the bonus ( −50 if the losing bidder is informed , +50 otherwise ) .
+In the second stage the optimal bid for all remaining bidders is b ( v ) = v ± 50 To see that there is no incentive for the informed bidder to deviate , suppose the informed bidder wants to convey bad news about the common value when the bonus equals +50 .
+She can only do so by bidding low , but then she will not be able to participate in the second stage .
+Likewise , if the bonus is −50 points and the informed bidder bids as if it were +50 points , the uninformed bidders expect the common value to be +50 and outbid the informed bidder in the second stage .
+Boone and Goeree ( 2009 ) show that this “ revealing ” equilibrium implements the revenue-maximizing outcome .
+It is not fully efficient : when the bonus is low and the informed bidder has the highest private value , the object will be assigned to an uninformed bidder ( since the informed bidder will not make it to the second stage ) .
+Risky Procurement with an Insider Bidder 425 In all other cases , the object is allocated efficiently .
+The revealing equilibrium is also not unique ; the next Lemma describes an uninformative equilibrium.6 Lemma 4 With the bids constrained to b ≤ 200 , bids in the first stage are bI ( vI ) = 200 bU ( vU ) = 200 With no extra information obtained from the first stage , the three remaining bidders in the second stage participate in a sealed-bid second-price auction ( one bidder is randomly chosen not to participate in the second stage ) .
+If the informed bidder enters the second stage , she bids bI ( vI ) = vI ± 50 while the uninformed bidders bid bU ( vU ) = { vU − 50 if vU < 91 B̃ ( vU ) if vU ≥ 91 where B̃ ( v ) is shown in Fig .
+1 ( long dashes ) .
+If the informed bidder does not enter the second stage , uninformed bidders bid their private values bU ( v ) = vU .
+This “ babbling ” equilibrium arises when bidders do not wish to reveal their val- uations to other bidders .
+For the informed bidder this creates an opportunity to take advantage of the uninformed bidders ’ lack of information in the second stage .
+In this sense , the babbling equilibrium may appear the payoff-dominant choice for the in- formed bidder .
+However , if only the insider deviates from the revealing equilibrium by bidding the maximum of 200 then this deviation is ( of course ) not profitable .
+And the uninformed bidders are not necessarily better off under the babbling equilibrium ( even though their chance of entering the second stage may be higher ) because of the winner ’ s curse they face in the resulting second-price auction .
+Put differently , the bab- bling equilibrium is not payoff dominant for all players and , hence , is not necessarily the “ focal ” equilibrium.7 4 Results : aggregate data In this section we report aggregate results such as efficiency ( E ) , revenue ( R ) , and bidders ’ earnings ( π ) .
+We define the auction ’ s efficiency as : E = vwinner − vlow vhigh − vlow × 100 % 6Other equilibria may exist .
+We focus on the revealing equilibrium and babbling equilibrium as they seem to describe the data well .
+7In addition , payoff dominance is not a robust equilibrium selection criteria , at least for many coordination games studied in the experimental literature .
+426 J. Boone et al .
+where vwinner is the private value of the auction ’ s winner , vlow is the lowest private value within the group , and vhigh is the highest private value within the group.8 Rev- enue is equal to the winner ’ s payment and the winner ’ s earnings equal her total value minus her payment ( losing bidders earn nothing ) .
+The theoretical predictions reported below are based on the private values and bonuses that were used in the experiments .
+Revenue : The top row in Table 2 shows predicted ( left panel ) and observed ( right panel ) revenues for the three auction formats.9 In theory , the revealing equilibrium of the qualifying auction results in the highest revenue , followed by the English auction , the babbling equilibrium of the qualifying auction , and , finally , the second price auc- tion .
+This ranking is also reflected by the cumulative distributions of revenues shown in the top panel of Fig .
+2 .
+The bottom panel of Fig .
+2 shows the observed distributions of revenues in the three formats .
+The distribution of revenues in the English auction is shifted to the right and dominates the revenue distributions of the other two formats ( in the sense of first-degree stochastic dominance ) .
+The distribution of revenues in the qualifying auction seemingly dominates that of the second price auction but the differences are not significant .
+The middle panel of Table 3 shows revenue differences across for- mats ; the results reinforce the conclusion that the English auction revenue dominates the other formats while the second price and qualifying auctions yield similar rev- enues : REnglish ∗∗ R2nd price ∼ RQualifying where ∗∗ indicates significantly higher at the 1 % level.10 Efficiency : In theory , efficiency should be highest in the English auction , followed by the qualifying auction , and then the second price auction .
+This ranking is also observed in the data , see the middle panel of Table 3 .
+Again the differences between the English auction and the other two formats are highly significant , while the second price and qualifying auctions lead to similar efficiency levels : EEnglish ∗∗ E2nd price ∼ EQualifying .
+The magnitude of the inefficiencies that occur in the second price auction can be inferred from the second row of Table 2 .
+Efficiency in the second price auction is only 63 % compared to 87 % in the English auction .
+This suggests one reason why revenue is lower in the second price auction ; the pie to be divided between bidders and the seller is smaller .
+Another reason , however , is that informed bidders often gain windfall profits in the second price auction .
+8This measure is invariant under translations or rescalings of the values .
+Note that if the bidder with the lowest private value is the winner of the auction , efficiency is 0 % , and if the bidder with the highest private value is the winner , efficiency is 100 % .
+9The numbers reported in the observed columns are based on all 20 periods .
+We also computed these statistics for the last 10 periods only and found no significant differences .
+10The numbers reported are based on all 20 periods , but all of our conclusions remain the same when we consider only data from the final ten periods .
+Risky Procurement with an Insider Bidder 427 Ta bl e 2 A gg re ga te st at is tic s T he or y O bs er ve d E ng lis h Se co nd -P ri ce Q ua lif yi ng Q ua lif yi ng E ng lis h Se co nd -P ri ce Q ua lif yi ng R ev ea lin g B ab bl in g R ev en ue 75 .3 7 ( 12 .3 4 ) 49 .5 1 ( 8 .
+04 ) 84 .2 9 ( 7 .
+10 ) 59 .1 9 ( 6 .
+55 ) 79 .4 1 ( 8 .
+77 ) 53 .7 9 ( 10 .7 6 ) 58 .8 1 ( 8 .
+82 ) E ffi ci en cy ( % ) 98 .0 4 ( 1 .
+70 ) 76 .9 7 ( 5 .
+45 ) 92 .9 6 ( 3 .
+71 ) 80 .3 2 ( 4 .
+08 ) 87 .0 7 ( 4 .
+83 ) 63 .4 5 ( 10 .8 4 ) 68 .9 4 ( 11 .5 0 ) E ar ni ng s ( $ ) 14 .8 3 ( 5 .
+92 ) 34 .7 6 ( 8 .
+44 ) 9 .
+36 ( 1 .4 0 ) 31 .2 9 ( 7 .
+33 ) 8 .
+56 ( 8 .8 3 ) 27 .1 8 ( 7 .
+98 ) 28 .7 6 ( 6 .
+44 ) – U ni nf or m ed ( $ ) 8 .
+03 ( 1 .5 7 ) 2 .
+43 ( 3 .1 5 ) 8 .
+79 ( 1 .5 9 ) 12 .0 6 ( 3 .
+53 ) 4 .
+38 ( 7 .6 7 ) −1 .2 3 ( 2 .
+67 ) 8 .
+74 ( 8 .9 4 ) – In fo rm ed ( $ ) 6 .
+80 ( 6 .2 4 ) 32 .3 3 ( 9 .
+80 ) 0 .
+56 ( 0 .6 8 ) 19 .2 3 ( 7 .
+09 ) 4 .
+19 ( 4 .3 3 ) 28 .4 1 ( 6 .
+90 ) 20 .0 1 ( 11 .3 1 ) B an kr up tc ie s ( % ) 0 .
+0 0 .
+0 0 .
+0 0 .
+0 10 .0 10 .0 10 .0 St an da rd de vi at io ns in pa re nt he se s 428 J. Boone et al .
+Ta bl e 3 C om pa ri ng th e di ff er en tf or m at s : th eo ry ( t op pa ne l ) , o bs er ve d ( m id dl e pa ne l ) , a nd th eo ry vs .o bs er ve d ( b ot to m pa ne l ) D if fe re nc es ac ro ss Fo rm at s : T he or y R ev en ue E ffi ci en cy ( % ) E ar ni ng s ( $ ) U ni nf or m ed ( $ ) In fo rm ed ( $ ) E ng lis h— Se co nd -P ri ce 25 .8 6* * 21 .0 7* * −1 9 .
+93 ** 5 .
+60 ** −2 5 .
+53 ** E ng lis h— Q ua lif yi ng ( R /B ) −8 .9 3/ 16 .1 8* * 5 .
+07 * /1 7 .
+71 ** 5 .
+47 * −1 6 .
+46 ** −0 .7 7/ −4 .0 3* 6 .
+24 * /− 12 .4 3* * Q ua lif yi ng ( R /B ) — Se co nd -P ri ce 34 .7 8* * /9 .6 8* 16 .0 0* * /3 .3 6 −2 5 .
+40 ** −3 .4 7 6 .
+37 ** /9 .6 3* * −3 1 .
+77 ** /− 13 .1 0* D if fe re nc es ac ro ss Fo rm at s : O bs er ve d R ev en ue E ffi ci en cy ( % ) E ar ni ng s ( $ ) U ni nf or m ed ( $ ) In fo rm ed ( $ ) E ng lis h— Se co nd -P ri ce 25 .6 2* * 23 .6 3* * −1 8 .
+61 ** 5 .
+61 −2 4 .
+22 ** E ng lis h— Q ua lif yi ng 20 .6 0* * 18 .1 3* * −2 0 .
+19 ** −4 .3 7 −1 5 .
+83 ** Q ua lif yi ng — Se co nd -P ri ce 5 .
+02 5 .
+49 1 .
+58 9 .
+98 * −8 .3 9 D if fe re nc es be tw ee n O bs er ve d an d T he or y R ev en ue E ffi ci en cy ( % ) E ar ni ng s ( $ ) U ni nf or m ed ( $ ) In fo rm ed ( $ ) E ng lis h 4 .
+04 −1 0 .
+96 ** −6 .2 6 −3 .6 5 −2 .6 1 Se co nd -P ri ce 4 .
+28 −1 3 .
+52 * −7 .5 8 −3 .6 6 −3 .9 3 Q ua lif yi ng R ev ea lin g −2 5 .
+48 ** −2 4 .
+02 ** 19 .4 0* * −0 .0 5 19 .4 5* * Q ua lif yi ng B ab bl in g −0 .3 7 −1 1 .
+38 * −2 .5 3 −3 .3 1 0 .
+78 * in di ca te s p- va lu e of le ss th an 5 % ** in di ca te s p- va lu e of le ss th an 1 % Risky Procurement with an Insider Bidder 429 Fig .
+2 Cumulative distributions of revenues for the different auction formats .
+The top panel shows theo- retical predicted revenue distributions and the bottom panel shows observed revenue distributions Bidders ’ profits : The third row in Table 2 shows bidders ’ earnings ; rows 4 and 5 show how these earnings are split between the informed and uninformed bidders .
+In the English auction , the informed and uninformed bidders make similar profits that are modest in size .
+In contrast , in the second price auction , uninformed bidders lose money on average while the informed bidder makes a large profit .
+In the qualifying 430 J. Boone et al .
+auction , the informed bidder also makes a substantial profit but now the uninformed bidders ’ earnings are positive .
+Aggregating the profits for the informed and unin- formed bidders shows : πEnglish ≺∗∗ π2nd price ∼ πQualifying , see the earnings column in the middle panel of Table 3 .
+The final two columns in that panel demonstrate that the uninformed bidders are significantly better off in the English or qualifying auction compared to the second price auction .
+In contrast , the informed bidder is significantly worse off in the English auction .
+Summary : Applying standard criteria to evaluate alternative auction formats , i.e .
+efficiency , revenue , and non-negative bidder profits , results in a clear winner .
+The English auction is highly efficient , produces the most revenue , and provides modest profits for the informed and uninformed bidders .
+In contrast , the second price auc- tion results in low efficiencies and revenues and uninformed bidders lose money on average .
+Finally , the qualifying auction performs slightly better than the second price auction but not nearly as well as the English auction .
+The bottom panel of Table 3 compares observed behavior with theoretical pre- dictions .
+Note that actual efficiency levels are significantly lower than predicted in all three formats .
+The other measures , however , nicely conform to theoretical predic- tions , where for the qualifying auction it is the babbling equilibrium that has the most drawing power .
+5 Results : individual data We study individual bidding behavior by computing empirical bidding functions that result from taking moving averages of observed bids for each value category .
+In par- ticular , for uninformed bidders we take the average bid for each private value category and for the informed bidders we take the average bid for each total value category ( private value plus bonus ) .
+Then we average 5 categories to form moving averages .
+The results are displayed in Fig .
+3 .
+The top panel of Fig .
+3 shows the empirical bidding functions for the English auction .
+For the informed bidders ( with total values in the ranges 10–50 and 110– 150 ) we separated out the 8 bids on the left where they “ trick ” the uninformed bidders into believing the bonus is high and the 11 bids on the right where they drop out early leaving windfall profits for the uninformed bidders .
+Bids for the remaining 141 auctions are all very close to ( total ) value : the empirical bidding functions more or less coincide with the relevant 45-degree lines .
+For the uninformed bidders ( range 60–100 ) we split the observed bids in low bids ( < 80 ) and high bids ( > 80 ) .
+The resulting moving average lines coincide with bidding your value plus or minus 50 , see the middle part of the top panel .
+In other words , uninformed bidders in the experiment bid their private values plus or minus 50 and do so independent of their private values ( unlike the predictions of Lemma 1 ) .11 11Although the fraction of low ( high ) bids is higher when the private value is less ( more ) than average .
+Risky Procurement with an Insider Bidder 431 Fig .
+3 Moving averages of observed bids as a function of private values ( 60–100 ) for uninformed bidders and of total values ( 10–50 or 110–150 ) for the informed bidder .
+The top , middle , and bottom panels pertain to the English , second price , and qualifying auctions respectively 432 J. Boone et al .
+The middle panel of Fig .
+3 shows empirical bidding functions in the second price auction .
+Behavior of the informed bidders again nicely conforms with bidding ones total value.12 For the uninformed bidders we did not split the bids into low and high bids , because this resulted in no discernable pattern ( unlike in the English auction ) .
+The empirical bidding function for the uninformed bidders is parallel to bidding ones value minus 50 , but exceeds this line by 10 or so points .
+This is the reason that un- informed bidders ’ profits are negative : the inflated bids reduce the informed bidder ’ s profit when the informed bidder wins ( which typically occurs when the bonus is high , i.e .
+with probability 0.5 ) and lowers the uninformed bidders ’ profits otherwise ( Ta- ble 2 ) .
+Finally , the bottom panel of Fig .
+3 shows the empirical bids for the two stages of the qualifying auction .
+The three top lines depict the moving averages of the first- stage bids .
+Obviously , uninformed bidders and informed bidders who received good news are selecting the babbling equilibrium by putting in first-stage bids that exceed the highest possible total value .
+The first-stage informed bids are somewhat lower when the bonus is low , which helps uninformed bidders avoid the winner ’ s curse to some degree .
+Second stage informed bids again nicely conform to bidding ones total value and second stage uninformed bids parallel but exceed bidding ones value minus 50 .
+Indeed , the second stage bids of the bottom panel are very similar to the bids in the middle panel .
+Hence , the improved performance of the qualifying auction vis-à- vis the second price auction is not due to different bidding behavior ( as predicted by the revealing equilibrium of Lemma 3 ) but rather to the ( almost ) random exclusion of one of the bidders ( as predicted by the babbling equilibrium of Lemma 4 ) .13 In other words , subjects seem to bid according to the babbling equilibrium of Lemma 4 .
+This conclusion is corroborated when considering the probabilities with which the informed bidder enters the second stage .
+Recall from Lemma 4 that in the babbling equilibrium , all bidders put in the maximum first-stage bid ( of 200 ) and the insider bidder ’ s chance of entering the second stage is only 75 % .
+In the experiment , the observed frequency with which the insider enters the second stage is 77 % when the bonus is high and 50 % when it is low .
+6 Conclusion Procurement and privatization auctions can be complex and risky .
+Consider , for in- stance , the case where a state-owned firm is put up for bid .
+Interested parties may differ in terms of their abilities to exploit the firm ’ s resources , which translates into 12This is a remarkable feature of our data .
+There have been numerous private-value second price auction experiments showing substantial overbidding relative to bidders ’ values , e.g .
+Kagel ( 1995 ) .
+Likewise , there have been numerous experiments demonstrating the robustness of the winner ’ s curse in common value auctions , e.g .
+Kagel and Levin ( 2002 ) .
+Even though our setup with private and common values is more complicated than that of previous studies , observed bids are organized around the relevant 45-degree lines in all three panels of Fig .
+3 .
+13This is akin to Bulow and Klemperer ’ s ( 2002 ) finding that in a pure common-value auction , reducing the number of bidders may increase revenue because it alleviates the winner ’ s curse problem .
+Risky Procurement with an Insider Bidder 433 different private values .
+In addition , the firm ’ s profitability may depend on the in- dustry ’ s general outlook , which applies to all bidders .
+Hence , bidders ’ values contain both private and common value elements .
+To complicate matters , bidders often dif- fer in terms of the quality of the information they possess , which aggravates adverse selection effects inherent to auctions where common values play a role .
+In this paper , we experimentally study bidding behavior in such complex and risky settings .
+In the experiment , bidders ’ values for the object for sale consist of both a private value part plus a common value bonus .
+The bonus is relatively large compared to private value differences to stress the common value risk .
+Furthermore , a single insider bidder is told the common value bonus to stress informational asymmetries .
+Laboratory experiments provide an ideal tool to measure the efficacy of alternative auction formats in this environment .
+We compare three formats : the ascending English auction , the sealed-bid second- price auction , and the qualifying auction , a two-stage format advocated by the World Bank to privatize firms ( see Welch and Frémont 1998 ) .
+In the first stage of the qualify- ing auction , bidders place non-binding bids to determine who qualifies for the second stage , which consists of a standard second-price auction .
+Boone and Goeree ( 2009 ) show theoretically that the qualifying auction has a fully “ revealing ” equilibrium that implements the revenue-maximizing outcome .
+In addition , it has an uninformative or “ babbling ” equilibrium where bidders place arbitrarily high bids in the first stage .
+Laboratory experiments allow for a careful evaluation of the resulting equilibrium selection problem .
+Comparing the English auction with a sealed bid second price auction shows a dra- matic difference in performance : the English auction is roughly 40 % more efficient , generates almost 50 % more revenue , reduces the informed bidder ’ s windfall profits by a factor of seven , and protects uninformed bidders from making losses .
+Further- more , our experimental results indicate that the babbling equilibrium has more draw- ing power in the qualifying auction .
+As a result , this format performs only slightly better than the second-price auction and much worse than the English auction .
+Our results are important for improved auction design when valuations are com- plex and information asymmetries exist .
+The negative effects of using a sealed bid for- mat are illustrated by the procurement of large infrastructure projects in the Nether- lands in the eighties and nineties .
+Uninformed bidders complained they would almost surely fall prey to a winner ’ s curse had they not pooled their information before the auction .
+Of course , the resulting Dutch construction cartel that organized this type of information sharing also facilitated price collusion , which ultimately led to a parlia- mentary inquiry .
+Our results suggest that an ascending format , where information is revealed during the bidding process , might have led to a more healthy construction industry .
+Acknowledgements We should like to thank Fabio Michelucci for useful discussions .
+We gratefully acknowledge financial support from the National Science Foundation ( SES 0551014 ) , the Gordon and Betty Moore Foundation , and the Dutch National Science Foundation ( VICI 453.03.606 ) .
+434 J. Boone et al .
+Appendix : Proof of Lemma 1 The insider bids up to her known value in the English auction .
+Once the insider drops out , all active uninformed bidders can perfectly infer the common value and , hence , their total values .
+If the price at which the insider dropped out exceeds the total value of an uninformed bidder then this bidder will drop out immediately , otherwise she will bid up to her total value .
+This establishes ( iv ) .
+To prove ( iii ) , suppose two un- informed bidders have dropped out : the first drop-out level is denoted p1U and the second drop-out level is p2U ≥ p1U .14 The remaining uninformed bidder ’ s expected payoffs depend on p2U .
+If p 2 U < vU − 50 then π ( vU |p2U ) = 1 40 max { 1 2 ∫ vU p2U +50 ( vU − y ) dy , 1 2 ∫ 100 p2U +50 ( vU − y ) dy + 1 2 ∫ vU 60 ( vU − y ) dy } The first term of the max function corresponds to the case where the remaining un- informed bidder bids low , i.e .
+up to her value minus 50 ( in which case she wins only if the insider has bad news ) , and the second term corresponds to the case where the uninformed bidder bids high , i.e .
+up to her value plus 50 .
+The multiplying factor 1/40 results from the fact that values are uniform on [ 60,100 ] .
+Likewise , if p2U > vU − 50 then π ( vU |p2U ) = 1 40 max { 0 , 1 2 ∫ 100 pU +50 ( vU − y ) dy + 1 2 ∫ vU 60 ( vU − y ) dy } where the first term of the max function occurs when the uninformed bidder drops out right away and the second term occurs when she bids high .
+Summarizing : π ( vU |p2U ) = { max { 0 , 1160 ( vU − p2U − 50 ) 2 + 12 ( vU − 80 ) } if vU ≤ p2U + 50 1 160 ( vU − p2U − 50 ) 2 + 12 max { 0 , vU − 80 } if vU > p2U + 50 ( A.1 ) Note that the second argument of the max function in the top line of ( A.1 ) is increas- ing in vU and maximized at vU = p2U +50 with resulting value p2U −30 .
+Hence , when p2U ≤ 30 , uninformed bidders with values vU ≤ p2U + 50 drop out right away , those with values p2U + 50 < vU < 80 bid up to vU − 50 , and those with values vU ≥ 80 bid up to vU + 50 .
+Hence , v3U = 80 when p2U ≤ 30 .
+When 30 ≤ p2U ≤ 50 , the second argument of the max function in the top line of ( A.1 ) is positive iff the uninformed bidder ’ s value exceeds p2U + 10 + √ 80 ( 50 − p2U ) .
+( A.2 ) Uninformed bidders with values less than ( A.2 ) drop out right away ( note that ( A.2 ) is less than p2U + 50 when p2U ≥ 30 ) and those with values greater than ( A.2 ) bid 14Note that , in equilibrium , no bidder drops out below a price of 10 since bidders ’ total values are at least 10 .
+Risky Procurement with an Insider Bidder 435 up to vU + 50 .
+Hence , v3U is given by ( A.2 ) when 30 ≤ p2U ≤ 50 .
+Finally , p2U ≥ 50 implies that two uninformed bidders and the insider are still active , so , in equilibrium , the insider must have received good news .
+Now v3U = 60 .
+This establishes ( iii ) .
+To prove ( ii ) , suppose the equilibrium drop-out level for an uninformed bidder with value vU is bU ( vU ) , which ( obviously ) is no less than vU − 50 .
+To derive bU ( vU ) consider the costs and benefits that arise when the bidder deviates by staying in a little longer ( i.e .
+as if her type is vU + ) , which have to cancel in equilibrium .
+The benefit of this deviation is that the other uninformed bidder may drop out in between , in which case the uninformed bidder faces only the insider and she receives payoffs π ( vU |bU ( vU ) ) .
+The downside is that the insider may drop out in between , after which the uninformed bidder wants to drop out but , with chance ( bU ( vU ) − vU + 50 ) /40 , so does the other uninformed bidder .
+For uninformed bidders with values vU ≤ 80 the continuation profits are 0 beyond a price level of vU −50 , since they drop out immediately at that level even if the other uninformed drops out and they only compete against the insider .
+So uninformed bid- ders with values vU ≤ 80 bid low : bU ( vU ) = vU − 50 .
+Furthermore , if p1U > 30 then we have the boundary condition bU ( p1U + 50 ) = p1U , i.e .
+an uninformed bidder with the same value as the first uninformed bidder to drop out , wants to drop out immedi- ately after.15 So when p1U > 30 , uninformed bidders with values 80 ≤ vU ≤ p1U + 50 also bid low .
+The two cases can be combined by defining v1U = max ( 80 , p1U + 50 ) so that bU ( vU ) = vU − 50 for vU ≤ v1U .
+For vU > v1U the bidding function bU ( vU ) satisfies the first-order condition is : −1 2 · 1 2 · 1 40 b′U ( vU ) ( bU ( vU ) − vU + 50 ) 2 + 1 160 ( vU − bU ( vU ) − 50 ) 2 + 1 2 ( vU − 80 ) = 0 .
+( A.3 ) The first term of ( A.3 ) corresponds to the case where the insider dropped out ( in which case the insider must have had bad news , which occurs with probability 12 ) and the other bidder wants to drop out as well ( with probability ( bU ( vU ) − vU + 50 ) /40 ) and with probability 12 the uninformed bidder is selected to win the auction ( at a loss vU − 50 − bU ( vU ) ) .
+The second and third term correspond to the continuation payoff π ( vU |bU ( vU ) ) in ( A.1 ) for the case bU ( vU ) ≥ vU − 50 .
+The solution to ( A.3 ) is given by bU ( vU ) = vU − 50 + 3 √ 120 ( ( vU − 80 ) 2 − ( v1U − 80 ) 2 ) for v1U ≤ vU ≤ v2U = 60 + 3 √ 120 ( v1U − 80 ) 2 + 16000 .
+At v2U the optimal bid bU ( v 2 U ) = 50 and the uninformed bidders know for sure they are no longer com- peting against an insider with bad news .
+Hence , for vU > v2U they will bid high , i.e .
+bU ( v 2 U ) = vU + 50 .
+This establishes ( ii ) .
+15Suppose not , and this bidder would stay in at least longer , then so would uninformed bidders with higher types .
+Hence , as the price rises from p1 U to p1 U + , no uninformed bidder would drop out but the insider might , which would result in an expected loss .
+436 J. Boone et al .
+Finally , to prove ( i ) , consider the analogue of the first-order condition in ( A.3 ) for the case of 3 uninformed bidders .
+When deviating by bidding as if one ’ s value is vU + the possibility of a loss ( when the insider drops out ) is proportional to , while now the possibility of a gain is of order 2 since both other uninformed bidders would have to drop out ( if only one of them drops out then another uninformed bidder must have a higher private value and the deviation will not result in a gain ) .
+Hence bU ( vU ) = vU − 50 , which establishes ( i ) .
+References Boone , J. , & Goeree , J. K. ( 2009 ) .
+Optimal privatization using qualifying auctions .
+Economic Journal , 119 , 277–297 .
+Bulow , J. , & Klemperer , P. ( 2002 ) .
+Prices and the winner ’ s curse .
+RAND Journal of Economics , 33 ( 1 ) , 1–21 .
+Fischbacher , U .
+( 2007 ) .
+z-tree : Zurich toolbox for ready-made economic experiments .
+Experimental Eco- nomics , 10 ( 2 ) , 171–178 .
+Hernando-Veciana , A .
+( 2004 ) .
+Successful uninformed bidding .
+Games and Economic Behavior , 48 , 29– 53 .
+Hernando-Veciana , A. , & Tröge , M. ( 2004 ) .
+The insider ’ s curse , ( Working paper ) .
+University of Alicante .
+Kagel , J. H. ( 1995 ) .
+Auctions : a survey of experimental research .
+In J. H. Kagel & A. E. Roth ( Eds .
+) , Handbook of experimental economics Princeton : Princeton University Press .
+Kagel , J. H. , & Levin , D. ( 2002 ) .
+Common value auctions and the winner ’ s curse .
+Princeton : Princeton University Press .
+Kagel , J. H. , Pevnitskaya , S. , & Ye , L. ( 2008 , forthcoming ) .
+Indicative bidding : an experimental analysis .
+Games and Economic Behavior .
+Murray , I .
+( 2004 ) .
+Tunnel vision that led to mindless English optimism .
+Marketing Week , May 13 , pp .
+82 .
+The Economist ( 2004 ) .
+Business : under water ; the channel tunnel .
+February 14 .
+Welch , Frémont ( 1998 ) .
+The case-by-case approach to privatization : techniques and examples .
+World Bank .
+Ye , L. ( 2007 ) .
+Indicative bidding and a theory of two-stage auctions .
+Games and Economic Behavior , 58 ( 1 ) , 181–207 .

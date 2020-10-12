@@ -1,0 +1,576 @@
+MAIMON_Criminology_2012_51w2.pdf
+a.x0hwgGAcmKrKfjr8q0U2F_57m8-MAIMON_Criminology_2012_51w2.pdf.plain.html
+
+SEVERE SANCTIONS , EASY CHOICE ?
+INVESTIGATING THE ROLE OF SCHOOL SANCTIONS IN PREVENTING ADOLESCENT VIOLENT OFFENDING∗ DAVID MAIMON Department of Criminology and Criminal Justice University of Maryland OLENA ANTONACCIO MICHAEL T. FRENCH Department of Sociology University of Miami KEYWORDS : adolescents , school sanctions , thoughtfully reflective decision making ( TRDM ) , violence Although schools in the United States adopted harsher disciplinary policies in the early 1990s , to date , there is little evidence showing whether severe school sanctions against student misconduct prevent Additional supporting information can be found in the listing for this article in the Wiley Online Library at http : //onlinelibrary.wiley.com/doi/10.1111/crim .
+2012.50.issue-2/issuetoc .
+∗ We thank Denise Gottfredson , Terrence Hill , Raymond Paternoster , the editor of Criminology Wayne Osgood , and four anonymous referees for their comments and suggestions on earlier versions of the article .
+We gratefully acknowledge Fed Gostjev for research assistance and Carmen Martinez and Allison Johnson for editorial assistance .
+This research uses data from Add Health , a program project directed by Kathleen Mullan Harris and designed by J. Richard Udry , Peter S. Bearman , and Kathleen Mullan Harris at the University of North Carolina at Chapel Hill , and funded by Grant P01-HD31921 from the Eunice Kennedy Shriver National Institute of Child Health and Human Development , with cooperative funding from 23 other federal agencies and foundations .
+Special acknowledgment is due Ronald R. Rindfuss and Barbara Entwisle for assistance in the original design .
+Information on how to obtain the Add Health data files is available on the Add Health website ( http : //www.cpc.unc.edu/addhealth ) .
+No direct support was received from Grant P01-HD31921 for this analysis .
+The authors are entirely responsible for the research and results reported in this article , and their positions or opinions do not necessarily represent those of the University of Maryland or the University of Miami .
+Direct correspondence to David Maimon , Department of Criminology and Criminal Justice , University of Maryland , 2220 LeFrak Hall , College Park , MD 20742 ( e-mail : dmaimon @ umd.edu ) .
+C© 2012 American Society of Criminology doi : 10.1111/j.1745-9125.2011.00268.x CRIMINOLOGY Volume 50 Number 2 2012 495 496 MAIMON , ANTONACCIO & FRENCH crime .
+Drawing on both deterrence and rational choice theories , we test the proposition that harsh school-based policies against violence reduce students ’ involvement in violent behavior .
+However , in contrast to prior research that explores the direct link between sanctions and student be- havior , we emphasize the role of school sanctions in adolescent cognitive decision-making processes , hypothesizing that school sanctions against violence condition the effect of thoughtfully reflective decision making ( TRDM ) on adolescent involvement in violent behavior .
+We use data from the first two waves of the National Longitudinal Study of Adoles- cent Health to test our research hypotheses .
+The results from a series of multilevel models show that more severe school sanctions against violence ( i.e. , home suspension and expulsion ) disarm the process of cognitive reflection and attenuate the effect of low TRDM on violent offending .
+Following an overwhelming tide of adolescent violence in the early 1990s , educators and policy makers demanded an active and firm official response against student violence and other criminal offenses in schools .
+In accor- dance with the principles of deterrence theory , these activists promoted harsher disciplinary approaches to youth misconduct in schools ( Gorman and Pauken , 2003 ; Hirschfield , 2008 ) .
+By 1993 , more severe school dis- ciplinary policies , including zero tolerance ( Heaviside et al. , 1998 ; Skiba , 2000 ) , had been adopted across the country , and in 1994 , the Gun-Free Schools Act was signed into law under the Clinton administration .
+Target- ing student possession of guns on school grounds , the law mandated a 1-year expulsion for gun possession and the referral of law-violating students to the criminal or juvenile justice systems .
+Encouraged by the new law , many school authorities expanded their severe disciplinary policies to include possession of drugs and alcohol , fighting , and other , less serious offenses such as making threats and swearing ( Hirschfield , 2008 ; Skiba , 2000 ) .
+Some schools further expanded their disciplinary oversight by imposing school sanctions against behaviors that occur outside of school .
+Overall , the increase in harshness of school disciplinary practices has been well documented ( Gorman and Pauken , 2003 ; Hirschfield , 2008 ; see Payne and Welch [ 2010 ] for a review of the literature ) .
+Moreover , consid- erable research has pointed to the negative consequences of harsh school disciplinary policies , including disproportionate use of overly punitive pun- ishments against racial minorities , associations between suspensions and school dropout , and net widening through more frequent referrals of stu- dents to law enforcement ( Kupchik and Monahan , 2006 ; Skiba , 2001 ; Skiba and Peterson , 2000 ; Welch and Payne , 2010 ) .
+Nevertheless , to date , there is little evidence regarding whether harsh school-authorized disciplinary SEVERE SANCTIONS , EASY CHOICE ?
+497 sanctions actually prevent student offending ( Cook , Gottfredson , and Na , 2010 ; Skiba , 2000 ) .
+To generate a better understanding of the role of school sanctions in preventing adolescent violent behavior , we draw on deterrence and rational choice theories to test the proposition that harsh school sanctions reduce student involvement in violent offenses .
+In contrast to prior research that emphasizes the direct link between sanctions and student behavior , we suggest an alternative mechanism that highlights the role of sanctions in conditioning individual cognitive decision-making processes .
+Specifically , relying on a recent extension of rational choice theory ( Paternoster and Pogarsky , 2009 ) , we hypothesize that adolescents who are less involved in cognitive processes of reflective evaluation and in the selection of be- havioral options ( i.e. , thoughtfully reflective decision making ) are more likely to make decisions that lead to unfavorable outcomes , including in- volvement in violent offenses .
+By drawing on literature that emphasizes the interrelationships between individual action and the social environment ( e.g. , Wikström , 2006 , 2010 ) as well as contemporary deterrence research ( e.g. , Pogarsky , 2007 ; Tittle and Botchkovar , 2005 ) , we further contend that the levels of sanctioning in the social environment condition processes of cognitive reflection and decision making .
+Applying this rationale to the context of schools , we suggest that official school sanctions against violence moderate the effect of individual thoughtfully reflective decision making on violent offending .
+Using data from the first two waves ( 1994–1995 and 1996 ) of the National Longitudinal Study of Adolescent Health ( Add Health ) and school administrators ’ reports on the school-sanctioning climate , we esti- mate multilevel overdispersed Poisson models with robust standard errors to test our research hypotheses .
+The longitudinal design of Add Health provides a unique opportunity to test simultaneously the independent and interactive effects of adolescent cognitive functioning and school sanctions on students ’ violent behavior .
+CONCEPTUAL BACKGROUND DETERRENCE THEORY Rooted in the utilitarian philosophy of the eighteenth century ( Beccaria , 1963 [ 1764 ] ; Bentham , 1998 [ 1780 ] ) , deterrence theory advances the idea that fear of punishment or other negative consequences causes individuals to refrain from misbehaving ( Andenaes , 1974 ; Gibbs , 1975 ; Nagin , 1998 ; Tittle , 1980 ; Zimring and Hawkins , 1973 ) .
+Emphasizing human rationality , individual free will , and the power to make calculated choices , deterrence theoreticians like Bentham and Beccaria contend that human behavior is 498 MAIMON , ANTONACCIO & FRENCH governed by the principle of maximizing pleasure and minimizing pain ( Beccaria , 1963 [ 1764 ] ; Bentham , 1998 [ 1780 ] ) .
+Assuming crime is inher- ently gratifying and thereby by definition always beneficial , these scholars emphasized the cost aspect of the cost–benefit equation .
+Beccaria ( 1963 [ 1764 ] ) , for instance , claimed that the fear of formal legal punishment deters individuals from engaging in criminal behavior and highlights the influence of penalty severity , certainty , and celerity in the deterrent ’ s effectiveness .
+Whereas early conceptual work on deterrence have emphasized the role of sanctions in deterring individuals from engaging in crime ( Bentham , 1998 [ 1780 ] ) , contemporary deterrence scholars are discussing the rela- tionships between various aspects of sanctioning and individual deviant outcomes .
+They differentiate between objective sanctions that are actual risks of punishment and apprehension and subjective individual perceptions of certainty , severity , and celerity of punishment ( Nagin , 1998 ; Paternoster , 1987 ; Tittle , 1980 ) .
+Furthermore , distinguishing among various sources of control , many scholars emphasize the crime-preventive role of formal sanc- tions imposed by official institutions such as governments , law enforcement agencies , and schools as well as informal reactions from unofficial sources such as family and friends ( Apel , Pogarsky , and Bates , 2009 ; Nagin , 1998 ; Tittle and Paternoster , 2000 ) .
+Focusing on the role of objective and formal sanctions , we examine the relationships between official school sanctions against violence and adolescent violent behavior .
+DETERRENCE AND SCHOOL SANCTIONS Although schools are important sources of formal sanctions in the life of children and youth , research on the effectiveness of school-sanctioning policies in preventing individual-level adolescent violent behavior is rela- tively scarce .
+Indeed , some studies have suggested that different aspects of school discipline management such as participation in the rule-making process and perceptions of school disciplinary rules as clearly formulated , fair , and consistently enforced may have crime-inhibiting effects on indi- vidual student offending ( Khoury-Kassabri et al. , 2004 ; Khoury-Kassabri , Benbenishty , and Astor , 2005 ; Novak and Clayton , 2001 ; Reis , Trockell , and Mulhall , 2007 ; Welsh , 2000 , 2001 , 2003 ) .
+Although this research seems to have provided indirect support for deterrence theory , it has employed very general indicators of school disciplinary practices ( e.g. , survey items asking whether the school ’ s rules are fair , clear , consistent , and enforced ) , relied exclusively on subjective perceptual measures of school discipline , and tapped only the certainty aspect of deterrence .
+Yet , neglecting the severity aspect of the theory , none of these studies has examined the deterrent effects of harshness of official school-sanctioning policies on serious forms of youth misconduct such as violence .
+SEVERE SANCTIONS , EASY CHOICE ?
+499 Overall , we believe it is important to study the relationships between school disciplinary climate and delinquent student outcomes for at least two reasons .
+First , schools are important institutions of formal social control that are capable of authorizing and enforcing official disciplinary punish- ments for transgressions .
+In particular , Apel , Pogarsky , and Bates ( 2010 ) pointed out that schools represent distinctive and favorable settings for identifying the possible deterrent effects of formal sanctions on crime .
+In contrast to cities , counties , and states , schools are smaller , less complex , and better defined spatially .
+Moreover , they have formal rules of behavior , established disciplinary practices , and specific penalties for misconduct .
+Second , over the last decade , schools have endorsed increasingly formal and extremely punitive approaches to disciplining students ( Hirschfield , 2008 ; Welch and Payne , 2010 ) .
+Relying on the notion that severe sanctions may prevent crime , those policies were originally introduced to prevent juvenile delinquency and school disorder ( Gorman and Pauken , 2003 ) .
+Unfortunately , the effectiveness of these policies in preventing individual- level adolescent violent behavior has not yet been established ( Cook , Gottfredson , and Na , 2010 ; Skiba , 2000 ) .
+Thus , the dearth of in-depth investigation of severity of school disci- plinary policies and an overall lack of consistent findings regarding the crime-preventive benefits of school-authorized disciplinary practices war- rant further examination of the school-sanctioning climate and its links to youth violence .
+In accord with the principles of deterrence theory , our first research hypothesis suggests that severe school-sanctioning environments against violent behavior reduce student involvement in violent behavior .
+THOUGHTFULLY REFLECTIVE DECISION MAKING AND VIOLENT ADOLESCENT BEHAVIOR In addition to the possible role of school sanctions in preventing stu- dent violent offending , the cognitive processes underlying adolescent de- cision making also are important in determining violent outcomes .
+In our study , we draw on the principles of rational choice theory ( Becker , 1968 ; McCarthy , 2002 ) and , specifically , on the recent extension of the theory by Paternoster and Pogarsky ( 2009 ) to improve understanding of the influence of individual cognition on crime .
+According to Paternoster and Pogarsky ( 2009 ) , an individual ’ s ability to process information adequately and to consider available choices effec- tively will influence his or her decision about whether to engage in deviance and crime .
+Specifically , these authors suggested that an individual ’ s ability to engage in “ thoughtfully reflective decision making ” ( TRDM ) may be critical to his or her selection of behavioral options that lead to the most favorable life outcomes , including avoiding problem behaviors .
+Overall , 500 MAIMON , ANTONACCIO & FRENCH Paternoster and Pogarsky ( 2009 ) viewed TRDM as a global cognitive trait that consists of four components : intentionality ( i.e. , planned effort by the actor to achieve a particular outcome ) , forethought ( i.e. , actor consider- ation of all behavioral alternatives and their outcomes ) , self-reactiveness ( i.e. , systematic evaluation of all available choices ) , and self-reflectiveness ( i.e. , a retrospective analysis of the viability of a selected course of action ) .
+Paternoster and Pogarsky ( 2009 ) suggested that these cognitive compo- nents , which are instrumental in bringing about preferred outcomes and in preventing involvement in detrimental activities such as criminal behavior , contribute to the most effective cognitive process underlying active decision making .
+Although still relatively new , TRDM has already received empirical support and has been shown to be applicable to the student population .
+To date , two studies have investigated the effects of TRDM on individ- ual criminal and delinquent outcomes ( Paternoster and Pogarsky , 2009 ; Paternoster , Pogarsky , and Zimmerman , 2010 ) .
+By analyzing data from Add Health , they have provided evidence confirming the beneficial effects of high TRDM on criminal behavior and other detrimental activities .
+Thus , drawing on this recent extension of rational choice theory , we highlight the importance of the individual cognitive process of deliberation over choice of action ( i.e. , TRDM ) and assess its potential crime-inhibiting effects .
+Specifically , we hypothesize that students with higher TRDM are less likely to be involved in violent behavior .
+TRDM , SCHOOL SANCTIONS , AND VIOLENT OFFENDING Although prior research has explored the direct effects of various as- pects of the school disciplinary climate on individual delinquency ( Cook , Gottfredson , and Na , 2010 ) , investigations of possible interrelationships between school sanctions and the cognitive processes underlying adolescent decision making have been extremely rare .
+Indeed , to our knowledge , only one study has considered this issue using limited measures of sanctioning , cognitive functioning , and individual delinquency ( Novak and Clayton , 2001 ) .
+Focusing on the effect of students ’ perception of in-school discipline on smoking , it reported no evidence of a conditioning effect of students ’ perceptions of the presence of discipline at school on the relationship between cognitive aspects of self-regulation and smoking .
+However , no research has explored the possible influences of objective formal sanction- ing contexts on the relationship between TRDM and crime .
+This lack of exploration into the connection between school-sanctioning environments and adolescent decision making is especially unfortunate because recent theoretical and empirical studies have highlighted the role of social context in modifying the effect of cognitive abilities on individual criminal outcomes SEVERE SANCTIONS , EASY CHOICE ?
+501 ( Jones and Lynam , 2009 ; Laub and Sampson , 2003 ; Wikström , 2006 , 2010 ; Zimmerman , 2010 ) .
+We intend to fill in this gap by exploring whether the availability and magnitude of sanctions in one ’ s social context condition the effect of decision making on individual violent behavior .
+Overall , several lines of thought have suggested that sanctioning and various cognitive abilities may interact in their effects on criminal behavior ( e.g. , Wikström , 2006 , 2010 ) .
+However , their predictions about the direction of the interaction have differed .
+One relevant theoretical foundation for the nature of the cross-level interaction between sanctioning climate and cognitive skills has been recently proposed by Wikström in his situational action theory ( SAT ) .
+According to this theory , criminal behavior is a func- tion of the interaction between individual propensity and environmental exposure to criminogenic settings ( Wikström , 2006 , 2010 ) .
+In particular , Wikström suggested that all individuals , including those with inadequate cognitive abilities , are expected to refrain from criminal behavior in the presence of strong deterrent cues ( i.e. , less criminogenic settings ) .
+Ac- cordingly , higher levels of monitoring and sanctioning in the environment deactivate the process of cognitive reflection and make it less relevant in shaping deviant outcomes .
+As Wikström argued , an intense sanctioning climate may “ override the motivational forces that prompt individuals ” who lack adequate decision-making capacities to engage in criminal offenses ( 2006 : 102 ) .
+Concomitantly , the crime-preventive effects of the cognitive processes responsible for decision making are likely to be more pronounced in settings with weak deterrence cues ( Wikström and Treiber , 2007 : 251 ) .
+Consistent with Wikström ’ s arguments , settings with high levels of sanction- ing are expected to disarm individuals ’ cognitive decision-making processes and attenuate the effect of TRDM on delinquent behaviors .
+It should be noted that this theoretical argument concerning the direction of cross-level contingent relationships between sanctioning context and cognitive traits is consistent with the propositions regarding interactions between criminal propensity and crime opportunities from two additional criminological theories—self-control and routine activity—as both theories suggest that those with low self-control/high criminal motivation are less likely to offend in less criminogenic settings ( Cohen and Felson , 1979 ; Felson and Cohen , 1980 ; Gottfredson and Hirschi , 1990 ; Grasmick et al. , 1993 ) .
+In addition , this hypothesis also is in line with that proposed by some contemporary deterrence scholars who argue that perceptions of sanctioning may be least salient for those with low criminal propensity ( e.g. , high levels of self-control and other favorable cognitive traits ) as those individuals may be discouraged from criminal involvement by factors other than the threat of punishment ( Pogarsky , 2007 ; Wright et al. , 2004 ) .
+On the other hand , the alternative theoretical argument regarding the na- ture of the interaction between sanctioning context and cognitive processes 502 MAIMON , ANTONACCIO & FRENCH also is foreseeable .
+In particular , settings with higher levels of sanctioning may activate cognitive decision-making processes and amplify ( rather than attenuate ) effects of cognitive skills on criminal/delinquent behaviors be- cause those who are better at decision making may be more likely to be influenced by deterrence considerations .
+We are not aware of any relevant multilevel theory proposing this type of interaction between sanctioning climate and cognitive characteristics .
+Yet this argument is certainly consis- tent with the position taken by several contemporary rational choice and deterrence scholars regarding individual-level interrelationships between personal perceptions of sanctions and one ’ s criminal propensity ( e.g. , Nagin and Paternoster , 1993 , 1994 ; Nagin and Pogarsky , 2001 ) .
+These scholars argued that , on the one hand , individuals with low criminal propensity are more likely to weigh the possible consequences of their behaviors and to consider the risks of sanctions .
+Those with high criminal propensity ( e.g. , weak cognitive and decision-making skills ) , on the other hand , tend to be worse “ calculators ” ( i.e. , ignore long-term consequences of their behav- iors ) and , therefore , are less sensitive to the threat of punishment .
+In line with this theoretical rationale , settings with high levels of sanctioning are expected to activate individuals ’ cognitive decision-making processes and amplify the effect of TRDM on criminal behavior .
+Consistent with these two theoretical views , we suspect that availabil- ity and levels of school sanctions against violence condition the effect of thoughtfully reflective decision making on students ’ violent behavior .
+How- ever , because the nature of the contingent relationship between sanctioning and cognitive characteristics is theoretically ( and empirically ) inconclusive ( see Pogarsky , 2007 ; Tittle and Botchkovar , 2005 ) , we contend that the direction of this interaction could be either positive or negative .
+In sum , we test three research hypotheses .
+First , relying on the principles of deterrence , we hypothesize that more severe school-level sanctioning policies against violence decrease the probability of adolescent violent be- havior .
+Second , drawing on the most recent developments in rational choice theory , we argue that adolescents ’ ability to reflect thoughtfully and make effective decisions ( i.e. , TRDM ) reduces their probability of engaging in vi- olent offending .
+Finally , highlighting the role of the formal sanctioning con- text in conditioning individual cognitive processes of decision making , we hypothesize that the school-sanctioning climate conditions the relationship between cognitive processes ( i.e. , TRDM ) and youths ’ violent offending .
+DATA AND MEASURES To test our hypotheses , we use data from the first two waves ( 1994– 1995 and 1996 ) of Add Health .
+Add Health is a school-based , nationally representative study of adolescents in grades 7 through 12 ( at wave 1 of data SEVERE SANCTIONS , EASY CHOICE ?
+503 collection ) , who were attending 132 schools in the United States during the years 1994–1995 .
+These data include information on adolescents and their families , schools , and residential environments.1 We use students ’ reports from the second wave of the in-home survey to construct our dependent variable—adolescent violent behavior .
+We draw all other individual mea- sures from the wave 1 in-home , in-school , and primary-caregiver surveys .
+School-level measures are drawn from the wave 1 school administrator questionnaires .
+SAMPLE To gain comprehensive and generalized insights regarding the cognitive and social processes that affect adolescents ’ involvement in violent acts , we impose two restrictions on our sample .
+First , we use reports from respon- dents who participated in the first two waves of data collection ( in-school and in-home surveys ) , whose parents completed the parent questionnaire , and who had valid sample weights and no missing data on the dependent variable , resulting in a sample of 11,710 adolescents within 132 schools .
+Second , we exclude all schools with no administrator reports from our sample2 .
+These two restrictions resulted in a final sample size of 7,660 respondents in 119 schools .
+Examination of the individual- and school-level characteristics in the restricted and the entire Add Health samples reveals nonsignificant differences between the two samples ’ measured characteris- tics ( with the exception of the parental attachment , attend the same school and prior violent behavior measures ; see table 1 for the means of both samples ) .3 Importantly , our restricted sample characteristics are similar to those reported in previous analyses using the Add Health data ( for instance , Haynie , 2001 ; Haynie and Osgood , 2005 ; Maimon and Kuhl , 2008 ) .
+DEPENDENT VARIABLE We use items from the second wave of data collection to construct our measure of violent behavior .
+Adolescent violent offending is a four-item 1 .
+More information about the data and sampling design is available at http : //www.cpc.unc.edu/addhealth .
+2 .
+Descriptive statistics revealed nonsignificant differences between the group of adolescents included in our analyses and the group lost as a result of missing school-administrative data on the vast majority of measured characteristics .
+The mean parental attachment ( 4.62 in the nonattrition sample vs. 4.53 in the attrition sample ) , attend the same school ( 0.75 vs. 0.71 ) , and unstructured socializing ( 1.95 vs. 2.05 ) are the only differences found between the groups .
+3 .
+As a result of extensive evidence indicating a greater potential for misspecification of multiple imputation models in the multilevel context ( Petrin , 2006 ) , we opt to present listwise deletion results in our work .
+504 MAIMON , ANTONACCIO & FRENCH Table 1 .
+Descriptive Statistics Restricted Sample Full Sample ( N = 7,660 ) ( N = 13,570 ) Variables Mean SD Min Max Mean SD Dependent Variable Violent behavior ( wave 2 ) .56 1.27 .00 12.00 .62 1.37 Individual Measures Hispanic .15 .36 .00 1.00 .16 .37 African American .21 .41 .00 1.00 .22 .41 Male .47 .50 .00 1.00 .48 .50 Age 15.21 1.56 11.00 20.00 15.31 1.59 Parent education 6.33 2.16 .00 9.00 6.20 2.22 Parent public assistance .08 .27 .00 1.00 .09 .29 Lives with two biological parents .56 .50 .00 1.00 .54 .50 Lives with single mother .35 .48 .00 1.00 .36 .48 Parental attachment 4.62 .62 .00 5.00 4.57 .75 Attend same school .75 .43 .00 1.00 .70 .45 School attachment 6.41 4.59 .00 16.00 6.43 4.57 GPA 2.83 .75 1.00 4.00 2.77 .77 Unstructured socializing 1.95 .99 .00 3.00 1.96 1.00 Prior violent behavior ( wave 1 ) .93 1.64 .00 12.00 1.04 1.77 TRDM .00 1.00 −4.49 1.90 .00 1.00 School Measures Private school .08 .28 .00 1.00 .09 .29 Parent–teacher organization .91 .29 .00 1.00 .91 .28 Average class size 25.61 5.25 10.00 38.00 25.33 5.51 Urban .29 .46 .00 1.00 .27 .45 South .44 .50 .00 1.00 .45 .45 Home suspension and expulsion .69 .46 .00 1.00 .66 .47 index indicating the extent of respondents ’ involvement in violent behavior .
+Students were asked the following : “ In the past 12 months how often did you , ” 1 ) “ use or threaten to use a weapon to get something from someone , ” 2 ) “ take part in a fight where a group of your friends was against another , ” 3 ) “ get into a serious physical fight , ” and 4 ) “ hurt someone badly enough to need bandages or care from a doctor or nurse. ” Responses to these questions range from 0 ( never ) to 3 ( five or more times ) .
+We combine these four items to generate an index with scores from 0 to 12 ( α = .74 ) .
+One evident limitation of our dependent variable is that it does not refer exclusively to school-specific violent behaviors .
+Therefore , some subset of those behaviors reported by the respondents may have occurred outside the school confines .
+One possible consequence of this limitation is that our models may underestimate the true magnitude of the association between the independent and dependent variables .
+Nevertheless , prior research on youth violent delinquency and victimization patterns has indicated that a substantial proportion of youth less serious violent incidents occur within school property ( Cook , Gottfredson , and Na , 2009 ) .
+Specifically , several studies have reported that a much larger share of juvenile nonfatal violent SEVERE SANCTIONS , EASY CHOICE ?
+505 crimes and violent victimization occur during school hours than during any other times ( Cook , Gottfredson , and Na , 2009 ; Gottfredson and Soulé , 2005 ; Jacob and Lefgren , 2003 ; Soulé , Gottfredson , and Bauer , 2008 ) .
+Thus , in the absence of school-specific measures of juvenile violence , we use a general measure of adolescent violent behavior as a reasonable proxy measure for students ’ in-school violent offending .
+INDEPENDENT VARIABLES Individual-Level Measures TRDM .
+Thoughtfully reflective decision making is a measure similar to that used by Paternoster and Pogarsky ( 2009 ) in their initial analysis of the construct .
+Specifically , we tap all four components of TRDM and compose our TRDM scale using a student ’ s level of agreement with the following statements : 1 ) “ When you have a problem to solve , one of the first things you do is get as many facts about the problem as possible ” ; 2 ) “ when you are attempting to find a solution to a problem , you usually try to think of as many different approaches to the problem as possible ” ; 3 ) “ when making decisions , you generally use a systematic method for judging and comparing alternatives ” ; and 4 ) “ after carrying out a solution to a problem , you usually try to analyze what went right and what went wrong. ” Response categories for each item range from 1 ( strongly agree ) to 5 ( strongly disagree ) .
+We reverse-coded these items and added the four responses to produce an index ranging from 4 to 20 .
+The higher values of this index reflect higher TRDM .
+To enable meaningful interpretation of the TRDM effect , we standardize the TRDM scale ( α = .742 ) .
+Sociodemographic Measures .
+All analyses incorporate several standard sociodemographic controls .
+Male , race/ethnicity ( African American and Latino ) , and family structure ( adolescent lives with two biological parents and adolescent lives with single mother ) are all binary variables .
+Age is a continuous measure of the respondent ’ s age in years .
+We also include a variable indicating whether respondents ’ families have received any kind of public assistance in the past year as well as a measure of parents ’ highest level of education ( responses range from 1 [ eighth grade or less ] to 9 [ professional training beyond a 4-year college or university ] ) .
+Finally , we incorporate a dummy variable indicating whether the respondent attended the same school at wave 2 ( 1 = the same school at wave 2 ) .
+Measures of Informal Social Control .
+The extant literature emphasizes the importance of informal social control on youth ’ s crime and delinquency ( Sampson and Laub , 1993 ) .
+In line with prior research ’ s inclusion of extrale- gal controls while studying the effect of formal deterrence on individual ’ s offending ( Nagin and Pogarsky , 2001 ) , we incorporate in our analyses 506 MAIMON , ANTONACCIO & FRENCH several proxies of informal social control .
+Attachment to parents is a four- item additive index that refers to the level of indirect control exerted by respondents ’ parents .
+This index combines responses to the questions , “ how close do you feel to your mother/father ? ” and “ how much do you think your mother/father cares about you ? ” Response categories for these items range from 1 ( not at all ) to 5 ( very much ) , and the alpha for this index is .68 .
+School attachment is a five-item scale that reflects respondents ’ level of attachment to school .
+Individuals were asked how strongly they agree or disagree with statements such as “ I feel close to people at school , ” “ I feel like I am a part of this school , ” and “ I am happy to be at this school , ” with responses ranging from 1 ( strongly agree ) to 5 ( strongly disagree ) .
+We reverse-coded these five items and combined them into an index in which higher scores represent greater attachment ( alpha = .84 ) .
+Grade point average is a measure of respondents ’ academic achievement .
+They were asked about their grades in English , math , history or social studies , and science .
+We sum and average the grades , with scores ranging from 0 to 4 .
+Opportunity Measures .
+In line with previous studies focusing on the effect of TRDM on deviance and crime ( Paternoster and Pogarsky , 2009 ) , we control for several opportunity factors in our models .
+Unstructured socializing is a single-item measure indicating the degree to which respon- dents “ hung out with friends. ” Answers follow a four-point Likert scale ranging from “ not at all ” to “ five or more times. ” We also control for re- spondents ’ prior violent behavior .
+The first wave of data collection included adolescents ’ responses to a series of questions on violent behaviors .
+Using items similar to those reported for the violent offending dependent variable , we construct a four-item prior violence scale ( α = .73 ) .
+School-Level Measures School Sanctions Against Violence .
+We construct school sanctions measures using data from the school administrator questionnaire .
+These measures indicate official school reactions to the first occurrences of vio- lent behavior among students .
+School administrators were asked , “ in your school , what happens to a student who is caught fighting with another student ( first occurrence ) . ” Response scores range from 1 ( no policy ) to 7 ( expulsion ) , with higher scores indicating harsher authorized sanctions .
+Figure 1 presents the distribution of this item in the Add Health school administrator sample .
+Note that all schools have some policy toward vi- olence and that responses vary from disciplining delinquent students in school to removing offenders from the school grounds .
+Interestingly , the most common sanction against fighting is in-home suspension .
+As a result of the low prevalence of minor ( i.e. , verbal warning and minor actions ) and ex- treme ( expulsion ) sanctions , we constructed a dummy variable distinguish- ing between sanctions that keep delinquent students in school ( i.e. , verbal SEVERE SANCTIONS , EASY CHOICE ?
+507 Figure 1 .
+School Sanctions Against Students ’ Violent Offending warning , minor action , and school suspension ) and sanctions that remove students from the school premises ( i.e. , home suspension and expulsion ) .
+In line with prior research ( Payne and Welch , 2010 ) , out-of-school sanctions such as home suspension and expulsion are perceived as more punitive than both in-school minor actions and suspension .
+Thus , home suspension and expulsion is a dummy variable indicating severe official school sanctions against students ’ violent behavior in school ( 1 = home suspension and expulsion ) .
+By using data from the school administrator file , we also construct several school-level control variables that are commonly used in analyses of school- based crime ( Cook , Gottfredson , and Na , 2010 ) .
+Private school , urban , and south are dummy variables indicating whether schools are private and located in urban or southern areas of the United States .
+Average class size is a continuous measure indicating the average number of students in each class .
+Finally , parent–teacher organization is a dichotomous measure reflecting the presence of a parent–teacher organization in the school.4 ANALYTIC STRATEGY We use multilevel analysis to capture the particular effects that individual- and school-level predictors have on adolescents ’ violent offend- ing .
+This estimation technique , known also as hierarchal linear modeling ( HLM ) , enables a more inclusive and precise analysis of individuals ’ be- haviors within primary structural units ( e.g. , neighborhoods , schools , and 4 .
+All school-level measures but average class size are uncentered in this work .
+508 MAIMON , ANTONACCIO & FRENCH organizations ) .
+Overall , this procedure can estimate the effect of variables across higher level units while producing more accurate standard errors and significant tests than those obtained in a standard linear regression ( Raudenbush and Bryk , 2002 ) .
+In the present study , we employ a two-level overdispersed Poisson model to estimate simultaneously the effects of individual- and school-level predic- tors of the frequency of adolescents ’ violent offending .
+An overdispersed Poisson model is appropriate in this context given that the dependent variable has a relatively tight integer-valued distribution .
+Similar to neg- ative binomial regression , the overdispersed Poisson model addresses the overdispersion issue by introducing an overdispersion parameter in the analysis .
+Relying on the statistical properties of the multilevel overdis- persed Poisson model ( Raudenbush and Bryk , 2002 ) , we examine the effect of individual-level and school-level characteristics on adolescent violence .
+Using the frequency of violent behavior as our outcome variable , the first- level model is : log ( Frequency of violence ) i j = log ( λi j ) = β0 j + βQj XQi j where β0 j is the intercept , XQi j is the value of covariate Q associated with respondent i in school j , and βQi j is the partial fixed effect of that covariate on violence .
+The level-two model is denoted as : β0 j = γ00 + 6∑ s=1 γ0s WSj + u0 j u0 j ∼ N ( 0 , τ00 ) where γ0S is the level-two coefficient and WSj is the level-two predictor ( u0 j is the school-level error term , with a normal distribution and variance of τ00 ) .
+To examine the cross-level interaction between individual TRDM and school-level sanctions , we specify the TRDM coefficient in a slope-as- outcome model denoted as : βTRDMj = γ150 + γ151School Sanctionsqj + u15 j u15 j ∼ N ( 0 , τ15 ) Note that we assume school sanctions are a predictor of the TRDM coef- ficient .
+All models were estimated using HLM for Windows ( version 6.08 ; Scientific Software International [ SSI ] , Inc. , Lincolnwood , IL ) .
+RESULTS SCHOOL-SANCTIONING CLIMATE , TRDM , AND VIOLENT BEHAVIOR Before turning to our key research hypotheses , we assess the magnitude of cross-school variation in violent adolescent behaviors by estimating an SEVERE SANCTIONS , EASY CHOICE ?
+509 unconditional model with no predictors at either level ( these results are not reported ) .
+Examination of this model ’ s variance component and associated likelihood ratio chi-square test ( τ00 = .192 , p < .001 ) reveals significant variation in violent youth behavior across schools .
+Following this preliminary analysis , we estimate the simultaneous effects of individual- and school-level predictors of violent offending while allow- ing the intercept and TRDM coefficient to vary across schools .
+We present the results from this analysis in model 1 , table 2 , with the findings from this model directly addressing our first and second hypotheses .
+Contrary to the theoretical predictions of deterrence theory , the regression coefficient for the school-level measure of sanctions is not significant .
+Thus , our findings provide no support for the first hypothesis concerning the possible violence- reducing effects of harsher school-authorized sanctions .
+However , in line with our expectations and prior findings , the results indicate that higher TRDM significantly reduces the probability of youth violent offending ( b = –.113 ) , thereby offering evidence in support of the second hypoth- esis regarding the crime-preventive effects of TRDM .
+Quantitatively , a 1-standard-deviation increase in TRDM reduces the odds of adolescent violent behaviors by 11 percent .
+The results from model 1 also reveal several significant effects of the control variables .
+Specifically , at the individual level , the effects of being male , living with two biological parents , parental education , school mo- bility , grade point average ( GPA ) , unstructured socializing , and prior vi- olent behavior are significant on students ’ violent offending , whereas at the school level , the parent–teacher organization and urban school location are the only significant effects .
+The magnitude and direction of these effects are consistent with prior research findings ( e.g. , Osgood et al. , 1996 ; Maimon and Browning , 2010 ; Pribesh and Downey , 1999 ) .
+Next , we address our third hypothesis concerning an interactive rela- tionship between TRDM and school sanctions against violence .
+We test this hypothesis by specifying a cross-level interaction between adolescent TRDM and home suspension and expulsion .
+We report the results from this analysis in model 2 of table 2 .
+Regarding control variables , all significant effects reported in model 1 remain significant and in the same directions .
+However , including the interaction between TRDM and home suspension and expulsion significantly improves the fit of the model .
+Furthermore , the positive effect of the interaction coefficient is marginally significant ( b = .166 , p < .10 ) and indicates that home suspension and expulsion interact with TRDM such that the presence of severe school sanctions ( i.e. , home suspension and expulsion ) attenuates the negative effect of TRDM on violent offending .
+To illustrate the importance of this cross-level interaction , we plot the relationships between violent offending and students ’ TRDM in schools 510 MAIMON , ANTONACCIO & FRENCH Table 2 .
+Adolescent Violent Behavior ( wave 2 ) Regressed Over Individual and School Measures : Cross-Level Interaction ( N = 7,660 ) Violent Behavior Model 1 Model 2 Variables Mean ( SE ) Event Ratio Mean ( SE ) Event Ratio Intercept −.84∗∗∗ .43 −.87∗∗∗ .42 ( .09 ) ( .05 ) Individual measures Hispanic −.02 .98 −.01 .98 ( .11 ) ( .11 ) African American .15 1.16 .15 1.16 ( .15 ) ( .15 ) Male .37∗∗∗ 1.45 .37∗∗∗ 1.45 ( .09 ) ( .09 ) Age −.10∗∗∗ .90 −.10∗∗∗ .91 ( .02 ) ( .02 ) Parent education −.04∗ .96 −.04∗ .96 ( .02 ) ( .02 ) Parent public assistance −.11 .89 −.11 .89 ( .08 ) ( .08 ) Lives with two biological −.18∗ .83 −.18∗ .83 parents ( .09 ) ( .09 ) Lives with single mother −.02 .98 −.02 .98 ( .10 ) ( .10 ) Parental attachment −.08 .93 −.08 .92 ( .05 ) ( .05 ) Attend same school −.16∗ .85 −.17∗ .84 ( .07 ) ( .07 ) School attachment .01 1.00 .01 1.00 ( .01 ) ( .01 ) GPA −.19∗∗∗ .82 −.19∗∗∗ .82 ( .05 ) ( .05 ) Unstructured socializing .09∗ 1.09 .00∗ 1.09 ( .04 ) ( .04 ) Prior violent behavior .28∗∗∗ 1.32 .28∗∗∗ 1.32 ( wave 1 ) ( .01 ) ( .01 ) TRDM −.11∗∗ .89 −.22∗ .80 ( .04 ) ( .08 ) School measures Private school .20 1.23 .19 1.21 ( .13 ) ( .13 ) Parent–teacher −.16† .85 −.18† .83 organization ( .09 ) ( .09 ) Average class size .01 1.01 .01 1.01 ( .01 ) ( .01 ) Urban .20∗ 1.22 .21∗ 1.24 ( .08 ) ( .08 ) South −.13 .88 −.12 .88 ( .08 ) ( .08 ) Home suspension and .14 1.15 .19∗ 1.21 expulsion ( .09 ) ( .09 ) SEVERE SANCTIONS , EASY CHOICE ?
+511 Table 2 .
+Continued Violent Behavior Model 1 Model 2 Variables Mean ( SE ) Event Ratio Mean ( SE ) Event Ratio Cross-level interaction TRDM × Suspension and – – .17† 1.18 expulsion ( .09 ) u0 .04∗∗∗ .04∗∗∗ df 112 112 uTRDM .03∗∗∗ .03∗∗∗ df 118 117 Overdispersion parameter 1.60 1.60 Deviance 28,901.40 28,814.71 †p < .10 ; ∗p < .05 ; ∗∗p < .01 ; ∗∗∗p < .001 ( two-tailed ) .
+Figure 2 .
+Fitted Mean Rate of Violent Behavior by TRDM and School Sanction Type with more lenient ( i.e. , schools issuing in-school sanctions ) and more severe sanctions ( i.e. , home suspension and expulsion ) against violence .
+As shown in figure 2 , higher TRDM significantly reduces the fitted mean rate of violent offending in schools with lenient sanctions against violence .
+Note that the fitted mean rate of violent offending ranges from approximately .37 at 1.5 standard deviations ( SDs ) below the mean on the TRDM scale to .23 at 1.5 SDs above the mean .
+In contrast , the effect of higher TRDM on adolescent violence in schools with high levels of sanction severity is only –.050 and no longer statistically significant .
+This finding suggests that , consistent with our third hypothesis , school-authorized sanctions against violence and adolescent TRDM interact to produce substantial differences in the effect of TRDM on the likelihood of violent behavior .
+512 MAIMON , ANTONACCIO & FRENCH SENSITIVITY ANALYSES The results from our core analyses reveal the important role of school sanctions in conditioning the effect of TRDM on adolescents ’ violence .
+Specifically , we have shown that the effect of low TRDM on youth violence is less pronounced in schools with harsher school policies against violence.5 Notably , though , the interaction term between TRDM and school sanctions is only marginally significant .
+Because our analyses include adolescents who both left and remained in their wave 1 schools at the second wave of data collection ( 82 percent of respondents did not change schools between the two waves of data collection ) , one possible explanation for this borderline significance is that our models may underestimate the deterrent effect of the school-sanctioning climate .
+In particular , the levels of deterrence found in one setting may not necessarily influence the actions of individuals once they move to a different sanctioning environment because the deterrent effects of sanctions may be context specific ( Apel , Pogarsky , and Bates , 2009 ; Nagin , 1998 ) .
+Hence , any expected deterrence effects should be more pronounced among those who stay in the same sanctioning environment .
+To address this issue , we reestimate model 2 for adolescents who remained at the same school at wave 2 and for adolescents who dropped out or switched schools at wave 2.6 We present the results from these analyses in table 3 .
+Because of space limitations , only the findings relevant to our hypothesis concerning conditional deterrent effects are shown ( see table S.2 in the supporting information for a full model ) .
+Beginning with the results from model 1 , our sensitivity analyses indicate that for adolescents who remained at the same school at wave 2 and thus stayed in the same sanctioning environment , the interaction between youth TRDM and school sanctions against fighting remains positive and is highly 5 .
+In addition to the violence-sanctioning item presented earlier , the school admin- istrator questionnaire contains an item indicating school sanctions when injur- ing another student .
+Consistent with the reported results , a significant positive cross-level interaction between the sanctions against injuring item and TRDM was obtained in additional analyses employing this item .
+Moreover , in another set of analyses , we combined the two violence-sanctioning items into a sum- mative composite index ( α = .737 ) and reran all models .
+Once more , a signif- icant positive cross-level interaction between the composite scale and TRDM was obtained .
+The results from these two sets of analyses are presented in the online supporting information in table S.1 .
+Additional supporting informa- tion can be found in the listing for this article in the Wiley Online Library at http : //onlinelibrary.wiley.com/doi/10.1111/crim.2012.50.issue-2/issuetoc .
+6 .
+Many adolescents of the age range of our sample switch schools because they transfer from middle to high school .
+In our sample , a very small proportion of those who did not stay in the same school either dropped out ( 5.8 percent ) or were expelled/suspended ( 1.9 percent ) .
+SEVERE SANCTIONS , EASY CHOICE ?
+513 Table 3 .
+Sensitivity Analyses Using Subsamples Attend the Same School ( n = 5,728 ) Did Not Attend the Same School ( n = 1,932 ) Model 1 Model 2 Variables Mean ( SE ) Event Ratio Mean ( SE ) Event Ratio Intercept −.90∗∗∗ .41 −1.03∗∗∗ .36 ( .14 ) ( .16 ) Individual measures TRDM −.25∗∗∗ .78 −.24∗ .79 ( .06 ) ( .12 ) School measures Home suspension and .21∗ 1.24 .16 1.17 expulsion ( .10 ) ( .10 ) Cross-level interaction TRDM × Suspension .24∗∗∗ 1.26 .12 1.12 and expulsion ( .07 ) ( .14 ) u0 .04∗∗∗ .03∗ df 112 109 uTRDM .03∗∗∗ .09∗∗∗ df 117 116 Overdispersion parameter 1.39 1.65 ∗p < .05 ; ∗∗p < .01 ; ∗∗∗p < .001 ( two-tailed ) .
+significant .
+In contrast , our results from model 2 reveal that , for those respondents who changed their disciplinary setting and dropped out or moved to a different school in the second wave of data collection , the cross- level interaction between TRDM and in-school sanctions is not significant .
+Overall , corroborating our results from the main set of analyses , these findings suggest that the effect of low TRDM on students ’ violence is less pronounced in the schools with harsher disciplinary policies .
+As noted earlier , our analyses use violence items that are not exclusively restricted to the school settings .
+One possible consequence of this limitation is that our models may underestimate the true magnitude of the association between school sanctions and the dependent variables as well as the cross- level interaction between school sanctions and TRDM .
+Although the data set does not contain a school-specific measure of violent offending , wave 1 includes an item related to students ’ drunkenness in school .
+During the first wave of data collection , respondents were asked whether they had ever been drunk at school .
+We used this item to generate a dummy variable ( 1 = yes , 0 = no ) of student intoxication on school premises .
+Drawing on school administrators ’ reports , also we constructed a school-level dummy variable indicting severe school-based sanctions against student ’ s alcohol possession in school ( home suspension and expulsion-alcohol = 1 ) 7 .
+We then re-ran 7 .
+School administrators were asked , “ in your school , what happens to a student who is caught possessing alcohol ( first occurrence ) . ” Response scores range from 1 514 MAIMON , ANTONACCIO & FRENCH Table 4 .
+Students Under the Influence of Alcohol in School Regressed Over Individual and School Measures : Cross-Level Interaction ( N = 10,530 ) Model 1 Variables Mean SE Event Ratio Intercept −3.28∗∗∗ .18 .04 Individual measures TRDM −.50∗∗∗ .08 .61 School measures Home suspension and expulsion ( alcohol ) .01 .17 1.01 Cross-level interaction .24∗ .10 1.27 TRDM × Suspension and expulsion ( alcohol ) u0 .34∗∗∗ df 113 uTRDM .14∗∗∗ df 118 ∗p < .05 ; ∗∗p < .01 ; ∗∗∗p < .001 ( two-tailed ) .
+our models using the student intoxication on school premise measure as a dependent variable and the measure of school disciplinary policy on alcohol possession as one predictor .
+The results from this analysis relevant to our hypothesis concerning conditional deterrent effects are shown in model 1 , table 4 ( see table S.3 in the supporting information for a full model ) .8 Consistent with our previous results concerning the contingent relation- ship between sanctions and TRDM , examination of the figures from this model reveals a positive and significant coefficient ( b = .240 ) for the cross- level interactive effect of school sanctions against alcohol possession and youth TRDM on students ’ in-school intoxication .
+Plotting the relationships between student ’ s in-school intoxication and TRDM in schools with lenient and more severe sanctions against alcohol possession ( figure 3 ) shows pat- terns similar to those reported for students ’ violent offending .
+As indicated in figure 3 , higher TRDM significantly reduces the probability of in-school intoxication in schools with lenient sanctions ( the predicted probability of ( no policy ) to 7 ( expulsion ) .
+Similar to the distribution for the school sanctions against violence measure , most schools enforced home suspension against in- school alcohol possession ( 73 percent ) .
+8 .
+We use a multilevel logit model to estimate this relationship .
+Because this variable is measured at wave 1 , we use sample weights from the first wave .
+Note that the sample size for this analysis is somewhat larger than the sample size reported in prior analyses ( N = 10,530 ) .
+The cross-level interaction between TRDM and school sanctions against alcohol remains significant when re-estimating this model using respondents participating in the two waves of data collection only .
+SEVERE SANCTIONS , EASY CHOICE ?
+515 Figure 3 .
+Predicted Probability of Being Drunk in School by TRDM and School Sanction Type student intoxication ranges from approximately .07 at 1.5 SDs below the mean on the TRDM scale to .02 at 1 SD above the mean ) .
+However , the effect of TRDM on in-school drunkenness is not significant in schools with high levels of sanction severity .
+Thus , overall , both sensitivity analyses confirm the robustness of our previous results and support the hypothesis , suggesting that school-based sanctions condition the effect of TRDM on students ’ violent behavior .
+DISCUSSION Although schools across the country have widely adopted harsh disci- plinary policies , these sanctioning practices have seldom been the subject of direct and extensive investigations .
+In fact , past research has rarely examined the effects of objective measures of predetermined and autho- rized school sanctions on individual-level delinquency and crime and has never explored the simultaneous and interactive effects of school sanctions and individual cognitive decision-making processes on adolescents ’ violent outcomes ( Cook , Gottfredson , and Na , 2010 ; Skiba , 2000 ) .
+To fill this gap and generate a more nuanced understanding of the role of sanctions in deterring violent adolescent offending , we use data from the first two waves of Add Health and assess the simultaneous and interactive effects of school sanctions against violence and the cognitive ability of adolescents to reflect and evaluate behavioral options ( i.e. , thoughtfully reflective decision making ) on student violence .
+516 MAIMON , ANTONACCIO & FRENCH Several key findings emerge from our analysis .
+First , in line with the extant literature that describes increasingly formal and punitive disciplinary approaches toward student misconduct ( Hirschfield , 2008 ; Welsch and Payne , 2010 ) , we find that most schools in our sample authorize disci- plinary sanctions that are at the harsher end of the sanctioning continuum ( Payne and Welch , 2010 ) .
+These sanctions involve complete removal of a delinquent student from the school grounds ( i.e. , home suspension and expulsion ) .
+Second , our evaluation of the hypothesized influence of objec- tive levels of school sanctions on adolescent violence reveals no significant main deterrent effects .
+Although this finding clearly does not support the principle tenet of deterrence theory , it is consistent with the overall body of perceptual deterrence research , suggesting that severity of sanctions plays a less important role in preventing misbehavior than certainty of punishment ( Pratt et al. , 2006 ) .
+In general , in accordance with the conclusions of several contemporary reviews of deterrence research ( Nagin , 1998 ; Paternoster , 1987 ; Pratt et al. , 2006 ) , the absence of a main effect of a school-sanctioning regime underscores the need to improve understanding of the role of school sanctions and to identify the specific conditions under which their deterrent effects may be enhanced .
+Third , vis-à-vis earlier research on the relationships between TRDM and crime ( Paternoster and Pogarsky , 2009 , Paternoster , Pogarsky , and Zimmerman , 2010 ) , our results provide support for an extension of rational choice theory showing that low TRDM is a risk factor for adolescent vio- lence .
+This finding has important research and policy implications because it reinforces the utility of delinquency-prevention programs that focus on improving adolescents ’ cognitive skills , which have been previously shown to be effective in preventing youth problem behaviors ( Cook , Gottfredson , and Na , 2010 ; Lösel and Beelmann , 2003 ) .
+Overall , the present study as well as other investigations of TRDM ( Paternoster and Pogarsky , 2009 ; Pa- ternoster , Pogarsky , and Zimmerman , 2010 ) may help researchers further design more successful cognitive-based delinquency prevention programs by providing insight into the specific mechanisms that contribute to the successful cognitive functioning of youth .
+Finally , considering the role of the contextual sanctioning climate in conditioning the effects of individual cognitive decision-making processes on adolescent involvement in violent behavior , we find that , on the one hand , the role of thoughtfully reflective decision making in violent behavior is less important in schools with a harsher sanctioning climate ( i.e. , autho- rizing home suspension and expulsion for fighting ) , where the effects of TRDM are not significant .
+On the other hand , the influence of TRDM is more pronounced in schools with more lenient in-school sanctions against violence ( i.e. , verbal warnings , minor action , and school suspension ) .
+Thus , consistent with theoretical predictions from Wikström ’ s SAT , our results SEVERE SANCTIONS , EASY CHOICE ?
+517 confirm that harsher school disciplinary regimes disarm the process of cog- nitive reflection and that an inadequate cognitive ability to reflect and make decisions thoughtfully is conducive to violence in less intense sanctioning environments .
+These results are important for several reasons .
+First , they not only help uncover more subtle and complex causal mechanisms that may underlie deterrence processes , but also they corroborate the usefulness of extending deterrence theory by identifying the various contingencies under which the crime-inhibiting characteristics of punishment may be more pronounced ( see Nagin , 2008 ; Pratt et al. , 2006 ) .
+Second , although our findings can not definitively resolve the disagreement about the nature of the contingent relationship between the formal sanctioning climate and individual cognitive characteristics , they can provide additional empirical evidence on this issue , revealing that deterrent effects are more pronounced among those with inadequate cognitive abilities ( Pogarsky , 2007 ; Wright et al. , 2004 ) .
+Finally , like other recent studies focusing on the interactive effects of cognitive characteristics and social environments ( Maimon and Kuhl , 2008 ; Zimmerman , 2010 ) , the results from our research confirm that it is vital to examine how individual cognitive skills and social environments interact to further our understanding of adolescent offending .
+In addition to these theoretical insights , our findings may have important policy implications for the development of school-based disciplinary and intervention policies targeting adolescent violence .
+In recent years , harsh school-based disciplinary policies have been widely touted as overly puni- tive and viewed largely in a negative light ( Gorman and Pauken , 2003 ; Hirschfield , 2008 ) .
+Our study finds that they have no direct preventive effects on youth delinquency , whereas other research has suggested that such disciplinary practices may be discriminatory ( Welch and Payne , 2010 ) .
+However , our results also show that an accurate account of the deterrent effects of zero-tolerance policies may be more complex than previously thought .
+Specifically , we demonstrate that a stricter disciplinary climate in schools may have some unexpected favorable effects on reducing in-school alcohol abuse among adolescents with poor decision-making abilities ( i.e. , low TRDM ) as well as less pronounced beneficial effects on decreasing violence , limited only to those students with extremely weak cognitive skills .
+As social scientists from different disciplines have suggested ( Laub and Samson , 2003 ; Novak and Clayton , 2001 ; Wikström , 2010 ) , youth with weak cognitive skills such as low TRDM may benefit from more structured environments with high levels of sanctioning because increased social con- trol reduces the range of available delinquent behavioral responses they consider .
+High levels of sanctions also may provide powerful disincentives against misbehavior and thus diminish the need to engage in more elab- orate cognitive processes of evaluation and selection of action .
+Although these conclusions are tentative , if future research confirms these findings , 518 MAIMON , ANTONACCIO & FRENCH opportunities to reshape existing or design more effective policy responses that curb alcohol abuse and perhaps even violence among school students with weak cognitive skills are foreseeable .
+Although our findings are robust to several sensitivity tests and provide important insight into the role of school sanctions and TRDM in deter- mining violent adolescent outcomes , some research limitations are present .
+First , our outcomes do not refer solely to violent adolescent behaviors in schools .
+Thus , the true magnitude of the association between school sanctions and violent behavior might be underestimated .
+Second , some shortcomings are inherent to the use of secondary data in general and Add Health in particular for testing our specific theoretical propositions .
+Because these data were not collected with our research objectives in mind , measures such as TRDM , for example , are based on limited numbers of items that are available and do not necessarily tap all necessary aspects of concepts under consideration .
+Thus , it is possible that the effects of those concepts may be underestimated as a result of measurement error .
+Another limitation of Add Health data is the absence of additional mea- sures of sanctioning .
+Specifically , we can not explore alternative dimensions of sanctioning such as objective enforcement or individual perceptions of sanctions .
+However , our focus on authorized rather than on enforced or perceived sanctions seems to be justified because 1 ) the most recent re- search has demonstrated that objective and subjective measures of school sanctioning are related ( Apel , Pogarsky , and Bates , 2009 ) , and perhaps most importantly , 2 ) research on whether predetermined school-authorized sanctions ( i.e. , zero-tolerance disciplinary policies ) are effective deterrents of juvenile delinquency has been so scarce that our research represents a meaningful contribution .
+Finally , we caution readers that we can examine only one conceptualization of cognitive processing—TRDM—and there- fore offer a somewhat limited evaluation of the interrelationships between students ’ cognitive processing and the school-sanctioning climate .
+Future research should investigate other ways in which cognitive processes of decision making can be operationalized and further assess their interactive links to juvenile delinquency .
+Despite these limitations , our study is unique in several respects : We follow an objective approach in measuring school-sanctioning practices , and we test the cross-level interactive effects of the school-sanctioning climate and individual cognitive processes associated with effective deci- sion making on adolescent violent behavior .
+We view our findings on the deterrent effects of school-sanctioning policies as promising but certainly not conclusive .
+Thus , we encourage other social scientists to pursue this line of research to generate more comprehensive and multifaceted estimates of the effects of school sanctions on violence and other types of juvenile delinquency .
+SEVERE SANCTIONS , EASY CHOICE ?
+519 REFERENCES Andenaes , Johannes .
+1974 .
+Punishment and Deterrence .
+Ann Arbor , MI : University of Michigan Press .
+Apel , Robert , Greg Pogarsky , and Leigh Bates .
+2009 .
+The sanctions- perception link in a model of school-based deterrence .
+Journal of Quan- titative Criminology 25:201–26 .
+Beccaria , Cesare .
+1963 [ 1764 ] .
+On Crimes and Punishments .
+New York : Macmillan .
+Becker , Gary S. 1968 .
+Crime and punishment : An economic approach .
+Journal of Political Economy 76:169–217 .
+Bentham , Jeremy .
+1998 [ 1780 ] .
+Punishment and deterrence .
+In Principled Sentencing : Readings on Theory and Policy , eds .
+A. von Hirsch and A. Ashworth .
+Oxford , U.K. : Hart .
+Cohen , Lawrence E. , and Marcus Felson .
+1979 .
+Social change and crime rate trends : A routine activities approach .
+American Sociological Review 44:588–608 .
+Cook , Philip J. , Denise C. Gottfredson , and Chongmin Na .
+2010 .
+School crime control and prevention .
+In Crime and Justice : A Review of Research , vol .
+39 , ed .
+Michael H. Tonry .
+Chicago , IL : University of Chicago Press .
+Felson , Marcus , and Lawrence E. Cohen .
+1980 .
+Human ecology and crime : A routine activity approach .
+Human Ecology 8:389–406 .
+Gibbs , Jack P. 1975 .
+Crime , Punishment , and Deterrence .
+New York : Elsevier .
+Gorman , Kevin , and Patrick Pauken .
+2003 .
+The ethics of zero tolerance .
+Journal of Educational Administration 41:24–37 .
+Gottfredson , Denise C. , and David Soulé .
+2005 .
+The timing of property crime , violent crime , and substance use among juveniles .
+Journal of Research on Crime and Delinquency 42:110–20 .
+Gottfredson , Michael R. , and Travis Hirschi .
+1990 .
+A General Theory of Crime .
+Stanford , CA : Stanford University Press .
+Grasmick , Harold G. , Charles R. Tittle , Robert J. Bursik , Jr. , and Bruce J. Arneklev .
+1993 .
+Testing the core empirical implications of Gottfredson and Hirschi ’ s general theory of crime .
+Journal of Research in Crime and Delinquency 30:5–29 .
+520 MAIMON , ANTONACCIO & FRENCH Haynie , Dana L. 2001 .
+Delinquent peers revisited : Does network structure matter ?
+American Journal of Sociology 106:1013–57 .
+Haynie , Dana L. , and D. Wayne Osgood .
+2005 .
+Reconsidering peers and delinquency : How do peers matter ?
+Social Forces 84:1109–30 .
+Heaviside , Sheila , Cassandra Rowand , Catrina Williams , and Elizabeth Farris .
+1998 .
+Violence and Discipline Problems in U.S. Public Schools : 1996–97 .
+Washington , DC : U.S. Department of Education , National Center for Education Statistics .
+Hirschfield , Paul J .
+2008 .
+Preparing for prison ?
+Criminalization of school discipline in the USA .
+Theoretical Criminology 12:79–101 .
+Jacob , Brian A. , and Lars Lefgren .
+2003 .
+Are idle hands the devil ’ sworkshop ?
+Incapacitation , concentration , and juvenile crime .
+American Economic Review 93:1560–77 .
+Jones , Shayne , and Donald R. Lynam .
+2009 .
+In the eye of the impulsive beholder : The interaction between impulsivity and perceived informal social control on offending .
+Criminal Justice and Behavior 36:307–21 .
+Khoury-Kassabri , Mona , Rami Benbenishty , and Ron A. Astor .
+2005 .
+The effects of school climate , socioeconomics , and cultural factors on stu- dent victimization in Israel .
+Social Work Research 29:165–80 .
+Khoury-Kassabri , Mona , Rami Benbenishty , Ron A. Astor , and Anat Zeira .
+2004 .
+The contributions of community , family , and school vari- ables to student victimization .
+American Journal of Community Psy- chology 34:187–204 .
+Kupchik , Aaron , and Torin Monahan .
+2006 .
+The new American school : Preparation for post-industrial discipline .
+British Journal of Sociology of Education 5:617–31 .
+Laub , John H. , and Robert J. Sampson .
+2003 .
+Shared Beginnings , Divergent Lives : Delinquent Boys to Age 70 .
+Cambridge , MA : Harvard University Press .
+Lösel , Friedrich , and Andreas Beelmann .
+2003 .
+Assessing systematic ev- idence in crime and justice : Methodological concerns and empirical outcomes .
+The ANNALS of the American Academy of Political and Social Science 587:84–107 .
+Maimon , David , and Christopher Browning .
+2010 .
+Unstructured socializing , collective efficacy , and violent behavior among urban youth .
+Criminol- ogy 48:443–74 .
+SEVERE SANCTIONS , EASY CHOICE ?
+521 Maimon , David , and Danielle Kuhl .
+2008 .
+Social control and youth suici- dality : Situating Durkheim ’ s ideas in a multilevel framework .
+American Sociological Review 73:921–43 .
+McCarthy , Bill .
+2002 .
+New economics of sociological criminology .
+Annual Review of Sociology 28:417–42 .
+Nagin , Daniel S. 1998 .
+Criminal deterrence research at the outset of the twenty-first century .
+In Crime and Justice : A Review of Research , ed .
+Michael H. Tonry and Norval Morris .
+Chicago , IL : University of Chicago Press .
+Nagin , Daniel S. 2008 .
+Thoughts on the broader implications of the “ miracle of the cells. ” Criminology & Public Policy 7:37–42 .
+Nagin , Daniel S. , and Raymond Paternoster .
+1993 .
+Enduring individual differences and rational choice theories of crime .
+Law & Society Review 27:467–96 .
+Nagin , Daniel S. , and Raymond Paternoster .
+1994 .
+Personal capital and social control : The deterrence implications of a theory of individual differences in criminal offending .
+Criminology 32:581–606 .
+Nagin , Daniel S. , and Greg Pogarsky .
+2001 .
+Integrating celerity , impulsivity , and extralegal sanction threats into a model of general deterrence : Theory and evidence .
+Criminology 39:865–92 .
+Novak , Scott P. , and Richard R. Clayton .
+2001 .
+The influence of school en- vironment and self-regulation on transitions between stages of cigarette smoking : A multilevel analysis .
+Health Psychology 20:196–207 .
+Osgood , D. Wayne , Janet Wilson , Patrick O ’ Mally , Jerald Bachman , and Lloyd Johnston .
+1996 .
+Routine activities and individual deviant behav- ior .
+American Sociological Review 61:635–55 .
+Paternoster , Raymond .
+1987 .
+The deterrent effect of the perceived certainty and severity of punishment : A review of the evidence and issues .
+Justice Quarterly 4:173–218 .
+Paternoster , Raymond , and Greg Pogarsky .
+2009 .
+Rational choice , agency and thoughtfully reflective decision making : The short and long-term consequences of making good choices .
+Journal of Quantitative Crimi- nology 25:103–27 .
+Paternoster , Raymond , Greg Pogarsky , and Gregory Zimmerman .
+2010 .
+Thoughtfully reflective decision making and the accumulation of cap- ital : Bringing choice back in .
+Journal of Quantitative Criminology 27:1– 26 .
+522 MAIMON , ANTONACCIO & FRENCH Payne , Allison A. , and Kelly Welch .
+2010 .
+Modeling the effects of racial threat on punitive and restorative school discipline practices .
+Criminol- ogy 48:1019–62 .
+Petrin , Robert A .
+2006 .
+Item Nonresponse and Multiple Imputation for HLMs .
+Paper presented at the annual meeting of the American Soci- ological Association , Montreal Convention Center , Montreal , Quebec , Canada .
+Pogarsky , Greg .
+2007 .
+Deterrence and individual differences among offend- ers .
+Journal of Quantitative Criminology 23:59–74 .
+Pratt , Travis C. , Francis T. Cullen , Kristie R. Blevins , Leah E. Daigle , and Tamara D. Madensen .
+2006 .
+The empirical status of deterrence theory : A meta-analysis .
+In Taking Stock : The Status of Criminological Theory , eds .
+Francis T. Cullen , John Paul Wright , and Kristie R. Blevins .
+New Brunswick , NJ : Transaction .
+Pribesh , Shana , and Doug B. Downey .
+1999 .
+Why are residential and school moves associated with poor school performance ?
+Demography 36:521– 34 .
+Raudenbush , Stephen W. , and Anthony S. Bryk .
+2002 .
+Hierarchical Linear Models : Applications and Data Analysis Methods .
+Thousand Oaks , CA : Sage .
+Reis , Janet , Mickey Trockel , and Peter Mulhall .
+2007 .
+Individual and school predictors of middle school aggression .
+Youth & Society 38:322–47 .
+Sampson , Robert J. , and John H. Laub .
+1993 .
+Crime in the Making : Path- ways and Turning Points through Life .
+Cambridge , MA : Harvard Uni- versity Press .
+Skiba , Russell J .
+2000 .
+Zero tolerance , zero evidence : An analysis of school disciplinary practice .
+Policy Research Report .
+Terre Haute : Indiana Education Policy Center .
+Skiba , Russell J .
+2001 .
+When is disproportionality discrimination ?
+The overrepresentation of black students in school suspension .
+In Zero Tolerance : Resisting the Drive for Punishment in Our Schools : A Hand- book for Parents , Students , Educators , and Citizens , eds .
+William Ayers , Bernardine Dohrn , and Rick Ayers .
+New York : The New Press .
+Skiba , Russell J. , and Reece L. Peterson .
+2000 .
+School discipline at a cross- roads : From zero tolerance to early response .
+Exceptional Children 66:335–47 .
+SEVERE SANCTIONS , EASY CHOICE ?
+523 Soulé , Dave , Denise C. Gottfredson , and Erin Bauer .
+2008 .
+It ’ s 3 p.m. Do you know where your child is ?
+A study on timing of juvenile victimiza- tion and delinquency .
+Justice Quarterly 25:623–46 .
+Tittle , Charles R. 1980 .
+Sanction and Social Deviance : The Question of Deterrence .
+New York : Praeger .
+Tittle , Charles R. , and Ekaterina V. Botchkovar .
+2005 .
+Self-control , crimi- nal motivation and deterrence : An investigation using Russian respon- dents .
+Criminology 43:307–54 .
+Tittle , Charles R. , and Raymond Paternoster .
+2000 .
+Social Deviance and Crime : An Organizational and Theoretical Approach .
+Los Angeles , CA : Roxbury .
+Welch , Kelly , and Allison A. Payne .
+2010 .
+Racial threat and punitive school discipline .
+Social Problems 57:25–48 .
+Welsh , Wayne N. 2000 .
+The effects of school climate on school disorder .
+The ANNALS of the American Academy of Political and Social Science 567:88–107 .
+Welsh , Wayne N. 2001 .
+Effects of student and school factors on five mea- sures of school disorder .
+Justice Quarterly 18:911–47 .
+Welsh , Wayne N. 2003 .
+Individual and institutional predictors of school disorder .
+Youth Violence and Juvenile Justice 1:346–68 .
+Wright Bradley R. E. , Avshalom Caspi , Terry E. Moffitt , and Raymond Pa- ternoster .
+2004 .
+Does the perceived risk of punishment deter criminally- prone individuals ?
+Rational choice , self-control , and crime .
+Journal of Research in Crime and Delinquency 41:180–213 .
+Wikström , Per-Olof H. 2006. linking individual , setting , and acts of crime .
+situational mechanisms and the explanation of crime .
+In The Explana- tion of Crime : Contexts , Mechanisms , and Development , eds .
+Per-Olof H. Wikström and Robert J. Sampson .
+Cambridge , U.K. : Cambridge University Press .
+Wikström , Per-Olof H. 2010 .
+Explaining crime as social actions .
+In Hand- book of Sociology of Morality , eds .
+Steven Hitlin and Stephen Vaisey .
+New York : Springer .
+Wikström , Per-Olof H. , and Kyle Treiber .
+2007 .
+The role of self-control in crime causation .
+European Journal of Criminology 4:237–64 .
+Zimring , Franklin E. , and Gordon J. Hawkins .
+1973 .
+Deterrence-The Legal Threat in Crime Control .
+Chicago , IL : University of Chicago Press .
+524 MAIMON , ANTONACCIO & FRENCH Zimmerman , Gregory .
+2010 .
+Impulsivity , offending , and the neighborhood : Investigating the person-context nexus .
+Journal of Quantitative Crimi- nology 26:301–32 .
+David Maimon is an assistant professor of criminology and criminal justice at the University of Maryland—College Park .
+His research interests include theories of human behaviors , community , and crime and cyber- crime .
+Olena Antonaccio is an assistant professor of sociology at the University of Miami .
+Her research interests include theory testing and development and comparative criminology .
+Michael T. French , PhD , is a professor of health economics in the De- partment of Sociology at the University of Miami and the director of the Health Economics Research Group .
+His experience includes policy and program evaluation , substance abuse research , health economics , cost– benefit analysis , human resource economics , and the economics of crime .
+SUPPORTING INFORMATION The following supporting information is available for this article : Table S.1 .
+Adolescent Violent Behavior ( wave 2 ) Regressed Over Individ- ual and School Measures : Cross-Level Interaction Table S.2 .
+Adolescent Violent Behavior ( wave 2 ) Regressed Over Individ- ual and School Measures : Cross-Level Interaction ( Full Models ) Table S.3 .
+Students under the Influence of Alcohol in School Re- gressed Over Individual and School Measures : Cross-Level Interaction ( N = 10,530 ) Supporting Information may be found in the online version of this article .
+Please note : Wiley-Blackwell is not responsible for the content or func- tionality of any supporting information supplied by the authors .
+Any queries ( other than missing material ) should be directed to the correspond- ing author for the article .

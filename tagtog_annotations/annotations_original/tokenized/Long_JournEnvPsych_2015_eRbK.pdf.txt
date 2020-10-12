@@ -1,0 +1,674 @@
+Long_JournEnvPsych_2015_eRbK.pdf
+a9jMCzCZfPRTtpIIfCsXFhL0BO9K-Long_JournEnvPsych_2015_eRbK.pdf.plain.html
+
+lable at ScienceDirect Journal of Environmental Psychology 41 ( 2015 ) 155e165Contents lists avaiJournal of Environmental Psychology journal homepage : www.elsevier .com/locate/ jepSocial clustering in high school transport choices Jennifer Long , Niki Harre , Quentin D. Atkinson* University of Auckland , Auckland , New Zealanda r t i c l e i n f o Article history : Available online 9 January 2015 Keywords : Transport Active transport Adolescents Social networks Friendship Sustainability* Corresponding author .
+School of Psychology , Unive 92019 , Auckland 1142 , New Zealand .
+E-mail address : q.atkinson @ auckland.ac.nz ( Q.D .
+A http : //dx.doi.org/10.1016/j.jenvp.2015.01.001 0272-4944/© 2015 Elsevier Ltd. All rights reserved.a b s t r a c t Active transport offers opportunities to reduce the environmental impacts of car travel and improve health .
+During adolescence , friends and parents may influence transport mode to school .
+Using a social network survey of 934 high school students we investigated whether students ' walking , cycling , bus and car travel to school were predicted by their friends ' transport behaviour , accounting for parent encouragement , ride availability , distance to school , gender , school unit and age .
+In addition , we examined whether descriptive norms , friend encouragement or co-travel requests mediated the effect of friends ' active transport behaviour .
+We found that friends ' transport behaviour predicted ego behaviour , particularly for cycling .
+Descriptive norms and co-travel requests , but not friend encouragement , approached significance as mediators of friends ' active transport similarities .
+Parent encouragement for active transport was a particularly strong predictor of transport mode .
+Implications for future research and interventions are discussed .
+© 2015 Elsevier Ltd. All rights reserved.1 .
+Introduction 1.1 .
+Rationale Transport generates a substantial portion of greenhouse gas emissions , comprising nearly 23 % of the world 's energy related emissions ( International Energy Agency , 2009 ) .
+Private car use produces substantially more greenhouse gases per passenger kil- ometre than public transport in most countries , whilst walking and cycling are virtually emission free ( IPCC , 2007 ) .
+Replacing car journeys with alternative forms of transport also reduces traffic congestion and improves the overall safety of pedestrians , pas- sengers and other road users .
+Active transport such as walking or cycling also provides an opportunity to increase regular physical activity ( Wanner , G€otschi , Martin-Diener , Kahlmeier , & Martin , 2012 ) which can in turn contribute to physical and psychological health ( Garrard , Rissel , & Bauman , 2012 ) .
+Local car trips that could be walked or cycled are an important and feasible target for change ( Maibach , Steg , & Anable , 2009 ) .
+Adolescence may be a particularly important time for shaping adult transport patterns ( e.g .
+Line , Chatterjee , & Lyons , 2012 ; Simons et al. , 2013 ) and adult health outcomes ( Lawlor & rsity of Auckland , Private Bag tkinson ) .Chaturvedi , 2006 ) .
+Peers are salient during adolescence and have been found to be influential for a range of behaviours ( Brechwald & Prinstein , 2011 ; Brown , Bakken , Ameringer , & Mahon , 2008 ) .
+Social interventions , including those involving peers , may increase participation in active transport ( Orsini , 2006 ; Panter , Jones , van Sluijs , & Griffin , 2010 ) but little is known about the role of peers in adolescents ' transport choices to and from school .
+1.2 .
+Clustering of behaviour within social networks Social networks describe relationships between individuals in a given setting or community .
+Social network methods generally represent individuals as nodes in a network and social relations ( e.g .
+friendships , interactions , associations ) as the links between nodes .
+Social clustering ( also known as network autocorrelation ) describes a situation in which linked individuals in a network are more similar on a given attribute than would be expected due to chance .
+To establish similarities in friends ' attributes , each in- dividual 's behaviour is measured independently and mapped onto the network .
+People often assume others ' behaviour is more similar to their own than it actually is ( McPherson , Smith-Lovin , & Cook , 2001 ; Prinstein & Wang , 2005 ) .
+Therefore using independent re- ports collated on a social network avoids a similarity bias or “ false consensus effect ” that can arise if individuals are asked to estimate the behaviour of their friends .
+Social clustering can arise from a combination of processes that can be broadly categorized as social contagion , homophily or J .
+Long et al .
+/ Journal of Environmental Psychology 41 ( 2015 ) 155e165156secondary homophily .
+Social contagion captures processes whereby an individuals ' behaviour is influenced by the behaviour of their peers .
+In contemporary work , the term social contagion is used synonymously with socialisation , friend influence and peer effects ( e.g .
+Brechwald & Prinstein , 2011 ; Christakis & Fowler , 2008 ; Dishion & Tipsord , 2011 ; Eisenberg , Golberstein , Whitlock , & Downs , 2013 ; Shalizi & Thomas , 2011 ) .
+The term has historically been used to describe a myriad of sub-types of influence , particu- larly subtypes of imitation ( see Levy & Nail , 1993 ; Wheeler , 1966 ) .
+In this paper we use social contagion as it is most commonly used in current literature , to describe processes in which friends influ- ence the ego ( focal individual ) to behave inways that are consistent with their own behaviour .
+Homophily , refers to the predisposition to select people with similar traits as friends .
+Homophilic selection of friends may be based on the behaviour of interest ( manifest homophily ) , which in our case would be transport choices ( Shalizi & Thomas , 2011 ) .
+Friendship selectionmay also relate to a trait that is associated with the behaviour of interest ( secondary homophily when the trait is measured , latent homophily if the trait is unmeasured ) ( Shalizi & Thomas , 2011 ) .
+For transport behaviour , secondary or latent homophily could include selecting friends on the basis of gender or distance from school , or other traits likely to influence transport choices .
+For example , adolescents are more likely to select friends who live close by ( Preciado , Snijders , Burk , Stattin , & Kerr , 2012 ) and who are the same age and gender ( McPherson et al. , 2001 ) , which are all factors that have been linked to transport choices ( Sirard & Slater , 2008 ) .
+Features of the home environment such as parent encouragement and ride availability may also play a role here .
+For example , parent encouragement is known to correlate with transport choices ( Panter , Jones , & van Sluijs , 2008 ) and may give rise to secondary homophily if students tend to form friend- ships with those whose parents have similar attitudes toward particular transport choices .
+It can be difficult , if not impossible to conclusively differentiate between these three classes of explanation in social network sur- veys .
+Social contagion , homophily and secondary homophily are not mutually-exclusive processes ( Brechwald & Prinstein , 2011 ; de la Haye , Robins , Mohr , & Wilson , 2011 ) and if homophily exists on the variable of interest this can contaminate estimation of social contagion unless very strong assumptions are made ( Shalizi & Thomas , 2011 ) .
+Nevertheless , simple tests for clustering of behav- iour on a network can identify whether at least one of the three processes is likely to be present .
+Further , including potential sec- ondary homophily variables in the analysis makes it possible to quantify their relative importance and may allow contagion effects to be ruled out .
+That is , if there is no clustering in transport behaviour after controlling for secondary homophily variables , this makes a contagion explanation unlikely .
+Conversely , incorporating variables linked to possible social contagion mechanisms into the analysis makes it possible to test the plausibility of these causal pathways and potentially provides indirect support for the role of contagion .
+1.3 .
+Mechanisms of contagion within social networks When behaviours cluster , and we suspect there is some degree of social contagion present , we can ask what interpersonal mech- anisms are likely driving this .
+Empirical work on the mechanisms underlying social contagion has been a gap in the literature on social contagion although more attention has been paid to these mechanisms in recent years ( Brechwald & Prinstein , 2011 ) .
+One potential factor driving contagion effects is individuals ' perception that a behaviour is common among their friends .
+Ac- cording to normative focus theory ( Cialdini , Reno , & Kallgren , 1990 ) information about common behaviour ( descriptive norms ) may provide a short-cut to decision making , leading people to adopt the common behaviour in a particular context ( Cialdini et al. , 1990 ) .
+People may also consciously adopt the common behaviour because they assume that these behaviours are likely to be rewarded by their friendship group ( Brown et al. , 2008 ) or , drawing on social categorisation theory , because the common behaviourmay become part of their identity as group members ( Turner , Hogg , Oakes , Reicher , & Wetherell , 1987 ) .
+If people are consciously adopting the common behaviour then descriptive norms around what be- haviours are most common should mediate similarities between the individual 's travel mode choice and that of their friends .
+A Dutch study found that adult car use was related to perceptions of how often important others travel by car ( Steg , 2005 ) and descriptive norms appear to be consistently related to physical activity ( Maturo & Cunningham , 2013 ) .
+No research to our knowl- edge has assessed whether descriptive norms predict adolescent transport behaviour , nor whether they underpin contagion pro- cesses if these are present .
+A second mechanism potentially driving contagion effects in- volves reward and encouragement from peers .
+People may pro- mote behaviours that match their own through verbal influence , requests and teasing ( Brown et al. , 2008 ) because conformity to in- group relevant norms increases positive emotions for the perceiver ( Christensen , Rothgerber , Wood , & Matz , 2004 ) and affirms the influencers ' own behaviour .
+The term “ encouragement ” is often used to capture verbal influence , particularly within the health promotion literature .
+Encouragement has consistently been found to predict physical activity in adolescence ( Maturo & Cunningham , 2013 ) and friend encouragement of physical activity is also related to adolescent active transport ( Deforche , Van Dyck , Verloigne , & De Bourdeaudhuij , 2010 ; Hohepa , Scragg , Schofield , Kolt , & Schaat , 2007 ) .
+One study of UK children found that friend encourage- ment for active transport related to whether students cycled to school , but only for students living close to school ( Panter et al. , 2010 ) .
+No research to our knowledge has explored whether friend encouragement of active transport is related to transport choices for adolescents .
+If encouragement is important for active transport and people tend to encourage this behaviour when they do it themselves then encouragement may generate similarities in friends ' behaviour .
+Social contagionmay also arise from opportunities to travel with friends .
+Transport with friends is likely to be more enjoyable than travelling alone or with parents and the time spent travelling together may also contribute to a sense of belonging , which Baumeister and Leary ( 1995 ) propose is a fundamental human motivation .
+Pre-adolescents in Scotland and New Zealand have reported that travelling to school can be a fun opportunity to so- cialisewith friends and suggested that travellingwith friendsmight boost active transport participation ( Orsini , 2006 ; Panter et al. , 2010 ) .
+Older adolescents also appear interested in co-travel : Belgian youth reported that opportunities to travel with friends altered their choice of transport mode or the distance they were willing to cycle for leisure journeys ( Simons et al. , 2013 ) .
+1.4 .
+The present study This study investigates similarities in friends ' transport behav- iour in a New Zealand high school social network .
+In particular it examines students ' walking , cycling , car travel and bus travel choices at a single time point .
+First , we aim to identify whether adolescent transport behaviour to school shows social clustering .
+Second , we aim to test whether and to what extent this clustering holds when controlling for a range of demographic and context J .
+Long et al .
+/ Journal of Environmental Psychology 41 ( 2015 ) 155e165 157variables .
+These additional variables are primarily of interest because theymay contribute to friend selection and could therefore explain any social clustering in terms of secondary homophily ef- fects .
+Third , we explore indirect evidence for social contagion via social mechanisms that mediate similarities in friends ' behaviour .
+We test the following hypotheses : 1 .
+Transport behaviour will cluster socially , such that pairs of friends will be more likely than randomly selected pairs to share the same transport behaviour and friends ' average behaviour will predict the likelihood that the ego will typically use that mode .
+This will be true for walking ( H1a ) , cycling ( H1b ) , car travel ( H1c ) and bus travel ( H1d ) .
+2 .
+The predictive power of friends ' transport behaviour will hold even after controlling for demographic and context variables that may give rise to secondary homophily ( H2a-d ) .
+3 .
+Descriptive norms ( i.e .
+perceptions of friends ' behaviour ) will mediate relationships between ego and friends ' behaviour ( H3 ) .
+4 .
+Friend encouragement of active transport will mediate re- lationships between ego and friends ' behaviour ( H4 ) .
+5 .
+Active transport co-travel requests will mediate relationships between ego and friends ' behaviour ( H5a ) .
+As shared transport is likely to be a keymechanism of social contagion or homophily , we also expect that the behaviour of friends who travel sepa- rately will not predict ego transport choices ( H5bee ) .
+2 .
+Method 2.1 .
+Participants Participants were students of a large relatively affluent co- educational public high school in Auckland , New Zealand .
+Stu- dents who live within the school “ zone ” are prioritised for enrol- ment at this school , however around 15 % attend the indigenous language unit that permits students from outside the school zone .
+All students present in their weekly administration class were invited to take part in the survey .
+Thirty seven consenting students were excluded as they did not provide friend nominations or an ID number required to link their data with that of their friends .
+The final social network dataset which was used for all analyses included 934 students ( 71 % of enrolled school population ) .
+Slightly more males ( 54.5 % ) than females took part , consistent with school demographics ( 57.9 % male ) .
+The average age was 14.7 years and ages ranged from 12 to 19 years .
+Chi-square tests indicated no ev- idence of a difference in the gender or school year between par- ticipants and students enrolled at the school .
+Fewer NZ European individuals took part in the survey than would be expected based on the ethnic makeup of the school population .
+Participants provided informed consent prior to the question- naire and parents of students under 16 years old were given the opportunity to opt their child out of the study .
+Friend nominations were separated from the rest of the questionnaire and de-identified with ID codes before being sent to the researchers .
+To encourage participation , students were offered the chance to win one of five $ 20 ( NZD ) gift vouchers .
+The project was approved by the Univer- sity of Auckland Human Participants ' Ethics committee .
+2.2 .
+Measures The questionnaire was part of a larger research project on sus- tainability .
+Only the items of interest to the current study will be presented here .
+Friends were identified by asking students to “ Please name [ School name ] students who are your close friends .
+You do not have to fill in all the spaces but we are providing space just in case anyone has this many close friends ” .
+We used a fixedchoice free recall approach allowing seven spaces for friend names .
+Similar friend nomination approaches have been used previously ( e.g .
+Poulin , Kiesner , Pedersen , & Dishion , 2011 ) .
+We also asked students to tick a box beside each name indicating whether they “ often travelled to or from school with that person ” .
+Transport to and from school was measured by asking partici- pants to tick their major transport mode for each journey they made to or from school last week ( a total of 10 journeys ) .
+Possible response boxes for each journey were ; Walk , Cycle , Motor scooter , Skate/scooter , Bus , Driven to school , I drive myself in a car , Other ( please specify ) .
+Street name , suburb name and weeknights spent in each housewere collected so that approximate distance to school could be calculated .
+No house numbers were collected to maintain student privacy .
+Students were also asked to report their age and gender and home number which was used to assess if they atten- ded the language unit .
+The remaining items were rated on Likert scales ranging from 1 ( strongly disagree ) to 7 ( strongly agree ) .
+Verbal anchors were given for values 1 through 7 as this can increase the reliability of likert scale ratings ( Weng , 2004 ) .
+Likert scale items included active transport descriptive norms ( “ My friends ' from [ school name ] often walk , cycle or skate to and from school ” ) and active transport co- travel requests from friends ( “ One or more of my friends sometimes asks me to walk , cycle or skate to or from school with them ” ) .
+We also assessed active transport encouragement from friends ( e.g .
+“ My friends from [ school name ] encourage me to walk , cycle or skate to and from school ” ) and from a male or female caregiver ( e.g .
+“ My Mum ( or a caregiver who acts like a mum ) encourages me to walk , cycle or skate to and from school ” ) .
+Perceived encouragement from mothers and fathers was later combined to form a parent encouragement variable ( a ¼ .85 ) .
+Availability of rides from family members was assessed with two questions , one about the morning ( “ A member of my family is able to drop me at school by car ” ) and the other about the afternoon ( “ A member of my family is able to pick me up from school by car ” ) .
+The ride availability questions were com- bined to form a single family ride availability variable ( a ¼ .76 ) .
+Finally , we asked students about their age , gender and collected their home room number in order to assess whether they attended the main school or the indigenous language unit.2.3 .
+Procedure Participants provided informed consent and then completed the survey during an administration class slot .
+The information sheet was summarised verbally prior to beginning the survey and in written form .
+Students took between 10 and 15 minutes to com- plete it .
+Survey completionwas supervised by a teacher and in some cases a university research assistant was also present.2.4 .
+Analysis Friend nominations were converted into an undirected friend- ship matrix which specified a friendship where at least one indi- vidual nominated the other individual .
+In linewith previous studies ( e.g .
+Long , Harre , & Atkinson , 2014 ; W€olfer , Cortina , & Baumert , 2012 ) we include all friend nominations to maximise the number of ‘ close friends ’ included in friends ' behaviour scores .
+A second ‘ separate-transport ’ friendship matrix was produced for some an- alyses that included only ties where neither friend identified travelling with the other .
+Data manipulationwas conducted using a combination of the network ( Butts , Handcock , & Hunter , 2007 ) , spdep ( Bivand , 2011 ) and sna ( Butts , 2007 ) packages in R , an open source language for statistical computing ( R Development Core Team , 2007 ) .
+J .
+Long et al .
+/ Journal of Environmental Psychology 41 ( 2015 ) 155e165158Although they were asked to “ Tick only one option for each col- umn that applies for the main part of your journey. ” some students ( n ¼ 58 ) did tick more than one option .
+Where two modes of transport were specified for a journey , passive modes ( driving , followed by bussing ) were prioritised and any active modes ( walking , cycling , skateboarding and scootering ) for that journey were removed , based on the rationale that a greater proportion of the journey was likely to be via the passive mode .
+We also assumed that active trips which would require travelling for over an hour were likely to be errors or would be supplemented with a passive mode for part of the journey .
+Thus , walking trips from distances which would involve walking for over an hour were recoded to 0 , indicating the person did not walk for that journey ( n ¼ 13 ) .
+No cycling , skateboarding or scootering trips were listed for distances that would require using these modes for over an hour .
+The total frequency of every transport mode was bimodal and thus fre- quencies were split at five trips per week to create a binary dependent variable for each transport mode .
+Distances to school were calculated using the Google Distance Matrix application program interface based on walking routes which could travel through parks or alleyways but not down mo- torways .
+For most participants , distance to school was measured from themiddle of the listed street to the front school gate .
+For long streets , distances were measured from the midpoint of that street within the suburb listed ( 1.6 % of cases ) .
+When participants did not provide a street name we used the centre of the suburb .
+For stu- dents who listed two addresses , distance was calculated from the house they stayed at three or more nights , as this would determine the distance travelled most frequently .
+GIS type distance calcula- tions have been used in other studies ( e.g .
+Panter , Corder , Griffin , Jones , & van Sluijs , 2013 ) and have been found to be similar to actual distances mapped using a GPS ( Duncan & Mummery , 2007 ) .
+Similarities in friends ' scores on continuous variables were tested using Moran 's I statistics ( Moran , 1950 ) .
+Moran 's I statistics assess whether the scores between neighbouring ( linked ) points ( individuals ) are more similar than would be expected by chance given the observed variation in scores .
+Values of Moran 's I range from1 to 1 ; positive values indicate social clustering and negative values indicate dispersion of traits .
+Similarities in binary transport choices and gender were assessed through join count statistics .
+Join count statistics calculate the proportion of ties ( or “ joins ” ) linking actors with the same score on a categorical or binary variable ( Cliff & Ord,1981 ) .
+In our analysis of each transport mode , each friendship tie will either a ) link two people often using that mode , b ) link two people not often using that transport mode or c ) link a person who does use that mode with a personwho does not.We use join count statistics to calculate the number of friendship ties between two people often using that mode or two people often not using each mode .
+We assess whether the join count andMoran 's I values exceed what would be expected given the frequency of each score in the network through monte- carlo permutation of the data ( keeping the network constant ) with 10,000 simulations using the joincount.mc and moran.mc functions in the R package spdep ( Bivand , 2011 ) .
+Participants with missing data on a particular variable were dropped from that particular join count or Moran 's I analysis .
+Social network approaches to studying social similarities are varied in their choice of statistical techniques but all have weak- nesses ( see Ali & Dwyer , 2010 ; Lyons , 2011 ; Robins , 2013 ; Snijders , 2011 ) .
+In this paper we calculate an average friends ' self-reported behaviour similar to methods used in network exposure models ( e.g .
+Fujimoto & Valente , 2012 ) .
+In the first set of these models we predict ego behaviour from a single independent variable of friends ' average self-reported behaviour for that transport mode .
+These regressions expand on the join count analysis by quantifyingthe degree of similarity between friends .
+We then run a second set of models that predict ego behaviour from friends ' behaviour , adjusting for demographic and context factors that are also ex- pected to influence transport behaviour and/or friend selection e distance to school ( logged ) , gender , age , attendance at the school language unit , the availability of rides from family members , and parent encouragement to use active transport .
+School language unit is included as a predictor as students from the school language unit were likely to travel long distances to school and be friends with one another therefore enrollment in the language unit could ac- count for social clustering in transport behaviour .
+Friends ' walking was calculated by averaging the number of times each nominated friend reported walking to and from school per week .
+This was repeated for cycling , car travel and bus travel .
+Averaging was per- formed on the raw transport frequencies rather than the dicho- tomised version used for the dependent variables .
+Separate logistic regressions were used to predict self-reported walking , cycling , car travel and bus travel .
+Log likelihood values were used to compare the fit of the full model with a model just including the demographic and context covariates to assess whether the addition of friends ' behaviour improved the overall model fit .
+In order to assess whether descriptive norms , friend encour- agement and active transport co-travel requests mediated the relationship between friend and ego active transport we performed regressions testing the four steps for assessing mediation proposed by Baron and Kenny ( 1986 ) .
+These regressions controlled for covariates ( distance to school [ logged ] , gender , age , attendance at the school language unit , the possibility of rides from family members , and parent encouragement to use active transport ) in each regression .
+Survey questions about descriptive norms , friend encouragement and active transport co-travel requests asked stu- dents to combine their experience of all active transport modes therefore the role of these variables needs to be assessed using measures of friend and ego behaviour that include all the active transport modes .
+Friends ' active transport was calculated by aver- aging the number of times each nominated friend reported using active transport ( number of walk , cycle , skate or scooter trips to and from school per week ) .
+Following the earlier analyses , friend av- erages were calculated on the raw active transport total score and dichotomised transport were used as the dependent variable in the relevant mediation related regressions .
+These four criteria for assessing mediation outline by Baron and Kenny ( 1986 ) are as follows : 1 .
+The causal variable ( friends ' behaviour ) predicts the outcome ( ego behaviour ) 2 .
+The causal variable ( friends ' behaviour ) predicts the mediator ( i.e .
+descriptive norms ) 3 .
+The mediator ( i.e .
+descriptive norms ) predicts the outcome ( ego behaviour ) 4 .
+The causal variable ( friends ' behaviour ) is not a significant predictor of the outcome ( ego behaviour ) when the mediator ( i.e .
+descriptive norms ) is included as a covariate .
+If all four steps are met this is consistent with full mediation .
+If the data is consistent with steps 1e3 but not 4 then this is consistent with partial mediation .
+A range of criteria have been proposed for assessing the significance of the indirect effect .
+One of the approaches is simply to assess if Steps 2 and 3 are confirmed ( Fritz , Taylor , & MacKinnon , 2012 ) , another is to use the Sobel 's Z ( Sobel , 1982 ) test .
+Whilst the Sobel 's Z test is conservative ( MacKinnon , Warsi , & Dwyer , 1995 ) it is known to be suitable for use with dichotomous outcomes and thus is favoured in this analysis .
+We repeated the series of regressions needed to assess J .
+Long et al .
+/ Journal of Environmental Psychology 41 ( 2015 ) 155e165 159mediation for descriptive norms , then friend encouragement , then active transport co-travel requests .
+Finally we assessed whether similarities in friends ' behaviour remained when we only consid- ered the behaviour of friends who did not travel together .
+New friend averages were calculated on a second ‘ separate-transport ’ friendship matrix and regression models were fit predicting each transport mode from the ‘ separately transport ’ friend average and the demographic and contextual covariates .
+The non-independence of behaviour in a social network can generate biased standard error estimates ( Heagerty , Ward , & Gleditsch , 2002 ; Sainani , 2010 ) , similar to issues of autocorrela- tion present in time-series data .
+To overcome this problem , we used robust sandwich variance estimators of standard errors using the procedure described in Lumley and Hamblett ( 2003 ) .
+Standard er- rors for all regression analyses were adjusted to account for the non-independence of nominated friends ' scores .
+Odds ratio and beta confidence intervals and Sobel 's Z scores were calculated using the adjusted standard errors .
+Listwise deletion of missing data was used and thus the number of participants differs between analyses .
+3 .
+Results 3.1 .
+Prevalence of transport choices To better understand the transport context , we first assess the prevalence of different transport modes used to get to and from school .
+In total 46.7 % of participants reported travelling by walking five or more times on a typical week , 29.2 % of participants travelled by bus , 19.8 % by car , 7.8 % by cycling and 1.9 % by skateboarding or scootering .
+Approximately 10 % used other modes or did n't use a single mode five or more times a week .
+The percentages do not add up to 100 because some participants ( 13.0 % ) travelled by two modes five times per week and 1.6 % of participants did not provide complete transport mode information .
+3.2 .
+Social clustering in the network We employed join count statistics ( JC ) to assess whether the number of friendship ties between participants who both used ( or did not use ) each transport mode differed significantly from chance .
+Join count tests identified 638 friendship ties between participants who both often walked and 823 friendship ties be- tween participants who both did not .
+The total number of possible ( symmetric ties ) was 2604 , thus there were 1143 friendship ties between a participant who often walked and one who did not .
+Join count statistics for friendship ties where both friends walked or both did not was significant at p ¼ .0001 , consistent with H1a predicting clustering in walking .
+Cycling also had significant join count statistics for both types of friendship ties ( H1b ) .
+Similarly , consistent with H1c and H1d , the number of friendship tiesTable 1 Join count tests ( JC ) of spatial clustering in dichotomised transport scores ( n ¼ 921 , total friendship ties ¼ 2604 ) .
+JC p Typically walk 638 0.0001 Typically do n't walk 823 0.0003 Typically cycle 28 0.0001 Typically do n't cycle 2291 0.0002 Typically use car 109 0.0054 Typically do n't use car 1740 0.0582 Typically bus 267 0.0001 Typically do n't bus 1327 0.2577 Note .
+The JC statistic refers to the number of friendship ties linking people with the same common transport mode.between participants who both often travelled by car and who both often travelled by bus were also significant , although the number of friendships between participants who both did n't use these modes were not significant ( see Table 1 ) .
+The p values quantify the prob- ability of observing a greater number of friendship ties for random permutations of the variable across the same network and thus the significance of the statistic does not necessarily mirror the size of the join count value .
+Friends were also similar along dimensions that we expect contribute to transport choices .
+Moran 's I analyses revealed simi- larities in friends ' age , distance to school and parent encourage- ment of active transport and join count analyses revealed similarities in gender and whether friends attended the school 's language unit ( see Table S1 and S2 in the Supplementary Material ) .
+Friends were not significantly similar in ride availability from family members .
+Providing further support for H1aed , friends ' self-reported behaviour predicted self-reported ego transport choices .
+This was true for all transport modes ( see Table 2 ) .
+First , friends ' walking significantly predicted ego walking .
+When no other variables were considered , a one unit change in friends ' walking was related to a 24 % increase in the odds of ego walking ( OR ¼ 1.24 , OR CI ¼ [ 1.14 , 1.34 ] , p < .0001 ) .
+Second , a one unit increase in friends ' cycling increased the odds of ego cycling by 71 % ( OR ¼ 1.71 , OR ¼ [ 1.46 , 2.01 ] , p < .0001 ) .
+Third , friends ' car travel predicted ego 's car travel .
+A one unit change in friends ' car travel was related to a 28 % increase in the odds of car travel ( OR ¼ 1.28 , OR CI ¼ [ 1.12 , 1.46 ] , p ¼ .0003 ) .
+Fourth , friends ' bus travel predicted ego bus travel .
+A one unit change in the average frequency of friends ' bus travel behaviour was related to a 25 % increase in the odds of bus travel ( OR ¼ 1.25 , OR CI ¼ [ 1.14 , 1.38 ] , p < .0001 ) .
+Friend similarities in variables which contribute to transport may explain why friends are similar in their transport behaviour ( i.e .
+these variables may constitute secondary homophily explana- tions for clustering ) .
+Therefore next we assess whether friends ' behaviour predicts ego behaviour in a regression context which allows us to statistically adjust for demographic and contextual factors that may influence transport choices and contribute to similarities in friends ' transport choices .
+3.3 .
+Social clustering controlling for secondary homophily explanations Consistent with H2aed , friends ' self-reported behaviour continued to predict self-reported ego behaviour when de- mographics ( age and gender ) and context variables ( distance to school , possible rides from family members and parent encour- agement ) were adjusted for ( see Table 3 ) .
+This was true for all transport modes , although the odds were substantially lower than in models that just included friends ' behaviour as predictors .
+Friends ' walking significantly predicted ego walking ; a one unit change in the average frequency of friends ' walking behaviour was related to a 10 % increase in the odds of walking ( OR ¼ 1.10 , OR CI ¼ [ 1.01 , 1.21 ] , p ¼ 0.035 ) when demographic and context vari- ables were included .
+Friends ' cycling was a particularly strong predictor of ego cycling .
+A one unit change in the average frequency of friends ' cycling behaviour was related to a 64 % increase in the odds of cycling ( OR ¼ 1.64 , OR ¼ [ 1.36 , 1.98 ] , p < .0001 ) when de- mographic and context variables were included .
+Likewise , friends ' car travel predicted ego 's car travel .
+A one unit change in friends ' car travel was related to a 19 % increase in the odds of car travel ( OR ¼ 1.19 , OR CI ¼ [ 1.04 , 1.37 ] , p ¼ 0.014 ) when demographic and context variables were included .
+Friends ' bus travel predicted ego bus travel .
+A one unit change in the average frequency of friends ' bus travel behaviour was related to a 17 % Table 2 Logistic regression predicting odds of “ often ” walking , cycling , car travel or bus travel predicted from friends ' behaviour ( n ¼ 821b ) .
+Walk Cycle Car travel Bus travel OR OR CI OR OR CI OR OR CI OR OR CI ( Intercept ) 0.33*** ( 0.23 , 0.48 ) 0.04*** ( 0.02 , 0.05 ) 0.14*** ( 0.11 , 0.19 ) 0.21*** ( 0.15 , 0.29 ) Friends ' behavioura 1.24*** ( 1.14 , 1.34 ) 1.71*** ( 1.46 , 2.01 ) 1.28*** ( 1.12 , 1.46 ) 1.25 ( 1.14 , 1.38 ) *p < .05 ; **p < .01 ; ***p < .001. a Friend 's behaviour on the dependent variable listed in the column heading ( i.e .
+walk , cycle , car , bus ) .
+b The data was subset to cases with complete data on the covariates included in Table 3 to facilitate comparisons between these results .
+Table 3 Logistic regression predicting odds of “ often ” walking , cycling , car travel or bus travel predicted from friends ' behaviour and covariates ( n ¼ 821b ) .
+Walk Cycle Car travel Bus travel OR OR CI OR OR CI OR OR CI OR OR CI ( Intercept ) 1.68 ( 0.20 , 14.12 ) 0.00*** ( 0.00 , 0.01 ) 0.01*** ( 0.00 , 0.07 ) 1.78 ( 0.35 , 9.07 ) Friends ' behavioura 1.10* ( 1.01 , 1.21 ) 1.64*** ( 1.36 , 1.98 ) 1.19* ( 1.04 , 1.37 ) 1.17** ( 1.05 , 1.29 ) Distance ( logged ) 0.19*** ( 0.13 , 0.26 ) 0.91 ( 0.67 , 1.24 ) 1.39*** ( 1.18 , 1.63 ) 2.09*** ( 1.6 , 2.74 ) Age ( years ) 0.99 ( 0.87 , 1.12 ) 1.1 ( 0.90 , 1.33 ) 1.09 ( 0.97 , 1.22 ) 0.95 ( 0.85 , 1.05 ) Ride availability 0.96 ( 0.87 , 1.05 ) 0.94 ( 0.81 , 1.11 ) 1.43*** ( 1.26 , 1.62 ) 0.84*** ( 0.76 , 0.92 ) Language unit 0.56 ( 0.25 , 1.27 ) 1.34 ( 0.39 , 4.53 ) 0.92 ( 0.48 , 1.76 ) 0.47* ( 0.25 , 0.88 ) Gender ( f ) 0.72 ( 0.50 , 1.03 ) 2.49 ( 0.99 , 6.26 ) 1 ( 0.69 , 1.44 ) 0.87 ( 0.61 , 1.24 ) Parent encouragement 1.40*** ( 1.22 , 1.59 ) 1.90*** ( 1.46 , 2.47 ) 0.86** ( 0.77 , 0.96 ) 0.72*** ( 0.65 , 0.81 ) Model LL 374*** 148*** 338* 387*** Note .
+Log likelihood tests tested whether each the full model fit better than a model with just friends ' behaviour .
+*p < .05 ; **p < .01 ; ***p < .001. a Friend 's behaviour on the dependent variable listed in the column heading ( i.e .
+walk , cycle , car travel , bus travel ) .
+b The data was subset to cases with complete data on the covariates included in Table 3 to facilitate comparisons between the results for each transport mode .
+Fig .
+1 .
+Standardised regression coefficients for the relationship between ego active transport ( AT ) behaviour from friends ' AT behaviour mediated by descriptive norms ( n ¼ 817 ) .
+Note .
+The standardised regression coefficient for friends ' AT behaviour on ego AT behaviour controlling for descriptive ( AT ) norms is in parentheses .
+All models statistically adjusted for parent encouragement , ride availability , school unit , gender , age and distance to school .
+* p < .05 ** p < .01 , *** p < .001 J .
+Long et al .
+/ Journal of Environmental Psychology 41 ( 2015 ) 155e165160increase in the odds of bus travel ( OR ¼ 1.17 , OR CI ¼ [ 1.05 , 1.29 ] , p¼ 0.004 ) when demographic and context variables were included .
+Post-hoc tests found no interaction between friends ' behaviour and age when predicting walking , cycling , bus travel or car travel behaviour thus providing no support for the possibility that friend influence on school transport choices differs by age .
+Many of the demographic and context variables predicted each transport mode .
+Parent encouragement of active transport was a significant predictor of all transport modes ; it positively predicted active transport ( and walking and cycling ) but negatively pre- dicted car and bus travel ( see Table 3 ) .
+All transport modes ( except cycling ) were strongly predicted by distance from school .
+This was true in models with and without friends ' behaviour .
+With each doubling of the distance from school , walking was 81 % less likely ( OR ¼ 0.19 , OR ¼ [ 0.13 , 0.26 ] , p < .0001 ) but , interestingly , cycling behaviour was not predicted by distance ( OR ¼ 0.91 , OR ¼ [ 0.67 , 1.24 ] , p ¼ 0.567 ) .
+Distance to school strongly predicted car travel and bus travel .
+A doubling of the distance from school was related to a 39 % increase in the odds of often travelling by car ( OR ¼ 1.39 , OR CI ¼ [ 1.18 , 1.63 ] , p < .0001 ) and a two fold increase in the odds of often travelling by bus ( OR ¼ 2.09 , OR CI ¼ [ 1.60 , 2.74 ] , p < .0001 ) .
+These findings are consistent with both parent encouragement and distance influencing transport choices , although causation can not be established in a correlational study .
+In turn because these are also similar among friends ( see Table S1 and S2 ) , these point to secondary homophily contributions to social clustering in students ' transport behaviour .
+Ride availability from family members predicted greater odds of car travel ( OR¼ 1.43 , OR CI¼ [ 1.26 , 1.62 ] , p < .0001 ) and lower odds of bus travel ( OR¼ 0.84 , OR CI¼ [ 0.76 , 0.92 ] , p¼ .0002 ) but was not related to walking ( OR ¼ 0.96 , OR CI ¼ [ 0.87 , 1.05 ] , p ¼ .336 ) or cycling ( OR ¼ 0.94 , OR CI ¼ [ 0.81 , 1.11 ] , p ¼ 0.48 ) .
+This variable did not point to a secondary homophily process underpinning clus- tering in transport behaviour because it was not similar among friends ( see Table S2 in the SupplementaryMaterial ) .
+Therewere noage or gender differences in walking , cycling , car or bus travel to school in the presence of these demographic , distance and parent variables.3.4 .
+Investigating descriptive norms as a mediator of social contagion effects To assess whether the social mechanisms ( i.e .
+descriptive norms , encouragement and co-travel requests ) we measured underpinned any social contagion we conducted a series of regression analyses exploring whether these variables mediated the relationship be- tween ego and friends ' behaviour .
+The survey questions about these mechanisms did not ask about walking or cycling separately therefore we summed these trips ( along with skateboarding and skating ) to form an active transport variable for these analyses .
+First we assessed whether descriptive active transport norms ( the perceived frequency of active transport among one 's friends ) mediated the relationship between friends ' and ego 's active transport using the four step approach proposed by Baron and Kenny ( 1986 ) .
+Fig .
+1 presents the path model estimating Fig .
+2 .
+Standardised regression coefficients for the relationship between ego active transport ( AT ) behaviour from friends ' AT behaviour mediated by friend encourage- ment ( n ¼ 817 ) .
+Note .
+The standardised regression coefficient for friends ' AT behaviour on ego AT behaviour controlling for friend encouragement is in parentheses .
+All models statistically adjusted for parent encouragement , ride availability , school unit , gender , age and distance to school .
+* p < .05 ** p < .01 , *** p < .001 .
+Table 4 Logistic regression predicting odds of often walk , cycle , use car travel and use bus travel predicted by friend behaviour for separately transporting friends with cova- riates ( not displayed ) .
+n OR OR CI Model LL Walking 795 0.99 ( 0.92 , 1.08 ) 362 Cycling 795 1.27** ( 1.07 , 1.50 ) 156*** Car travel 795 1.13ϯ ( 0.99 , 1.28 ) 332* Bus travel 795 1.00 ( 0.90 , 1.11 ) 379 Note .
+All models statistically adjusted parent encouragement , ride availability , school unit , gender , age and distance to school .
+Log likelihood tests compared a model with and without friends ' behaviour .
+*p < .05 ; **p < .01 ; ***p < .001 , ϯ p ¼ .06 .
+J .
+Long et al .
+/ Journal of Environmental Psychology 41 ( 2015 ) 155e165 161mediation of the relationship between friends ' and ego 's active transport by descriptive ( active transport ) norms , statistically adjusting for distance , age , gender , school unit , parent encourage- ment and ride availability in each analysis .
+The first three steps weremet ; ( 1 ) friends ' behaviour predicted ego behaviour ( B¼ 0.26 , OR CI ¼ [ 0.02 , 0.51 ] , p ¼ 0.031 ) , ( 2 ) friends ' behaviour predicted descriptive norms ( B ¼ 0.28 , OR CI ¼ [ 0.2 , 0.36 ] , p < .0001 ) , ( 3 ) descriptive norms predicted ego behaviour with friends ' behaviour as a covariate ( B ¼ 0.23 , OR CI ¼ [ 0.01 , 0.45 ] , p ¼ 0.043 ) .
+However the relationship between friends ' behaviour and ego behaviour remained significant when descriptive norms was included as a predictor ( B¼ 0.21 , OR CI¼ [ 0.04 , 0.46 ] , p¼ 0.036 ) indicating that this was only a partial mediator of the relationship between friends ' behaviour and ego behaviour .
+The Sobel 's Z test of an indirect effect through descriptive norms was marginally significant ( Sobel 's Z ¼ 1.94 , SE ¼ .013 , p ¼ 0.053 , n ¼ 817 ) .
+Given the conservative nature of the Sobel 's Z test and the fact that the other criteria were met we conclude that our data are generally consistent with the hypothesis ( H3 ) that the relationship between friends ' active transport and ego active transport was mediated by descriptive norms .
+3.5 .
+Investigating friend encouragement as a mediator of social contagion effects Next we assessed whether friend encouragement mediated the relationship between friends ' and ego active transport .
+Fig .
+2 pre- sents the path model estimating whether friend encouragement mediated the relationship between friends ' and ego active trans- port , statistically adjusting for distance , age , gender , school unit , parent encouragement and ride availability in each analysis .
+Step two was not met ; friend encouragement was not significantly predicted by friends ' behaviour ( B ¼ 0.05 , OR CI ¼ [ 0.02 , 0.12 ] , p ¼ 0.159 ) .
+This indicates that friend encouragement is not a po- tential mediator of similarities in friends ' behaviour .
+Step three was also not met ; friend encouragement was not a significant predictorFig .
+3 .
+Standardised regression coefficients for the relationship between ego active transport ( AT ) behaviour from friends ' AT behaviour mediated by AT co-travel requests ( n ¼ 820 ) .
+Note .
+The standardised regression coefficient for friends ' active transport on ego active transport controlling for AT co-travel requests is in parentheses .
+All models statistically adjusted for parent encouragement , ride availability , school unit , gender , age and distance to school .
+* p < .05 ** p < .01 , *** p < .001.of active transport ( B ¼ 0.02 , OR CI ¼ [ 0.21 , 0.26 ] , p ¼ 0.839 ) .
+Finally , and contrary to H4 , Sobel 's Z tests of the indirect effect confirmed that friend encouragement was not a significant medi- ator of the relationship between ego and friends ' behaviour ( Sobel 's Z ¼ 0.260 , SE ¼ 0.003 , p ¼ 0.794 , n ¼ 818 ) .
+3.6 .
+Investigating co-participation as a mediator of social contagion effects Next we assessed whether active transport co-travel requests mediated the relationship between friends ' and ego active trans- port .
+Fig .
+3 presents the path model estimating mediation of the relationship between friends ' and ego active transport by active transport co-travel requests , statistically adjusting for distance , age , gender , school unit , parent encouragement and ride availability in each analysis .
+The first three steps were met ; ( 1 ) friends ' behaviour predicted ego behaviour ( B ¼ 0.26 , OR CI ¼ [ 0.02 , 0.5 ] , p ¼ 0.034 ) ,1 ( 2 ) friends ' behaviour predicted active transport co-travel requests ( B¼ 0.14 , OR CI¼ [ 0.07 , 0.21 ] , p < .0001 ) and ( 3 ) active transport co- travel requests predicted ego behaviour with friends ' behaviour as a covariate ( B ¼ 0.22 , OR CI ¼ [ 0.01 , 0.43 ] , p ¼ 0.038 ) .
+However the fourth step was not met as friends ' behaviour continued to be a significant predictor of ego behaviour ( B ¼ 0.23 , OR CI ¼ [ 0.01 , 0.47 ] , p ¼ 0.036 ) indicating that active transport co-travel requests may be a partial rather than full mediator of the relationship be- tween friends ' behaviour .
+Further , Sobel 's Z approached signifi- cance , tentatively consistent with H5a ( Sobel 's Z¼ 1 .
+84 , SE¼ 0.006 , p ¼ 0.065 , n ¼ 820 ) .
+To further explore the role of co-travel in similarities we examined whether the self-reported behaviour of a subset of nominated friends who did not travel with the ego ( separately transporting friends ) predicted transport choices , statistically adjusting for demographics and context variables ( i.e .
+potential secondary homophily explanations for social clustering ) ( see Table 4 ) .
+The behaviour of friends who transported separately approached significance as a predictor of car travel ( OR ¼ 1.13 , OR CI ¼ [ 0.99 , 1.28 ] , p ¼ .062 ) but did not significantly predict bus travel ( OR ¼ 1.00 , OR CI ¼ [ 0.90 , 1.11 ] , p ¼ .997 ) .
+Ego 's walking was not predicted by the behaviour of friends who travelled separately ( OR ¼ 0.99 , OR CI ¼ [ 0.92 , 1.08 ] , p ¼ .852 ) .
+Interestingly , ego 's cycling behaviour was significantly predicted ( OR ¼ 1.27 , OR CI ¼ [ 1.07 , 1.50 ] , p ¼ .005 ) .
+Overall , with the exception of cycling behaviour , the analysis thus supported the predictions ( H5b , dee ) that friends ' behaviour would not predict ego behaviour when only separately transporting friends ' behaviour was considered .
+Transport sharing was common ; at least one friend accompa- nied 59.3 % of students who often walked , 37.5 % of students who often cycled , 53.5 % of bus travellers and 34.8 % of car travellers ( see1 Note that this differs from the equivalent statistic in the normative analysis because listwise deletion resulted in differing cases in each analysis .
+J .
+Long et al .
+/ Journal of Environmental Psychology 41 ( 2015 ) 155e165162Table S3 in the Supplementary Material for further information ) .
+Whilst we did not ask questions related to co-travel requests for bus or car trips we did assess whether participants travelled with the friends they nominated .
+4 .
+Discussion 4.1 .
+Results interpretation Walking , cycling , car travel and bus travel were not distributed randomly within the school community ; instead transport choices were clustered , such that friends were more similar in transport choices than expected by chance .
+This result extends previous research noting friend similarities in smoking ( e.g .
+Mercken , Candel , Willems , & de Vries , 2009 ) , littering ( Long et al. , 2014 ) , physical activity ( de la Haye et al. , 2011 ) and a range of behaviours related to obesity ( Ali , Amialchuk , & Heiland , 2011 ; de laHaye , Robins , Mohr , & Wilson , 2010 ) .
+At least three high-level processes may have contributed to the clustering we found in transport behaviour ; studentsmay select friendswith similar transport choices ( manifest homophily ) , students may select friends with similar pre- dispositions towards particular transport choices ( secondary homophily or latent homophily ) or friends may influence one an- other 's transport behaviour ( contagion ) .
+We discuss which of these three explanations were consistent with our results and the po- tential implications for programmes attempting to increase rates of active transport .
+First , social clustering appears to be partly the result of people making friends with others who have similar demographic or contextual dispositions towards active transport .
+This was shown by friends ' transport behaviour being much less predictive of ego 's behaviour when demographic and context variables were included as covariates and because many of the demographic and context covariates were strongly socially clustered .
+Parent encouragement and distance to school were particularly predictive of transport choices , and were socially clustered .
+Friends were also similar in age , gender and whether they attended the schools ' language unit , but these latter factors did not predict most transport modes and thus do not appear to have contributed to observed social clus- tering in transport behaviour .
+Conversely , ride availability from family members was predictive of transport choices but did not appear to be clustered among friends and therefore did not contribute to social clustering in transport choices .
+However , clustering in transport behaviour was not solely the result of secondary homophily on these factors ; friends ' behaviour predicted ego behaviour when these factors were included as covariates .
+However , relationships between ego and friends ' behaviour were relatively small when these factors were controlled for .
+Cycling , as we will discuss later , maintained stronger associa- tions despite the inclusion of these secondary homophily explanations .
+In regards to mechanisms that may have explained contagion we found evidence that descriptive norms and active transport co- travel requests partially mediated similarities in friends ' active transport behaviour .
+Descriptive norms ( i.e .
+perceptions of friends ' behaviour ) predicted active transport and approached significance as a mediator of similarities in ego and friends ' active transport behaviour .
+This implies that the relationship between friends ' behaviour and ego behaviour may be partly dependent on people perceiving that their friends used active transport .
+One process that may explain this is a social identity influence .
+That is , young people feel like members of their friendship group and so are attracted to the behaviours that indicate group membership .
+Likewise we found that active transport co-travel requests predicted active transport and mediated the relationshipbetween ego 's active transport and friends ' active transport .
+This indicates that similarities in friends ' active transport behaviour may also be partly generated by active transport co-travel re- quests .
+In other words , we find tentative evidence that active transport co-travel requests may contribute to social contagion of active transport .
+The final set of analyses revealed that friends who did not travel together were similar in their cycling behaviour .
+For the other transport modes friend similarities were largely dependent on travelling together .
+There are two possible explanations for this .
+First , as mentioned above , friends may influence one another 's behaviour primarily by getting those friends to travel with them .
+This explanation is consistent with Flemish adolescents ' reports that interest in travelling with friends influenced their transport mode choice ( Simons et al. , 2013 ) .
+We only assessed co-travel re- quests for active transport but it is possible that friends may ask each other to ride the bus with them or offer them a lift in a car and this may generate social contagion effects .
+However , we can not rule out a manifest homophily explanation .
+Students may become friends due to opportunities to travel together , selecting other students as friends because they use the same mode of transport and can travel to school together .
+Similarly we can not rule out the possibility that homophily on an unmeasured variable may be generating social clustering ( i.e .
+latent homophily ) .
+Regardless of whether homophily or social contagion generates co-transport , travelling to and from school is clearly a social activity that is commonly shared with friends , and co-travel is an important factor in the social landscape of transport behaviour .
+Friend encouragement did not appear to be involved in simi- larities between ego and friends ' active transport behaviour .
+Friend encouragement did not predict ego behaviour , was not predicted by friends ' behaviour nor did it mediate relationships between the two .
+This contrasts with previous research by Deforche et al .
+( 2010 ) and Hohepa et al .
+( 2007 ) which noted relationships between friend encouragement or social support and transport decisions .
+However these previous studies investigated encouragement of physical activity as a predictor of active transport .
+Relative to physical ac- tivity , active transport is likely to be a less interesting and less status-relevant subject of peer dialogue .
+Thus friend encourage- ment for physical activity may have a greater influence on adoles- cent transport behaviour than friend encouragement for active transport per se .
+Whilst friend encouragement did not predict transport choices , we found strong evidence that parent encouragement did .
+When parents encouraged students to travel via active transport , students were more likely to do so and less likely to travel by car or bus .
+It is notable that this encouragement effect still held even if participants indicated rides from family members were available , which was , unsurprisingly , a strong predictor of car travel .
+The fact that parent encouragement was clustered among friends and predicted trans- port behaviours indicates that it is likely to explain some of the similarities observed in friends ' transport choices .
+It may be that effective encouragement of active transport leads to developing friendships with people who also use active transport .
+Alterna- tively , parent encouragement may reflect perceived safety in the immediate area or socioeconomic status , which may in turn in- fluence transport choices and friendship development .
+The signif- icant prediction of all modes by parent encouragement contrasts with studies which did not find significant relationships between active transport and parent encouragement of physical activity , parent perceptions of neighbourhood safety , or parents ' own active transport ( e.g .
+Babey , Hastert , Huang , & Brown , 2009 ; Hohepa et al. , 2007 ) , see Deforche et al .
+( 2010 ) for an exception .
+The greater effect of parent relative to friend encouragement also makes sense given that parents are around before school when students are making J .
+Long et al .
+/ Journal of Environmental Psychology 41 ( 2015 ) 155e165 163decisions about the travel journey .
+Together with these previous studies , our findings suggest that parent influence may be direct and targeted at transport whereas friends may motivate transport choices less directly , by encouraging fitness and health ( e.g .
+Deforche et al. , 2010 ; Hohepa et al. , 2007 ) .
+In contrast to the other modes , friends ' cycling behaviour remained strongly predictive when secondary homophily variables were accounted for and when only friends who did n't travel together were analysed .
+Whilst it would be unwise to overinterpret these findings given the relatively small sample size ( only 72 par- ticipants often cycled ) the results are consistent with prior research which indicates that cycling is the transport mode most likely to be subject to peer influence .
+Panter et al .
+( 2010 ) noted that cycling was related to perceived encouragement from friends in UK children , albeit only from short distances to school .
+Further , qualitative work with avid adolescent cyclists described social interactions where they deliberately and unintentionally led to friends ' adopting cycling as a means of transport to school ( Orsini & O'Brien , 2006 ) .
+The students interviewed in that study noted that deliberate in- fluence on friends but not wider peers was considered socially acceptable .
+The robust friend effects we find in cycling behaviour corroborate the idea that friends may be an important target for cycling interventions and future research .
+Overall , our results suggest a high degree of clustering in transport behaviour due to a combination of secondary homophily effects and possibly social contagion in friends ' transport behav- iour , particularly cycling behaviour .
+4.2 .
+Implications Our findings have a number of implications for interventions .
+First , friendship groups should be considered in the design of transport interventions .
+Social clustering indicates that broad- brush attempts to reduce car use may find opposition in friend- ship groups where car use is common .
+The reverse is also possible ; having friends who already use walk or cycle may support external attempts to encourage thesemodes .
+Successfully encouraging a few students to walk or cycle may have flow-on effects for that behaviour among a wider group of friends .
+Encouraging cycling behaviour is particularly important as cycling can be used to travel longer distances , increasing the number of people who can travel by active transport , and the range of places that can be reached without requiring the use of public or car transport .
+Third , whilst distance to school and parent encouragement for active transport were not the focus of this paper , our results show they should be considered in intervention work .
+Parent encouragement for active transport accounted for a large amount of the variance in transport choices .
+Interventions targeting parent encouragement or under- lying factors that may contribute to parent encouragement , such as neighbourhood safety , may help to increase rates of active trans- port .
+Where distances to school or the physical environment do not permit active transport then dual mode trips , car sharing and public transport should be important alternatives for reducing commuting-related greenhouse gas emissions .
+Finally , whilst our cross-sectional questionnaire can not estab- lish causation , the dependence of similarities on co-transport journeys supports qualitative work ( Kirby & Inchley , 2009 ; Orsini , 2006 ) indicating that peer walking , cycling or public transport co-travel interventions may be useful for reducing car use .
+For example , promoting shared travel ( by walking , cycling or public transport ) during “ car free days ” may help develop new co-sharing walking , cycling or public transport habits in places where physical climate , infrastructure and distances to school permit active or public transport .
+However these should be accompanied by an evaluation of the efficacy of co-travel approaches as we are unableto determine whether opportunities to share transport with friends has a causal effect on behaviour .
+4.3 .
+Limitations and further research Cross-sectional data are a useful tool for the initial exploration of hypotheses about clustering and the mechanisms of friend influ- ence underpinning any social contagion in behaviour .
+However , our study has a number of limitations .
+First , our study considers a single school in New Zealand .
+The generalizability of our results to other schools and other societies will depend on the pattern of barriers to different transport choices such as walking and cycling infrastruc- ture , climate and travelling distances , and how these correlate with processes of friendship formation and transport choices .
+Second , we could not conclusively separate contagion and homophily explanations , particularly latent homophily effects .
+As argued by Shalizi and Thomas ( 2011 ) it may simply not be possible to claim that social contagion exists in the presence of latent homophily .
+There are latent homophily factors that we did not account for in this study and a range of other social influence mechanisms are possible that we did not explicitly measure in this study .
+For example we only asked about potential influence mechanisms specific to active transport , yet perceptions and in- teractions , such as co-travel , may target other transport modes , or may differ between different active transport modes .
+Further , the mediation analysis does not completely discriminate between homophily and social contagion explanations .
+Longitudinal or intervention studies are needed to assess whether friends ' behaviour , active transport co-travel requests or descriptive norms have a causal role in transport choices and determine whether behaviour similarities arise from contagion , homophily , or other secondary homophily processes that were not measured in this study .
+Our own research at the school involves longitudinal data collection which we hope will be able to answer some of these questions in the future .
+Future research should also pay particular attention to possi- bilities of social contagion or influence in cycling behaviour .
+Cycling is relatively infrequent among adolescents in many countries ( Garrard , 2009 ) and researchers will need to ensure their sample size contains sufficient instances of cycling behaviour to obtain statistical power .
+4.4 .
+Conclusion This study provides an important first step in exploring how transport behaviours may cluster in a social network and the social predictors of transport choices to school .
+Our findings demonstrate that social clustering exists in transport behaviour within a New Zealand high school social network , with particularly strong clus- tering in cycling behaviour .
+Our data are consistent with the idea that descriptive norms or co-travel requests may generate conta- gion , however further research using longitudinal datasets is required to test whether unmeasured homophily explanations do not explain the remaining similarities in friends ' transport behav- iour .
+Cycling behaviour was consistent with stronger social conta- gion effects and future research should pay particular attention to the role of friendships in cycling .
+Finally , parent encouragement was strongly predictive of transport behaviour and may be a particularly effective target to increase rates of active transport among adolescents .
+Acknowledgements Thank you to students who participated in this study and volunteers who assisted with data collection .
+We are also J .
+Long et al .
+/ Journal of Environmental Psychology 41 ( 2015 ) 155e165164grateful to Simon Greenhill for creating a programme to inter- face with the Google maps API to collect distances to school and to Thomas Lumley for pointing us to the sandwich variance estimator and assisting with implementation .
+This project was supported by a Rutherford Discovery Fellowship to Q.D.A , administered by the Royal Society of New Zealand .
+The research was completed as part of the first author 's PhD thesis , supervised by Q.D.A and N.H.Appendix A .
+Supplementary data Supplementary data related to this article can be found at http : // dx.doi.org/10.1016/j.jenvp.2015.01.001.References Ali , M. M. , Amialchuk , A. , & Heiland , F. W. ( 2011 ) .
+Weight-related behavior among adolescents : The role of peer effects .
+PLoS One , 6 ( 6 ) , e21179 .
+Ali , M. M. , & Dwyer , D. S. ( 2010 ) .
+Social network effects in alcohol consumption among adolescents .
+Addictive Behaviors , 35 ( 4 ) , 337e342 .
+Babey , S. H. , Hastert , T. A. , Huang , W. , & Brown , E. R. ( 2009 ) .
+Sociodemographic , family , and environmental factors associated with active commuting to school among US adolescents .
+Journal of Public Health Policy , 30 ( S1 ) , S203eS220 .
+Baron , R. M. , & Kenny , D. A .
+( 1986 ) .
+The moderator-mediator variable distinction in social psychological research : Conceptual , strategic , and statistical consider- ations .
+Journal of Personality and Social Psychology , 51 ( 6 ) , 1173e1182 .
+Baumeister , R. F. , & Leary , M. R. ( 1995 ) .
+The need to belong : Desire for interpersonal attachments as a fundamental human motivation .
+Psychological Bulletin , 117 ( 3 ) , 497e529 .
+Bivand , R. S. ( 2011 ) .
+spdep : Spatial dependence : weighting schemes , statistics and models ( Version 0.5-43 ) .
+Retrieved from http : //CRAN.R-project.org/ package¼spdep .
+Brechwald , W. A. , & Prinstein , M. J .
+( 2011 ) .
+Beyond homophily : A decade of advances in understanding peer influence processes .
+Journal of Research on Adolescence , 21 ( 1 ) , 166e179 .
+Brown , B .
+B. , Bakken , J. P. , Ameringer , S. W. , & Mahon , S. D. ( 2008 ) .
+A comprehensive conceptualization of the peer influence process in adolescence .
+In M. J. Prinstein , & K. A .
+Dodge ( Eds .
+) , Understanding peer influence in children and adolescents ( pp .
+17e44 ) .
+New York , London : The Guilford Press .
+Butts , C. T. ( 2007 ) .
+sna : Tools for social network analysis ( Version 1.5 ) .
+Seattle , WA : Statnet Project .
+Retrieved from http : //statnetproject.org/ http : //CRAN.R-project .
+org/package¼sna .
+Butts , C. T. , Handcock , M. S. , & Hunter , D. R. ( 2007 ) .
+Network : Classes for relational data ( Version 1.3 ) .
+Seattle , WA : Statnet Project .
+Retrieved from http : // statnetproject.org/ http : //CRAN.R-project.org/package¼network .
+Christakis , N. A. , & Fowler , J .
+A .
+( 2008 ) .
+The collective dynamics of smoking in a large social network .
+New England Journal of Medicine , 358 ( 21 ) , 2249e2258 .
+Christensen , P. N. , Rothgerber , H. , Wood , W. , & Matz , D. C. ( 2004 ) .
+Social norms and identity relevance : A motivational approach to normative behavior .
+Personality and Social Psychology Bulletin , 30 ( 10 ) , 1295e1309 .
+Cialdini , R. B. , Reno , R. R. , & Kallgren , C. A .
+( 1990 ) .
+A focus theory of normative conduct : Recycling the concept of norms to reduce littering in public places .
+Journal of Personality and Social Psychology , 58 ( 6 ) , 1015e1026 .
+Cliff , A. D. , & Ord , J. K. ( 1981 ) .
+Spatial processes : Models and applications .
+London : Pion .
+Deforche , B. , Van Dyck , D. , Verloigne , M. , & De Bourdeaudhuij , I .
+( 2010 ) .
+Perceived social and physical environmental correlates of physical activity in older ado- lescents and the moderating effect of self-efficacy .
+Preventive Medicine , 50 , S24eS29 .
+Dishion , T. J. , & Tipsord , J. M. ( 2011 ) .
+Peer contagion in child and adolescent social and emotional development .
+Annual Review of Psychology , 62 , 189e214 .
+Duncan , M. J. , & Mummery , W. K. ( 2007 ) .
+GIS or GPS ?
+A comparison of two methods for assessing route taken during active transport .
+American Journal of Preventive Medicine , 33 ( 1 ) , 51e53 .
+Eisenberg , D. , Golberstein , E. , Whitlock , J. L. , & Downs , M. F. ( 2013 ) .
+Social contagion of mental health : Evidence from college roommates .
+Health Economics , 22 ( 8 ) , 965e986 .
+Fritz , M. S. , Taylor , A .
+B. , & MacKinnon , D. P. ( 2012 ) .
+Explanation of two anomalous results in statistical mediation analysis .
+Multivariate Behavioral Research , 47 ( 1 ) , 61e87 .
+Fujimoto , K. , & Valente , T. W. ( 2012 ) .
+Decomposing the components of friendship and friends ' influence on adolescent drinking and smoking .
+Journal of Adoles- cent Health , 51 ( 2 ) , 136e143 .
+Garrard , J .
+( 2009 ) .
+Active transport : Children and young people .
+VicHealth .
+Retrieved from http : //www.vichealth.vic.gov.au/Publications/Physical-Activity/Active- transport/Active-Transport-Children.aspx .
+Garrard , J. , Rissel , C. , & Bauman , A .
+( 2012 ) .
+The health benefits of cycling .
+In J. R. Pucher , & R. Buehler ( Eds .
+) , City cycling ( pp .
+31e56 ) .
+Cambridge , MA : The MIT Press.de la Haye , K. , Robins , G. , Mohr , P. , & Wilson , C. ( 2010 ) .
+Obesity-related behaviors in adolescent friendship networks .
+Social Networks , 32 ( 3 ) , 161e167 .
+de la Haye , K. , Robins , G. , Mohr , P. , & Wilson , C. ( 2011 ) .
+How physical activity shapes , and is shaped by , adolescent friendships .
+Social Science & Medicine , 73 ( 5 ) , 719e728 .
+Heagerty , P. , Ward , M. D. , & Gleditsch , K. S. ( 2002 ) .
+Windows of opportunity : Window subseries empirical variance estimators in international relations .
+Political Analysis , 10 ( 3 ) , 304e317 .
+Hohepa , M. , Scragg , R. , Schofield , G. , Kolt , G. , & Schaat , D. ( 2007 ) .
+Social support for youth physical activity : Importance of siblings , parents , friends and school support across a segmented school day .
+International Society for Behavioral Nutrition and Physical Activity , 4 , 54e63 .
+International Energy Agency .
+( 2009 ) .
+Transport , energy and CO2 .
+Retrieved from http : //www.iea.org/publications/freepublications/publication/transport2009 .
+pdf .
+IPCC .
+( 2007 ) .
+Working group III report : Mitigation of climate change .
+Cambridge , United Kingdom & New York , NY , USA : Cambridge University Press .
+Retrieved from http : //www.ipcc.ch/publications_and_data/publications_and_data_ reports.shtml .
+Kirby , J. , & Inchley , J .
+( 2009 ) .
+Active travel to school : Views of 10e13 year old schoolchildren in Scotland .
+Health Education , 109 ( 2 ) , 169e183 .
+Lawlor , D. A. , & Chaturvedi , N. ( 2006 ) .
+Treatment and prevention of obesitydare there critical periods for intervention ?
+International Journal of Epidemiology , 35 ( 1 ) , 3e9 .
+Levy , D. A. , & Nail , P. R. ( 1993 ) .
+Contagion : A theoretical and empirical review and reconceptualization .
+Genetic , Social & General Psychology Monographs , 119 ( 2 ) , 235 .
+Line , T. , Chatterjee , K. , & Lyons , G. ( 2012 ) .
+Applying behavioural theories to studying the influence of climate change on young people 's future travel intentions .
+Transportation Research Part D : Transport and Environment , 17 ( 3 ) , 270e276 .
+Long , J. , Harre , N. , & Atkinson , Q. D. ( 2014 ) .
+Understanding change in recycling and littering behavior across a school social network .
+American Journal of Commu- nity Psychology , 53 ( 3e4 ) , 462e474 .
+Lumley , T. , & Hamblett , N. M. ( 2003 ) .
+Asymptotics for marginal generalized linear models with sparse correlations .
+In UW biostatistics working paper series ( Working Paper 207 ) .
+Retrieved from http : //biostats.bepress.com/uwbiostat/ paper207 .
+Lyons , R. ( 2011 ) .
+The spread of evidence-poor medicine via flawed social-network analysis .
+Statistics , Politics , and Policy , 2 ( 1 ) .
+MacKinnon , D. P. , Warsi , G. , & Dwyer , J. H. ( 1995 ) .
+A simulation study of mediated effect measures .
+Multivariate Behavioral Research , 30 ( 1 ) , 41e62 .
+Maibach , E. , Steg , L. , & Anable , J .
+( 2009 ) .
+Promoting physical activity and reducing climate change : Opportunities to replace short car trips with active trans- portation .
+Preventive Medicine , 49 ( 4 ) , 326e327 .
+Maturo , C. C. , & Cunningham , S. A .
+( 2013 ) .
+Influence of friends on children 's physical activity : A review .
+American Journal of Public Health , 103 ( 7 ) , e23ee38 .
+McPherson , M. , Smith-Lovin , L. , & Cook , J. M. ( 2001 ) .
+Birds of a feather : Homophily in social networks .
+Annual Review of Sociology , 27 , 415e444 .
+Mercken , L. , Candel , M. , Willems , P. , & de Vries , H. ( 2009 ) .
+Social influence and selection effects in the context of smoking behavior : Changes during early and mid adolescence .
+Health Psychology , 28 ( 1 ) , 73e82 .
+Moran , P. A .
+( 1950 ) .
+Notes on continuous stochastic phenomena .
+Biometrika , 37 ( 1/ 2 ) , 17e23 .
+Orsini , A. F. ( 2006 ) .
+Triangulation for motivation : Generating plausible diversions for students to invite peers to walk to school .
+Paper presented at the Walk21-VII ‘ The Next Steps ’ : The 7th International Conference on Walking and Liveable Com- munities , Melbourne , Australia .
+Orsini , A. F. , & O'Brien , C. ( 2006 ) .
+Fun , fast and fit .
+Children , Youth and Environments , 16 ( 1 ) , 121e132 .
+Panter , J. R. , Corder , K. , Griffin , S. , Jones , A. P. , & van Sluijs , E. M. F. ( 2013 ) .
+Individual , socio-cultural and environmental predictors of uptake and maintenance of active commuting in children : Longitudinal results from the SPEEDY study .
+International Journal of Behavioral Nutrition and Physical Activity , 10 ( 1 ) , 83e95 .
+Panter , J. R. , Jones , A. P. , & van Sluijs , E. M. F. ( 2008 ) .
+Environmental determinants of active travel in youth : A review and framework for future research .
+International Journal of Behavioral Nutrition and Physical Activity , 5 ( 1 ) , 34e48 .
+Panter , J. R. , Jones , A. P. , van Sluijs , E. M. F. , & Griffin , S. J .
+( 2010 ) .
+Attitudes , social support and environmental perceptions as predictors of active commuting behaviour in school children .
+Journal of Epidemiology and Community Health , 64 ( 01 ) , 41e48 .
+Poulin , F. , Kiesner , J. , Pedersen , S. , & Dishion , T. J .
+( 2011 ) .
+A short-term longitudinal analysis of friendship selection on early adolescent substance use .
+Journal of Adolescence , 34 ( 2 ) , 249e256 .
+Preciado , P. , Snijders , T. A .
+B. , Burk , W. J. , Stattin , H. , & Kerr , M. ( 2012 ) .
+Does prox- imity matter ?
+Distance dependence of adolescent friendships .
+Social Networks , 34 ( 1 ) , 18e31 .
+Prinstein , M. J. , & Wang , S. S. ( 2005 ) .
+False consensus and adolescent peer conta- gion : Examining discrepancies between perceptions and actual reported levels of friends ' deviant and health risk behaviors .
+Journal of Abnormal Child Psy- chology , 33 ( 3 ) , 293e306 .
+R Development Core Team .
+( 2007 ) .
+R : A language and environment for statistical computing ( Version 2.6.1 ) .
+Vienna , Austria : R Foundation for Statistical Computing .
+Retrieved from http : //www.R-project.org/ .
+Robins , G. ( 2013 ) .
+A tutorial on methods for the modeling and analysis of social network data .
+Journal of Mathematical Psychology , 57 ( 6 ) , 261e274 .
+J .
+Long et al .
+/ Journal of Environmental Psychology 41 ( 2015 ) 155e165 165Sainani , K. ( 2010 ) .
+The importance of accounting for correlated observations .
+Physical Medicine and Rehabilitation , 2 , 858e861 .
+Shalizi , C. R. , & Thomas , A. C. ( 2011 ) .
+Homophily and contagion are generically confounded in observational social network studies .
+Sociological Methods and Research , 40 ( 2 ) , 211e239 .
+Simons , D. , Clarys , P. , De Bourdeaudhuij , I. , de Geus , B. , Vandelanotte , C. , & Deforche , B .
+( 2013 ) .
+Factors influencing mode of transport in older adolescents : A qualitative study .
+BMC Public Health , 13 ( 1 ) , 323 .
+Sirard , J. R. , & Slater , M. E. ( 2008 ) .
+Walking and bicycling to school : A review .
+American Journal of Lifestyle Medicine , 2 ( 5 ) , 372e396 .
+Snijders , T. ( 2011 ) .
+Statistical models for social networks .
+Annual Review of Sociology , 37 , 129e151 .
+Sobel , M. E. ( 1982 ) .
+Asymptotic confidence intervals for indirect effects in structural equation models .
+In S. Leinhardt ( Ed .
+) , Sociological methodology ( pp .
+290e312 ) .
+Washington , DC : American Sociological Association.Steg , L. ( 2005 ) .
+Car use : Lust and must .
+Instrumental , symbolic and affective motives for car use .
+Transportation Research Part A : Policy and Practice , 39 ( 2e3 ) , 147e162 .
+Turner , J. C. , Hogg , M. A. , Oakes , P. J. , Reicher , S. D. , & Wetherell , M. S. ( 1987 ) .
+Redis- covering the social group : A self-categorization theory .
+New York : Basil Blackwell .
+Wanner , M. , G€otschi , T. , Martin-Diener , E. , Kahlmeier , S. , & Martin , B. W. ( 2012 ) .
+Active transport , physical activity , and body weight in adults : A systematic review .
+American Journal of Preventive Medicine , 42 ( 5 ) , 493e502 .
+Weng , L.-J .
+( 2004 ) .
+Impact of the number of response categories and anchor labels on coefficient alpha and test-retest reliability .
+Educational and Psychological Measurement , 64 ( 6 ) , 956e972 .
+Wheeler , L. ( 1966 ) .
+Toward a theory of behavioral contagion .
+Psychological Review , 73 ( 2 ) , 179 .
+W€olfer , R. , Cortina , K. S. , & Baumert , J .
+( 2012 ) .
+Embeddedness and empathy : How the social network shapes adolescents ' social understanding .
+Journal of Adolescence , 35 ( 5 ) , 1295e1305 .

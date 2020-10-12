@@ -1,0 +1,788 @@
+Popa_WorldPolitics_2015_NaNl.pdf
+aJ4cogxLly3QQgCB_fC6NjONQrWW-Popa_WorldPolitics_2015_NaNl.pdf.plain.html
+
+ElitEs and Corruption a theory of Endogenous reform and a test using British data By MirCEa popa* I .
+IntroductIon tHis article seeks to explain how effective anticorruption reform can be enacted in a country using the example of Britain in the eighteenth and nineteenth centuries .
+Empirical research efforts that use corruption as the dependent variable have , for the most part , taken two paths : cross-country studies1 and studies of small-scale variation in corruption , often in the context of a natural or field experiment.2 i take a third approach by looking at large-scale changes in the level of corruption in a single country .
+this kind of variation is most relevant for the policy question : What are the conditions under which a govern- ment would implement broad anticorruption reforms ?
+Clear , endogenous transitions from corruption to reform are rare in the data .
+the case of Great Britain in the late eighteenth and early nineteenth centuries , however , is an exception .
+an extensive literature in comparative political economy looks at the historical experience of Britain when discussing institutional evolution , perhaps because the gradual and peaceful changes that the country engaged in during the modern period are seen as especially successful .
+douglass north and Barry Weingast3 and david stasavage4 concentrate on the emergence of parliamentary control over aspects of public policy ; daron acemoğlu and James robinson,5 as well as alessandro lizzeri and nicola persico,6 * Many thanks to those who have offered comments and help with this project , including James robinson , torben iversen , adam Glynn , and seminar participants at Harvard university , new York university , toulouse school of Economics , and the 2011 american political science association an- nual meeting .
+1 treisman 2007 ; Fan , lin , and treisman 2009 ; persson , tabellini , and trebi 2003 ; aidt 2009 .
+2 di tella and schargrodsky 2003 ; olken 2007 ; Fisman and Miguel 2007 .
+3 north and Weingast 1989 .
+4 stasavage 2002 ; stasavage 2003 .
+5 acemoğlu and robinson 2006 .
+6 lizzeri and persico 2004 .
+World Politics 67 , no .
+2 ( april 2015 ) , 313–52 Copyright © 2015 trustees of princeton university doi : 10.1017/s0043887115000040 ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. ABSTRACT Eighteenth-century Britain displayed patterns of corruption similar to those of developing countries today .
+Reforms enacted in the late eighteenth and early nineteenth centuries eliminated many of these patterns .
+This article develops a theoretical argument that seeks to explain why the British elite enacted anticorruption reforms and provides evidence using a new data set of members of the House of Commons .
+The author argues that the shock that pushed the British elite from preferring the old corrupt regime to preferring the reformed one was an increase in government spending and a corresponding increase in the costs of tolerating corruption .
+Features unique to Britain allowed the reformist outcome to emerge and illuminate why such an outcome is difficult to achieve in general .
+314 world polItIcs 7 Cox 1987 .
+8 rubinstein 1983 ; Harling 1996 ; Chester 1981. analyze franchise extension through the reform Bills of 1832 and 1867 ; and Gary Cox7 looks at the emergence of modern party organizations that led to the preeminence of the executive over the legislature .
+i argue that in addition to these three institutional transformations , the reduc- tion of corruption in public administration is another crucial change in the British institutional structure , and it too offers lessons that go beyond its own case .
+so far scant attention has been paid by political scientists to this topic , and the body of work that does exist , by histori- ans , tends to be descriptive rather than analytic.8 i analyze this important instance of institutional change in Britain taking into consideration the relevance of the case for wider theoretical and empirical inquiries .
+there are three components of the analysis : a qualitative description of the corrupt system , reforms , and circum- stances surrounding them ; a theoretical argument for the occurrence of the reforms based on rational utility maximization on the part of all members of the elite ; and quantitative evidence that supports the theoretical construct .
+i begin the argument by showing that eighteenth-century Britain had , using any reasonable definition , an abundance of corruption that was greatly reduced by the third decade of the nineteenth century .
+the British case is interesting because the changes came in a period in which electoral constraints were kept constant and , as i will argue , when war pressures were also relatively unimportant .
+the end of “ old corruption ” was an intraelite process that came about because of parliamentary and executive decisions that transformed the administrative system and the nature of public office .
+the analytic framework i develop argues that the conditions that existed among the British political elite in the late 1700s/early 1800s were such that the shock from increased gov- ernment activity during the wars against the american colonies and against France led to the replacement of the old corrupt system with a reformed one .
+the empirical test of the theoretical arguments and alternative explanations relies on a newly collected data set of members of the House of Commons ( hereafter referred to as the House ) .
+this article contributes to the literature on institutional change by analyzing the disappearance of an institutional outcome that has proven to be highly resilient in other settings .
+in the theoretical frame- work , change occurs as a result of the elite ’ s response to changing ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. elItes and corrup tIon 315 9 acemoğlu and robinson 2006 .
+10 lizzeri and persico 2004 .
+11 Besley and persson 2009 .
+12 tilly 1992 .
+13 Besley and persson 2009 .
+14 Huntington 1968. external conditions , rather than as a result of popular pressure .
+the ar- gument therefore is a complement to acemoğlu and robinson ’ s9 clas- sic model of franchise extension as a result of revolution pressures .
+it also complements the work of lizzeri and persico10 that shows that inefficiencies in government activity are caused by the electoral in- centives of politicians and , therefore , an increase in inefficiency leads to the reform of electoral incentives .
+in a similar tradition , timothy Besley and torsten persson11 present a formal model in which the inef- ficient institutional setup is low state capacity , that is , the capacity to tax and to enforce contracts , and higher capacity is achieved as a result of past decisions by those in power to invest in such capacity .
+i argue that inefficiencies can also arise from the “ technology of production ” of government goods and , therefore , an increase in inefficiency can lead to reform of the technology .
+as in Charles tilly ’ s12 classic theory , war is the factor that changes the relative costs of different institutional setups , a factor that is also discussed by Besley and persson.13 II .
+old corruptIon : BrItaIn In the eIghteenth and early nIneteenth centurIes Features oF the corrupt system samuel Huntington14 was among the first to point out that the devel- oped and relatively uncorrupt countries of the current era were corrupt in the past .
+the argument that corruption was a central part of the British political system in the eighteenth century is developed below .
+simply put , before the nineteenth century , public office in Britain was for many officials a source of private profit first and foremost , even if the letter of the law indicated otherwise and in spite of the fact that such behavior was often condemned .
+there are many aspects of the British political and administrative systems of the time that could be given as examples of their corrupt nature .
+i group them in four cat- egories : sinecures , the nature of public office , government contracts , and bribery .
+the discussion focuses primarily on the central govern- ment rather than local government , which was primarily responsible ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. 316 world polItIcs for providing relief for the poor , maintaining order , and maintaining roads.15 unfortunately , there is little information on corruption at the local level .
+the elements described below fit the widely accepted defi- nition of corruption as the abuse of public power for private gain .
+More precisely , they describe a climate in which officials used their power to control the provision of governance goods in order to extract rents from other members of society .
+sInecures the principle of patronage in public appointments was universal in Britain and would not be replaced with competitive appointments until the second half of the nineteenth century.16 some public office patronage appointments , however , were criticized more than others .
+so-called sinecures—jobs without any real responsibilities—were rou- tinely awarded by governments to friends , family , and those who could provide political support in parliament .
+some of the most obvious sinecures were the ancient positions at the royal court : chamberlains , Grooms of the royal Bedchamber , and the Master of the Buckhounds , among others .
+those appointed to these positions did not perform the menial jobs the titles allude to , but merely collected substantial sums from the government purse .
+less obvious were positions that were as- sociated with real government activities but were clearly not meant to be performed by the title holder : comptrollers and auditors of various government functions are typical examples .
+there is controversy over what constituted a sinecure , so it is difficult to establish how many there were and how much they cost .
+However , a rough estimate of the number of major sinecures in the administration was one to two thou- sand.17 it is likely that the amount of money wasted in this manner was not large as a share of total spending , but the symbolic nature of sine- cure made it a prime target for reformers .
+access to sinecures , while not openly discussed , was seen by many as a normal perk of political power ; governments were expected to reward their supporters in par- liament with such positions.18 the nature oF puBlIc oFFIce More fundamental than the outrageous but limited case of sinecures was the general perception of public office as private property to be 15 lindert 2004 ; Bogart 2005 .
+16 Chester 1981 .
+17 Foord 1947 .
+18 namier 1957 is a classic account of how the patronage system worked .
+ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. elItes and corrup tIon 317 used for enrichment by government officials , often in spite of laws stat- ing otherwise .
+using evidence from norman Chester,19 the main fea- tures of the eighteenth-century administrative system can be distilled as follows : Public office was a form of property .
+a position in an administration , once awarded , was de facto the property of the holder for life , even though nominally , by 1780 , most offices were awarded at pleasure by the executive .
+Public offices were bought and sold .
+public officials could sell the of- fice they had under control to an interested party , or they could sell the reversion of the office , that is , they could set up a contract that trans- ferred the office to a new holder when the old holder died .
+this meant that offices were often not only given away for life but in perpetuity , even though there were statutes clearly prohibiting such practices .
+For example , in 1725 the lord Chancellor thomas parker was impeached for selling an office and fined £30,000 , but the penalties did not pre- vent the practice from continuing .
+Remuneration was comprised of fees in addition to salary .
+Most govern- ment officials , with the exception of cabinet members and the sine- curists who did not perform any activity , earned the vast majority of their income not from their salary , which was often low , but from the fees collected from citizens whenever the official or his subordinates interacted with them .
+if demand for a given activity increased , then an officeholder would commonly hire more subordinates on his own , using fees collected for their service , to respond to the demand .
+in the military , officers received a sum from the government to pay for sol- diers and provisions ; what they did not spend they could take as their profit .
+the officeholder was , in practice , an entrepreneur optimizing the provision of government goods in order to maximize income .
+the corrupt character of the fee system is that levels were not generally established by law , but rather were based on usage .
+in addition to the legitimate fee , Chester notes that gratuities were also required at times .
+the gratuity could be paid for “ civility , favour , or extra service , but it could also purchase undue preference. ” the fact that very senior government officials were subjected to par- liamentary inquiries and impeachment votes for bribery and peculation suggests that bribery and embezzlement were present at the highest levels .
+the case of lord Melville , the secretary of war , is the most fa- 19 Chester 1981. ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. 318 world polItIcs mous .
+one of the most important members of William pitt ’ s cabinet , lord Melville was impeached for embezzling of public funds—due to some £90,000 received from unknown sources that had passed through his hands as a government minister but were not accounted for.20 He was acquitted in the impeachment trial in the House of lords after be- ing censured in the House of Commons .
+the commander-in-chief of the army , the duke of York , was accused of trafficking army commis- sions with the help of his mistress in 1809. the future foreign secretary , Viscount Castlereagh , was accused of offering some positions in india as electoral bribery , and a group of officials appointed to administer ships captured from the dutch in 1795 was accused of embezzling funds .
+the corruption that reformers were fighting was clearly not only in the form of excessive pay , but also in the form of bribes , extortion , and embezzlement .
+Banking functions were associated with offices .
+one of the consequences of the self-contained , business-like nature of public office was that all money collected from citizens belonged to the officeholder , who col- lected interest on the balance until it was time to pay the Exchequer or other departments .
+Most of these features evolved as the de facto equilibrium outcome rather than being prescribed by laws .
+legal provisions , generally ac- cepted practices , and illegal but tolerated practices blended together to make public office a source of profit for its holder , much like it is in corrupt countries today .
+government contractIng the government ’ s interactions with private entrepreneurs , whether borrowing or spending , did not occur in competitive markets and therefore rents were available to participants .
+Government contracts for buying various goods were not awarded through public tender until 1793 , and political connections played a key role in such pur- chases before then.21 access to government debt was also granted in a noncompetitive fashion—through a direct award from the ministry— until pitt became prime minister and access was gained through market mechanisms.22 20 House of Commons debate 04 July 1805 vol 5 cc737-8 .
+available at http : //hansard.millbank systems.com/commons/1805/jul/04/impeachment-of-lord-melville , accessed september 8 , 2014 .
+21 Foord 1947 ; Brewer 1990 ; Briggs 1959 .
+22 Foord 1947 ; also see Briggs 1959. ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. elItes and corrup tIon 319 BrIBery the fact that elections in this period virtually always involved brib- ing voters or patrons , except in cases where the candidate had his own “ pocket borough , ” is well known.23 a transaction in which a private political entrepreneur pays out of his or her own pocket for some citi- zens ’ votes does not fit the definition of corruption used in my argu- ment , so it will not be analyzed here .
+However , transactions in which a government buys votes with funds from the public purse clearly do fit it .
+the treasury was the most significant source of such bribes and the districts thus controlled were called “ treasury boroughs. ” that public funds were used to buy favorable press is also widely known .
+reForm While some radical writers still doubted as late as the 1830s that the system of old corruption had been eradicated ( John Wade ’ s Black Book volumes are the best example of this literature ) , a less charged analysis indicates that the corrupt system was largely gone by the 1820s .
+not- withstanding the injustices and inequities of British politics and society in the middle of the nineteenth century , there are two types of evidence that show that all of the features of the corrupt system described above had been eliminated or greatly reduced .
+W. d. rubinstein24 provides an interesting piece of quantitative evi- dence for the decline of the corrupt system .
+analyzing the fortune left by British elite at their time of death , he shows that while it had often been the case in the eighteenth and early nineteenth centuries that in- dividuals who had been public officials throughout their lives left im- pressive fortunes , the pattern disappeared between 1830–60 , suggest- ing that the ability of officials to extract extensive rents had decreased in the decades before .
+in addition , it is well established that by the 1820s the executive no longer had at its disposal an extensive system of patronage that allowed it to buy majorities in the House , and that by 1830 , when incumbent prime Minister Wellington lost his race for reelection , it could no longer buy elections .
+in 1819 prime Minister liverpool complained that he could no longer effectively use patron- age to reward friends , and when Wellington became prime minister in 1828 he was “ forcibly struck by the lack of patronage at his disposal. ” 25 23 namier 1957 .
+24 rubinstein 1983 .
+25 Foord 1947. ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. 320 world polItIcs on a more immediate level , there is the undeniable evidence of legislation from 1779–1820 that changed the nature of public office and severely limited the practices described above .
+the reform period begins in 1779 with the emergence of a reformist movement in the House that was closely associated with the political group known as the rockingham Whigs ( followers of Charles Watson-Wentworth , the marquess of rockingham ) .
+leaders of this movement , which in- cluded Edmund Burke , attacked sinecures , the use of civil list money ( the sovereign ’ s funds ) to advance the interests of the Crown and gov- ernment , and the presence of government contractors in the House .
+Bills to prevent government contractors from sitting in the House and to regulate some sinecures were passed .
+in 1780 the House es- tablished its authority to “ examine and correct abuses ” in the use of civil list money .
+Between 1780 and 1787 , a commission appointed by the House to analyze the public accounts published fifteen reports on needed reforms in the administrative system .
+these recommendations can be summed up as arguing in favor of a modern Weberian bureau- cratic system.26 While parliamentary reformist activity decreased in the turbulent 1790s , when the events in France led prime Minister pitt to adopt a more authoritarian regime and the progressive groups op- posed to it were under fire with questions about their legitimacy and loyalty , it increased after 1800 .
+When lord Melville was impeached in 1805 , other inquiries into the behavior of senior government officials followed .
+From 1805–15 , there was an active effort to enact changes in the nature of public office .
+in regard to the characteristics of the cor- rupt system outlined above , the changes , based largely on Chester and archibald Foord , are summarized below.27 the elimination of sinecures was one of the prime goals of reform- ers .
+as early as 1780 , the House of Commons passed bills aiming to eliminate some such positions , and an act promoted by Edmund Burke in 1782 further eliminated some 100 offices .
+the commissioners for public accounts recommended the elimination of sinecure offices but at the same time noted the need to respect the property rights of the holders over their positions , and thus recommended monetary com- pensation as a solution to the problem .
+abolition of sinecure when an office became vacant was achieved through acts of parliament in 1783 and 1798 , and also through the administrative decisions of prime min- isters to no longer fill positions that became vacant upon the death of 26 torrance 1978 .
+27 Chester 1981 ; Foord 1947. ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. elItes and corrup tIon 321 the holder .
+in situations where sinecure was abolished while the of- ficeholder was still alive , adequate compensation was provided by the treasury as either a lump sum or an annuity equal in value to the re- muneration of the office .
+parliamentary pressure to eliminate sinecures intensified after 1805 and in 1813 the House passed a bill to regulate all of them .
+parliamentary committees on sinecure offices in the second decade of the nineteenth century found that the few hundred left were slated to be abolished upon the death of the holder .
+Bills to establish a pension system for civil servants also helped remove the justification for sinecures as a form of pension .
+in 1809–10 pensions for all civil service staff were established , and in 1817 the pension system was ex- tended to political appointees .
+Connected with the sinecure issue , an act was passed in 1809 to prevent the award of office as a bribe .
+successive acts of parliament and the executive also changed the de jure and de facto nature of public office .
+the ability of the officeholder to buy and then dispose of his office as he saw fit was removed .
+an act in 1809 made selling offices illegal , with the notable exception of the army , where buying commissions was the accepted norm as late as the 1850s .
+in 1782 the treasury replaced the fee system with a salary- based system .
+the same change was made by the secretary of state ’ s office in 1795 , the navy board in 1796 , the war office in 1797 , and the admiralty in 1800. the right to exercise by deputy was removed for individual offices by various acts of parliament.28 the removal of bank- ing functions from individual public offices was achieved by joining the numerous accounts of the public administration into a single one—the so-called consolidated fund established by pitt in 1787—at the Bank of England .
+the ability of the executive to provide rents through noncompeti- tive contracting also disappeared .
+after becoming prime minister , pitt began to sell treasury bonds on the open market and introduced com- petitive bidding for government contracts .
+When the war with France commenced in 1793 , the purchase of army and navy provisions was transferred to an independent commission .
+although private individuals paying bribes to voters continued to be the norm until much later , the government ’ s ability to do so was se- verely curtailed in this period .
+Foord details how such bribery became impossible between 1780 and 1820 .
+Burke ’ s Civil list and secret ser- vice Money act of 1782 required that money from the civil list be di- vided into eight designated categories .
+out of these , only one , the privy 28 details in Chester 1981. ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. 322 world polItIcs purse , was the sovereign ’ s private money to be spent as he or she wished .
+secret service money , funds that the sovereign could appropriate to in- dividuals of his or her choosing for services performed , was limited to a very modest £10,000 .
+John Curwen ’ s Bribery act of 1809 made it impossible for the Crown to engage in transactions with borough patrons .
+the executive exercised control over some electoral districts by providing jobs in those districts ( for example , in the navy shipyards ) , rather than through its ability to secretly pay borough patrons .
+there are many other examples of small and incremental reforms of the administrative system in Great Britain , some of which are techni- cal in nature and better left to the historian of public administration .
+this article concentrates on the political conflict over these changes .
+as would be expected , there was much resistance in the House to such changes .
+indeed , the existence of support for reform is what begs ex- planation , and it can only be explained in a limited manner by electoral constraints , which were weak and did not become more binding in the period i consider .
+in addition , votes in the House at the time were not public and there was no official record for posterity of how members of parliament ( mp ) voted .
+as such , an analysis of the political conflict in the House over these reforms must make use of the limited evidence that exists .
+data on some thirty “ divisions ” ( roll-call votes ) in matters that are relevant to this discussion are available , and they serve as a test of the proposed theoretical model .
+these voting records , however , do not reflect the full story of how anticorruption reforms took place in Britain .
+in fact , they do not include some of the most important bills of the reform process , but they do serve as useful tests of hypotheses that emerge from the theoretical model .
+III .
+analytIcal Framework motIvatIon For the analytIcal Framework this section presents some features of the British political and eco- nomic system in the period under analysis that justify the assumptions of the theoretical model .
+polItIcal elIte Britain was an oligarchy in which a small number of men exercised effective influence in public affairs .
+the House of Commons was the arena in which conflicting views among these individuals were resolved , ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. elItes and corrup tIon 323 with the House of lords serving as a veto point for the nobility .
+the large increase in the number of peerages awarded during King George iii ’ s reign , and especially by pitt , meant that the House of lords came to reflect the existing power structure in society .
+( Between 1776 and 1830 , 209 new peerages were created in the House of lords , increasing the membership from 199 to 358 .
+) 29 By holding various public posi- tions that were remunerated , some members of the House of Com- mons had a direct connection with the executive branch ( group a agents for the purpose of the analytical framework ) .
+other members relied on income from other sources , mainly the ownership of assets , whether land or capital .
+relatively few members earned a wage in the private labor market .
+as membership in the House of Commons was not remunerated , there existed a large contingent of individuals who had effective political power but did not earn an income directly from it ; these individuals controlled a majority of the House through the period under analysis .
+BusIness-government connectIons in most contemporary economies , politicians , whether in the executive or legislative branches , can affect the distribution of welfare in society through regulation of various activities .
+an obvious example is the cre- ation of rents in the economy through restrictions in various markets.30 the welfare of economic elites can obviously be affected by these in- terventions .
+the situation gives rise to the possibility of deals in which economic elites tolerate behavior by politicians that , without any com- pensation , would be hurtful to their welfare in exchange for positive treatment from the politicians .
+BusIness-government connectIons In BrItaIn In the eIghteenth and early nIneteenth centurIes in the late 1700s and early 1800s , the economic elite in Britain , com- prised of asset owners and professionals , arguably had less need for professional politicians and government employees in advancing its interests than is the case today .
+the situation was largely due to two factors .
+one is that the economic elite had direct access to political power through the legislature .
+an individual seeking a voice in politics could run ( or pay ) for office on his own without the need to be part of a 29 McCahill 1981 .
+30 Krueger 1974. ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. 324 world polItIcs political party , and perhaps more importantly , without needing to have any special political skills .
+the other , complementary , reason is that the primary locus of rent seeking was the legislature rather than the execu- tive .
+Work by John Brewer31 presents the highly developed system of lobbies put in place in the eighteenth century by asset holders to influ- ence policy in their favor .
+the key aspect of this system of lobbying is that it primarily sought access to parliament rather than to the ex- ecutive or to public administration .
+similarly , Hilton root32 presents a detailed account of how rent seeking functioned in Britain at the time .
+in contrasting it to how rent seeking functioned in France , root argues that the crucial aspect of the British system was the preeminence of parliament , as opposed to the executive , as a venue for advancing such objectives for interested parties .
+the House of Commons could impose tariffs and other taxes and therefore generate rents for the successful lobbies , and it was this House that had to approve any monopoly rights for entrepreneurs .
+Cox33 also emphasizes that before the middle of the nineteenth century , parliament was the main source of legislation and every mp could put forward any bill of his choosing .
+the case of the landowners ’ rent-seeking behavior and achievements is instructive .
+after 1793 , trade limitations with the continent due to the war in- creased agricultural prices .
+in 1804 and again in 1815 , so-called Corn laws were passed that imposed tariffs on the importation of agricul- tural products and aimed to maintain high returns on land.34 these laws were a result of parliamentary action , not action by the executive or public administration officials , and parliament was made up largely of asset owners rather than professional politicians .
+there were groups in the economic elite whose connections to the executive were much more like the ones between business people and politicians today .
+a distinction can be made in the data , albeit an im- perfect one , between economic elites who could advance their interests mainly though their membership in the House ( group c agents ) and those that also needed the executive ( group B agents ) .
+it can be argued that three groups of bourgeois mps were more likely to enjoy a special relationship with the executive : those who were associated with the East india Company , those forming the West indies interest , and those associated with the Bank of England .
+all three groups represented pri- vate companies with deep connections to the executive and public ad- 31 Brewer 1990 .
+32 root 1994 .
+33 Cox 1987 .
+34 Briggs 1959. ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. elItes and corrup tIon 325 ministration .
+( the distinction is imperfect , however , because it is hard to know what the allocation of an individual ’ s assets was between these interests , land ownership , and other kinds of trade . )
+root argues that while parliament had preeminence in internal economic affairs , “ the colonies were , of course , quite another matter .
+they were managed much the way the French ministries regulated the French domestic economy. ” the board of trade , made up of govern- ment ministers and the various ministers that organized colonial policy ( at one time the secretary for the colonies , then the home secretary , and then the war secretary ) , handled legislation for the colonies in a man- ner quite different from constitutional practices in Britain .
+and the Bank of England was a quasi-governmental private institution that had held a monopoly on the government ’ s banking operations since 1694. north , Wallis , and Weingast35 emphasize the dependence of these kinds of asset owners on the government .
+the distinctive feature that separates modern-day political elites from those in nineteenth-century Britain is therefore the existence of a group of independent asset owners and professionals ( group c ) that controlled the legislature .
+the fact that this group formed a major- ity in the House throughout the period under analysis is shown by Gerrit Judd.36 using data from Judd ’ s statistics on mps , it emerges that the independent faction in the House , defined according to the criteria presented below , formed a majority of 65–70 percent throughout the period.37 these calculations , however , probably greatly underestimate the true nature of the dominance of independent asset owners .
+Judd shows that when taking into account the considerable landed interests of mps who are also listed in other categories , “ .
+.
+.
+it appears reason- able to assume that about three-quarters of the 5,034 m.p. ’ s 1734–1832 [ sic ] were mainly concerned with land rather than with other forms of wealth. ” Increase In government outlays the long-run data in Britain show an increase in the amount of gov- ernment spending during the major military confrontations of the late eighteenth century—the wars against the american colonies and against the French .
+after 1775 and especially after 1793 , the increase in government activity , as reflected in increased expenditures and taxation and ballooning public debt , was unprecedented .
+Figure 1 illustrates this 35 north , Wallis , and Weingast 2009 .
+36 Judd 1972 .
+37 popa 2015 , 25 , fig .
+9. ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. by plotting government income and expenditure in this period .
+in the supplementary material to this article , appendix C , Figure 1 , provides more data on the government ’ s finances.38 the historical literature provides ample evidence that the increased government activity during the two wars led to the possibility of in- creased rent extraction by officials .
+Most obviously , officials increased the fees they could charge for performing their activities , which led to growing opposition to such practices from some members of the House .
+Chester39 shows that under the old corrupt system , more government activity automatically resulted in more fees collected and public office being more profitable .
+the profitability of public office became a ma- jor topic of public debate during the american and , especially , French wars and led to calls for reform from the House .
+philip Harling40 simi- larly finds that during the two wars , officials greatly increased their incomes from these higher fees .
+in his analysis , taxpayers became sensitive to the inefficiencies of the administrative system because of the two wars , and the basic premise of reform was that the public would accept paying higher taxes only if the waste due to old corrup- tion was curtailed .
+Earl reitan41 also argues that the main cause of reform was the country ’ s involvement in the two wars , and shows that especially after 1793 , the opportunities for earning fees increased substantially , which opened up new opportunities for corruption .
+Brewer42 states that the increased spending during the american revolution led to calls from mps to reform the nature of public administration , and that old cor- ruption was a phenomenon closely associated with the two wars .
+Eric Evans43 and Foord44 express very similar ideas.45 38 popa 2015 , 19 .
+39 Chester 1981 .
+40 Harling 1996 .
+41 reitan 2007 .
+42 Brewer 1990 .
+43 Evans 2001 .
+44 Foord 1947 .
+45 an interesting question arising from all of these works is why didn ’ t the smaller increases in spending during other eighteenth-century wars lead to similar pressure for reform ?
+a number of key differences between the situation after the 1780s and , say , the seven Years ’ War in the 1750s and ’ 60s , can be identified .
+First , many authors emphasize that losing the american war , which was a novel experience for Britain in the eighteenth century , played a crucial part in the demands for reform .
+the seven Years ’ War , by contrast , was a highly successful enterprise that benefited British economic elites in the long run .
+another point worth mentioning is that , according to Brewer , many of the same demands for reform , such as the elimination of sinecures , were brought forward during the seven Years ’ War ( which fits the logic of my argument ) , but Britain ’ s successful resolution of that war al- leviated that pressure .
+another crucial difference after the 1780s is the fact that it was only in this period that the authority of the House over the executive became undisputed .
+the clearest sign of this 326 world polItIcs ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. FIgure 1 Income and expendIturesa a data from Mitchell 1988 .
+Graph ( a ) shows income and expenditure of the central government , constant 1750 pounds ; ( b ) shows expenditures on civil government , constant 1750 pounds .
+50000 40000 30000 20000 10000 t ho us an ds o f C on st an t 1 75 0 po un ds incomeExpenditure 1740 1760 1780 1800 1820 1840 Year ( a ) 1750 1770 1790 1810 1830 1850 Year ( b ) Expenditures on civil government 4000 3000 2000 1000 0 t ho us an ds o f C on st an t 1 75 0 po un ds elItes and corrup tIon 327 ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. 328 world polItIcs costs oF reForm setting up and running a modern , professionalized bureaucracy carries some costs—the most immediate expenditure is the salaries of govern- ment officials .
+as explained above , an important component of reform was to replace the system that allowed officials to collect fees with one that paid them a fixed salary from the government budget ; the latter system was gradually adopted by all government departments .
+Ches- ter46 offers details on how costly the process was .
+a regulation from 1828 states that public salaries must be comparable to those in the commercial world , and by the second part of the nineteenth century civil-service salaries were high , equivalent to those for similar jobs in banking and insurance .
+in addition , setting up a modern system often requires hiring more public officials—including some to monitor and enforce the new rules .
+in contemporary times , in spite of popular ste- reotypes , relatively uncorrupt countries , such as norway , sweden , and the us , all have a higher percentage of the labor force working for the government ( not including public companies ) than do relatively cor- rupt countries , such as Greece , Mexico , or turkey.47 reform in Great Britain also meant increasing the number of employees in various de- partments .
+the case of the Board of Excise ( the government ’ s tax-gathering de- partment ) , which was one of the first modernized agencies,48 is instruc- tive when compared with agencies under the old system .
+in 1797 the war office and the admiralty were simple operations with fifty-eight and forty-five employees , respectively , while around this time the mod- ernized Excise employed more than 6,500 relatively uncorrupt officials .
+Harling49 confirms this trend .
+By 1827 , the British central govern- ment had more employees and more expenditures than before the war , and none of the increased resources went to additional social-transfer spending .
+spending data50 corroborate this fact .
+Government expendi- tures on civil government more than doubled in real terms throughout the period and they remained high after the wars concluded and the reform period ended .
+( see Figure 1 . )
+authority occurred in 1782 , when for the first time the House removed a sitting prime minister .
+the emergence of opposition to old corruption during the French wars needs less of an explanation , as this war effort was much longer and more costly than any other that occurred in the eighteenth century .
+46 Chester 1981 .
+47 oECd 2011 .
+48 Brewer 1990 .
+49 Harling 1996 .
+50 Mitchell 1988. ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. elItes and corrup tIon 329 analytIcal Framework and predIctIons this section presents a theoretical argument for why corruption can emerge as a natural outcome in a society with little government activ- ity and why modernization and an increase in government activity can lead to two opposing paths—the persistence of corruption or reform .
+the essential insight of the theoretical argument is that corruption is an equilibrium of an interaction between citizens and government offi- cials that ensures the production of government goods while generating rents for officials .
+as government activity increases , rents will increase and corruption will become less tolerable for nonofficials .
+Where the institutional setup and balance of power between officials and nonoffi- cials is such that the latter group can effectively reform the corrupt sys- tem , they will do so when faced with increased rent extraction .
+there is no reason to believe , however , that this can be the case in general , and most corrupt countries very likely do not meet the prerequisites for reform .
+in Britain the situation among the elite was such that reform emerged as an outcome , and the peculiarities of the case illuminate why it will not happen in general .
+the key determinants of the British reformist outcome were the control individuals who did not benefit directly from corruption had over the legislature , and the ability of this group to exert effective control over the executive and the bureaucracy .
+in countries where these are not the case , modernization and increases in government activity simply increase corruption .
+the theoretical argument is fully developed as a formal model in appendix d of the supplementary material51 while its main intuitive features and empirical implications are presented here .
+Consider an elite made up of political and economic players : government officials ( group a ) and economic agents ( group c ) .
+this elite adopts decisions through majority rule .
+the case that is most relevant for the British situation is one where the economic agents hold a majority .
+Each gov- ernment official , acting as an individual profit maximizer , provides a governance good in exchange for payments from other members of so- ciety .
+the members of the elite must decide whether they interact in a corrupt or a reformed system by voting on the two alternatives .
+if corruption is the outcome of the vote , then government goods are provided by the officials conditional on bribe/rent payments to them .
+in a corrupt regime , officials can use their control of the provision of government goods to extract rents , so the outcome will be nonoptimal for other members of society .
+51 popa 2015 , 67–83 .
+ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. 330 world polItIcs if reform is the outcome of the vote , then the behavior of govern- ment officials is constrained in the sense that they are not allowed to maximize their utility from the provision of government goods .
+of- ficials have to provide the goods according to a criterion of social optimality and accept competitive pay for this .
+For this system to be enacted , a cost of enforcement must be paid by everyone else in soci- ety .
+this payment captures the cost of monitoring and enforcing the socially desirable outcome as well as the competitive salaries paid to officials , as discussed above.52 the corrupt system therefore entails transferring rents to officials but has the advantage of not requiring the effort of setting up a mod- ern administrative system .
+Corruption thus emerges as a technology for paying for and producing government goods that might be effi- cient , in a second best sense,53 in a society in which government activ- ity is relatively limited .
+the crucial determinant of whether economic agents prefer corruption or reform in this case is the amount of govern- ment activity .
+When this amount is low , the losses from corruption will not be large enough to warrant paying the cost of reform .
+When the amount of government activity increases , losses also increase , and after some point they might be large enough to justify paying for reform.54 the individualistic , unconstrained nature of the activities of govern- ment officials , justified in the case of Britain described in section ii , means they can not limit the amount of total rent extraction to prevent reform .
+While collectively it might make sense to limit the extent of corruption to a level tolerated by independent agents , any individual agent finds it more worthwhile to maximize his or her own income by engaging in maximal rent extraction .
+if the tax-paying economic agents hold a majority in a legislature deciding on corruption versus reform , as was the case in Britain , then their preference for reforms will lead to the enactment of them .
+a further development of this logic is that some economic agents inside the elite ( group B ) could be dependent on government officials in the sense that they could be punished by officials for voting against 52 the assumption that ( some ) costs are incurred by economic elites rather than being completely passed on to nonelites in the population is justified by the fact that the economic incidence of taxation bears little connection to its legal incidence , and producers therefore always carry part of the costs , regardless of how government revenue is raised .
+53 lipsey and lancaster 1956 .
+54 in the British case , the increase in spending came from the need to fight the two wars , which , for simplicity , can be regarded as exogenous to the dynamics of the model .
+one could argue that the war in america was itself caused by increased taxation by the British government .
+such an argument , however , still points to the conclusion that increases in spending , regardless of their initial motivation , lead to the possibility of more corruption and , therefore , to higher desirability of reform .
+ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. elItes and corrup tIon 331 their interests .
+a situation in which these dependent agents tolerate the corruption of government officials in exchange for avoiding pun- ishment is natural .
+if such an agent is the pivotal voter in the legisla- ture , then the likelihood of reform is lower than when an independent economic agent is pivotal .
+in Britain , the majority of the House was made up of independent economic agents , which led to the reformist outcome when the increased government activity occurred.55 in sum , the logic of reform in Britain presented in this article is that an increase in government spending led to a change in the behavior of the asset owners who controlled the levers of power .
+the system of uncoordinated rent extraction in exchange for the provision of gov- ernment goods that prevailed in the eighteenth century might have entailed officials being able to capture rents , but it had two significant advantages .
+First , the system was self-sustaining ; the need to attract tax or fee payments from citizens induced government officials to provide enough government goods to dissuade those holding ultimate political power , the independent economic agents , from initiating reforms .
+sec- ond , it was cheaper than reform ; the losses for taxpayers under this sys- tem in a society with minimal government activity were small so there was no reason to incur the substantial costs of establishing a modern administrative system .
+the increase in the amount of money that was up for grabs during the wars meant that officials were able to extract more rents than before , and due to the individualistic , uncoordinated nature of the rent-extraction process , its overall extent could not be limited by government officials , which made other elites take action to reform the system .
+the formal presentation of the model in appendix d of the supplementary material clarifies this argument in the context of an infinitely repeated game between members of the elite in which corruption is a subgame perfect equilibrium at low levels of govern- ment spending but , as government activity increases , tolerating cor- ruption is no longer equilibrium behavior for independent economic agents ( group c ) .
+the theoretical argument can explain why modernization and in- creases in government activity led to reforms in Britain but not in many other countries .
+For an increase in government activity to lead 55 there did exist an obvious interest on the part of the executive in turning members of the House into dependent agents , whether as a- or B-type agents .
+However , the independent majority of the House acted to prevent this , most immediately through the place act of 1742 , which sought to prevent “ placemen ” —individuals who held executive positions—from serving in the House , as well as through the prohibition , starting in 1779 , of government contractors from becoming members of the House .
+ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. 332 world polItIcs to reform two conditions are needed .
+First , the relevant group of tax- payers needs incentives to enact such reform .
+in many contemporary legislatures , for example , the median legislator will be either a profes- sional politician ( group a ) or a dependent business person ( group B ) .
+such agents are less likely to react to increasing opportunities for cor- ruption by demanding reform .
+second , if a relevant group of taxpayers—either the legislature or , much more likely in a contemporary system , the electorate as a whole— has an incentive to pursue reform , then it should be able to turn that desire into effective policy .
+this ability can be conceptualized as a part of the cost of reform .
+When the cost is higher , the likelihood of reform is lower .
+if the relevant group is comprised of legislators , it must have the ability , legally and practically , to exercise control over the executive and the bu- reaucracy .
+there are a number of ways for this condition to fail .
+First , the existence of party organizations in parliamentary systems tends to undermine the authority of the legislature over the executive.56 sec- ond , weak state capacity can prevent follow-through on decisions made within the political system .
+in Britain , the legislature was able to exert authority over the executive .
+party organizations did not develop until the second half of the nineteenth century,57 and the legislature ’ s domi- nance is most clearly demonstrated by the practice , beginning in 1782 , of removing from office prime ministers who did not have the approval of the House .
+also , it is arguably the case that Britain had enough state capacity to put policies into practice to a significant degree when it chose to .
+Brewer , for example , discusses the high ability of the state to collect revenue throughout the eighteenth century.58 the scenario in which legislators are professional politicians or de- pendent economic elites , and therefore not directly interested in reform , is probably representative of most contemporary corrupt countries .
+in this case , assuming a democratic system , the electorate as a whole is the relevant agent seeking to pursue reform .
+a discussion of the dif- ficulty of achieving reform of corruption through electoral mecha- nisms is beyond the scope of this article , but good treatments of it are found in work by oskar Kurer59 and anna persson , Bo rothstein , and Jan teorell.60 56 Cox 1987 .
+57 Cox 1987 .
+58 Brewer 1990 .
+59 Kurer 2001 .
+60 persson , rothstein , and teorell 2013. ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. elItes and corrup tIon 333 there are three main empirical predictions of the theoretical argu- ment .
+First , as demand for government goods increases , the group of independent economic agents ( group c ) will begin to vote against cor- ruption .
+second , government workers will be in favor of corruption because they always derive rents from the provision of government goods under this system .
+third , dependent economic agents will be less reformist than independent economic agents are because govern- ment officials may punish them for voting for reform .
+in addition , i show that other possible explanations for the reforms in Britain are not supported by the data .
+Iv .
+empIrIcal analysIs this section aims to establish that the main implications of the theoret- ical argument are validated by the data and show that some alternative explanations are not tenable .
+the empirical analysis provides evidence for the evolution of government spending before and during the re- form period , the congruence between the voting patterns of mps and the predictions about these patterns from the theoretical argument , the inability of factors such as electoral competition or threats to regime stability to explain the occurrence of reforms , and the inability of other variables to explain voting patterns in the House .
+any one of these pieces of evidence can not , by itself , prove the theory i present , but to- gether they form a compelling argument in favor of the validity of the theoretical claims .
+data on mps an important part of the empirical analysis relies on the expressed preferences of mps .
+roll-call data from the period under analysis is extremely limited , as meetings of the House were not public and of- ficial lists of votes were not recorded until 1836 .
+Whenever the House divided on a motion , one or more mps , known as tellers , would make lists of those who voted for and those who voted against it .
+only the aggregate results of the vote were kept in the archives ; the lists were not , though some still exist .
+the source of the roll-call data i use is donald Ginter ’ s61 collection of surviving division lists from between 1760–1820 .
+there are , however , limitations .
+First , because not all of the division lists have survived , data on some of the most interesting votes of the period are missing .
+second , because yes and no votes were 61 Ginter 1995. ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. 334 world polItIcs recorded separately , for some divisions only one of the two lists sur- vived in its entirety while the other is only partially available .
+a model seeking to explain these voting patterns needs independent variables relating to the characteristics of the mps expressing the votes .
+Extensive information on the members of the House in this period can be found in the History of Parliament ( HP ) .62 the parts of the HP that are relevant for my analysis are those on the years 1754–9063 and 1790–1820.64 the HP presents biographies of each mp in these periods .
+a sample entry is presented in appendix B of the supplementary ma- terial.65 these biographies are the main source for coding the indepen- dent variables that deal with the individual characteristics of each mp and their electoral district .
+as there are over 1,700 mps in the data set and the relevant texts sum to more than 6,000 pages , manual extrac- tion of the necessary information is prohibitively difficult .
+instead , i employed an automated procedure that has the advantage of transpar- ency and replicability when compared to human coding ; the automated coding criteria are consistently applied to each entry .
+a discussion of the algorithms used to extract the data is available in appendix B of the supplementary material.66 the data set also contains some variables assembled by Judd , who provides lists of merchants , bankers , directors of the Bank of England , nabobs and mps with colonial ties , and manu- facturers .
+For the occupation variable that captures groups a , B , and c , mps have been categorized into occupational groups following categories used by the HP,67 lewis namier,68 and Judd.69 there are eleven occu- pations that correspond to the eleven dummy variables in the empirical models .
+a complete description of the algorithm used can be found in appendix B of the supplementary material.70 group a : government oFFIcIals the two categories in group a are : Military .
+a large number of the elite held some military rank , but for many the rank was obtained in their youth and they did not pro- 62 History of Parliament 1998 .
+63 namier and Brooke 1964 .
+64 thorne 1986 .
+65 popa 2015 , 17 .
+66 popa 2015,13–16 .
+67 namier and Brooke 1964 ; thorne 1986 .
+68 namier 1957 .
+69 Judd 1972 .
+70 popa 2015. ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. elItes and corrup tIon 335 gress to a career in the military .
+therefore only mps who gained the rank of at least colonel in the army and at least rear-admiral in the navy are classified as being part of the military .
+Government officials .
+unlike the other occupation variables , this one can vary over time .
+Each mp is coded as a public official only in the years for which the HP indicates he held a public position .
+all em- ployment related to central or local government is included and mostly symbolic positions , such as sheriff , which were under the local gov- ernment and a natural result of an individual ’ s influence in his home region , are excluded .
+group B : dependent economIc agents it is harder to precisely delimit the mps in group B. Judd presents a list of mps who had investments in the colonial companies and of mps who were associated with the Bank of England , but these individuals also had other business interests that might have mattered more for their strategic behavior than their investments in assets whose returns were directly dependent on the government .
+Findings that indicate that these individuals were on average more likely to vote against reforms than those who were clearly members of group c , would support the logic of the argument .
+the three groups listed under B for the purposes of the empirical model are : India bourgeoisie .
+the members of this group were generally very wealthy and were often called nabobs .
+this variable is coded using the lists provided by Judd .
+West Indies bourgeoisie .
+the individuals that comprise this group had substantial business interests in the Caribbean .
+Bank of England .
+the members of this group are also derived from Judd , who presents a list of bankers in the House and distinguishes be- tween those associated with the Bank of England , a private but quasi- governmental institution , and other bankers .
+group c : Independent economIc agents Group c includes bankers ( not with the Bank of England ) , merchants , manufacturers , and physicians .
+Each is coded using the list from Judd .
+Variables that warrant some discussion are : Lawyers .
+the algorithm for this variable does not rely on legal edu- cation , which many mps had , but instead codes individuals who had been called to the bar ( barristers ) or were listed as solicitors or attor- neys and were not established as merchants , members of the military , manufacturers , or physicians by Judd .
+ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. 336 world polItIcs Landowners .
+Most members of the House held some property in the form of land .
+those who were not listed in any professional category are however considered by Judd and the HP to be in the residual cat- egory of pure landowners who were not involved in business or govern- ment .
+individuals are coded landowner only if they were not part of the other categories when expressing their vote .
+the other individual-level variables have been extracted from the text of the HP .
+the full definition of these variables is presented in ap- pendix B of the supplementary material.71 the first set includes those relating to the personal background of the mp : public school education , university education , grand tour ( a multiyear tour of Europe in youth ) , first son ( birth order was crucial in the social structure of the time ) , and aristocratic title .
+it is also useful to identify mps that were Whigs .
+While it is gener- ally the case that the voting patterns of mps identified the group they belonged to and not that their membership in a group determined their votes , the progressive and anticourt attitudes and the very distinctive ideological characteristics of the Whigs might have affected their vot- ing patterns .
+Variables indicating adherence to the Whig ideology are either membership of the Whig Club or membership of Brooks ’ Club , which was a social club frequented by individuals with Whig views .
+the electoral characteristics of mps ’ constituencies are also impor- tant , as they need to be kept constant when evaluating the effect of oc- cupation on voting patterns .
+these characteristics are indicated by the variables contested election , size of the constituency , and type of franchise .
+the dependent variable is the vote expressed by an mp in one of thirty divisions between 1779 and 1819 that are relevant for my re- search question .
+the data set therefore has an mp-vote format .
+the list of divisions and the justifications for their inclusion in the data set are given in appendix a of the supplementary material.72 a full list of available divisions can be found in Ginter ’ s book.73 in all cases , a 1 for the vote variable corresponds to a pro-reform vote .
+in all there are 7,141 votes expressed by 1,708 mps .
+the data set includes only divi- sions that were explicitly about the topics that were part of the cor- rupt system : sinecures , government contracts , remuneration of public officials , impeachment efforts , and audits of the executive ’ s expendi- tures .
+the first divisions are from the 1779–80 period and relate to the economic reform program whose main promoter in the House was 71 popa 2015 .
+72 popa 2015 , 1 .
+73 Ginter 1995. ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. elItes and corrup tIon 337 Burke .
+divisions on bills to prohibit government contracts from being awarded to members of the House , remove some positions that were considered sinecures , and audit pensions that were secretly handed out by the executive , are included .
+Bills on soliciting public contributions to the executive and for the reduction of sinecures from 1794 and 1797 are also included .
+another set of divisions includes corruption scan- dals involving major government officials after 1805 : the secretary of the navy , lord Melville , commander-in-chief of the army , the duke of York , the future foreign secretary Viscount Castlereagh , and prime Minister spencer perceval .
+a large number of divisions after 1813 on proposals to set up a committee to audit the expenditures from the civil list , which reformers argued were often corrupt in nature , are included , as are divisions on another set of bills explicitly about the abolition of sinecures .
+i include divisions after 1815 that reflect reformist efforts to establish a pension system for officials .
+three divisions on electoral bribery and the sale of offices that were held toward the end of the period under examination are also included ; the last bill in the sample is from 1819. results among the implications of the theoretical argument is that , all else being equal , the group of independent economic agents will tolerate corruption at low levels of government activity but vote against it at high levels .
+( the precise threshold is difficult to compute in any given case , as it requires a monetary estimation of the losses from corruption and other elements of actors ’ utilities , which presents a serious challenge even with contem- porary data ) .
+indeed , virtually all major historical sources agree that the increase in British government spending during the war with the ameri- can colonies ( coupled with the lack of success in this endeavor ) was the trigger for the beginning of the reform efforts in the House , which can be dated around 1779–80 .
+the increase in government spending and in- come after 1775 is illustrated in Figure 1. the evidence relies mainly on the amount of real spending , rather than per capita spending or spend- ing as a share of gross domestic product ( gdp ) , because paying the cost of reforms , captured by the measure of spending on civil government in Figure 1 , is confirmed by the data to behave like a fixed cost that does not trend up with population or gdp after the initial payment .
+in the supple- mentary material , appendix C , Figure 1 , illustrates how the spending series behaves when looking at per capita or share of gdp data.74 74 popa 2015 , 19. ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. 338 world polItIcs taken literally , the analytical framework predicts that at low levels of government activity antireform votes should be expressed by all agents .
+observationally , this means that , in practice , reform motions are never put forward , which was indeed the case before 1779. no bills relating to the kinds of reform i discuss can be found before that in Ginter,75 Julian Hoppit ’ s exhaustive list of failed legislation,76 or in the historical account of administrative reform by Chester.77 this shows that indeed , even though they controlled the House , independent economic agents were content with tolerating corruption at low levels of government activity.78 analyzing the theoretical predictions about how the various groups will vote requires direct analysis of roll-call data .
+the first type of sta- tistical model used to test this aspect of the argument is a logit model in which the main variables of interest are the occupational dummies and the dependent variable is the expressed vote of mps in each motion .
+the data set has an mp-vote format , with one mp possibly expressing votes in more than one motion .
+Control variables are set at their modal/ median value .
+arbitrary autocorrelation and heteroskedasticity inside an mp ’ s votes are allowed through the use of standard errors clustered at the mp level in all models .
+a second model categorizes individuals as belonging to group a , B , or c , according to the description above , and uses these three dummies as the main variables of interest .
+these models accommodate two concerns that might be raised about using the available data to test the argument : the existence of missing votes and the fact that the influence of borough patrons might bias the results .
+mIssIng votes the nature of the roll-call data from Ginter means that in some cases the full data set for a division is not available .
+there are two different types of missingness .
+the first is due to the imperfect recovery of the majority and/or minority lists .
+For some bills , while both the majority and minority lists have been recovered , their tallies do not add up to the voting totals , indicating that some votes were lost or miscoded by either the various sources used by Ginter for recovering the roll calls or by Ginter himself .
+there is no reason to believe that process is cor- related with the independent variables used in this article , so this type of missingness is assumed to be random and will not affect the bias or 75 Ginter 1995 .
+76 Hoppit 1997 .
+77 Chester 1981 .
+78 Fn .
+45 proposes possible explanations for why the american revolution rather than the seven Years ’ War triggered the reforms .
+ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. elItes and corrup tIon 339 consistency of the estimates .
+the second type of missingness is non- random and is due to cases in which only one list has been recovered .
+in the data , reformers ’ names became public more often than anti- reformers ’ names , so the share of the reform vote will be overestimated in the full sample .
+in these cases , the predicted pro-reform vote shares for the various groups will be also overestimated , but the differences in voting behavior between groups will be maintained .
+this kind of miss- ingness does not affect the estimates of marginal effects of the inde- pendent variables on the dependent variable because it is not generated by the independent variables .
+a reduction of the number of no votes in the data set does not change the proportion of the various occupa- tional groups that voted for or against a measure , it merely reduces the sample size .
+to show that the results are not generated by the missing- ness of some no lists , two sets of results on the models are presented .
+the results on the full ( unbalanced ) sample are described in this article , and results on the restricted , balanced sample , which contains both the for and against lists for every motion , is presented in appendix C of the supplementary material.79 the two sets of results are very similar , which indicates that the missingness due to nonrecovery of some lists does not affect the validity of the findings .
+InFluence oF patrons and partIes in most contemporary legislatures , a vote by a legislator might reflect his or her preferences on the issues at hand only to a small extent , with the need to follow the party line as the predominant motive .
+( of course , it could also be the case that legislators join parties that ad- vance their preferences in the first place . )
+When looking at vote data from the late eighteenth and early nineteenth centuries , this is less of a concern because parties in the modern sense did not exist .
+What did on occasion exist was a connection between an mp and the patron of the district that the mp represented , generally the largest landowner in that district .
+if the mp-district patron relationship generated the con- nection between occupational group and voting behavior , then when the relation is analyzed in subsamples where the patrons ’ influence is low or missing , the connection between occupation and voting behav- ior should disappear .
+there are two ways to identify such subsamples .
+First , it is well established that influence depended on the size of the constituency ; the smaller the constituency , the more likely it was under the control of a patron.80 When the analysis is restricted to large con- 79 popa 2015 , 21 .
+80 Briggs 1959. ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. 340 world polItIcs stituencies , the effect of occupational group on voting behavior does not change , which indicates that omitted-variable bias due to patrons ’ influence is not a valid concern , except for group B mps , as will be ex- plained .
+similarly , districts in which elections had been contested were less likely to be under the strong influence of a patron .
+again , results on this subsample will be similar to results on the full sample , so omit- ted-variable bias will be shown not to be a concern .
+another concern about possible omitted variables is that the politi- cal group an mp identified with might have constrained his behavior .
+this is in general difficult to argue , as the political groups identified by the various commentators clearly reflected mps ’ voting patterns , rather than the other way around .
+the crucial reason why parties did not themselves determine mps ’ votes in Britain at the time was that there were no party organizations that could have helped or hindered the reelection of mps .
+nevertheless , in the case of the Whigs , it could be ar- gued that their distinctive ideology acted as a sort of constraint on mps ’ behavior because of the social network that made up the Whig world.81 Controlling for belonging to the Whig group is clearly an example of posttreatment bias because a result of the treatment variable is con- trolled for ( an mp was a Whig mainly because he had certain prefer- ences ; being a Whig didn ’ t determine those preferences ) .
+results where belonging to the Whig group is controlled for are , however , included , and they again do not show a breakdown in the relationship between occupation and voting behavior .
+Figure 2 ( a–d ) presents the predicted vote shares with 95 percent confidence bands for the eleven occupational groups .
+( the correspond- ing models for the balanced sample are presented in appendix C , Fig- ures 3 and 4 , of the supplementary material and show similar results.82 ) in the simplest model , Figure 2 ( a ) , without controls , government and military mps are less inclined toward reform than the coalition of inde- pendent bourgeoisie and landowners , with the groups from the depen- dent bourgeoisie in the middle .
+Figure 2 ( b ) presents the same model while controlling for the electoral characteristics of the mp ’ s district : contested election , size of the constituency , and type of franchise .
+this model is instructive because of the variation in voting patterns that can not be explained by electoral constraints .
+again , government and military mps were less favorable to reform than merchants , landowners , and other members of group c , with the dependent business people 81 Mitchell 2005 .
+82 popa 2015 , 21. ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. elItes and corrup tIon 341 somewhere in the middle .
+the third set of results , Figure 2 ( c ) , presents a model in which the personal characteristics of the mp are added as additional controls .
+these controls fail to affect the general relation be- tween the occupational groups and voting behavior .
+the fourth set of results , Figure 2 ( d ) , adds two additional controls for belonging to the Whigs .
+While these controls generate posttreatment bias , adding them does not remove the general trend in the results .
+looking specifically at groups a , B , and c , Figure 3 ( a–d ) presents 0 .1 .2 .3 .4 .5 .6 .7 .8 .9 1 0 .1 .2 .3 .4 .5 .6 .7 .8 .9 1 ( a ) ( b ) 0 .1 .2 .3 .4 .5 .6 .7 .8 .9 1 0 .1 .2 .3 .4 .5 .6 .7 .8 .9 1 ( c ) ( d ) FIgure 2 votIng BehavIor By occupatIonal groupa a Controls : ( a ) none , n = 7,141 ; ( b ) electoral , n = 7,141 ; ( c ) electoral and personal , n = 6,977 ; ( d ) elec- toral , personal , and Whig affiliation , n = 6,977 .
+For all graphs , the x axis indicates probability of pro- reform vote with 95 percent confidence intervals .
+all are logit models on unbalanced sample , with standard errors clustered by mp and controls set at modal value .
+Physician Physician PhysicianPhysician ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. 342 world polItIcs results with and without controls , as well as the p-value for equality of coefficients on the estimates of the three groups ’ voting shares .
+these results indicate that group c is always expected to vote in a more re- formist manner than group a , with differences in the range of 20–25 percentage points and highly statistically significant .
+Given the mea- surement error assumed to be present in the data , these differences are important .
+Group B mps are in between , and the difference between them and group c mps becomes smaller as controls are introduced .
+0 .1 .2 .3 .4 .5 .6 .7 .8 .9 1 0 .1 .2 .3 .4 .5 .6 .7 .8 .9 1 ( a ) ( b ) 0 .1 .2 .3 .4 .5 .6 .7 .8 .9 1 0 .1 .2 .3 .4 .5 .6 .7 .8 .9 1 ( c ) ( d ) FIgure 3 votIng BehavIor oF groups a , B , and c a a Controls : ( a ) none , n = 7,141 ; ( b ) electoral , n = 7,141 ; ( c ) electoral and personal , n = 6,977 ; ( d ) electoral , personal , and Whig affiliation , n = 6,977 .
+For all graphs , the x axis indicates probability of pro-reform vote with 95 percent confidence intervals .
+all are logit models on unbalanced sample , with standard errors clustered by mp and controls set at modal value .
+A A A A p–val ( A=B ) : .00 p–val ( A=B ) : .00 p–val ( A=B ) : .02 p–val ( A=B ) : .00 p–val ( B=C ) : .04 p–val ( B=C ) : .68 p–val ( B=C ) : .00 p–val ( B=C ) : .16 p–val ( A=C ) : .00 p–val ( A=C ) : .00 p–val ( A=C ) : .00B B B B C C C C p–val ( A=C ) : .00 ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. elItes and corrup tIon 343 Given that the measure of belonging to group B can not distinguish mps who also had other business interests and therefore would better be categorized as group c , this is to be expected .
+However , a clear dif- ference does exist between the colonial merchants and their counter- parts without colonial interests , as seen in Figure 2 ( a–d ) .
+this finding shows that individuals who had some business interests that were de- pendent on the government voted in a less reformist fashion than their counterparts .
+For example , in Figure 2 ( c ) where electoral and personal characteristics are controlled for , the differences between india or West indies merchants and regular merchants are always significant at the .00–.02 level .
+another explanation for why B players appear to vote in a more reformist fashion than a players , taking into account the omitted variable of influence at the district level , is offered below .
+to check whether the preferences of district patrons are an omitted variable driving these results , the analysis can be restricted either to only large constituencies or only constituencies where the election had been contested .
+Figure 4 ( a ) presents the results for the sample of large constituencies in a model in which electoral and individual character- istics are controlled for ( the results without controls are similar ) .
+the difference between groups a and c is maintained , which shows that it 0 .1 .2 .3 .4 .5 .6 .7 .8 .9 1 0 .1 .2 .3 .4 .5 .6 .7 .8 .9 1 ( a ) ( b ) FIgure 4 electoral and personal controls oF groups a , B , and c a a sample : ( a ) large constituencies , n = 2,375 ; and ( b ) competitive constituencies , n = 2,082 .
+For both graphs , the x axis indicates probability of pro-reform vote with 95 percent confidence intervals .
+Both are logit models on unbalanced sample , with standard errors clustered by mp and controls set at modal value .
+A A p–val ( A=B ) : .89 p–val ( A=B ) : .05 p–val ( B=C ) : .05 p–val ( B=C ) : .07 p–val ( A=C ) : .00 p–val ( A=C ) : .00B B C C ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. 344 world polItIcs was not generated by the interests of borough patrons influencing both the mps elected in their districts and their voting patterns .
+in this case , group B is more similar in behavior to a than to c. this change sug- gests that when unconstrained by the interests of their district patrons , members of group B were more likely to oppose reform than the full- sample models suggest .
+Group B mps arguably depended more than the other groups of mps on patrons ’ influence for their election ; they were often individuals who had lived abroad for a long time or who lived in london and generally did not have a natural home constituency whose votes they could win without the help of a patron .
+Figure 4 ( b ) presents taBle 1 relatIon Between BIographIcal and electoral varIaBles , and pro-reForm votes Model Model Model Model Model Model Model Model Model Model Pro-Reform Vote 1 2 3 4 5 6 7 8 9 10 Bourgeoisie .060 .103 ( .63 ) ( .39 ) aristocrat .024 –.369 ( .85 ) ( .76 ) university .091 .055 ( .47 ) ( .64 ) public school .174 .171 ( .16 ) ( .16 ) Grand tour .050 .033 ( .87 ) ( .91 ) First son .108 .119 ( .38 ) ( .31 ) Contested elect .
+.226 .260 ( .04 ) ( .01 ) large const .
+1.376 1.38 ( .00 ) ( .00 ) Medium const .
+.725 .823 ( .07 ) ( .03 ) small const .
+.483 .521 ( .19 ) ( .15 ) Constant –.222 .110 –.211 .157 –.377 –.015 –.269 .067 –.993 –.679 ( .00 ) ( .11 ) ( .00 ) ( .02 ) ( .00 ) ( .00 ) ( .00 ) ( .30 ) ( .00 ) ( .05 ) Balanced samp .
+yes no yes no yes no yes no yes no n 5,776 7,141 5,776 7,141 5,640 6,977 5,776 7,141 5,776 7,141 pseudo-r2 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.03 0.03 logit regressions with standard errors clustered at the mp level ; p-values in parentheses ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. elItes and corrup tIon 345 the same model on the sample of competitive elections—situations in which influence was less important .
+again , the difference between the voting patterns of group a and group c is clear , and group B sits some- where in the middle .
+other possible explanations of voting behavior in the sample are also analyzed to show that they are not valid models of the observed data .
+to test some of these hypotheses , table 1 presents logit regres- sions of the voting dummy on a number of predictors .
+the first set of theories that could be argued to explain the reforms have to do with the emergence of the bourgeoisie as an important political player , and the conflict between the aristocracy and the bourgeoisie .
+By its nature , corruption has a premodern aspect to it , and the relationships of pa- tronage and extraction that it entails are not unlike the feudal relations between the various strata of the aristocracy and commoners .
+a new class of business people would not be expected to be in favor of a system of extraction by politicians if it was not somehow brought into that sys- tem , so a reasonable hypothesis would be that the rise of the bourgeoisie meant the appearance of a class that was opposed to corruption .
+as the theoretical argument shows , this is not the case if the business class can be brought into the corrupt system by being offered protection for their rents in exchange for tolerating corruption .
+indeed , in spite of the intellectual tradition arguing in favor of its importance , the bourgeoisie versus aristocracy dichotomy fails to gen- erate any traction when explaining the observed events in the data .
+in table 1 , models 1 and 2 show that a simple dummy for bourgeoisie ( coded as 1 if the mp was a merchant , india/West indies bourgeois , banker , lawyer , manufacturer , or physician ) is not at all significant in predicting observed voting patterns .
+Why this is the case should be ob- vious from the argument advanced in this article .
+individuals in these categories varied widely in how much they benefited from the corrupt system , with colonial business people and bankers in the Bank of En- gland in relationships with the executive that made them unlikely to challenge politicians ’ privileges .
+similarly , models 3 and 4 show that a dummy for an mp who is an aristocrat fails to predict voting behavior .
+Why this is the case should also be obvious .
+Far from being a unitary group , the aristocrats varied in their relationships to the corrupt sys- tem , ranging from professional politicians or sinecurists to the great landowners opposed to politicians ’ privileges .
+the second set of theories that can be tested relates to the mps ’ per- sonal backgrounds .
+mps varied in their exposure to education and the world beyond Britain , as well as in their status—related to their birth ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. 346 world polItIcs order—in life .
+Models 5 and 6 show that these personal background variables fail to explain voting patterns in any meaningful way ( the first-son dummy is also not significant on its own ) .
+the fact that electoral constraints influenced mps ’ reform votes is not a surprise .
+in the models in which the impact of occupational group on voting is tested , electoral constraints need to be kept constant to explain the variation in reform preferences generated by citizens ’ natural desire to limit corruption .
+Models 7 and 8 show that indeed mps that had en- tered the House through a contested election were more likely to vote for reform .
+Models 9 and 10 show that the larger the constituency was the more likely the mp was to vote for reform .
+it is well established that popular opinion mattered more in larger districts , so it is to be expected that mps elected in these districts would be more reformist-minded .
+popular opinion—in the form of revolution pressure—has also been argued to be a cause of the reform.83 the extent of popular revolution- ary movements in Britain during the French revolution is debated .
+Eric Hobsbawm84 argues in favor of the existence of an extensive revo- lutionary movement in Britain at the time , while llewellyn Wood- ward85 argues that the danger of revolution was exaggerated by the ruling class .
+in the revolution pressure approach , fear of French-style revolution led the British elite to enact reforms .
+this view overlooks the extensive intraelite conflict over reform , however , as well as the fact that the reform began some ten years before the French revolution .
+there are two quantitative pieces of evidence against this approach .
+the first is the evolution of interest rates on government debt during this period .
+if investors doubt that a political system will survive , they will ask for higher interest rates to compensate for the increased likeli- hood of government debt being repudiated .
+instead , nominal interest rates on government debt before and throughout the reform period remained at a low and relatively constant level , between 3.5 and 5.9 percent , the latter in a period of high inflation.86 the pattern of inter- est rates in this period corresponds to a situation in which investors came to expect slightly higher average inflation than usual , but is very far from suggesting a realistic concern on the part of contemporaries regarding serious political breakdown in Britain .
+the second is the movement of stock prices ; using them as indica- tors of concern with political developments is an established tradition.87 83 Harling 1996 .
+84 Hobsbawm 1996 .
+85 Woodward 1962 .
+86 Evidence on this presented in popa 2015 , 24 , fig .
+7 .
+87 see Cutler , poterba , and summers 1998 ; Fisman 2001. ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. elItes and corrup tIon 347 Before and throughout the reform period , stock prices in london did not behave differently from the historical norm .
+they rose after the beginning of revolution in France , fell in the late 1790s as taxation increased and trade with the continent was blocked , and recovered to the historical trend.88 this movement is not at all compatible with an expectation of revolution in Britain or of significant violent changes in the economy and polity .
+support for the idea that the intraelite dy- namic rather than external pressure led to reform comes from the lack of an increase in electoral competitiveness in this period .
+Between the 1760s and the 1820s , approximately 25 to 30 percent of districts were contested in every election ; 89 whatever electoral pressure did exist , it was constant throughout the period .
+v. dIscussIon oF the results this article offers an explanation for how Britain came to engage in ad- ministrative reforms to greatly reduce corruption in the late eighteenth and early nineteenth centuries .
+naturally , there can be more than one way to achieve this transformation , including popular uprisings against an exploitative political and bureaucratic class , electoral mechanisms , a more effective judicial system , and so on , and each pathway to reform can have its own logic and prerequisites .
+Britain ’ s case is particularly interesting because the reforms were achieved peacefully , and because they came about without reliance on competitive electoral mechanisms , which often fail to achieve control of corruption .
+it is not a stretch to argue that in their past many contemporary relatively uncorrupt countries have had patterns of patronage and cor- ruption similar to the ones described in this article .
+the widely cited works of thomas Ertmann , Martin shefter , and root90 detail some of these patterns in Western European countries .
+several of these coun- tries have become relatively less corrupt , but it is beyond the scope of this article to analyze these transitions in detail .
+What my argument can help illuminate is why many contemporary developing countries that have the patterns of high government spending and high inef- ficiency from corrupt practices that make reform desirable find it dif- ficult to engage in reform through the same mechanisms as Britain .
+reform through the mechanism presented in this article would not occur if one or more of the preconditions for it fails .
+these 88 Evidence presented in popa 2015 , 24 , fig .
+7 .
+89 popa 2015 , 20 , fig .
+2 .
+90 Ertman 1997 ; shefter 1977 ; root 1994. ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. 348 world polItIcs preconditions are missing in many contemporary developing countries , which may help explain the difficulties they face in enacting reforms , or at least enacting reforms through these mechanisms .
+First , the legis- lature acted as a key promoter of reform in the British case , but would not be expected to play a similar role in most contemporary democra- cies .
+in Britain ’ s relatively noncompetitive and nonprofessionalized political system , most of the House was made up of individuals who were primarily economic actors—groups B and c—rather than profes- sional politicians deriving their incomes mainly from political activi- ties , whether in the executive or otherwise .
+By contrast , when the leg- islature is largely comprised of group a agents or legislators who are tightly linked with such agents through party organizations , which is characteristic of modern systems , it would be predicted to be tolerant of corruption .
+a recent analysis by transparency international91 shows that 85 percent of parliaments in a global sample fail to be watchdogs of corrupt practices in national defense , in obvious contrast to the Brit- ish case .
+second , modern business people can be constrained to be less mil- itantly reformist than they were as a group in the British case .
+Ce- teris paribus , private agents can not benefit from rents extracted by government agents .
+But private agents can trade toleration of rents in exchange for sharing some of them .
+the distinction between group B- and group c-type economic agents is crucial here .
+the existence of group c-type independent economic agents is doubtful in modern eco- nomic and political systems .
+their existence depends on an institu- tional setup in which , first , private business rents are generated largely in the legislature without the involvement of the executive , and second , the economic agents are very directly represented in the legislature .
+Both of these prerequisites fail in most modern cases .
+the existence of party organizations connecting the executive and legislative branches undermines the autonomy of the legislature , and the professionaliza- tion of politics in systems with universal voting means that most mem- bers of the legislature will be group a agents anyway .
+in such condi- tions , the business people outside the legislature almost all belong to group B , which is not conducive to them being agents of reform ac- cording to my argument .
+indeed , in a global survey by transparency international,92 business and the private sector are ranked by respon- dents as only slightly less corrupt than the legislature and civil servants 91 transparency international 2013b .
+92 transparency international 2013a .
+ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. elItes and corrup tIon 349 ( 3.3 points versus 3.6 and again 3.6 on a 1–5 scale . )
+in most contempo- rary contexts therefore , it is likely that increases in government activity , far from leading to reform , would simply lead to more corruption .
+in analyzing the British case , this article also contributes to the debates around modernization theory.93 as pointed out by critics of seymour Martin lipset ’ s original theory , while for many early mod- ernizers economic development tended to be correlated with other positive institutional changes , this pattern is not as straightforward in the contemporary period .
+i propose one reason why an important marker of economic transformation—an increase in government activ- ity—might have led to positive institutional changes for the archetypal early modernizer but does not necessarily lead to similar developments in the contemporary world .
+an immediate policy implication of this argument is that anticorruption strategies in the contemporary world should not rely on the hope of a country following the path of the early Western modernizers and “ graduating ” from corruption as its economy grows .
+supplementary materIal supplementary material for this article can be found at http : //dx.doi.org10.1017 /s0043887115000040 .
+reFerences acemoğlu , daron , and James a. robinson .
+2006 .
+Economic Origins of Dictatorship and Democracy .
+Cambridge , uK : Cambridge university press .
+aidt , toke s. 2009 .
+“ Corruption , institutions , and Economic development. ” Oxford Review of Economic Policy 25 , no .
+2 : 271–91 .
+Besley , timothy , and torsten persson .
+2009 .
+“ the origins of state Capacity : property rights , taxation , and politics. ” American Economic Review 99 , no .
+4 : 1218–44 .
+Bogart , dan .
+2005 .
+“ did turnpike trusts increase transportation investment in Eighteenth-Century England ? ” The Journal of Economic History 65 , no .
+2 : 439–68 .
+Brewer , John .
+1990 .
+The Sinews of Power : War , Money , and the English State , 1688– 1783 .
+Cambridge , Mass .
+: Harvard university press .
+Briggs , asa .
+1959 .
+The Age of Improvement , 1783–1867 .
+london , uK : longmans Green .
+Chester , norman d. 1981 .
+The English Administrative System , 1780–1870 .
+ox- ford , uK : oxford university press .
+Cox , Gary W. 1987 .
+The Efficient Secret : The Cabinet and the Development of Politi- cal Parties in Victorian England .
+Cambridge , uK : Cambridge university press .
+93 lipset 1959 ; rueschemeyer 1992 ; przeworski and limongi 1997. ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. 350 world polItIcs Cutler , david M. , James M. poterba , and lawrence H. summers .
+1998 .
+“ What Moves stock prices ? ” in peter l. Bernstein and Frank J. Fabozzi , eds. , Street- wise : The Best of the Journal of Portfolio Management .
+princeton , n.J. : princeton university press .
+di tella , rafael , and Ernesto schargrodsky .
+2003 .
+“ the role of Wages and au- diting during a Crackdown on Corruption in the City of Buenos aires. ” The Journal of Law and Economics 46 , no .
+1 : 269–92 .
+Ertman , thomas .
+1997 .
+Birth of the Leviathan : Building States and Regimes in Me- dieval and Early Modern Europe .
+Cambridge , uK : Cambridge university press .
+Evans , Eric J .
+2001 .
+The Forging of the Modern State : Early Industrial Britain , 1783–1870 , 3rd ed .
+new York , n.Y. : routledge .
+Fan , simon C. , Chen lin , and daniel treisman .
+2009 .
+“ political decentraliza- tion and Corruption : Evidence from around the World .
+Journal of Public Eco- nomics 93 , no .
+1–2 : 14–34 .
+Fisman , raymond .
+2001 .
+“ Estimating the Value of political Connections. ” The American Economic Review 91 , no .
+4 : 1095–1102 .
+Fisman , raymond , and Edward Miguel .
+2007 .
+“ Corruption , norms , and legal Enforcement : Evidence from diplomatic parking tickets .
+Journal of Political Economy 115 , no .
+6 : 1020–48 .
+Foord , archibald s. 1947 .
+“ the Waning of ‘ the influence of the Crown. ’ ” En- glish Historical Review 62 , no .
+245 : 484–507 .
+Ginter , donald E. 1995 .
+Voting Records of the British House of Commons 1761– 1820. london , uK : Hambledon press .
+Harling , philip .
+1996 .
+The Waning of “ Old Corruption ” : The Politics of Economical Reform in Britain , 1779–1846 .
+oxford , uK .
+: oxford university press .
+History of Parliament .
+1998 .
+Cambridge , uK : Cambridge univeristy press .
+Cd- roM .
+Hobsbawm , Eric J .
+1996 .
+The Age of Revolution 1789–1848 .
+london , uK : Vin- tage Books .
+Hoppit , Julian , ed .
+1997 .
+Failed Legislation , 1660–1800 : Extracted from the Com- mons and Lords Journals .
+london , uK : Hambledon press .
+House of Commons debates ( Hansard 1803–2005 ) .
+available at http : //hansard .millbanksystems.com/ , accessed september 8 , 2014 .
+Huntington , samuel p. 1968 .
+Political Order in Changing Societies .
+new Haven , Conn. : Yale university press .
+Judd , Gerrit p. 1972 .
+Members of Parliament , 1734–1832 .
+north Haven , Conn. : archon Books .
+Krueger , anne o .
+1974 .
+“ the political Economy of the rent-seeking society. ” American Economic Review 64 , no .
+3 : 291–303 .
+Kurer , oskar .
+2001 .
+“ Why do Voters support Corrupt politicians ? ” in arvind K. Jain , ed. , The Political Economy of Corruption .
+london .
+u.K. : routledge .
+lindert , peter H. 2004 .
+Growing Public : Social Spending and Economic Growth since the Eighteenth Century , vol .
+1 , The Story .
+Cambridge , uK : Cambridge university press .
+lipset , seymour Martin .
+1959 .
+“ some social requisites of democracy : Eco- nomic development and political legitimacy. ” American Political Science Re- view 53 , no .
+1 : 69–105 .
+ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. elItes and corrup tIon 351 lipsey , r. G. , and Kelvin lancaster .
+1956 .
+“ the General theory of second Best. ” Review of Economic Studies 24 , no .
+1 : 11–32 .
+lizzeri , alessandro , and nicola persico .
+2004 .
+“ Why did the Elites Extend the suffrage ?
+democracy and the scope of Government , with an application to Britain ’ s ‘ age of reform. ’ ” Quarterly Journal of Economics 119 , no .
+2 : 707–65 .
+McCahill , Michael W. 1981 .
+“ peerage Creations and the Changing Character of the British nobility , 1750–1830. ” English Historical Review 96 , no .
+379 : 259–84 .
+Mitchell , B. r. 1988 .
+British Historical Statistics .
+Cambridge , uK : Cambridge university press .
+Mitchell , leslie G. 2005 .
+The Whig World : 1760–1837 .
+london , uK : Hambledon press .
+namier , lewis B .
+1957 .
+The Structure of Politics at the Accession of George III .
+lon- don , uK : Macmillan .
+namier , lewis B. , and John Brooke , eds .
+1964 .
+The History of Parliament : The House of Commons , 1754–1790 .
+london , uK : secker and Warburg .
+north , douglass C. , John Joseph Wallis , and Barry r. Weingast .
+2009 .
+Violence and Social Orders : A Coneptual Framework for Interpreting Recorded Human His- tory , Cambridge , uK : Cambridge university press .
+north , douglass C. , and Barry r. Weingast .
+1989 .
+“ Constitutions and Commit- ment : the Evolution of institutions Governing public Choice in seventeenth- Century England. ” Journal of Economic History 49 , no .
+4 : 803–32 .
+olken , Benjamin a .
+2007 .
+“ Monitoring Corruption : Evidence from a Field Ex- periment in indonesia. ” Journal of Political Economy 115 , no .
+2 : 200–49 .
+organization of Economic Cooperation and development .
+2011 .
+Government at a Glance .
+paris , France : oECd .
+at http : //www.oecd.org/gov/governmentata glance2011.htm , accessed september 8 , 2014. persson , anna , Bo rothstein , and Jan teorell .
+2013 .
+“ Why anticorruption re- forms Fail : systemic Corruption as a Collective action problem. ” Governance 26 , no .
+3 : 449–71 .
+persson , torsten , Guido tabellini , and Francesco trebbi .
+2003 .
+“ Electoral rules and Corruption. ” Journal of the European Economic Association 1 , no .
+4 : 958–89 .
+popa , Mircea .
+2015. supplementary Material .
+at http : //dx.doi.org10.1017/s004 3887115000040. przeworski , adam , and Fernando limongi .
+1997 .
+“ Modernization : theories and Facts. ” World Politics 49 , no .
+2 ( January ) : 155–83 .
+reitan , Earl a .
+2007 .
+Politics , Finance , and the People : Economical Reform in En- gland in the Age of the American Revolution , 1770–92 .
+new York , n.Y. : palgrave Macmillan .
+root , Hilton l. 1994 .
+The Fountain of Privilege : Political Foundations of Markets in Old Regime France and England .
+Berkeley , Calif. : university of California press .
+rubinstein , W. d. 1983 .
+“ the End of ‘ old Corruption ’ in Britain 1780–1860. ” Past & Present 101 , no .
+1 : 55–86 .
+rueschemeyer , dietrich , Evelyn Huber stephens , and John d. stephens .
+1992 .
+Capitalist Development and Democracy .
+Chicago , ill. : university of Chicago press .
+ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s. 352 world polItIcs shefter , Martin .
+1977 .
+“ party and patronage : Germany , England , and italy. ” Poli- tics & Society 7 , no .
+4 : 403–51 .
+stasavage , david .
+2002 .
+“ Credible Commitment in Early Modern Europe : north and Weingast revisited. ” Journal of Law , Economics , and Organization 18 , no .
+1 : 155–86 .
+——— .
+2003 .
+Public Debt and the Birth of the Democratic State : France and Great Britain , 1688–1789 .
+Cambridge , uK : Cambridge university press .
+thorne , r. G. 1986 .
+The History of Parliament : The House of Commons 1790–1820 .
+london , uK : secker & Warburg .
+tilly , Charles .
+1992 .
+Coercion , Capital , and European States , AD 990–1992 .
+ox- ford , uK : Wiley-Blackwell .
+torrance , John .
+1978 .
+“ social Class and Bureaucratic innovation : the Commis- sioners for Examining the public accounts 1780–1787. ” Past & Present 78 , no .
+1 : 56–81 .
+transparency international .
+2013a .
+Global Corruption Barometer 2013 .
+Berlin , Ger- many : transparency international .
+at http : //www.transparency.org/whatwedo /pub/global_corruption_barometer_2013 , accessed september 8 , 2014 .
+——— .
+2013b .
+Two Thirds of Parliaments Fail to be Watchdogs of Defence Corruption .
+Berlin , Germany : transparency international .
+at http : //www.transparency .org/news/pressrelease/two_thirds_of_parliaments_fail_to_be_watchdogs_of _defence_corruption , accessed april 10 , 2014. treisman , daniel .
+2007 .
+“ What Have We learned about the Causes of Corrup- tion from ten Years of Cross-national Empirical research. ” Annual Review of Political Science 10 : 211–44 .
+Woodward , llewellyn .
+1962 .
+The Age of Reform , 1815–1870 .
+oxford , uK : oxford university press .
+ht tp s : // do i.o rg /1 0 .
+10 17 /S 00 43 88 71 15 00 00 40 D ow nl oa de d fr om h tt ps : // w w w .c am br id ge .o rg /c or e. U ni ve rs ity o f M el bo ur ne L ib ra ry , o n 19 Ju l 2 01 9 at 1 6 : 40 :3 0 , s ub je ct to th e Ca m br id ge C or e te rm s of u se , a va ila bl e at h tt ps : // w w w .c am br id ge .o rg /c or e/ te rm s .
