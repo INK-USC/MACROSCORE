@@ -116,7 +116,7 @@ class AttentionModel(torch.nn.Module):
         output, (final_hidden_state, final_cell_state) = self.lstm(input, (h_0, c_0))
         output = output.permute(1, 0, 2)  # output.size() = (batch_size, num_seq, hidden_size)
 
-        output.to(device)
+        output.to(self.device)
         attn_output, attn_weight = self.attention_net(output, final_hidden_state)
         logits = self.label(attn_output)
 
