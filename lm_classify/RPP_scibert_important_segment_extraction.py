@@ -236,7 +236,7 @@ if __name__ == "__main__":
                         help="Data path which contains training data")
     parser.add_argument("--checkpoint_path", type=str, default="../scibert.tar",
                         help="Checkpoint path which contains the trained model")
-    parser.add_argument("--output_path", type=str, default="../data_processed/RPP_scienceparse_classify_data_with_imp_segments_only.json",
+    parser.add_argument("--output_path", type=str, default="../data_processed/RPP_scienceparse_classify_data_with_imp_segments_only.csv",
                         help="Output path to write the output.")
     args = parser.parse_known_args()[0]
     print(args)
