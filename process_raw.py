@@ -2,14 +2,14 @@ import os, re, json
 from collections import defaultdict, Counter
 from nltk.tokenize import sent_tokenize, word_tokenize
 
-data_source = 'pjson'
+data_source = 'TA1'
 
 if data_source == 'TA1':
-    raw_dir = "./tagtog/tokenized"
+    raw_dir = "./tagtog_annotations/annotations_original/tokenized"
     raw_files = os.listdir(raw_dir)
     raw_files = [r for r in raw_files if r != "0_Labels.txt"]
 
-    metadata = json.load(open("./data/SCORE_json.parsed_rpp"))
+    metadata = json.load(open("./data/SCORE_json.json"))
     filename2id = {r['pdf_filename']:r['paper_id'] for r in metadata['data']}
     metadata = {r['pdf_filename']:r for r in metadata['data']}
 
@@ -26,10 +26,24 @@ if data_source == 'TA1':
         assert len(filename) == 1
         filename = filename[0]
         # as requested, extract features (effect sizes, p-values) around claim4
+
+        claim2 = [r for r in metadata[filename]['claim2_abstract'].split(' | ') if r.count(' ') > 2]
+        claim2_chars = [re.sub('\W', '', r.replace(" ", "")) for r in claim2]
+        claim3a = [r for r in metadata[filename]['claim3a_concretehyp'].split(' | ') if r.count(' ') > 2]
+        claim3a_chars = [re.sub('\W', '', r.replace(" ", "")) for r in claim3a]
+        claim3b = [r for r in metadata[filename]['claim3b_testspec'].split(' | ') if r.count(' ') > 2]
+        claim3b_chars = [re.sub('\W', '', r.replace(" ", "")) for r in claim3b]
         claim4 = [r for r in metadata[filename]['claim4_inftest'].split(' | ') if r.count(' ') > 2]
         claim4_chars = [re.sub('\W', '', r.replace(" ", "")) for r in claim4]
+
         for i in range(len(content)):
             content_i_chars = re.sub('\W', '', content[i].replace(" ", ""))
+            if any([r in content_i_chars for r in claim2_chars]):
+                content[i] = "<<claim2>>" + content[i] # this sentence contains claim4
+            if any([r in content_i_chars for r in claim3a_chars]):
+                content[i] = "<<claim3a>>" + content[i] # this sentence contains claim4
+            if any([r in content_i_chars for r in claim3b_chars]):
+                content[i] = "<<claim3b>>" + content[i] # this sentence contains claim4
             if any([r in content_i_chars for r in claim4_chars]):
                 content[i] = "<<claim4>>" + content[i] # this sentence contains claim4
         

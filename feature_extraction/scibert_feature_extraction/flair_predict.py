@@ -14,12 +14,12 @@ from tqdm import tqdm
 
 metadata = json.load(open("../../data/SCORE_json.json"))
 id2doi = {r['paper_id']: r['DOI_CR'] for r in metadata['data']}
-rppmap = json.load(open("./data/doi_to_file_name_data.json"))
+rppmap = json.load(open("../../data/doi_to_file_name_data.json"))
 rppid2doi = {r['file']: r['doi'] for r in rppmap}
 print(rppid2doi)
 model_num = '1'
 
-tagger = SequenceTagger.load('./flair_models/scibertnew_'+model_num+'/final-model.pt') # load to gpu:0 by default, use CUDA_VISIBLE_DEVICES=x
+tagger = SequenceTagger.load('./model/final-model.pt') # load to gpu:0 by default, use CUDA_VISIBLE_DEVICES=x
 # get name of embedding
 transformer_model_name = '-'.join(tagger.embeddings.name.split('-')[2:])
 print(transformer_model_name)
@@ -38,7 +38,7 @@ elif data_source == 'biomed':
     postfix = '_biomed'
 
 data, curr_data, curr_id = {}, [], None
-with open("data_processed/raw_all"+postfix+".txt", 'r') as f:
+with open("../../data_processed/raw_all"+postfix+".txt", 'r') as f:
     f.readline()
     curr_id = f.readline()[:-1]
     while True:
@@ -56,16 +56,30 @@ with open("data_processed/raw_all"+postfix+".txt", 'r') as f:
 all_pred = {}
 for id, sents in tqdm(data.items()):
     curr_pred = defaultdict(lambda: [])
+    claim2_sents_idx = []
+    claim3a_sents_idx = []
+    claim3b_sents_idx = []
     claim4_sents_idx = []
     for i in range(len(sents)):
         sent = sents[i]
         # for TA1 only: store sent idx that contain claim4
         if data_source == 'TA1':
+            if sent.startswith("<<claim2>>"):
+                sent = sent[10:]
+                claim2_sents_idx.append(i)
+            if sent.startswith("<<claim3a>>"):
+                sent = sent[11:]
+                claim3a_sents_idx.append(i)
+            if sent.startswith("<<claim3b>>"):
+                sent = sent[11:]
+                claim3b_sents_idx.append(i)
             if sent.startswith("<<claim4>>"):
                 sent = sent[10:]
                 claim4_sents_idx.append(i)
         sent = sent.split(' ')
         sentence = Sentence(' '.join(sent))
+        if len(sentence.tokens) > 128 or len(sentence.tokens) <= 1 or sentence.tokens[-1].text not in ['.']:
+            continue
         _ = tagger.predict(sentence)
         pred_spans = sentence.get_spans('ner')
         # for TA1 only: store sent idx that contain effect sizes or p-values
