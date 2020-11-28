@@ -159,41 +159,6 @@ def get_examples_repr(path, train_lm, bert_tokenizer=None):
 
     return examples
 
-# def get_data_iterators_repr(train_lm=False, map_cpu=False):
-#     text_field = tt.data.Field(lower=args.lower)
-#     label_field = tt.data.LabelField(sequential=False, unk_token=None)
-#     length_field = tt.data.Field(sequential=False, use_vocab=False)
-#     offset_field = tt.data.Field(sequential=False, use_vocab=False)
-#
-#     data_path = "./data/repr_segments/repr_segments_data.csv"
-#     bert_tokenizer = None
-#     if args.use_bert_tokenizer:
-#         bert_tokenizer = BertTokenizer.from_pretrained('allenai/scibert_scivocab_uncased', do_lower_case=True, cache_dir='scibert/cache')
-#
-#     examples = get_examples_repr(data_path, train_lm, bert_tokenizer=bert_tokenizer)
-#     train_size = int(0.8 * len(examples))
-#     train_examples = examples[:train_size]
-#     dev_examples = test_examples = examples[train_size:]
-#
-#     train, dev, test = (tt.data.Dataset(ex, [('text', text_field), ('length', length_field), ('offset', offset_field), ('label',label_field)])
-#                         for ex in [train_examples, dev_examples, test_examples])
-#
-#     vocab_path = 'vocab/vocab_repr_segments.pkl' if not args.use_bert_tokenizer else 'vocab/vocab_repr_segments_bert.pkl'
-#     if args.fix_test_vocab and not args.use_bert_tokenizer:
-#         vocab_path = 'vocab/vocab_repr_segments_fix.pkl'
-#
-#     c_postfix = '.repr'
-#     if args.use_bert_tokenizer:
-#         c_postfix += '.bert'
-#     if args.fix_test_vocab:
-#         c_postfix += '.fix'
-#     handle_vocab(vocab_path, text_field, (train, test), args.vector_cache + c_postfix, train_lm, max_size=20000)
-#     label_field.build_vocab(train)
-#     train_iter, dev_iter, test_iter = (
-#         tt.data.BucketIterator(x, batch_size=args.batch_size, device=args.gpu if not map_cpu else 'cpu', shuffle=False)
-#         for x in (train, dev, test))
-#     return text_field, label_field, train_iter, dev_iter, test_iter, train, dev
-
 def get_data_iterators_repr(train_lm=False, map_cpu=False):
     text_field = tt.data.Field(lower=args.lower)
     label_field = tt.data.LabelField(sequential=False, unk_token=None)

@@ -30,6 +30,7 @@ from torch.utils.data import (DataLoader, RandomSampler, SequentialSampler,
                               TensorDataset)
 from torch.utils.data.distributed import DistributedSampler
 from tqdm import tqdm, trange
+from sklearn.metrics import precision_score, recall_score, f1_score
 
 from transformers import BertForSequenceClassification, BertConfig, WEIGHTS_NAME, CONFIG_NAME
 from transformers import BertTokenizer, AdamW, get_linear_schedule_with_warmup
@@ -590,10 +591,14 @@ def main():
 
         eval_loss = eval_loss / nb_eval_steps
         eval_accuracy = eval_accuracy / nb_eval_examples
+        eval_precision, eval_recall, eval_f1 = precision_score(all_truth, all_pred), recall_score(all_truth, all_pred), f1_score(all_truth, all_pred)
         metric = 'accuracy'
         loss = tr_loss/nb_tr_steps if args.do_train else None
         result = {'eval_loss': eval_loss,
                   'eval_%s' % metric: eval_accuracy,
+                  'eval_precision': eval_precision,
+                  'eval_recall': eval_recall,
+                  'eval_f1': eval_f1,
                   'global_step': global_step,
                   'loss': loss}
 

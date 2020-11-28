@@ -30,7 +30,7 @@ if __name__ == '__main__':
 
     iter_map = {'train': train_iter, 'dev': dev_iter, 'test': test_iter}
     if args.task == 'repr':
-        tree_path = './data/repr_segments/trees/%s.csv'
+        tree_path = './data/repr_claims/trees/%s.csv'
     else:
         raise ValueError
 
