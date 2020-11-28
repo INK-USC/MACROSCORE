@@ -11,15 +11,15 @@ from flair.visual.training_curves import Plotter
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Train the flair model")
-    parser.add_argument("--data_dir", type=str, help="Directory of the dataset")
-    parser.add_argument("--output_dir", type=str, help="Output directory to store the model checkpoint")
+    parser.add_argument("--data_dir", type=str, required=True, help="Directory of the dataset")
+    parser.add_argument("--output_dir", type=str, required=True, help="Output directory to store the model checkpoint")
     parser.add_argument("--gpu_device", type=str, default="cuda:0", help="GPU device number to use")
     parser.add_argument("--bert_model_name", type=str, default="allenai/scibert_scivocab_uncased", help="Bert model name")
 
     parser.add_argument("--learning_rate", type=float, default=0.1, help="Learning rate")
     parser.add_argument("--num_epochs", type=int, default=200, help="Number of epochs to train")
     parser.add_argument("--batch_size", type=int, default=32, help="Batch size")
-    parser.add_argument("--max_seq_length", type=int, default=128, help="Maximum sequence length to consider")
+    parser.add_argument("--max_num_tokens", type=int, default=128, help="Maximum number of tokens to consider for each sentence")
 
     args = parser.parse_known_args()[0]
     print(args)
@@ -30,26 +30,26 @@ if __name__ == '__main__':
     bertmodel = BertModel.from_pretrained(args.bert_model_name)
     
     corpus = ColumnCorpus(data_folder=args.data_dir, column_format={0: "text", 1: "ner"},
-                          train_file='train.txt', dev_file='test.txt', test_file='test.txt')
+                          train_file='trainplustest.txt', dev_file='test_new.txt', test_file='test_new.txt')
 
     print(len(corpus.train), len(corpus.dev), len(corpus.test))
 
     # Filter the dataset to remove the sentences that are longer than the max sequence length:
     filtered_sent = []
     for sent in corpus.train:
-        if len(sent.tokens) <= args.max_seq_length and len(sent.tokens) > 1 and sent.tokens[-1].text in ['.']:
+        if len(sent.tokens) <= args.max_num_tokens and len(sent.tokens) > 1 and sent.tokens[-1].text in ['.']:
             filtered_sent.append(sent)
     corpus._train = filtered_sent
 
     filtered_sent = []
     for sent in corpus.dev:
-        if len(sent.tokens) <= args.max_seq_length and len(sent.tokens) > 1 and sent.tokens[-1].text in ['.']:
+        if len(sent.tokens) <= args.max_num_tokens and len(sent.tokens) > 1 and sent.tokens[-1].text in ['.']:
             filtered_sent.append(sent)
     corpus._dev = filtered_sent
 
     filtered_sent = []
     for sent in corpus.test:
-        if len(sent.tokens) <= args.max_seq_length and len(sent.tokens) > 1 and sent.tokens[-1].text in ['.']:
+        if len(sent.tokens) <= args.max_num_tokens and len(sent.tokens) > 1 and sent.tokens[-1].text in ['.']:
             filtered_sent.append(sent)
     corpus._test= filtered_sent
 
