@@ -91,6 +91,24 @@ def cleanText(input_text):
     input_text = input_text.replace("...", "")
     return input_text
 
+def get_parsed_example_repr_ner_from_tree_string(tree_string, bert_tokenizer):
+    tree = Tree.fromstring(tree_string)
+    tokens = tree.leaves()
+
+    if bert_tokenizer is not None:
+        tokens, mapping = convert_to_bert_tokenization(tokens, bert_tokenizer, return_mapping=True)
+
+    example = tt.data.Example()
+    example.text = tokens
+    example.length = len(tokens)
+    example.offset = None
+    example.label = None
+
+    if bert_tokenizer is not None:
+        example.mapping = mapping
+
+    return example
+
 def get_examples_repr_from_trees(path, train_lm, bert_tokenizer=None):
     f = open(path)
     header = f.readline()

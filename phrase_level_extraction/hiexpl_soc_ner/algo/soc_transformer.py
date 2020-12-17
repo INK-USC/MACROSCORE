@@ -1,10 +1,12 @@
 from algo.soc_lstm import *
 from torch.utils.data import (DataLoader, SequentialSampler,
                               TensorDataset)
-from transformers import BertForPreTraining, BertTokenizer
+from transformers import BertForPreTraining, BertTokenizer, BertForTokenClassification
 import torch
-from utils.parser import get_span_to_node_mapping, read_trees_from_corpus_repr
-from utils.reader import get_examples_repr_from_trees
+import torch.nn as nn
+import torch.nn.functional as F
+from utils.parser import get_span_to_node_mapping, read_trees_from_corpus_repr, parse_tree
+from utils.reader import get_examples_repr_from_trees, get_parsed_example_repr_ner_from_tree_string
 import numpy as np
 import copy
 import pickle
@@ -51,6 +53,40 @@ def convert_examples_to_features(examples, max_seq_length, tokenizer):
     return features
 
 
+def convert_examples_to_features_with_textpair(example, input_record, max_seq_length, tokenizer):
+    tokens_a = example.text
+    tokens_b = tokenizer.tokenize(input_record["entity"])
+    mapping = example.mapping
+    if len(tokens_a) > max_seq_length - 3 - len(tokens_b):
+        tokens_a = tokens_a[:(max_seq_length - 3 - len(tokens_b))]
+
+    tokens = ["[CLS]"] + tokens_a + ["[SEP]"] + tokens_b + ["[SEP]"]
+    segment_ids = [0] * (len(tokens_a) + 2) + [1] * (len(tokens_b) + 1)
+    input_ids = tokenizer.convert_tokens_to_ids(tokens)
+    input_mask = [1] * len(input_ids)
+
+    padding = [0] * (max_seq_length - len(input_ids))
+    input_ids += padding
+    input_mask += padding
+    segment_ids += padding
+
+    mapping += [-1] * (max_seq_length - len(mapping))
+
+    assert len(input_ids) == max_seq_length
+    assert len(input_mask) == max_seq_length
+    assert len(segment_ids) == max_seq_length
+
+    label_id = example.label
+
+    features = DotDict(input_ids=input_ids,
+                input_mask=input_mask,
+                segment_ids=segment_ids,
+                label_id=label_id,
+                offset=example.offset,
+                mapping=mapping)
+    return features
+
+
 def bert_id_to_lm_id(arr, bert_tokenizer, lm_vocab):
     tmp_tokens = bert_tokenizer.convert_ids_to_tokens(arr)
     tokens = []
@@ -89,6 +125,202 @@ def get_data_iterator_bert(tree_path, tokenizer, max_seq_length, batch_size, lab
     eval_sampler = SequentialSampler(eval_data)
     eval_dataloader = DataLoader(eval_data, sampler=eval_sampler, batch_size=batch_size)
     return eval_dataloader
+
+
+class BertForNER(BertForTokenClassification):
+    def forward(self, input_ids, token_type_ids=None, attention_mask=None, labels=None, valid_ids=None, attention_mask_label=None):
+        if torch.cuda.device_count() > 0:
+            device = "cuda"
+        else:
+            device = "cpu"
+
+        sequence_output = self.bert(input_ids, token_type_ids, attention_mask, head_mask=None)[0]
+        batch_size, max_len, feat_dim = sequence_output.shape
+        valid_output = torch.zeros(batch_size, max_len, feat_dim, dtype=torch.float32, device=device)
+        for i in range(batch_size):
+            jj = -1
+            for j in range(max_len):
+                    if valid_ids[i][j].item() == 1:
+                        jj += 1
+                        valid_output[i][jj] = sequence_output[i][j]
+        sequence_output = self.dropout(valid_output)
+        logits = self.classifier(sequence_output)
+
+        if labels is not None:
+            loss_fct = nn.CrossEntropyLoss(ignore_index=0)
+            # Only keep active parts of the loss
+            # attention_mask_label = None
+            if attention_mask_label is not None:
+                active_loss = attention_mask_label.view(-1) == 1
+                active_logits = logits.view(-1, self.num_labels)[active_loss]
+                active_labels = labels.view(-1)[active_loss]
+                loss = loss_fct(active_logits, active_labels)
+            else:
+                loss = loss_fct(logits.view(-1, self.num_labels), labels.view(-1))
+            return loss, logits
+        else:
+            return logits
+
+
+class NERInferenceModule:
+    def __init__(self, tokenizer, model, max_seq_length):
+        self.tokenizer = tokenizer
+        self.model = model
+        self.max_seq_length = max_seq_length
+
+        self.label2idx = {}
+        self.idx2label = {}
+        self._create_label_map()
+
+    def _tokenize_sentence(self, cur_sentence_seq):
+        cur_tokenized_sent_seq = []
+        valid_positions = []
+        for cur_word in cur_sentence_seq:
+            tokenized_word = self.tokenizer.tokenize(cur_word)
+            n_subwords = len(tokenized_word)
+
+            for i in range(n_subwords):
+                if i == 0:
+                    valid_positions.append(1)
+                else:
+                    valid_positions.append(0)
+
+            cur_tokenized_sent_seq += tokenized_word
+        assert (len(cur_tokenized_sent_seq) == len(valid_positions))
+        return cur_tokenized_sent_seq, valid_positions
+
+    def pre_process_input(self, input_examples_list):
+
+        features_list = []
+        for cur_input_example in input_examples_list:
+            cur_sentence_seq = cur_input_example.text
+            mapping = cur_input_example.mapping
+
+            tokens, valid_positions = self._tokenize_sentence(cur_sentence_seq)
+
+            if len(tokens) >= self.max_seq_length - 1:
+                tokens = tokens[0:(self.max_seq_length - 2)]
+                valid_positions = valid_positions[0:(self.max_seq_length - 2)]
+
+            # Insert "[CLS]"
+            tokens.insert(0, "[CLS]")
+            valid_positions.insert(0, 1)
+
+            # Insert "[SEP]"
+            tokens.append("[SEP]")
+            valid_positions.append(1)
+
+            # Get ids
+            segment_ids = [0] * len(tokens)
+            input_ids = self.tokenizer.convert_tokens_to_ids(tokens)
+            input_mask = [1] * len(input_ids)
+
+            # Pad till the max_seq_length
+            while len(input_ids) < self.max_seq_length:
+                input_ids.append(0)
+                input_mask.append(0)
+                segment_ids.append(0)
+                valid_positions.append(1)
+
+            # Fill mapping
+            mapping += [-1] * (self.max_seq_length - len(mapping))
+
+            assert len(input_ids) == self.max_seq_length
+            assert len(input_mask) == self.max_seq_length
+            assert len(segment_ids) == self.max_seq_length
+            assert len(valid_positions) == self.max_seq_length
+            assert len(mapping) == self.max_seq_length
+
+            features_list.append({
+                "input_ids": input_ids,
+                "input_mask": input_mask,
+                "segment_ids": segment_ids,
+                "valid_positions": valid_positions,
+                "mapping": mapping
+            })
+
+        return features_list
+
+    def predict(self, input_ids, input_mask, segment_ids, valid_positions, lm_entity_span):
+        with torch.no_grad():
+            logits = self.model(input_ids=input_ids,
+                                token_type_ids=segment_ids,
+                                attention_mask=input_mask,
+                                valid_ids=valid_positions)
+        logits = torch.argmax(F.log_softmax(logits, dim=2), dim=2)
+        logits = logits.detach().cpu().numpy()  # Batch size X Max Seq length
+
+        # Move one index right to account for CLS token at the beginning
+        lm_entity_span = [x+1 for x in lm_entity_span]
+
+        predictions = []
+        for i in range(len(logits)):
+            cur_pred = []
+            for j in lm_entity_span:
+                cur_pred.append(self.idx2label[logits[i][j]])
+
+            tag_name = None
+            flag = 1
+            for j in cur_pred:
+                try:
+                    cur_tag_name = j.split("-")[-1]
+                    if tag_name is None:
+                        tag_name = cur_tag_name
+                    elif tag_name != cur_tag_name:
+                        flag = 0
+                except:
+                    flag = 0
+
+            if flag == 0:
+                tag_name = "INVALID:" + ",".join(cur_pred)
+
+            predictions.append(tag_name)
+
+        return predictions
+
+    def getScore(self, input_ids, input_mask, segment_ids, valid_positions, lm_entity_span, gt_label):
+        with torch.no_grad():
+            logits = self.model(input_ids=input_ids,
+                                token_type_ids=segment_ids,
+                                attention_mask=input_mask,
+                                valid_ids=valid_positions)
+        logits = logits.detach().cpu().numpy()  # Batch size X Max Seq length X Num classes
+
+        # Move one index right to account for CLS token at the beginning
+        lm_entity_span = [x + 1 for x in lm_entity_span]
+
+        # Get the index of the gt_label
+        b_idx = self.label2idx["B-" + gt_label]
+        i_idx = self.label2idx["I-" + gt_label]
+
+        logits_reduced = []
+        for i in range(len(logits)):
+            start = True
+            cur_logit_reduced = []
+            for j in lm_entity_span:
+                if start:
+                    cur_logit_reduced.append(logits[i][j][b_idx])
+                    start = False
+                else:
+                    cur_logit_reduced.append(logits[i][j][i_idx])
+            logits_reduced.append(cur_logit_reduced)
+
+        logits_reduced = np.array(logits_reduced)  # Batch size X Entity span length
+
+        return logits_reduced
+
+    def _create_label_map(self):
+        # Create the label map
+        label_set = ['[PAD]', 'O', 'B-ES', 'I-ES', 'B-PR', 'I-PR', 'B-PV', 'I-PV',
+                     'B-SD', 'I-SD', 'B-SP', 'I-SP', 'B-SS', 'I-SS', 'B-TE',
+                     'I-TE', 'B-TN', 'I-TN', '[CLS]', '[SEP]']
+        # label_set = ["[PAD]", "O", "B-MISC", "I-MISC",  "B-PER", "I-PER", "B-ORG", "I-ORG", "B-LOC", "I-LOC", "[CLS]", "[SEP]"]
+        for idx, val in enumerate(label_set):
+            self.label2idx[val] = idx
+            self.idx2label[idx] = val
+
+    def get_label_map(self):
+        return self.label2idx, self.idx2label
 
 
 class ExplanationBaseForTransformer(ExplanationBase):
@@ -309,10 +541,123 @@ class ExplanationBaseForTransformer(ExplanationBase):
                     phrase_string += " " + cur_token
             phrase_string = phrase_string.strip()
 
+            phrase_string = phrase_string.replace("- lrb -", "(")
+            phrase_string = phrase_string.replace("- rrb -", ")")
             out_list.append([score, phrase_string])
 
         out_list = list(sorted(out_list, key=lambda x: x[0], reverse=do_reverse))
         return out_list
+
+
+    def explain_repr_ner_tc_single(self, input_record, topk=3):
+        input_tree_string = input_record["sentence_parsed_tree"]
+        label_idx = input_record["label_idx"]
+        input_parsed_tree = parse_tree(input_tree_string)
+
+        # Convert inputs to features:
+        input_example = get_parsed_example_repr_ner_from_tree_string(input_tree_string, self.tokenizer)
+        input_features = convert_examples_to_features_with_textpair(input_example, input_record, self.max_seq_length, self.tokenizer)
+        input_ids = torch.tensor(input_features.input_ids, dtype=torch.long).unsqueeze(0)
+        input_mask = torch.tensor(input_features.input_mask, dtype=torch.long).unsqueeze(0)
+        segment_ids = torch.tensor(input_features.segment_ids, dtype=torch.long).unsqueeze(0)
+        input_mappings = torch.tensor(input_features.mapping, dtype=torch.long).unsqueeze(0)
+
+        try:
+            logits = self.model(input_ids=input_ids.cuda(), attention_mask=input_mask.cuda())[0]
+            _, pred = logits.max(-1)
+            pred_label = pred.item()
+
+            inp = input_ids.view(-1).cpu().numpy()
+            mappings = input_mappings.view(-1).cpu().numpy()
+            span2node, node2span = get_span_to_node_mapping(input_parsed_tree)
+            spans = list(span2node.keys())
+            repr_spans = []
+            contribs = []
+            for span in spans:
+                if type(span) is int:
+                    span = (span, span)
+                bert_span = self.map_lm_to_bert_token(span[0], mappings)[0], \
+                            self.map_lm_to_bert_token(span[1], mappings)[1]
+                # add 1 to spans since transformer inputs has [CLS]
+                repr_spans.append(bert_span)
+                bert_span = (bert_span[0] + 1, bert_span[1] + 1)
+                contrib = self.explain_single_transformer(input_ids, input_mask, segment_ids, bert_span, label=label_idx)
+                contribs.append(contrib)
+            s = self.repr_result_region(inp, repr_spans, contribs)
+
+            cur_json_dict = {}
+            cur_json_dict["predicted_label"] = int(pred_label)
+            cur_json_dict["ground_truth_label"] = label_idx
+            if cur_json_dict["predicted_label"] == label_idx:
+                cur_json_dict["important_phrases"] = self.formatPhrases(s, do_reverse=True)
+            else:
+                cur_json_dict["important_phrases"] = self.formatPhrases(s, do_reverse=False)
+        except Exception as e:
+            print(e)
+            cur_json_dict = None
+
+        return cur_json_dict
+
+
+    def explain_repr_ner_seq_single(self, input_record, topk=3):
+        input_tree_string = input_record["sentence_parsed_tree"]
+        gt_label = input_record["label"]
+        input_parsed_tree = parse_tree(input_tree_string)
+
+        if torch.cuda.device_count() > 0:
+            device = "cuda"
+        else:
+            device = "cpu"
+
+        # Convert inputs to features:
+        input_examples = [get_parsed_example_repr_ner_from_tree_string(input_tree_string, self.tokenizer)]
+        features = self.NER_infer_module.pre_process_input(input_examples)[0]
+
+        input_ids = torch.tensor(features["input_ids"], dtype=torch.long, device=device).unsqueeze(0)
+        input_mask = torch.tensor(features["input_mask"], dtype=torch.long, device=device).unsqueeze(0)
+        segment_ids = torch.tensor(features["segment_ids"], dtype=torch.long, device=device).unsqueeze(0)
+        valid_positions = torch.tensor(features["valid_positions"], dtype=torch.long, device=device).unsqueeze(0)
+        mapping = torch.tensor(features["mapping"], dtype=torch.long, device=device).unsqueeze(0)
+
+        # print(input_ids, "\n", input_mask, "\n", segment_ids, "\n", mapping)
+
+        try:
+            pred_label = self.NER_infer_module.predict(input_ids=input_ids, input_mask=input_mask, segment_ids=segment_ids,
+                                                      valid_positions=valid_positions,
+                                                      lm_entity_span=input_record["entity_span"])[0]
+
+            inp = input_ids.view(-1).cpu().numpy()
+            mappings = mapping.view(-1).cpu().numpy()
+            span2node, node2span = get_span_to_node_mapping(input_parsed_tree)
+            spans = list(span2node.keys())
+            repr_spans = []
+            contribs = []
+            for span in spans:
+                if type(span) is int:
+                    span = (span, span)
+                bert_span = self.map_lm_to_bert_token(span[0], mappings)[0], \
+                            self.map_lm_to_bert_token(span[1], mappings)[1]
+                # add 1 to spans since transformer inputs has [CLS]
+                repr_spans.append(bert_span)
+                bert_span = (bert_span[0] + 1, bert_span[1] + 1)
+                contrib = self.explain_single_transformer_seq(input_ids, input_mask, segment_ids, valid_positions, bert_span,
+                                                              lm_entity_span=input_record["entity_span"], label=gt_label)
+                contribs.append(contrib)
+            s = self.repr_result_region(inp, repr_spans, contribs)
+
+            cur_json_dict = {}
+            cur_json_dict["predicted_label"] = pred_label
+            cur_json_dict["ground_truth_label"] = gt_label
+            if cur_json_dict["predicted_label"] == gt_label:
+                cur_json_dict["important_phrases"] = self.formatPhrases(s, do_reverse=True)
+            else:
+                cur_json_dict["important_phrases"] = self.formatPhrases(s, do_reverse=False)
+
+        except Exception as e:
+            print(e)
+            cur_json_dict = None
+
+        return cur_json_dict
 
     def explain_repr(self):
         output_json_path = self.output_path.split(".")[0] + ".json"
@@ -558,10 +903,13 @@ class SOCForTransformer(ExplanationBaseForTransformer):
         self.batch_size = config.batch_size
         self.sample_num = config.sample_n
         self.vocab = vocab
+        self.task = config.task
         self.iterator = self.get_data_iterator()
 
-        if config.task == 'repr':
+        if self.task == 'repr':
             self.trees, self.paper_info = read_trees_from_corpus_repr(tree_path)
+        elif self.task == "repr_ner_seq":
+            self.NER_infer_module = NERInferenceModule(tokenizer=self.tokenizer, model=self.model, max_seq_length=self.max_seq_length)
 
         self.use_bert_lm = config.use_bert_lm
         self.bert_lm = None
@@ -578,7 +926,8 @@ class SOCForTransformer(ExplanationBaseForTransformer):
         return s
 
     def get_data_iterator(self):
-        return get_data_iterator_bert(self.tree_path, self.tokenizer, self.max_seq_length, self.batch_size)
+        # return get_data_iterator_bert(self.tree_path, self.tokenizer, self.max_seq_length, self.batch_size)
+        return None
 
     def score(self, inp_bak, inp_mask, segment_ids, x_regions, nb_regions, label):
         x_region = x_regions[0]
@@ -685,4 +1034,129 @@ class SOCForTransformer(ExplanationBaseForTransformer):
 
         score = self.score(inp_flatten, inp_mask_flatten, segment_ids, [region],
                            mask_regions, label)
+        return score
+
+    def score_seq(self, inp_bak, inp_mask, segment_ids, valid_positions, x_regions, nb_regions, lm_entity_span, label):
+        x_region = x_regions[0]
+        nb_region = nb_regions[0]
+        inp = copy.copy(inp_bak)
+
+        inp_length = 0
+        for i in range(len(inp_mask)):
+            if inp_mask[i] == 1:
+                inp_length += 1
+            else:
+                break
+
+        # mask everything outside the x_region and inside nb region
+        inp_lm = copy.copy(inp)
+        for i in range(len(inp_lm)):
+            if nb_region[0] <= i <= nb_region[1] and not x_region[0] <= i <= x_region[1]:
+                inp_lm[i] = self.tokenizer.vocab['[PAD]']
+
+        inp_th = torch.from_numpy(bert_id_to_lm_id(inp_lm[1:inp_length - 1], self.tokenizer, self.vocab)).long().view(
+            -1, 1)
+        inp_length = torch.LongTensor([inp_length - 2])
+        fw_pos = torch.LongTensor([min(x_region[1] + 1 - 1, len(inp) - 2)])
+        bw_pos = torch.LongTensor([max(x_region[0] - 1 - 1, -1)])
+
+        if self.gpu >= 0:
+            inp_th = inp_th.to(self.gpu)
+            inp_length = inp_length.to(self.gpu)
+            fw_pos = fw_pos.to(self.gpu)
+            bw_pos = bw_pos.to(self.gpu)
+
+        batch = Batch(text=inp_th, length=inp_length, fw_pos=fw_pos, bw_pos=bw_pos)
+
+        inp_enb, inp_ex = [], []
+        inp_ex_mask = []
+
+        max_sample_length = (self.nb_range + 1) if self.nb_method == 'ngram' else (inp_th.size(0) + 1)
+        fw_sample_outputs, bw_sample_outputs = self.lm_model.sample_n('random', batch,
+                                                                      max_sample_length=max_sample_length,
+                                                                      sample_num=self.sample_num)
+        for sample_i in range(self.sample_num):
+            fw_sample_seq, bw_sample_seq = fw_sample_outputs[:, sample_i].cpu().numpy(), \
+                                           bw_sample_outputs[:, sample_i].cpu().numpy()
+            filled_inp = copy.copy(inp)
+
+            len_bw = x_region[0] - nb_region[0]
+            len_fw = nb_region[1] - x_region[1]
+            if len_bw > 0:
+                filled_inp[nb_region[0]:x_region[0]] = lm_id_to_bert_id(bw_sample_seq[-len_bw:], self.tokenizer,
+                                                                        self.vocab)
+            if len_fw > 0:
+                filled_inp[x_region[1] + 1:nb_region[1] + 1] = lm_id_to_bert_id(fw_sample_seq[:len_fw], self.tokenizer,
+                                                                                self.vocab)
+            inp_enb.append(filled_inp)
+
+            filled_ex, mask_ex = [], []
+            flg = False
+            for i in range(len(filled_inp)):
+                if not x_region[0] <= i <= x_region[1]:
+                    filled_ex.append(filled_inp[i])
+                    mask_ex.append(inp_mask[i])
+                elif not flg:
+                    filled_ex.append(self.tokenizer.vocab['[PAD]'])
+                    mask_ex.append(inp_mask[i])
+                    # flg = True
+            filled_ex = np.array(filled_ex, dtype=np.int32)
+            mask_ex = np.array(mask_ex, dtype=np.int32)
+            inp_ex.append(filled_ex)
+            inp_ex_mask.append(mask_ex)
+
+        inp_enb, inp_ex = np.stack(inp_enb), np.stack(inp_ex)
+        inp_ex_mask = np.stack(inp_ex_mask)
+        inp_enb, inp_ex = torch.from_numpy(inp_enb).long(), torch.from_numpy(inp_ex).long()
+        inp_enb_mask, inp_ex_mask = torch.from_numpy(inp_mask).long(), torch.from_numpy(inp_ex_mask).long()
+
+        if self.gpu >= 0:
+            inp_enb, inp_ex = inp_enb.to(self.gpu), inp_ex.to(self.gpu)
+            inp_enb_mask, inp_ex_mask = inp_enb_mask.to(self.gpu), inp_ex_mask.to(self.gpu)
+            segment_ids = segment_ids.to(self.gpu)
+
+        inp_enb_mask = inp_enb_mask.expand(inp_enb.size(0), -1)
+        segment_ids = segment_ids.expand(inp_enb.size(0), -1)
+        valid_positions = valid_positions.expand(inp_enb.size(0), -1)
+
+        logits_enb = self.NER_infer_module.getScore(input_ids=inp_enb, input_mask=inp_enb_mask,
+                                                    segment_ids=segment_ids[:, :inp_enb.size(1)],
+                                                    valid_positions=valid_positions[:, :inp_enb.size(1)],
+                                                    lm_entity_span=lm_entity_span,
+                                                    gt_label=label)
+
+        logits_ex = self.NER_infer_module.getScore(input_ids=inp_ex, input_mask=inp_ex_mask,
+                                                    segment_ids=segment_ids[:, :inp_ex.size(1)],
+                                                    valid_positions=valid_positions[:, :inp_ex.size(1)],
+                                                    lm_entity_span=lm_entity_span,
+                                                    gt_label=label)
+
+        contrib_logits = logits_enb - logits_ex  # Batch size X Entity span length
+
+        score_agg_method = "derive"
+        if score_agg_method == "derive":
+            # Derive the importance score of the span
+            contrib_logits = contrib_logits.sum(axis=1)  # Batch size X 1
+            contrib_score = contrib_logits.mean()  # 1 X 1
+        elif score_agg_method == "sum":
+            # Sum the importance score of the span
+            contrib_logits = contrib_logits.mean(axis=0)  # 1 X Entity span length
+            contrib_score = contrib_logits.sum()  # 1 X 1
+        else:
+            raise Exception("Invalid score aggregation method")
+
+        return contrib_score
+
+    def explain_single_transformer_seq(self, input_ids, input_mask, segment_ids, valid_positions, region, lm_entity_span, label=None):
+        inp_flatten = input_ids.view(-1).cpu().numpy()
+        inp_mask_flatten = input_mask.view(-1).cpu().numpy()
+
+        if self.nb_method == 'ngram':
+            mask_regions = self.get_ngram_mask_region(region, inp_flatten)
+        else:
+            raise NotImplementedError('unknown method %s' % self.nb_method)
+
+        score = self.score_seq(inp_flatten, inp_mask_flatten, segment_ids, valid_positions, [region],
+                           mask_regions, lm_entity_span, label)
+
         return score

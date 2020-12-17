@@ -61,8 +61,8 @@ class NERDataset(Dataset):
         self.idx2label = {}
 
         self.args = args
-        self.type_path = type_path
         self.tokenizer = tokenizer
+        self.type_path = type_path
 
         self._create_label_map()
         self._build()
@@ -94,6 +94,7 @@ class NERDataset(Dataset):
                     valid_positions.append(0)
 
             cur_tokenized_sent_seq += tokenized_word
+        assert (len(cur_tokenized_sent_seq) == len(valid_positions))
         return cur_tokenized_sent_seq, valid_positions
 
     def _pre_process_input(self, cur_sentence_seq, cur_label_seq):
@@ -145,10 +146,10 @@ class NERDataset(Dataset):
 
     def _create_label_map(self):
         # Create the label map
-        # label_set = ['O', 'B-ES', 'I-ES', 'B-PR', 'I-PR', 'B-PV', 'I-PV',
-        #              'B-SD', 'I-SD', 'B-SP', 'I-SP', 'B-SS', 'I-SS', 'B-TE',
-        #              'I-TE', 'B-TN', 'I-TN', '[CLS]', '[SEP]']
-        label_set = ["O", "B-MISC", "I-MISC",  "B-PER", "I-PER", "B-ORG", "I-ORG", "B-LOC", "I-LOC", "[CLS]", "[SEP]"]
+        label_set = ['[PAD]', 'O', 'B-ES', 'I-ES', 'B-PR', 'I-PR', 'B-PV', 'I-PV',
+                     'B-SD', 'I-SD', 'B-SP', 'I-SP', 'B-SS', 'I-SS', 'B-TE',
+                     'I-TE', 'B-TN', 'I-TN', '[CLS]', '[SEP]']
+        # label_set = ["[PAD]", "O", "B-MISC", "I-MISC",  "B-PER", "I-PER", "B-ORG", "I-ORG", "B-LOC", "I-LOC", "[CLS]", "[SEP]"]
         for idx, val in enumerate(label_set):
             self.label2idx[val] = idx
             self.idx2label[idx] = val
@@ -174,8 +175,7 @@ class NERDataset(Dataset):
         cur_sent_num = 0
         for cur_line in data_lines:
             cur_line = cur_line.strip()
-            # if len(cur_line) == 0:
-            if len(cur_line) == 0 or cur_line.startswith('-DOCSTART') or cur_line[0] == "\n":
+            if len(cur_line) == 0 or cur_line.startswith('-DOCSTART'):
                 # End of a sentence
                 if len(cur_sentence_seq) != 0:
                     sentence_data_all.append([cur_sentence_seq, cur_label_seq])
@@ -242,6 +242,7 @@ def computeMetrics(y_pred, y_true):
         print(e)
         f1_val = -1
 
+    print(classification_report(y_true, y_pred))
     return accuracy, f1_val
 
 
@@ -413,32 +414,32 @@ def train(model, train_dl, val_dl, args, idx2label_map):
 
 
 if __name__ == "__main__":
+    args_dict = {
+        "data_dir": "../data/ner_dataset",
+        "output_dir": "../models/repr_bert_ner",
+        "model_name": "allenai/scibert_scivocab_uncased",
+        "tokenizer_name": "allenai/scibert_scivocab_uncased",
+        "max_seq_length": 128,
+        "train_batch_size": 32,
+        "eval_batch_size": 32,
+        "learning_rate": 1e-4,
+        "num_epochs": 5,
+        "weight_decay": 0.01,
+        "warmup_proportion": 0.1
+    }
     # args_dict = {
-    #     "data_dir": "../data/ner_dataset",
-    #     "output_dir": "../models/repr_bert_ner",
-    #     "model_name": "allenai/scibert_scivocab_uncased",
-    #     "tokenizer_name": "allenai/scibert_scivocab_uncased",
+    #     "data_dir": "../data/conll_data",
+    #     "output_dir": "../models/conll_bert",
+    #     "model_name": "bert-base-cased",
+    #     "tokenizer_name": "bert-base-cased",
     #     "max_seq_length": 128,
     #     "train_batch_size": 32,
     #     "eval_batch_size": 32,
     #     "learning_rate": 5e-5,
     #     "num_epochs": 5,
     #     "weight_decay": 0.01,
-    #     "warmup_steps": 0
+    #     "warmup_proportion": 0.1
     # }
-    args_dict = {
-        "data_dir": "../data/conll_data",
-        "output_dir": "../models/conll_bert",
-        "model_name": "bert-base-cased",
-        "tokenizer_name": "bert-base-cased",
-        "max_seq_length": 128,
-        "train_batch_size": 32,
-        "eval_batch_size": 32,
-        "learning_rate": 5e-5,
-        "num_epochs": 5,
-        "weight_decay": 0.01,
-        "warmup_proportion": 0.1
-    }
     args = argparse.Namespace(**args_dict)
     print(args)
 

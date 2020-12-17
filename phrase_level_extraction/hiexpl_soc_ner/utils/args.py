@@ -90,6 +90,9 @@ def get_args():
     parser.add_argument('--cd_pad', action='store_true')
     parser.add_argument('--eval_file', default='')
 
+    # For the NER task
+    parser.add_argument('--target_entity_class', type=str, default="SS")
+
     args = parser.parse_args()
 
     try:
