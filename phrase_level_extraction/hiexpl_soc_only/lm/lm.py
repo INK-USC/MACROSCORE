@@ -11,9 +11,9 @@ class LSTMLanguageModel(nn.Module):
         self.hidden_size = config.lm_d_hidden
         self.embed_size = config.lm_d_embed
         self.n_vocab = config.n_embed
-        self.gpu = args.gpu
+        self.device = config.device
 
-        self.encoder = DynamicEncoder(self.n_vocab, self.embed_size, self.hidden_size, self.gpu)
+        self.encoder = DynamicEncoder(self.n_vocab, self.embed_size, self.hidden_size, self.device)
         self.fw_proj = nn.Linear(self.hidden_size, self.n_vocab)
         self.bw_proj = nn.Linear(self.hidden_size, self.n_vocab)
 
@@ -25,8 +25,7 @@ class LSTMLanguageModel(nn.Module):
     def forward(self, batch):
         inp = batch.text
         inp_len_np = batch.length.cpu().numpy()
-        if self.gpu >= 0:
-            inp = inp.to(self.gpu)
+        inp = inp.to(self.device)
         output = self.encoder(inp, inp_len_np)
         fw_output, bw_output = output[:,:,:self.hidden_size], output[:,:,self.hidden_size:]
         fw_proj, bw_proj = self.fw_proj(fw_output), self.bw_proj(bw_output)
@@ -68,10 +67,9 @@ class LSTMLanguageModel(nn.Module):
         pad_inp1 = torch.LongTensor([self.vocab.stoi['<s>']] * inp.size(1)).view(1, -1)
         pad_inp2 = torch.LongTensor([self.vocab.stoi['</s>']] * inp.size(1)).view(1,-1)
 
-        if self.gpu >= 0:
-            inp = inp.to(self.gpu)
-            pad_inp1 = pad_inp1.to(self.gpu)
-            pad_inp2 = pad_inp2.to(self.gpu)
+        inp = inp.to(self.device)
+        pad_inp1 = pad_inp1.to(self.device)
+        pad_inp2 = pad_inp2.to(self.device)
 
         padded_inp = torch.cat([pad_inp1, inp, pad_inp2], 0)
         assert padded_inp.max().item() < self.n_vocab

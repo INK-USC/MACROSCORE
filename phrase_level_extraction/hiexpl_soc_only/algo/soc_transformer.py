@@ -10,6 +10,7 @@ import copy
 import pickle
 import json
 from utils.args import get_args
+from tqdm import tqdm
 
 DotDict = Batch
 args = get_args()
@@ -309,6 +310,8 @@ class ExplanationBaseForTransformer(ExplanationBase):
                     phrase_string += " " + cur_token
             phrase_string = phrase_string.strip()
 
+            phrase_string = phrase_string.replace("- lrb -", "(")
+            phrase_string = phrase_string.replace("- rrb -", ")")
             out_list.append([score, phrase_string])
 
         out_list = list(sorted(out_list, key=lambda x: x[0], reverse=do_reverse))
@@ -320,8 +323,7 @@ class ExplanationBaseForTransformer(ExplanationBase):
 
         json_output = []
         all_contribs = []
-        cnt = 0
-        for batch_idx, (input_ids, input_mask, segment_ids, label_ids, offsets, mappings) in enumerate(self.iterator):
+        for batch_idx, (input_ids, input_mask, segment_ids, label_ids, offsets, mappings) in enumerate(tqdm(self.iterator)):
             if batch_idx < self.batch_start:
                 continue
 
@@ -369,8 +371,6 @@ class ExplanationBaseForTransformer(ExplanationBase):
                 cur_json_dict["important_phrases"] = self.formatPhrases(s, do_reverse=False)
 
             json_output.append(cur_json_dict)
-            print('finished %d' % batch_idx)
-            cnt += 1
             if batch_idx == self.batch_stop - 1:
                 break
         f.close()
@@ -554,7 +554,7 @@ class SOCForTransformer(ExplanationBaseForTransformer):
         self.lm_model = lm_model
         self.tokenizer = BertTokenizer.from_pretrained(config.bert_model, do_lower_case=True, cache_dir='bert/cache')
         self.tree_path = tree_path
-        self.max_seq_length = 128
+        self.max_seq_length = 256
         self.batch_size = config.batch_size
         self.sample_num = config.sample_n
         self.vocab = vocab

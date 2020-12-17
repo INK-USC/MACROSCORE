@@ -8,6 +8,7 @@ from utils.reader import *
 
 
 import random
+import torch
 
 random.seed(0)
 
@@ -123,15 +124,21 @@ if __name__ == '__main__':
     config = args
     config.n_embed = len(inputs.vocab)
     config.n_cells = config.n_layers
-    config.use_gpu = args.gpu >= 0
+
+    if torch.cuda.device_count() > 0:
+        config.device = "cuda"
+        config.use_gpu = True
+    else:
+        config.device = "cpu"
+        config.use_gpu = False
+
 
     model = LSTMLanguageModel(config, inputs.vocab)
     if args.word_vectors:
         model.encoder.embedding.weight.data = inputs.vocab.vectors
         if args.fix_emb:
             model.encoder.embedding.weight.requires_grad = False
-    if config.use_gpu:
-        model = model.cuda()
 
+    model = model.to(config.device)
     do_train(model)
 

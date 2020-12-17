@@ -4,7 +4,7 @@ import numpy as np
 
 
 class DynamicEncoder(nn.Module):
-    def __init__(self, input_size, embed_size, hidden_size, gpu, n_layers=1, dropout=0.1):
+    def __init__(self, input_size, embed_size, hidden_size, device, n_layers=1, dropout=0.1):
         super().__init__()
         self.input_size = input_size
         self.hidden_size = hidden_size
@@ -13,7 +13,7 @@ class DynamicEncoder(nn.Module):
         self.dropout = dropout
         self.embedding = nn.Embedding(input_size, embed_size)
         self.lstm = nn.LSTM(embed_size, hidden_size, n_layers, bidirectional=True)
-        self.gpu = gpu
+        self.device = device
 
     def forward(self, input_seqs, input_lens, hidden=None, return_all_states=False):
         batch_size = input_seqs.size(1)
@@ -21,13 +21,9 @@ class DynamicEncoder(nn.Module):
         if not return_all_states:
             embedded = embedded.transpose(0, 1)  # [B,T,E]
             sort_idx = np.argsort(-input_lens)
-            unsort_idx = torch.LongTensor(np.argsort(sort_idx))
-            if self.gpu >= 0:
-                unsort_idx = unsort_idx.to(self.gpu)
+            unsort_idx = torch.LongTensor(np.argsort(sort_idx)).to(self.device)
             input_lens = input_lens[sort_idx]
-            sort_idx = torch.LongTensor(sort_idx)
-            if self.gpu >= 0:
-                sort_idx = sort_idx.to(self.gpu)
+            sort_idx = torch.LongTensor(sort_idx).to(self.device)
             embedded = embedded[sort_idx].transpose(0, 1)  # [T,B,E]
             packed = torch.nn.utils.rnn.pack_padded_sequence(embedded, input_lens)
             outputs, hidden = self.lstm(packed, hidden)
