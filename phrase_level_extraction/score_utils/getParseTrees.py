@@ -6,9 +6,9 @@ from tqdm import tqdm
 if __name__ == "__main__":
     nlp = StanfordCoreNLP("stanford-corenlp-4.1.0")
 
-    for type_path in ["train", "dev", "repr_segments_data"]:
-        inp_path = "repr_segments/{}.csv".format(type_path)
-        out_path = "repr_segments/trees/{}.csv".format(type_path)
+    for type_path in ["train", "dev", "full_data"]:
+        inp_path = "repr_sentences/{}.csv".format(type_path)
+        out_path = "repr_sentences/trees/{}.csv".format(type_path)
 
         df = pd.read_csv(inp_path)
         tree_string_list = []

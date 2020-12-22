@@ -3,20 +3,20 @@ import os
 from sklearn.model_selection import KFold
 
 if __name__ == "__main__":
-    inp_path = "segment_data/TA2_classify_data_final_with_imp_segments_only.json"
+    inp_path = "notebooks/data/TA2_classify_data_final_with_imp_sentences_bilstm_only.json"
     df = pd.read_json(inp_path)
     df = df[["paper_id", "important_segment", "label", "Fold_Id"]]
 
     print(df.columns)
 
-    base_out_dir = "repr_segments"
-    base_fold_dir = "repr_segments_5fold"
+    base_out_dir = "repr_sentences"
+    base_fold_dir = "repr_sentences_5fold"
 
     # Write the full data:
     if not os.path.exists(base_out_dir):
         os.makedirs(base_out_dir)
 
-    out1 = os.path.join(base_out_dir, "repr_segments_data.csv")
+    out1 = os.path.join(base_out_dir, "full_data.csv")
     df.to_csv(out1, index=False)
 
     # Write the folds
