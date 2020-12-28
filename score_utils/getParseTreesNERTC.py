@@ -64,6 +64,8 @@ def getCandidiates(parsed_doc, entity_span, k_hop=2):
         cur_idx_list = list(sorted(cand_dict[cur_hop]))
 
         cur_span = []
+        print(cur_hop, cur_idx_list)
+        print(cur_hop, [tokens_list[x] for x in cur_idx_list])
         for idx in cur_idx_list:
             # Skip the root node in dep parse (or) skip the phrase containing the entity span
             if idx == -1 or idx in entity_span:
@@ -109,46 +111,47 @@ def demo(nlp):
     temp_entity_span = [temp_entity_start_idx+x for x in range(len(temp_entity.split()))]
 
     tokens_list = np.array(temp_text.split())
-    # print(tokens_list[temp_entity_span])
+    print(tokens_list[temp_entity_span])
 
     parsed_doc = nlp(temp_text)
     candidates = getCandidiates(parsed_doc, temp_entity_span)
     # print(cur_text)
-    # print(candidates)
+    print(candidates)
 
 if __name__ == "__main__":
-    nlp = stanza.Pipeline(lang="en", processors="tokenize,mwt,pos,lemma,depparse", tokenize_pretokenized=True)
+    nlp = stanza.Pipeline(lang="en", processors="tokenize,mwt,pos,lemma,depparse", tokenize_pretokenized=True)  # tokenize_pretokenized=True
     base_dir = "../hiexpl_soc_ner/data/ner_dataset_tc"
+    parse_method = "dep_parse"
 
-    # demo(nlp)
+    demo(nlp)
 
-    for type_path in ["train"]:
-        inp_path = os.path.join(base_dir, type_path + ".jsonl")
-        out_dir = os.path.join(base_dir, "trees_depparse")
-        if not os.path.exists(out_dir):
-            os.makedirs(out_dir)
-        out_path = os.path.join(out_dir, type_path + ".jsonl")
-
-        result = []
-        cnt = 0
-        with open(inp_path, "r") as f:
-            for cur_line in f:
-                try:
-                    cur_dict = json.loads(cur_line)
-                    cur_text = cur_dict["sentence"]
-                    parsed_doc = nlp(cur_text)
-                    candidates = getCandidiates(parsed_doc, cur_dict["entity_span"])
-                    cur_dict["depparse_candidates"] = candidates
-                    result.append(cur_dict)
-                except Exception as e:
-                    print(e)
-                    pass
-
-                cnt += 1
-                if cnt % 10 == 0:
-                    print("Progress = ", cnt)
-
-
-        print(len(result))
-        with jsonlines.open(out_path, "w") as f:
-            f.write_all(result)
+    # for type_path in ["test", "train"]:
+    #     inp_path = os.path.join(base_dir, type_path + ".jsonl")
+    #     out_dir = os.path.join(base_dir, "trees_depparse")
+    #     if not os.path.exists(out_dir):
+    #         os.makedirs(out_dir)
+    #     out_path = os.path.join(out_dir, type_path + ".jsonl")
+    #
+    #     result = []
+    #     cnt = 0
+    #     with open(inp_path, "r") as f:
+    #         for cur_line in f:
+    #             try:
+    #                 cur_dict = json.loads(cur_line)
+    #                 cur_text = cur_dict["sentence"]
+    #                 parsed_doc = nlp(cur_text)
+    #                 candidates = getCandidiates(parsed_doc, cur_dict["entity_span"])
+    #                 cur_dict["candidates"] = candidates
+    #                 result.append(cur_dict)
+    #             except Exception as e:
+    #                 print(e)
+    #                 pass
+    #
+    #             cnt += 1
+    #             if cnt % 10 == 0:
+    #                 print("Progress = ", cnt)
+    #
+    #
+    #     print(len(result))
+    #     with jsonlines.open(out_path, "w") as f:
+    #         f.write_all(result)
