@@ -28,6 +28,8 @@
 /tagtog_annotations/annotations_data/*
 
 # In score_utils
+/score_utils/data/*
+/score_utils/submissions/*
 /score_utils/notebooks/data/*
 /score_utils/s2orc-doc2json/pdfminer_outputs/*
 /score_utils/s2orc-doc2json/inputs/*
