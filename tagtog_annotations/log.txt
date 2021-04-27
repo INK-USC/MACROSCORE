@@ -1,0 +1,557 @@
+['agnIgRIw2g8_8NkeF.MW0ITslG4a-Edelman_AmJournSocio_2011_VDWK.pdf.ann.json', 'ahQSxGFDb0iDOznH4l3DPzLxbAuy-Dilliplane_AmJourPoliSci_2013_G88r.pdf.ann.json', 'aGtNSB3S_1ovut7XF8N._JKq.S7G-Dewitte_JournConsRes_2009_kNP4.pdf.ann.json', 'a29niLD8WQB_IQamwxYJUWDQTD3e-Duran_JournExpSocPsych_2017_G1O.pdf.ann.json', 'ac.k7J0DK9gYgi4c7kSu2G3Du0M4-DUNNING_AmPoliSciRev_2013_lpzL.pdf.ann.json', 'aOGIuDkwV9hJ19svmzp6ZzALoE9y-Droseltis_JournEnvPsych_2010_LbYw.pdf.ann.json', 'aIkTCwfYSVwfihapf9HTD_w2xBLC-Denney_JournMarFam_2014_wQj7.pdf.ann.json', 'aYJj7TgHWd4K7SIP_dflukHMiCb8-Euteneuer_HealthPsych_2012_mzpZ.pdf.ann.json', 'a4hiGJJ7.1CUQGE7WLIRhbttsGBC-Duclos_JournConsRes_2013_BaDx.pdf.ann.json', 'aZ7.FfDWfJabHE5.ha7.rdicT5JO-Enright_Cognition_2017_ZeqQ.pdf.ann.json', 'aCYDRYW2HOJog.aaj4IWKCRe8kTS-Etkin_JournMarketRes_2016_Z43k.pdf.ann.json', 'aW7HHjNVMnaHKHktEGbTOwbJqG1C-Durbin_EurJournPersonality_2016_9RYZ.pdf.ann.json', 'a4x_hfH.Cg19JViE0JEGpi2v.UZe-Eisen_LawHuman_2018_Ba9E.pdf.ann.json', 'aPVT7EAtDYMRcih10F0aUmI3h9ea-Dimigen_JournExPsychGen_2011_ylwV.pdf.ann.json', 'aZQO3sZhMxBpyVbkFD.6j9riel1O-Eskine_JournExpSocPsych_2013_QBm.pdf.ann.json', 'a_VT_Y1uGNe7Vwc8845RI_UmvqqG-DENVER_Criminology_2017_BQyd.pdf.ann.json', 'aO4xKw.foLqif02KPVFg_O6qitiC-Eisenbruch_EvoHumanBehavior_2016_LGYx.pdf.ann.json', 'acs1ikozViaSFe2xTXeGtDr55Zly-Dislich_EurJournPersonality_2012_9RaY.pdf.ann.json', 'agLZvgQ1lmN1aCSqHc0yZqDsLcWG-Einstein_AmJourPoliSci_2017_mxyQ.pdf.ann.json', 'a9c_frpdQFyqkgUHzdJeEEu2ttOO-Dean_JournMarket_2016_LYzr.pdf.ann.json', 'akN6HALrJuh9zem8A6AWbUZxKNTC-Eggebeen_JournMarFam_2009_VjlX.pdf.ann.json', 'aQRHT9zlZdXRBa7Rj4.rzLmj3jIK-EGOROV_AmPoliSciRev_2009_gpbQ.pdf.ann.json', 'aCmxTmKrCJ5I1lNiW_otW6mkfixm-DUNNING_AmPoliSciRev_2010_EA23.pdf.ann.json', 'aP25vDvqdsKu6Bn2bfFdltoFxGAe-Douce__JournEnvPsych_2014_2zXg.pdf.ann.json', 'aiJ7W_FHVL6dAQRI0oALswhvC4P0-Engel_SocSciMed_2016_XeYp.pdf.ann.json', 'a8V9e9Hs813fnc_cM6gsTyCRP26G-Eichstaedt_PsychologSci_2015_WGle.pdf.ann.json', 'ahuuuoG7gOCVm2CbcL.Dnkzf.v3y-Durante_JournMarketRes_2014_lkXV.pdf.ann.json', 'aiZNZwMf__K.k7aO6FP_EtFmSGdO-Eke_LawHuman_2011_wmwk.pdf.ann.json', 'acCwiZLkOMKBw1apxm9_Sz7bb2_i-Eggers_BritJournPoliSci_2018_Xb1z.pdf.ann.json']
+a3Z2u7eh6XcwLZVcrqMCZZedtiwW-BERG_Criminology_2016_Kx0O.pdf
+Text length: 91008
+Done writing the file ./annotations_extra_with_citations/tokenized/BERG_Criminology_2016_Kx0O.pdf.txt
+Num Entities: 0
+a302LJFihYYj.8hmMDLTrP0J1Y98-Clarkson_JournConsRes_2013_8Qe.pdf
+Text length: 89104
+Done writing the file ./annotations_extra_with_citations/tokenized/Clarkson_JournConsRes_2013_8Qe.pdf.txt
+Num Entities: 0
+aMVnTEIwDZGo6joioW3EMGElI7ZG-Boas_AmJourPoliSci_2011_01Wk.pdf
+Text length: 78967
+Done writing the file ./annotations_extra_with_citations/tokenized/Boas_AmJourPoliSci_2011_01Wk.pdf.txt
+Num Entities: 0
+aGeOBD64p3CVsvrNV.fpZSVguAlG-Adomako_JournBusRes_2018_LNRG.pdf
+Text length: 58685
+Done writing the file ./annotations_extra_with_citations/tokenized/Adomako_JournBusRes_2018_LNRG.pdf.txt
+Num Entities: 0
+aPHtqHRp3kBRPKxE973sJxMVhs20-Battilana_LeadQuart_2010_DD12.pdf
+Text length: 102167
+Done writing the file ./annotations_extra_with_citations/tokenized/Battilana_LeadQuart_2010_DD12.pdf.txt
+Num Entities: 0
+aiJ7W_FHVL6dAQRI0oALswhvC4P0-Engel_SocSciMed_2016_XeYp.pdf
+Text length: 68097
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+100%|██████████| 133/133 [00:00<00:00, 7409.84it/s]
+Done writing the file ./annotations_extra_with_citations/tokenized/Engel_SocSciMed_2016_XeYp.pdf.txt
+Num Entities: 133
+# sentences: 649
+# words: 13701
+aCmxTmKrCJ5I1lNiW_otW6mkfixm-DUNNING_AmPoliSciRev_2010_EA23.pdf
+Text length: 117318
+Done writing the file ./annotations_extra_with_citations/tokenized/DUNNING_AmPoliSciRev_2010_EA23.pdf.txt
+Num Entities: 17
+100%|██████████| 17/17 [00:00<00:00, 129642.12it/s]
+# sentences: 401
+# words: 15164
+ay6w4N5DoQpw.QsDpeZ5Uqv.4MHm-Aksoy_AmJourPoliSci_2012_YNDQ.pdf
+Text length: 78691
+Done writing the file ./annotations_extra_with_citations/tokenized/Aksoy_AmJourPoliSci_2012_YNDQ.pdf.txt
+Num Entities: 0
+aQRHT9zlZdXRBa7Rj4.rzLmj3jIK-EGOROV_AmPoliSciRev_2009_gpbQ.pdf
+Text length: 115127
+Done writing the file ./annotations_extra_with_citations/tokenized/EGOROV_AmPoliSciRev_2009_gpbQ.pdf.txt
+Num Entities: 0
+a9c_frpdQFyqkgUHzdJeEEu2ttOO-Dean_JournMarket_2016_LYzr.pdf
+Text length: 110806
+Done writing the file ./annotations_extra_with_citations/tokenized/Dean_JournMarket_2016_LYzr.pdf.txt
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+100%|██████████| 111/111 [00:00<00:00, 225129.47it/s]
+Num Entities: 111
+# sentences: 530
+# words: 17382
+adwvvAKH3jaYcPsvX2fxTQNHWRWC-Case_JournPerSocPsy_2018_52Dq.pdf
+Text length: 129955
+Done writing the file ./annotations_extra_with_citations/tokenized/Case_JournPerSocPsy_2018_52Dq.pdf.txt
+Num Entities: 0
+a7WRq6hVapNJAtQTFFFOLD.q7.98-Benozio_EvoHumanBehavior_2015_yyyR.pdf
+Text length: 61731
+Done writing the file ./annotations_extra_with_citations/tokenized/Benozio_EvoHumanBehavior_2015_yyyR.pdf.txt
+Num Entities: 0
+aH6NNCEwxDjzOrrw7Ng_RaH4ehoa-Baucom_HealthPsych_2018_mpRQ.pdf
+Text length: 55218
+Done writing the file ./annotations_extra_with_citations/tokenized/Baucom_HealthPsych_2018_mpRQ.pdf.txt
+Num Entities: 0
+agLZvgQ1lmN1aCSqHc0yZqDsLcWG-Einstein_AmJourPoliSci_2017_mxyQ.pdf
+Text length: 82871
+Done writing the file ./annotations_extra_with_citations/tokenized/Einstein_AmJourPoliSci_2017_mxyQ.pdf.txt
+Num Entities: 122
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+100%|██████████| 122/122 [00:00<00:00, 476891.97it/s]
+# sentences: 442
+# words: 12899
+a0tm9i6CA4Aol895JdBCsFNesrRm-Bellemare_ExpEco_2010_g3e9.pdf
+Text length: 32172
+Done writing the file ./annotations_extra_with_citations/tokenized/Bellemare_ExpEco_2010_g3e9.pdf.txt
+Num Entities: 0
+aaQpWYA1GqtpmaBTI_fFjDWUmVaG-Chua_JournExPsychGen_2015_Yvpl.pdf
+Text length: 39722
+Done writing the file ./annotations_extra_with_citations/tokenized/Chua_JournExPsychGen_2015_Yvpl.pdf.txt
+Num Entities: 0
+aZ7.FfDWfJabHE5.ha7.rdicT5JO-Enright_Cognition_2017_ZeqQ.pdf
+Text length: 92559
+Done writing the file ./annotations_extra_with_citations/tokenized/Enright_Cognition_2017_ZeqQ.pdf.txt
+Num Entities: 311
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+100%|██████████| 311/311 [00:00<00:00, 379746.30it/s]
+# sentences: 742
+# words: 18536
+aWK1lSd2WIxagt1fi5yAzjTrwIuG-Blair_AmJourPoliSci_2014_5X43.pdf
+Text length: 87375
+Done writing the file ./annotations_extra_with_citations/tokenized/Blair_AmJourPoliSci_2014_5X43.pdf.txt
+Num Entities: 0
+aW7HHjNVMnaHKHktEGbTOwbJqG1C-Durbin_EurJournPersonality_2016_9RYZ.pdf
+Text length: 78987
+Done writing the file ./annotations_extra_with_citations/tokenized/Durbin_EurJournPersonality_2016_9RYZ.pdf.txt
+Num Entities: 155
+0it [00:00, ?it/s]
+100%|██████████| 155/155 [00:00<00:00, 342166.91it/s]
+# sentences: 337
+# words: 12691
+alQJJm8VNCnqGEeovpw8EWhA6Hxy-Baguley_LawHuman_2017_AWLO.pdf
+Text length: 114919
+Done writing the file ./annotations_extra_with_citations/tokenized/Baguley_LawHuman_2017_AWLO.pdf.txt
+Num Entities: 0
+aQl8p6NZULZOpCctqhWewCaC9hPy-Chernev_JournConsRes_2015_OOb.pdf
+Text length: 75628
+Done writing the file ./annotations_extra_with_citations/tokenized/Chernev_JournConsRes_2015_OOb.pdf.txt
+Num Entities: 0
+aPk4GQf6GnZVebTh9wwy3lSOk4XK-Barber_JournExpPoliSci_2017_bw79.pdf
+Text length: 29599
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+Done writing the file ./annotations_extra_with_citations/tokenized/Barber_JournExpPoliSci_2017_bw79.pdf.txt
+Num Entities: 0
+aGvnTRWTwecVts6yh_BrNJhkuAXu-Collier_JournAcaMarkSci_2010_VvkV.pdf
+Text length: 99436
+Done writing the file ./annotations_extra_with_citations/tokenized/Collier_JournAcaMarkSci_2010_VvkV.pdf.txt
+Num Entities: 0
+a9wHcv9qdaJKwPuFpc44V8NrucB4-Bartikowski_JournBusRes_2016_Wb3N.pdf
+Text length: 55776
+Done writing the file ./annotations_extra_with_citations/tokenized/Bartikowski_JournBusRes_2016_Wb3N.pdf.txt
+Num Entities: 0
+a4XNLSxjtksHwh.pF0pvBuLJs594-Chuang_JournEnvPsych_2016_Bj5j.pdf
+Text length: 69628
+Done writing the file ./annotations_extra_with_citations/tokenized/Chuang_JournEnvPsych_2016_Bj5j.pdf.txt
+Num Entities: 0
+aPVT7EAtDYMRcih10F0aUmI3h9ea-Dimigen_JournExPsychGen_2011_ylwV.pdf
+Text length: 135826
+100%|██████████| 8/8 [00:00<00:00, 23.74it/s]
+Done writing the file ./annotations_extra_with_citations/tokenized/Dimigen_JournExPsychGen_2011_ylwV.pdf.txt
+Num Entities: 8
+# sentences: 117
+# words: 3825
+aU0bGbbQdzsrPuN8meNuwbZDwlKS-Aryee_JournAppPsych_2012_pYQ3.pdf
+Text length: 88497
+Done writing the file ./annotations_extra_with_citations/tokenized/Aryee_JournAppPsych_2012_pYQ3.pdf.txt
+Num Entities: 0
+a29niLD8WQB_IQamwxYJUWDQTD3e-Duran_JournExpSocPsych_2017_G1O.pdf
+Text length: 79331
+Done writing the file ./annotations_extra_with_citations/tokenized/Duran_JournExpSocPsych_2017_G1O.pdf.txt
+Num Entities: 101
+0it [00:00, ?it/s]
+100%|██████████| 101/101 [00:00<00:00, 500147.23it/s]
+# sentences: 402
+# words: 13306
+aXRqgELE6uC22Iw4BOFjZFVns9yS-Ardizzi_Cognition_2018_xKYP.pdf
+Text length: 52955
+Done writing the file ./annotations_extra_with_citations/tokenized/Ardizzi_Cognition_2018_xKYP.pdf.txt
+Num Entities: 0
+aCYDRYW2HOJog.aaj4IWKCRe8kTS-Etkin_JournMarketRes_2016_Z43k.pdf
+Text length: 98573
+0it [00:00, ?it/s]
+100%|██████████| 271/271 [00:00<00:00, 1378.67it/s]
+Done writing the file ./annotations_extra_with_citations/tokenized/Etkin_JournMarketRes_2016_Z43k.pdf.txt
+Num Entities: 271
+# sentences: 491
+# words: 17530
+aK.T4wv4QDfWkQvu2Utu2jniWSrS-Debus_JournAppPsych_2012_59VB.pdf
+Text length: 55132
+Done writing the file ./annotations_extra_with_citations/tokenized/Debus_JournAppPsych_2012_59VB.pdf.txt
+Num Entities: 0
+asOGGpr3waj2D8Bgq5iOmyWzkBpK-Cederman_WorldPolitics_2010_wRQv.pdf
+Text length: 96080
+Done writing the file ./annotations_extra_with_citations/tokenized/Cederman_WorldPolitics_2010_wRQv.pdf.txt
+Num Entities: 0
+aG2ZcTW4dopIex77aQrLMvneHcBC-BAGASHKA_AmPoliSciRev_2016_RmRb.pdf
+Text length: 104097
+Done writing the file ./annotations_extra_with_citations/tokenized/BAGASHKA_AmPoliSciRev_2016_RmRb.pdf.txt
+Num Entities: 0
+aVvSDQG9jVON7l4z0VAodfR0w3i4-Abendroth_AmSocioRev_2014_G8Lr.pdf
+Text length: 82203
+Done writing the file ./annotations_extra_with_citations/tokenized/Abendroth_AmSocioRev_2014_G8Lr.pdf.txt
+Num Entities: 0
+au4CzxvE6fGH3F8lb4LmAbJn4Nn4-Dow_BritJournPoliSci_2011_qgXj.pdf
+Text length: 72069
+Done writing the file ./annotations_extra_with_citations/tokenized/Dow_BritJournPoliSci_2011_qgXj.pdf.txt
+Num Entities: 0
+afrUzdPh4qK39RynCUIcQb0.an4q-Bechtel_JournExpPoliSci_2017_EGmx.pdf
+Text length: 72576
+Done writing the file ./annotations_extra_with_citations/tokenized/Bechtel_JournExpPoliSci_2017_EGmx.pdf.txt
+Num Entities: 0
+aOGIuDkwV9hJ19svmzp6ZzALoE9y-Droseltis_JournEnvPsych_2010_LbYw.pdf
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+  0%|          | 0/19 [00:00<?, ?it/s]Text length: 82021
+100%|██████████| 19/19 [00:00<00:00, 151.79it/s]
+Done writing the file ./annotations_extra_with_citations/tokenized/Droseltis_JournEnvPsych_2010_LbYw.pdf.txt
+Num Entities: 19
+# sentences: 209
+# words: 6536
+aYJj7TgHWd4K7SIP_dflukHMiCb8-Euteneuer_HealthPsych_2012_mzpZ.pdf
+Text length: 25341
+100%|██████████| 83/83 [00:00<00:00, 718.47it/s]
+Done writing the file ./annotations_extra_with_citations/tokenized/Euteneuer_HealthPsych_2012_mzpZ.pdf.txt
+Num Entities: 83
+# sentences: 130
+# words: 4483
+aP25vDvqdsKu6Bn2bfFdltoFxGAe-Douce__JournEnvPsych_2014_2zXg.pdf
+Text length: 45155
+Done writing the file ./annotations_extra_with_citations/tokenized/Doucé_JournEnvPsych_2014_2zXg.pdf.txt
+Num Entities: 32
+100%|██████████| 32/32 [00:00<00:00, 202745.81it/s]
+# sentences: 208
+# words: 6241
+aB9hU2QsUaABvoFdoRzcyDsX_Ete-Carr_JournPerSocPsy_2017_12pD.pdf
+Text length: 169635
+Done writing the file ./annotations_extra_with_citations/tokenized/Carr_JournPerSocPsy_2017_12pD.pdf.txt
+Num Entities: 0
+aD9sOh5Vo9jb0PYPnbz01rksGM0G-Abikoff_JournConsClinPsy_2013_PXOw.pdf
+Text length: 89530
+Done writing the file ./annotations_extra_with_citations/tokenized/Abikoff_JournConsClinPsy_2013_PXOw.pdf.txt
+Num Entities: 0
+aq.C_w_YAmAyoIF1ADJLE_mZpvPS-Beall_PsychologSci_2016_5rez.pdf
+Text length: 51425
+Done writing the file ./annotations_extra_with_citations/tokenized/Beall_PsychologSci_2016_5rez.pdf.txt
+Num Entities: 0
+agyR2Ht2iyBt2HJ4OPbP4p4orP74-Cicero_EurJournPersonality_2011_pZdj.pdf
+Text length: 57917
+Done writing the file ./annotations_extra_with_citations/tokenized/Cicero_EurJournPersonality_2011_pZdj.pdf.txt
+Num Entities: 0
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+agnIgRIw2g8_8NkeF.MW0ITslG4a-Edelman_AmJournSocio_2011_VDWK.pdf
+Text length: 192125
+Done writing the file ./annotations_extra_with_citations/tokenized/Edelman_AmJournSocio_2011_VDWK.pdf.txt
+Num Entities: 375
+100%|██████████| 375/375 [00:00<00:00, 59409.41it/s]
+# sentences: 1159
+# words: 32743
+a5jFnyjd1qBMN4f55tJGGzgIDk50-Baker_WorldPolitics_2011_9lBL.pdf
+Text length: 105753
+Done writing the file ./annotations_extra_with_citations/tokenized/Baker_WorldPolitics_2011_9lBL.pdf.txt
+Num Entities: 0
+a8V9e9Hs813fnc_cM6gsTyCRP26G-Eichstaedt_PsychologSci_2015_WGle.pdf
+Text length: 48697
+0it [00:00, ?it/s]
+100%|██████████| 98/98 [00:00<00:00, 264.41it/s]
+Done writing the file ./annotations_extra_with_citations/tokenized/Eichstaedt_PsychologSci_2015_WGle.pdf.txt
+Num Entities: 98
+# sentences: 212
+# words: 7290
+a111288Lq4BiRc.DB.Dn8AtfIxXO-Carney_PsychologSci_2010_BQEE.pdf
+Text length: 24875
+Done writing the file ./annotations_extra_with_citations/tokenized/Carney_PsychologSci_2010_BQEE.pdf.txt
+Num Entities: 0
+azjEJOsf8zOV12Fuk71w57ujV_cy-Armon_EurJournPersonality_2013_mJDj.pdf
+Text length: 60067
+Done writing the file ./annotations_extra_with_citations/tokenized/Armon_EurJournPersonality_2013_mJDj.pdf.txt
+Num Entities: 0
+aIkTCwfYSVwfihapf9HTD_w2xBLC-Denney_JournMarFam_2014_wQj7.pdf
+Text length: 56733
+Done writing the file ./annotations_extra_with_citations/tokenized/Denney_JournMarFam_2014_wQj7.pdf.txt
+Num Entities: 44
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+100%|██████████| 44/44 [00:00<00:00, 352193.47it/s]
+# sentences: 468
+# words: 10546
+aDnqZPas5NkUH1YRzcIR1C.Z3y6S-Cornelius_HealthPsych_2018_xkZJ.pdf
+Text length: 44923
+Done writing the file ./annotations_extra_with_citations/tokenized/Cornelius_HealthPsych_2018_xkZJ.pdf.txt
+Num Entities: 0
+aEISEKWp1LcwkDJqyc200F8sQCR0-Bart_JournMarketRes_2014_pNjB.pdf
+Text length: 87948
+Done writing the file ./annotations_extra_with_citations/tokenized/Bart_JournMarketRes_2014_pNjB.pdf.txt
+Num Entities: 0
+aUAza48MRIPZXUAG9ukj0jHxC5Dy-Bamberger_JournAppPsych_2017_92pL.pdf
+Text length: 81304
+Done writing the file ./annotations_extra_with_citations/tokenized/Bamberger_JournAppPsych_2017_92pL.pdf.txt
+Num Entities: 0
+a4hiGJJ7.1CUQGE7WLIRhbttsGBC-Duclos_JournConsRes_2013_BaDx.pdf
+Text length: 77431
+Done writing the file ./annotations_extra_with_citations/tokenized/Duclos_JournConsRes_2013_BaDx.pdf.txt
+Num Entities: 69
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+100%|██████████| 69/69 [00:00<00:00, 280433.12it/s]
+# sentences: 456
+# words: 13176
+akN6HALrJuh9zem8A6AWbUZxKNTC-Eggebeen_JournMarFam_2009_VjlX.pdf
+Text length: 62576
+Done writing the file ./annotations_extra_with_citations/tokenized/Eggebeen_JournMarFam_2009_VjlX.pdf.txt
+Num Entities: 78
+100%|██████████| 78/78 [00:00<00:00, 203708.41it/s]
+# sentences: 293
+# words: 10163
+a8HxRrIb_RBFvw8vWnWpkCrL3KVK-Bartels_JournConsRes_2015_mrZ.pdf
+Text length: 87628
+Done writing the file ./annotations_extra_with_citations/tokenized/Bartels_JournConsRes_2015_mrZ.pdf.txt
+Num Entities: 0
+aO5ZiOJ9ur24DPXfRXm4g999fUnu-Critcher_JournPerSocPsy_2009_pEj8.pdf
+Text length: 94699
+Done writing the file ./annotations_extra_with_citations/tokenized/Critcher_JournPerSocPsy_2009_pEj8.pdf.txt
+Num Entities: 0
+aOd6nz29w5cuOnci5EiOYwJXVmCW-Aycinena_ExpEco_2018_OkDO.pdf
+Text length: 75859
+Done writing the file ./annotations_extra_with_citations/tokenized/Aycinena_ExpEco_2018_OkDO.pdf.txt
+Num Entities: 0
+aR2oSdsKhH8NOhOsghG5w.cnrMnC-Andersson_ExpEco_2017_xmjb.pdf
+Text length: 76685
+Done writing the file ./annotations_extra_with_citations/tokenized/Andersson_ExpEco_2017_xmjb.pdf.txt
+Num Entities: 0
+acs1ikozViaSFe2xTXeGtDr55Zly-Dislich_EurJournPersonality_2012_9RaY.pdf
+Text length: 50365
+Done writing the file ./annotations_extra_with_citations/tokenized/Dislich_EurJournPersonality_2012_9RaY.pdf.txt
+Num Entities: 69
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+100%|██████████| 69/69 [00:00<00:00, 390036.36it/s]
+# sentences: 235
+# words: 6953
+aXdq.qt09iDC1rdM5TvAo11jEdPi-Ailawadi_JournMarketRes_2018_QGla.pdf
+Text length: 83981
+Done writing the file ./annotations_extra_with_citations/tokenized/Ailawadi_JournMarketRes_2018_QGla.pdf.txt
+Num Entities: 0
+a_VT_Y1uGNe7Vwc8845RI_UmvqqG-DENVER_Criminology_2017_BQyd.pdf
+Text length: 104475
+Done writing the file ./annotations_extra_with_citations/tokenized/DENVER_Criminology_2017_BQyd.pdf.txt
+Num Entities: 1
+0it [00:00, ?it/s]
+100%|██████████| 1/1 [00:00<00:00, 12228.29it/s]
+# sentences: 230
+# words: 7837
+aaLXLiPAaaqGpI9BsSM1erRXF31W-David_JournOrgBehavior_2015_p9pE.pdf
+Text length: 111429
+Done writing the file ./annotations_extra_with_citations/tokenized/David_JournOrgBehavior_2015_p9pE.pdf.txt
+Num Entities: 0
+aAKuAtEWxVrvbhGoqZrfOYW7lxla-Baldassarri_AmJournSocio_2015_LeyB.pdf
+Text length: 113805
+Done writing the file ./annotations_extra_with_citations/tokenized/Baldassarri_AmJournSocio_2015_LeyB.pdf.txt
+Num Entities: 0
+aQcInaFIdNROot6zYhydW9eKRApW-Damian_EurJournPersonality_2017_7R9G.pdf
+Text length: 127668
+Done writing the file ./annotations_extra_with_citations/tokenized/Damian_EurJournPersonality_2017_7R9G.pdf.txt
+Num Entities: 0
+a4x_hfH.Cg19JViE0JEGpi2v.UZe-Eisen_LawHuman_2018_Ba9E.pdf
+Text length: 93255
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+100%|██████████| 157/157 [00:01<00:00, 156.78it/s]
+Done writing the file ./annotations_extra_with_citations/tokenized/Eisen_LawHuman_2018_Ba9E.pdf.txt
+Num Entities: 157
+# sentences: 414
+# words: 17533
+aZQO3sZhMxBpyVbkFD.6j9riel1O-Eskine_JournExpSocPsych_2013_QBm.pdf
+Text length: 24175
+Done writing the file ./annotations_extra_with_citations/tokenized/Eskine_JournExpSocPsych_2013_QBm.pdf.txt
+Num Entities: 54
+100%|██████████| 54/54 [00:00<00:00, 344213.40it/s]
+# sentences: 111
+# words: 3698
+aUULavHNCKND6bHpYp8YgDRztnfm-Andreoni_ExpEco_2015_AgQX.pdf
+Text length: 45739
+Done writing the file ./annotations_extra_with_citations/tokenized/Andreoni_ExpEco_2015_AgQX.pdf.txt
+Num Entities: 0
+agHLHbkyKu0AvlHa5pXxkbo2NE14-Collado_JournEnvPsych_2015_vRVv.pdf
+Text length: 56606
+Done writing the file ./annotations_extra_with_citations/tokenized/Collado_JournEnvPsych_2015_vRVv.pdf.txt
+Num Entities: 0
+as6jsq8dIr5wX4EZHwhkw86GKaem-Chorpita_JournConsClinPsy_2015_8VbW.pdf
+Text length: 65766
+Done writing the file ./annotations_extra_with_citations/tokenized/Chorpita_JournConsClinPsy_2015_8VbW.pdf.txt
+Num Entities: 0
+ar_ozg5l15LgupeyEpzGz6hwAXOG-Adams_JournExpSocPsych_2010_V85.pdf
+Text length: 29933
+Done writing the file ./annotations_extra_with_citations/tokenized/Adams_JournExpSocPsych_2010_V85.pdf.txt
+Num Entities: 0
+acCwiZLkOMKBw1apxm9_Sz7bb2_i-Eggers_BritJournPoliSci_2018_Xb1z.pdf
+Text length: 88565
+Done writing the file ./annotations_extra_with_citations/tokenized/Eggers_BritJournPoliSci_2018_Xb1z.pdf.txt
+Num Entities: 118
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+100%|██████████| 118/118 [00:00<00:00, 409708.50it/s]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+  0%|          | 0/64 [00:00<?, ?it/s]# sentences: 418
+# words: 15223
+aGPdVJ4ab9cBk3nMCcNjxB_8orrK-Clifford_JournExpPoliSci_2014_PK7Y.pdf
+Text length: 33879
+Done writing the file ./annotations_extra_with_citations/tokenized/Clifford_JournExpPoliSci_2014_PK7Y.pdf.txt
+Num Entities: 0
+as8P6frdgo3rE5VH2Sfj4EnDOsIy-Christensen_EurJournPersonality_2018_8R9d.pdf
+Text length: 69576
+Done writing the file ./annotations_extra_with_citations/tokenized/Christensen_EurJournPersonality_2018_8R9d.pdf.txt
+Num Entities: 0
+ahuuuoG7gOCVm2CbcL.Dnkzf.v3y-Durante_JournMarketRes_2014_lkXV.pdf
+Text length: 71167
+100%|██████████| 64/64 [00:00<00:00, 163.60it/s]
+Done writing the file ./annotations_extra_with_citations/tokenized/Durante_JournMarketRes_2014_lkXV.pdf.txt
+Num Entities: 64
+# sentences: 245
+# words: 7723
+aFC.V.DApNrMp7iQC0ORvuzQBAwW-Campbell_JournPerSocPsy_2013_gbg4.pdf
+Text length: 112179
+Done writing the file ./annotations_extra_with_citations/tokenized/Campbell_JournPerSocPsy_2013_gbg4.pdf.txt
+Num Entities: 0
+ahX_YCxmbGDyA5AcquG8WrGnC01i-Cunningham_PsychologSci_2016_24xO.pdf
+Text length: 47276
+Done writing the file ./annotations_extra_with_citations/tokenized/Cunningham_PsychologSci_2016_24xO.pdf.txt
+Num Entities: 0
+aWphzEfLuFUtNlTiMPHry6pmX3JC-Banerjee_ExpEco_2016_J4W9.pdf
+Text length: 76602
+Done writing the file ./annotations_extra_with_citations/tokenized/Banerjee_ExpEco_2016_J4W9.pdf.txt
+Num Entities: 0
+aur.Y842J0TdMs9ip90XLqCxPl3W-Baer_OrgBehavior_2012_XxEb.pdf
+Text length: 85895
+Done writing the file ./annotations_extra_with_citations/tokenized/Baer_OrgBehavior_2012_XxEb.pdf.txt
+Num Entities: 0
+aiZNZwMf__K.k7aO6FP_EtFmSGdO-Eke_LawHuman_2011_wmwk.pdf
+Text length: 65512
+Done writing the file ./annotations_extra_with_citations/tokenized/Eke_LawHuman_2011_wmwk.pdf.txt
+Num Entities: 90
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+100%|██████████| 90/90 [00:00<00:00, 194480.87it/s]
+# sentences: 353
+# words: 14438
+alGApG3TAoL5Yu3YjXfcUCeeUm7a-Andersen_ExpEco_2018_Pkez.pdf
+Text length: 62952
+Done writing the file ./annotations_extra_with_citations/tokenized/Andersen_ExpEco_2018_Pkez.pdf.txt
+Num Entities: 0
+aLQ3BBBUWlVP_UHRvX_wyiIS3Xd0-Ballinger_ExpEco_2011_PkZr.pdf
+Text length: 83807
+Done writing the file ./annotations_extra_with_citations/tokenized/Ballinger_ExpEco_2011_PkZr.pdf.txt
+Num Entities: 0
+aGtNSB3S_1ovut7XF8N._JKq.S7G-Dewitte_JournConsRes_2009_kNP4.pdf
+Text length: 71242
+Done writing the file ./annotations_extra_with_citations/tokenized/Dewitte_JournConsRes_2009_kNP4.pdf.txt
+Num Entities: 40
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+100%|██████████| 40/40 [00:00<00:00, 240706.11it/s]
+# sentences: 409
+# words: 11319
+a9gumWqpDfmO3Ws8EAaLaDA.Nu9W-Andrews_AmJournSocio_2010_1ZJD.pdf
+Text length: 131601
+Done writing the file ./annotations_extra_with_citations/tokenized/Andrews_AmJournSocio_2010_1ZJD.pdf.txt
+Num Entities: 0
+aSlPQopUjJ2_Kh0F0jhz4BGfZQji-De_Vries_EurJournPersonality_2016_d5Xl.pdf
+Text length: 113747
+Done writing the file ./annotations_extra_with_citations/tokenized/De Vries_EurJournPersonality_2016_d5Xl.pdf.txt
+Num Entities: 0
+aVbHdU.b79FnDOc0abNvl7.vj6La-ANN_SLOCUM_Criminology_2010_JxXe.pdf
+Text length: 98642
+Done writing the file ./annotations_extra_with_citations/tokenized/ANN SLOCUM_Criminology_2010_JxXe.pdf.txt
+Num Entities: 0
+aXGi8wAiLv.WmqC5Hq3l.3Ye8YO4-C_akmakl__AmJournSocio_2017_dGX2.pdf
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+Text length: 144006
+Done writing the file ./annotations_extra_with_citations/tokenized/Çakmaklı_AmJournSocio_2017_dGX2.pdf.txt
+Num Entities: 0
+aRPVNW_aLwsysPQcEkR250RLUbyS-Cantal_EurJournPersonality_2015_QgkG.pdf
+Text length: 61306
+Done writing the file ./annotations_extra_with_citations/tokenized/Cantal_EurJournPersonality_2015_QgkG.pdf.txt
+Num Entities: 0
+aoM.rC_hmkVGKx_sjR5.vTkufJ6i-Cikara_JournExPsychGen_2017_e3bp.pdf
+Text length: 67789
+Done writing the file ./annotations_extra_with_citations/tokenized/Cikara_JournExPsychGen_2017_e3bp.pdf.txt
+Num Entities: 0
+aGbIk7EYf_L9lp8Yt6zy1nXxxm14-Dahling_JournOrgBehavior_2017_58km.pdf
+Text length: 93411
+Done writing the file ./annotations_extra_with_citations/tokenized/Dahling_JournOrgBehavior_2017_58km.pdf.txt
+Num Entities: 0
+aQaynXbBcqGTvA3Say8A.l3vZCzW-Cowgill_JournExpSocPsych_2017_QGG.pdf
+Text length: 79675
+Done writing the file ./annotations_extra_with_citations/tokenized/Cowgill_JournExpSocPsych_2017_QGG.pdf.txt
+Num Entities: 0
+aolpt1JM5MnEqU6YCcd45SbTH9w8-Davis_JournMarketRes_2018_zmLm.pdf
+Text length: 67349
+Done writing the file ./annotations_extra_with_citations/tokenized/Davis_JournMarketRes_2018_zmLm.pdf.txt
+Num Entities: 0
+aoMnBaqkhMSJ3qr_4V8RHGZPUxIK-Al_Ubaydli_JournExpPoliSci_2014_EGdx.pdf
+Text length: 49869
+Done writing the file ./annotations_extra_with_citations/tokenized/Al-Ubaydli_JournExpPoliSci_2014_EGdx.pdf.txt
+Num Entities: 0
+ac.k7J0DK9gYgi4c7kSu2G3Du0M4-DUNNING_AmPoliSciRev_2013_lpzL.pdf
+Text length: 138462
+Done writing the file ./annotations_extra_with_citations/tokenized/DUNNING_AmPoliSciRev_2013_lpzL.pdf.txt
+Num Entities: 35
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+100%|██████████| 35/35 [00:00<00:00, 247974.05it/s]
+# sentences: 586
+# words: 24043
+auCttmnRSiEUI0M_rQlJE4pAkagG-Colaresi_AmJourPoliSci_2012_9XrX.pdf
+Text length: 87450
+Done writing the file ./annotations_extra_with_citations/tokenized/Colaresi_AmJourPoliSci_2012_9XrX.pdf.txt
+Num Entities: 0
+a2BeZk91WMII8QT47WWgfhouY6pa-Cole_AmJournSocio_2012_DgLy.pdf
+Text length: 110273
+Done writing the file ./annotations_extra_with_citations/tokenized/Cole_AmJournSocio_2012_DgLy.pdf.txt
+Num Entities: 0
+a_x4_T_b1gE5P_uxvwgnF6s8lKzO-De_Dreu_JournAppPsych_2009_eg0Q.pdf
+Text length: 80826
+Done writing the file ./annotations_extra_with_citations/tokenized/De Dreu_JournAppPsych_2009_eg0Q.pdf.txt
+Num Entities: 0
+aiQEDMUi7TyXllQHUMn0WJ.VWl2y-Dai_OrgBehavior_2018_P8OJ.pdf
+Text length: 124302
+Done writing the file ./annotations_extra_with_citations/tokenized/Dai_OrgBehavior_2018_P8OJ.pdf.txt
+Num Entities: 0
+aO4xKw.foLqif02KPVFg_O6qitiC-Eisenbruch_EvoHumanBehavior_2016_LGYx.pdf
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+0it [00:00, ?it/s]
+100%|██████████| 254/254 [00:00<00:00, 425460.55it/s]
+Text length: 78942
+Done writing the file ./annotations_extra_with_citations/tokenized/Eisenbruch_EvoHumanBehavior_2016_LGYx.pdf.txt
+Num Entities: 254
+# sentences: 540
+# words: 15390
+ab9bpIqi8wWjZcEgTZV2YSJ3GA9O-Barnhart_WorldPolitics_2017_3r5G.pdf
+Text length: 119674
+Done writing the file ./annotations_extra_with_citations/tokenized/Barnhart_WorldPolitics_2017_3r5G.pdf.txt
+Num Entities: 0
+ahQSxGFDb0iDOznH4l3DPzLxbAuy-Dilliplane_AmJourPoliSci_2013_G88r.pdf
+Text length: 61785
+Done writing the file ./annotations_extra_with_citations/tokenized/Dilliplane_AmJourPoliSci_2013_G88r.pdf.txt
+Num Entities: 2
+0it [00:00, ?it/s]
+100%|██████████| 2/2 [00:00<00:00, 20815.40it/s]
+# sentences: 40
+# words: 1301

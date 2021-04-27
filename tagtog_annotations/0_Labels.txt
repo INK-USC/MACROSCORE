@@ -11,5 +11,6 @@ Effect Size,ES,<ES></ES> # r, R2, Cohen’s d, f, Glass’ Δ, Hedges’ g, η2,
 P Value,PV,<PV></PV> #
 Sampling Method,SP,<SP></SP> #
 Preregistration,PR,<PR></PR> #
+Citation,CT,<CT></CT> #
 //Hypothesis,HP,<HP></HP> # this is from provided metadata
 //Content of Focus,CF,<CF></CF> # 
