@@ -6,6 +6,7 @@ import jsonlines, json
 import stanza
 import numpy as np
 from stanfordcorenlp import StanfordCoreNLP
+import argparse
 
 # Dependency parsing utils
 # tokens_list = None
@@ -133,8 +134,10 @@ def demo_dep_parse(nlp):
     temp_entity_span_start = find_sublist(temp_entity.split(), temp_text.split())
     temp_entity_span = [temp_entity_span_start+x for x in range(len(temp_entity.split()))]
 
-    candidates = getCandidiates_dep_parse(nlp, temp_text, temp_entity, temp_entity_span)
-    print(candidates)
+    temp_candidates = getCandidiates_dep_parse(nlp, temp_text, temp_entity, temp_entity_span)
+    print("Input text = ", temp_text)
+    print("Input entity mention = ", temp_entity)
+    print("Candidates = ", temp_candidates)
 
 # Constituency parsing utils
 def is_leaf(node):
@@ -175,6 +178,8 @@ def getCandidiates_const_parse(nlp, input_text, entity_mention, entity_span):
 
     # Check if the entity mention corresponds to the entity span
     identified_entity = " ".join([tokens_list[x] for x in entity_span])
+    identified_entity = identified_entity.replace("-LRB-", "(")
+    identified_entity = identified_entity.replace("-RRB-", ")")
     if identified_entity != entity_mention:
         print(identified_entity, entity_mention)
         raise Exception("Entity span and mention doesn't correlate!")
@@ -214,60 +219,93 @@ def demo_const_parse(nlp):
         except ValueError:
             return -1
 
-    # # Test 1
-    # temp_text = "however , the size of the rho estimates indicate that a small amount of total error is being accounted for by level-2 variation in each model , and regression analysis of each threat model using ols produced extremely similar inferences to the multilevel model estimates ."
-    # temp_entity = "regression analysis"
+    # Test 1
+    temp_text = "however , the size of the rho estimates indicate that a small amount of total error is being accounted for by level-2 variation in each model , and regression analysis of each threat model using ols produced extremely similar inferences to the multilevel model estimates ."
+    temp_entity = "regression analysis"
 
-    # Test 2
-    temp_text = "in addition , the model found the predicted effect of phi on preference , b = 0.50 , se = 0.15 , z = 3.40 , p = .001 ."
-    temp_entity = "p = .001"
+    # # Test 2
+    # temp_text = "in addition , the model found the predicted effect of phi on preference , b = 0.50 , se = 0.15 , z = 3.40 , p = .001 ."
+    # temp_entity = "p = .001"
 
     temp_entity_span_start = find_sublist(temp_entity.split(), temp_text.split())
     temp_entity_span = [temp_entity_span_start+x for x in range(len(temp_entity.split()))]
 
-    candidates = getCandidiates_const_parse(nlp, temp_text, temp_entity, temp_entity_span)
-    print(candidates)
+    temp_candidates = getCandidiates_const_parse(nlp, temp_text, temp_entity, temp_entity_span)
+    print("Input text = ", temp_text)
+    print("Input entity mention = ", temp_entity)
+    print("Candidates = ", temp_candidates)
+
+
+def filterNERTriggerCandidates(candidates_list, entity_mention_span):
+    """
+    Remove the candidate spans that contain the target entity mention; These candidates cannot be used as trigger phrases
+    for the target entity
+    :param candidates_list:
+    :param entity_mention_span:
+    :return: Filtered candidates_list
+    """
+
+    entity_start_idx = entity_mention_span[0]
+    entity_end_idx = entity_mention_span[-1]
+    candidates_list_filtered = []
+    for cur_cand in candidates_list:
+        # Span contains the entity mention
+        if entity_start_idx >= cur_cand["candidate_span"][0] and entity_end_idx <= cur_cand["candidate_span"][1]:
+            continue
+        # Span is a subset of the entity mention
+        if cur_cand["candidate_span"][0] >= entity_start_idx and cur_cand["candidate_span"][1] <= entity_end_idx:
+            continue
+        candidates_list_filtered.append(cur_cand)
+
+    return candidates_list_filtered
 
 if __name__ == "__main__":
-    base_dir = "../phrase_level_extraction/hiexpl_soc_ner/data/ner_dataset_tc"
-    parse_method = "const_parse"
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--data_dir", type=str, default="../phrase_level_extraction/hiexpl_soc_ner/data/ner_dataset_tc/",
+                        help="NER-TC Data directory (with train.jsonl and test.jsonl files)")
+    parser.add_argument("--out_dir", type=str, default="../phrase_level_extraction/hiexpl_soc_ner/data/ner_dataset_tc/depparse_trees/",
+                        help="NER Data directory (with train.txt and test.txt files)")
+    parser.add_argument("--parse_method", type=str, default="dep_parse",
+                        help="Type of parse used to generate candidates. Options: 1. const_parse and 2. dep_parse")
+    parser.add_argument("--show_demo", action="store_true", help="Whether to show demo or not?")
+    args = parser.parse_known_args()[0]
 
+    base_dir = args.data_dir
+    parse_method = args.parse_method
     if parse_method == "dep_parse":
         # Use Stanza
         nlp = stanza.Pipeline(lang="en", processors="tokenize,mwt,pos,lemma,depparse", tokenize_pretokenized=True)
 
-        # # Sample demo
-        # demo_dep_parse(nlp)
+        # Sample demo
+        if args.show_demo:
+            demo_dep_parse(nlp)
 
         # Parse all the samples and create the candidate trigger phrases
-        for type_path in ["test", "train"]:
+        for type_path in ["train", "test"]:
             inp_path = os.path.join(base_dir, type_path + ".jsonl")
-            out_dir = os.path.join(base_dir, "trees_depparse_temp")
+            out_dir = args.out_dir
             if not os.path.exists(out_dir):
                 os.makedirs(out_dir)
             out_path = os.path.join(out_dir, type_path + ".jsonl")
 
             result = []
-            cnt = 0
             with open(inp_path, "r") as f:
-                for cur_line in f:
-                    try:
-                        cur_dict = json.loads(cur_line)
-                        candidates = getCandidiates_dep_parse(nlp, cur_dict["sentence"], cur_dict["entity"], cur_dict["entity_span"])
+                data_lines = f.readlines()
 
-                        # Update the dict with tokenized version of the input
-                        cur_dict["candidates"] = candidates
-                        result.append(cur_dict)
-                    except Exception as e:
-                        print(e)
-                        pass
+            for idx, cur_line in enumerate(tqdm(data_lines, desc="Type path-" + type_path)):
+                cur_line = cur_line.strip()
+                try:
+                    cur_dict = json.loads(cur_line)
+                    candidates = getCandidiates_dep_parse(nlp, cur_dict["sentence"], cur_dict["entity"], cur_dict["entity_span"])
 
-                    cnt += 1
-                    if cnt % 10 == 0:
-                        print("Progress = ", cnt)
+                    # Update the dict with tokenized version of the input
+                    cur_dict["candidates"] = filterNERTriggerCandidates(candidates, cur_dict["entity_span"])
+                    result.append(cur_dict)
+                except Exception as e:
+                    print(e)
+                    pass
 
-
-            print(len(result))
+            print("Number of valid instances with candidates = ", len(result))
             with jsonlines.open(out_path, "w") as f:
                 f.write_all(result)
 
@@ -275,37 +313,35 @@ if __name__ == "__main__":
         # Use StanfordCoreNLP
         nlp = StanfordCoreNLP("stanford-corenlp-4.1.0")
 
-        # # Sample demo
-        # demo_const_parse(nlp)
+        # Sample demo
+        if args.show_demo:
+            demo_const_parse(nlp)
 
         # Parse all the samples and create the candidate trigger phrases
-        for type_path in ["test", "train"]:
+        for type_path in ["train", "test"]:
             inp_path = os.path.join(base_dir, type_path + ".jsonl")
-            out_dir = os.path.join(base_dir, "trees_constparse_temp")
+            out_dir = args.out_dir
             if not os.path.exists(out_dir):
                 os.makedirs(out_dir)
             out_path = os.path.join(out_dir, type_path + ".jsonl")
 
             result = []
-            cnt = 0
             with open(inp_path, "r") as f:
-                for cur_line in f:
-                    try:
-                        cur_dict = json.loads(cur_line)
-                        cur_text = cur_dict["sentence"]
-                        candidates = getCandidiates_const_parse(nlp, cur_dict["sentence"], cur_dict["entity"], cur_dict["entity_span"])
-                        cur_dict["candidates"] = candidates
-                        result.append(cur_dict)
-                    except Exception as e:
-                        print(e)
-                        pass
+                data_lines = f.readlines()
 
-                    cnt += 1
-                    if cnt % 10 == 0:
-                        print("Progress = ", cnt)
+            for idx, cur_line in enumerate(tqdm(data_lines, desc="Type path-" + type_path)):
+                cur_line = cur_line.strip()
+                try:
+                    cur_dict = json.loads(cur_line)
+                    cur_text = cur_dict["sentence"]
+                    candidates = getCandidiates_const_parse(nlp, cur_dict["sentence"], cur_dict["entity"], cur_dict["entity_span"])
+                    cur_dict["candidates"] = filterNERTriggerCandidates(candidates, cur_dict["entity_span"])
+                    result.append(cur_dict)
+                except Exception as e:
+                    print(e)
+                    pass
 
-
-            print(len(result))
+            print("Number of valid instances with candidates = ", len(result))
             with jsonlines.open(out_path, "w") as f:
                 f.write_all(result)
 
