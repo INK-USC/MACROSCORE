@@ -10,4 +10,19 @@
 /.DS_Store
 /.ipynb_checkpoints/*
 
+# In data_processed
+/data_processed/ta2_folds/
+
+# In lm_classify
 /lm_classify/trained_models/*
+
+# In phrase_level_extraction
+/phrase_level_extraction/hiexpl_soc_ner/data/*
+/phrase_level_extraction/hiexpl_soc_ner/models/*
+/phrase_level_extraction/hiexpl_soc_ner/outputs/*
+/phrase_level_extraction/hiexpl_soc_only/data/*
+/phrase_level_extraction/hiexpl_soc_only/models/*
+/phrase_level_extraction/hiexpl_soc_only/outputs/*
+
+# In tagtog_annotations
+/tagtog_annotations/annotations_data/*
