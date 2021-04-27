@@ -82,7 +82,7 @@ python3 RPP_scibert.py --feature_type content --data_type TA2 --data_path ../dat
 CUDA_VISIBLE_DEVICES=2 python3 lm_train.py --do_eval --model_type M1 --loss_type regression --output_dir ta2_reg_checkpoint/m1_fold1 --data_type TA2 --data_dir ../data_processed/ta2_folds/fold_1 --num_epochs 10
 
 # 10 fold CV data (done)
-CUDA_VISIBLE_DEVICES=2 python3 lm_train_with_folds_v2.py --model_type M1 --loss_type regression --output_dir ta2_reg_checkpoint/m1_folds --data_dir ../data_processed/ta2_folds/fold_full --num_epochs 20 --train_batch_size 32 --eval_batch_size 32 --cv_folds 1,2,3,4,5,6,7,8,9,10
+CUDA_VISIBLE_DEVICES=2 python3 lm_train_with_folds_v2.py --model_type M1 --loss_type regression --output_dir ta2_reg_checkpoint/m1_folds --data_dir ../data_processed/ta2_folds/ta2_reg_folds/fold_full --num_epochs 20 --train_batch_size 32 --eval_batch_size 32 --cv_folds 1,2,3,4,5,6,7,8,9,10
 
 # Final model trained on whole data (ongoing)
 CUDA_VISIBLE_DEVICES=2 python3 lm_train_with_folds_v2.py --model_type M1 --loss_type regression --output_dir ta2_reg_checkpoint/m1_final --data_dir ../data_processed/ta2_folds/fold_full --num_epochs 15 --train_batch_size 32 --eval_batch_size 32 --cv_folds -1
