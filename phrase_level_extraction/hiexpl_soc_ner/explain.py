@@ -59,24 +59,18 @@ if __name__ == '__main__':
     torch.cuda.manual_seed(seed)
     torch.manual_seed(seed)
 
-    if args.task == 'repr':
-        args.vocab_path = "vocab/vocab_repr_claims_bert.pkl"
-        tree_path = ""
-    elif args.task == 'repr_ner_tc':
-        args.vocab_path = "vocab/vocab_repr_claims_bert.pkl"
-        tree_path = "data/ner_dataset_tc/trees/{}.jsonl".format(args.dataset)
-    elif args.task == 'repr_ner_seq':
-        args.vocab_path = "vocab/vocab_repr_claims_bert.pkl"
-        tree_path = "data/ner_dataset_tc/trees/{}.jsonl".format(args.dataset)
-    else:
-        raise ValueError('unknown task')
+    args.vocab_path = "vocab/vocab_repr_ner_bert.pkl"
+    tree_path = os.path.join(args.data_dir, "{}.jsonl".format(args.dataset))
+    parse_method = tree_path.split("/")[-2]
 
+    print("Using treepath = ", tree_path)
     vocab = load_vocab(args.vocab_path)
 
     args.n_embed = len(vocab)
     args.d_out = 8  # Number of classes
     args.n_cells = args.n_layers
     args.use_gpu = args.gpu >= 0
+    print(args)
 
     if args.explain_model == 'bert':
         if args.task == "repr_ner_tc":
@@ -119,32 +113,50 @@ if __name__ == '__main__':
         for cur_line in f:
             tree_data.append(json.loads(cur_line.strip()))
 
-    target_entity_class = args.target_entity_class
-    filtered_tree_data = []
-    for cur_record in tree_data:
-        if cur_record["label"] == target_entity_class:
-            filtered_tree_data.append(cur_record)
+    if args.target_entity_class != "ALL":
+        target_entity_class_list = list(args.target_entity_class.split(","))
+        filtered_tree_data = []
+        for cur_record in tree_data:
+            if cur_record["label"] in target_entity_class_list:
+                filtered_tree_data.append(cur_record)
+        print("Number of records with labels {} = {}".format(args.target_entity_class, len(filtered_tree_data)))
+    else:
+        filtered_tree_data = tree_data
+        print("Total number of all the records = {}".format(len(filtered_tree_data)))
 
-    print("Number of records with label {} = {}".format(target_entity_class, len(filtered_tree_data)))
     results_all = []
+    start_idx = int(args.start)
+    end_idx = int(args.stop)
     for cur_idx in tqdm(range(len(filtered_tree_data))):
+        # Index based filtering
+        if cur_idx < start_idx:
+            break
+        if end_idx != -1 and cur_idx > end_idx:
+            break
+
         cur_record = filtered_tree_data[cur_idx]
-        if args.task == "repr_ner_tc":
-            cur_result = algo.explain_repr_ner_tc_single(cur_record, topk=3)
-        elif args.task == "repr_ner_seq":
-            cur_result = algo.explain_repr_ner_seq_single(cur_record, topk=3)
-        else:
-            raise Exception("Invalid NER task type")
+
+        try:
+            if args.task == "repr_ner_tc":
+                cur_result = algo.explain_repr_ner_tc_single_custom(cur_record, topk=3)
+            elif args.task == "repr_ner_seq":
+                cur_result = algo.explain_repr_ner_seq_single_custom(cur_record, topk=3)
+            else:
+                raise Exception("Invalid NER task type")
+        except Exception as e:
+            print(e)
+            cur_result = None
 
         if cur_result is None:
             print("Error for ", cur_idx)
         else:
+            del cur_record["candidates"]
             cur_record["predicted_label"] = cur_result["predicted_label"]
             cur_record["important_phrases"] = cur_result["important_phrases"]
             results_all.append(cur_record)
-        break
 
-    out_path = 'outputs/' + args.task + "_" + args.target_entity_class + ".json"
+
+    out_path = 'outputs/' + args.task + "_" + parse_method + "_" + args.exp_name + "_" + args.target_entity_class + ".json"
     with open(out_path, "w") as f:
         json.dump(results_all, f, indent=2)
 

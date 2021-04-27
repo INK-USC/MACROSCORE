@@ -96,8 +96,7 @@ to	O
 one	O
 of	O
 two	O
-learn-	O
-ing	O
+learning	O
 scenarios	O
 :	O
 each	O
@@ -145,8 +144,7 @@ most	O
 participants	O
 preferred	O
 the	O
-sec-	O
-ond	O
+second	O
 tribe	O
 over	O
 the	O
@@ -215,8 +213,7 @@ collected	O
 data	O
 from	O
 223	B-SS
-partici-	O
-pants	O
+participants	O
 who	O
 were	O
 students	B-SP
@@ -278,8 +275,7 @@ p	B-PV
 .	O
 
 this	O
-associa-	O
-tion	O
+association	O
 between	O
 phi	O
 and	O
@@ -323,8 +319,7 @@ as	O
 a	O
 continuous	O
 subject-level	O
-param-	O
-eter	O
+parameter	O
 could	O
 account	O
 for	O
@@ -333,8 +328,7 @@ effect	O
 of	O
 condition	O
 on	O
-prefer-	O
-ence	O
+preference	O
 .	O
 
 this	O
@@ -549,8 +543,7 @@ level	O
 in	O
 this	O
 overall	O
-analy-	O
-sis	O
+analysis	O
 ,	O
 χ2	O
 (	O
@@ -658,8 +651,7 @@ as	O
 a	O
 continuous	O
 subject-level	O
-param-	O
-eter	O
+parameter	O
 accounted	O
 for	O
 the	O
@@ -689,8 +681,7 @@ preference	O
 that	O
 was	O
 not	O
-signifi-	O
-cant	O
+significant	O
 at	O
 a	O
 standard	O
@@ -920,8 +911,7 @@ were	O
 non-black	O
 introductory	O
 psychology	O
-stu-	O
-dents	O
+students	O
 (	O
 26	O
 females	O
@@ -952,8 +942,7 @@ conducted	O
 six	O
 two-way	O
 repeated	B-TN
-mea-	I-TN
-sures	I-TN
+measures	I-TN
 analyses	I-TN
 of	I-TN
 variance	I-TN
@@ -1192,8 +1181,7 @@ revealed	O
 a	O
 two-way	O
 interaction	O
-be-	O
-tween	O
+between	O
 target	O
 age	O
 and	O
@@ -1287,8 +1275,7 @@ targets	O
 ,	O
 such	O
 that	O
-partic-	O
-ipants	O
+participants	O
 saw	O
 anger	O
 last	O
@@ -1640,8 +1627,7 @@ pattern	O
 ,	O
 such	O
 that	O
-partici-	O
-pants	O
+participants	O
 saw	O
 anger	O
 appear	O
@@ -1679,8 +1665,7 @@ s	O
 )	O
 ,	O
 was	O
-mar-	O
-ginally	O
+marginally	O
 significant	O
 ,	O
 t	O
@@ -1732,8 +1717,7 @@ g2p	O
 .	O
 
 when	O
-observ-	O
-ing	O
+observing	O
 white	O
 targets	O
 ,	O
@@ -1792,8 +1776,7 @@ d	O
 .	O
 
 the	O
-oppo-	O
-site	O
+opposite	O
 pattern	O
 was	O
 found	O
@@ -1866,8 +1849,7 @@ revealed	O
 a	O
 two-way	O
 interaction	O
-be-	O
-tween	O
+between	O
 target	O
 age	O
 and	O
@@ -1897,8 +1879,7 @@ targets	O
 ,	O
 participants	O
 judged	O
-hap-	O
-piness	O
+happiness	O
 as	O
 appearing	O
 sooner	O
@@ -2095,8 +2076,7 @@ we	O
 simultaneously	O
 model	O
 the	O
-transi-	O
-table	O
+transitable	O
 2	O
 regression	B-TN
 discontinuity	I-TN
@@ -2305,8 +2285,7 @@ have	O
 in	O
 the	O
 actual	O
-appli-	O
-cation	O
+application	O
 ,	O
 that	O
 is	O
@@ -2321,8 +2300,7 @@ of	O
 the	O
 sample	O
 comes	O
-un-	O
-der	O
+under	O
 the	O
 risk	O
 of	O
@@ -2500,8 +2478,7 @@ to	O
 priming	O
 modulating	O
 action–effect	O
-contingen-	O
-cies	O
+contingencies	O
 .	O
 
 on	O
@@ -2533,16 +2510,14 @@ strongly	O
 suggest	O
 that	O
 the	O
-cog-	O
-nitive-motor	O
+cognitive-motor	O
 processes	O
 that	O
 generate	O
 and	O
 select	O
 between	O
-ac-	O
-tion	O
+action	O
 alternatives	O
 also	O
 contribute	O
@@ -2605,8 +2580,7 @@ experiment	B-SD
 1	I-SD
 included	O
 both	O
-free-	O
-and	O
+freeand	O
 cued-choice	O
 actions	O
 .	O
@@ -2699,8 +2673,7 @@ of	O
 subjects	O
 this	O
 more	O
-conserva-	O
-tive	O
+conservative	O
 measure	O
 performed	O
 similarly	O
@@ -2708,8 +2681,7 @@ similarly	O
 with	O
 d0	O
 again	O
-non-signif-	O
-icantly	O
+non-significantly	O
 different	O
 from	O
 zero	O
@@ -2721,8 +2693,7 @@ d0	O
 ±	O
 0.12	O
 ;	O
-one-	B-TN
-sample	I-TN
+onesample	B-TN
 t-test	I-TN
 ,	O
 t	O
@@ -2760,8 +2731,7 @@ ratio	O
 and	O
 compatibility	O
 (	O
-prime-re-	O
-sponse	O
+prime-response	O
 compatible	O
 vs.	O
 incompatible	O
@@ -2771,8 +2741,7 @@ factors	O
 .	O
 
 this	O
-analy-	O
-sis	O
+analysis	O
 yielded	O
 a	O
 significant	O
@@ -2800,8 +2769,7 @@ mse	O
 ,	O
 indicating	O
 that	O
-re-	O
-sponses	O
+responses	O
 to	O
 arrow	O
 masks	O
@@ -2838,8 +2806,7 @@ ratio	O
 did	O
 not	O
 reach	O
-sig-	O
-nificance	O
+significance	O
 ,	O
 f	O
 (	O
@@ -2869,8 +2836,7 @@ and	O
 compatibility	O
 was	O
 not	O
-signif-	O
-icant	O
+significant	O
 ,	O
 f	O
 (	O
@@ -2914,8 +2880,7 @@ error	O
 rates	O
 revealed	O
 a	O
-sig-	O
-nificant	O
+significant	O
 main	O
 effect	O
 of	O
@@ -2972,8 +2937,7 @@ condition	O
 than	O
 in	O
 the	O
-prime-	O
-compatible	O
+primecompatible	O
 condition	O
 (	O
 2.35	O
@@ -3035,8 +2999,7 @@ chosen	O
 actions	O
 showed	O
 that	O
-prime-compati-	O
-ble	O
+prime-compatible	O
 choices	O
 were	O
 faster	O
@@ -3139,8 +3102,7 @@ compared	O
 reaction	O
 times	O
 of	O
-cued-	O
-choice	O
+cuedchoice	O
 and	O
 free-choice	O
 actions	O
@@ -3226,14 +3188,12 @@ f0s	O
 )	O
 .	O
 
-partic-	O
-ipants	O
+participants	O
 selected	O
 the	O
 prime-compatible	O
 response	O
-signifi-	O
-cantly	O
+significantly	O
 more	O
 often	O
 (	O
@@ -3282,8 +3242,7 @@ p	B-PV
 
 the	O
 first	O
-analy-	O
-sis	O
+analysis	O
 showed	O
 that	O
 perceived	O
@@ -3291,8 +3250,7 @@ control	O
 over	O
 effect	O
 colours	O
-de-	O
-pended	O
+depended	O
 on	O
 prime-action	O
 compatibility	O
@@ -3387,15 +3345,13 @@ to	O
 a	O
 2	O
 3	O
-within-	O
-subjects	O
+withinsubjects	O
 anova	B-TN
 with	O
 factors	O
 ratio	O
 and	O
-effect-compatibil-	O
-ity	O
+effect-compatibility	O
 .	O
 
 the	O
@@ -3427,8 +3383,7 @@ significant	O
 ,	O
 indicating	O
 that	O
-partic-	O
-ipants	O
+participants	O
 felt	O
 more	O
 in	O
@@ -3511,8 +3466,7 @@ trials	O
 mean	O
 number	O
 of	O
-cor-	O
-rect	O
+correct	O
 assignments	O
 :	O
 15.4	O
@@ -3535,8 +3489,7 @@ as	O
 confirmed	O
 by	O
 a	O
-wilcoxon-	O
-test	O
+wilcoxontest	O
 ,	O
 z	O
 =	O
@@ -3583,8 +3536,7 @@ mse	O
 ,	O
 whereas	O
 the	O
-interac-	O
-tion	O
+interaction	O
 between	O
 compatibility	O
 and	O
@@ -3611,8 +3563,7 @@ sense	O
 of	O
 control	O
 on	O
-free-	O
-and	O
+freeand	O
 cued-choice	O
 trials	O
 was	O
@@ -3646,8 +3597,7 @@ m	O
 57.72	O
 )	O
 was	O
-signifi-	O
-cantly	O
+significantly	O
 higher	O
 than	O
 for	O
@@ -3687,8 +3637,7 @@ between	O
 the	O
 compatible	O
 and	O
-incompati-	O
-ble	O
+incompatible	O
 conditions	O
 ,	O
 consistent	O
@@ -3733,8 +3682,7 @@ that	O
 participants	O
 saw	O
 the	O
-prime-ac-	O
-tion	O
+prime-action	O
 compatible	O
 effect	O
 colours	O
@@ -3797,8 +3745,7 @@ of	O
 control	O
 :	O
 a	O
-paired-	B-TN
-sample	I-TN
+pairedsample	B-TN
 t-test	I-TN
 comparing	O
 the	O
@@ -3806,8 +3753,7 @@ beta	O
 coefficients	O
 (	O
 partial	O
-corre-	O
-lations	O
+correlations	O
 with	O
 control	O
 ratings	O
@@ -3905,8 +3851,7 @@ a	O
 3	O
 anova	B-TN
 with	O
-ra-	O
-tio	O
+ratio	O
 and	O
 compatibility	O
 as	O
@@ -3960,8 +3905,7 @@ indicating	O
 that	O
 the	O
 differences	O
-be-	O
-tween	O
+between	O
 compatibility	O
 conditions	O
 were	O
@@ -3984,8 +3928,7 @@ the	O
 independent	O
 contribution	O
 conditional	O
-col-	O
-our	O
+colour	O
 probability	O
 to	O
 sense	O
@@ -4149,8 +4092,7 @@ female	O
 with	O
 normal	O
 or	O
-cor-	O
-rected-to-normal	O
+corrected-to-normal	O
 vision	O
 participated	O
 in	O
@@ -4228,8 +4170,7 @@ interestingly	O
 ,	O
 excluded	O
 participants	O
-expe-	O
-rienced	O
+experienced	O
 more	O
 control	O
 in	O
@@ -4272,8 +4213,7 @@ the	O
 remaining	O
 subjects	O
 were	O
-una-	O
-ware	O
+unaware	O
 of	O
 the	O
 direction	O
@@ -4313,8 +4253,7 @@ showed	O
 that	O
 incompatibly	O
 primed	O
-re-	O
-sponses	O
+responses	O
 (	O
 m	O
 =	O
@@ -4352,8 +4291,7 @@ committed	O
 more	O
 errors	O
 on	O
-incom-	O
-patible	O
+incompatible	O
 (	O
 3	O
 %	O
@@ -4386,8 +4324,7 @@ was	O
 significant	O
 in	O
 control	O
-rat-	O
-ings	O
+ratings	O
 ,	O
 as	O
 indicated	O
@@ -4438,8 +4375,7 @@ p	B-PV
 )	O
 ,	O
 presumably	O
-be-	O
-cause	O
+because	O
 of	O
 the	O
 reduced	O
@@ -4462,8 +4398,7 @@ conducted	O
 a	O
 2	O
 (	O
-experi-	O
-ment	O
+experiment	O
 )	O
 2	O
 (	O
@@ -4476,8 +4411,7 @@ the	O
 main	O
 effect	O
 of	O
-com-	O
-patibility	O
+compatibility	O
 was	O
 highly	O
 significant	O
@@ -4607,8 +4541,7 @@ adult	O
 americans	O
 throughout	O
 the	O
-contigu-	O
-ous	O
+contiguous	O
 united	O
 states	O
 .	O
@@ -4658,8 +4591,7 @@ white	O
 .	O
 
 moderated	O
-regres-	B-TN
-sion	I-TN
+regression	B-TN
 analysis	I-TN
 is	O
 employed	O
@@ -4667,8 +4599,7 @@ to	O
 analyze	O
 the	O
 marginal	O
-ef-	O
-fect	O
+effect	O
 of	O
 hispanic	O
 growth	O
@@ -4687,8 +4618,7 @@ test	O
 hypothesis	O
 1	O
 and	O
-hy-	O
-pothesis	O
+hypothesis	O
 3	O
 ,	O
 moderated	O
@@ -4723,8 +4653,7 @@ the	O
 data	O
 ,	O
 where	O
-in-	O
-dividual	O
+individual	O
 respondents	O
 are	O
 embedded	O
@@ -4777,8 +4706,7 @@ cultural	O
 threat	O
 on	O
 all	O
-county-	O
-and	O
+countyand	O
 individual-level	O
 predictors	O
 and	O
@@ -4795,8 +4723,7 @@ cultural	O
 threat	O
 and	O
 all	O
-county-	O
-and	O
+countyand	O
 individual-level	O
 predictors	O
 .	O
@@ -4811,8 +4738,7 @@ the	O
 expected	O
 value	O
 of	O
-cul-	O
-tural	O
+cultural	O
 threat	O
 associated	O
 with	O
@@ -4839,8 +4765,7 @@ equation—hispanic	O
 specification	O
 of	O
 an	O
-interac-	O
-tive	O
+interactive	O
 model	O
 is	O
 necessary	O
@@ -4871,8 +4796,7 @@ expectations	O
 ,	O
 violate	O
 the	O
-additiv-	O
-ity	O
+additivity	O
 assumption	O
 implicit	O
 in	O
@@ -4895,8 +4819,7 @@ via	O
 its	O
 impact	O
 on	O
-cul-	O
-tural	O
+cultural	O
 threat	O
 perceptions	O
 ,	O
@@ -4905,8 +4828,7 @@ can	O
 allow	O
 for	O
 the	O
-specifica-	O
-tion	O
+specification	O
 of	O
 categorical	O
 variables	O
@@ -4968,8 +4890,7 @@ indicating	O
 that	O
 the	O
 marginal	O
-ef-	O
-fect	O
+effect	O
 of	O
 hispanic	O
 growth	O
@@ -4995,8 +4916,7 @@ to	O
 control	O
 for	O
 unobserved	O
-hetero-	O
-geneity	O
+heterogeneity	O
 between	O
 the	O
 counties	O
@@ -5024,8 +4944,7 @@ accounted	O
 for	O
 by	O
 level-2	O
-vari-	O
-ation	O
+variation	O
 in	O
 each	O
 model	O
@@ -5980,8 +5899,7 @@ these	O
 results	O
 ,	O
 replication	O
-analy-	O
-ses	O
+analyses	O
 were	O
 performed	O
 using	O
@@ -6019,8 +5937,7 @@ n	O
 =	O
 6,003	O
 adult	O
-re-	O
-spondents	O
+respondents	O
 ,	O
 relied	O
 upon	O
@@ -6131,8 +6048,7 @@ convenience	B-SP
 sample	I-SP
 and	O
 were	O
-allo-	O
-cated	O
+allocated	O
 to	O
 the	O
 study	O
@@ -6189,8 +6105,7 @@ procedure	O
 allowed	O
 us	O
 to	O
-deter-	O
-mine	O
+determine	O
 the	O
 extent	O
 to	O
@@ -6208,8 +6123,7 @@ whether	O
 these	O
 variations	O
 were	O
-sig-	O
-nificant	O
+significant	O
 across	O
 the	O
 whole	B-SP
@@ -6245,8 +6159,7 @@ the	O
 effect	O
 of	O
 perceived	O
-respon-	O
-siveness	O
+responsiveness	O
 on	O
 romantic	O
 interest	O
@@ -6365,8 +6278,7 @@ p	B-PV
 0.01	I-PV
 and	O
 for	O
-nega-	O
-tive	O
+negative	O
 affect	O
 ,	O
 icc	O
@@ -6390,8 +6302,7 @@ of	O
 the	O
 variance	O
 in	O
-partici-	O
-pants	O
+participants	O
 ’	O
 positive	O
 affect	O
@@ -6479,8 +6390,7 @@ other	O
 people	O
 ’	O
 s	O
-pos-	O
-itive	O
+positive	O
 affect	O
 ,	O
 wald	O
@@ -6504,8 +6414,7 @@ was	O
 well-explained	O
 by	O
 affective	O
-pres-	O
-ence	O
+presence	O
 ,	O
 icc=	O
 18	O
@@ -6529,8 +6438,7 @@ function—for	O
 the	O
 effect	O
 of	O
-posi-	O
-tive	O
+positive	O
 affective	O
 presence	O
 upon	O
@@ -6655,8 +6563,7 @@ variables	O
 beyond	O
 positive	O
 affective	O
-pres-	O
-ence	O
+presence	O
 ,	O
 may	O
 also	O
@@ -6707,8 +6614,7 @@ that	O
 perceived	O
 responsiveness	O
 was	O
-signifi-	O
-cantly	O
+significantly	O
 associated	O
 to	O
 romantic	O
@@ -6765,8 +6671,7 @@ model	O
 the	O
 effect	O
 of	O
-per-	O
-ceived	O
+perceived	O
 responsiveness	O
 was	O
 no	O
@@ -6835,8 +6740,7 @@ positive	O
 affective	O
 presence	O
 significantly	O
-medi-	O
-ated	O
+mediated	O
 the	O
 effect	O
 of	O
@@ -6844,8 +6748,7 @@ perceived	O
 responsiveness	O
 on	O
 romantic	O
-inter-	O
-est	O
+interest	O
 ,	O
 z´=	O
 3.69	O
@@ -6876,8 +6779,7 @@ strategy	O
 use	O
 was	O
 significantly	O
-associ-	O
-ated	O
+associated	O
 with	O
 positive	O
 affective	O
@@ -7038,8 +6940,7 @@ the	O
 relationship	O
 between	O
 perceived	O
-respon-	O
-siveness	O
+responsiveness	O
 and	O
 romantic	O
 interest	O
@@ -7188,8 +7089,7 @@ is	O
 inferred	O
 .	O
 
-al-	O
-though	O
+although	O
 srm	B-TN
 analysis	I-TN
 benefits	O
@@ -7216,8 +7116,7 @@ compared	O
 with	O
 the	O
 3–4	O
-observa-	O
-tions	O
+observations	O
 per	O
 person	O
 observed	O
@@ -7248,8 +7147,7 @@ furthermore	O
 ,	O
 our	O
 reported	O
-corre-	O
-lates	O
+correlates	O
 of	O
 affective	O
 presence	O
@@ -7257,8 +7155,7 @@ are	O
 associations	O
 at	O
 the	O
-individual-	O
-level	O
+individuallevel	O
 of	O
 analysis	O
 ,	O
@@ -7329,8 +7226,7 @@ them	O
 with	O
 the	O
 hotel	O
-con-	O
-ference	O
+conference	O
 center	O
 at	O
 which	O
@@ -7369,12 +7265,10 @@ aline	O
 swiec	O
 for	O
 research	O
-assis-	O
-tance	O
+assistance	O
 .	O
 
-specifi-	O
-cally	O
+specifically	O
 ,	O
 we	O
 base	O
@@ -7441,8 +7335,7 @@ al	O
 using	O
 the	O
 same	O
-aver-	B-TN
-aging	I-TN
+averaging	B-TN
 model	I-TN
 as	O
 before	O
@@ -7464,8 +7357,7 @@ presence	O
 of	O
 verbal	O
 norm	O
-adher-	O
-ent	O
+adherent	O
 messaging	O
 .	O
 
@@ -7484,8 +7376,7 @@ range	O
 of	O
 actual	O
 customer	O
-appre-	O
-ciation	O
+appreciation	O
 contexts	O
 (	O
 h1	O
@@ -7543,8 +7434,7 @@ study	B-SD
 shows	O
 that	O
 when	O
-mes-	O
-sages	O
+messages	O
 fail	O
 to	O
 adhere	O
@@ -7616,8 +7506,7 @@ content	O
 and	O
 small	O
 financial	O
-bene-	O
-fits	O
+benefits	O
 ,	O
 providing	O
 tests	O
@@ -7637,8 +7526,7 @@ point	O
 to	O
 consumers	O
 by	O
-introduc-	O
-ing	O
+introducing	O
 the	O
 possibility	O
 of	O
@@ -7734,8 +7622,7 @@ the	O
 trivialization	O
 effect	O
 ,	O
-provid-	O
-ing	O
+providing	O
 robust	O
 evidence	O
 for	O
@@ -7746,8 +7633,7 @@ all	O
 three	O
 studies	O
 were	O
-con-	O
-ducted	O
+conducted	O
 in	O
 the	O
 field	O
@@ -7868,8 +7754,7 @@ field	O
 study	O
 ”	O
 )	O
-pro-	O
-vides	O
+provides	O
 evidence	O
 of	O
 the	O
@@ -7893,8 +7778,7 @@ which	O
 we	O
 use	O
 in	O
-stud-	O
-ies	O
+studies	O
 1a	O
 and	O
 1b	O
@@ -8036,8 +7920,7 @@ firm	O
 ’	O
 s	O
 customer	O
-appre-	O
-ciation	O
+appreciation	O
 gesture	O
 .	O
 
@@ -8093,8 +7976,7 @@ confirmed	O
 that	O
 the	O
 verbal	O
-acknowledg-	O
-ments	O
+acknowledgments	O
 used	O
 in	O
 studies	B-SD
@@ -8111,8 +7993,7 @@ and	I-SD
 adhered	O
 to	O
 verbal	O
-grati-	O
-tude	O
+gratitude	O
 expression	O
 norms	O
 .	O
@@ -8285,8 +8166,7 @@ scale	O
 )	O
 according	O
 to	O
-one-	B-SP
-sample	I-SP
+onesample	B-SP
 t-tests	O
 (	O
 ps	O
@@ -8472,8 +8352,7 @@ of	O
 participants	O
 because	O
 mturk	O
-partici-	O
-pants	O
+participants	O
 are	O
 used	O
 to	O
@@ -8549,8 +8428,7 @@ and	I-SD
 3	I-SD
 ,	O
 we	O
-con-	O
-ducted	O
+conducted	O
 a	O
 pretest	O
 to	O
@@ -8559,8 +8437,7 @@ participants	O
 ’	O
 financial	O
 benefit	O
-expecta-	O
-tions	O
+expectations	O
 (	O
 the	O
 pretest	O
@@ -8661,8 +8538,7 @@ and	I-SD
 the	O
 dependent	O
 variable	O
-con-	O
-sisted	O
+consisted	O
 of	O
 three	O
 items	O
@@ -8759,8 +8635,7 @@ significantly	O
 less	O
 appreciated	O
 than	O
-partici-	O
-pants	O
+participants	O
 who	O
 received	O
 an	O
@@ -8804,8 +8679,7 @@ assignment	O
 ,	O
 length	O
 of	O
-free-	O
-response	O
+freeresponse	O
 answers	O
 did	O
 not	O
@@ -8883,8 +8757,7 @@ p	B-PV
 again	O
 demonstrating	O
 the	O
-trivi-	O
-alization	O
+trivialization	O
 effect	O
 predicted	O
 in	O
@@ -8909,8 +8782,7 @@ outside	O
 a	O
 different	O
 dining	O
-estab-	O
-lishment	O
+establishment	O
 also	O
 run	O
 by	O
@@ -8937,8 +8809,7 @@ anova	I-TN
 assumes	O
 homogeneity	O
 of	O
-vari-	O
-ances	O
+variances	O
 .	O
 
 when	O
@@ -8993,8 +8864,7 @@ not	O
 assume	O
 homogeneity	O
 of	O
-vari-	O
-ances	O
+variances	O
 .	O
 
 in	O
@@ -9109,8 +8979,7 @@ with	O
 $	O
 .05	O
 felt	O
-signifi-	O
-cantly	O
+significantly	O
 less	O
 appreciated	O
 than	O
@@ -9156,8 +9025,7 @@ marginally	O
 significantly	O
 different	O
 across	O
-acknowledg-	O
-ment	O
+acknowledgment	O
 conditions	O
 (	O
 t	O
@@ -9181,8 +9049,7 @@ of	O
 acknowledgment	O
 condition	O
 remained	O
-signifi-	O
-cant	O
+significant	O
 (	O
 p	B-PV
 =	I-PV
@@ -9209,15 +9076,13 @@ for	O
 our	O
 hypothesis	O
 that	O
-express-	O
-ing	O
+expressing	O
 customer	O
 appreciation	O
 using	O
 a	O
 financial	O
-acknowledg-	O
-ment	O
+acknowledgment	O
 (	O
 i.e.	O
 ,	O
@@ -9226,8 +9091,7 @@ firm-to-consumer	O
 message	O
 that	O
 includes	O
-mone-	O
-tary	O
+monetary	O
 benefit	O
 )	O
 can	O
@@ -9317,8 +9181,7 @@ examines	O
 a	O
 smaller-than-expected	O
 financial	O
-bene-	O
-fit	O
+benefit	O
 and	O
 varies	O
 the	O
@@ -9398,8 +9261,7 @@ a	O
 study	O
 ostensibly	O
 about	O
-partici-	O
-pants	O
+participants	O
 and	O
 their	O
 attitudes	O
@@ -9757,16 +9619,14 @@ that	O
 none	O
 of	O
 the	O
-con-	O
-found	O
+confound	O
 checks	O
 differed	O
 across	O
 the	O
 message	O
 content	O
-manipula-	O
-tion	O
+manipulation	O
 (	O
 spelling	O
 :	O
@@ -9984,8 +9844,7 @@ h2a	O
 
 for	O
 verbal	O
-acknowl-	O
-edgments	O
+acknowledgments	O
 ,	O
 participants	O
 reported	O
@@ -10110,8 +9969,7 @@ does	O
 not	O
 adhere	O
 to	O
-ver-	O
-bal	O
+verbal	O
 gratitude	O
 expression	O
 norms	O
@@ -10128,8 +9986,7 @@ message	O
 content	O
 adhered	O
 to	O
-ver-	O
-bal	O
+verbal	O
 norms	O
 (	O
 madherent	O
@@ -10161,8 +10018,7 @@ p	B-PV
 
 for	O
 financial	O
-acknowledg-	O
-ments	O
+acknowledgments	O
 ,	O
 participants	O
 also	O
@@ -10344,8 +10200,7 @@ that	O
 meet	O
 and	O
 exceed	O
-expecta-	O
-tions	O
+expectations	O
 should	O
 not	O
 lead	O
@@ -10484,8 +10339,7 @@ of	O
 appreciation	O
 as	O
 the	O
-dis-	O
-count	O
+discount	O
 amounts	O
 met	O
 or	O
@@ -10511,8 +10365,7 @@ p	B-PV
 .001	I-PV
 )	O
 ,	O
-indi-	O
-cating	O
+indicating	O
 that	O
 larger	O
 discounts	O
@@ -10546,8 +10399,7 @@ expectations	O
 lead	O
 to	O
 the	O
-trivializa-	O
-tion	O
+trivialization	O
 effect	O
 but	O
 amounts	O
@@ -10578,8 +10430,7 @@ extent	O
 to	O
 which	O
 the	O
-acknowledg-	O
-ment	O
+acknowledgment	O
 ’	O
 s	O
 message	O
@@ -10607,8 +10458,7 @@ suggest	O
 that	O
 consumers	O
 may	O
-automati-	O
-cally	O
+automatically	O
 use	O
 their	O
 own	O
@@ -10728,8 +10578,7 @@ first	O
 read	O
 the	O
 following	O
-direc-	O
-tions	O
+directions	O
 ,	O
 which	O
 were	O
@@ -10786,8 +10635,7 @@ condition	O
 to	O
 predict	O
 felt	O
-appreci-	O
-ation	O
+appreciation	O
 was	O
 significant	O
 (	O
@@ -10806,8 +10654,7 @@ p	B-PV
 )	O
 (	O
 see	O
-fig-	O
-ure	O
+figure	O
 3	O
 )	O
 .	O
@@ -10829,8 +10676,7 @@ felt	O
 less	O
 appreciated	O
 than	O
-partici-	O
-pants	O
+participants	O
 who	O
 received	O
 the	O
@@ -10870,8 +10716,7 @@ who	O
 received	O
 the	O
 financial	O
-acknowledg-	O
-ment	O
+acknowledgment	O
 with	O
 lower	O
 reference	O
@@ -11040,8 +10885,7 @@ when	O
 the	O
 financial	O
 benefit	O
-pro-	O
-vided	O
+provided	O
 is	O
 smaller	O
 than	O
@@ -11132,8 +10976,7 @@ points	O
 when	O
 evaluating	O
 financial	O
-acknowl-	O
-edgments	O
+acknowledgments	O
 .	O
 
 moreover	O
@@ -11202,8 +11045,7 @@ alter	O
 reference	O
 points	O
 for	O
-evaluat-	O
-ing	O
+evaluating	O
 financial	O
 benefits	O
 .	O
@@ -11258,8 +11100,7 @@ the	O
 financial	O
 benefit	O
 is	O
-proso-	O
-cial	O
+prosocial	O
 ,	O
 consistent	O
 with	O
@@ -11326,8 +11167,7 @@ in	O
 study	B-SD
 2a	I-SD
 ,	O
-partici-	O
-pants	O
+participants	O
 first	O
 filled	O
 out	O
@@ -11378,16 +11218,14 @@ and	I-SD
 2a	I-SD
 ,	O
 we	O
-actu-	O
-ally	O
+actually	O
 gave	O
 participants	O
 in	O
 the	O
 nonprosocial	O
 financial	O
-acknowl-	O
-edgment	O
+acknowledgment	O
 conditions	O
 a	O
 bonus	O
@@ -11409,8 +11247,7 @@ would	O
 not	O
 leave	O
 feeling	O
-unappreci-	O
-ated	O
+unappreciated	O
 ,	O
 and	O
 we	O
@@ -11595,8 +11432,7 @@ $	O
 .01	O
 bonus	O
 felt	O
-signifi-	O
-cantly	O
+significantly	O
 less	O
 appreciated	O
 than	O
@@ -11604,8 +11440,7 @@ participants	O
 who	O
 received	O
 a	O
-ver-	O
-bal	O
+verbal	O
 acknowledgment	O
 (	O
 version	O
@@ -11660,8 +11495,7 @@ consistent	O
 with	O
 h3	O
 ,	O
-partici-	O
-pants	O
+participants	O
 who	O
 received	O
 a	O
@@ -11717,8 +11551,7 @@ also	O
 felt	O
 directionally	O
 more	O
-appreci-	O
-ated	O
+appreciated	O
 than	O
 participants	O
 who	O
@@ -11835,8 +11668,7 @@ h3	O
 from	O
 a	O
 practical	O
-perspec-	O
-tive	O
+perspective	O
 ,	O
 study	B-SD
 4	I-SD
@@ -11897,8 +11729,7 @@ small	O
 ,	O
 as	O
 this	O
-strat-	O
-egy	O
+strategy	O
 failed	O
 to	O
 mitigate	O
@@ -11921,8 +11752,7 @@ a	O
 financial	O
 acknowledgment	O
 leads	O
-con-	O
-sumers	O
+consumers	O
 to	O
 evaluate	O
 the	O
@@ -11956,8 +11786,7 @@ verbal	O
 norms	O
 associated	O
 with	O
-proto-	O
-typical	O
+prototypical	O
 gratitude	O
 expressions	O
 (	O
@@ -11975,8 +11804,7 @@ the	O
 content	O
 of	O
 the	O
-mes-	O
-sage	O
+message	O
 violates	O
 norms	O
 of	O
@@ -12022,8 +11850,7 @@ trivialization	O
 effect	O
 ,	O
 we	O
-demon-	O
-strate	O
+demonstrate	O
 that	O
 the	O
 effect	O
@@ -12086,8 +11913,7 @@ be	O
 less	O
 susceptible	O
 to	O
-compari-	O
-sons	O
+comparisons	O
 with	O
 high	O
 financial	O
@@ -12136,11 +11962,9 @@ effect	O
 4.67	O
 5.14	O
 verbal	O
-acknowledg-	O
-ment	O
+acknowledgment	O
 financial	O
-acknowledg-	O
-ment	O
+acknowledgment	O
 with	O
 $	O
 .01	O
@@ -12150,8 +11974,7 @@ version	O
 1	O
 )	O
 financial	O
-acknowledg-	O
-ment	O
+acknowledgment	O
 with	O
 $	O
 .01	O
@@ -12161,8 +11984,7 @@ version	O
 2	O
 )	O
 financial	O
-acknowledg-	O
-ment	O
+acknowledgment	O
 with	O
 $	O
 .01	O
@@ -12238,8 +12060,7 @@ specifically	O
 we	O
 included	O
 the	O
-fol-	O
-lowing	O
+following	O
 conditions	O
 :	O
 both	O
@@ -12367,8 +12188,7 @@ more	O
 negatively	O
 to	O
 financial	O
-acknowl-	O
-edgments	O
+acknowledgments	O
 than	O
 to	O
 verbal	O
@@ -12463,8 +12283,7 @@ research	O
 on	O
 evaluation	O
 of	O
-multi-	O
-component	O
+multicomponent	O
 stimuli	O
 (	O
 anderson	O
@@ -12631,8 +12450,7 @@ time	O
 and	O
 support	O
 in	O
-pro-	O
-viding	O
+providing	O
 this	O
 feedback	O
 for	O
@@ -12708,8 +12526,7 @@ time	O
 and	O
 support	O
 in	O
-pro-	O
-viding	O
+providing	O
 this	O
 feedback	O
 for	O
@@ -12843,8 +12660,7 @@ purchases	O
 and	O
 your	O
 positive	O
-word-of-	O
-mouth	O
+word-ofmouth	O
 to	O
 other	O
 customers	O
@@ -12874,8 +12690,7 @@ your	O
 valuable	O
 time	O
 and	O
-sup-	O
-port	O
+support	O
 in	O
 providing	O
 this	O
@@ -13353,8 +13168,7 @@ to	O
 for	O
 example	O
 ,	O
-post-	O
-communist	O
+postcommunist	O
 countries	O
 are	O
 in	O
@@ -14866,8 +14680,7 @@ female	O
 %	O
 right-handed	O
 )	O
-partici-	O
-pated	O
+participated	O
 in	O
 exchange	O
 for	O
@@ -14896,8 +14709,7 @@ healthy-right	O
 ,	O
 unhealthy-left	O
 ”	O
-con-	O
-dition	O
+condition	O
 .	O
 
 results	O
@@ -14911,8 +14723,7 @@ hypothesis	O
 there	O
 was	O
 greater	O
-prefer-	O
-ence	O
+preference	O
 for	O
 the	O
 healthy	O
@@ -14988,8 +14799,7 @@ was	O
 conducted	O
 in	O
 a	O
-con-	O
-trolled	O
+controlled	O
 lab	O
 setting	O
 .	O
@@ -15027,8 +14837,7 @@ set	O
 of	O
 two	O
 food	O
-op-	O
-tions	O
+options	O
 :	O
 one	O
 healthy	O
@@ -15066,8 +14875,7 @@ in	O
 this	O
 study	O
 in	O
-ex-	O
-change	O
+exchange	O
 for	O
 course	O
 credit	O
@@ -15148,8 +14956,7 @@ study	B-SD
 1a	I-SD
 using	O
 a	O
-dis-	O
-play	O
+display	O
 pattern	O
 that	O
 featured	O
@@ -15172,8 +14979,7 @@ studies	B-SD
 and	I-SD
 2b	I-SD
 provide	O
-evi-	O
-dence	O
+evidence	O
 of	O
 the	O
 left-to-right	O
@@ -15268,8 +15074,7 @@ counterbalancing	O
 there	O
 were	O
 order	O
-ef-	O
-fects	O
+effects	O
 for	O
 the	O
 “	O
@@ -15287,8 +15092,7 @@ the	O
 eating	O
 healthy–indulging	O
 ”	O
-pair-	O
-ing	O
+pairing	O
 ;	O
 however	O
 ,	O
@@ -15360,8 +15164,7 @@ of	O
 participants	O
 placed	O
 “	O
-nutri-	O
-tion	O
+nutrition	O
 ”	O
 on	O
 the	O
@@ -15428,8 +15231,7 @@ whereby	O
 of	O
 respondents	O
 placed	O
-straw-	O
-berries	O
+strawberries	O
 (	O
 vs.	O
 cheesecake	O
@@ -15474,8 +15276,7 @@ handedness	O
 did	O
 not	O
 influence	O
-place-	O
-ment	O
+placement	O
 decisions	O
 (	O
 p	B-PV
@@ -15485,8 +15286,7 @@ p	B-PV
 .	O
 
 forty-four	B-SS
-respon-	O
-dents	O
+respondents	O
 from	O
 an	O
 online	O
@@ -15570,8 +15370,7 @@ the	O
 menu	O
 compared	O
 to	O
-plac-	O
-ing	O
+placing	O
 the	O
 healthy	O
 (	O
@@ -15690,8 +15489,7 @@ explanation	O
 and	O
 found	O
 empirical	O
-evi-	O
-dence	O
+evidence	O
 of	O
 that	O
 claim	O
@@ -15725,8 +15523,7 @@ whereby	O
 there	O
 is	O
 greater	O
-over-	O
-all	O
+overall	O
 preference	O
 for	O
 the	O
@@ -15736,8 +15533,7 @@ on	O
 the	O
 left	O
 ,	O
-irrespec-	O
-tive	O
+irrespective	O
 of	O
 whether	O
 it	O
@@ -15788,8 +15584,7 @@ study	B-SD
 3	I-SD
 we	O
 also	O
-in-	O
-cluded	O
+included	O
 a	O
 control	O
 condition	O
@@ -15893,8 +15688,7 @@ a	O
 major	O
 us	O
 university	O
-par-	O
-ticipated	O
+participated	O
 in	O
 exchange	O
 for	O
@@ -15980,8 +15774,7 @@ p	B-PV
 more	O
 interestingly	O
 ,	O
-dis-	O
-playing	O
+displaying	O
 the	O
 healthy	O
 item	O
@@ -16114,8 +15907,7 @@ tend	O
 to	O
 process	O
 the	O
-informa-	O
-tion	O
+information	O
 starting	O
 from	O
 the	O
@@ -16157,8 +15949,7 @@ could	O
 be	O
 attributed	O
 to	O
-pri-	O
-macy	O
+primacy	O
 effects	O
 (	O
 biswas	O
@@ -16248,8 +16039,7 @@ a	O
 total	O
 of	O
 169	B-SS
-stu-	O
-dents	O
+students	O
 (	O
 average	O
 age	O
@@ -16262,8 +16052,7 @@ female	O
 ,	O
 91	O
 %	O
-right-	O
-handed	O
+righthanded	O
 )	O
 from	O
 a	O
@@ -16272,8 +16061,7 @@ us	O
 university	O
 participated	O
 in	O
-ex-	O
-change	O
+exchange	O
 for	O
 course	O
 credit	O
@@ -16320,8 +16108,7 @@ logistic	O
 regression	O
 revealed	O
 a	O
-sig-	O
-nificant	O
+significant	O
 main	O
 effect	O
 of	O
@@ -16351,8 +16138,7 @@ effect	O
 and	O
 the	O
 main	O
-ef-	O
-fect	O
+effect	O
 of	O
 gaze	O
 starting	O
@@ -16376,8 +16162,7 @@ point	O
 as	O
 an	O
 alternative	O
-expla-	O
-nation	O
+explanation	O
 for	O
 the	O
 effects	O
@@ -16408,8 +16193,7 @@ whereby	O
 consistent	O
 with	O
 the	O
-find-	O
-ings	O
+findings	O
 of	O
 our	O
 earlier	O
@@ -16504,8 +16288,7 @@ the	O
 pattern	O
 of	O
 results	O
-re-	O
-mained	O
+remained	O
 the	O
 same	O
 for	O
@@ -16563,8 +16346,7 @@ and	O
 this	O
 pattern	O
 persists	O
-irre-	O
-spective	O
+irrespective	O
 of	O
 the	O
 initial	O
@@ -16605,8 +16387,7 @@ studies	O
 participants	O
 indicated	O
 their	O
-pref-	O
-erence	O
+preference	O
 for	O
 a	O
 single	O
@@ -16616,8 +16397,7 @@ was	O
 either	O
 healthy	O
 or	O
-un-	O
-healthy	O
+unhealthy	O
 .	O
 
 hence	O
@@ -16634,8 +16414,7 @@ choice	O
 process	O
 ,	O
 whereby	O
-par-	O
-ticipants	O
+participants	O
 were	O
 allowed	O
 to	O
@@ -16665,8 +16444,7 @@ mixed-design	O
 experiment	O
 where	O
 the	O
-dis-	O
-play	O
+display	O
 positions	O
 of	O
 the	O
@@ -16680,8 +16458,7 @@ conditions	O
 (	O
 healthy	O
 beverage	O
-dis-	O
-played	O
+displayed	O
 to	O
 the	O
 left	O
@@ -16693,8 +16470,7 @@ unhealthy	O
 beverage	O
 )	O
 ;	O
-con-	O
-sumption	O
+consumption	O
 of	O
 healthy	O
 and	O
@@ -16755,8 +16531,7 @@ as	O
 healthier	O
 than	O
 the	O
-high-calo-	O
-rie	O
+high-calorie	O
 orange	O
 soda	O
 (	O
@@ -16822,8 +16597,7 @@ lateral	O
 display	O
 pattern	O
 of	O
-healthy/un-	O
-healthy	O
+healthy/unhealthy	O
 options	O
 )	O
 2	O
@@ -16841,8 +16615,7 @@ of	I-TN
 variance	I-TN
 revealed	O
 a	O
-margin-	O
-ally	O
+marginally	O
 significant	O
 interaction	O
 effect	O
@@ -16887,8 +16660,7 @@ participants	O
 had	O
 a	O
 higher	O
-in-	O
-take	O
+intake	O
 of	O
 the	O
 healthy	O
@@ -16933,8 +16705,7 @@ demonstrates	O
 an	O
 important	O
 behavioral	O
-out-	O
-come	O
+outcome	O
 of	O
 lateral	O
 positions	O
@@ -17049,8 +16820,7 @@ alternative	O
 explanation	O
 for	O
 the	O
-ob-	O
-served	O
+observed	O
 effects	O
 .	O
 
@@ -17077,8 +16847,7 @@ to	O
 the	O
 natural	O
 mental	O
-representa-	O
-tion	O
+representation	O
 and	O
 hence	O
 required	O
@@ -17153,8 +16922,7 @@ items	O
 (	O
 drewnowski	O
 and	O
-barratt-	O
-fornell	O
+barrattfornell	O
 2004	O
 )	O
 ;	O
@@ -17165,8 +16933,7 @@ findings	O
 of	O
 study	B-SD
 2a	I-SD
-demon-	O
-strate	O
+demonstrate	O
 effects	O
 in	O
 the	O
@@ -17215,8 +16982,7 @@ studies	B-SD
 and	I-SD
 4	I-SD
 were	O
-col-	O
-lected	O
+collected	O
 and	O
 analyzed	O
 between	O
@@ -17492,8 +17258,7 @@ consumer	O
 responses	O
 to	O
 marketing	O
-com-	O
-munications	O
+communications	O
 (	O
 h3	O
 )	O
@@ -17564,8 +17329,7 @@ no	O
 significant	O
 difference	O
 in	O
-reac-	O
-tion	O
+reaction	O
 times	O
 across	O
 conditions	O
@@ -17585,8 +17349,7 @@ p	B-PV
 )	O
 .	O
 
-analy-	O
-sis	O
+analysis	O
 also	O
 showed	O
 no	O
@@ -17623,8 +17386,7 @@ significant	O
 difference	O
 in	O
 brand	O
-famil-	O
-iarity	O
+familiarity	O
 across	O
 conditions	O
 (	O
@@ -17683,8 +17445,7 @@ simple	O
 effect	O
 of	O
 context	O
-prod-	O
-uct	O
+product	O
 (	O
 β	O
 =	O
@@ -17793,8 +17554,7 @@ p	B-PV
 but	O
 was	O
 highly	O
-sig-	O
-nificant	O
+significant	O
 in	O
 the	O
 context-product	O
@@ -17847,8 +17607,7 @@ was	O
 a	O
 potential	O
 alternative	O
-expla-	O
-nation	O
+explanation	O
 for	O
 the	O
 results	O
@@ -17857,8 +17616,7 @@ results	O
 we	O
 chose	O
 only	O
-field-	O
-field	O
+fieldfield	O
 dependency	O
 and	O
 brand	O
@@ -17929,8 +17687,7 @@ study	B-SD
 analysis	O
 showed	O
 that	O
-partici-	O
-pants	O
+participants	O
 reacted	O
 significantly	O
 faster	O
@@ -17990,8 +17747,7 @@ condition	O
 we	O
 observed	O
 no	O
-signifi-	O
-cant	O
+significant	O
 differences	O
 (	O
 β	O
@@ -18021,8 +17777,7 @@ from	O
 study	B-SD
 1	I-SD
 provide	O
-prelimi-	O
-nary	O
+preliminary	O
 evidence	O
 that	O
 field	O
@@ -18072,8 +17827,7 @@ study	B-SD
 ,	O
 we	O
 compared	O
-partici-	O
-pants	O
+participants	O
 ’	O
 reaction	O
 times	O
@@ -18105,8 +17859,7 @@ randomization	O
 should	O
 control	O
 for	O
-sys-	O
-tematic	O
+systematic	O
 between-subjects	O
 differences	O
 and	O
@@ -18143,8 +17896,7 @@ the	O
 findings	O
 using	O
 individual	O
-par-	O
-ticipants	O
+participants	O
 as	O
 their	O
 own	O
@@ -18309,8 +18061,7 @@ milliseconds	O
 followed	O
 by	O
 a	O
-150-	O
-millisecond	O
+150millisecond	O
 interstimulus	O
 interval	O
 .	O
@@ -18360,8 +18111,7 @@ pretest	O
 .	O
 
 twenty	O
-par-	O
-ticipants	O
+participants	O
 were	O
 shown	O
 the	O
@@ -18426,8 +18176,7 @@ times	O
 in	O
 which	O
 the	O
-stim-	O
-uli	O
+stimuli	O
 were	O
 shown	O
 on	O
@@ -18461,8 +18210,7 @@ filler	O
 trials	O
 and	O
 the	O
-target-	O
-product	O
+targetproduct	O
 trials	O
 (	O
 as	O
@@ -18488,8 +18236,7 @@ filler	O
 trials	O
 showed	O
 no	O
-sig-	O
-nificant	O
+significant	O
 difference	O
 in	O
 reaction	O
@@ -18517,8 +18264,7 @@ were	O
 also	O
 no	O
 significant	O
-differ-	O
-ences	O
+differences	O
 in	O
 the	O
 error	O
@@ -18538,8 +18284,7 @@ p	B-PV
 .1	I-PV
 )	O
 and	O
-famil-	O
-iarity	O
+familiarity	O
 (	O
 f	O
 (	O
@@ -18563,8 +18308,7 @@ this	O
 study	O
 adopted	O
 a	O
-within-	O
-subjects	O
+withinsubjects	O
 design	O
 ,	O
 we	O
@@ -18638,8 +18382,7 @@ a	O
 significant	O
 effect	O
 on	O
-partici-	O
-pants	O
+participants	O
 ’	O
 reaction	O
 times	O
@@ -18683,8 +18426,7 @@ same	O
 brand	O
 ,	O
 field	O
-independ-	O
-ents	O
+independents	O
 responded	O
 significantly	O
 faster	O
@@ -18806,8 +18548,7 @@ study	O
 analysis	O
 of	O
 the	O
-reac-	O
-tion	O
+reaction	O
 times	O
 in	O
 filler	O
@@ -19022,8 +18763,7 @@ reaction	O
 time	O
 in	O
 the	O
-con-	O
-trol	O
+control	O
 condition	O
 (	O
 β	O
@@ -19089,8 +18829,7 @@ from	O
 studies	B-SD
 1–3	I-SD
 provide	O
-evi-	O
-dence	O
+evidence	O
 that	O
 field	O
 dependents	O
@@ -19117,8 +18856,7 @@ whether	O
 the	O
 way	O
 field	O
-depend-	O
-ents	O
+dependents	O
 and	O
 field	O
 independents	O
@@ -19146,8 +18884,7 @@ variable	O
 and	O
 type	O
 of	O
-advertise-	O
-ment	O
+advertisement	O
 as	O
 a	O
 dummy	O
@@ -19270,8 +19007,7 @@ different	O
 directions	O
 (	O
 product-level	O
-advertise-	O
-ment	O
+advertisement	O
 :	O
 β	O
 =	O
@@ -19292,8 +19028,7 @@ p	B-PV
 <	I-PV
 .01	I-PV
 ;	O
-brand-	O
-level	O
+brandlevel	O
 advertisement	O
 :	O
 β	O
@@ -19362,8 +19097,7 @@ variable	O
 and	O
 type	O
 of	O
-advertise-	O
-ment	O
+advertisement	O
 as	O
 a	O
 dummy	O
@@ -19483,8 +19217,7 @@ that	O
 both	O
 slopes	O
 were	O
-signifi-	O
-cant	O
+significant	O
 (	O
 brand-level	O
 advertisement	O

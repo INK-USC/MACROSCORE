@@ -26,6 +26,9 @@ class NERTCDataset(Dataset):
         self.segment_ids = []
         self.targets = []
 
+        self.label2idx = {}
+        self.idx2label = {}
+
         self._build()
 
     def __getitem__(self, index):
@@ -41,14 +44,24 @@ class NERTCDataset(Dataset):
 
     def _build(self):
         if self.type_path == "train":
-            data_path = os.path.join(self.args.data_dir, "train.txt")
+            data_path = os.path.join(self.args.data_dir, "train.jsonl")
         else:
-            data_path = os.path.join(self.args.data_dir, "test.txt")
+            data_path = os.path.join(self.args.data_dir, "test.jsonl")
 
         with open(data_path, "r") as f:
             for cur_line in f:
                 cur_dict = json.loads(cur_line)
                 self._create_features(cur_dict["sentence"], cur_dict["entity"], cur_dict["label_idx"])
+
+                # Create the label map
+                cur_label = cur_dict["label"]
+                cur_label_idx = cur_dict["label_idx"]
+                if self.label2idx.get(cur_label) is None:
+                    self.label2idx[cur_label] = cur_label_idx
+                    self.idx2label[cur_label_idx] = cur_label
+
+    def get_label_map(self):
+        return self.label2idx, self.idx2label
 
     def _create_features(self, cur_sentence, cur_entity, cur_label):
         encoded_vals = self.tokenizer.encode_plus(
@@ -73,17 +86,11 @@ def format_time(elapsed_seconds):
     return str(datetime.timedelta(seconds=elapsed_rounded))
 
 
-def computeMetrics(y_pred, y_true):
+def computeMetrics(y_pred, y_true, idx2label):
     y_pred = np.array(y_pred)
     y_true = np.array(y_true)
     accuracy = accuracy_score(y_true, y_pred)
     f1_val = f1_score(y_true, y_pred, average="micro")
-
-    # Convert to labels:
-    label_list = ['SP', 'TE', 'SD', 'ES', 'PR', 'PV', 'SS', 'TN']
-    idx2label = {}
-    for i, label in enumerate(label_list):
-        idx2label[i] = label
 
     y_pred = [idx2label[x] for x in y_pred]
     y_true = [idx2label[x] for x in y_true]
@@ -100,7 +107,7 @@ def saveModel(model, model_suffix, args):
     with open(os.path.join(args.output_dir, "model" + str(model_suffix) + "_params.json"), "w") as f:
         json.dump(vars(args), f)
 
-def train(model, train_data_loader, val_data_loader, args):
+def train(model, train_data_loader, val_data_loader, args, idx2label):
     # Get the device info:
     if torch.cuda.device_count() > 0:
         device = "cuda"
@@ -190,7 +197,7 @@ def train(model, train_data_loader, val_data_loader, args):
                 y_labels_total += y_labels_flat
 
         avg_val_loss = total_val_loss / len(val_data_loader)
-        val_accuracy, val_f1_score = computeMetrics(y_preds_total, y_labels_total)
+        val_accuracy, val_f1_score = computeMetrics(y_preds_total, y_labels_total, idx2label)
         total_val_time = format_time(time.time() - start_time)
         print("Validation time for Epoch ", cur_epoch, " = ", total_val_time)
         print("Average validation loss = ", avg_val_loss)
@@ -202,12 +209,12 @@ def train(model, train_data_loader, val_data_loader, args):
             minimum_val_loss = avg_val_loss
             best_model_state_dict = copy.deepcopy(model.state_dict())
             best_model_epoch = cur_epoch
-            saveModel(model, "_best", args)
+            saveModel(model, "", args)
         elif avg_val_loss < minimum_val_loss:
             minimum_val_loss = avg_val_loss
             best_model_state_dict = copy.deepcopy(model.state_dict())
             best_model_epoch = cur_epoch
-            saveModel(model, "_best", args)
+            saveModel(model, "", args)
 
         training_logs.append(
         {
@@ -236,7 +243,6 @@ def train(model, train_data_loader, val_data_loader, args):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-
     parser.add_argument('--data_dir', type=str, default="../data/ner_dataset_tc",
                         help='Path for Data files')
     parser.add_argument('--output_dir', type=str, default="../models/repr_bert_ner_tc",
@@ -247,13 +253,11 @@ if __name__ == "__main__":
                         help='Tokenizer name or Path')
 
     parser.add_argument('--max_seq_length', type=int, default=128)
-    parser.add_argument('--num_output_classes', type=int, default=8)
     parser.add_argument('--num_epochs', type=int, default=5)
     parser.add_argument('--train_batch_size', type=int, default=16)
     parser.add_argument('--eval_batch_size', type=int, default=16)
     parser.add_argument('--learning_rate', type=float, default=1e-4)
     parser.add_argument('--warmup_proportion', type=float, default=0.1)
-
 
     args = parser.parse_known_args()[0]
     print(args)
@@ -272,12 +276,17 @@ if __name__ == "__main__":
     test_dataset = NERTCDataset(args, tokenizer, type_path="test")
     test_data_loader = DataLoader(test_dataset, shuffle=False, batch_size=args.eval_batch_size)
 
-    print(len(train_dataset), len(test_dataset))
+    print("Number of Train instances = ", len(train_dataset))
+    print("Number of Test instances = ", len(test_dataset))
+
+    # Get the label map
+    label2idx_map, idx2label_map = train_dataset.get_label_map()
+    num_labels = len(label2idx_map.keys())
 
     # Model training:
     model = BertForSequenceClassification.from_pretrained(args.model_name_or_path,
-                                                                num_labels=args.num_output_classes,
-                                                                output_attentions=False,
-                                                                output_hidden_states=False)
+                                                            num_labels=num_labels,
+                                                            output_attentions=False,
+                                                            output_hidden_states=False)
     model.to(device)
-    train(model, train_data_loader, test_data_loader, args)
+    train(model, train_data_loader, test_data_loader, args, idx2label_map)

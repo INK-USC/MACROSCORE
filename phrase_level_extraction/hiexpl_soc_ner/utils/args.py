@@ -65,13 +65,12 @@ def get_args():
     parser.add_argument('--lm_dir', nargs='?', default='')
     parser.add_argument('--lm_path', nargs='?', default='')
     parser.add_argument('--start', type=int, default=0)
-    parser.add_argument('--stop', type=int, default=10000000000)
+    parser.add_argument('--stop', type=int, default=-1)
     parser.add_argument('--sample_n', type=int, default=5)
 
     parser.add_argument('--explain_model', default='lstm')
     parser.add_argument('--demo', action='store_true')
 
-    parser.add_argument('--dataset', default='dev')
     parser.add_argument('--bert_model', default='bert-base-uncased')
     parser.add_argument('--use_bert_tokenizer', action='store_true')
     parser.add_argument('--no_subtrees', action='store_true')
@@ -91,7 +90,9 @@ def get_args():
     parser.add_argument('--eval_file', default='')
 
     # For the NER task
-    parser.add_argument('--target_entity_class', type=str, default="SS")
+    parser.add_argument('--target_entity_class', type=str, default="ALL")
+    parser.add_argument('--data_dir', type=str, default="data/ner_dataset_tc/trees_constparse/")
+    parser.add_argument('--dataset', default='test')
 
     args = parser.parse_args()
 

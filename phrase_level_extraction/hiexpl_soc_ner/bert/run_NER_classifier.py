@@ -146,10 +146,34 @@ class NERDataset(Dataset):
 
     def _create_label_map(self):
         # Create the label map
-        label_set = ['[PAD]', 'O', 'B-ES', 'I-ES', 'B-PR', 'I-PR', 'B-PV', 'I-PV',
-                     'B-SD', 'I-SD', 'B-SP', 'I-SP', 'B-SS', 'I-SS', 'B-TE',
-                     'I-TE', 'B-TN', 'I-TN', '[CLS]', '[SEP]']
-        # label_set = ["[PAD]", "O", "B-MISC", "I-MISC",  "B-PER", "I-PER", "B-ORG", "I-ORG", "B-LOC", "I-LOC", "[CLS]", "[SEP]"]
+        special_label_set = ['[PAD]', 'O', '[CLS]', '[SEP]']
+        data_path = os.path.join(self.args.data_dir, "train.txt")
+        label_col_index = -1
+
+        with open(data_path, "r") as f:
+            data_lines = f.readlines()
+
+        label_set = set()
+        for cur_line in data_lines:
+            cur_line = cur_line.strip()
+            if len(cur_line) == 0 or cur_line.startswith('-DOCSTART'):
+                # End of a sentence
+                continue
+            else:
+                try:
+                    cur_label_split = cur_line.split()[label_col_index].split("-")
+                    if len(cur_label_split) == 2:
+                        label_set.add("-".join(cur_label_split))
+                except Exception as e:
+                    pass
+
+        label_tags = list(sorted(set([x.split("-")[-1] for x in label_set])))
+        label_set = []
+        for tag in label_tags:
+            label_set.append("B-" + tag)
+            label_set.append("I-" + tag)
+        label_set = special_label_set[:2] + label_set + special_label_set[2:]
+
         for idx, val in enumerate(label_set):
             self.label2idx[val] = idx
             self.idx2label[idx] = val
@@ -168,6 +192,7 @@ class NERDataset(Dataset):
 
         # Used for debugging (Set -1 to read the entire dataset)
         num_sentences_to_read = -1
+        label_col_index = -1
 
         sentence_data_all = []
         cur_sentence_seq = []
@@ -191,7 +216,7 @@ class NERDataset(Dataset):
 
                 try:
                     cur_input = cur_line.split()[0]
-                    cur_label = cur_line.split()[-1]
+                    cur_label = cur_line.split()[label_col_index]
                     cur_sentence_seq.append(cur_input)
                     cur_label_seq.append(self.label2idx[cur_label])
                 except Exception as e:
@@ -381,12 +406,12 @@ def train(model, train_dl, val_dl, args, idx2label_map):
             minimum_val_loss = avg_val_loss
             best_model_state_dict = copy.deepcopy(model.state_dict())
             best_model_epoch = cur_epoch
-            saveModel(model, "_best", args)
+            saveModel(model, "", args)
         elif avg_val_loss < minimum_val_loss:
             minimum_val_loss = avg_val_loss
             best_model_state_dict = copy.deepcopy(model.state_dict())
             best_model_epoch = cur_epoch
-            saveModel(model, "_best", args)
+            saveModel(model, "", args)
 
         training_logs.append(
             {
@@ -414,36 +439,28 @@ def train(model, train_dl, val_dl, args, idx2label_map):
 
 
 if __name__ == "__main__":
-    args_dict = {
-        "data_dir": "../data/ner_dataset",
-        "output_dir": "../models/repr_bert_ner",
-        "model_name": "allenai/scibert_scivocab_uncased",
-        "tokenizer_name": "allenai/scibert_scivocab_uncased",
-        "max_seq_length": 128,
-        "train_batch_size": 32,
-        "eval_batch_size": 32,
-        "learning_rate": 1e-4,
-        "num_epochs": 5,
-        "weight_decay": 0.01,
-        "warmup_proportion": 0.1
-    }
-    # args_dict = {
-    #     "data_dir": "../data/conll_data",
-    #     "output_dir": "../models/conll_bert",
-    #     "model_name": "bert-base-cased",
-    #     "tokenizer_name": "bert-base-cased",
-    #     "max_seq_length": 128,
-    #     "train_batch_size": 32,
-    #     "eval_batch_size": 32,
-    #     "learning_rate": 5e-5,
-    #     "num_epochs": 5,
-    #     "weight_decay": 0.01,
-    #     "warmup_proportion": 0.1
-    # }
-    args = argparse.Namespace(**args_dict)
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--data_dir', type=str, default="../data/ner_dataset",
+                        help='Path for Data files')
+    parser.add_argument('--output_dir', type=str, default="../models/repr_bert_ner_seq",
+                        help='Path to save the checkpoints')
+    parser.add_argument('--model_name_or_path', type=str, default="allenai/scibert_scivocab_uncased",
+                        help='Model name or Path')
+    parser.add_argument('--tokenizer_name_or_path', type=str, default="allenai/scibert_scivocab_uncased",
+                        help='Tokenizer name or Path')
+
+    parser.add_argument('--max_seq_length', type=int, default=128)
+    parser.add_argument('--num_epochs', type=int, default=5)
+    parser.add_argument('--train_batch_size', type=int, default=32)
+    parser.add_argument('--eval_batch_size', type=int, default=32)
+    parser.add_argument('--learning_rate', type=float, default=1e-4)
+    parser.add_argument('--warmup_proportion', type=float, default=0.1)
+    parser.add_argument('--weight_decay', type=float, default=0.01)
+
+    args = parser.parse_known_args()[0]
     print(args)
 
-    bert_tokenizer = BertTokenizer.from_pretrained(args.tokenizer_name, do_lower_case=True)
+    bert_tokenizer = BertTokenizer.from_pretrained(args.tokenizer_name_or_path)
 
     # Create the data loaders
     train_dataset = NERDataset(args, bert_tokenizer, "train")
@@ -452,14 +469,17 @@ if __name__ == "__main__":
     test_dataset = NERDataset(args, bert_tokenizer, "test")
     test_dataloader = DataLoader(test_dataset, batch_size=args.eval_batch_size, shuffle=False)
 
-    print(len(train_dataset), len(test_dataset))
+    print("Number of Train instances = ", len(train_dataset))
+    print("Number of Test instances = ", len(test_dataset))
 
     # Get the label map
     label2idx_map, idx2label_map = train_dataset.get_label_map()
-
     num_labels = len(label2idx_map.keys())
-    config = BertConfig.from_pretrained(args.model_name, num_labels=num_labels, finetuning_task="ner")
-    model = BertForNER.from_pretrained(args.model_name, config=config)
+    print("Number of labels = ", num_labels)
+    print("Label map: \n", label2idx_map)
+
+    config = BertConfig.from_pretrained(args.model_name_or_path, num_labels=num_labels, finetuning_task="ner")
+    model = BertForNER.from_pretrained(args.model_name_or_path, config=config)
     train(model, train_dataloader, test_dataloader, args, idx2label_map)
 
 

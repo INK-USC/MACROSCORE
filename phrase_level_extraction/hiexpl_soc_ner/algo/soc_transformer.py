@@ -6,7 +6,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 from utils.parser import get_span_to_node_mapping, read_trees_from_corpus_repr, parse_tree
-from utils.reader import get_examples_repr_from_trees, get_parsed_example_repr_ner_from_tree_string
+from utils.reader import get_examples_repr_from_trees, get_parsed_example_repr_ner_from_tree_string, get_parsed_example_repr_ner_from_text
 import numpy as np
 import copy
 import pickle
@@ -172,31 +172,19 @@ class NERInferenceModule:
         self.idx2label = {}
         self._create_label_map()
 
-    def _tokenize_sentence(self, cur_sentence_seq):
-        cur_tokenized_sent_seq = []
-        valid_positions = []
-        for cur_word in cur_sentence_seq:
-            tokenized_word = self.tokenizer.tokenize(cur_word)
-            n_subwords = len(tokenized_word)
-
-            for i in range(n_subwords):
-                if i == 0:
-                    valid_positions.append(1)
-                else:
-                    valid_positions.append(0)
-
-            cur_tokenized_sent_seq += tokenized_word
-        assert (len(cur_tokenized_sent_seq) == len(valid_positions))
-        return cur_tokenized_sent_seq, valid_positions
-
     def pre_process_input(self, input_examples_list):
 
         features_list = []
         for cur_input_example in input_examples_list:
-            cur_sentence_seq = cur_input_example.text
+            tokens = cur_input_example.text
             mapping = cur_input_example.mapping
+            valid_positions = [0] * len(tokens)
 
-            tokens, valid_positions = self._tokenize_sentence(cur_sentence_seq)
+            # Make start as valid and use the mapping to construct the valid_positions
+            valid_positions[0] = 1
+            for lm_idx in mapping:
+                if lm_idx < len(valid_positions):
+                    valid_positions[lm_idx] = 1
 
             if len(tokens) >= self.max_seq_length - 1:
                 tokens = tokens[0:(self.max_seq_length - 2)]
@@ -548,14 +536,40 @@ class ExplanationBaseForTransformer(ExplanationBase):
         out_list = list(sorted(out_list, key=lambda x: x[0], reverse=do_reverse))
         return out_list
 
+    def formatResultDict(self, result_dict_list, do_reverse=False):
+        out_list = []
 
-    def explain_repr_ner_tc_single(self, input_record, topk=3):
-        input_tree_string = input_record["sentence_parsed_tree"]
+        for cur_dict in result_dict_list:
+            phrase_tokens = cur_dict["phrase"].split()
+            score = float(cur_dict["score"])
+            lm_span = cur_dict["lm_span"]
+
+            phrase_string = ""
+            for cur_token in phrase_tokens:
+                if cur_token.startswith("##"):
+                    phrase_string += cur_token[2:]
+                else:
+                    phrase_string += " " + cur_token
+            phrase_string = phrase_string.strip()
+
+            phrase_string = phrase_string.replace("- lrb -", "(")
+            phrase_string = phrase_string.replace("- rrb -", ")")
+            out_list.append({
+                "score": score,
+                "phrase": phrase_string,
+                "lm_span": lm_span
+            })
+
+        out_list = list(sorted(out_list, key=lambda x: x["score"], reverse=do_reverse))
+        return out_list
+
+    def explain_repr_ner_tc_single_custom(self, input_record, topk=3):
         label_idx = input_record["label_idx"]
-        input_parsed_tree = parse_tree(input_tree_string)
+        input_sentence = input_record["sentence"]
+        input_sentence_tokens = input_sentence.split()
 
         # Convert inputs to features:
-        input_example = get_parsed_example_repr_ner_from_tree_string(input_tree_string, self.tokenizer)
+        input_example = get_parsed_example_repr_ner_from_text(input_sentence, self.tokenizer)
         input_features = convert_examples_to_features_with_textpair(input_example, input_record, self.max_seq_length, self.tokenizer)
         input_ids = torch.tensor(input_features.input_ids, dtype=torch.long).unsqueeze(0)
         input_mask = torch.tensor(input_features.input_mask, dtype=torch.long).unsqueeze(0)
@@ -569,10 +583,14 @@ class ExplanationBaseForTransformer(ExplanationBase):
 
             inp = input_ids.view(-1).cpu().numpy()
             mappings = input_mappings.view(-1).cpu().numpy()
-            span2node, node2span = get_span_to_node_mapping(input_parsed_tree)
-            spans = list(span2node.keys())
+
+            spans = []
+            for cur_cand in input_record["candidates"]:
+                spans.append((cur_cand["candidate_span"][0], cur_cand["candidate_span"][1]))
+
             repr_spans = []
             contribs = []
+            result_dict_list = []
             for span in spans:
                 if type(span) is int:
                     span = (span, span)
@@ -583,26 +601,32 @@ class ExplanationBaseForTransformer(ExplanationBase):
                 bert_span = (bert_span[0] + 1, bert_span[1] + 1)
                 contrib = self.explain_single_transformer(input_ids, input_mask, segment_ids, bert_span, label=label_idx)
                 contribs.append(contrib)
-            s = self.repr_result_region(inp, repr_spans, contribs)
+                result_dict_list.append({
+                    "phrase": " ".join(input_sentence_tokens[span[0]: span[-1] + 1]),
+                    "score": contrib,
+                    "lm_span": span
+                })
+
+            # # Post process the results
+            # result_dict_list = self.repr_result_post_process(inp, repr_spans, spans, contribs)
 
             cur_json_dict = {}
             cur_json_dict["predicted_label"] = int(pred_label)
             cur_json_dict["ground_truth_label"] = label_idx
             if cur_json_dict["predicted_label"] == label_idx:
-                cur_json_dict["important_phrases"] = self.formatPhrases(s, do_reverse=True)
+                cur_json_dict["important_phrases"] = self.formatResultDict(result_dict_list, do_reverse=True)
             else:
-                cur_json_dict["important_phrases"] = self.formatPhrases(s, do_reverse=False)
+                cur_json_dict["important_phrases"] = self.formatResultDict(result_dict_list, do_reverse=False)
         except Exception as e:
             print(e)
             cur_json_dict = None
 
         return cur_json_dict
 
-
-    def explain_repr_ner_seq_single(self, input_record, topk=3):
-        input_tree_string = input_record["sentence_parsed_tree"]
+    def explain_repr_ner_seq_single_custom(self, input_record, topk=3):
         gt_label = input_record["label"]
-        input_parsed_tree = parse_tree(input_tree_string)
+        input_sentence = input_record["sentence"]
+        input_sentence_tokens = input_sentence.split()
 
         if torch.cuda.device_count() > 0:
             device = "cuda"
@@ -610,7 +634,7 @@ class ExplanationBaseForTransformer(ExplanationBase):
             device = "cpu"
 
         # Convert inputs to features:
-        input_examples = [get_parsed_example_repr_ner_from_tree_string(input_tree_string, self.tokenizer)]
+        input_examples = [get_parsed_example_repr_ner_from_text(input_sentence, self.tokenizer)]
         features = self.NER_infer_module.pre_process_input(input_examples)[0]
 
         input_ids = torch.tensor(features["input_ids"], dtype=torch.long, device=device).unsqueeze(0)
@@ -619,8 +643,6 @@ class ExplanationBaseForTransformer(ExplanationBase):
         valid_positions = torch.tensor(features["valid_positions"], dtype=torch.long, device=device).unsqueeze(0)
         mapping = torch.tensor(features["mapping"], dtype=torch.long, device=device).unsqueeze(0)
 
-        # print(input_ids, "\n", input_mask, "\n", segment_ids, "\n", mapping)
-
         try:
             pred_label = self.NER_infer_module.predict(input_ids=input_ids, input_mask=input_mask, segment_ids=segment_ids,
                                                       valid_positions=valid_positions,
@@ -628,10 +650,14 @@ class ExplanationBaseForTransformer(ExplanationBase):
 
             inp = input_ids.view(-1).cpu().numpy()
             mappings = mapping.view(-1).cpu().numpy()
-            span2node, node2span = get_span_to_node_mapping(input_parsed_tree)
-            spans = list(span2node.keys())
+
+            spans = []
+            for cur_cand in input_record["candidates"]:
+                spans.append((cur_cand["candidate_span"][0], cur_cand["candidate_span"][1]))
+
             repr_spans = []
             contribs = []
+            result_dict_list = []
             for span in spans:
                 if type(span) is int:
                     span = (span, span)
@@ -643,15 +669,22 @@ class ExplanationBaseForTransformer(ExplanationBase):
                 contrib = self.explain_single_transformer_seq(input_ids, input_mask, segment_ids, valid_positions, bert_span,
                                                               lm_entity_span=input_record["entity_span"], label=gt_label)
                 contribs.append(contrib)
-            s = self.repr_result_region(inp, repr_spans, contribs)
+                result_dict_list.append({
+                    "phrase": " ".join(input_sentence_tokens[span[0]: span[-1]+1]),
+                    "score": contrib,
+                    "lm_span": span
+                })
+
+            # # Post process the results
+            # result_dict_list = self.repr_result_post_process(inp, repr_spans, spans, contribs)
 
             cur_json_dict = {}
             cur_json_dict["predicted_label"] = pred_label
             cur_json_dict["ground_truth_label"] = gt_label
             if cur_json_dict["predicted_label"] == gt_label:
-                cur_json_dict["important_phrases"] = self.formatPhrases(s, do_reverse=True)
+                cur_json_dict["important_phrases"] = self.formatResultDict(result_dict_list, do_reverse=True)
             else:
-                cur_json_dict["important_phrases"] = self.formatPhrases(s, do_reverse=False)
+                cur_json_dict["important_phrases"] = self.formatResultDict(result_dict_list, do_reverse=False)
 
         except Exception as e:
             print(e)
@@ -869,6 +902,19 @@ class ExplanationBaseForTransformer(ExplanationBase):
         if label is not None and hasattr(self, 'label_vocab') and self.label_vocab is not None:
             output_str = self.label_vocab.itos[label] + '\t' + output_str
         return output_str
+
+    def repr_result_post_process(self, inp, spans, lm_spans, contribs, label=None):
+        tokens = self.tokenizer.convert_ids_to_tokens(inp)
+        outputs = []
+        assert (len(spans) == len(contribs)) and (len(spans) == len(lm_spans))
+        for lm_span, span, contrib in zip(lm_spans, spans, contribs):
+            outputs.append({
+                "phrase": ' '.join(tokens[span[0] + 1:span[1] + 2]),
+                "score": contrib,
+                "lm_span": lm_span
+            })
+
+        return outputs
 
     def demo(self):
         f = open(self.output_path, 'w')
@@ -1136,7 +1182,7 @@ class SOCForTransformer(ExplanationBaseForTransformer):
         score_agg_method = "derive"
         if score_agg_method == "derive":
             # Derive the importance score of the span
-            contrib_logits = contrib_logits.sum(axis=1)  # Batch size X 1
+            contrib_logits = contrib_logits.mean(axis=1)  # Batch size X 1
             contrib_score = contrib_logits.mean()  # 1 X 1
         elif score_agg_method == "sum":
             # Sum the importance score of the span

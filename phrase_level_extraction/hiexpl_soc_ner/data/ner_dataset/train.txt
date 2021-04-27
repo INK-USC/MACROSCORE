@@ -10,8 +10,7 @@ may	O
 2008	O
 at	O
 the	O
-univer-	O
-sity	O
+university	O
 of	O
 innsbruck	O
 with	O
@@ -76,8 +75,7 @@ net	O
 abnormal	O
 returns	O
 per	O
-infor-	O
-mation	O
+information	O
 level	O
 .	O
 
@@ -278,8 +276,7 @@ more	O
 than	O
 18,000	B-SS
 category	O
-pur-	O
-chases	O
+purchases	O
 from	O
 58	O
 product	O
@@ -305,8 +302,7 @@ heterogeneity	O
 that	O
 may	O
 be	O
-corre-	O
-lated	O
+correlated	O
 with	O
 our	O
 key	O
@@ -381,8 +377,7 @@ trip	O
 and	O
 two	O
 tobit	O
-speci-	O
-fications	O
+specifications	O
 that	O
 explicitly	O
 model	O
@@ -420,8 +415,7 @@ that	O
 the	O
 key	O
 random-effects	O
-mod-	O
-eling	O
+modeling	O
 assumption—that	O
 the	O
 regressors	O
@@ -512,8 +506,7 @@ better	O
 suited	O
 to	O
 our	O
-trip-	O
-level	O
+triplevel	O
 research	O
 objectives.10	O
 the	O
@@ -579,8 +572,7 @@ fixed-effects	B-TN
 model	I-TN
 avoids	O
 biased	O
-esti-	O
-mates	O
+estimates	O
 of	O
 b	O
 that	O
@@ -592,8 +584,7 @@ from	O
 misspecification	O
 of	O
 the	O
-distri-	O
-bution	O
+distribution	O
 of	O
 random	O
 effects	O
@@ -707,8 +698,7 @@ exposure	O
 time	O
 (	O
 first-stage	B-TN
-regres-	I-TN
-sion	I-TN
+regression	I-TN
 r2	B-ES
 =	I-ES
 .47	I-ES
@@ -786,8 +776,7 @@ total	O
 number	O
 of	O
 unplanned	O
-pur-	O
-chases	O
+purchases	O
 on	O
 a	O
 trip	O
@@ -1889,8 +1878,7 @@ interpretation	O
 of	O
 the	O
 model	O
-coeffi-	O
-cients	O
+coefficients	O
 ,	O
 and	O
 our	O
@@ -1899,8 +1887,7 @@ are	O
 not	O
 confounded	O
 by	O
-heterogene-	O
-ity	O
+heterogeneity	O
 across	O
 shoppers	O
 .	O
@@ -1909,8 +1896,7 @@ our	O
 fixed-effects	B-TN
 models	I-TN
 estimate	O
-household-	O
-level	O
+householdlevel	O
 intercepts	O
 and	O
 therefore	O
@@ -1960,8 +1946,7 @@ buying	O
 however	O
 ,	O
 our	O
-observa-	O
-tion	O
+observation	O
 window	O
 is	O
 relatively	O
@@ -1972,8 +1957,7 @@ short	O
 unplanned	O
 buying	O
 is	O
-mea-	O
-surement	O
+measurement	O
 intensive	O
 ,	O
 so	O
@@ -1983,8 +1967,7 @@ also	O
 necessary	O
 to	O
 consider	O
-possi-	O
-ble	O
+possible	O
 sample	B-SP
 attrition	O
 as	O
@@ -2025,8 +2008,7 @@ and	O
 its	O
 econometric	O
 estimations	O
-in-	O
-dicate	O
+indicate	O
 a	O
 positive	O
 externality	O
@@ -2116,8 +2098,7 @@ a	O
 sample	O
 of	O
 44,434	B-SS
-en-	O
-trepreneurial	O
+entrepreneurial	O
 firms	O
 .	O
 
@@ -2229,8 +2210,7 @@ significant	O
 across	O
 the	O
 three	O
-regres-	O
-sions	O
+regressions	O
 ,	O
 suggesting	O
 the	O
@@ -2285,8 +2265,7 @@ positive	O
 signs	O
 and	O
 are	O
-statis-	O
-tically	O
+statistically	O
 significant	O
 ,	O
 suggesting	O
@@ -2337,8 +2316,7 @@ model	B-TE
 show	O
 that	O
 the	O
-coeffi-	O
-cients	O
+coefficients	O
 for	O
 both	O
 ln	O
@@ -2365,8 +2343,7 @@ the	O
 presence	O
 of	O
 both	O
-intra-	O
-and	O
+intraand	O
 inter-regional	O
 spillover	O
 effects	O
@@ -2408,16 +2385,14 @@ coefficients	O
 and	O
 being	O
 statistically	O
-signifi-	O
-cant	O
+significant	O
 except	O
 for	O
 land	O
 prices	O
 .	O
 
-numeri-	O
-cally	O
+numerically	O
 speaking	O
 ,	O
 the	O
@@ -2453,8 +2428,7 @@ of	O
 for	O
 the	O
 high-tech	O
-subsam-	O
-ple	O
+subsample	O
 and	O
 0.611	O
 for	O
@@ -2480,8 +2454,7 @@ versus	O
 0.503	O
 for	O
 the	O
-intra-	O
-regional	O
+intraregional	O
 effects	O
 and	O
 0.571	O
@@ -2513,8 +2486,7 @@ effects	O
 model	B-TE
 2	I-TE
 )	O
-intra-	O
-and	O
+intraand	O
 inter-regional	O
 effects	O
 (	O
@@ -3122,8 +3094,7 @@ t	O
 b	O
 ,	O
 c	O
-intra-	O
-and	O
+intraand	O
 inter-regional	O
 effects	O
 (	O
@@ -3133,8 +3104,7 @@ of	O
 table	O
 2	O
 )	O
-intra-	O
-and	O
+intraand	O
 inter-regional	O
 effects	O
 (	O
@@ -3526,8 +3496,7 @@ effects	O
 model	B-TE
 2*	I-TE
 )	O
-intra-	O
-and	O
+intraand	O
 inter-regional	O
 effects	O
 (	O
@@ -4289,8 +4258,7 @@ creating	O
 a	O
 composite	O
 ,	O
-item-	O
-weighted	O
+itemweighted	O
 scale	O
 .	O
 
@@ -4322,8 +4290,7 @@ other	O
 relevant	O
 variables	O
 (	O
-green-	O
-berg	O
+greenberg	O
 ,	O
 2000	O
 ;	O
@@ -4378,8 +4345,7 @@ least-squares	I-TN
 (	I-TN
 ols	I-TN
 )	I-TN
-regres-	I-TN
-sion.2	I-TN
+regression.2	I-TN
 we	O
 started	O
 with	O
@@ -4389,8 +4355,7 @@ model	O
 comprising	O
 strain	O
 and	O
-nega-	O
-tive	O
+negative	O
 emotions	O
 and	O
 then	O
@@ -4425,8 +4390,7 @@ related	O
 to	O
 the	O
 crime	O
-mea-	O
-sures	O
+measures	O
 when	O
 age	O
 ,	O
@@ -4530,8 +4494,7 @@ table	O
 5	O
 concern	O
 potential	O
-media-	O
-tion	O
+mediation	O
 of	O
 an	O
 objective	O
@@ -4563,8 +4526,7 @@ in	O
 their	O
 effects	O
 on	O
-crim-	O
-inal	O
+criminal	O
 probability	O
 .	O
 
@@ -4583,8 +4545,7 @@ only	O
 limited	O
 evidence	O
 of	O
-media-	O
-tion	O
+mediation	O
 .	O
 
 as	O
@@ -4603,8 +4564,7 @@ and	I-TE
 ,	O
 with	O
 the	O
-excep-	O
-tion	O
+exception	O
 of	O
 theft	O
 models	O
@@ -4710,8 +4670,7 @@ lien	O
 )	O
 provided	O
 a	O
-bayes-	B-TN
-nash	I-TN
+bayesnash	B-TN
 equilibrium	I-TN
 analysis	I-TN
 of	O
@@ -4883,8 +4842,7 @@ how	O
 the	O
 resulting	O
 total	O
-sur-	O
-plus	O
+surplus	O
 is	O
 distributed	O
 between	O
@@ -5559,8 +5517,7 @@ positive	O
 value	O
 in	O
 the	O
-supple-	O
-mentary	O
+supplementary	O
 bid	O
 phase	O
 .	O
@@ -5577,8 +5534,7 @@ bids	O
 round	O
 based	O
 on	O
-syner-	O
-gies	O
+synergies	O
 in	O
 the	O
 value	O
@@ -5707,8 +5663,7 @@ and	O
 there	O
 was	O
 no	O
-sig-	O
-nificant	O
+significant	O
 difference	O
 (	O
 lab	O
@@ -5789,14 +5744,12 @@ blocks	O
 however	O
 ,	O
 researchers	O
-can-	O
-not	O
+cannot	O
 randomly	B-SP
 assign	I-SP
 respondents	O
 to	O
-unem-	O
-ployment	O
+unemployment	O
 or	O
 caregiving	O
 ,	O
@@ -5935,8 +5888,7 @@ pooled	B-SP
 sample	I-SP
 (	O
 867	B-SS
-respond-	O
-ents	O
+respondents	O
 in	O
 56	O
 study	O
@@ -5966,8 +5918,7 @@ variable	O
 merger	O
 announcement	O
 timing	O
-distin-	O
-guishing	O
+distinguishing	O
 the	O
 early	O
 survey	O
@@ -6090,8 +6041,7 @@ not	O
 directly	O
 estimate	O
 and	O
-quan-	O
-tify	O
+quantify	O
 the	O
 magnitude	O
 and	O
@@ -6123,8 +6073,7 @@ outcome	O
 we	O
 conducted	O
 the	O
-media-	B-TN
-tion	I-TN
+mediation	B-TN
 and	I-TN
 moderation	I-TN
 analyses	I-TN
@@ -6209,8 +6158,7 @@ burnout	O
 and	O
 increasing	O
 schedule	O
-flexibil-	O
-ity	O
+flexibility	O
 and	O
 working	O
 at	O
@@ -6230,8 +6178,7 @@ stress	O
 process	O
 theoretical	O
 model	O
-empha-	O
-sizes	O
+emphasizes	O
 the	O
 importance	O
 of	O
@@ -6288,8 +6235,7 @@ is	O
 closest	O
 to	O
 our	O
-group-random-	O
-ized	O
+group-randomized	O
 trial	O
 .	O
 
@@ -6390,8 +6336,7 @@ the	O
 overall	O
 patterns	O
 of	O
-em-	O
-ployment	O
+employment	O
 in	O
 the	O
 lbd	O
@@ -6472,8 +6417,7 @@ consecutive	B-SP
 period	I-SP
 of	O
 net	O
-contrac-	O
-tion	O
+contraction	O
 .	O
 
 standard	O
@@ -6491,8 +6435,7 @@ level	I-SP
 we	O
 use	O
 a	O
-sim-	B-TN
-ple	I-TN
+simple	B-TN
 regression	I-TN
 model	I-TN
 linking	O
@@ -6502,8 +6445,7 @@ and	O
 survival	O
 dynamics	O
 of	O
-incum-	O
-bent	O
+incumbent	O
 establishments	O
 to	O
 productivity	O
@@ -6658,8 +6600,7 @@ and	O
 “	O
 mature	O
 ”	O
-ðcom-	O
-pare	O
+ðcompare	O
 cols	O
 .	O
 
@@ -6679,8 +6620,7 @@ cycle	O
 and	O
 the	O
 great	O
-re-	O
-cession	O
+recession	O
 ,	O
 we	O
 find	O
@@ -6739,8 +6679,7 @@ year	O
 of	O
 operation	O
 of	O
-establish-	O
-ment	O
+establishment	O
 .	O
 
 i	O
@@ -6761,8 +6700,7 @@ groups	I-SP
 achievement	O
 of	O
 direct	O
-bene-	O
-fits	O
+benefits	O
 .	O
 
 first	O
@@ -6773,8 +6711,7 @@ a	O
 longitudinal	O
 dataset	O
 with	O
-infor-	O
-mation	O
+information	O
 on	O
 53	B-SS
 diseases	O
@@ -6805,8 +6742,7 @@ of	O
 a	O
 subsample	B-SP
 of	O
-approxi-	O
-mately	O
+approximately	O
 200	O
 disease	O
 advocates.22	O
@@ -6863,16 +6799,14 @@ science	O
 and	O
 the	O
 new	O
-eng-	O
-land	O
+england	O
 journal	O
 of	O
 medicine	O
 )	O
 ,	O
 and	O
-congression-	O
-ally	O
+congressionally	O
 mandated	O
 reports	O
 from	O
@@ -6884,8 +6818,7 @@ and	O
 the	O
 institute	O
 of	O
-medi-	O
-cine	O
+medicine	O
 .	O
 
 to	O
@@ -6920,16 +6853,14 @@ the	O
 number	O
 of	O
 nonprofits	O
-target-	O
-ing	O
+targeting	O
 a	O
 disease	O
 ,	O
 their	O
 total	O
 lobbying	O
-expendi-	O
-tures	O
+expenditures	O
 ,	O
 and	O
 the	O
@@ -6964,8 +6895,7 @@ table	O
 includes	O
 dummy	O
 variables	O
-indicat-	O
-ing	O
+indicating	O
 when	O
 at	O
 least	O
@@ -7408,16 +7338,14 @@ many	O
 people	O
 they	O
 killed.35	O
-con-	O
-trolling	O
+controlling	O
 for	O
 advocacy	O
 does	O
 not	O
 move	O
 the	O
-residu-	O
-als	O
+residuals	O
 substantially	O
 closer	O
 to	O
@@ -7465,8 +7393,7 @@ share	O
 some	O
 of	O
 the	O
-characteris-	O
-tics	O
+characteristics	O
 traditionally	B-SP
 assigned	I-SP
 to	O
@@ -7481,8 +7408,7 @@ call	O
 them	O
 “	O
 advocacy	O
-organiza-	O
-tions	O
+organizations	O
 ”	O
 (	O
 andrews	O
@@ -8516,8 +8442,7 @@ of	O
 a	O
 national	O
 survey	O
-con-	O
-ducted	O
+conducted	O
 by	O
 j.d	O
 .	O
@@ -8566,8 +8491,7 @@ study	B-SD
 .	O
 
 as	O
-expect-	O
-ed	O
+expected	O
 ,	O
 clothing	O
 was	O
@@ -8656,8 +8580,7 @@ is	O
 designed	O
 to	O
 provide	O
-ev-	O
-idence	O
+evidence	O
 that	O
 this	O
 effect	O
@@ -8696,8 +8619,7 @@ days	O
 later	O
 ,	O
 we	O
-ran-	B-SP
-domly	I-SP
+randomly	B-SP
 assigned	I-SP
 participants	O
 to	O
@@ -8746,8 +8668,7 @@ message	O
 and	O
 then	O
 a	O
-sec-	O
-ond	O
+second	O
 website	O
 ,	O
 which	O
@@ -8783,8 +8704,7 @@ reveals	O
 a	O
 significant	O
 main	O
-ef-	O
-fect	O
+effect	O
 of	O
 sbc	O
 (	O
@@ -8888,8 +8808,7 @@ p	B-PV
 .	O
 
 for	O
-partici-	O
-pants	O
+participants	O
 exposed	O
 to	O
 information	O
@@ -8944,8 +8863,7 @@ process	O
 we	O
 conducted	O
 a	O
-condition-	B-TN
-al	I-TN
+conditional	B-TN
 process	I-TN
 analysis	I-TN
 (	O
@@ -8967,8 +8885,7 @@ behavioral	O
 intentions	O
 as	O
 the	O
-depen-	O
-dent	O
+dependent	O
 variable	O
 ,	O
 persuasion	O
@@ -9073,8 +8990,7 @@ a	O
 consumer	O
 ’	O
 s	O
-self-	O
-identity	O
+selfidentity	O
 ,	O
 nowom	O
 has	O
@@ -9103,8 +9019,7 @@ that	O
 this	O
 enhancement	O
 of	O
-behav-	O
-ioral	O
+behavioral	O
 intentions	O
 operated	O
 via	O
@@ -9120,8 +9035,7 @@ as	O
 the	O
 combination	O
 of	O
-counter-argu-	O
-ing	O
+counter-arguing	O
 ,	O
 source	O
 derogation	O
@@ -9131,8 +9045,7 @@ affirmations	O
 of	O
 positive	O
 attitude	O
-to-	O
-ward	O
+toward	O
 the	O
 brand	O
 .	O
@@ -9216,8 +9129,7 @@ might	O
 question	O
 whether	O
 our	O
-par-	O
-ticipants	O
+participants	O
 felt	O
 a	O
 connection	O
@@ -9548,8 +9460,7 @@ designed	O
 to	O
 extend	O
 our	O
-find-	O
-ings	O
+findings	O
 regarding	O
 the	O
 interaction	O
@@ -9558,8 +9469,7 @@ nowom	O
 and	O
 sbc	O
 by	O
-study-	O
-ing	O
+studying	O
 a	O
 different	O
 product	O
@@ -9656,8 +9566,7 @@ of	O
 interest	O
 ,	O
 was	O
-mea-	O
-sured	O
+measured	O
 using	O
 the	O
 same	O
@@ -9689,8 +9598,7 @@ less	O
 negative	O
 ,	O
 becoming	O
-significant-	O
-ly	O
+significantly	O
 positive	O
 at	O
 sbc	O
@@ -9754,8 +9662,7 @@ additional	O
 support	O
 for	O
 the	O
-hypoth-	O
-esized	O
+hypothesized	O
 interaction	O
 of	O
 nowom	O
@@ -9782,8 +9689,7 @@ category	O
 while	O
 measuring	O
 (	O
-rath-	O
-er	O
+rather	O
 than	O
 manipulating	O
 )	O
@@ -9931,8 +9837,7 @@ analysis^	O
 (	O
 i.e.	O
 ,	O
-johnson-	O
-neyman	O
+johnsonneyman	O
 procedure	O
 )	O
 conducted	O
@@ -10012,8 +9917,7 @@ negative	O
 ,	O
 becoming	O
 statistically	O
-in-	O
-significant	O
+insignificant	O
 at	O
 a	O
 self–brand	O
@@ -10100,8 +10004,7 @@ from	O
 a	O
 real-world	O
 consumption	O
-experi-	O
-ence	O
+experience	O
 with	O
 a	O
 third	O
@@ -10140,8 +10043,7 @@ study	B-SD
 contributes	O
 to	O
 the	O
-general-	O
-izability	O
+generalizability	O
 and	O
 ecological	O
 validity	O
@@ -10164,8 +10066,7 @@ although	O
 80	O
 %	O
 of	O
-con-	O
-sumers	O
+consumers	O
 report	O
 reading	O
 six	O
@@ -10175,8 +10076,7 @@ reviews	O
 for	O
 each	O
 hotel	O
-pur-	O
-chase	O
+purchase	O
 decision	O
 (	O
 hotelmarketing.com	O
@@ -10185,8 +10085,7 @@ hotelmarketing.com	O
 ,	O
 there	O
 was	O
-un-	O
-doubtedly	O
+undoubtedly	O
 some	O
 portion	O
 of	O
@@ -10196,8 +10095,7 @@ study	B-SD
 respondents	O
 who	O
 ,	O
-al-	O
-though	O
+although	O
 they	O
 booked	O
 their	O
@@ -10208,8 +10106,7 @@ did	O
 not	O
 view	O
 any	O
-re-	O
-views	O
+reviews	O
 .	O
 
 participants	O
@@ -10228,8 +10125,7 @@ either	O
 a	O
 negative	O
 or	O
-posi-	O
-tive	O
+positive	O
 review	O
 for	O
 a	O
@@ -10262,8 +10158,7 @@ hotel	O
 stay	O
 they	O
 booked	O
-them-	O
-selves	O
+themselves	O
 using	O
 an	O
 online	O
@@ -10328,8 +10223,7 @@ nowom	O
 as	O
 the	O
 independent	O
-vari-	O
-able	O
+variable	O
 ,	O
 behavioral	O
 intentions	O
@@ -10338,8 +10232,7 @@ the	O
 dependent	O
 variable	O
 ,	O
-persua-	O
-sion	O
+persuasion	O
 resistance	O
 as	O
 the	O
@@ -10350,8 +10243,7 @@ sbc	O
 as	O
 the	O
 moderator	O
-in-	O
-dicates	O
+indicates	O
 an	O
 interaction	O
 of	O
@@ -10384,8 +10276,7 @@ positive	O
 relationship	O
 between	O
 defensive	O
-informa-	O
-tion	O
+information	O
 processing	O
 and	O
 behavioral	O
@@ -10412,16 +10303,14 @@ indicates	O
 there	O
 was	O
 no	O
-reac-	O
-tance	O
+reactance	O
 ×	O
 nowom	O
 interaction	O
 in	O
 determining	O
 defensive	O
-infor-	O
-mation	O
+information	O
 (	O
 p	B-PV
 =	I-PV
@@ -10454,8 +10343,7 @@ sbc	O
 interaction	O
 in	O
 determining	O
-defen-	O
-sive	O
+defensive	O
 information	O
 processing	O
 (	O
@@ -10469,8 +10357,7 @@ also	O
 consistent	O
 with	O
 our	O
-ex-	O
-pectations	O
+expectations	O
 ,	O
 we	O
 find	O
@@ -10505,8 +10392,7 @@ study	B-SD
 1	I-SD
 ,	O
 the	O
-low-	O
-sbc	O
+lowsbc	O
 clothing	O
 brand	O
 was	O
@@ -11648,8 +11534,7 @@ the	O
 competition	O
 compared	O
 to	O
-piece-	O
-rate	O
+piecerate	O
 levels	O
 (	O
 p\	B-PV
@@ -13478,8 +13363,7 @@ we	O
 then	O
 consider	O
 the	O
-possibil-	O
-ity	O
+possibility	O
 that	O
 employees	O
 are	O
@@ -13554,16 +13438,14 @@ p	B-PV
 
 associates	O
 from	O
-better-	O
-ranked	O
+betterranked	O
 law	O
 schools	O
 are	O
 more	O
 likely	O
 to	O
-partici-	O
-pate	O
+participate	O
 (	O
 p	B-PV
 \	I-PV
@@ -13595,22 +13477,19 @@ present	O
 basic	O
 mean	O
 and	O
-fre-	O
-quency	O
+frequency	O
 comparisons	O
 for	O
 a	O
 series	O
 of	O
 these	O
-pre-	O
-hire	O
+prehire	O
 human	O
 capital	O
 and	O
 demographic	O
-varia-	O
-bles	O
+variables	O
 .	O
 
 coefficients	O
@@ -14516,8 +14395,7 @@ both	O
 tables	O
 shows	O
 how	O
-pro-	O
-gram	O
+program	O
 use	O
 itself	O
 affects	O
@@ -14555,8 +14433,7 @@ increases	O
 the	O
 probability	O
 of	O
-attri-	O
-tion	O
+attrition	O
 ,	O
 although	O
 this	O
@@ -14564,8 +14441,7 @@ effect	O
 is	O
 of	O
 marginal	O
-sig-	O
-nificance	O
+significance	O
 (	O
 p	B-PV
 \	I-PV
@@ -14658,8 +14534,7 @@ we	O
 include	O
 an	O
 exclusion	O
-restric-	O
-tion	O
+restriction	O
 in	O
 this	O
 and	O
@@ -14667,8 +14542,7 @@ all	O
 other	O
 selection	O
 and	O
-treat-	O
-ment	O
+treatment	O
 models	O
 discussed	O
 below.6	O
@@ -14682,8 +14556,7 @@ parallel	O
 results	O
 from	O
 a	O
-bivar-	O
-iate	O
+bivariate	O
 probit	O
 model	O
 predicting	O
@@ -14754,8 +14627,7 @@ an	O
 increase	O
 in	O
 the	O
-mag-	O
-nitude	O
+magnitude	O
 of	O
 the	O
 initial	O
@@ -14842,8 +14714,7 @@ program	O
 users	O
 relative	O
 to	O
-non-	O
-users—or	O
+nonusers—or	O
 ,	O
 more	O
 precisely	O
@@ -14857,14 +14728,12 @@ difference	O
 in	O
 the	O
 initial	O
-assign-	O
-ment	O
+assignment	O
 effect	O
 for	O
 participant	O
 person-years	O
-rela-	O
-tive	O
+relative	O
 to	O
 non-participant	O
 person-years	O
@@ -14882,8 +14751,7 @@ and	O
 )	O
 indicate	O
 a	O
-signif-	O
-icant	O
+significant	O
 increase	O
 in	O
 the	O
@@ -14910,8 +14778,7 @@ model	B-TE
 4	I-TE
 indicate	O
 a	O
-sig-	O
-nificantly	O
+significantly	O
 magnified	O
 effect	O
 on	O
@@ -15006,15 +14873,13 @@ supervisors	O
 who	O
 control	O
 more	O
-valu-	O
-able	O
+valuable	O
 clients	O
 on	O
 the	O
 dimensions	O
 that	O
-contrib-	O
-ute	O
+contribute	O
 to	O
 the	O
 project-quality	O
@@ -15038,8 +14903,7 @@ count	O
 both	O
 in	O
 absolute	O
-com-	O
-parisons	O
+comparisons	O
 and	O
 when	O
 the	O
@@ -15316,8 +15180,7 @@ model	B-TE
 2	I-TE
 predicts	O
 (	O
-non-	O
-cumulative	O
+noncumulative	O
 )	O
 project	O
 quality	O
@@ -15348,8 +15211,7 @@ powerful	O
 in	O
 this	O
 case	O
-pre-	O
-cisely	O
+precisely	O
 because	O
 it	O
 was	O
@@ -15418,8 +15280,7 @@ of	O
 families	O
 (	O
 147	O
-sin-	O
-gle	O
+single	O
 parent	O
 ,	O
 348	O
@@ -15486,8 +15347,7 @@ et	O
 al	O
 .	O
 
-chi-	B-TN
-square	I-TN
+chisquare	B-TN
 difference	I-TN
 tests	I-TN
 were	O
@@ -15577,8 +15437,7 @@ chi-square	B-TN
 difference	I-TN
 tests	I-TN
 to	O
-deter-	O
-mine	O
+determine	O
 whether	O
 imposing	O
 constraints	O
@@ -15635,8 +15494,7 @@ essence	O
 ,	O
 this	O
 method	O
-dif-	O
-fers	O
+differs	O
 from	O
 the	O
 more	O
@@ -15871,8 +15729,7 @@ invariance	O
 i.e.	O
 ,	O
 intercepts	O
-con-	O
-strained	O
+constrained	O
 )	O
 ,	O
 χ2	O
@@ -16400,8 +16257,7 @@ issue	O
 
 study	B-SD
 2	I-SD
-repli-	O
-cated	O
+replicated	O
 study	B-SD
 1	I-SD
 and	O
@@ -16418,8 +16274,7 @@ participants	O
 ’	O
 expectations	O
 for	O
-so-	O
-cial	O
+social	O
 conflict	O
 regulation	O
 .	O
@@ -16430,8 +16285,7 @@ study	B-SD
 2	I-SD
 extended	O
 this	O
-exami-	O
-nation	O
+examination	O
 to	O
 majority	O
 group	O
@@ -16440,8 +16294,7 @@ who	O
 successfully	O
 (	O
 or	O
-unsuccess-	O
-fully	O
+unsuccessfully	O
 )	O
 sought	O
 conversion	O
@@ -16595,8 +16448,7 @@ a	O
 stability	O
 of	O
 minority	O
-posi-	O
-tion	O
+position	O
 :	O
 stable	O
 vs.	O
@@ -16621,8 +16473,7 @@ variance	I-TN
 anova	B-TN
 )	O
 on	O
-par-	O
-ticipants	O
+participants	O
 ’	O
 estimates	O
 of	O
@@ -16710,8 +16561,7 @@ session	O
 revealed	O
 only	O
 a	O
-signifi-	O
-cant	O
+significant	O
 main	O
 effect	O
 of	O
@@ -16783,8 +16633,7 @@ to	O
 one	O
 ’	O
 s	O
-posi-	O
-tion	O
+position	O
 vs.	O
 increasing	O
 acceptance	O
@@ -16900,8 +16749,7 @@ partial	O
 .60	O
 .	O
 
-simi-	O
-larly	O
+similarly	O
 ,	O
 an	O
 anova	B-TN
@@ -17114,8 +16962,7 @@ but	O
 not	O
 in	O
 the	O
-conver-	O
-sion	O
+conversion	O
 condition	O
 ,	O
 t	O
@@ -17183,8 +17030,7 @@ conditions	O
 revealed	O
 significantly	O
 lower	O
-identifi-	O
-cation	O
+identification	O
 with	O
 the	O
 group	O
@@ -17258,8 +17104,7 @@ study	B-SD
 in	O
 addition	O
 to	O
-repli-	O
-cating	O
+replicating	O
 study	B-SD
 1	I-SD
 ,	O
@@ -17281,8 +17126,7 @@ on	O
 group	O
 identification	O
 was	O
-medi-	O
-ated	O
+mediated	O
 by	O
 expectations	O
 for	O
@@ -17304,8 +17148,7 @@ by	O
 examining	O
 reactions	O
 of	O
-major-	O
-ities	O
+majorities	O
 who	O
 successfully	O
 (	O
@@ -17443,8 +17286,7 @@ and	O
 the	O
 integrated	O
 former	O
-ma-	O
-jority	O
+majority	O
 condition	O
 (	O
 see	O
@@ -17581,8 +17423,7 @@ anova	B-TN
 on	O
 participants	O
 ’	O
-es-	O
-timates	O
+estimates	O
 of	O
 others	O
 ’	O
@@ -17631,8 +17472,7 @@ of	O
 agreement	O
 with	O
 the	O
-partic-	O
-ipant	O
+participant	O
 at	O
 the	O
 end	O
@@ -17674,16 +17514,14 @@ effects	I-TN
 tests	I-TN
 within	O
 the	O
-ma-	O
-jority	O
+majority	O
 conditions	O
 revealed	O
 significantly	O
 higher	O
 estimates	O
 of	O
-agree-	O
-ments	O
+agreements	O
 among	O
 participants	O
 in	O
@@ -17738,8 +17576,7 @@ of	O
 the	O
 agreement	O
 were	O
-signifi-	O
-cantly	O
+significantly	O
 higher	O
 among	O
 participants	O
@@ -17847,8 +17684,7 @@ contrasts	O
 revealed	O
 that	O
 in	O
-compar-	O
-ison	O
+comparison	O
 with	O
 stable	O
 majorities	O
@@ -17954,8 +17790,7 @@ a	O
 initial	O
 position	O
 :	O
-mi-	O
-nority	O
+minority	O
 vs.	O
 majority	O
 )	O
@@ -18090,8 +17925,7 @@ effect	O
 of	O
 type	O
 of	O
-influ-	O
-ence	O
+influence	O
 ,	O
 f	O
 (	O
@@ -18353,8 +18187,7 @@ p	B-PV
 .	O
 
 as	O
-hypothe-	O
-sized	O
+hypothesized	O
 ,	O
 planned	O
 contrasts	O
@@ -18720,8 +18553,7 @@ study	B-SD
 1	I-SD
 findings	O
 that	O
-minor-	O
-ities	O
+minorities	O
 successful	O
 at	O
 raising	O
@@ -18742,8 +18574,7 @@ to	O
 their	O
 position	O
 ,	O
-signifi-	O
-cantly	O
+significantly	O
 increased	O
 their	O
 identification	O
@@ -18775,8 +18606,7 @@ among	O
 changed	O
 majorities	O
 ,	O
-irrespec-	O
-tive	O
+irrespective	O
 of	O
 type	O
 of	O
@@ -19040,16 +18870,14 @@ contrasts	O
 revealed	O
 that	O
 social	O
-con-	O
-flict	O
+conflict	O
 expectations	O
 were	O
 significantly	O
 lower	O
 among	O
 changed	O
-minor-	O
-ities	O
+minorities	O
 than	O
 among	O
 stable	O
@@ -19099,8 +18927,7 @@ lower	O
 among	O
 minorities	O
 successfully	O
-advo-	O
-cating	O
+advocating	O
 for	O
 tolerance	O
 rather	O
@@ -19117,8 +18944,7 @@ significantly	O
 lower	O
 expectations	O
 for	O
-so-	O
-cial	O
+social	O
 conflict	O
 among	O
 changed	O
@@ -19366,8 +19192,7 @@ that	O
 a	O
 type	O
 of	O
-influ-	O
-818	O
+influ818	O
 prislin	O
 and	O
 filson	O
@@ -19391,8 +19216,7 @@ and	O
 that	O
 predicted	O
 group	O
-identifi-	O
-cation	O
+identification	O
 (	O
 b	O
 0.74	O
@@ -19476,8 +19300,7 @@ term	O
 was	O
 reduced	O
 to	O
-in-	O
-significance	O
+insignificance	O
 (	O
 b	O
 0.05	O
@@ -19575,8 +19398,7 @@ p	B-PV
 and	O
 social	O
 conflict	O
-expecta-	O
-tions	O
+expectations	O
 (	O
 b	O
 1.84	O
@@ -19594,8 +19416,7 @@ p	B-PV
 
 when	O
 the	O
-hypothe-	O
-sized	O
+hypothesized	O
 mediator	O
 ,	O
 social	O
@@ -19946,8 +19767,7 @@ at	O
 the	O
 wolfgang	O
 köhler	O
-pri-	O
-mate	O
+primate	O
 research	O
 center	O
 (	O
@@ -20053,8 +19873,7 @@ by	O
 the	O
 within-subject	O
 factor	O
-condi-	O
-tion	O
+condition	O
 or	O
 the	O
 between-subject	O
@@ -20066,8 +19885,7 @@ sex	O
 we	O
 used	O
 a	O
-gen-	B-TN
-eralized	I-TN
+generalized	B-TN
 linear	I-TN
 mixed	I-TN
 model	I-TN
@@ -20117,8 +19935,7 @@ chisq	O
 using	O
 the	O
 reduced	O
-sam-	O
-ple	O
+sample	O
 ,	O
 we	O
 found	O
@@ -20406,8 +20223,7 @@ plate	O
 in	O
 the	O
 different	O
-condi-	O
-tion	O
+condition	O
 compared	O
 to	O
 the	O
@@ -20492,8 +20308,7 @@ was	O
 influenced	O
 by	O
 the	O
-condi-	O
-tion	O
+condition	O
 (	O
 lrt	O
 ,	O
@@ -20657,8 +20472,7 @@ experiment	B-SD
 
 since	O
 we	O
-fol-	O
-lowed	O
+followed	O
 the	O
 procedure	O
 of	O
@@ -20669,8 +20483,7 @@ we	O
 also	O
 included	O
 the	O
-follow-	O
-up	O
+followup	O
 trials.4.4	O
 .	O
 
@@ -20734,8 +20547,7 @@ the	O
 regular	O
 test	O
 trials	O
-sepa-	O
-rately	O
+separately	O
 from	O
 the	O
 follow-up	O
@@ -20849,8 +20661,7 @@ comprising	O
 condition	O
 as	O
 a	O
-pre-	O
-dictor	O
+predictor	O
 with	O
 the	O
 null	O
@@ -21257,8 +21068,7 @@ issues	O
 that	O
 must	O
 be	O
-ad-	O
-dressed	O
+addressed	O
 in	O
 the	O
 absence	O
@@ -21301,8 +21111,7 @@ school	O
 
 however	O
 ,	O
-sys-	O
-tematic	O
+systematic	O
 differences	O
 by	O
 cohort	O
@@ -21330,8 +21139,7 @@ peer	O
 achievement	O
 in	O
 some	O
-speci-	O
-fications	O
+specifications	O
 provides	O
 information	O
 about	O
@@ -21497,8 +21305,7 @@ of	O
 achievement	O
 in	O
 most	O
-specifi-	O
-cations.31	O
+specifications.31	O
 by	O
 comparison	O
 ,	O
@@ -21624,8 +21431,7 @@ smaller	O
 than	O
 the	O
 corresponding	O
-es-	O
-timate	O
+estimate	O
 in	O
 table	O
 1	O
@@ -21668,8 +21474,7 @@ sampling	O
 error	O
 ,	O
 the	O
-am-	O
-plification	O
+amplification	O
 of	O
 errors	O
 in	O
@@ -22002,8 +21807,7 @@ both	O
 holistic	O
 and	O
 part-based	O
-pro-	O
-cessing	O
+processing	O
 ,	O
 while	O
 objects	O
@@ -22012,8 +21816,7 @@ not	O
 processed	O
 holistically	O
 and	O
-re-	O
-ceive	O
+receive	O
 only	O
 part-based	O
 processing	O
@@ -22051,8 +21854,7 @@ memory	O
 task	O
 should	O
 be	O
-stee-	O
-per	O
+steeper	O
 for	O
 faces	O
 than	O
@@ -22082,8 +21884,7 @@ participants	O
 comprised	O
 nineteen	O
 5–6	O
-year-	O
-olds	O
+yearolds	O
 (	O
 mean	O
 5.97	O
@@ -22096,8 +21897,7 @@ range	O
 male	O
 )	O
 ,	O
-twenty-	O
-two	O
+twentytwo	O
 7–8	O
 year-olds	O
 (	O
@@ -22259,8 +22059,7 @@ against	O
 a	O
 uniform	O
 grey	O
-back-	O
-ground	O
+background	O
 .	O
 
 importantly	O
@@ -22647,8 +22446,7 @@ face	O
 processing	O
 via	O
 the	O
-dis-	O
-proportionate	O
+disproportionate	O
 face	O
 inversion	O
 effect	O
@@ -22700,8 +22498,7 @@ inverted	O
 condition	O
 for	O
 adult	O
-partici-	O
-pants	O
+participants	O
 (	O
 robbins	O
 &	O
@@ -22720,8 +22517,7 @@ the	O
 inversion	O
 effect	O
 across	O
-stim-	O
-ulus	O
+stimulus	O
 type.8	O
 pilot	O
 testing	O
@@ -22730,8 +22526,7 @@ used	O
 to	O
 select	O
 presentation	O
-con-	O
-ditions	O
+conditions	O
 such	O
 that	O
 7-year-olds	O
@@ -22801,8 +22596,7 @@ experiment	B-SD
 )	O
 .	O
 
-partic-	O
-ular	O
+particular	O
 pairs	O
 were	O
 randomly	B-SP
@@ -22837,8 +22631,7 @@ upright	O
 faces	O
 )	O
 were	O
-com-	B-SP
-pleted	I-SP
+completed	B-SP
 consecutively	I-SP
 .	O
 
@@ -22964,8 +22757,7 @@ was	O
 at	O
 a	O
 level	O
-com-	O
-fortably	O
+comfortably	O
 as	O
 well	O
 as	O
@@ -23081,8 +22873,7 @@ the	O
 inversion	O
 effect	O
 (	O
-up-	O
-right–inverted	O
+upright–inverted	O
 )	O
 was	O
 significantly	O
@@ -23271,8 +23062,7 @@ of	O
 the	O
 inversion	O
 effect	O
-spe-	O
-cifically	O
+specifically	O
 for	O
 faces	O
 also	O
@@ -23359,16 +23149,14 @@ again	O
 favour	O
 the	O
 general	O
-cogni-	O
-tive	O
+cognitive	O
 development	O
 theory	O
 of	O
 age-related	O
 improvement	O
 in	O
-per-	O
-formance	O
+performance	O
 on	O
 face	O
 tasks	O
@@ -23382,8 +23170,7 @@ similarity	O
 in	O
 inversion	O
 effects	O
-be-	O
-tween	O
+between	O
 children	O
 and	O
 adults	O
@@ -23426,8 +23213,7 @@ that	O
 there	O
 is	O
 no	O
-quantita-	O
-tive	O
+quantitative	O
 development	O
 beyond	O
 the	O
@@ -23437,8 +23223,7 @@ of	O
 years	O
 in	O
 the	O
-holis-	O
-tic	O
+holistic	O
 processing	O
 aspect	O
 of	O
@@ -23454,8 +23239,7 @@ into	O
 explicit	O
 memory	O
 (	O
-experi-	O
-ment	O
+experiment	O
 3a	O
 )	O
 and	O
@@ -23483,8 +23267,7 @@ to	O
 a	O
 )	O
 provide	O
-compar-	O
-ison	O
+comparison	O
 data	O
 on	O
 the	O
@@ -23504,8 +23287,7 @@ used	O
 in	O
 the	O
 implicit	O
-ver-	O
-sion	O
+version	O
 ,	O
 and	O
 (	O
@@ -23534,8 +23316,7 @@ was	O
 used	O
 to	O
 remove	O
-distin-	O
-table	O
+distintable	O
 1	O
 experiment	B-SD
 3a	I-SD
@@ -23871,8 +23652,7 @@ statistical	O
 power	O
 ,	O
 children	O
-remem-	O
-bered	O
+remembered	O
 child	O
 faces	O
 significantly	O
@@ -23960,8 +23740,7 @@ trend	O
 against	O
 which	O
 implicit	O
-mem-	O
-ory	O
+memory	O
 development	O
 could	O
 be	O
@@ -23972,8 +23751,7 @@ experiment	B-SD
 .	O
 
 this	O
-pro-	O
-vides	O
+provides	O
 the	O
 basis	O
 to	O
@@ -23999,8 +23777,7 @@ from	O
 changes	O
 in	O
 perceptual	O
-face-	O
-space	O
+facespace	O
 coding	O
 deriving	O
 from	O
@@ -24021,8 +23798,7 @@ children	O
 s	O
 ability	O
 to	O
-perceptu-	O
-ally	O
+perceptually	O
 encode	O
 novel	O
 faces	O
@@ -24031,8 +23807,7 @@ an	O
 implicit	O
 measure	O
 of	O
-reten-	O
-tion	O
+retention	O
 .	O
 
 if	O
@@ -24063,8 +23838,7 @@ the	O
 face-specific	O
 perceptual	O
 development	O
-the-	O
-ory	O
+theory	O
 )	O
 we	O
 would	O
@@ -24084,8 +23858,7 @@ an	O
 own-age	O
 advantage	O
 in	O
-chil-	O
-dren	O
+children	O
 (	O
 i.e.	O
 ,	O
@@ -24112,8 +23885,7 @@ experiment	B-SD
 are	O
 solely	O
 the	O
-re-	O
-sult	O
+result	O
 of	O
 general	O
 cognitive	O
@@ -24142,8 +23914,7 @@ designed	O
 to	O
 satisfy	O
 several	O
-impor-	O
-tant	O
+important	O
 methodological	O
 criteria	O
 .	O
@@ -24159,8 +23930,7 @@ memory	O
 task	O
 .	O
 
-pay-	O
-ment	O
+payment	O
 was	O
 as	O
 for	O
@@ -24187,8 +23957,7 @@ the	O
 studied	O
 normal	O
 and	O
-unstud-	O
-ied	O
+unstudied	O
 normal	O
 faces	O
 (	O
@@ -24231,8 +24000,7 @@ experiment	B-SD
 3a	I-SD
 ,	O
 except	O
-partici-	O
-pants	O
+participants	O
 were	O
 not	O
 told	O
@@ -24246,8 +24014,7 @@ filler	O
 tasks	O
 were	O
 shorter	O
-ver-	O
-table	O
+vertable	O
 2	O
 experiment	B-SD
 3b	I-SD
@@ -24539,8 +24306,7 @@ p	B-PV
 .2	I-PV
 ,	O
 or	O
-face-	O
-age	O
+faceage	O
 ,	O
 f	O
 (	O
@@ -24642,8 +24408,7 @@ priori	O
 t-tests	O
 also	O
 confirmed	O
-prim-	O
-ing	O
+priming	O
 was	O
 significantly	O
 above	O
@@ -24708,8 +24473,7 @@ results	O
 of	O
 experiment	B-SD
 3a	I-SD
-re-	O
-vealed	O
+revealed	O
 the	O
 lack	O
 of	O
@@ -24763,8 +24527,7 @@ effect	O
 of	O
 face-age	O
 on	O
-prim-	O
-ing	O
+priming	O
 ,	O
 f	O
 <	O
@@ -24865,8 +24628,7 @@ participants	O
 experiment	B-SD
 3a	I-SD
 )	O
-disap-	O
-peared	O
+disappeared	O
 in	O
 implicit	O
 memory	O
@@ -24881,8 +24643,7 @@ obtained	O
 in	O
 children	O
 for	O
-im-	O
-plicit	O
+implicit	O
 memory	O
 also	O
 differed	O
@@ -24950,16 +24711,14 @@ memory	O
 experiment	B-SD
 3a	I-SD
 )	O
-dis-	O
-appeared	O
+disappeared	O
 when	O
 encoding	O
 was	O
 tested	O
 with	O
 implicit	O
-retrie-	O
-val	O
+retrieval	O
 .	O
 
 experiment	B-SD
@@ -25108,8 +24867,7 @@ effect	O
 for	O
 faces	O
 was	O
-disproportion-	O
-ate	O
+disproportionate	O
 relative	O
 to	O
 that	O
@@ -25138,8 +24896,7 @@ faces	O
 versus	O
 objects	O
 ,	O
-up-	O
-right	O
+upright	O
 faces	O
 versus	O
 inverted	O
@@ -25149,8 +24906,7 @@ and	O
 where	O
 it	O
 can	O
-there-	O
-fore	O
+therefore	O
 be	O
 concluded	O
 that	O
@@ -25172,8 +24928,7 @@ any	O
 subcomponent	O
 (	O
 present	O
-experi-	O
-ment	O
+experiment	O
 1	O
 ;	O
 present	O
@@ -25192,8 +24947,7 @@ is	O
 that	O
 holistic	O
 processing	O
-with-	O
-in	O
+within	O
 the	O
 face	O
 system	O
@@ -25211,8 +24965,7 @@ least	O
 under	O
 relatively	O
 unspeeded	O
-con-	O
-ditions	O
+conditions	O
 .	O
 
 we	O
@@ -25235,8 +24988,7 @@ memory	O
 are	O
 equal	O
 for	O
-up-	O
-right	O
+upright	O
 faces	O
 and	O
 inverted	O
@@ -25247,8 +24999,7 @@ experiment	B-SD
 ;	O
 also	O
 see	O
-car-	O
-ey	O
+carey	O
 ,	O
 1981	O
 in	O
@@ -25283,8 +25034,7 @@ age	O
 at	O
 which	O
 adult	O
-experi-	O
-mental	O
+experimental	O
 tasks	O
 can	O
 be	O
@@ -25294,8 +25044,7 @@ children	O
 ,	O
 thus	O
 allowing	O
-po-	O
-tential	O
+potential	O
 for	O
 direct	O
 quantitative	O
@@ -25370,8 +25119,7 @@ thus	O
 is	O
 a	O
 sensible	O
-end-	O
-point	O
+endpoint	O
 for	O
 the	O
 analysis.18	O
@@ -25876,8 +25624,7 @@ and	O
 post	O
 roads	O
 ,	O
-appropria-	O
-tions	O
+appropriations	O
 ,	O
 or	O
 ways	O
@@ -25911,8 +25658,7 @@ whether	O
 the	O
 margin	O
 of	O
-vic-	O
-tory	O
+victory	O
 in	O
 the	O
 most	O
@@ -25949,8 +25695,7 @@ includes	O
 the	O
 measures	O
 of	O
-con-	O
-stituency	O
+constituency	O
 partisanship	O
 in	O
 presidential	O
@@ -25978,8 +25723,7 @@ model	B-TE
 )	I-TE
 ,	O
 the	O
-co-	O
-efficient	O
+coefficient	O
 is	O
 positive	O
 and	O
@@ -26027,8 +25771,7 @@ variable	O
 ,	O
 excluding	O
 the	O
-coun-	O
-ties	O
+counties	O
 that	O
 experienced	O
 decreases	O
@@ -26455,8 +26198,7 @@ representative	O
 .	O
 
 i	O
-re-	O
-estimated	O
+reestimated	O
 model	B-TE
 (	I-TE
 4	I-TE
@@ -26497,8 +26239,7 @@ on	O
 distributive	O
 politics	O
 has	O
-fo-	O
-cused	O
+focused	O
 almost	O
 exclusively	O
 on	O
@@ -26521,8 +26262,7 @@ however	O
 falls	O
 short	O
 of	O
-con-	O
-ventional	O
+conventional	O
 levels	O
 of	O
 statistical	O
@@ -26571,8 +26311,7 @@ to	O
 states	O
 with	O
 split	O
-dele-	O
-gations	O
+delegations	O
 ,	O
 though	O
 the	O
@@ -26597,8 +26336,7 @@ importantly	O
 this	O
 coefficient	O
 is	O
-statis-	O
-tically	O
+statistically	O
 distinguishable	O
 (	O
 p	B-PV
@@ -28518,8 +28256,7 @@ behavior	O
 irrelevant	O
 to	O
 the	O
-cheat-	O
-ing–trustworthiness	O
+cheating–trustworthiness	O
 dimension	O
 or	O
 trustworthiness	O
@@ -29330,8 +29067,7 @@ pb.001	B-PV
 faces	O
 associated	O
 with	O
-excep-	O
-tional	O
+exceptional	O
 behavior	O
 were	O
 rated	O
@@ -29814,8 +29550,7 @@ descriptions	O
 typed	O
 below	O
 the	O
-photo-	O
-graphs	O
+photographs	O
 were	O
 those	O
 used	O
@@ -30030,8 +29765,7 @@ p=.21	B-PV
 faces	O
 associated	O
 with	O
-high-	O
-and	O
+highand	O
 low-status	O
 professions	O
 were	O
@@ -30143,8 +29877,7 @@ pb.01	B-PV
 ]	O
 .	O
 
-chea-	O
-ter	O
+cheater	O
 faces	O
 were	O
 rated	O
@@ -30546,8 +30279,7 @@ significant	O
 differences	O
 between	O
 the	O
-partici-	O
-pants	O
+participants	O
 ’	O
 five	O
 emotion	O
@@ -30811,8 +30543,7 @@ we	O
 found	O
 no	O
 significant	O
-differ-	O
-ences	O
+differences	O
 for	O
 age	O
 or	O
@@ -30839,8 +30570,7 @@ anova	B-TN
 )	O
 on	O
 aspiration	O
-le-	O
-vel	O
+level	O
 as	O
 a	O
 function	O
@@ -30860,8 +30590,7 @@ a	O
 significant	O
 effect	O
 of	O
-emo-	O
-tion	O
+emotion	O
 on	O
 aspiration	O
 level	O
@@ -30902,8 +30631,7 @@ as	O
 a	O
 function	O
 of	O
-emo-	O
-tion	O
+emotion	O
 condition	O
 (	O
 anxiety	O
@@ -31096,8 +30824,7 @@ negotiator	O
 s	O
 emotion	O
 (	O
-anx-	O
-ious	O
+anxious	O
 vs	O
 .	O
 
@@ -31209,8 +30936,7 @@ chose	O
 to	O
 exit	O
 before	O
-reach-	O
-ing	O
+reaching	O
 an	O
 agreement	O
 .	O
@@ -31240,8 +30966,7 @@ emotion	O
 ,	O
 and	O
 the	O
-nego-	O
-tiator	O
+negotiator	O
 ’	O
 s	O
 role	O
@@ -31436,8 +31161,7 @@ p	B-PV
 .	O
 
 by	O
-includ-	O
-ing	O
+including	O
 expectations	O
 in	O
 the	O
@@ -31448,8 +31172,7 @@ influence	O
 of	O
 anxiety	O
 on	O
-individ-	O
-ual	O
+individual	O
 profit	O
 was	O
 reduced	O
@@ -31481,8 +31204,7 @@ the	O
 amount	O
 of	O
 explained	O
-var-	O
-iance	O
+variance	O
 from	O
 r2	O
 =	O
@@ -31521,8 +31243,7 @@ seller	O
 ’	O
 s	O
 emotion	O
-con-	O
-dition	O
+condition	O
 ,	O
 and	O
 an	O
@@ -31536,8 +31257,7 @@ we	O
 did	O
 not	O
 find	O
-signif-	O
-icant	O
+significant	O
 effects	O
 for	O
 the	O
@@ -31597,8 +31317,7 @@ this	O
 pattern	O
 of	O
 results	O
-sug-	O
-gests	O
+suggests	O
 that	O
 anxiety	O
 temporarily	O
@@ -31648,8 +31367,7 @@ to	O
 explore	O
 the	O
 link	O
-be-	O
-tween	O
+between	O
 anxiety	O
 and	O
 initial	O
@@ -31757,8 +31475,7 @@ a	O
 northeastern	O
 university	O
 to	O
-par-	O
-ticipate	O
+participate	O
 in	O
 a	O
 laboratory	O
@@ -31783,8 +31500,7 @@ to	O
 one	O
 of	O
 two	O
-between-sub-	O
-ject	O
+between-subject	O
 emotion-induction	O
 conditions	O
 (	O
@@ -31862,8 +31578,7 @@ were	O
 higher	O
 in	O
 the	O
-neu-	O
-tral	O
+neutral	O
 condition	O
 than	O
 in	O
@@ -31896,8 +31611,7 @@ work	O
 we	O
 used	O
 a	O
-three-is-	O
-sue	O
+three-issue	O
 cell-phone	O
 shipment	O
 negotiation	O
@@ -32067,8 +31781,7 @@ from	O
 negotiation	O
 to	O
 bargaining	O
-sit-	O
-uations	O
+situations	O
 .	O
 
 continuous	O
@@ -32105,8 +31818,7 @@ students	O
 at	O
 a	O
 northeastern	O
-univer-	O
-sity	O
+university	O
 participated	O
 in	O
 the	O
@@ -32119,8 +31831,7 @@ show-up	O
 fee	O
 and	O
 the	O
-oppor-	O
-tunity	O
+opportunity	O
 to	O
 make	O
 up	O
@@ -32169,8 +31880,7 @@ that	O
 this	O
 relationship	O
 was	O
-sig-	O
-nificant	O
+significant	O
 ,	O
 f	O
 (	O
@@ -32194,8 +31904,7 @@ demonstrate	O
 that	O
 anxiety	O
 causes	O
-individu-	O
-als	O
+individuals	O
 to	O
 exit	O
 early	O
@@ -32239,8 +31948,7 @@ self-efficacy	O
 in	O
 moderating	O
 the	O
-rela-	O
-tionship	O
+relationship	O
 between	O
 anxiety	O
 and	O
@@ -32270,8 +31978,7 @@ show-up	O
 fee	O
 and	O
 the	O
-opportu-	O
-nity	O
+opportunity	O
 to	O
 earn	O
 up	O
@@ -32391,8 +32098,7 @@ mean	O
 level	O
 of	O
 negotiator	O
-self-effi-	O
-cacy	O
+self-efficacy	O
 was	O
 significantly	O
 higher	O
@@ -32489,8 +32195,7 @@ participants	O
 in	O
 the	O
 anxiety	O
-condi-	O
-tion	O
+condition	O
 exited	O
 earlier	O
 than	O
@@ -32549,8 +32254,7 @@ p	B-PV
 .0002	I-PV
 .	O
 
-interest-	O
-ingly	O
+interestingly	O
 ,	O
 we	O
 found	O
@@ -32620,8 +32324,7 @@ who	O
 received	O
 false	O
 performance	O
-feed-	O
-back	O
+feedback	O
 indicating	O
 that	O
 they	O
@@ -32669,8 +32372,7 @@ much	O
 lower	O
 than	O
 the	O
-ex-	O
-pected	O
+expected	O
 value	O
 of	O
 reaching	O
@@ -32746,8 +32448,7 @@ us	O
 to	O
 estimate	O
 the	O
-ef-	O
-fects	O
+effects	O
 of	O
 district-level	O
 demographics	O
@@ -33268,8 +32969,7 @@ we	O
 add	O
 dummy	O
 variables	O
-in-	O
-dicating	O
+indicating	O
 other	O
 actors	O
 who	O
@@ -33285,8 +32985,7 @@ committee	O
 chairs	O
 ,	O
 ranking	O
-minor-	O
-ity	O
+minority	O
 members	O
 of	O
 committees	O
@@ -33422,8 +33121,7 @@ and	I-TE
 we	O
 investigate	O
 the	O
-possibil-	O
-ity	O
+possibility	O
 that	O
 the	O
 president	O
@@ -33760,8 +33458,7 @@ dummy	O
 variable	O
 as	O
 an	O
-addi-	O
-tional	O
+additional	O
 indicator	O
 of	O
 vulnerability	O
@@ -33829,8 +33526,7 @@ logged	O
 )	O
 number	O
 of	O
-to-	O
-tal	O
+total	O
 awards	O
 and	O
 the	O
@@ -33997,8 +33693,7 @@ of	O
 district-level	O
 funding	O
 from	O
-high-	O
-variation	O
+highvariation	O
 federal	O
 programs	O
 .	O
@@ -34071,8 +33766,7 @@ identified	O
 by	O
 the	O
 edinburgh	O
-handed-	O
-ness	O
+handedness	O
 inventory	O
 (	O
 oldfield	O
@@ -34197,8 +33891,7 @@ dependent	O
 measures	O
 shows	O
 a	O
-sys-	O
-tematic	O
+systematic	O
 change	O
 from	O
 internal	O
@@ -35302,8 +34995,7 @@ p	B-PV
 this	O
 correlation	O
 is	O
-sig-	O
-nificantly	O
+significantly	O
 more	O
 negative	O
 for	O
@@ -35354,8 +35046,7 @@ across	O
 foci	O
 )	O
 in	O
-ses-	O
-sions	O
+sessions	O
 1	O
 and	O
 4	O
@@ -35936,8 +35627,7 @@ physical	O
 activity	O
 ,	O
 and	O
-perfor-	O
-mance	O
+performance	O
 episode	O
 (	O
 model	B-TE
@@ -36240,8 +35930,7 @@ final	O
 model	O
 revealed	O
 a	O
-signifi-	O
-cant	O
+significant	O
 three‐way	O
 interaction	O
 between	O
@@ -36252,8 +35941,7 @@ trust	O
 ,	O
 and	O
 the	O
-dif-	O
-ference	O
+difference	O
 between	O
 the	O
 second	O
@@ -36421,8 +36109,7 @@ we	O
 found	O
 a	O
 significant	O
-non-	O
-linear	O
+nonlinear	O
 effect	O
 (	O
 γ	O
@@ -36639,8 +36326,7 @@ coefficient	O
 .00864	O
 based	O
 on	O
-unpub-	O
-lished	O
+unpublished	O
 pilot	O
 data	O
 ,	O
@@ -36715,18 +36401,15 @@ the	O
 ,	O
 6-	O
 ,	O
-12-	O
-,	O
-42-	O
-,	O
+12,	O
+42,	O
 and	O
 54-month	O
 follow-ups	O
 was	O
 tested	O
 using	O
-gen-	O
-eralized	O
+generalized	O
 estimating	O
 equation	O
 models	O
@@ -36734,8 +36417,7 @@ models	O
 adjusting	O
 for	O
 longitudinal	O
-re-	O
-peated	O
+repeated	O
 measurements	O
 on	O
 learners	O
@@ -36743,8 +36425,7 @@ clustered	B-SP
 within	I-SP
 schools	I-SP
 (	O
-fitzmau-	O
-rice	O
+fitzmaurice	O
 ,	O
 laird	O
 ,	O
@@ -36792,8 +36473,7 @@ restricted	O
 to	O
 those	O
 sexually	O
-in-	O
-experienced	O
+inexperienced	O
 at	O
 baseline	O
 .	O
@@ -36952,8 +36632,7 @@ p	B-PV
 .	O
 
 the	O
-inter-	O
-vention	O
+intervention	O
 condition	O
 time	O
 interaction	O
@@ -37053,8 +36732,7 @@ research	O
 .	O
 
 cognitive–behavioural	O
-health-	O
-promotion	O
+healthpromotion	O
 intervention	O
 increases	O
 fruit	O
@@ -37062,8 +36740,7 @@ and	O
 vegetable	O
 consumption	O
 and	O
-phys-	O
-ical	O
+physical	O
 activity	O
 among	O
 south	O
@@ -37072,8 +36749,7 @@ adolescents	O
 :	O
 a	O
 cluster-randomised	B-SP
-con-	O
-trolled	O
+controlled	O
 trial	O
 .	O
 
@@ -37114,8 +36790,7 @@ positive	O
 relation	O
 with	O
 the	O
-inten-	O
-tion	O
+intention	O
 to	O
 reduce	O
 meat	O
@@ -37139,8 +36814,7 @@ to	O
 feel	O
 good	O
 about	O
-them-	O
-selves	O
+themselves	O
 (	O
 prospective	O
 “	O
@@ -37405,8 +37079,7 @@ food	O
 choices	O
 was	O
 statistically	O
-sig-	O
-nificant	O
+significant	O
 (	O
 β=0.10	O
 ,	O
@@ -37641,8 +37314,7 @@ to	O
 feel	O
 good	O
 about	O
-them-	O
-selves	O
+themselves	O
 (	O
 prospective	O
 “	O
@@ -38159,8 +37831,7 @@ then	O
 (	O
 18×210	O
 )	O
-observa-	O
-tions	O
+observations	O
 .	O
 
 in	O
@@ -38574,8 +38245,7 @@ there	O
 is	O
 only	O
 the	O
-individual-	O
-level	O
+individuallevel	O
 variance	O
 to	O
 explain	O
@@ -38622,8 +38292,7 @@ be	O
 attributed	O
 to	O
 brand	O
-differ-	O
-ences	O
+differences	O
 ,	O
 which	O
 is	O
@@ -38681,8 +38350,7 @@ p	B-PV
 <	I-PV
 .001	I-PV
 ;	O
-famil-	O
-iarity	O
+familiarity	O
 :	O
 b=.265	O
 ,	O
@@ -39445,8 +39113,7 @@ time	O
 1	O
 and	O
 re-assessed	O
-atti-	O
-tudes	O
+attitudes	O
 onemonth	O
 later.we	O
 chose	O
@@ -39469,8 +39136,7 @@ market	O
 and	O
 its	O
 perceived	O
-connec-	O
-tion	O
+connection	O
 to	O
 healthy	O
 diets	O
@@ -39489,8 +39155,7 @@ collection	O
 ohio	O
 state	O
 university	O
-under-	O
-graduates	O
+undergraduates	O
 (	O
 237males	O
 ,	O
@@ -39528,8 +39193,7 @@ the	O
 academic	O
 term	O
 in	O
-ex-	O
-change	O
+exchange	O
 for	O
 course	O
 credit	O
@@ -39570,8 +39234,7 @@ card	O
 results	O
 of	O
 a	O
-lo-	B-TN
-gistic	I-TN
+logistic	B-TN
 regression	I-TN
 analysis	I-TN
 show	O
@@ -39637,8 +39300,7 @@ completed	O
 both	O
 sets	O
 of	O
-mea-	O
-sures	O
+measures	O
 (	O
 n	O
 =	O
@@ -39649,8 +39311,7 @@ n	O
 the	O
 objective	O
 ambivalence×	O
-cer-	O
-tainty	O
+certainty	O
 interaction	O
 reported	O
 in	O
@@ -39736,8 +39397,7 @@ marginally	O
 significant	O
 when	O
 only	O
-cor-	O
-rectness	O
+correctness	O
 items	O
 were	O
 used	O
@@ -39811,8 +39471,7 @@ themost	O
 commonly	O
 used	O
 ambivalence	O
-formu-	O
-la	O
+formula	O
 ,	O
 the	O
 similarity	O
@@ -39841,8 +39500,7 @@ in	O
 which	O
 higher	O
 values	O
-repre-	O
-sent	O
+represent	O
 higher	O
 degrees	O
 of	O
@@ -39853,8 +39511,7 @@ subjective	O
 ambivalence	O
 .	O
 
-consis-	O
-tent	O
+consistent	O
 with	O
 previous	O
 research	O
@@ -39990,8 +39647,7 @@ changed	O
 less	O
 over	O
 the	O
-in-	O
-terval	O
+interval	O
 ,	O
 b	O
 =	O
@@ -40133,8 +39789,7 @@ however	O
 greater	O
 certainty	O
 is	O
-as-	O
-sociated	O
+associated	O
 with	O
 significantly	O
 greater	O
@@ -40304,8 +39959,7 @@ one	O
 with	O
 a	O
 new	O
-health-	O
-relevant	O
+healthrelevant	O
 topic	O
 and	O
 an	O
@@ -40342,8 +39996,7 @@ collection	O
 ohio	O
 state	O
 university	O
-under-	O
-graduates	O
+undergraduates	O
 (	O
 224males	O
 ,	O
@@ -40466,8 +40119,7 @@ attitude	O
 certainty	O
 ,	O
 objective	O
-am-	O
-bivalence	O
+ambivalence	O
 ,	O
 or	O
 the	O
@@ -40476,8 +40128,7 @@ certainty	O
 ambivalence	O
 interaction	O
 predicted	O
-reten-	O
-tion	O
+retention	O
 ,	O
 ps	O
 n	O
@@ -40531,8 +40182,7 @@ clarity	O
 and	O
 correctness	O
 as	O
-mea-	O
-sures	O
+measures	O
 of	O
 certainty	O
 .	O
@@ -40547,8 +40197,7 @@ were	O
 again	O
 significantly	O
 ,	O
-al-	O
-though	O
+although	O
 modestly	O
 ,	O
 negatively	O
@@ -40634,8 +40283,7 @@ and	O
 overall	O
 certainty	O
 were	O
-en-	O
-tered	O
+entered	O
 in	O
 the	O
 first	O
@@ -40691,8 +40339,7 @@ ambivalence	O
 at	O
 time	O
 1was	O
-associat-	O
-ed	O
+associated	O
 with	O
 more	O
 change	O
@@ -40912,8 +40559,7 @@ mean	O
 )	O
 ,	O
 the	O
-at-	O
-titude	O
+attitude	O
 certainty	O
 effect	O
 reverses	O
@@ -41030,8 +40676,7 @@ a	O
 pattern	O
 consistent	O
 with	O
-predic-	O
-tions	O
+predictions	O
 but	O
 did	O
 not	O
@@ -41079,8 +40724,7 @@ completed	O
 both	O
 sets	O
 of	O
-mea-	O
-sures	O
+measures	O
 (	O
 n	O
 =	O
@@ -41096,8 +40740,7 @@ held	O
 with	O
 relatively	O
 high	O
-cer-	O
-tainty	O
+certainty	O
 (	O
 1	O
 sd	O
@@ -41110,8 +40753,7 @@ the	O
 traditional	O
 positive	O
 relationship	O
-be-	O
-tween	O
+between	O
 ambivalence	O
 and	O
 instability	O
@@ -41151,8 +40793,7 @@ objective	O
 ambivalence	O
 with	O
 subjective	O
-ambiva-	O
-lence	O
+ambivalence	O
 fails	O
 to	O
 produce	O
@@ -41217,8 +40858,7 @@ points	O
 for	O
 relatively	O
 unambivalent	O
-atti-	O
-tudes	O
+attitudes	O
 ,	O
 although	O
 this	O
@@ -41256,8 +40896,7 @@ are	O
 related	O
 to	O
 the	O
-do-	O
-main	O
+domain	O
 of	O
 health	O
 and	O
@@ -41269,8 +40908,7 @@ it	O
 was	O
 important	O
 to	O
-ex-	O
-tend	O
+extend	O
 our	O
 analysis	O
 to	O
@@ -41294,8 +40932,7 @@ study	B-SD
 thus	O
 considers	O
 the	O
-tempo-	O
-ral	O
+temporal	O
 stability	O
 of	O
 attitudes	O
@@ -41366,8 +41003,7 @@ sd	O
 =	O
 1.83	O
 )	O
-en-	O
-rolled	O
+enrolled	O
 in	O
 introductory	O
 psychology	O
@@ -41387,8 +41023,7 @@ study	O
 
 one-hundred	B-SS
 four	I-SS
-partici-	O
-pants	O
+participants	O
 responded	O
 to	O
 the	O
@@ -41401,8 +41036,7 @@ election	O
 
 results	O
 of	O
-lo-	B-TN
-gistic	I-TN
+logistic	B-TN
 regression	I-TN
 analyses	I-TN
 again	O
@@ -41421,8 +41055,7 @@ ambivalence	O
 do	O
 not	O
 significantly	O
-pre-	O
-dict	O
+predict	O
 retention	O
 ,	O
 ps	O
@@ -41434,8 +41067,7 @@ althoughnon-significant	O
 ,	O
 the	O
 ambivalence×	O
-cer-	O
-tainty	O
+certainty	O
 interaction	O
 pattern	O
 (	O
@@ -41503,8 +41135,7 @@ relatively	O
 high	O
 levels	O
 of	O
-certain-	O
-ty	O
+certainty	O
 (	O
 1	O
 sd	O
@@ -41529,8 +41160,7 @@ ci	O
 
 because	O
 the	O
-distinc-	O
-tion	O
+distinction	O
 between	O
 attitude	O
 “	O
@@ -41599,8 +41229,7 @@ study	B-SD
 )	O
 .	O
 
-ambiva-	O
-lence	O
+ambivalence	O
 and	O
 certainty	O
 were	O
@@ -41610,8 +41239,7 @@ significantly	O
 although	O
 moderately	O
 ,	O
-neg-	O
-atively	O
+negatively	O
 correlated	O
 in	O
 both	O
@@ -41683,8 +41311,7 @@ stability	O
 the	O
 data	O
 were	O
-sub-	O
-mitted	O
+submitted	O
 to	O
 a	O
 multiple	B-TN
@@ -41706,8 +41333,7 @@ model	O
 and	O
 entering	O
 their	O
-inter-	O
-action	O
+interaction	O
 term	O
 in	O
 the	O
@@ -41814,8 +41440,7 @@ significant	O
 certainty	O
 ×	O
 ambivalence	O
-inter-	O
-action	O
+interaction	O
 ,	O
 b	O
 =	O
@@ -41856,8 +41481,7 @@ participants	O
 with	O
 less	O
 ambivalent	O
-reac-	O
-tions	O
+reactions	O
 to	O
 mitt	O
 romney	O
@@ -41871,8 +41495,7 @@ mean	O
 ,	O
 the	O
 traditional	O
-cer-	O
-tainty	O
+certainty	O
 effect	O
 emerges	O
 :	O
@@ -42022,8 +41645,7 @@ ci	O
 ]	O
 .	O
 
-ambiv-	O
-alence	O
+ambivalence	O
 is	O
 not	O
 significantly	O
@@ -42085,8 +41707,7 @@ certainty	O
 and	O
 ambivalence	O
 is	O
-reli-	O
-able	O
+reliable	O
 in	O
 all	O
 three	O
@@ -42151,8 +41772,7 @@ three-way	O
 interaction	O
 between	O
 political	O
-af-	O
-filiation	O
+affiliation	O
 ,	O
 certainty	O
 ,	O
@@ -42235,8 +41855,7 @@ studies	O
 ,	O
 but	O
 also	O
-ac-	O
-counting	O
+accounting	O
 for	O
 study	O
 as	O
@@ -42310,8 +41929,7 @@ relationship	O
 emerges	O
 whereby	O
 more	O
-cer-	O
-tainty	O
+certainty	O
 is	O
 associated	O
 with	O
@@ -42347,8 +41965,7 @@ relatively	O
 high	O
 degree	O
 of	O
-ambiva-	O
-lence	O
+ambivalence	O
 (	O
 1	O
 sd	O
@@ -42401,8 +42018,7 @@ ci	O
 
 at	O
 a	O
-rela-	O
-tively	O
+relatively	O
 low	O
 level	O
 of	O
@@ -42604,8 +42220,7 @@ ci	O
 
 the	O
 main	O
-ef-	O
-fect	O
+effect	O
 of	O
 ambivalence	O
 was	O
@@ -42807,8 +42422,7 @@ the	O
 mean	O
 )	O
 ,	O
-ambiva-	O
-lence	O
+ambivalence	O
 is	O
 positively	O
 related	O
@@ -42894,8 +42508,7 @@ interaction	O
 however	O
 ,	O
 is	O
-furthermoder-	O
-ated	O
+furthermoderated	O
 by	O
 study—specifically	O
 ,	O
@@ -43025,16 +42638,14 @@ p	B-PV
 and	O
 the	O
 previously	O
-re-	O
-ported	O
+reported	O
 ambivalence	O
 ×	O
 certainty	O
 interaction	O
 predicting	O
 temporal	O
-stabili-	O
-ty	O
+stability	O
 as	O
 well	O
 as	O
@@ -43090,8 +42701,7 @@ that	O
 the	O
 ambivalence	O
 ×	O
-cer-	O
-tainty	O
+certainty	O
 interaction	O
 on	O
 temporal	O
@@ -43134,8 +42744,7 @@ people	O
 attitudes	O
 by	O
 the	O
-var-	O
-ious	O
+various	O
 techniques	O
 available	O
 (	O
@@ -43220,8 +42829,7 @@ attitudes	O
 or	O
 that	O
 reducing	O
-ambiv-	O
-alence	O
+ambivalence	O
 would	O
 invariably	O
 produce	O
@@ -43297,8 +42905,7 @@ subjected	O
 to	O
 much	O
 attitude-relevant	O
-informa-	O
-tion	O
+information	O
 in	O
 the	O
 weeks	O
@@ -43312,8 +42919,7 @@ is	O
 less	O
 likely	O
 that	O
-partic-	O
-ipants	O
+participants	O
 encountered	O
 much	O
 if	O
@@ -43340,8 +42946,7 @@ example	O
 as	O
 noted	O
 in	O
-foot-	O
-note	O
+footnote	O
 7	O
 ,	O
 the	O
@@ -43352,8 +42957,7 @@ and	O
 ambivalence	O
 on	O
 romney	O
-at-	O
-titudes	O
+attitudes	O
 (	O
 study	B-SD
 3	I-SD
@@ -43435,15 +43039,13 @@ study	B-SD
 more	O
 fundamentally	O
 ,	O
-environ-	O
-mentalism	O
+environmentalism	O
 and	O
 conservationism	O
 reflect	O
 caring	O
 and	O
-nurtur-	O
-ing	O
+nurturing	O
 of	O
 the	O
 environment	O
@@ -43505,8 +43107,7 @@ test	O
 for	O
 an	O
 implicit	O
-cogni-	O
-tive	O
+cognitive	O
 association	O
 between	O
 the	O
@@ -43514,8 +43115,7 @@ concepts	O
 of	O
 greenness	O
 and	O
-femi-	O
-ninity	O
+femininity	O
 .	O
 
 569	O
@@ -43549,8 +43149,7 @@ designed	O
 to	O
 test	O
 different	O
-combina-	O
-tions	O
+combinations	O
 of	O
 femininity	O
 and	O
@@ -43559,8 +43158,7 @@ greenness	O
 or	O
 the	O
 masculine	O
-sc-	O
-iat	O
+sciat	O
 (	O
 designed	O
 to	O
@@ -43617,8 +43215,7 @@ iat	O
 d-score	O
 by	O
 participant	O
-gen-	O
-der	O
+gender	O
 ;	O
 f	O
 (	O
@@ -43756,8 +43353,7 @@ show	O
 that	O
 the	O
 association	O
-be-	O
-tween	O
+between	O
 greenness	O
 and	O
 femininity	O
@@ -43779,8 +43375,7 @@ vs.	O
 do	O
 not	O
 )	O
-en-	O
-gage	O
+engage	O
 in	O
 green	O
 behavior	O
@@ -43871,8 +43466,7 @@ behavior	O
 :	O
 green	O
 vs.	O
-non-	O
-green	O
+nongreen	O
 )	O
 between-participant	O
 design	O
@@ -43880,8 +43474,7 @@ design	O
 
 our	O
 between-participant	O
-manipula-	O
-tion	O
+manipulation	O
 of	O
 green	O
 versus	O
@@ -43899,8 +43492,7 @@ conditions	O
 rated	O
 the	O
 trait	O
-eco-	O
-friendly	O
+ecofriendly	O
 as	O
 more	O
 descriptive	O
@@ -43954,8 +43546,7 @@ in	O
 the	O
 two	O
 green	O
-condi-	O
-tions	O
+conditions	O
 rated	O
 the	O
 trait	O
@@ -44004,16 +43595,14 @@ the	O
 creation	O
 of	O
 these	O
-indi-	O
-ces	O
+indices	O
 was	O
 supported	O
 by	O
 principal	B-TN
 component	I-TN
 exploratory	I-TN
-fac-	I-TN
-tor	I-TN
+factor	I-TN
 analysis	I-TN
 with	O
 oblique	O
@@ -44138,8 +43727,7 @@ the	O
 results	O
 of	O
 the	O
-fac-	B-TN
-tor	I-TN
+factor	B-TN
 analysis	I-TN
 )	O
 .	O
@@ -44221,8 +43809,7 @@ h	O
 lists	O
 the	O
 mean	O
-rat-	O
-ings	O
+ratings	O
 for	O
 each	O
 trait	O
@@ -44296,8 +43883,7 @@ n¼	O
 .	O
 
 the	O
-interac-	O
-tion	O
+interaction	O
 was	O
 not	O
 significant	O
@@ -44399,8 +43985,7 @@ of	O
 the	O
 covariates	O
 was	O
-sig-	O
-nificant	O
+significant	O
 (	O
 p	B-PV
 ’	I-PV
@@ -44491,8 +44076,7 @@ a	O
 main	O
 effect	O
 of	O
-envi-	O
-ronmental	O
+environmental	O
 behavior	O
 ;	O
 f	O
@@ -44509,8 +44093,7 @@ p¼	B-PV
 ,	O
 nor	O
 a	O
-signifi-	O
-cant	O
+significant	O
 interaction	O
 ;	O
 f	O
@@ -44583,8 +44166,7 @@ in	O
 green	O
 behavior	O
 were	O
-per-	O
-ceived	O
+perceived	O
 by	O
 both	O
 male	O
@@ -44593,8 +44175,7 @@ female	O
 participants	O
 as	O
 more	O
-femi-	O
-nine	O
+feminine	O
 than	O
 consumers	O
 who	O
@@ -44635,8 +44216,7 @@ the	O
 green-feminine	O
 association	O
 is	O
-preva-	O
-lent	O
+prevalent	O
 across	O
 both	O
 genders	O
@@ -44661,8 +44241,7 @@ about	O
 others	O
 but	O
 also	O
-self-	O
-perception	O
+selfperception	O
 .	O
 
 therefore	O
@@ -44673,8 +44252,7 @@ study	O
 we	O
 tested	O
 whether	O
-peo-	O
-ple	O
+people	O
 feel	O
 more	O
 feminine	O
@@ -44683,8 +44261,7 @@ being	O
 randomly	B-SP
 assigned	I-SP
 to	O
-re-	O
-call	O
+recall	O
 a	O
 time	O
 that	O
@@ -44769,8 +44346,7 @@ bad	O
 ]	O
 for	O
 the	O
-envi-	O
-ronment	O
+environment	O
 (	O
 online	O
 appendix	O
@@ -44810,15 +44386,13 @@ female	O
 )	O
 as	O
 the	O
-between-	O
-participant	O
+betweenparticipant	O
 independent	O
 variables	O
 and	O
 participants	O
 ’	O
-self-	O
-reported	O
+selfreported	O
 femininity	O
 score	O
 as	O
@@ -44861,8 +44435,7 @@ feminine	O
 in	O
 the	O
 green	O
-condi-	O
-tion	O
+condition	O
 (	O
 m¼	O
 3.84	O
@@ -45171,8 +44744,7 @@ will	O
 lead	O
 men	O
 to	O
-reas-	O
-sert	O
+reassert	O
 their	O
 masculinity	O
 through	O
@@ -45197,8 +44769,7 @@ to	O
 test	O
 whether	O
 a	O
-gender-	O
-identity	O
+genderidentity	O
 threat	O
 can	O
 decrease	O
@@ -45248,8 +44819,7 @@ recalling	O
 green	O
 behavior	O
 can	O
-in-	O
-crease	O
+increase	O
 self-perceptions	O
 of	O
 femininity	O
@@ -45294,8 +44864,7 @@ to	O
 one	O
 of	O
 four	O
-condi-	O
-tions	O
+conditions	O
 in	O
 a	O
 2	O
@@ -45310,8 +44879,7 @@ age	O
 2	O
 (	O
 shopping	O
-con-	O
-text	O
+context	O
 :	O
 public	O
 vs.	O
@@ -45385,8 +44953,7 @@ age	O
 )	O
 and	O
 shopping	O
-con-	O
-text	O
+context	O
 (	O
 public	O
 vs.	O
@@ -45395,8 +44962,7 @@ private	O
 as	O
 two	O
 between-participant	O
-vari-	O
-ables	O
+variables	O
 and	O
 product	O
 category	O
@@ -45466,8 +45032,7 @@ p	B-PV
 .	O
 
 for	O
-batter-	O
-ies	O
+batteries	O
 ,	O
 this	O
 effect	O
@@ -45526,8 +45091,7 @@ for	O
 lamps	O
 ,	O
 the	O
-ef-	O
-fect	O
+effect	O
 was	O
 not	O
 significant	O
@@ -45570,8 +45134,7 @@ p¼	B-PV
 ,	O
 nor	O
 a	O
-signifi-	O
-cant	O
+significant	O
 interaction	O
 between	O
 threat	O
@@ -45837,16 +45400,14 @@ participants	O
 in	O
 the	O
 masculine	O
-affir-	O
-mation	O
+affirmation	O
 condition	O
 perceived	O
 themselves	O
 to	O
 be	O
 more	O
-mascu-	O
-line	O
+masculine	O
 (	O
 m¼	O
 6.94	O
@@ -45934,8 +45495,7 @@ between	O
 male	O
 and	O
 female	O
-par-	O
-ticipants	O
+participants	O
 (	O
 all	O
 p	B-PV
@@ -45984,8 +45544,7 @@ nongreen	O
 )	O
 as	O
 the	O
-between-	O
-participant	O
+betweenparticipant	O
 independent	O
 variables	O
 ,	O
@@ -46068,8 +45627,7 @@ g2p¼	O
 and	O
 a	O
 main	O
-ef-	O
-fect	O
+effect	O
 of	O
 gender	O
 ;	O
@@ -46177,8 +45735,7 @@ two-way	O
 interaction	O
 between	O
 gender-identity	O
-con-	O
-ditions	O
+conditions	O
 and	O
 gender	O
 among	O
@@ -46453,8 +46010,7 @@ with	O
 the	O
 green-feminine	O
 association	O
-ob-	O
-served	O
+observed	O
 among	O
 both	O
 men	O
@@ -46570,8 +46126,7 @@ donate	O
 to	O
 a	O
 green	O
-non-	O
-profit	O
+nonprofit	O
 might	O
 be	O
 influenced	O
@@ -46579,8 +46134,7 @@ by	O
 masculine	O
 branding	O
 via	O
-col-	O
-ors	O
+colors	O
 ,	O
 fonts	O
 ,	O
@@ -46609,8 +46163,7 @@ age¼	O
 who	O
 were	O
 randomly	B-SP
-as-	I-SP
-signed	I-SP
+assigned	I-SP
 to	O
 either	O
 the	O
@@ -46629,8 +46182,7 @@ participants	O
 confirmed	O
 that	O
 the	O
-masculine-	O
-and	O
+masculineand	O
 conventional-branded	O
 organizations	O
 were	O
@@ -46741,8 +46293,7 @@ they	O
 would	O
 feel	O
 less	O
-femi-	O
-nine	O
+feminine	O
 wearing	O
 a	O
 t-shirt	O
@@ -47096,8 +46647,7 @@ was	O
 to	O
 extend	O
 the	O
-find-	O
-ings	O
+findings	O
 in	O
 study	B-SD
 6a	I-SD
@@ -47119,8 +46669,7 @@ s	O
 resistance	O
 to	O
 an	O
-eco-	O
-friendly	O
+ecofriendly	O
 car	O
 .	O
 
@@ -47161,8 +46710,7 @@ customers	O
 who	O
 visited	O
 these	O
-deal-	O
-erships	O
+dealerships	O
 and	O
 agreed	O
 to	O
@@ -47287,8 +46835,7 @@ conventional	O
 green	O
 branding	O
 ,	O
-mas-	O
-culine	O
+masculine	O
 branding	O
 significantly	O
 increased	O
@@ -47450,8 +46997,7 @@ were	O
 consistent	O
 with	O
 our	O
-propo-	O
-sition	O
+proposition	O
 that	O
 men	O
 avoid	O
@@ -47472,8 +47018,7 @@ that	O
 masculine	O
 (	O
 vs.	O
-conven-	O
-tional	O
+conventional	O
 )	O
 branding	O
 can	O
@@ -47512,8 +47057,7 @@ branding	O
 resulted	O
 in	O
 less	O
-fa-	O
-vorable	O
+favorable	O
 evaluations	O
 among	O
 female	O
@@ -47533,8 +47077,7 @@ that	O
 women	O
 ’	O
 s	O
-prefer-	O
-ences	O
+preferences	O
 were	O
 impacted	O
 by	O
@@ -47669,8 +47212,7 @@ were	O
 simultaneously	O
 collected	O
 from	O
-stu-	O
-dents	O
+students	O
 at	O
 both	O
 notre	O
@@ -47779,8 +47321,7 @@ for	O
 study	B-SD
 6b	I-SD
 were	O
-col-	O
-lected	O
+collected	O
 from	O
 visitors	O
 to	O
@@ -47912,8 +47453,7 @@ demographics	O
 available	O
 for	O
 eight	O
-par-	O
-ticipants	O
+participants	O
 )	O
 were	O
 recruited	O
@@ -47970,8 +47510,7 @@ paradigms	O
 ,	O
 these	O
 usually	O
-com-	O
-prised	O
+comprised	O
 incentives	O
 and	O
 thus	O
@@ -48048,8 +47587,7 @@ n	O
 61	O
 .	O
 
-par-	O
-ticipants	O
+participants	O
 were	O
 informed	O
 about	O
@@ -48080,8 +47618,7 @@ and	O
 a	O
 second	O
 randomly	O
-se-	O
-lected	O
+selected	O
 participant	O
 and	O
 that	O
@@ -48174,8 +47711,7 @@ a	O
 z-test	O
 for	O
 correlated	O
-correla-	O
-tion	O
+correlation	O
 coefficients	O
 ;	O
 meng	O
@@ -48295,8 +47831,7 @@ p	B-PV
 .	O
 
 when	O
-regress-	O
-ing	O
+regressing	O
 prosocial	O
 behavior	O
 on	O
@@ -48437,8 +47972,7 @@ was	O
 concerned	O
 with	O
 information	O
-pro-	O
-cessing—as	O
+processing—as	O
 measured	O
 via	O
 eye-tracking—in	O
@@ -48526,8 +48060,7 @@ albeit	O
 comprising	O
 a	O
 larger	O
-confi-	O
-dence	O
+confidence	O
 interval	O
 due	O
 to	O
@@ -48596,8 +48129,7 @@ again	O
 differed	O
 with	O
 marginal	O
-statis-	O
-tical	O
+statistical	O
 significance	O
 (	O
 z	O
@@ -48664,8 +48196,7 @@ hh	O
 p	B-PV
 .05	I-PV
 ,	O
-one-	O
-sided	O
+onesided	O
 )	O
 ,	O
 none	O
@@ -49118,8 +48649,7 @@ also	O
 showed	O
 a	O
 small	O
-associ-	O
-ation	O
+association	O
 with	O
 prosocial	O
 behavior	O
@@ -49128,8 +48658,7 @@ the	O
 correlation	O
 coefficient	O
 was	O
-statisti-	O
-cally	O
+statistically	O
 nonsignificant	O
 and	O
 its	O
@@ -49397,8 +48926,7 @@ the	O
 strongest	O
 and	O
 only	O
-signifi-	O
-cant	O
+significant	O
 predictor	O
 (	O
 .29	O
@@ -49487,8 +49015,7 @@ behavior	O
 whereas	O
 ffm-ag	O
 predicted	O
-proso-	O
-cial	O
+prosocial	O
 behavior	O
 (	O
 .31	O
@@ -49696,8 +49223,7 @@ difference	O
 between	O
 these	O
 dependent	O
-coeffi-	O
-cients	O
+coefficients	O
 was	O
 significant	O
 (	O
@@ -49777,8 +49303,7 @@ five-factor	O
 model	O
 five-factor	O
 model	O
-hex-	O
-hh	O
+hexhh	O
 honesty-humility	O
 .35	O
 .28	O
@@ -49862,8 +49387,7 @@ decision-making	O
 by	O
 identifying	O
 non-intuitive	O
-conse-	B-SP
-quences	I-SP
+consequences	B-SP
 of	I-SP
 structuring	I-SP
 the	I-SP
@@ -49950,8 +49474,7 @@ and	I-SD
 involve	O
 consumer	O
 choice	O
-con-	O
-texts	O
+contexts	O
 ,	O
 and	O
 show	O
@@ -50059,8 +49582,7 @@ n	O
 =	O
 40	B-SS
 mturk	O
-work-	O
-ers	O
+workers	O
 )	O
 read	O
 descriptions	O
@@ -50072,8 +49594,7 @@ and	O
 then	O
 rated	O
 each	O
-can-	O
-didate	O
+candidate	O
 using	O
 two	O
 five-item	O
@@ -50334,8 +49855,7 @@ study	B-SD
 1	I-SD
 ’	O
 s	O
-pre-	O
-vention	O
+prevention	O
 prime	O
 should	O
 not	O
@@ -50387,8 +49907,7 @@ study	B-SD
 are	O
 inconsistent	O
 with	O
-var-	O
-ious	O
+various	O
 potential	O
 alternative	O
 accounts	O
@@ -50516,8 +50035,7 @@ c	O
 thus	O
 reducing	O
 the	O
-poten-	O
-tial	O
+potential	O
 variance	O
 in	O
 final	O
@@ -50608,8 +50126,7 @@ test	O
 our	O
 proposed	O
 process	O
-mech-	O
-anism	O
+mechanism	O
 ,	O
 but	O
 this	O
@@ -50775,8 +50292,7 @@ not	O
 significantly	O
 differ	O
 between	O
-con-	O
-ditions	O
+conditions	O
 (	O
 mtwo-stage	O
 =	O
@@ -50971,8 +50487,7 @@ influenced	O
 by	O
 the	O
 dependent	O
-vari-	O
-able	O
+variable	O
 (	O
 i.e.	O
 ,	O
@@ -51015,8 +50530,7 @@ introduced	O
 to	O
 address	O
 a	O
-poten-	O
-tial	O
+potential	O
 concern	O
 that	O
 the	O
@@ -51028,8 +50542,7 @@ on	O
 to	O
 promotion	O
 and	O
-pre-	O
-vention	O
+prevention	O
 concerns	O
 in	O
 study	B-SD
@@ -51091,8 +50604,7 @@ that	O
 they	O
 did	O
 indeed	O
-elim-	O
-inate	O
+eliminate	O
 some	O
 bad	O
 options	O
@@ -51355,8 +50867,7 @@ h2	O
 ,	O
 differences	O
 in	O
-pre-	O
-vention	O
+prevention	O
 focus	O
 fully	O
 mediated	O
@@ -51434,8 +50945,7 @@ study	B-SD
 2c	I-SD
 includes	O
 additional	O
-con-	O
-ditions	O
+conditions	O
 to	O
 specifically	O
 address	O
@@ -51502,8 +51012,7 @@ conditions	O
 (	O
 i.e.	O
 ,	O
-con-	O
-trol	O
+control	O
 ,	O
 small-set	O
 choice	O
@@ -51837,8 +51346,7 @@ but	O
 none	O
 of	O
 the	O
-con-	O
-trasts	O
+contrasts	O
 between	O
 the	O
 three	O
@@ -51880,8 +51388,7 @@ preference	O
 relative	O
 to	O
 single-stage	O
-deci-	O
-sions	O
+decisions	O
 .	O
 
 further	O
@@ -51906,8 +51413,7 @@ this	O
 time	O
 using	O
 mediation	O
-anal-	O
-yses	O
+analyses	O
 .	O
 
 across	O
@@ -52094,8 +51600,7 @@ two-stage	O
 small-set	O
 choice	O
 )	O
-between-	O
-subjects	O
+betweensubjects	O
 design	O
 .	O
 
@@ -52175,8 +51680,7 @@ condition	O
 both	O
 comparisons	O
 ,	O
-bino-	O
-mial	O
+binomial	O
 z	O
 >	O
 2.1	O
@@ -52320,8 +51824,7 @@ we	O
 sought	O
 to	O
 show	O
-addi-	O
-tional	O
+additional	O
 evidence	O
 for	O
 process	O
@@ -52400,8 +51903,7 @@ study	B-SD
 with	O
 only	O
 two	O
-differ-	O
-ences	O
+differences	O
 .	O
 
 results	O
@@ -52513,8 +52015,7 @@ the	O
 number	O
 of	O
 prevention-oriented	O
-friend-	O
-ship	O
+friendship	O
 strategies	O
 chosen	O
 (	O
@@ -52572,8 +52073,7 @@ strategies	O
 chosen	O
 was	O
 the	O
-media-	O
-tor	O
+mediator	O
 ,	O
 the	O
 direct	O
@@ -52626,8 +52126,7 @@ option	O
 
 study	B-SD
 3a	I-SD
-repli-	O
-cated	O
+replicated	O
 the	O
 finding	O
 (	O
@@ -52722,8 +52221,7 @@ involved	O
 a	O
 more	O
 generalized	O
-reg-	O
-ulatory	O
+regulatory	O
 focus	O
 measure	O
 .	O
@@ -52778,8 +52276,7 @@ that	O
 )	O
 unlike	O
 our	O
-pre-	O
-vious	O
+previous	O
 studies	O
 ,	O
 study	B-SD
@@ -52793,8 +52290,7 @@ and	O
 shortlists	O
 are	O
 both	O
-lar-	O
-ger	O
+larger	O
 ,	O
 and	O
 (	O
@@ -52846,8 +52342,7 @@ n	O
 u.s.	O
 undergraduates	O
 )	O
-cat-	O
-egorized	O
+categorized	O
 the	O
 items	O
 as	O
@@ -52882,8 +52377,7 @@ two-stage	O
 vs.	O
 single-stage	O
 )	O
-condi-	O
-tion	O
+condition	O
 (	O
 71.8	O
 %	O
@@ -53391,8 +52885,7 @@ and	O
 then	O
 rated	O
 each	O
-apart-	O
-ment	O
+apartment	O
 using	O
 the	O
 same	O
@@ -53567,8 +53060,7 @@ undergraduates	O
 at	O
 the	O
 same	O
-uni-	O
-versity	O
+university	O
 where	O
 study	B-SD
 3a	I-SD
@@ -53625,8 +53117,7 @@ undergraduates	O
 at	O
 the	O
 same	O
-uni-	O
-versity	O
+university	O
 ,	O
 where	O
 study	B-SD
@@ -53735,8 +53226,7 @@ p	B-PV
 .	O
 
 on	O
-utilitar-	O
-ian	O
+utilitarian	O
 criteria	O
 ,	O
 the	O
@@ -53749,8 +53239,7 @@ rated	O
 as	O
 significantly	O
 more	O
-util-	O
-itarian	O
+utilitarian	O
 (	O
 m	O
 =	O
@@ -53818,10 +53307,10 @@ p	B-PV
 .	O
 
 in	O
-	O
+O
 study	B-SD
 1	I-SD
-	O
+O
 ,	O
 we	O
 seek	O
@@ -53835,8 +53324,7 @@ quantitative	O
 studies	O
 by	O
 using	O
-longi-	O
-tudinal	O
+longitudinal	O
 data	O
 from	O
 a	O
@@ -53846,15 +53334,14 @@ nationally	O
 representative	O
 survey	O
 of	O
-adoles-	O
-cents	O
+adolescents	O
 .	O
 
 in	O
-	O
+O
 study	B-SD
 2	I-SD
-	O
+O
 ,	O
 we	O
 draw	O
@@ -53933,8 +53420,7 @@ relationship	O
 between	O
 ``	O
 anticipated	O
-victimiza-	O
-tion	O
+victimization	O
 ''	O
 and	O
 delinquency	O
@@ -54001,10 +53487,10 @@ samples	I-SP
 .	O
 
 in	O
-	O
+O
 study	B-SD
 1	I-SD
-	O
+O
 ,	O
 we	O
 analyze	O
@@ -54026,10 +53512,10 @@ framework	O
 therefore	O
 ,	O
 in	O
-	O
+O
 study	B-SD
 2	I-SD
-	O
+O
 ,	O
 we	O
 draw	O
@@ -54039,8 +53525,7 @@ data	O
 obtained	O
 from	O
 a	O
-sam-	O
-ple	O
+sample	O
 of	O
 active	O
 street	O
@@ -54069,18 +53554,18 @@ death	O
 and	O
 offending	O
 (	O
-	O
+O
 study	B-SD
 1	I-SD
-	O
+O
 )	O
 .	O
 
 in	O
-	O
+O
 study	B-SD
 2	I-SD
-	O
+O
 ,	O
 we	O
 draw	O
@@ -54090,8 +53575,7 @@ interviews	O
 to	O
 explore	O
 the	O
-per-	O
-ceptions	O
+perceptions	O
 ,	O
 attitudes	O
 ,	O
@@ -54149,10 +53633,10 @@ data	O
 the	O
 data	O
 for	O
-	O
+O
 study	B-SD
 1	I-SD
-	O
+O
 were	O
 drawn	O
 from	O
@@ -54554,10 +54038,10 @@ the	O
 survey	O
 items	O
 from	O
-	O
+O
 study	B-SD
 1	I-SD
-	O
+O
 as	O
 a	O
 guide	O
@@ -54678,8 +54162,7 @@ round	O
 (	O
 which	O
 was	O
-con-	O
-stant	O
+constant	O
 across	O
 all	O
 subjects	O
@@ -54786,8 +54269,7 @@ p	O
 in	O
 345com	O
 ,	O
-medium-	O
-and	O
+mediumand	O
 high-reward	O
 players	O
 believe	O
@@ -55088,8 +54570,7 @@ from	O
 the	O
 analyses	O
 (	O
-how-	O
-ell	O
+howell	O
 ,	O
 2002	O
 )	O
@@ -55141,8 +54622,7 @@ were	O
 recorded	O
 and	O
 calculated	O
-sepa-	O
-rately	O
+separately	O
 for	O
 the	O
 0-back	O
@@ -55260,8 +54740,7 @@ response	O
 [	O
 same	O
 ,	O
-dif-	O
-ferent	O
+different	O
 ]	O
 )	O
 anova	B-TN
@@ -55284,8 +54763,7 @@ updating	O
 and	O
 linking	O
 processes	O
-re-	O
-quired	O
+required	O
 in	O
 the	O
 emotion	O
@@ -55297,8 +54775,7 @@ two-way	O
 (	O
 group	O
 [	O
-de-	O
-pressed	O
+depressed	O
 ,	O
 nondepressed	O
 ]	O
@@ -55339,8 +54816,7 @@ participants	O
 did	O
 not	O
 differ	O
-signifi-	O
-cantly	O
+significantly	O
 in	O
 age	O
 (	O
@@ -55499,8 +54975,7 @@ emotion	O
 was	O
 due	O
 to	O
-partic-	O
-ipants	O
+participants	O
 exhibiting	O
 lower	O
 accuracy	O
@@ -55508,8 +54983,7 @@ rates	O
 for	O
 identifying	O
 neutral	O
-ex-	O
-pressions	O
+expressions	O
 than	O
 for	O
 identifying	O
@@ -55670,8 +55144,7 @@ the	O
 main	O
 effect	O
 of	O
-emo-	O
-tion	O
+emotion	O
 was	O
 due	O
 to	O
@@ -55739,8 +55212,7 @@ depressed	O
 participants	O
 responding	O
 on	O
-signif-	O
-icantly	O
+significantly	O
 fewer	O
 trials	O
 than	O
@@ -55763,8 +55235,7 @@ two-way	B-TN
 anova	I-TN
 conducted	O
 on	O
-match-	O
-set	O
+matchset	O
 trial	O
 accuracy	O
 rates	O
@@ -55774,8 +55245,7 @@ significant	O
 effect	O
 only	O
 for	O
-emo-	O
-tion	O
+emotion	O
 ,	O
 f	O
 (	O
@@ -56224,8 +55694,7 @@ depressed	O
 participants	O
 than	O
 by	O
-nonde-	O
-pressed	O
+nondepressed	O
 participants	O
 ,	O
 t	O
@@ -56242,8 +55711,7 @@ the	O
 anova	B-TN
 conducted	O
 on	O
-perseveration-	O
-set	O
+perseverationset	O
 trial	O
 accuracy	O
 rates	O
@@ -56950,8 +56418,7 @@ the	O
 opposite	O
 pattern	O
 ,	O
-disengag-	O
-ing	O
+disengaging	O
 from	O
 happy	O
 faces	O
@@ -57059,8 +56526,7 @@ p	B-PV
 the	O
 two-way	B-TN
 anova	I-TN
-con-	O
-ducted	O
+conducted	O
 on	O
 these	O
 z-scores	O
@@ -57201,8 +56667,7 @@ took	O
 significantly	O
 longer	O
 to	O
-inte-	O
-grate	O
+integrate	O
 neutral	O
 faces	O
 into	O
@@ -57239,8 +56704,7 @@ faces	O
 in	O
 contrast	O
 ,	O
-nonde-	O
-pressed	O
+nondepressed	O
 participants	O
 showed	O
 a	O
@@ -57678,8 +57142,7 @@ firms	O
 is	O
 strongly	O
 negatively	O
-cor-	O
-related	O
+correlated	O
 with	O
 perceptions	O
 of	O
@@ -57839,8 +57302,7 @@ understanding	O
 of	O
 how	O
 firm	O
-incen-	O
-tives	O
+incentives	O
 are	O
 constrained	O
 .	O
@@ -57873,8 +57335,7 @@ that	O
 prompting	O
 subjects	O
 to	O
-con-	O
-sider	O
+consider	O
 how	O
 profits	O
 help	O
@@ -58025,8 +57486,7 @@ yielded	O
 a	O
 similarly	O
 strong	O
-corre-	O
-lation	O
+correlation	O
 ,	O
 r	B-ES
 (	I-ES
@@ -58110,8 +57570,7 @@ showed	O
 a	O
 significant	O
 positive	O
-correla-	O
-tion	O
+correlation	O
 ,	O
 both	O
 greater	O
@@ -58193,8 +57652,7 @@ p	B-PV
 and	O
 more	O
 strongly	O
-moti-	O
-vated	O
+motivated	O
 to	O
 pursue	O
 profit	O
@@ -58287,8 +57745,7 @@ societal	O
 value	O
 .	O
 
-how-	O
-ever	O
+however	O
 ,	O
 even	O
 when	O
@@ -58309,8 +57766,7 @@ societal	O
 value	O
 remained	O
 strongly	O
-neg-	O
-1	O
+neg1	O
 perceived	O
 profit	O
 was	O
@@ -58540,8 +57996,7 @@ with	O
 perceived	O
 societal	O
 value	O
-re-	O
-mained	O
+remained	O
 strong	O
 when	O
 controlling	O
@@ -58691,8 +58146,7 @@ between	O
 perceived	O
 profit	O
 and	O
-per-	O
-ceived	O
+perceived	O
 societal	O
 value	O
 ,	O
@@ -58703,8 +58157,7 @@ ratings	O
 ,	O
 was	O
 slightly	O
-stron-	O
-ger	O
+stronger	O
 ,	O
 r	B-ES
 (	I-ES
@@ -58853,8 +58306,7 @@ practices	O
 
 while	O
 the	O
-re-	O
-sponses	O
+responses	O
 in	O
 study	B-SD
 1	I-SD
@@ -59022,8 +58474,7 @@ ratings	O
 of	O
 profit	O
 were	O
-as-	O
-sociated	O
+associated	O
 with	O
 lower	O
 ratings	O
@@ -59170,8 +58621,7 @@ was	O
 negatively	O
 but	O
 not	O
-signif-	O
-icantly	O
+significantly	O
 related	O
 to	O
 underpaying	O
@@ -59210,8 +58660,7 @@ table	O
 .	O
 
 more	O
-prof-	O
-itable	O
+profitable	O
 industries	O
 were	O
 rated	O
@@ -59243,8 +58692,7 @@ associated	O
 with	O
 contributing	O
 important	O
-inno-	O
-vations	O
+innovations	O
 ,	O
 r	B-ES
 (	I-ES
@@ -59321,8 +58769,7 @@ in	O
 analyses	O
 using	O
 linear	B-TN
-mixed-	I-TN
-effects	I-TN
+mixedeffects	I-TN
 models	I-TN
 (	O
 see	O
@@ -59349,8 +58796,7 @@ beliefs	O
 (	O
 i.e.	O
 ,	O
-in-	O
-dividual	O
+individual	O
 subjects	O
 ’	O
 correlations	O
@@ -59393,8 +58839,7 @@ p	B-PV
 such	O
 that	O
 self-described	O
-conserva-	O
-tives	O
+conservatives	O
 had	O
 weaker	O
 anti-profit	O
@@ -59426,8 +58871,7 @@ of	O
 subjects	O
 along	O
 the	O
-po-	O
-litical	O
+political	O
 spectrum	O
 :	O
 liberal	O
@@ -59603,8 +59047,7 @@ perceived	O
 causal	O
 impact	O
 of	O
-profit-	O
-seeking	O
+profitseeking	O
 motives	O
 themselves	O
 .	O
@@ -59733,8 +59176,7 @@ across	O
 the	O
 four	O
 organizational	O
-de-	O
-scriptions	O
+descriptions	O
 ,	O
 a	O
 repeated	B-TN
@@ -59940,8 +59382,7 @@ a	O
 profit	O
 motive	O
 reduced	O
-percep-	O
-tions	O
+perceptions	O
 that	O
 the	O
 organization	O
@@ -59998,8 +59439,7 @@ the	O
 same	O
 practices	O
 but	O
-unspec-	O
-ified	O
+unspecified	O
 motives	O
 (	O
 m	O
@@ -60203,8 +59643,7 @@ measures	I-TN
 anova	I-TN
 found	O
 a	O
-mar-	O
-ginal	O
+marginal	O
 effect	O
 of	O
 firm	O
@@ -60324,8 +59763,7 @@ between	O
 a	O
 firm	O
 with	O
-non-	O
-profit	O
+nonprofit	O
 motives	O
 and	O
 one	O
@@ -60392,8 +59830,7 @@ different	O
 approach	O
 to	O
 further	O
-in-	O
-vestigate	O
+investigate	O
 how	O
 good	O
 or	O
@@ -60551,8 +59988,7 @@ indicate	O
 that	O
 perceptions	O
 of	O
-soci-	O
-etal	O
+societal	O
 good	O
 and	O
 profitability	O
@@ -60629,8 +60065,7 @@ societal	O
 harm	O
 or	O
 good	O
-accom-	O
-plished	O
+accomplished	O
 by	O
 each	O
 organization	O
@@ -60749,8 +60184,7 @@ practices	O
 against	O
 a	O
 null	O
-hypoth-	O
-esis	O
+hypothesis	O
 of	O
 no	O
 difference	O
@@ -60815,8 +60249,7 @@ to	O
 adopt	O
 good	O
 business	O
-prac-	O
-tices	O
+practices	O
 were	O
 perceived	O
 as	O
@@ -60898,8 +60331,7 @@ plans	O
 to	O
 adopt	O
 bad	O
-busi-	O
-ness	O
+business	O
 practices	O
 were	O
 seen	O
@@ -60950,8 +60382,7 @@ did	O
 not	O
 significantly	O
 affect	O
-percep-	O
-tions	O
+perceptions	O
 of	O
 the	O
 strength	O
@@ -60987,8 +60418,7 @@ significant	O
 main	O
 effect	O
 of	O
-pro-	O
-posed	O
+proposed	O
 business	O
 practices	O
 on	O
@@ -61903,8 +61333,7 @@ p2	O
 .	O
 
 as	O
-ex-	O
-pected	O
+expected	O
 ,	O
 pairwise	O
 comparisons	O
@@ -61974,8 +61403,7 @@ our	O
 manipulation	O
 .	O
 
-per-	O
-ceptions	O
+perceptions	O
 of	O
 consumer	O
 choice	O
@@ -61987,8 +61415,7 @@ sd	O
 0.77	O
 )	O
 were	O
-signif-	O
-icantly	O
+significantly	O
 greater	O
 than	O
 those	O
@@ -62126,8 +61553,7 @@ that	O
 prompting	O
 subjects	O
 to	O
-con-	O
-sider	O
+consider	O
 a	O
 market	O
 with	O
@@ -62219,8 +61645,7 @@ market	O
 with	O
 weak	O
 competitive	O
-con-	O
-straints	O
+constraints	O
 did	O
 not	O
 change	O
@@ -62359,8 +61784,7 @@ was	O
 strongly	O
 correlated	O
 with	O
-ex-	O
-pected	O
+expected	O
 profit	O
 under	O
 weak	O
@@ -62512,8 +61936,7 @@ firms	O
 profit-seeking	O
 behavior	O
 ,	O
-incen-	O
-tivizing	O
+incentivizing	O
 firms	O
 to	O
 create	O
@@ -62563,8 +61986,7 @@ market	O
 with	O
 weak	O
 reputational	O
-con-	O
-straints	O
+constraints	O
 vs.	O
 strong	O
 reputational	O
@@ -62751,8 +62173,7 @@ compared	O
 to	O
 its	O
 current	O
-prac-	O
-tices	O
+practices	O
 ,	O
 how	O
 would	O
@@ -62798,8 +62219,7 @@ firm	O
 3	O
 much	O
 more	O
-profit-	O
-able	O
+profitable	O
 to	O
 keep	O
 current	O
@@ -62940,8 +62360,7 @@ its	O
 existing	O
 practices	O
 ,	O
-in-	O
-creasing	O
+increasing	O
 bad	O
 business	O
 practices	O
@@ -63136,8 +62555,7 @@ could	O
 choose	O
 firms	O
 that	O
-pro-	O
-vided	O
+provided	O
 the	O
 most	O
 value	O
@@ -63180,8 +62598,7 @@ the	O
 success	O
 of	O
 our	O
-manip-	O
-ulation	O
+manipulation	O
 .	O
 
 in	O
@@ -63310,8 +62727,7 @@ condition	O
 ,	O
 perceptions	O
 of	O
-con-	O
-sumers	O
+consumers	O
 ’	O
 ability	O
 to	O
@@ -63359,8 +62775,7 @@ market	O
 with	O
 strong	O
 reputational	O
-con-	O
-straints	O
+constraints	O
 ,	O
 t	O
 (	O
@@ -63394,8 +62809,7 @@ unspecified	O
 constraints	O
 condition	O
 differed	O
-signifi-	O
-cantly	O
+significantly	O
 more	O
 from	O
 the	O
@@ -63501,8 +62915,7 @@ strong	O
 reputational	O
 constraints	O
 significantly	O
-re-	O
-duced	O
+reduced	O
 the	O
 expected	O
 profitability	O
@@ -63588,8 +63001,7 @@ contrast	O
 ,	O
 describing	O
 a	O
-mar-	O
-ket	O
+market	O
 with	O
 weak	O
 reputational	O
@@ -63597,8 +63009,7 @@ constraints	O
 did	O
 not	O
 change	O
-percep-	O
-tions	O
+perceptions	O
 of	O
 the	O
 long-term	O
@@ -63697,8 +63108,7 @@ compared	O
 to	O
 the	O
 unspecified	O
-con-	O
-straints	O
+constraints	O
 condition	O
 ,	O
 t	O
@@ -63722,8 +63132,7 @@ availability	O
 of	O
 firm	O
 reputational	O
-in-	O
-formation	O
+information	O
 attenuated	O
 anti-profit	O
 beliefs	O
@@ -63810,8 +63219,7 @@ p	B-PV
 d	O
 0.23	O
 ,	O
-indi-	O
-cating	O
+indicating	O
 that	O
 prompting	O
 consideration	O
@@ -63851,8 +63259,7 @@ anti-profit	O
 beliefs	O
 about	O
 the	O
-profit-	O
-ability	O
+profitability	O
 of	O
 bad	O
 practices	O
@@ -63969,8 +63376,7 @@ were	O
 significantly	O
 correlated	O
 with	O
-per-	O
-ceptions	O
+perceptions	O
 of	O
 profit	O
 motive	O
@@ -64048,8 +63454,7 @@ p	B-PV
 mirroring	O
 the	O
 weak	O
-con-	O
-straints	O
+constraints	O
 condition	O
 .	O
 
@@ -64059,8 +63464,7 @@ were	O
 prompted	O
 to	O
 consider	O
-con-	O
-sumer	O
+consumer	O
 choice	O
 before	O
 judging	O
@@ -64113,8 +63517,7 @@ market	O
 conditions	O
 that	O
 provide	O
-con-	O
-sumers	O
+consumers	O
 with	O
 meaningful	O
 choices	O
@@ -64127,8 +63530,7 @@ beliefs	O
 study	B-SD
 7	I-SD
 further	O
-investi-	O
-gated	O
+investigated	O
 this	O
 distinction	O
 by	O
@@ -64220,8 +63622,7 @@ found	O
 no	O
 differences	O
 across	O
-in-	O
-dustries	O
+industries	O
 or	O
 effects	O
 of	O
@@ -64277,8 +63678,7 @@ comparisons	O
 found	O
 that	O
 prompting	O
-consider-	O
-ation	O
+consideration	O
 of	O
 immediate	O
 incentive	O
@@ -64287,8 +63687,7 @@ did	O
 not	O
 influence	O
 the	O
-per-	O
-ceived	O
+perceived	O
 consequences	O
 of	O
 increased	O
@@ -64473,8 +63872,7 @@ effects	O
 gave	O
 responses	O
 no	O
-differ-	O
-ent	O
+different	O
 from	O
 zero	O
 ,	O
@@ -64706,8 +64104,7 @@ effects	O
 did	O
 not	O
 affect	O
-evalu-	O
-ations	O
+evaluations	O
 of	O
 the	O
 law	O
@@ -64917,8 +64314,7 @@ in	O
 more	O
 harmful	O
 business	O
-prac-	O
-tices	O
+practices	O
 (	O
 e.g.	O
 ,	O
@@ -64928,8 +64324,7 @@ consumers	O
 lowering	O
 product	O
 safety	O
-stan-	O
-dards	O
+standards	O
 ,	O
 exploiting	O
 legal	O
@@ -64949,8 +64344,7 @@ society	O
 values	O
 ,	O
 producing	O
-high-	O
-quality	O
+highquality	O
 products	O
 ;	O
 study	B-SD
@@ -64974,8 +64368,7 @@ deceptive	O
 marketing	O
 ,	O
 lower	O
-em-	O
-ployee	O
+employee	O
 pay	O
 ,	O
 worse	O
@@ -64997,8 +64390,7 @@ studies	B-SD
 while	O
 adopting	O
 better	O
-prac-	O
-tices	O
+practices	O
 along	O
 these	O
 dimensions	O
@@ -65026,8 +64418,7 @@ of	O
 profit	O
 are	O
 heavily	O
-influ-	O
-enced	O
+influenced	O
 by	O
 its	O
 mostly	O
@@ -65103,8 +64494,7 @@ studies	B-SD
 .	O
 
 explicitly	O
-prompt-	O
-table	O
+prompttable	O
 3	O
 immediate	O
 and	O
@@ -65489,8 +64879,7 @@ delivery	O
 services	O
 and	O
 logistics	O
-solu-	O
-tions	O
+solutions	O
 ]	O
 .	O
 
@@ -65510,8 +64899,7 @@ lithium-ion	O
 battery	O
 .	O
 
-rerun-	O
-ning	O
+rerunning	O
 the	O
 regression	B-TN
 discontinuity	I-TN
@@ -65560,8 +64948,7 @@ persistence	O
 of	O
 collusion	O
 using	O
-elec-	O
-toral	O
+electoral	O
 data	O
 from	O
 two	O
@@ -65597,8 +64984,7 @@ billed	O
 as	O
 bringing	O
 democratic	O
-gover-	O
-nance	O
+governance	O
 closer	O
 to	O
 the	O
@@ -65665,8 +65051,7 @@ we	O
 see	O
 a	O
 greater	O
-ef-	O
-fect	O
+effect	O
 of	O
 the	O
 treatment	O
@@ -66438,8 +65823,7 @@ efficiency	O
 two	O
 discs	O
 (	O
-po-	O
-tential	O
+potential	O
 targets	O
 )	O
 ,	O
@@ -66497,8 +65881,7 @@ for	O
 one	O
 left	O
 handed	O
-partici-	O
-pant	O
+participant	O
 ,	O
 for	O
 whom	O
@@ -66551,8 +65934,7 @@ at	O
 one	O
 of	O
 three	O
-dis-	O
-tances	O
+distances	O
 :	O
 near	O
 (	O
@@ -66581,8 +65963,7 @@ cm	O
 a	O
 full	O
 factorial	O
-com-	O
-bination	O
+combination	O
 of	O
 elevation	O
 (	O
@@ -66592,16 +65973,14 @@ up/down	O
 target	O
 location	O
 and	O
-non-	O
-target	O
+nontarget	O
 location	O
 resulted	O
 in	O
 8	O
 unique	O
 perceptuo-motor	O
-lot-	O
-teries	O
+lotteries	O
 (	O
 i.e.	O
 ,	O
@@ -66654,8 +66033,7 @@ experiment	B-SD
 ,	O
 the	O
 reward	O
-associ-	O
-ated	O
+associated	O
 with	O
 the	O
 large	O
@@ -66729,8 +66107,7 @@ medium	O
 distance	O
 targets	O
 ,	O
-par-	O
-ticipants	O
+participants	O
 used	O
 comparatively	O
 less	O
@@ -66739,8 +66116,7 @@ the	O
 available	O
 time	O
 ,	O
-giv-	O
-ing	O
+giving	O
 rise	O
 to	O
 a	O
@@ -66790,8 +66166,7 @@ g2p	O
 
 the	O
 difference	O
-be-	O
-tween	O
+between	O
 response	O
 times	O
 for	O
@@ -66800,8 +66175,7 @@ and	O
 large	O
 targets	O
 was	O
-mar-	O
-ginal	O
+marginal	O
 in	O
 experiment	B-SD
 1	I-SD
@@ -66903,8 +66277,7 @@ g2p	O
 as	O
 expected	O
 ,	O
-move-	O
-ments	O
+movements	O
 to	O
 far	O
 targets	O
@@ -66963,8 +66336,7 @@ that	O
 movements	O
 were	O
 more	O
-vari-	O
-able	O
+variable	O
 for	O
 large	O
 targets	O
@@ -66976,8 +66348,7 @@ targets	O
 with	O
 a	O
 main	O
-ef-	O
-fect	O
+effect	O
 of	O
 size	O
 in	O
@@ -67107,8 +66478,7 @@ in	O
 other	O
 words	O
 ,	O
-par-	O
-ticipants	O
+participants	O
 in	O
 experiment	B-SD
 1	I-SD
@@ -67272,8 +66642,7 @@ targets	O
 ,	O
 and	O
 that	O
-partic-	O
-ipants	O
+participants	O
 did	O
 not	O
 use	O
@@ -67296,8 +66665,7 @@ time	O
 ’	O
 )	O
 ,	O
-sug-	O
-gests	O
+suggests	O
 that	O
 the	O
 perceptuo-motor	O
@@ -67313,8 +66681,7 @@ strategy	O
 as	O
 defined	O
 in	O
-trom-	O
-mershäuser	O
+trommershäuser	O
 et	O
 al.	O
 ’	O
@@ -67331,8 +66698,7 @@ error	O
 showed	O
 no	O
 main	O
-ef-	O
-fects	O
+effects	O
 of	O
 either	O
 size	O
@@ -67382,8 +66748,7 @@ there	O
 was	O
 a	O
 significant	O
-interac-	O
-tion	O
+interaction	O
 (	O
 f	O
 (	O
@@ -67499,8 +66864,7 @@ experiment	B-SD
 1	I-SD
 ,	O
 many	O
-par-	O
-ticipants	O
+participants	O
 appeared	O
 nearly	O
 un-biased	O
@@ -67508,8 +66872,7 @@ un-biased	O
 they	O
 chose	O
 small	O
-tar-	O
-gets	O
+targets	O
 when	O
 these	O
 had	O
@@ -67545,8 +66908,7 @@ biased	O
 towards	O
 the	O
 small	O
-tar-	O
-get	O
+target	O
 –	O
 choosing	O
 it	O
@@ -67692,8 +67054,7 @@ only	O
 one	O
 of	O
 eight	O
-partic-	O
-ipants	O
+participants	O
 ’	O
 efficiencies	O
 was	O
@@ -67716,8 +67077,7 @@ exact	O
 test	O
 testing	O
 for	O
-dif-	O
-ferences	O
+differences	O
 in	O
 optimal	O
 performance	O
@@ -67783,8 +67143,7 @@ experiment	B-SD
 thus	O
 ,	O
 the	O
-rea-	O
-son	O
+reason	O
 participants	O
 are	O
 classed	O
@@ -67910,15 +67269,13 @@ the	O
 lower	O
 95	O
 %	O
-confi-	O
-dence	O
+confidence	O
 interval	O
 of	O
 optimal	O
 performance	O
 shows	O
-overwhelm-	O
-ing	O
+overwhelming	O
 support	O
 for	O
 the	O
@@ -67966,8 +67323,7 @@ appears	O
 due	O
 to	O
 a	O
-dif-	O
-ference	O
+difference	O
 in	O
 how	O
 variable	O
@@ -68004,8 +67360,7 @@ participants	O
 were	O
 classed	O
 as	O
-sub-	O
-optimal	O
+suboptimal	O
 or	O
 optimal	O
 ,	O
@@ -68023,8 +67378,7 @@ between	O
 small	O
 and	O
 large	O
-tar-	O
-gets	O
+targets	O
 and	O
 generally	O
 chose	O
@@ -68033,8 +67387,7 @@ target	O
 with	O
 the	O
 higher	O
-ex-	O
-pected	O
+expected	O
 value	O
 .	O
 
@@ -68053,8 +67406,7 @@ towards	O
 choosing	O
 the	O
 small	O
-tar-	O
-get	O
+target	O
 ,	O
 the	O
 target	O
@@ -68081,8 +67433,7 @@ suggest	O
 that	O
 participants	O
 ’	O
-per-	O
-ceptuo-motor	O
+perceptuo-motor	O
 behaviour	O
 may	O
 deviate	O
@@ -68108,8 +67459,7 @@ s	O
 model	O
 .	O
 
-conse-	O
-quently	O
+consequently	O
 ,	O
 the	O
 failure	O
@@ -68172,8 +67522,7 @@ consequential	O
 .	O
 
 had	O
-partici-	O
-pants	O
+participants	O
 been	O
 compared	O
 to	O
@@ -68223,8 +67572,7 @@ experiment	B-SD
 2	I-SD
 ,	O
 the	O
-experi-	O
-mental	O
+experimental	O
 set-up	O
 was	O
 identical	O
@@ -68239,8 +67587,7 @@ of	O
 choices	O
 :	O
 aim	O
-point-	O
-and	O
+pointand	O
 target	O
 choices	O
 .	O
@@ -68254,8 +67601,7 @@ experiment	B-SD
 1	I-SD
 had	O
 smaller	O
-tar-	O
-gets	O
+targets	O
 ,	O
 fewer	O
 target	O
@@ -68295,8 +67641,7 @@ experiment	B-SD
 resulted	O
 in	O
 sub-optimal	O
-partici-	O
-pants	O
+participants	O
 .	O
 
 for	O
@@ -68342,8 +67687,7 @@ and	I-SD
 2	I-SD
 was	O
 that	O
-seem-	O
-ingly	O
+seemingly	O
 innocuous	O
 changes	O
 in	O
@@ -68411,8 +67755,7 @@ this	O
 means	O
 that	O
 sub-optimal	O
-par-	O
-ticipants	O
+participants	O
 should	O
 have	O
 been	O
@@ -68433,8 +67776,7 @@ were	O
 significantly	O
 more	O
 optimal	O
-par-	O
-ticipants	O
+participants	O
 in	O
 experiment	B-SD
 1	I-SD
@@ -68492,8 +67834,7 @@ are	O
 likely	O
 to	O
 have	O
-ac-	O
-counted	O
+accounted	O
 only	O
 for	O
 a	O
@@ -68564,8 +67905,7 @@ greater	O
 than	O
 those	O
 in	O
-exper-	O
-iment	O
+experiment	O
 2	O
 .	O
 
@@ -68608,8 +67948,7 @@ experiment	B-SD
 1	I-SD
 than	O
 in	O
-experi-	O
-ment	O
+experiment	O
 2	O
 (	O
 unpaired	B-TN
@@ -68627,8 +67966,7 @@ p	B-PV
 .017	I-PV
 ,	O
 mean	O
-differ-	O
-ence	O
+difference	O
 =	O
 4.2310	O
 )	O
@@ -68798,8 +68136,7 @@ trials	O
 for	O
 each	O
 configuration	O
-con-	O
-stant	O
+constant	O
 ,	O
 results	O
 in	O
@@ -68811,8 +68148,7 @@ total	O
 trials	O
 .	O
 
-specifi-	O
-cally	O
+specifically	O
 ,	O
 the	O
 total	O
@@ -68906,8 +68242,7 @@ between	O
 experiment	B-SD
 2	I-SD
 and	O
-exper-	O
-iment	O
+experiment	O
 1	O
 .	O
 
@@ -68984,8 +68319,7 @@ experiment	B-SD
 if	O
 the	O
 two	O
-experi-	O
-ments	O
+experiments	O
 were	O
 identical	O
 we	O
@@ -69070,8 +68404,7 @@ marginally	O
 from	O
 the	O
 original	O
-confi-	O
-dence	O
+confidence	O
 bound	O
 –	O
 suggesting	O
@@ -69108,8 +68441,7 @@ the	O
 number	O
 of	O
 total	O
-tri-	O
-als	O
+trials	O
 was	O
 kept	O
 the	O
@@ -69195,8 +68527,7 @@ a	O
 range	O
 we	O
 would	O
-ex-	O
-pect	O
+expect	O
 from	O
 experiment	B-SD
 1	I-SD
@@ -69251,8 +68582,7 @@ in	O
 both	O
 experiments	O
 the	O
-pen-	O
-alty	O
+penalty	O
 for	O
 missing	O
 is	O
@@ -69357,8 +68687,7 @@ of	O
 the	O
 difference	O
 in	O
-per-	O
-formance	O
+performance	O
 between	O
 experiments	B-SD
 1	I-SD
@@ -69368,8 +68697,7 @@ was	O
 a	O
 more	O
 lax	O
-cri-	O
-terion	O
+criterion	O
 of	O
 optimality	O
 in	O
@@ -69413,8 +68741,7 @@ g2p	O
 =	O
 .95	O
 ,	O
-experi-	O
-ment	O
+experiment	O
 2	O
 :	O
 f	O
@@ -69524,8 +68851,7 @@ it	O
 did	O
 not	O
 reach	O
-signifi-	O
-cance	O
+significance	O
 (	O
 f	O
 (	O
@@ -69573,8 +68899,7 @@ g2p	O
 =	O
 .62	O
 ,	O
-experi-	O
-ment	O
+experiment	O
 2	O
 :	O
 f	O
@@ -69620,8 +68945,7 @@ g2p	O
 and	O
 marginal	O
 in	O
-experi-	O
-ment	O
+experiment	O
 1	O
 (	O
 f	O
@@ -69672,8 +68996,7 @@ none	O
 was	O
 detected	O
 in	O
-experi-	O
-ment	O
+experiment	O
 2	O
 (	O
 f	O
@@ -69705,8 +69028,7 @@ the	O
 small	O
 control	O
 study	O
-re-	O
-ported	O
+reported	O
 on	O
 in	O
 ’	O
@@ -69722,8 +69044,7 @@ and	I-SD
 .	O
 
 only	O
-sig-	O
-nificant	O
+significant	O
 deviations	O
 from	O
 experiments	B-SD
@@ -69873,8 +69194,7 @@ bivariate	O
 gaussians	O
 to	O
 the	O
-mid-	O
-distance	O
+middistance	O
 data	O
 in	O
 experiment	B-SD
@@ -70003,8 +69323,7 @@ difference	O
 ms	O
 )	O
 ,	O
-indi-	O
-cating	O
+indicating	O
 that	O
 movements	O
 to	O
@@ -70076,8 +69395,7 @@ ms	O
 a	O
 group-level	O
 analysis	O
-pro-	O
-vides	O
+provides	O
 similar	O
 evidence	O
 ,	O
@@ -70186,8 +69504,7 @@ representations	O
 did	O
 not	O
 differ	O
-be-	O
-tween	O
+between	O
 the	O
 sexes	O
 ,	O
@@ -70370,8 +69687,7 @@ the	O
 regression	O
 weight	O
 differed	O
-signifi-	O
-cantly	O
+significantly	O
 from	O
 0	O
 for	O
@@ -70419,8 +69735,7 @@ test	I-TN
 indicated	O
 that	O
 the	O
-differ-	O
-ence	O
+difference	O
 between	O
 the	O
 regression	O
@@ -70530,8 +69845,7 @@ of	O
 numerical	O
 representation	O
 (	O
-experi-	O
-ment	O
+experiment	O
 3	O
 )	O
 ,	O
@@ -70554,8 +69868,7 @@ designed	O
 to	O
 examine	O
 the	O
-activa-	O
-tional	O
+activational	O
 limits	O
 of	O
 the	O
@@ -70586,8 +69899,7 @@ of	O
 a	O
 presented	O
 digit—they	O
-sim-	O
-ply	O
+simply	O
 had	O
 to	O
 decide	O
@@ -70610,8 +69922,7 @@ shape	O
 stimuli	O
 superimposed	O
 onto	O
-irrel-	O
-evant	O
+irrelevant	O
 digits	O
 ;	O
 participants	O
@@ -70639,8 +69950,7 @@ experiment	B-SD
 or	O
 orientation	O
 (	O
-ex-	O
-periments	O
+experiments	O
 1	O
 and	O
 4	O
@@ -70653,8 +69963,7 @@ shape	O
 with	O
 no	O
 explicit	O
-refer-	O
-ence	O
+reference	O
 made	O
 to	O
 the	O
@@ -70962,8 +70271,7 @@ r	B-ES
 )	O
 or	O
 when	O
-con-	O
-sidered	O
+considered	O
 separately	O
 for	O
 men	O
@@ -71002,8 +70310,7 @@ on	O
 a	O
 one-tailed	O
 directional	O
-hypoth-	O
-esis	O
+hypothesis	O
 ,	O
 as	O
 would	O
@@ -71102,8 +70409,7 @@ calculated	O
 for	O
 each	O
 individual	O
-partici-	O
-pant	O
+participant	O
 .	O
 
 standardized	O
@@ -71115,8 +70421,7 @@ curve	O
 fits	O
 were	O
 then	O
-com-	O
-pared	O
+compared	O
 in	O
 a	O
 2	O
@@ -71142,8 +70447,7 @@ anova	B-TN
 
 this	O
 revealed	O
-sig-	O
-nificant	O
+significant	O
 main	O
 effects	O
 of	O
@@ -71227,8 +70531,7 @@ linear	O
 )	O
 and	O
 a	O
-loga-	O
-rithmic	O
+logarithmic	O
 (	O
 .478	O
 )	O
@@ -71425,8 +70728,7 @@ numerical	O
 operations	O
 task	O
 as	O
-de-	O
-scribed	O
+described	O
 in	O
 experiment	B-SD
 2	I-SD
@@ -71697,8 +70999,7 @@ in	O
 children	O
 (	O
 208	O
-chil-	O
-dren	O
+children	O
 ,	O
 7	O
 to	O
@@ -71754,8 +71055,7 @@ number-line	O
 task	O
 compared	O
 with	O
-age-	O
-and	O
+ageand	O
 gender-matched	O
 hearing	O
 children	O
@@ -71824,8 +71124,7 @@ designed	O
 to	O
 examine	O
 for	O
-differ-	O
-ences	O
+differences	O
 in	O
 activation	O
 of	O
@@ -71870,8 +71169,7 @@ schwarz	O
 2007	O
 )	O
 had	O
-pre-	O
-viously	O
+previously	O
 applied	O
 prp	O
 methodology	O
@@ -71919,8 +71217,7 @@ used	O
 a	O
 similar	O
 prp	O
-method-	O
-ology	O
+methodology	O
 to	O
 examine	O
 whether	O
@@ -72517,8 +71814,7 @@ more	O
 implicit	O
 numerical	O
 processing	O
-condi-	O
-tions	O
+conditions	O
 .	O
 
 in	O
@@ -72881,8 +72177,7 @@ has	O
 been	O
 associated	O
 with	O
-mathemat-	O
-ics	O
+mathematics	O
 ability	O
 in	O
 children	O
@@ -72926,8 +72221,7 @@ an	O
 association	O
 between	O
 individual	O
-differ-	O
-ences	O
+differences	O
 in	O
 spatial–numerical	O
 associations	O
@@ -73015,8 +72309,7 @@ task	O
 without	O
 accessing	O
 any	O
-rep-	O
-resentation	O
+representation	O
 of	O
 number	O
 .	O
@@ -73113,8 +72406,7 @@ p	B-PV
 ;	O
 visual–spatial	O
 wm	O
-exper-	O
-iment	O
+experiment	O
 1	O
 ,	O
 r	B-ES
@@ -73139,8 +72431,7 @@ therefore	O
 i	O
 conducted	O
 a	O
-sim-	O
-ilar	O
+similar	O
 analysis	O
 using	O
 survey	B-SP
@@ -73150,8 +72441,7 @@ among	I-SP
 jewish	O
 survivors	O
 (	O
-evers-	O
-emden	O
+eversemden	O
 and	O
 flim	O
 1996	O
@@ -73213,8 +72503,7 @@ was	O
 active	O
 in	O
 a	O
-commu-	O
-nity	O
+community	O
 .	O
 
 again	O
@@ -73302,8 +72591,7 @@ model	B-TE
 entries	O
 are	O
 logistic	O
-regres-	O
-sion	O
+regression	O
 coefficients	O
 .	O
 
@@ -73423,8 +72711,7 @@ model	B-TE
 arrest	O
 (	O
 fixed	O
-ef-	O
-fects	O
+effects	O
 )	O
 ;	O
 c	O
@@ -73535,8 +72822,7 @@ model	B-TE
 5	I-TE
 entries	O
 are	O
-regres-	O
-sion	O
+regression	O
 coefficients	O
 .	O
 
@@ -73561,8 +72847,7 @@ investors	O
 service	O
 .	O
 
-approxi-	O
-mately	O
+approximately	O
 25	O
 percent	O
 of	O
@@ -73583,8 +72868,7 @@ the	O
 potential	O
 problems	O
 of	O
-over-	O
-or	O
+overor	O
 under-sampling	O
 of	O
 specific	O
@@ -73808,8 +73092,7 @@ a	O
 )	O
 developing	O
 and	O
-intro-	O
-ducing	O
+introducing	O
 new	O
 products	O
 ,	O
@@ -73958,8 +73241,7 @@ any	O
 of	O
 the	O
 alternative	O
-three-	O
-and	O
+threeand	O
 two-factor	O
 models	O
 (	O
@@ -73977,8 +73259,7 @@ analysis	I-TN
 pattern	O
 supports	O
 the	O
-empir-	O
-ical	O
+empirical	O
 distinctiveness	O
 of	O
 the	O
@@ -74160,8 +73441,7 @@ the	O
 direct	O
 effect	O
 of	O
-finan-	O
-cial	O
+financial	O
 support	O
 for	O
 education	O
@@ -74223,8 +73503,7 @@ practices	O
 ,	O
 interpersonal	O
 and	O
-organiza-	O
-tional	O
+organizational	O
 learning	O
 practices	O
 increased	O
@@ -74394,8 +73673,7 @@ p	B-PV
 <	I-PV
 .01	I-PV
 ,	O
-respec-	O
-tively	O
+respectively	O
 )	O
 .	O
 
@@ -74514,8 +73792,7 @@ the	O
 two	O
 samples	O
 ,	O
-re-	O
-sults	O
+results	O
 based	O
 on	O
 our	O
@@ -74534,8 +73811,7 @@ of	O
 organizations	O
 were	O
 almost	O
-iden-	O
-tical	O
+identical	O
 ,	O
 except	O
 the	O
@@ -74590,8 +73866,7 @@ and	O
 innovative	O
 performance	O
 is	O
-nonsig-	O
-nificant	O
+nonsignificant	O
 (	O
 r	B-ES
 =.01	I-ES
@@ -74845,8 +74120,7 @@ probit	B-TN
 models	I-TN
 of	O
 legal	O
-endo-	O
-geneity	O
+endogeneity	O
 described	O
 above	O
 .	O
@@ -74986,8 +74260,7 @@ deference	O
 to	O
 compliance	O
 structures	O
-in-	O
-crease	O
+increase	O
 significantly	O
 at	O
 about	O
@@ -75097,8 +74370,7 @@ doctrinal	O
 developments	O
 in	O
 the	O
-mer-	O
-40	O
+mer40	O
 the	O
 significant	O
 effect	O
@@ -75279,8 +74551,7 @@ more	O
 likely	O
 when	O
 disparate	O
-treat-	O
-ment	O
+treatment	O
 theory	O
 is	O
 invoked	O
@@ -75420,8 +74691,7 @@ odds	O
 of	O
 deference	O
 to	O
-orga-	O
-nizational	O
+organizational	O
 structures	O
 are	O
 about	O
@@ -75653,8 +74923,7 @@ for	O
 compliance	O
 and	O
 business	O
-struc-	O
-tures	O
+structures	O
 .	O
 
 finally	O
@@ -75671,8 +74940,7 @@ we	O
 are	O
 not	O
 being	O
-unrea-	O
-sonable	O
+unreasonable	O
 in	O
 using	O
 the	O
@@ -75746,8 +75014,7 @@ these	O
 data	O
 using	O
 traditional	O
-goodness-	O
-of-fit	O
+goodnessof-fit	O
 tests	O
 (	O
 agresti	O
@@ -75859,8 +75126,7 @@ that	O
 has	O
 facility	O
 for	O
-esti-	O
-mating	O
+estimating	O
 a	O
 trivariate	O
 probit	B-TN
@@ -75874,8 +75140,7 @@ qlim	O
 )	O
 by	O
 fixing	O
-cor-	O
-relations	O
+correlations	O
 to	O
 nearly	O
 one	O
@@ -76034,8 +75299,7 @@ deference	O
 given	O
 relevance	O
 is	O
-ob-	O
-tained	O
+obtained	O
 by	O
 prob	O
 {	O
@@ -76144,8 +75408,7 @@ theadd-health	O
 survey	O
 is	O
 a	O
-longitu-	O
-dinal	O
+longitudinal	O
 nationally	O
 representative	O
 sample	O
@@ -76157,8 +75420,7 @@ high	O
 school	O
 students	O
 first	O
-inter-	O
-viewed	O
+interviewed	O
 in	O
 1995	O
 –	O
@@ -76203,8 +75465,7 @@ information	O
 on	O
 their	O
 religious	O
-affilia-	O
-tion	O
+affiliation	O
 at	O
 wave	O
 1	O
@@ -76223,8 +75484,7 @@ wewere	O
 not	O
 able	O
 to	O
-distinguishmus-	O
-lims	O
+distinguishmuslims	O
 (	O
 n	B-SS
 ¼	I-SS
@@ -76239,8 +75499,7 @@ n	B-SS
 )	O
 in	O
 these	O
-analy-	O
-ses	O
+analyses	O
 ,	O
 given	O
 their	O
@@ -77064,8 +76323,7 @@ sample	O
 of	O
 201	O
 were	O
-clas-	O
-sified	O
+classified	O
 based	O
 on	O
 their	O
@@ -77475,8 +76733,7 @@ of	O
 the	O
 541	B-SS
 child	O
-pornog-	O
-raphy	O
+pornography	O
 offenders	O
 were	O
 charged	O
@@ -77494,8 +76751,7 @@ was	O
 %	O
 among	O
 child	O
-por-	O
-nography	O
+pornography	O
 offenders	O
 with	O
 a	O
@@ -80008,8 +79264,7 @@ in	O
 karnataka	O
 )	O
 and	O
-pop-	O
-ulation	O
+population	O
 totals	O
 (	O
 in	O
@@ -80043,8 +79298,7 @@ each	O
 subdistrict-specific	O
 threshold.25	O
 this	O
-pro-	O
-cedure	O
+procedure	O
 generated	O
 a	O
 study	O
@@ -80076,8 +79330,7 @@ random	O
 or	O
 as-if	O
 random	O
-as-	O
-signment	O
+assignment	O
 to	O
 quotas	O
 ,	O
@@ -80094,16 +79347,14 @@ and	O
 unreserved	O
 councils	O
 on	O
-mea-	O
-sured	O
+measured	O
 pretreatment	O
 covariates	O
 such	O
 as	O
 literacy	O
 and	O
-em-	O
-ployment	O
+employment	O
 data	O
 drawn	O
 from	O
@@ -80125,8 +79376,7 @@ treatment	O
 assignment	O
 on	O
 these	O
-co-	O
-variates	O
+covariates	O
 is	O
 also	O
 insignificant	O
@@ -80225,8 +79475,7 @@ well	O
 as	O
 to	O
 test	O
-ob-	O
-servational	O
+observational	O
 findings	O
 from	O
 our	O
@@ -81028,8 +80277,7 @@ to	O
 examine	O
 what	O
 factors	O
-pre-	O
-dicted	O
+predicted	O
 shifting	O
 .	O
 
@@ -81284,8 +80532,7 @@ initially	O
 made	O
 their	O
 identification	O
-deci-	O
-sions	O
+decisions	O
 in	O
 under	O
 12	O
@@ -81382,8 +80629,7 @@ the	O
 difference	O
 was	O
 not	O
-sta-	O
-tistically	O
+statistically	O
 significant	O
 ,	O
 b	O
@@ -82550,8 +81796,7 @@ feedback	O
 (	O
 final	O
 choice	O
-accu-	O
-racy	O
+accuracy	O
 )	O
 2	O
 (	O
@@ -83109,8 +82354,7 @@ three-way	O
 interaction	O
 between	O
 confirming	O
-feed-	O
-back	O
+feedback	O
 ,	O
 shift	O
 ,	O
@@ -83153,8 +82397,7 @@ those	O
 who	O
 got	O
 confirming	O
-feed-	O
-back	O
+feedback	O
 were	O
 substantially	O
 more	O
@@ -83226,8 +82469,7 @@ got	O
 confirming	O
 feedback	O
 were	O
-sig-	O
-nificantly	O
+significantly	O
 more	O
 confident	O
 in	O
@@ -83386,8 +82628,7 @@ participants	O
 who	O
 received	O
 confirming	O
-feed-	O
-back	O
+feedback	O
 were	O
 far	O
 more	O
@@ -83438,8 +82679,7 @@ ci	O
 .	O
 
 this	O
-state-	O
-table	O
+statetable	O
 4	O
 confidence	O
 in	O
@@ -83784,8 +83024,7 @@ knew	O
 anything	O
 about	O
 the	O
-partici-	O
-pants	O
+participants	O
 ’	O
 initial	O
 choices	O
@@ -83943,8 +83182,7 @@ the	O
 addition	O
 of	O
 the	O
-ad-	O
-monition	O
+admonition	O
 led	O
 to	O
 a	O
@@ -83972,8 +83210,7 @@ this	O
 second	O
 experiment	O
 ,	O
-ac-	O
-curacy	O
+accuracy	O
 in	O
 culprit-present	O
 conditions	O
@@ -84010,8 +83247,7 @@ experiment	B-SD
 8.4	O
 %	O
 vs.	O
-experi-	O
-ment	O
+experiment	O
 2	O
 ,	O
 19.5	O
@@ -84053,8 +83289,7 @@ accuracy	O
 did	O
 not	O
 directly	O
-pre-	O
-dict	O
+predict	O
 shifting	O
 ,	O
 b	O
@@ -84212,8 +83447,7 @@ ci	O
 for	O
 those	O
 who	O
-ini-	O
-tially	O
+initially	O
 made	O
 inaccurate	O
 identification	O
@@ -84343,8 +83577,7 @@ made	O
 quick	O
 decisions	O
 were	O
-gener-	O
-ally	O
+generally	O
 less	O
 likely	O
 to	O
@@ -84386,8 +83619,7 @@ in	O
 the	O
 culprit-absent	O
 condition	O
-ob-	O
-served	O
+observed	O
 in	O
 experiment	B-SD
 1	I-SD
@@ -84398,8 +83630,7 @@ the	O
 use	O
 of	O
 biased	O
-instruc-	O
-tions	O
+instructions	O
 ,	O
 and	O
 expected	O
@@ -84410,8 +83641,7 @@ admonition	O
 was	O
 used	O
 ,	O
-culprit-	O
-presence	O
+culpritpresence	O
 would	O
 no	O
 longer	O
@@ -84498,8 +83728,7 @@ and	O
 -absent	O
 conditions	O
 were	O
-gen-	O
-erally	O
+generally	O
 comparable	O
 across	O
 the	O
@@ -84596,8 +83825,7 @@ showed	O
 that	O
 shifters	O
 who	O
-re-	O
-ceived	O
+received	O
 confirming	O
 feedback	O
 were	O
@@ -84918,8 +84146,7 @@ the	O
 lineup	O
 altered	O
 the	O
-identifica-	O
-tion	O
+identification	O
 decisions	O
 of	O
 a	O
@@ -84947,8 +84174,7 @@ experiment	B-SD
 and	O
 shows	O
 that	O
-chang-	O
-ing	O
+changing	O
 the	O
 procedures	O
 so-that	O
@@ -85113,8 +84339,7 @@ experiment	B-SD
 ,	O
 choosers	O
 were	O
-substan-	O
-tially	O
+substantially	O
 more	O
 likely	O
 to	O
@@ -85272,8 +84497,7 @@ others	O
 based	O
 on	O
 limited	O
-ex-	O
-posure	O
+exposure	O
 to	O
 faces	O
 (	O
@@ -85289,8 +84513,7 @@ todorov	O
 we	O
 used	O
 a	O
-face-	O
-perception	O
+faceperception	O
 paradigm	O
 to	O
 test	O
@@ -85326,8 +84549,7 @@ pay	O
 our	O
 study	B-SD
 1a	I-SD
-par-	O
-ticipants	O
+participants	O
 based	O
 on	O
 the	O
@@ -85403,8 +84625,7 @@ made	O
 independently	O
 by	O
 two	O
-re-	O
-search	O
+research	O
 assistants	O
 ;	O
 there	O
@@ -85432,8 +84653,7 @@ in	O
 analysis	O
 .	O
 
-sixty-	B-SS
-nine	I-SS
+sixtynine	B-SS
 students	O
 (	O
 42	B-SS
@@ -85460,8 +84680,7 @@ s.d	O
 .	O
 
 forty-eight	B-SS
-stu-	O
-dents	O
+students	O
 (	O
 19	B-SS
 female	O
@@ -85589,8 +84808,7 @@ two-tailed	O
 .	O
 
 generally	O
-speak-	O
-ing	O
+speaking	O
 ,	O
 including	O
 all	O
@@ -85649,8 +84867,7 @@ of	O
 each	O
 of	O
 the	O
-tar-	O
-get	O
+target	O
 traits	O
 (	O
 measured	O
@@ -85662,8 +84879,7 @@ strength	O
 and	O
 ratings	O
 of	O
-attrac-	O
-tiveness	O
+attractiveness	O
 ,	O
 health	O
 ,	O
@@ -85698,8 +84914,7 @@ fwhr	O
 ,	O
 strength	O
 ,	O
-attrac-	O
-tiveness	O
+attractiveness	O
 ,	O
 health	O
 ,	O
@@ -85744,8 +84959,7 @@ correlation	O
 between	O
 the	O
 mean	O
-of-	O
-fers	O
+offers	O
 and	O
 mean	O
 demands	O
@@ -85797,8 +85011,7 @@ correlations	I-TN
 of	O
 mean	O
 generosity	O
-re-	O
-ceived	O
+received	O
 by	O
 targets	O
 with	O
@@ -85810,8 +85023,7 @@ strength	O
 and	O
 ratings	O
 of	O
-attractive-	O
-ness	O
+attractiveness	O
 ,	O
 health	O
 ,	O
@@ -86048,8 +85260,7 @@ will	O
 be	O
 mediated	O
 by	O
-pro-	O
-ductivity	O
+productivity	O
 ,	O
 while	O
 the	O
@@ -86089,8 +85300,7 @@ their	O
 offer	O
 to	O
 the	O
-de-	O
-mand	O
+demand	O
 expected	O
 from	O
 the	O
@@ -86137,8 +85347,7 @@ target	O
 faces	O
 for	O
 their	O
-ap-	O
-parent	O
+apparent	O
 social	O
 status	O
 (	O
@@ -86155,8 +85364,7 @@ alpha	O
 ratings	O
 of	O
 male	O
-so-	O
-cial	O
+social	O
 status	O
 were	O
 performed	O
@@ -86203,8 +85411,7 @@ order	O
 to	O
 evaluate	O
 the	O
-zero-	O
-order	O
+zeroorder	O
 effects	O
 of	O
 perceived	O
@@ -86285,8 +85492,7 @@ and	O
 1b	O
 )	O
 and	O
-gen-	O
-erosity	O
+generosity	O
 received	O
 in	O
 theug	O
@@ -86300,8 +85506,7 @@ for	O
 the	O
 possibility	O
 that	O
-pro-	O
-posers	O
+proposers	O
 might	O
 try	O
 to	O
@@ -86323,8 +85528,7 @@ we	O
 calculated	O
 partial	B-TN
 correlations	I-TN
-be-	O
-tween	O
+between	O
 all	O
 of	O
 the	O
@@ -86337,8 +85541,7 @@ received	O
 controlling	O
 for	O
 the	O
-de-	O
-mands	O
+demands	O
 expected	O
 from	O
 the	O
@@ -86392,8 +85595,7 @@ between	O
 the	O
 ratings	O
 of	O
-productivi-	O
-ty	O
+productivity	O
 ,	O
 dangerousness	O
 ,	O
@@ -86437,8 +85639,7 @@ correlations	I-TN
 of	O
 mean	O
 generosity	O
-re-	O
-ceived	O
+received	O
 by	O
 targets	O
 with	O
@@ -86449,8 +85650,7 @@ productivity	O
 ,	O
 dangerousness	O
 ,	O
-desir-	O
-ability	O
+desirability	O
 as	O
 a	O
 friend	O
@@ -86491,8 +85691,7 @@ highly	O
 and	O
 positively	O
 correlatedwith	O
-gener-	O
-osity	O
+generosity	O
 received	O
 (	O
 r	B-ES
@@ -86515,8 +85714,7 @@ this	O
 same	O
 reversal	O
 also	O
-oc-	O
-curred	O
+occurred	O
 when	O
 productivity	O
 (	O
@@ -86535,8 +85733,7 @@ b	I-PV
 .001	I-PV
 )	O
 and	O
-danger-	O
-ousness	O
+dangerousness	O
 (	O
 β=−	O
 .31	O
@@ -86584,8 +85781,7 @@ received	O
 productivity	O
 had	O
 a	O
-sig-	O
-nificant	O
+significant	O
 positive	O
 effect	O
 ,	O
@@ -86698,8 +85894,7 @@ no	O
 longer	O
 a	O
 significant	O
-pre-	O
-dictor	O
+predictor	O
 of	O
 generosity	O
 received	O
@@ -86756,8 +85951,7 @@ generosity	O
 received	O
 were	O
 virtually	O
-un-	O
-changed	O
+unchanged	O
 after	O
 controlling	O
 for	O
@@ -86910,8 +86104,7 @@ generosity	O
 once	O
 productivity	O
 was	O
-con-	O
-trolled	O
+controlled	O
 for	O
 ,	O
 suggesting	O
@@ -86921,8 +86114,7 @@ above	O
 and	O
 beyond	O
 implied	O
-pro-	O
-ductivity	O
+productivity	O
 is	O
 actually	O
 penalized	O
@@ -86961,8 +86153,7 @@ study	B-SD
 .	O
 
 we	O
-there-	O
-fore	O
+therefore	O
 had	O
 the	O
 female	O
@@ -86988,8 +86179,7 @@ would	O
 positively	O
 predict	O
 the	O
-qual-	O
-ity	O
+quality	O
 of	O
 treatment	O
 received	O
@@ -87027,8 +86217,7 @@ one-shot	O
 ugs	O
 with	O
 a	O
-se-	O
-ries	O
+series	O
 of	O
 target	O
 partners	O
@@ -87109,8 +86298,7 @@ not	O
 played	O
 the	O
 ug.when	O
-par-	O
-ticipants	O
+participants	O
 returned	O
 for	O
 session	O
@@ -87174,8 +86362,7 @@ study	B-SD
 each	O
 rater	O
 was	O
-ran-	O
-domly	O
+randomly	O
 assigned	O
 to	O
 rate	O
@@ -87247,8 +86434,7 @@ hypothesis	O
 control	O
 for	O
 alternative	O
-ex-	O
-planations	O
+explanations	O
 ,	O
 and	O
 evaluate	O
@@ -87289,8 +86475,7 @@ to	O
 control	O
 for	O
 the	O
-ef-	O
-fect	O
+effect	O
 of	O
 attractiveness	O
 ,	O
@@ -87330,8 +86515,7 @@ ug	O
 treatment	O
 received	O
 and	O
-tar-	O
-get	O
+target	O
 traits	O
 ,	O
 controlling	O
@@ -87661,8 +86845,7 @@ received	O
 ,	O
 controlling	O
 for	O
-ex-	O
-pected	O
+expected	O
 offers	O
 ,	O
 and	O
@@ -87684,8 +86867,7 @@ partial	B-TN
 correlations	I-TN
 with	O
 demands	O
-re-	O
-ceived	O
+received	O
 ,	O
 controlling	O
 for	O
@@ -87710,8 +86892,7 @@ between	O
 the	O
 mean	O
 demands	O
-ex-	O
-pected	O
+expected	O
 from	O
 targets	O
 and	O
@@ -87752,8 +86933,7 @@ prosociality	O
 social	O
 status	O
 ,	O
-at-	O
-tractiveness	O
+attractiveness	O
 ,	O
 and	O
 dangerousness	O
@@ -87764,8 +86944,7 @@ offers	O
 controlling	O
 for	O
 expected	O
-de-	O
-mands	O
+demands	O
 (	O
 see	O
 som	O
@@ -87790,8 +86969,7 @@ in	O
 the	O
 ug	O
 to	O
-tar-	O
-gets	O
+targets	O
 who	O
 appeared	O
 healthier	O
@@ -87844,8 +87022,7 @@ al.	O
 )	O
 ,	O
 so	O
-attrac-	O
-tivenessmay	O
+attractivenessmay	O
 have	O
 been	O
 an	O
@@ -87856,8 +87033,7 @@ women	O
 's	O
 abilities	O
 to	O
-gener-	O
-ate	O
+generate	O
 benefits	O
 for	O
 social	O
@@ -87874,8 +87050,7 @@ mean	O
 offers	O
 and	O
 demands	O
-re-	O
-ceived	O
+received	O
 (	O
 study	B-SD
 2	I-SD
@@ -87912,8 +87087,7 @@ difference	O
 in	O
 total	O
 variance	O
-predict-	O
-ed	O
+predicted	O
 ,	O
 z=3.84	O
 ,	O
@@ -87926,8 +87100,7 @@ that	O
 womenwere	O
 significantly	O
 less	O
-in-	O
-fluenced	O
+influenced	O
 overall	O
 by	O
 cues	O
@@ -87977,8 +87150,7 @@ partners.	O
 partner	O
 choice	O
 theory	O
-sug-	O
-gests	O
+suggests	O
 that	O
 a	O
 potential	O
@@ -88004,8 +87176,7 @@ benefits	O
 ,	O
 their	O
 expected	O
-gen-	O
-erosity	O
+generosity	O
 in	O
 sharing	O
 those	O
@@ -88016,8 +87187,7 @@ their	O
 outside	O
 options	O
 for	O
-produc-	O
-tion	O
+production	O
 (	O
 barclay	O
 ,	O
@@ -88060,8 +87230,7 @@ had	O
 important	O
 effects	O
 on	O
-of-	O
-fers	O
+offers	O
 and	O
 demands	O
 in	O
@@ -88578,8 +87747,7 @@ gets	O
 what	O
 theywantwhen	O
 they	O
-dis-	O
-agree	O
+disagree	O
 with	O
 their	O
 friends	O
@@ -88696,8 +87864,7 @@ roommate	O
 starting	O
 a	O
 small	O
-busi-	O
-ness	O
+business	O
 together	O
 ,	O
 etc	O
@@ -88951,8 +88118,7 @@ exhibited	O
 linear	O
 change	O
 by	O
-com-	O
-paring	O
+comparing	O
 unconditional	B-TN
 means	I-TN
 models	I-TN
@@ -89109,8 +88275,7 @@ stability	O
 ,	O
 indicating	O
 the	O
-propor-	O
-tion	O
+proportion	O
 of	O
 total	O
 variance	O
@@ -89127,8 +88292,7 @@ time	O
 attributable	O
 to	O
 between-person	O
-differ-	O
-ences	O
+differences	O
 .	O
 
 unconditional	B-TN
@@ -89372,8 +88536,7 @@ aic	B-TN
 for	O
 the	O
 model	O
-includ-	O
-ing	O
+including	O
 a	O
 cubic	O
 term	O
@@ -89384,8 +88547,7 @@ smallest	O
 it	O
 differed	O
 only	O
-margin-	O
-ally	O
+marginally	O
 from	O
 that	O
 with	O
@@ -90380,8 +89542,7 @@ influences	O
 in	O
 a	O
 seemingly	O
-un-	O
-related	O
+unrelated	O
 gambling	O
 survey	O
 participants	O
@@ -90389,8 +89550,7 @@ participants	O
 preferences	O
 for	O
 a	O
-risk-	O
-ier	O
+riskier	O
 (	O
 i.e.	O
 ,	O
@@ -90401,8 +89561,7 @@ reward	O
 but	O
 potentially	O
 more	O
-lucra-	O
-tive	O
+lucrative	O
 lottery	O
 .	O
 
@@ -90445,8 +89604,7 @@ mood	O
 in	O
 general	O
 and	O
-sad-	O
-ness	O
+sadness	O
 in	O
 particular	O
 influence	O
@@ -90509,8 +89667,7 @@ influence	O
 of	O
 affect	O
 and	O
-self-	O
-esteem	O
+selfesteem	O
 in	O
 the	O
 process	O
@@ -90543,8 +89700,7 @@ to	O
 ascertain	O
 whether	O
 our	O
-experi-	O
-mental	O
+experimental	O
 findings	O
 replicate	O
 in	O
@@ -90552,8 +89708,7 @@ the	O
 real	O
 world	O
 with	O
-heteroge-	O
-neous	O
+heterogeneous	O
 populations	O
 (	O
 e.g.	O
@@ -90601,8 +89756,7 @@ but	O
 potentially	O
 more	O
 lucrative	O
-fi-	O
-nancial	O
+financial	O
 decision-making	O
 .	O
 
@@ -90627,8 +89781,7 @@ although	O
 supportive	O
 of	O
 our	O
-pre-	O
-dictions	O
+predictions	O
 ,	O
 study	B-SD
 1	I-SD
@@ -90691,8 +89844,7 @@ indicated	O
 their	O
 relative	O
 preference	O
-be-	O
-tween	O
+between	O
 two	O
 options	O
 this	O
@@ -90708,8 +89860,7 @@ assess	O
 the	O
 impact	O
 of	O
-so-	O
-cial	O
+social	O
 exclusion	O
 on	O
 financial	O
@@ -90790,8 +89941,7 @@ the	O
 first	O
 of	O
 which	O
-con-	O
-cerns	O
+concerns	O
 the	O
 directional	O
 impact	O
@@ -90800,8 +89950,7 @@ social	O
 exclusion	O
 (	O
 vs.	O
-inclu-	O
-sion	O
+inclusion	O
 )	O
 on	O
 financial	O
@@ -90885,8 +90034,7 @@ well	O
 as	O
 a	O
 different	O
-mea-	O
-sure	O
+measure	O
 of	O
 risk	O
 taking	O
@@ -90909,8 +90057,7 @@ manipulation	O
 (	O
 i.e.	O
 ,	O
-cy-	O
-berball	O
+cyberball	O
 )	O
 and	O
 that	O
@@ -90920,8 +90067,7 @@ even	O
 when	O
 real	O
 financial	O
-conse-	O
-quences	O
+consequences	O
 are	O
 at	O
 stake	O
@@ -90945,8 +90091,7 @@ affect	O
 to	O
 be	O
 improbable	O
-alter-	O
-native	O
+alternative	O
 explanations	O
 for	O
 our	O
@@ -90955,8 +90100,7 @@ findings	O
 study	B-SD
 2	I-SD
 was	O
-instru-	O
-mental	O
+instrumental	O
 in	O
 shedding	O
 light	O
@@ -90964,8 +90108,7 @@ on	O
 what	O
 the	O
 underlying	O
-mecha-	O
-nism	O
+mechanism	O
 for	O
 our	O
 results	O
@@ -90990,8 +90133,7 @@ may	O
 indeed	O
 mediate	O
 the	O
-rela-	O
-tionship	O
+relationship	O
 between	O
 social	O
 exclusion	O
@@ -91093,8 +90235,7 @@ pretense	O
 of	O
 a	O
 memory	O
-ex-	O
-periment	O
+experiment	O
 ,	O
 we	O
 invited	O
@@ -91136,8 +90277,7 @@ $	O
 400	O
 )	O
 but	O
-asymmet-	O
-rical	O
+asymmetrical	O
 odds	O
 (	O
 i.e.	O
@@ -91220,8 +90360,7 @@ their	O
 inclusion/exclusion	O
 condition	O
 and	O
-instrumentality-in-	O
-d	O
+instrumentality-ind	O
 ow	O
 nloaded	O
 from	O
@@ -91343,8 +90482,7 @@ evidence	O
 for	O
 the	O
 process	O
-hy-	O
-pothesized	O
+hypothesized	O
 ;	O
 feeling	O
 excluded	O
@@ -91371,8 +90509,7 @@ decision-making	O
 
 hoping	O
 to	O
-com-	O
-plement	O
+complement	O
 these	O
 results	O
 with	O
@@ -91475,8 +90612,7 @@ of	O
 money	O
 to	O
 secure	O
-con-	O
-trol	O
+control	O
 :	O
 baseline	O
 vs.	O
@@ -91603,8 +90739,7 @@ this	O
 end	O
 ,	O
 we	O
-fol-	O
-d	O
+fold	O
 ow	O
 nloaded	O
 from	O
@@ -91689,8 +90824,7 @@ four-step	O
 approach	O
 to	O
 mediated	O
-modera-	O
-tion	O
+moderation	O
 .	O
 
 discussion	O
@@ -91795,8 +90929,7 @@ mediation	O
 ,	O
 study	B-SD
 4	I-SD
-solid-	O
-ifies	O
+solidifies	O
 and	O
 extends	O
 our	O
@@ -91818,9 +90951,7 @@ and	O
 experimentally	O
 )	O
 on	O
-af-	O
-fect-	O
-and	O
+fectand	O
 esteem-based	O
 accounts	O
 to	O
@@ -91917,8 +91048,7 @@ who	O
 were	O
 dispatched	O
 around	O
-shop-	O
-ping	O
+shopping	O
 malls	O
 ,	O
 subway	O
@@ -92021,8 +91151,7 @@ contributions	O
 first	O
 ,	O
 by	O
-doc-	O
-umenting	O
+documenting	O
 that	O
 social	O
 exclusion	O
@@ -92038,8 +91167,7 @@ plans	O
 ,	O
 study	B-SD
 5	I-SD
-sug-	O
-gests	O
+suggests	O
 that	O
 the	O
 realm	O
@@ -92066,8 +91194,7 @@ world	O
 the	O
 same	O
 risk-taking	O
-propen-	O
-sities	O
+propensities	O
 exhibited	O
 in	O
 laboratory	O
@@ -92128,8 +91255,7 @@ so	O
 study	B-SD
 5	I-SD
 also	O
-con-	O
-firms	O
+confirms	O
 that	O
 the	O
 impact	O
@@ -92149,8 +91275,7 @@ manipulations	O
 and	O
 applies	O
 to	O
-con-	O
-sumers	O
+consumers	O
 ’	O
 chronic	O
 feelings	O
@@ -92191,8 +91316,7 @@ of	O
 social	O
 inclusion/exclusion	O
 (	O
-wil-	O
-liams	O
+williams	O
 et	O
 al	O
 .	O
@@ -92241,8 +91365,7 @@ baseline	O
 inclusion	O
 ,	O
 and	O
-negative-	O
-mood	O
+negativemood	O
 conditions	O
 who	O
 did	O
@@ -92264,8 +91387,7 @@ study	B-SD
 s	O
 results	O
 by	O
-con-	O
-trasting	O
+contrasting	O
 the	O
 specific	O
 impact	O
@@ -92282,8 +91404,7 @@ the	O
 inclusion	O
 and	O
 baseline	O
-con-	O
-ditions	O
+conditions	O
 )	O
 and	O
 by	O
@@ -92338,8 +91459,7 @@ the	O
 relationship	O
 between	O
 social	O
-exclu-	O
-sion	O
+exclusion	O
 and	O
 financial	O
 risk-taking	O
@@ -92380,8 +91500,7 @@ study	B-SD
 4	I-SD
 provided	O
 both	O
-moderation-	O
-and	O
+moderationand	O
 mediation-based	O
 evidence	O
 for	O
@@ -92399,8 +91518,7 @@ self-esteem	O
 are	O
 improbable	O
 alternative	O
-ex-	O
-planations	O
+explanations	O
 .	O
 
 to	O
@@ -92410,8 +91528,7 @@ effect	O
 we	O
 found	O
 that	O
-so-	O
-cially	O
+socially	O
 included	O
 participants	O
 exhibited	O
@@ -92449,8 +91566,7 @@ indirect	O
 physical	O
 contact	O
 with	O
-trans-	O
-gressors	O
+transgressors	O
 affects	O
 others	O
 '	O
@@ -92461,8 +91577,7 @@ emotions	O
 which	O
 can	O
 be	O
-consid-	O
-ered	O
+considered	O
 a	O
 kind	O
 of	O
@@ -92493,8 +91608,7 @@ efforts	O
 .	O
 
 upon	O
-enter-	O
-ing	O
+entering	O
 the	O
 experimental	O
 room	O
@@ -92599,8 +91713,7 @@ validity	O
 ,	O
 we	O
 performed	O
-sepa-	O
-rate	O
+separate	O
 t-tests	B-TN
 on	O
 other	O
@@ -92634,8 +91747,7 @@ moral	O
 essences	O
 are	O
 indirectly	O
-conta-	O
-gious	O
+contagious	O
 .	O
 
 to	O
@@ -92770,8 +91882,7 @@ second	O
 step	O
 ,	O
 results	O
-re-	O
-vealed	O
+revealed	O
 amain	O
 effect	O
 of	O
@@ -92957,8 +92068,7 @@ to	O
 equal	O
 and	O
 unequal	O
-distribu-	O
-tions	O
+distributions	O
 varies	O
 as	O
 a	O
@@ -93067,8 +92177,7 @@ in	O
 experiment	B-SD
 1	I-SD
 and	O
-experi-	B-SD
-ment	I-SD
+experiment	B-SD
 2	I-SD
 .	O
 
@@ -93082,8 +92191,7 @@ work	O
 on	O
 infants	O
 ’	O
-abil-	O
-ity	O
+ability	O
 to	O
 represent	O
 dominance	O
@@ -93147,8 +92255,7 @@ detect	O
 reversals	O
 of	O
 social	O
-domi-	O
-nance	O
+dominance	O
 (	O
 mascaro	O
 &	O
@@ -93163,8 +92270,7 @@ using	O
 a	O
 novel	O
 dominance	O
-sit-	O
-uation	O
+situation	O
 .	O
 
 before	O
@@ -93187,8 +92293,7 @@ to	O
 determine	O
 whether	O
 ,	O
-17-month-	O
-old	O
+17-monthold	O
 infants	O
 could	O
 detect	O
@@ -93277,8 +92382,7 @@ procedural	O
 error	O
 of	O
 the	O
-com-	O
-1	O
+com1	O
 pilot	O
 work	O
 suggested	O
@@ -93346,8 +92450,7 @@ test	O
 trial	O
 outcomes	O
 interrater	O
-relia-	O
-bility	O
+reliability	O
 was	O
 also	O
 high	O
@@ -93538,8 +92641,7 @@ notice	O
 changes	O
 to	O
 the	O
-domi-	O
-nance	O
+dominance	O
 structure	O
 .	O
 
@@ -93585,8 +92687,7 @@ in	O
 the	O
 objects	O
 the	O
-pup-	O
-pets	O
+puppets	O
 were	O
 sitting	O
 on	O
@@ -93907,8 +93008,7 @@ habituation	O
 trial	O
 outcomes	O
 interrater	O
-relia-	O
-bility	O
+reliability	O
 was	O
 high	O
 ,	O
@@ -93964,8 +93064,7 @@ the	O
 last	O
 three	O
 habituation	O
-out-	O
-comes	O
+outcomes	O
 ,	O
 t	O
 (	O
@@ -94176,8 +93275,7 @@ at	O
 the	O
 test	O
 trial	O
-out-	O
-comes	O
+outcomes	O
 in	O
 exp1	O
 than	O
@@ -94202,8 +93300,7 @@ analysis	O
 revealed	O
 a	O
 significant	O
-inter-	O
-action	O
+interaction	O
 between	O
 experiment	O
 and	O
@@ -94273,8 +93370,7 @@ different	O
 chairs	O
 and	O
 no	O
-domi-	O
-nance	O
+dominance	O
 cues	O
 were	O
 present	O
@@ -94308,8 +93404,7 @@ at	O
 the	O
 same	O
 chair	O
-out-	O
-come	O
+outcome	O
 across	O
 experiments	O
 ,	O
@@ -94593,8 +93688,7 @@ watched	O
 the	O
 videos	O
 from	O
-experi-	B-SD
-ment	I-SD
+experiment	B-SD
 2	I-SD
 (	O
 no	O
@@ -94665,8 +93759,7 @@ habituation	O
 trial	O
 outcomes	O
 interrater	O
-relia-	O
-bility	O
+reliability	O
 was	O
 high	O
 ,	O
@@ -94901,8 +93994,7 @@ in	O
 the	O
 absence	O
 of	O
-informa-	O
-tion	O
+information	O
 about	O
 relative	O
 dominance	O
@@ -94979,8 +94071,7 @@ trials	O
 .	O
 
 after	O
-habituat-	O
-ing	O
+habituating	O
 to	O
 a	O
 video	O
@@ -95214,8 +94305,7 @@ habituation	O
 trial	O
 outcomes	O
 interrater	O
-relia-	O
-bility	O
+reliability	O
 was	O
 high	O
 ,	O
@@ -95272,8 +94362,7 @@ the	O
 last	O
 three	O
 habituation	O
-out-	O
-comes	O
+outcomes	O
 ,	O
 t	O
 (	O
@@ -95296,8 +94385,7 @@ equal	O
 and	O
 unequal	O
 favors	O
-domi-	O
-nant	O
+dominant	O
 test	O
 videos	O
 ,	O
@@ -95391,8 +94479,7 @@ unequal	O
 )	O
 as	O
 the	O
-within-	O
-subjects	O
+withinsubjects	O
 measure	O
 and	O
 experiment	O
@@ -95435,8 +94522,7 @@ of	O
 looking	O
 based	O
 on	O
-exper-	O
-iment	O
+experiment	O
 (	O
 experiment	B-SD
 3	I-SD
@@ -95570,8 +94656,7 @@ comparing	O
 the	O
 unequal	O
 test	O
-out-	O
-comes	O
+outcomes	O
 across	O
 the	O
 experiments	O
@@ -95699,8 +94784,7 @@ to	O
 differentiate	O
 between	O
 these	O
-pos-	O
-sibilities	O
+possibilities	O
 ,	O
 experiment	B-SD
 5	I-SD
@@ -95865,8 +94949,7 @@ the	O
 puppet	O
 that	O
 was	O
-sub-	O
-missive	O
+submissive	O
 during	O
 the	O
 dominance	O
@@ -95966,8 +95049,7 @@ habituation	O
 trial	O
 outcomes	O
 interrater	O
-relia-	O
-bility	O
+reliability	O
 was	O
 high	O
 ,	O
@@ -96078,8 +95160,7 @@ and	O
 the	O
 unequal	O
 favors	O
-submis-	O
-sive	O
+submissive	O
 outcome	O
 ,	O
 t	O
@@ -96190,8 +95271,7 @@ significant	O
 main	O
 effect	O
 of	O
-look-	O
-ing	O
+looking	O
 based	O
 on	O
 experiment	O
@@ -96296,8 +95376,7 @@ comparing	O
 the	O
 unequal	O
 test	O
-out-	O
-comes	O
+outcomes	O
 across	O
 the	O
 experiments	O
@@ -96563,8 +95642,7 @@ n	B-SS
 joking	O
 cousins	O
 from	O
-dif-	O
-ferent	O
+different	O
 ethnic	O
 groups	O
 (	O
@@ -96652,8 +95730,7 @@ n	B-SS
 
 we	O
 then	O
-cata-	O
-logued	O
+catalogued	O
 the	O
 surnames	O
 associated	O
@@ -96724,8 +95801,7 @@ n	B-SS
 =	I-SS
 169	I-SS
 ,	O
-respec-	O
-tively	O
+respectively	O
 )	O
 to	O
 test	O
@@ -96786,8 +95862,7 @@ joking	O
 cousins	O
 from	O
 a	O
-differ-	O
-ent	O
+different	O
 ethnic	O
 group	O
 and	O
@@ -96872,8 +95947,7 @@ were	O
 contacted	O
 prior	O
 for	O
-participa-	O
-tion	O
+participation	O
 in	O
 the	O
 pilot	O
@@ -96887,8 +95961,7 @@ mailed	O
 invitations	O
 ,	O
 161	B-SS
-par-	O
-ticipants	O
+participants	O
 agreed	O
 to	O
 participate	O
@@ -96928,8 +96001,7 @@ regression	I-TN
 models	I-TN
 for	O
 the	O
-eq-	O
-5d-5l	O
+eq5d-5l	O
 and	O
 icecap-o	O
 index	O
@@ -96941,8 +96013,7 @@ tobit	B-TN
 model	I-TN
 is	O
 the	O
-recom-	O
-mended	O
+recommended	O
 model	O
 for	O
 qol	O
@@ -97048,8 +96119,7 @@ icecap-o	O
 index	O
 scores	O
 ,	O
-pre-	O
-sented	O
+presented	O
 in	O
 appendices	O
 1	O
@@ -97970,8 +97040,7 @@ access	O
 substantive	O
 programs	O
 and	O
-ser-	O
-vices	O
+services	O
 (	O
 see	O
 ,	O
@@ -97993,8 +97062,7 @@ call	O
 for	O
 studies	O
 of	O
-bu-	O
-reaucrats	O
+bureaucrats	O
 )	O
 .	O
 
@@ -98013,8 +97081,7 @@ over	O
 3,300	B-SS
 public	O
 housing	O
-author-	O
-ities	O
+authorities	O
 (	O
 department	O
 of	O
@@ -98032,8 +97099,7 @@ hud	O
 each	O
 housing	O
 authority	O
-re-	O
-ceived	O
+received	O
 an	O
 e-mail	O
 on	O
@@ -98052,8 +97118,7 @@ e-mailed	O
 all	O
 public	O
 housing	O
-authori-	O
-ties	O
+authorities	O
 that	O
 could	O
 plausibly	O
@@ -98107,8 +97172,7 @@ find	O
 strong	O
 evidence	O
 of	O
-differ-	O
-ent	O
+different	O
 responsiveness	O
 by	O
 race	O
@@ -98178,8 +97242,7 @@ the	O
 one	O
 hand	O
 ,	O
-attribut-	O
-ing	O
+attributing	O
 systematic	O
 discrimination	O
 on	O
@@ -98211,8 +97274,7 @@ data	O
 
 the	O
 difference	O
-be-	O
-tween	O
+between	O
 blacks	O
 and	O
 hispanics	O
@@ -98281,8 +97343,7 @@ this	O
 difference	O
 is	O
 highly	O
-signifi-	O
-cant	O
+significant	O
 (	O
 p	B-PV
 =	I-PV
@@ -98325,8 +97386,7 @@ p	B-PV
 )	O
 .	O
 
-sim-	O
-ilarly	O
+similarly	O
 ,	O
 conditional	O
 on	O
@@ -98345,8 +97405,7 @@ in	O
 hours	O
 to	O
 hispanic	O
-appli-	O
-cants	O
+applicants	O
 (	O
 white	O
 :	O
@@ -98426,8 +97485,7 @@ of	O
 the	O
 hispanic	O
 population	O
-dis-	O
-tribution	O
+distribution	O
 compared	O
 to	O
 those	O
@@ -98596,8 +97654,7 @@ the	O
 black	O
 response	O
 rates	O
-ex-	O
-ceed	O
+exceed	O
 those	O
 of	O
 hispanics	O
@@ -98732,8 +97789,7 @@ african	O
 americans	O
 and	O
 caucasian	O
-amer-	O
-icans	O
+americans	O
 ,	O
 the	O
 study	O
@@ -98775,8 +97831,7 @@ considered	O
 by	O
 calculating	O
 the	O
-hol-	B-TN
-lingshead	I-TN
+hollingshead	B-TN
 two-factor	I-TN
 index	I-TN
 (	I-TN
@@ -98821,8 +97876,7 @@ variables	O
 .	O
 
 hierarchical	B-TN
-regres-	I-TN
-sion	I-TN
+regression	I-TN
 analyses	I-TN
 were	O
 conducted	O
@@ -98975,8 +98029,7 @@ that	O
 this	O
 model	O
 significantly	O
-ex-	O
-plains	O
+explains	O
 variance	O
 in	O
 cd25	O
@@ -99360,8 +98413,7 @@ proposed	O
 moderating	O
 role	O
 of	O
-pre-	O
-versus	O
+preversus	O
 postpurchase	O
 evaluation	O
 .	O
@@ -99383,8 +98435,7 @@ thinking	O
 about	O
 using	O
 a	O
-prod-	O
-uct	O
+product	O
 (	O
 sneakers	O
 )	O
@@ -99455,8 +98506,7 @@ n	O
 =	O
 46	O
 )	O
-sup-	O
-ported	O
+supported	O
 the	O
 manipulation	O
 ,	O
@@ -99483,8 +98533,7 @@ there	O
 among	O
 the	O
 usage	O
-ex-	O
-periences	O
+experiences	O
 you	O
 have	O
 had	O
@@ -99561,8 +98610,7 @@ variance	I-TN
 anova	B-TN
 )	O
 on	O
-post-	O
-purchase	O
+postpurchase	O
 evaluation	O
 revealed	O
 the	O
@@ -99757,8 +98805,7 @@ alternative	O
 explanations	O
 .	O
 
-al-	O
-though	O
+although	O
 study	B-SD
 1	I-SD
 supports	O
@@ -100126,16 +99173,14 @@ appendix	O
 a.2	O
 perceiving	O
 usage	O
-ex-	O
-periences	O
+experiences	O
 as	O
 less	O
 varied	O
 thus	O
 increases	O
 postpurchase	O
-eval-	O
-uation	O
+evaluation	O
 for	O
 a	O
 variety	O
@@ -100365,8 +99410,7 @@ found	O
 that	O
 perceiving	O
 usage	O
-ex-	O
-periences	O
+experiences	O
 as	O
 less	O
 varied	O
@@ -100536,8 +99580,7 @@ for	O
 nonnormality	O
 in	O
 its	O
-dis-	O
-tribution	O
+distribution	O
 (	O
 kolmogorov–smirnov	O
 test	O
@@ -100602,8 +99645,7 @@ consistent	O
 with	O
 the	O
 prior	O
-find-	O
-ings	O
+findings	O
 ,	O
 there	O
 was	O
@@ -100632,8 +99674,7 @@ perceived	O
 experience	O
 variety	O
 and	O
-down-	O
-stream	O
+downstream	O
 outcomes	O
 (	O
 r	O
@@ -100834,8 +99875,7 @@ hedonic	O
 2	O
 (	O
 experience	O
-va-	O
-riety	O
+variety	O
 :	O
 identical	O
 vs.	O
@@ -100980,8 +100020,7 @@ a	O
 main	O
 effect	O
 of	O
-va-	O
-riety	O
+variety	O
 (	O
 f	O
 (	O
@@ -101000,8 +100039,7 @@ p	B-PV
 qualified	O
 by	O
 an	O
-interac-	O
-tion	O
+interaction	O
 (	O
 f	O
 (	O
@@ -101042,8 +100080,7 @@ varied	O
 usage	O
 experiences	O
 improved	O
-post-	O
-purchase	O
+postpurchase	O
 evaluation	O
 (	O
 midentical	O
@@ -101196,8 +100233,7 @@ vs.	O
 varied	O
 )	O
 usage	O
-expe-	O
-riences	O
+experiences	O
 increased	O
 how	O
 often	O
@@ -101294,8 +100330,7 @@ ran	O
 a	O
 bias-corrected	B-TN
 moderated	I-TN
-me-	I-TN
-diation	I-TN
+mediation	I-TN
 analysis	I-TN
 (	O
 hayes	O
@@ -101345,8 +100380,7 @@ did	O
 not	O
 affect	O
 usage	O
-fre-	O
-quency	O
+frequency	O
 judgments	O
 or	O
 product	O
@@ -101382,8 +100416,7 @@ our	O
 prior	O
 findings	O
 by	O
-pro-	O
-ducing	O
+producing	O
 the	O
 same	O
 results	O
@@ -101415,8 +100448,7 @@ additional	O
 support	O
 for	O
 the	O
-un-	O
-derlying	O
+underlying	O
 mechanism	O
 (	O
 h2	O
@@ -101599,8 +100631,7 @@ experiences	O
 with	O
 products	O
 they	O
-al-	O
-ready	O
+already	O
 own	O
 .	O
 
@@ -101615,8 +100646,7 @@ of	O
 a	O
 west	O
 coast	O
-uni-	O
-versity	O
+university	O
 ’	O
 s	O
 community	O
@@ -101639,8 +100669,7 @@ study	O
 in	O
 exchange	O
 for	O
-pay-	O
-ment	O
+payment	O
 .	O
 
 pretest	O
@@ -101662,8 +100691,7 @@ study	O
 and	O
 reported	O
 their	O
-per-	O
-ceptions	O
+perceptions	O
 of	O
 experience	O
 variety	O
@@ -101826,8 +100854,7 @@ variety	O
 anova	B-TN
 on	O
 variety	O
-percep-	O
-tions	O
+perceptions	O
 revealed	O
 a	O
 main	O
@@ -102000,8 +101027,7 @@ more	O
 varied	O
 past	O
 usage	O
-expe-	O
-riences	O
+experiences	O
 improved	O
 postpurchase	O
 evaluation	O
@@ -102103,8 +101129,7 @@ revealed	O
 main	O
 effects	O
 of	O
-ex-	O
-perience	O
+experience	O
 variety	O
 (	O
 f	O
@@ -102296,8 +101321,7 @@ considered	O
 varied	O
 future	O
 usage	O
-ex-	O
-periences	O
+experiences	O
 with	O
 a	O
 hypothetical	O
@@ -102327,8 +101351,7 @@ considered	O
 varied	O
 past	O
 usage	O
-ex-	O
-periences	O
+experiences	O
 with	O
 a	O
 past	O
@@ -102409,8 +101432,7 @@ ran	O
 a	O
 bias-corrected	B-TN
 moderated	I-TN
-me-	I-TN
-diation	I-TN
+mediation	I-TN
 analysis	I-TN
 (	O
 hayes	O
@@ -102458,8 +101480,7 @@ significant	O
 main	O
 effects	O
 or	O
-in-	O
-teraction	O
+interaction	O
 (	O
 all	O
 p	O
@@ -102477,8 +101498,7 @@ underlying	O
 role	O
 of	O
 usage	O
-fre-	O
-quency	O
+frequency	O
 perceptions	O
 (	O
 h2	O
@@ -102529,8 +101549,7 @@ experiences	O
 (	O
 or	O
 behavioral	O
-consis-	O
-tency	O
+consistency	O
 ;	O
 cialdini	O
 ,	O
@@ -102561,8 +101580,7 @@ they	O
 thus	O
 seem	O
 to	O
-spontane-	O
-ously	O
+spontaneously	O
 draw	O
 on	O
 preexisting	O
@@ -102613,8 +101631,7 @@ postpurchase	O
 conditions	O
 (	O
 past	O
-experi-	O
-ences	O
+experiences	O
 :	O
 ab	O
 =	O
@@ -102768,8 +101785,7 @@ the	O
 product	O
 ,	O
 and	O
-will-	O
-ingness	O
+willingness	O
 to	O
 recommend	O
 the	O
@@ -102791,8 +101807,7 @@ and	I-SD
 in	O
 particular	O
 ,	O
-expe-	O
-rience	O
+experience	O
 variety	O
 had	O
 a	O
@@ -102891,8 +101906,7 @@ study	B-SD
 )	O
 or	O
 in	O
-pre-	O
-purchase	O
+prepurchase	O
 evaluation	O
 (	O
 study	B-SD
@@ -102904,8 +101918,7 @@ indeed	O
 ,	O
 study	B-SD
 4	I-SD
-dem-	O
-onstrated	O
+demonstrated	O
 that	O
 more	O
 frequent	O
@@ -103039,8 +102052,7 @@ product	O
 category	O
 mpleasurable	O
 mfunctional	O
-paired-	O
-samples	O
+pairedsamples	O
 t-test	O
 p-value	O
 clothes	O
@@ -103123,8 +102135,7 @@ variables	O
 
 for	O
 sampling	O
-lim-	O
-itations	O
+limitations	O
 ,	O
 critical	O
 interactions	O
@@ -103206,8 +102217,7 @@ as	O
 planned	O
 contrasts	O
 that	O
-com-	O
-pare	O
+compare	O
 how	O
 disavowed	O
 political	O
@@ -103303,11 +102313,9 @@ models	O
 without	O
 the	O
 critical	O
-two-	O
-or	O
+twoor	O
 three-way	O
-in-	O
-teractions	O
+interactions	O
 .	O
 
 republicans	O
@@ -103366,8 +102374,7 @@ the	O
 interaction	O
 with	O
 statement	O
-di-	O
-rectness	O
+directness	O
 .	O
 
 to	O
@@ -103416,8 +102423,7 @@ with	O
 the	O
 likert	O
 scale	O
-con-	O
-fidence	O
+confidence	O
 score	O
 entered	O
 as	O
@@ -103523,8 +102529,7 @@ however	O
 based	O
 on	O
 the	O
-in-	O
-dividual-level	O
+individual-level	O
 planned	O
 contrasts	O
 collapsed	O
@@ -103696,8 +102701,7 @@ knowledge	O
 items	O
 )	O
 was	O
-statis-	O
-tically	O
+statistically	O
 significant	O
 ,	O
 b	O
@@ -103717,8 +102721,7 @@ p	B-PV
 =	I-PV
 0.026	I-PV
 ,	O
-in-	O
-dicating	O
+indicating	O
 a	O
 longer	O
 time	O
@@ -103728,8 +102731,7 @@ endorse	O
 party	O
 concordant	O
 bush	O
-poli-	O
-tical	O
+political	O
 conspiracies	O
 .	O
 
@@ -103772,8 +102774,7 @@ disavowal	O
 ”	O
 option	O
 while	O
-en-	O
-dorsing	O
+endorsing	O
 party	O
 concordant	O
 bush	O
@@ -103825,8 +102826,7 @@ between	O
 maximizing	O
 absolute	O
 versus	O
-rela-	O
-tive	O
+relative	O
 gains	O
 ,	O
 testing	O
@@ -103835,8 +102835,7 @@ ovulating	O
 women	O
 are	O
 more	O
-moti-	O
-vated	O
+motivated	O
 to	O
 choose	O
 products	O
@@ -103879,8 +102878,7 @@ ovulating	O
 women	O
 aim	O
 to	O
-materi-	O
-ally	O
+materially	O
 outdo	O
 other	O
 women	O
@@ -103926,8 +102924,7 @@ game	O
 ,	O
 testing	O
 whether	O
-ovulat-	O
-ing	O
+ovulating	O
 women	O
 give	O
 less	O
@@ -103964,8 +102961,7 @@ competition	O
 hypothesis	O
 suggests	O
 that	O
-ovu-	O
-lation	O
+ovulation	O
 should	O
 boost	O
 women	O
@@ -103974,8 +102970,7 @@ s	O
 desire	O
 for	O
 positional	O
-advan-	O
-tage	O
+advantage	O
 .	O
 
 method	O
@@ -104014,8 +103009,7 @@ were	O
 not	O
 on	O
 hormonal	O
-con-	O
-traception	O
+contraception	O
 ,	O
 and	O
 were	O
@@ -104072,8 +103066,7 @@ entire	O
 cycle	O
 into	O
 the	O
-fol-	O
-lowing	O
+following	O
 two	O
 groups	O
 :	O
@@ -104228,8 +103221,7 @@ test	O
 an	O
 important	O
 boundary	O
-condi-	O
-tion	O
+condition	O
 of	O
 how	O
 the	O
@@ -104380,8 +103372,7 @@ difference	O
 in	O
 choices	O
 across	O
-fertil-	O
-ity	O
+fertility	O
 (	O
 p	B-PV
 =	I-PV
@@ -104392,8 +103383,7 @@ p	B-PV
 a	O
 repeated-measures	O
 logistic	B-TN
-regres-	I-TN
-sion	I-TN
+regression	I-TN
 revealed	O
 a	O
 significant	O
@@ -104487,8 +103477,7 @@ option	O
 did	O
 not	O
 reach	O
-conven-	O
-tional	O
+conventional	O
 levels	O
 of	O
 significance	O
@@ -104527,8 +103516,7 @@ gains	O
 option	O
 again	O
 tracked	O
-fertil-	O
-ity	O
+fertility	O
 hormones	O
 across	O
 the	O
@@ -104826,8 +103814,7 @@ resulted	O
 in	O
 148	B-SS
 million	I-SS
-county-	O
-mapped	O
+countymapped	O
 tweets	O
 across	O
 1,347	O
@@ -104917,8 +103904,7 @@ the	O
 sizes	O
 of	O
 the	O
-stan-	O
-dardized	O
+standardized	O
 residuals	O
 of	O
 county-level	O
@@ -104933,8 +103919,7 @@ use	O
 of	O
 positive-emotion	O
 and	O
-engage-	O
-ment	O
+engagement	O
 words	O
 was	O
 associated	O
@@ -104986,8 +103971,7 @@ ci	O
 but	O
 use	O
 of	O
-positive-	O
-emotion	O
+positiveemotion	O
 words	O
 became	O
 only	O
@@ -105013,8 +103997,7 @@ ci	O
 
 usage	O
 of	O
-positive-relation-	O
-ships	O
+positive-relationships	O
 words3	O
 showed	O
 a	O
@@ -105114,8 +104097,7 @@ ci	O
 hate	O
 and	O
 interpersonal	O
-ten-	O
-sion	O
+tension	O
 (	O
 jealous	O
 ,	O
@@ -105209,8 +104191,7 @@ significantly	O
 correlated	O
 with	O
 ahd	O
-mortal-	O
-ity	O
+mortality	O
 at	O
 bonferroni-corrected	O
 levels	O
@@ -105363,8 +104344,7 @@ topics	O
 reflecting	O
 optimism	O
 (	O
-oppor-	O
-tunities	O
+opportunities	O
 ,	O
 goals	O
 ,	O
@@ -105409,8 +104389,7 @@ associated	O
 with	O
 reduced	O
 cardiovascular	O
-dis-	O
-ease	O
+disease	O
 risk	O
 at	O
 the	O
@@ -105436,8 +104415,7 @@ performance	O
 was	O
 slightly	O
 but	O
-signifi-	O
-cantly	O
+significantly	O
 better	O
 for	O
 a	O
@@ -105465,8 +104443,7 @@ only	O
 the	O
 10	O
 traditional	O
-predic-	O
-tors	O
+predictors	O
 (	O
 twitter	O
 plus	O
@@ -105596,8 +104573,7 @@ of	O
 negative-emotion	O
 words	O
 (	O
-rela-	O
-tive	O
+relative	O
 risk,5	O
 or	O
 rr	B-ES
@@ -105625,8 +104601,7 @@ rr	B-ES
 were	O
 comparable	O
 to	O
-individ-	O
-ual-level	O
+individual-level	O
 meta-analytic	O
 effect	O
 sizes	O
@@ -105950,8 +104925,7 @@ agree	O
 ,	O
 loved	O
 )	O
-corre-	O
-lated	O
+correlated	O
 with	O
 higher	O
 ses	O
@@ -105966,8 +104940,7 @@ a	O
 partnership	O
 factor	O
 (	O
-rela-	O
-tionship	O
+relationship	O
 ,	O
 boyfriend	O
 ,	O

@@ -117,6 +117,9 @@ if __name__ == '__main__':
     if args.task == "repr":
         inputs, labels, train_iter, dev_iter, test_iter, train_set, dev_set = get_data_iterators_repr(
             train_lm=True)
+    elif args.task == "repr_ner":
+        inputs, labels, train_iter, dev_iter, test_iter, train_set, dev_set = get_data_iterators_repr_ner(
+            train_lm=True)
     else:
         raise ValueError('unknown task')
 
