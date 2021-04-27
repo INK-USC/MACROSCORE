@@ -26,3 +26,10 @@
 
 # In tagtog_annotations
 /tagtog_annotations/annotations_data/*
+
+# In score_utils
+/score_utils/notebooks/data/*
+/score_utils/s2orc-doc2json/pdfminer_outputs/*
+/score_utils/s2orc-doc2json/inputs/*
+/score_utils/s2orc-doc2json/temp_outputs/*
+/score_utils/s2orc-doc2json/outputs/*
