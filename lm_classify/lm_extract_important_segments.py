@@ -54,6 +54,7 @@ class REPRDataset(Dataset):
         self.targets = []
         self.foldids = []
         self.rawdata = []
+        self.rawsections = []
         self.paperids = []
         self.args = args
         self.type_path = type_path
@@ -66,6 +67,7 @@ class REPRDataset(Dataset):
             "inputs_len": self.inputs_len[index],
             "targets": self.targets[index],
             "raw_inputs": self.rawdata[index],
+            "raw_sections": self.rawsections[index],
             "paper_id": self.paperids[index]
         }
 
@@ -188,8 +190,15 @@ class REPRDataset(Dataset):
         device = self.device
         embeddings = []
         raw_inputs = []
-        for cur_section in content:
+        raw_sections = []
+        for section_idx, cur_section in enumerate(content):
             split_sentences = nltk.sent_tokenize(cur_section['text'])
+
+            if cur_section.get("heading") is not None:
+                cur_section_heading = cur_section["heading"]
+            else:
+                cur_section_heading = section_idx
+
             cur_sentence_tokens = []
             for sentence in split_sentences:
                 cur_tokens = sentence.split()
@@ -210,6 +219,7 @@ class REPRDataset(Dataset):
                         del input_ids
                         embeddings.append(cls_embedding)
                         raw_inputs.append(cur_sentence)
+                        raw_sections.append(cur_section_heading)
 
                     # if a single sentence is more than window size (cut it down)
                     if len(cur_tokens) > self.window_size:
@@ -218,7 +228,51 @@ class REPRDataset(Dataset):
                         cur_sentence_tokens = cur_tokens
 
         final_embs = torch.stack(embeddings)
-        return final_embs, len(embeddings), raw_inputs
+        return final_embs, len(embeddings), raw_inputs, raw_sections
+
+    def encode_paper_sentence_wise(self, content):
+        device = self.device
+        embeddings = []
+        raw_inputs = []
+        raw_sections = []
+        for section_idx, cur_section in enumerate(content):
+            if len(cur_section['text']) == 0:
+                continue
+
+            if cur_section.get("heading") is not None:
+                cur_section_heading = cur_section["heading"]
+            else:
+                cur_section_heading = section_idx
+
+            split_sentences = nltk.sent_tokenize(cur_section['text'])
+            for sentence in split_sentences:
+                cur_sentence_tokens = sentence.split()
+
+                # if a single sentence is more than window size (cut it down)
+                if len(cur_sentence_tokens) > self.window_size:
+                    cur_sentence_tokens = cur_sentence_tokens[:self.window_size]
+                else:
+                    cur_sentence_tokens = cur_sentence_tokens
+
+                # Filter out sentences with only urls/citations etc.
+                if len(cur_sentence_tokens) >= 7:
+                    cur_sentence = " ".join(cur_sentence_tokens)
+                    input_ids = torch.tensor(self.lm_tokenizer.encode(cur_sentence)).unsqueeze(0)  # Batch size 1
+                    try:
+                        input_ids = input_ids.to(device)
+                        outputs = self.lm_embeddings_model(input_ids)
+                    except Exception as e:
+                        print(e)
+                        continue
+                    cls_embedding = outputs[0][:, 0, :].squeeze().detach().cpu()
+                    del outputs
+                    del input_ids
+                    embeddings.append(cls_embedding)
+                    raw_inputs.append(cur_sentence)
+                    raw_sections.append(cur_section_heading)
+
+        final_embs = torch.stack(embeddings)
+        return final_embs, len(embeddings), raw_inputs, raw_sections
 
     def encode_claims(self, claims):
         device = self.device
@@ -242,14 +296,16 @@ class REPRDataset(Dataset):
 
     def _create_features(self, cur_input, cur_target, cur_fold, cur_pid):
         if self.feature_type == "content":
-            final_embeddings, doc_len, raw_inputs = self.encode_paper_sentence_split(cur_input)
+            final_embeddings, doc_len, raw_inputs, raw_sections = self.encode_paper_sentence_wise(cur_input)
         elif self.feature_type == "claim_only":
             final_embeddings, doc_len, raw_inputs = self.encode_claims(cur_input)
+            raw_sections = None
         else:
             raise ValueError("Feature type argument is invalid")
 
         self.paperids.append(cur_pid)
         self.rawdata.append(raw_inputs)
+        self.rawsections.append(raw_sections)
         self.inputs.append(final_embeddings)
         self.inputs_len.append(doc_len)
         self.targets.append(torch.tensor(cur_target))
@@ -257,7 +313,7 @@ class REPRDataset(Dataset):
 
 
 class AttentionModel(torch.nn.Module):
-    def __init__(self, batch_size, output_size, hidden_size, embedding_length):
+    def __init__(self, batch_size, output_size, hidden_size, embedding_length, bidirectional=False):
         super(AttentionModel, self).__init__()
         self.batch_size = batch_size
         self.output_size = output_size
@@ -269,14 +325,28 @@ class AttentionModel(torch.nn.Module):
         else:
             self.device = "cpu"
 
-        self.lstm = nn.LSTM(embedding_length, hidden_size, batch_first=True)
-        self.label = nn.Linear(hidden_size, output_size)
+        if bidirectional:
+            self.num_directions = 2
+            self.out_hidden_size = hidden_size * 2
+        else:
+            self.num_directions = 1
+            self.out_hidden_size = hidden_size
+
+        self.lstm = nn.LSTM(embedding_length, hidden_size, batch_first=True, bidirectional=bidirectional)
+        self.label = nn.Linear(self.out_hidden_size, output_size)
 
     def attention_net(self, lstm_output, final_state):
 
-        hidden = final_state.squeeze(0)
-        attn_weights = torch.bmm(lstm_output, hidden.unsqueeze(2)).squeeze(2)
+        # hidden = (batch_size x out_hidden_size x 1)
+        hidden = final_state.view(-1, self.out_hidden_size, 1)
+
+        # attn_weights = (batch_size x seq_length)
+        attn_weights = torch.bmm(lstm_output, hidden).squeeze(2)
+
+        # soft_attn_weights = (batch_size x seq_length)
         soft_attn_weights = F.softmax(attn_weights, 1)
+
+        # new_hidden_state = (batch_size x out_hidden_size)
         new_hidden_state = torch.bmm(lstm_output.transpose(1, 2), soft_attn_weights.unsqueeze(2)).squeeze(2)
 
         return new_hidden_state, soft_attn_weights
@@ -285,11 +355,11 @@ class AttentionModel(torch.nn.Module):
         input.to(self.device)
 
         if batch_size is None:
-            h_0 = torch.autograd.Variable(torch.zeros(1, self.batch_size, self.hidden_size, device=self.device))
-            c_0 = torch.autograd.Variable(torch.zeros(1, self.batch_size, self.hidden_size, device=self.device))
+            h_0 = torch.autograd.Variable(torch.zeros(self.num_directions, self.batch_size, self.hidden_size, device=self.device))
+            c_0 = torch.autograd.Variable(torch.zeros(self.num_directions, self.batch_size, self.hidden_size, device=self.device))
         else:
-            h_0 = torch.autograd.Variable(torch.zeros(1, batch_size, self.hidden_size, device=self.device))
-            c_0 = torch.autograd.Variable(torch.zeros(1, batch_size, self.hidden_size, device=self.device))
+            h_0 = torch.autograd.Variable(torch.zeros(self.num_directions, batch_size, self.hidden_size, device=self.device))
+            c_0 = torch.autograd.Variable(torch.zeros(self.num_directions, batch_size, self.hidden_size, device=self.device))
 
         input_packed = nn.utils.rnn.pack_padded_sequence(input, input_lengths, batch_first=True)
         output_packed, (final_hidden_state, final_cell_state) = self.lstm(input_packed, (h_0, c_0))
@@ -304,7 +374,7 @@ class AttentionModel(torch.nn.Module):
 
 def extractImportantSegment(model, dataset):
     result_list = []
-    col_list = ["paper_id", "important_segment", "important_segment_idx", "label", "Fold_Id"]
+    col_list = ["paper_id", "important_segment", "important_segment_idx", "important_section_heading_or_idx", "label", "Fold_Id"]
     for idx in tqdm(range(len(dataset)), desc="Imp Segment Extraction"):
         cur_pid = dataset[idx]["paper_id"]
         cur_fold_id = dataset[idx]["fold_id"]
@@ -312,6 +382,7 @@ def extractImportantSegment(model, dataset):
         cur_inputs_len = dataset[idx]["inputs_len"]
         cur_targets = dataset[idx]["targets"]
         cur_raw_inputs = dataset[idx]["raw_inputs"]
+        cur_raw_sections = dataset[idx]["raw_sections"]
 
         with torch.no_grad():
             inputs_list = cur_inputs
@@ -325,7 +396,8 @@ def extractImportantSegment(model, dataset):
 
         label = cur_targets.cpu().item()
         imp_seg = cur_raw_inputs[imp_seg_idx]
-        result_list.append([cur_pid, imp_seg, imp_seg_idx, label, cur_fold_id])
+        imp_sec = cur_raw_sections[imp_seg_idx]
+        result_list.append([cur_pid, imp_seg, imp_seg_idx, imp_sec, label, cur_fold_id])
 
     result_df = pd.DataFrame(data=result_list, columns=col_list)
     return result_df
@@ -336,6 +408,8 @@ if __name__ == "__main__":
     # Required parameters:
     parser.add_argument("--model_type", type=str, default="M1",
                         help="Model type. M1: Scibert + claim only, M2: Scibert, M3: Longformer")
+    parser.add_argument("--model_path", type=str, default="ta2_class_checkpoint/m2_folds_sentwise_v2/fold_3/best_model.tar",
+                        help="Checkpoint path of the trained model")
     parser.add_argument("--loss_type", type=str, default="classification",
                         help="Loss type. Options: 1. regression and 2. classification")
 
@@ -347,6 +421,8 @@ if __name__ == "__main__":
                         help="Output directory to store the model checkpoints")
 
     # Optional parameters:
+    parser.add_argument("--use_bilstm", action="store_true",
+                        help="Whether to make the lstm bidirectional or not")
     parser.add_argument("--window_size", type=int, default=None,
                         help="Window size to break the paper into segments. Set None to use the default settings based on model type")
     parser.add_argument("--feature_type", type=str, default=None,
@@ -367,15 +443,14 @@ if __name__ == "__main__":
         device = "cpu"
 
     if args.loss_type == "regression":
-        model = AttentionModel(1, 1, 100, 768)
+        model = AttentionModel(1, 1, 100, 768, bidirectional=args.use_bilstm)
     elif args.loss_type == "classification":
-        model = AttentionModel(1, 2, 100, 768)
+        model = AttentionModel(1, 2, 100, 768, bidirectional=args.use_bilstm)
     else:
         raise ValueError("Loss type argument is invalid")
 
     # Load the checkpoint
-    model_path = "ta2_class_checkpoint/m2_folds/fold_1/best_model.tar"
-    checkpoint_state = torch.load(model_path, map_location=device)
+    checkpoint_state = torch.load(args.model_path, map_location=device)
     model.load_state_dict(checkpoint_state["model"])
     model.to(device)
 

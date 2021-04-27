@@ -9,3 +9,5 @@
 /.idea/*
 /.DS_Store
 /.ipynb_checkpoints/*
+
+/lm_classify/trained_models/*

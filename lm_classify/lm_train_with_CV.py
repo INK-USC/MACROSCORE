@@ -180,7 +180,7 @@ class REPRDataset(Dataset):
         final_embs = torch.stack(embeddings)
         return final_embs, len(embeddings)
 
-    def encode_paper_sentence_split(self, content):
+    def encode_paper_sentence_boundary(self, content):
         device = self.device
         embeddings = []
         for cur_section in content:
@@ -214,6 +214,40 @@ class REPRDataset(Dataset):
         final_embs = torch.stack(embeddings)
         return final_embs, len(embeddings)
 
+    def encode_paper_sentence_wise(self, content):
+        device = self.device
+        embeddings = []
+        for cur_section in content:
+            if len(cur_section['text']) == 0:
+                continue
+            split_sentences = nltk.sent_tokenize(cur_section['text'])
+            for sentence in split_sentences:
+                cur_sentence_tokens = sentence.split()
+
+                # if a single sentence is more than window size (cut it down)
+                if len(cur_sentence_tokens) > self.window_size:
+                    cur_sentence_tokens = cur_sentence_tokens[:self.window_size]
+                else:
+                    cur_sentence_tokens = cur_sentence_tokens
+
+                # Filter out sentences with only urls/citations etc.
+                if len(cur_sentence_tokens) >= 7:
+                    cur_sentence = " ".join(cur_sentence_tokens)
+                    input_ids = torch.tensor(self.lm_tokenizer.encode(cur_sentence)).unsqueeze(0)  # Batch size 1
+                    try:
+                        input_ids = input_ids.to(device)
+                        outputs = self.lm_embeddings_model(input_ids)
+                    except Exception as e:
+                        print(e)
+                        continue
+                    cls_embedding = outputs[0][:, 0, :].squeeze().detach().cpu()
+                    del outputs
+                    del input_ids
+                    embeddings.append(cls_embedding)
+
+        final_embs = torch.stack(embeddings)
+        return final_embs, len(embeddings)
+
     def encode_claims(self, claims):
         device = self.device
         embeddings = []
@@ -234,7 +268,7 @@ class REPRDataset(Dataset):
 
     def _create_features(self, cur_input, cur_target, cur_fold, cur_pid):
         if self.feature_type == "content":
-            final_embeddings, doc_len = self.encode_paper_sentence_split(cur_input)
+            final_embeddings, doc_len = self.encode_paper(cur_input)
         elif self.feature_type == "claim_only":
             final_embeddings, doc_len = self.encode_claims(cur_input)
         else:
@@ -247,7 +281,7 @@ class REPRDataset(Dataset):
 
 
 class AttentionModel(torch.nn.Module):
-    def __init__(self, batch_size, output_size, hidden_size, embedding_length):
+    def __init__(self, batch_size, output_size, hidden_size, embedding_length, bidirectional=False):
         super(AttentionModel, self).__init__()
         self.batch_size = batch_size
         self.output_size = output_size
@@ -259,14 +293,28 @@ class AttentionModel(torch.nn.Module):
         else:
             self.device = "cpu"
 
-        self.lstm = nn.LSTM(embedding_length, hidden_size, batch_first=True)
-        self.label = nn.Linear(hidden_size, output_size)
+        if bidirectional:
+            self.num_directions = 2
+            self.out_hidden_size = hidden_size * 2
+        else:
+            self.num_directions = 1
+            self.out_hidden_size = hidden_size
+
+        self.lstm = nn.LSTM(embedding_length, hidden_size, batch_first=True, bidirectional=bidirectional)
+        self.label = nn.Linear(self.out_hidden_size, output_size)
 
     def attention_net(self, lstm_output, final_state):
 
-        hidden = final_state.squeeze(0)
-        attn_weights = torch.bmm(lstm_output, hidden.unsqueeze(2)).squeeze(2)
+        # hidden = (batch_size x out_hidden_size x 1)
+        hidden = final_state.view(-1, self.out_hidden_size, 1)
+
+        # attn_weights = (batch_size x seq_length)
+        attn_weights = torch.bmm(lstm_output, hidden).squeeze(2)
+
+        # soft_attn_weights = (batch_size x seq_length)
         soft_attn_weights = F.softmax(attn_weights, 1)
+
+        # new_hidden_state = (batch_size x out_hidden_size)
         new_hidden_state = torch.bmm(lstm_output.transpose(1, 2), soft_attn_weights.unsqueeze(2)).squeeze(2)
 
         return new_hidden_state, soft_attn_weights
@@ -275,11 +323,11 @@ class AttentionModel(torch.nn.Module):
         input.to(self.device)
 
         if batch_size is None:
-            h_0 = torch.autograd.Variable(torch.zeros(1, self.batch_size, self.hidden_size, device=self.device))
-            c_0 = torch.autograd.Variable(torch.zeros(1, self.batch_size, self.hidden_size, device=self.device))
+            h_0 = torch.autograd.Variable(torch.zeros(self.num_directions, self.batch_size, self.hidden_size, device=self.device))
+            c_0 = torch.autograd.Variable(torch.zeros(self.num_directions, self.batch_size, self.hidden_size, device=self.device))
         else:
-            h_0 = torch.autograd.Variable(torch.zeros(1, batch_size, self.hidden_size, device=self.device))
-            c_0 = torch.autograd.Variable(torch.zeros(1, batch_size, self.hidden_size, device=self.device))
+            h_0 = torch.autograd.Variable(torch.zeros(self.num_directions, batch_size, self.hidden_size, device=self.device))
+            c_0 = torch.autograd.Variable(torch.zeros(self.num_directions, batch_size, self.hidden_size, device=self.device))
 
         input_packed = nn.utils.rnn.pack_padded_sequence(input, input_lengths, batch_first=True)
         output_packed, (final_hidden_state, final_cell_state) = self.lstm(input_packed, (h_0, c_0))
@@ -533,6 +581,8 @@ if __name__ == "__main__":
                         help="Train Batch Size")
     parser.add_argument("--eval_batch_size", type=int, default=1,
                         help="Eval Batch Size")
+    parser.add_argument("--use_bilstm", action="store_true",
+                        help="Whether to make the lstm bidirectional or not")
     parser.add_argument("--window_size", type=int, default=None,
                         help="Window size to break the paper into segments. Set None to use the default settings based on model type")
     parser.add_argument("--feature_type", type=str, default=None,
@@ -562,9 +612,9 @@ if __name__ == "__main__":
         val_dataloader = None
 
         if args.loss_type == "regression":
-            model = AttentionModel(args.train_batch_size, 1, 100, 768)
+            model = AttentionModel(args.train_batch_size, 1, 100, 768, bidirectional=args.use_bilstm)
         elif args.loss_type == "classification":
-            model = AttentionModel(args.train_batch_size, 2, 100, 768)
+            model = AttentionModel(args.train_batch_size, 2, 100, 768, bidirectional=args.use_bilstm)
         else:
             raise ValueError("Loss type argument is invalid")
 
@@ -600,9 +650,9 @@ if __name__ == "__main__":
             val_dataloader = DataLoader(val_dataset, batch_size=args.eval_batch_size, shuffle=False, collate_fn=collate_with_padding)
 
             if args.loss_type == "regression":
-                model = AttentionModel(args.train_batch_size, 1, 100, 768)
+                model = AttentionModel(args.train_batch_size, 1, 100, 768, bidirectional=args.use_bilstm)
             elif args.loss_type == "classification":
-                model = AttentionModel(args.train_batch_size, 2, 100, 768)
+                model = AttentionModel(args.train_batch_size, 2, 100, 768, bidirectional=args.use_bilstm)
             else:
                 raise ValueError("Loss type argument is invalid")
 
