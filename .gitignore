@@ -35,3 +35,4 @@
 /score_utils/s2orc-doc2json/inputs/*
 /score_utils/s2orc-doc2json/temp_outputs/*
 /score_utils/s2orc-doc2json/outputs/*
+score_utils/notebooks/.ipynb_checkpoints/*

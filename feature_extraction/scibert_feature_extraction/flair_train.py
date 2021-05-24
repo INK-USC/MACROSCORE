@@ -4,7 +4,7 @@ from transformers import BertTokenizer, BertModel
 import os
 
 from flair.datasets import ColumnCorpus
-from flair.embeddings import TransformerWordEmbeddings
+from flair.embeddings import TransformerWordEmbeddings, WordEmbeddings
 from flair.models import SequenceTagger
 from flair.trainers import ModelTrainer
 from flair.visual.training_curves import Plotter
@@ -26,11 +26,9 @@ if __name__ == '__main__':
 
 
     flair.device = torch.device(args.gpu_device)
-    tokenizer = BertTokenizer.from_pretrained(args.bert_model_name, do_lower_case=True)
-    bertmodel = BertModel.from_pretrained(args.bert_model_name)
     
     corpus = ColumnCorpus(data_folder=args.data_dir, column_format={0: "text", 1: "ner"},
-                          train_file='trainplustest.txt', dev_file='test_new.txt', test_file='test_new.txt')
+                          train_file='train.txt', dev_file='test.txt', test_file='test.txt')
 
     print(len(corpus.train), len(corpus.dev), len(corpus.test))
 
@@ -58,6 +56,7 @@ if __name__ == '__main__':
     tag_type = 'ner'
     tag_dictionary = corpus.make_tag_dictionary(tag_type=tag_type)
     scibert_embedding = TransformerWordEmbeddings(args.bert_model_name)
+    # scibert_embedding = WordEmbeddings("glove")
 
 
     # Create the sequence tagger model:
@@ -69,8 +68,11 @@ if __name__ == '__main__':
 
     # Initialize the trainer and start the training:
     trainer: ModelTrainer = ModelTrainer(tagger, corpus)
-    output_path = os.path.join(args.output_dir, "scibert_ner_model")
-    trainer.train(output_path,
+
+    if not os.path.exists(args.output_dir):
+        os.makedirs(args.output_dir)
+
+    trainer.train(args.output_dir,
                   learning_rate=args.learning_rate,
                   mini_batch_size=args.batch_size,
                   max_epochs=args.num_epochs)
