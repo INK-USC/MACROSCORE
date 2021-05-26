@@ -1,6 +1,13 @@
 # Train the BERT NER model
 CUDA_VISIBLE_DEVICES=7 python3 run_NER_classifier.py
-CUDA_VISIBLE_DEVICES=1 python3 run_NER_classifier.py
+
+CUDA_VISIBLE_DEVICES=1 python3 run_NER_classifier.py  --data_dir ../data/ner_dataset \
+                                                      --output_dir ../models/repr_bert_ner_seq \
+                                                      --model_name_or_path allenai/scibert_scivocab_uncased \
+                                                      --tokenizer_name_or_path allenai/scibert_scivocab_uncased \
+                                                      --num_epochs 5 \
+                                                      --train_batch_size 32 \
+                                                      --eval_batch_size 32
 
 # SOC for NER SEQ
 export algo=soc

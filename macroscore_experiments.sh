@@ -140,6 +140,11 @@ CUDA_VISIBLE_DEVICES=5 python3 flair_predict_v2.py --checkpoint_path flair_model
 CUDA_VISIBLE_DEVICES=1 python3 lm_train_with_folds.py --model_type M1 --loss_type regression --output_dir temp --data_type TA2 --data_dir ../data_processed/ta2_folds/sample_fold_v2 --num_epochs 5 --cv_folds -1
 CUDA_VISIBLE_DEVICES=1 python3 lm_train_with_folds.py --model_type M1 --loss_type classification --output_dir temp --data_type TA2 --data_dir ../data_processed/ta2_folds/sample_fold_v2 --num_epochs 5 --train_batch_size 4 --eval_bath_size 4 --cv_folds 2
 
+python3 flair_predict.py --checkpoint_path flair_models/scibert_ner_model/best-model.pt \
+                         --data_type TA1 \
+                         --raw_data_path ../../data_processed/others/raw_all.txt \
+                         --output_path prediction_out.json \
+                         --gpu_device cuda:0
 
 
 
