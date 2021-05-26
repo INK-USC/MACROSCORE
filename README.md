@@ -23,11 +23,33 @@ prediction task for MACROSCORE. Refer to the [lm_classify/README.md](lm_classify
 task and Feature Extraction task. Modified from [https://github.com/INK-USC/hierarchical-explanation-neural-sequence-models] (https://github.com/INK-USC/hierarchical-explanation-neural-sequence-models).
 Refer to the [phrase_level_extraction/README.md](phrase_level_extraction/README.md) for further details.
 
-`\score_utils` = Contains code utilities to perform certain specific experiments and tasks.
+`\score_utils` = Contains code utilities to perform certain specific experiments and tasks. It has the following 
+file structure,
+
+```
+score_utils
+    ├── notebooks
+            ├── Claim-match Experiements.ipynb, 
+                Claim-match Experiements - Coordinates Based.ipynb                      (Experiments about the claim matching task using text and coordinates)
+            ├── Cutpoint Identification.ipynb                                           (Cutpoint threshold identification of various features for the TA2 dataset)
+            ├── Feature Extractions Stats.ipynb                                         (Statistics about the feature extraction results for TA2 dataset)
+            ├── Important Phrase_Section Analysis for TA2 overall paper content.ipynb, 
+                Post-hoc Analysis on phrase-level extractions.ipynb                     (Statistics/Analysis about the important phrase extraction results for reproducibility classification task)
+            └── Phrase Extractions Analysis for NER task.ipynb                          (Statistics/Analysis about the important phrase extractions results for Feature extraction task)
+    
+    ├── createDataFolds.py,
+        createSOCData.py                (Create the data folds for running the k-fold cross validation based model training, used for reproducibility classification task in SOC)
+    ├── createNERTCdata.py              (Convert the BIO formated NER dataset into text classification based NER dataset which is used by SOC)
+    ├── createTriggerNERData.py         (Create the TriggerNER format dataset based on automatic trigger extractions results)
+    ├── getParseTrees.py,  
+        getParseTreesNERTC.py           (Utilities related to creating parse trees for a input sentence, used for AutoTrigger)
+    ├── matchClaims.py                  (Perform claim matching using the text for the entire TA2 dataset and compute the performance)
+    ├── prepareBERTLMFinetuningData.py  (Create the domain-specific fine-tuning corpus from the reproduciblity classificaiton task dataset, used for LM training in SOC)
+    └── tree_parsing_ref.py             (Utilities related to working with parse trees for a input sentence, used for AutoTrigger)
+```
 
 `\tagtog_annotations` = Contains code utilities to transform the manually annotated NER html pages downloaded from
-TagTog and convert to BIO-encoded NER data. 
-
+TagTog and convert to BIO-encoded NER data. For more details about using this folder, refer to the [REAMDE_From_dongho.md](README_from_dongho.md).
 
 
 # 2. Folders available on Google drive:
